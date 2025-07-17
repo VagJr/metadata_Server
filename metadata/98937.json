@@ -1,0 +1,112 @@
+{
+  "object": "card",
+  "id": "e9c6c520-fbaa-423a-ad7a-aacc46d6d2ce",
+  "oracle_id": "d8239a86-7184-4005-ba1e-2dddcd756c47",
+  "multiverse_ids": [],
+  "arena_id": 71593,
+  "name": "Snow-Covered Swamp",
+  "lang": "en",
+  "released_at": "2021-08-10",
+  "uri": "https://api.scryfall.com/cards/e9c6c520-fbaa-423a-ad7a-aacc46d6d2ce",
+  "scryfall_uri": "https://scryfall.com/card/pana/259/snow-covered-swamp?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/9/e9c6c520-fbaa-423a-ad7a-aacc46d6d2ce.jpg?1631672077",
+    "normal": "https://cards.scryfall.io/normal/front/e/9/e9c6c520-fbaa-423a-ad7a-aacc46d6d2ce.jpg?1631672077",
+    "large": "https://cards.scryfall.io/large/front/e/9/e9c6c520-fbaa-423a-ad7a-aacc46d6d2ce.jpg?1631672077",
+    "png": "https://cards.scryfall.io/png/front/e/9/e9c6c520-fbaa-423a-ad7a-aacc46d6d2ce.png?1631672077",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/9/e9c6c520-fbaa-423a-ad7a-aacc46d6d2ce.jpg?1631672077",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/9/e9c6c520-fbaa-423a-ad7a-aacc46d6d2ce.jpg?1631672077"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Basic Snow Land — Swamp",
+  "oracle_text": "({T}: Add {B}.)",
+  "colors": [],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8ff0b4b8-2b1b-4283-a35c-6edd5bbcf373",
+  "set": "pana",
+  "set_name": "MTG Arena Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/8ff0b4b8-2b1b-4283-a35c-6edd5bbcf373",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apana&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pana?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e9c6c520-fbaa-423a-ad7a-aacc46d6d2ce/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad8239a86-7184-4005-ba1e-2dddcd756c47&unique=prints",
+  "collector_number": "259",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Titus Lunter",
+  "artist_ids": [
+    "b11e6b3a-f4ca-4cf1-8fd7-475696de5f5c"
+  ],
+  "illustration_id": "cb2e1e3c-29e5-420f-9819-3d6bfbacc342",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "fullart"
+  ],
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSnow-Covered%2BSwamp",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSnow-Covered%2BSwamp",
+    "edhrec": "https://edhrec.com/route/?cc=Snow-Covered+Swamp"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "object": "card",
+  "id": "cdbd2541-71a3-4945-8a9d-db9e59c86784",
+  "oracle_id": "91e71279-c9d2-4873-916a-59da03a65741",
+  "multiverse_ids": [],
+  "tcgplayer_id": 513230,
+  "name": "Giant Killer // Chop Down",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/cdbd2541-71a3-4945-8a9d-db9e59c86784",
+  "scryfall_uri": "https://scryfall.com/card/plst/ELD-14/giant-killer-chop-down?utm_source=api",
+  "layout": "adventure",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/d/cdbd2541-71a3-4945-8a9d-db9e59c86784.jpg?1693275299",
+    "normal": "https://cards.scryfall.io/normal/front/c/d/cdbd2541-71a3-4945-8a9d-db9e59c86784.jpg?1693275299",
+    "large": "https://cards.scryfall.io/large/front/c/d/cdbd2541-71a3-4945-8a9d-db9e59c86784.jpg?1693275299",
+    "png": "https://cards.scryfall.io/png/front/c/d/cdbd2541-71a3-4945-8a9d-db9e59c86784.png?1693275299",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/d/cdbd2541-71a3-4945-8a9d-db9e59c86784.jpg?1693275299",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/d/cdbd2541-71a3-4945-8a9d-db9e59c86784.jpg?1693275299"
+  },
+  "mana_cost": "{W} // {2}{W}",
+  "cmc": 1,
+  "type_line": "Creature — Human Peasant // Instant — Adventure",
+  "power": "1",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Giant Killer",
+      "mana_cost": "{W}",
+      "type_line": "Creature — Human Peasant",
+      "oracle_text": "{1}{W}, {T}: Tap target creature.",
+      "power": "1",
+      "toughness": "2",
+      "flavor_text": "\"What size advantage? They never even see me coming.\"",
+      "artist": "Jesper Ejsing",
+      "artist_id": "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d",
+      "illustration_id": "4f255291-7e3c-4f3a-8c08-51b72e576696"
+    },
+    {
+      "object": "card_face",
+      "name": "Chop Down",
+      "mana_cost": "{2}{W}",
+      "type_line": "Instant — Adventure",
+      "oracle_text": "Destroy target creature with power 4 or greater. (Then exile this card. You may cast the creature later from exile.)",
+      "artist": "Jesper Ejsing",
+      "artist_id": "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "fcf4c7fb-7859-4c11-8552-6817f5119d2e",
+      "component": "combo_piece",
+      "name": "On an Adventure",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/fcf4c7fb-7859-4c11-8552-6817f5119d2e"
+    },
+    {
+      "object": "related_card",
+      "id": "cdbd2541-71a3-4945-8a9d-db9e59c86784",
+      "component": "combo_piece",
+      "name": "Giant Killer // Chop Down",
+      "type_line": "Creature — Human Peasant // Instant — Adventure",
+      "uri": "https://api.scryfall.com/cards/cdbd2541-71a3-4945-8a9d-db9e59c86784"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/cdbd2541-71a3-4945-8a9d-db9e59c86784/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A91e71279-c9d2-4873-916a-59da03a65741&unique=prints",
+  "collector_number": "ELD-14",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"What size advantage? They never even see me coming.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jesper Ejsing",
+  "artist_ids": [
+    "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+  ],
+  "illustration_id": "4f255291-7e3c-4f3a-8c08-51b72e576696",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 5283,
+  "penny_rank": 1704,
+  "prices": {
+    "usd": "1.47",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGiant%2BKiller%2B%252F%252F%2BChop%2BDown",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGiant%2BKiller%2B%252F%252F%2BChop%2BDown",
+    "edhrec": "https://edhrec.com/route/?cc=Giant+Killer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F513230%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Giant+Killer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Giant+Killer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

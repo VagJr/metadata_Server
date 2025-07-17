@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "b46f1b5a-da71-4723-afc6-4ab2a569311b",
+  "oracle_id": "ea4a9299-c2b3-4092-89dd-28142b203d60",
+  "multiverse_ids": [],
+  "mtgo_id": 103660,
+  "mtgo_foil_id": 103661,
+  "tcgplayer_id": 456760,
+  "cardmarket_id": 688936,
+  "name": "White Sun's Zenith",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/b46f1b5a-da71-4723-afc6-4ab2a569311b",
+  "scryfall_uri": "https://scryfall.com/card/scd/41/white-suns-zenith?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/4/b46f1b5a-da71-4723-afc6-4ab2a569311b.jpg?1674674343",
+    "normal": "https://cards.scryfall.io/normal/front/b/4/b46f1b5a-da71-4723-afc6-4ab2a569311b.jpg?1674674343",
+    "large": "https://cards.scryfall.io/large/front/b/4/b46f1b5a-da71-4723-afc6-4ab2a569311b.jpg?1674674343",
+    "png": "https://cards.scryfall.io/png/front/b/4/b46f1b5a-da71-4723-afc6-4ab2a569311b.png?1674674343",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/4/b46f1b5a-da71-4723-afc6-4ab2a569311b.jpg?1674674343",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/4/b46f1b5a-da71-4723-afc6-4ab2a569311b.jpg?1674674343"
+  },
+  "mana_cost": "{X}{W}{W}{W}",
+  "cmc": 3,
+  "type_line": "Instant",
+  "oracle_text": "Create X 2/2 white Cat creature tokens. Shuffle White Sun's Zenith into its owner's library.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "dadc7cd3-ab95-4f7d-923d-900abddbe8d4",
+      "component": "token",
+      "name": "Cat",
+      "type_line": "Token Creature — Cat",
+      "uri": "https://api.scryfall.com/cards/dadc7cd3-ab95-4f7d-923d-900abddbe8d4"
+    },
+    {
+      "object": "related_card",
+      "id": "b46f1b5a-da71-4723-afc6-4ab2a569311b",
+      "component": "combo_piece",
+      "name": "White Sun's Zenith",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/b46f1b5a-da71-4723-afc6-4ab2a569311b"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set": "scd",
+  "set_name": "Starter Commander Decks",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ascd&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/scd?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b46f1b5a-da71-4723-afc6-4ab2a569311b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aea4a9299-c2b3-4092-89dd-28142b203d60&unique=prints",
+  "collector_number": "41",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "After the Battle of Liet Field, the white sun crested above Taj-Nar, bringing hope to all who survived the carnage.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mike Bierek",
+  "artist_ids": [
+    "e5f52ef5-1a2e-4128-90b0-ccc71cd47ea7"
+  ],
+  "illustration_id": "d5f7f9ed-6b2e-4049-846a-ac5b40f28ba2",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2746,
+  "penny_rank": 1898,
+  "prices": {
+    "usd": "0.26",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.20",
+    "eur_foil": null,
+    "tix": "0.19"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWhite%2BSun%2527s%2BZenith",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWhite%2BSun%2527s%2BZenith",
+    "edhrec": "https://edhrec.com/route/?cc=White+Sun%27s+Zenith"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F456760%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=688936&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/103660?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

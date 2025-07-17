@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "1cae7f01-6fa1-49fe-b4b7-1c0be751cc97",
+  "oracle_id": "dfd12e3c-2b2a-4461-a08d-09d4e6c4626e",
+  "multiverse_ids": [],
+  "tcgplayer_id": 501323,
+  "name": "Gandalf the Grey",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/1cae7f01-6fa1-49fe-b4b7-1c0be751cc97",
+  "scryfall_uri": "https://scryfall.com/card/pltr/207s/gandalf-the-grey?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/c/1cae7f01-6fa1-49fe-b4b7-1c0be751cc97.jpg?1687887584",
+    "normal": "https://cards.scryfall.io/normal/front/1/c/1cae7f01-6fa1-49fe-b4b7-1c0be751cc97.jpg?1687887584",
+    "large": "https://cards.scryfall.io/large/front/1/c/1cae7f01-6fa1-49fe-b4b7-1c0be751cc97.jpg?1687887584",
+    "png": "https://cards.scryfall.io/png/front/1/c/1cae7f01-6fa1-49fe-b4b7-1c0be751cc97.png?1687887584",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/c/1cae7f01-6fa1-49fe-b4b7-1c0be751cc97.jpg?1687887584",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/c/1cae7f01-6fa1-49fe-b4b7-1c0be751cc97.jpg?1687887584"
+  },
+  "mana_cost": "{3}{U}{R}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Avatar Wizard",
+  "oracle_text": "Whenever you cast an instant or sorcery spell, choose one that hasn't been chosen —\n• You may tap or untap target permanent.\n• Gandalf deals 3 damage to each opponent.\n• Copy target instant or sorcery spell you control. You may choose new targets for the copy.\n• Put Gandalf on top of its owner's library.",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "1012754e-18e5-4a76-b9a3-24c55eaab1c5",
+  "set": "pltr",
+  "set_name": "Tales of Middle-earth Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/1012754e-18e5-4a76-b9a3-24c55eaab1c5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apltr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pltr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1cae7f01-6fa1-49fe-b4b7-1c0be751cc97/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adfd12e3c-2b2a-4461-a08d-09d4e6c4626e&unique=prints",
+  "collector_number": "207s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Aaron Miller",
+  "artist_ids": [
+    "fc021f3d-773a-4706-bbe7-f602324f511f"
+  ],
+  "illustration_id": "f036ee93-6293-4f87-bd73-42eda843b95e",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 6823,
+  "penny_rank": 15915,
+  "prices": {
+    "usd": null,
+    "usd_foil": "6.39",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGandalf%2Bthe%2BGrey",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGandalf%2Bthe%2BGrey",
+    "edhrec": "https://edhrec.com/route/?cc=Gandalf+the+Grey"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F501323%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gandalf+the+Grey&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Gandalf+the+Grey&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "2ce828dc-3ca4-4f38-8c35-b5a9f05b4891",
+  "oracle_id": "c7a8daff-9913-4970-8765-52ba9d9d01db",
+  "multiverse_ids": [
+    539344
+  ],
+  "mtgo_id": 93582,
+  "tcgplayer_id": 248589,
+  "cardmarket_id": 575363,
+  "name": "Custodi Soulbinders",
+  "lang": "en",
+  "released_at": "2021-09-24",
+  "uri": "https://api.scryfall.com/cards/2ce828dc-3ca4-4f38-8c35-b5a9f05b4891",
+  "scryfall_uri": "https://scryfall.com/card/mic/83/custodi-soulbinders?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/c/2ce828dc-3ca4-4f38-8c35-b5a9f05b4891.jpg?1637629105",
+    "normal": "https://cards.scryfall.io/normal/front/2/c/2ce828dc-3ca4-4f38-8c35-b5a9f05b4891.jpg?1637629105",
+    "large": "https://cards.scryfall.io/large/front/2/c/2ce828dc-3ca4-4f38-8c35-b5a9f05b4891.jpg?1637629105",
+    "png": "https://cards.scryfall.io/png/front/2/c/2ce828dc-3ca4-4f38-8c35-b5a9f05b4891.png?1637629105",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/c/2ce828dc-3ca4-4f38-8c35-b5a9f05b4891.jpg?1637629105",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/c/2ce828dc-3ca4-4f38-8c35-b5a9f05b4891.jpg?1637629105"
+  },
+  "mana_cost": "{3}{W}",
+  "cmc": 4,
+  "type_line": "Creature — Human Cleric",
+  "oracle_text": "This creature enters with X +1/+1 counters on it, where X is the number of other creatures on the battlefield.\n{2}{W}, Remove a +1/+1 counter from this creature: Create a 1/1 white Spirit creature token with flying.",
+  "power": "0",
+  "toughness": "0",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "2ce828dc-3ca4-4f38-8c35-b5a9f05b4891",
+      "component": "combo_piece",
+      "name": "Custodi Soulbinders",
+      "type_line": "Creature — Human Cleric",
+      "uri": "https://api.scryfall.com/cards/2ce828dc-3ca4-4f38-8c35-b5a9f05b4891"
+    },
+    {
+      "object": "related_card",
+      "id": "c865bc02-0562-408c-b18e-0e66da906fc6",
+      "component": "token",
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/c865bc02-0562-408c-b18e-0e66da906fc6"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7f9a4deb-715e-47d2-afac-3843ef92f39b",
+  "set": "mic",
+  "set_name": "Midnight Hunt Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/7f9a4deb-715e-47d2-afac-3843ef92f39b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amic&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mic?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2ce828dc-3ca4-4f38-8c35-b5a9f05b4891/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac7a8daff-9913-4970-8765-52ba9d9d01db&unique=prints",
+  "collector_number": "83",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Karla Ortiz",
+  "artist_ids": [
+    "286a7773-06e5-465c-8a2a-76dfcb4ad110"
+  ],
+  "illustration_id": "9fc3d9c4-d267-4a2d-96f9-13a8613507fb",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 10942,
+  "penny_rank": 10274,
+  "prices": {
+    "usd": "0.12",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.09",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=539344&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCustodi%2BSoulbinders",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCustodi%2BSoulbinders",
+    "edhrec": "https://edhrec.com/route/?cc=Custodi+Soulbinders"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F248589%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=575363&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/93582?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

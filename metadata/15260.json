@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "23dd6cb6-31ee-467e-9f67-39046197bcb6",
+  "oracle_id": "c97361b5-af16-4a7b-af85-a429dbaf4ad2",
+  "multiverse_ids": [
+    621392
+  ],
+  "mtgo_id": 112478,
+  "tcgplayer_id": 498351,
+  "cardmarket_id": 716207,
+  "name": "Mind Stone",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/23dd6cb6-31ee-467e-9f67-39046197bcb6",
+  "scryfall_uri": "https://scryfall.com/card/ltc/282/mind-stone?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/3/23dd6cb6-31ee-467e-9f67-39046197bcb6.jpg?1686966388",
+    "normal": "https://cards.scryfall.io/normal/front/2/3/23dd6cb6-31ee-467e-9f67-39046197bcb6.jpg?1686966388",
+    "large": "https://cards.scryfall.io/large/front/2/3/23dd6cb6-31ee-467e-9f67-39046197bcb6.jpg?1686966388",
+    "png": "https://cards.scryfall.io/png/front/2/3/23dd6cb6-31ee-467e-9f67-39046197bcb6.png?1686966388",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/3/23dd6cb6-31ee-467e-9f67-39046197bcb6.jpg?1686966388",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/3/23dd6cb6-31ee-467e-9f67-39046197bcb6.jpg?1686966388"
+  },
+  "mana_cost": "{2}",
+  "cmc": 2,
+  "type_line": "Artifact",
+  "oracle_text": "{T}: Add {C}.\n{1}, {T}, Sacrifice this artifact: Draw a card.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set": "ltc",
+  "set_name": "Tales of Middle-earth Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/23dd6cb6-31ee-467e-9f67-39046197bcb6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac97361b5-af16-4a7b-af85-a429dbaf4ad2&unique=prints",
+  "collector_number": "282",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "The years had gnawed at it, and violent hands had maimed it. Its head was gone, and in its place was set in mockery a round rough-hewn stone, rudely painted in the likeness of a grinning face with one large eye in the midst of its forehead.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Maxim Kostin",
+  "artist_ids": [
+    "7bc0675b-0960-44b6-a746-bdd2113e3ffb"
+  ],
+  "illustration_id": "2d056965-0d77-45ef-a7a3-3fe22bd89718",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 26,
+  "prices": {
+    "usd": "0.22",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.19",
+    "eur_foil": null,
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=621392&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMind%2BStone",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMind%2BStone",
+    "edhrec": "https://edhrec.com/route/?cc=Mind+Stone"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F498351%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=716207&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/112478?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

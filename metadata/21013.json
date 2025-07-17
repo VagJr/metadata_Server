@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "3181e5a8-7805-431a-8ee0-b825e89ba2b0",
+  "oracle_id": "34c8fffd-1b23-4f40-ad29-1f0acb519e7e",
+  "multiverse_ids": [],
+  "mtgo_id": 95271,
+  "name": "Cemetery Protector",
+  "lang": "en",
+  "released_at": "2025-02-20",
+  "uri": "https://api.scryfall.com/cards/3181e5a8-7805-431a-8ee0-b825e89ba2b0",
+  "scryfall_uri": "https://scryfall.com/card/prm/95271/cemetery-protector?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/1/3181e5a8-7805-431a-8ee0-b825e89ba2b0.jpg?1681083840",
+    "normal": "https://cards.scryfall.io/normal/front/3/1/3181e5a8-7805-431a-8ee0-b825e89ba2b0.jpg?1681083840",
+    "large": "https://cards.scryfall.io/large/front/3/1/3181e5a8-7805-431a-8ee0-b825e89ba2b0.jpg?1681083840",
+    "png": "https://cards.scryfall.io/png/front/3/1/3181e5a8-7805-431a-8ee0-b825e89ba2b0.png?1681083840",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/1/3181e5a8-7805-431a-8ee0-b825e89ba2b0.jpg?1681083840",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/1/3181e5a8-7805-431a-8ee0-b825e89ba2b0.jpg?1681083840"
+  },
+  "mana_cost": "{2}{W}{W}",
+  "cmc": 4,
+  "type_line": "Creature — Human Soldier",
+  "oracle_text": "Flash\nWhen this creature enters, exile a card from a graveyard.\nWhenever you play a land or cast a spell, if it shares a card type with the exiled card, create a 1/1 white Human creature token.",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flash"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "5054bb15-ddd5-4e5e-a9fd-6bdf255f7fd3",
+      "component": "token",
+      "name": "Human",
+      "type_line": "Token Creature — Human",
+      "uri": "https://api.scryfall.com/cards/5054bb15-ddd5-4e5e-a9fd-6bdf255f7fd3"
+    },
+    {
+      "object": "related_card",
+      "id": "3181e5a8-7805-431a-8ee0-b825e89ba2b0",
+      "component": "combo_piece",
+      "name": "Cemetery Protector",
+      "type_line": "Creature — Human Soldier",
+      "uri": "https://api.scryfall.com/cards/3181e5a8-7805-431a-8ee0-b825e89ba2b0"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3181e5a8-7805-431a-8ee0-b825e89ba2b0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A34c8fffd-1b23-4f40-ad29-1f0acb519e7e&unique=prints",
+  "collector_number": "95271",
+  "digital": true,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rallis",
+  "artist_ids": [
+    "a8e7b854-b15a-421a-b66d-6e68187ae285"
+  ],
+  "illustration_id": "f0e6821e-95f2-4df3-8e41-e6a2fb05bc3c",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 7750,
+  "penny_rank": 10721,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.32"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCemetery%2BProtector",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCemetery%2BProtector",
+    "edhrec": "https://edhrec.com/route/?cc=Cemetery+Protector"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DCemetery%2BProtector%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cemetery+Protector&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/95271?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

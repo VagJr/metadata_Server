@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "0ffec5f8-c06b-485b-9cc7-76a298994066",
+  "oracle_id": "d185c829-ef12-403a-a071-7520a0293d4a",
+  "multiverse_ids": [
+    582656
+  ],
+  "tcgplayer_id": 448601,
+  "name": "Demonic Embrace",
+  "lang": "en",
+  "released_at": "2022-10-14",
+  "uri": "https://api.scryfall.com/cards/0ffec5f8-c06b-485b-9cc7-76a298994066",
+  "scryfall_uri": "https://scryfall.com/card/gn3/46/demonic-embrace?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/f/0ffec5f8-c06b-485b-9cc7-76a298994066.jpg?1673301619",
+    "normal": "https://cards.scryfall.io/normal/front/0/f/0ffec5f8-c06b-485b-9cc7-76a298994066.jpg?1673301619",
+    "large": "https://cards.scryfall.io/large/front/0/f/0ffec5f8-c06b-485b-9cc7-76a298994066.jpg?1673301619",
+    "png": "https://cards.scryfall.io/png/front/0/f/0ffec5f8-c06b-485b-9cc7-76a298994066.png?1673301619",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/f/0ffec5f8-c06b-485b-9cc7-76a298994066.jpg?1673301619",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/f/0ffec5f8-c06b-485b-9cc7-76a298994066.jpg?1673301619"
+  },
+  "mana_cost": "{1}{B}{B}",
+  "cmc": 3,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant creature\nEnchanted creature gets +3/+1, has flying, and is a Demon in addition to its other types.\nYou may cast this card from your graveyard by paying 3 life and discarding a card in addition to paying its other costs.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "fe88ea3a-0e2c-44b9-9210-35bfdec1e288",
+  "set": "gn3",
+  "set_name": "Game Night: Free-for-All",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/fe88ea3a-0e2c-44b9-9210-35bfdec1e288",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Agn3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/gn3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0ffec5f8-c06b-485b-9cc7-76a298994066/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad185c829-ef12-403a-a071-7520a0293d4a&unique=prints",
+  "collector_number": "46",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Sidharth Chaturvedi",
+  "artist_ids": [
+    "55e6d846-2f73-4fba-9b88-441686bb8dcb"
+  ],
+  "illustration_id": "789be4a3-aeca-4727-b6bb-45d159a0a624",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 6539,
+  "penny_rank": 4359,
+  "prices": {
+    "usd": "0.28",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=582656&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDemonic%2BEmbrace",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDemonic%2BEmbrace",
+    "edhrec": "https://edhrec.com/route/?cc=Demonic+Embrace"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F448601%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Demonic+Embrace&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Demonic+Embrace&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

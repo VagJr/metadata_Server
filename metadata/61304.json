@@ -1,0 +1,163 @@
+{
+  "object": "card",
+  "id": "90df87c1-59df-4244-8653-15e7f13cdacc",
+  "oracle_id": "403b59f3-7ade-4bc2-a3e6-de0c3c700f18",
+  "multiverse_ids": [
+    495651,
+    495652
+  ],
+  "tcgplayer_id": 222082,
+  "cardmarket_id": 496190,
+  "name": "Turntimber Symbiosis // Turntimber, Serpentine Wood",
+  "lang": "en",
+  "released_at": "2020-09-25",
+  "uri": "https://api.scryfall.com/cards/90df87c1-59df-4244-8653-15e7f13cdacc",
+  "scryfall_uri": "https://scryfall.com/card/znr/364/turntimber-symbiosis-turntimber-serpentine-wood?utm_source=api",
+  "layout": "modal_dfc",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 7,
+  "type_line": "Sorcery // Land",
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "G"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Turntimber Symbiosis",
+      "mana_cost": "{4}{G}{G}{G}",
+      "type_line": "Sorcery",
+      "oracle_text": "Look at the top seven cards of your library. You may put a creature card from among them onto the battlefield. If that card has mana value 3 or less, it enters with three additional +1/+1 counters on it. Put the rest on the bottom of your library in a random order.",
+      "colors": [
+        "G"
+      ],
+      "artist": "Randy Vargas",
+      "artist_id": "d20672ca-0555-4238-a984-fd171d36b247",
+      "illustration_id": "2b4fd2de-4502-4d63-9996-06e0fda9b0c0",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/9/0/90df87c1-59df-4244-8653-15e7f13cdacc.jpg?1608953987",
+        "normal": "https://cards.scryfall.io/normal/front/9/0/90df87c1-59df-4244-8653-15e7f13cdacc.jpg?1608953987",
+        "large": "https://cards.scryfall.io/large/front/9/0/90df87c1-59df-4244-8653-15e7f13cdacc.jpg?1608953987",
+        "png": "https://cards.scryfall.io/png/front/9/0/90df87c1-59df-4244-8653-15e7f13cdacc.png?1608953987",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/9/0/90df87c1-59df-4244-8653-15e7f13cdacc.jpg?1608953987",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/9/0/90df87c1-59df-4244-8653-15e7f13cdacc.jpg?1608953987"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Turntimber, Serpentine Wood",
+      "mana_cost": "",
+      "type_line": "Land",
+      "oracle_text": "As this land enters, you may pay 3 life. If you don't, it enters tapped.\n{T}: Add {G}.",
+      "colors": [],
+      "artist": "Randy Vargas",
+      "artist_id": "d20672ca-0555-4238-a984-fd171d36b247",
+      "illustration_id": "61c02372-41d3-4666-a520-de415913fa9d",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/9/0/90df87c1-59df-4244-8653-15e7f13cdacc.jpg?1608953987",
+        "normal": "https://cards.scryfall.io/normal/back/9/0/90df87c1-59df-4244-8653-15e7f13cdacc.jpg?1608953987",
+        "large": "https://cards.scryfall.io/large/back/9/0/90df87c1-59df-4244-8653-15e7f13cdacc.jpg?1608953987",
+        "png": "https://cards.scryfall.io/png/back/9/0/90df87c1-59df-4244-8653-15e7f13cdacc.png?1608953987",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/9/0/90df87c1-59df-4244-8653-15e7f13cdacc.jpg?1608953987",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/9/0/90df87c1-59df-4244-8653-15e7f13cdacc.jpg?1608953987"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "f4e01fa7-b254-42dd-849f-69b58027a8c4",
+  "set": "znr",
+  "set_name": "Zendikar Rising",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/f4e01fa7-b254-42dd-849f-69b58027a8c4",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aznr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/znr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/90df87c1-59df-4244-8653-15e7f13cdacc/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A403b59f3-7ade-4bc2-a3e6-de0c3c700f18&unique=prints",
+  "collector_number": "364",
+  "digital": false,
+  "rarity": "mythic",
+  "artist": "Randy Vargas",
+  "artist_ids": [
+    "d20672ca-0555-4238-a984-fd171d36b247"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 1984,
+  "preview": {
+    "source": "Deejay Knight",
+    "source_uri": "https://twitter.com/DeejayKnight/status/1302493996250529793",
+    "previewed_at": "2020-09-06"
+  },
+  "prices": {
+    "usd": "3.82",
+    "usd_foil": "4.62",
+    "usd_etched": null,
+    "eur": "4.87",
+    "eur_foil": "8.93",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495651&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTurntimber%2BSymbiosis%2B%252F%252F%2BTurntimber%252C%2BSerpentine%2BWood",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTurntimber%2BSymbiosis%2B%252F%252F%2BTurntimber%252C%2BSerpentine%2BWood",
+    "edhrec": "https://edhrec.com/route/?cc=Turntimber+Symbiosis"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F222082%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=496190&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Turntimber+Symbiosis&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

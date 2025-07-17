@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "b04f9dde-d9ea-4a6e-9fe5-8f019437db01",
+  "oracle_id": "572afa0f-9e82-4899-b622-a7554625b9f4",
+  "multiverse_ids": [],
+  "tcgplayer_id": 540981,
+  "name": "Watchful Radstag",
+  "lang": "en",
+  "released_at": "2024-03-08",
+  "uri": "https://api.scryfall.com/cards/b04f9dde-d9ea-4a6e-9fe5-8f019437db01",
+  "scryfall_uri": "https://scryfall.com/card/pip/615/watchful-radstag?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/0/b04f9dde-d9ea-4a6e-9fe5-8f019437db01.jpg?1708744740",
+    "normal": "https://cards.scryfall.io/normal/front/b/0/b04f9dde-d9ea-4a6e-9fe5-8f019437db01.jpg?1708744740",
+    "large": "https://cards.scryfall.io/large/front/b/0/b04f9dde-d9ea-4a6e-9fe5-8f019437db01.jpg?1708744740",
+    "png": "https://cards.scryfall.io/png/front/b/0/b04f9dde-d9ea-4a6e-9fe5-8f019437db01.png?1708744740",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/0/b04f9dde-d9ea-4a6e-9fe5-8f019437db01.jpg?1708744740",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/0/b04f9dde-d9ea-4a6e-9fe5-8f019437db01.jpg?1708744740"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Creature — Elk Mutant",
+  "oracle_text": "Evolve (Whenever a creature you control enters, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)\nWhenever this creature evolves, create a token that's a copy of it.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Evolve"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "29442821-cb24-4e55-b65a-88742cd793ef",
+      "component": "combo_piece",
+      "name": "Watchful Radstag",
+      "type_line": "Creature — Elk Mutant",
+      "uri": "https://api.scryfall.com/cards/29442821-cb24-4e55-b65a-88742cd793ef"
+    },
+    {
+      "object": "related_card",
+      "id": "78c43047-87f6-4382-874e-02e9628647bd",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/78c43047-87f6-4382-874e-02e9628647bd"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+  "set": "pip",
+  "set_name": "Fallout",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apip&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pip?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b04f9dde-d9ea-4a6e-9fe5-8f019437db01/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A572afa0f-9e82-4899-b622-a7554625b9f4&unique=prints",
+  "collector_number": "615",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Don't mistake timidness for defenselessness.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alexander Ostrowski",
+  "artist_ids": [
+    "3c278fce-4a9d-4b16-8c84-d29addc394f5"
+  ],
+  "illustration_id": "b965120c-70c3-43be-a05a-f6e59b48d5e9",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "surgefoil"
+  ],
+  "edhrec_rank": 5900,
+  "preview": {
+    "source": "LevDev",
+    "source_uri": "https://twitter.com/PGDHanson/status/1760674193174311291",
+    "previewed_at": "2024-02-22"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "5.28",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWatchful%2BRadstag",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWatchful%2BRadstag",
+    "edhrec": "https://edhrec.com/route/?cc=Watchful+Radstag"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F540981%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Watchful+Radstag&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Watchful+Radstag&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "95052dc9-2a67-4186-bb01-4044a4ca1e77",
+  "oracle_id": "1cf27d78-d6ae-4fa2-9c8d-c277913f821c",
+  "multiverse_ids": [
+    580398
+  ],
+  "tcgplayer_id": 283641,
+  "name": "Baru, Wurmspeaker",
+  "lang": "en",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/95052dc9-2a67-4186-bb01-4044a4ca1e77",
+  "scryfall_uri": "https://scryfall.com/card/dmc/76/baru-wurmspeaker?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/5/95052dc9-2a67-4186-bb01-4044a4ca1e77.jpg?1674099253",
+    "normal": "https://cards.scryfall.io/normal/front/9/5/95052dc9-2a67-4186-bb01-4044a4ca1e77.jpg?1674099253",
+    "large": "https://cards.scryfall.io/large/front/9/5/95052dc9-2a67-4186-bb01-4044a4ca1e77.jpg?1674099253",
+    "png": "https://cards.scryfall.io/png/front/9/5/95052dc9-2a67-4186-bb01-4044a4ca1e77.png?1674099253",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/5/95052dc9-2a67-4186-bb01-4044a4ca1e77.jpg?1674099253",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/5/95052dc9-2a67-4186-bb01-4044a4ca1e77.jpg?1674099253"
+  },
+  "mana_cost": "{2}{G}{G}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Human Druid",
+  "oracle_text": "Wurms you control get +2/+2 and have trample.\n{7}{G}, {T}: Create a 4/4 green Wurm creature token. This ability costs {X} less to activate, where X is the greatest power among Wurms you control.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "edcfb468-6389-4e72-80af-d0d4442e6988",
+      "component": "token",
+      "name": "Wurm",
+      "type_line": "Token Creature — Wurm",
+      "uri": "https://api.scryfall.com/cards/edcfb468-6389-4e72-80af-d0d4442e6988"
+    },
+    {
+      "object": "related_card",
+      "id": "95052dc9-2a67-4186-bb01-4044a4ca1e77",
+      "component": "combo_piece",
+      "name": "Baru, Wurmspeaker",
+      "type_line": "Legendary Creature — Human Druid",
+      "uri": "https://api.scryfall.com/cards/95052dc9-2a67-4186-bb01-4044a4ca1e77"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "78076b27-f888-4723-b27c-44074accd261",
+  "set": "dmc",
+  "set_name": "Dominaria United Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/78076b27-f888-4723-b27c-44074accd261",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dmc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/95052dc9-2a67-4186-bb01-4044a4ca1e77/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1cf27d78-d6ae-4fa2-9c8d-c277913f821c&unique=prints",
+  "collector_number": "76",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Andrew Mar",
+  "artist_ids": [
+    "adad79bf-cd52-456a-b170-740ed8bff0fc"
+  ],
+  "illustration_id": "86d4a175-6e48-4da2-98d2-c5e8df76ab6e",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart",
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 8707,
+  "prices": {
+    "usd": "0.85",
+    "usd_foil": "1.08",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=580398&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBaru%252C%2BWurmspeaker",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBaru%252C%2BWurmspeaker",
+    "edhrec": "https://edhrec.com/route/?cc=Baru%2C+Wurmspeaker"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F283641%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Baru%2C+Wurmspeaker&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Baru%2C+Wurmspeaker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

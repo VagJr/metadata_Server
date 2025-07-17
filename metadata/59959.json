@@ -1,0 +1,156 @@
+{
+  "object": "card",
+  "id": "8daf0dab-7660-49bc-a959-1906a2796c01",
+  "oracle_id": "23bd166b-d766-4d03-8016-6708481d2195",
+  "multiverse_ids": [
+    570311
+  ],
+  "tcgplayer_id": 272633,
+  "cardmarket_id": 659091,
+  "name": "Raphael, Fiendish Savior",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/8daf0dab-7660-49bc-a959-1906a2796c01",
+  "scryfall_uri": "https://scryfall.com/card/clb/438/raphael-fiendish-savior?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/d/8daf0dab-7660-49bc-a959-1906a2796c01.jpg?1674138884",
+    "normal": "https://cards.scryfall.io/normal/front/8/d/8daf0dab-7660-49bc-a959-1906a2796c01.jpg?1674138884",
+    "large": "https://cards.scryfall.io/large/front/8/d/8daf0dab-7660-49bc-a959-1906a2796c01.jpg?1674138884",
+    "png": "https://cards.scryfall.io/png/front/8/d/8daf0dab-7660-49bc-a959-1906a2796c01.png?1674138884",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/d/8daf0dab-7660-49bc-a959-1906a2796c01.jpg?1674138884",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/d/8daf0dab-7660-49bc-a959-1906a2796c01.jpg?1674138884"
+  },
+  "mana_cost": "{3}{B}{R}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Devil Noble",
+  "oracle_text": "Flying\nOther Demons, Devils, Imps, and Tieflings you control get +1/+1 and have lifelink.\nAt the beginning of each end step, if a creature card was put into your graveyard from anywhere this turn, create a 1/1 red Devil creature token with \"When this token dies, it deals 1 damage to any target.\"",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "895df6af-6799-4ec6-b8f4-912b06f30ed2",
+      "component": "token",
+      "name": "Devil",
+      "type_line": "Token Creature — Devil",
+      "uri": "https://api.scryfall.com/cards/895df6af-6799-4ec6-b8f4-912b06f30ed2"
+    },
+    {
+      "object": "related_card",
+      "id": "3ee93ebf-710c-4c8b-a62b-26c41d8a5406",
+      "component": "combo_piece",
+      "name": "Raphael, Fiendish Savior",
+      "type_line": "Legendary Creature — Devil Noble",
+      "uri": "https://api.scryfall.com/cards/3ee93ebf-710c-4c8b-a62b-26c41d8a5406"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set": "clb",
+  "set_name": "Commander Legends: Battle for Baldur's Gate",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/clb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8daf0dab-7660-49bc-a959-1906a2796c01/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A23bd166b-d766-4d03-8016-6708481d2195&unique=prints",
+  "collector_number": "438",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Justine Jones",
+  "artist_ids": [
+    "51041d8d-35e6-47a2-95b1-528fa4d82134"
+  ],
+  "illustration_id": "cc236333-093e-4b39-8ba3-01e21d7531d1",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 4487,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/1486418408",
+    "previewed_at": "2022-05-17"
+  },
+  "prices": {
+    "usd": "0.22",
+    "usd_foil": "0.23",
+    "usd_etched": null,
+    "eur": "0.47",
+    "eur_foil": "0.35",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=570311&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRaphael%252C%2BFiendish%2BSavior",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRaphael%252C%2BFiendish%2BSavior",
+    "edhrec": "https://edhrec.com/route/?cc=Raphael%2C+Fiendish+Savior"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F272633%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=659091&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Raphael%2C+Fiendish+Savior&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "object": "card",
+  "id": "19b09eb3-4ffc-47b8-aa37-7f760f86e11c",
+  "oracle_id": "4924b3a4-a218-4783-8a4d-82361fdecc78",
+  "multiverse_ids": [],
+  "tcgplayer_id": 223556,
+  "cardmarket_id": 501375,
+  "name": "Riverglide Pathway // Lavaglide Pathway",
+  "lang": "en",
+  "released_at": "2020-09-25",
+  "uri": "https://api.scryfall.com/cards/19b09eb3-4ffc-47b8-aa37-7f760f86e11c",
+  "scryfall_uri": "https://scryfall.com/card/pznr/264s/riverglide-pathway-lavaglide-pathway?utm_source=api",
+  "layout": "modal_dfc",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 0,
+  "type_line": "Land // Land",
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "R",
+    "U"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Riverglide Pathway",
+      "mana_cost": "",
+      "type_line": "Land",
+      "oracle_text": "{T}: Add {U}.",
+      "colors": [],
+      "flavor_text": "\"The wind knows the way. Just let it carry you there.\"\n—Amandi, kitesail expert",
+      "artist": "Kieran Yanner",
+      "artist_id": "aa7e89ed-d294-4633-9057-ce04dacfcfa4",
+      "illustration_id": "5920301d-4ef8-457a-9d43-b59f72324508",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/1/9/19b09eb3-4ffc-47b8-aa37-7f760f86e11c.jpg?1607364613",
+        "normal": "https://cards.scryfall.io/normal/front/1/9/19b09eb3-4ffc-47b8-aa37-7f760f86e11c.jpg?1607364613",
+        "large": "https://cards.scryfall.io/large/front/1/9/19b09eb3-4ffc-47b8-aa37-7f760f86e11c.jpg?1607364613",
+        "png": "https://cards.scryfall.io/png/front/1/9/19b09eb3-4ffc-47b8-aa37-7f760f86e11c.png?1607364613",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/1/9/19b09eb3-4ffc-47b8-aa37-7f760f86e11c.jpg?1607364613",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/1/9/19b09eb3-4ffc-47b8-aa37-7f760f86e11c.jpg?1607364613"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Lavaglide Pathway",
+      "mana_cost": "",
+      "type_line": "Land",
+      "oracle_text": "{T}: Add {R}.",
+      "colors": [],
+      "flavor_text": "\"Don't fear the heat. Just let it lift you up.\"\n—Amandi, kitesail expert",
+      "artist": "Kieran Yanner",
+      "artist_id": "aa7e89ed-d294-4633-9057-ce04dacfcfa4",
+      "illustration_id": "93a6b1e4-04a5-4b16-bf3d-8d67563d3abb",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/1/9/19b09eb3-4ffc-47b8-aa37-7f760f86e11c.jpg?1607364613",
+        "normal": "https://cards.scryfall.io/normal/back/1/9/19b09eb3-4ffc-47b8-aa37-7f760f86e11c.jpg?1607364613",
+        "large": "https://cards.scryfall.io/large/back/1/9/19b09eb3-4ffc-47b8-aa37-7f760f86e11c.jpg?1607364613",
+        "png": "https://cards.scryfall.io/png/back/1/9/19b09eb3-4ffc-47b8-aa37-7f760f86e11c.png?1607364613",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/1/9/19b09eb3-4ffc-47b8-aa37-7f760f86e11c.jpg?1607364613",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/1/9/19b09eb3-4ffc-47b8-aa37-7f760f86e11c.jpg?1607364613"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "76c61d42-610a-4b5a-880a-7a1fc1222f81",
+  "set": "pznr",
+  "set_name": "Zendikar Rising Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/76c61d42-610a-4b5a-880a-7a1fc1222f81",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apznr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pznr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/19b09eb3-4ffc-47b8-aa37-7f760f86e11c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4924b3a4-a218-4783-8a4d-82361fdecc78&unique=prints",
+  "collector_number": "264s",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Kieran Yanner",
+  "artist_ids": [
+    "aa7e89ed-d294-4633-9057-ce04dacfcfa4"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 751,
+  "prices": {
+    "usd": null,
+    "usd_foil": "7.66",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "10.44",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRiverglide%2BPathway%2B%252F%252F%2BLavaglide%2BPathway",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRiverglide%2BPathway%2B%252F%252F%2BLavaglide%2BPathway",
+    "edhrec": "https://edhrec.com/route/?cc=Riverglide+Pathway"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F223556%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=501375&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Riverglide+Pathway&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

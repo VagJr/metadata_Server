@@ -1,0 +1,156 @@
+{
+  "object": "card",
+  "id": "edb13910-8e2b-4623-a4c6-a833a795aace",
+  "oracle_id": "2e7e3be5-04dd-4ff4-b121-3e65b3e00699",
+  "multiverse_ids": [],
+  "tcgplayer_id": 501097,
+  "cardmarket_id": 719348,
+  "name": "Bilbo, Retired Burglar",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/edb13910-8e2b-4623-a4c6-a833a795aace",
+  "scryfall_uri": "https://scryfall.com/card/pltr/403s/bilbo-retired-burglar?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/d/edb13910-8e2b-4623-a4c6-a833a795aace.jpg?1706482277",
+    "normal": "https://cards.scryfall.io/normal/front/e/d/edb13910-8e2b-4623-a4c6-a833a795aace.jpg?1706482277",
+    "large": "https://cards.scryfall.io/large/front/e/d/edb13910-8e2b-4623-a4c6-a833a795aace.jpg?1706482277",
+    "png": "https://cards.scryfall.io/png/front/e/d/edb13910-8e2b-4623-a4c6-a833a795aace.png?1706482277",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/d/edb13910-8e2b-4623-a4c6-a833a795aace.jpg?1706482277",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/d/edb13910-8e2b-4623-a4c6-a833a795aace.jpg?1706482277"
+  },
+  "mana_cost": "{1}{U}{R}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Halfling Rogue",
+  "oracle_text": "When Bilbo enters or leaves the battlefield, the Ring tempts you.\nWhenever Bilbo deals combat damage to a player, create a Treasure token.",
+  "power": "1",
+  "toughness": "3",
+  "colors": [
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [
+    "Treasure"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "edb13910-8e2b-4623-a4c6-a833a795aace",
+      "component": "combo_piece",
+      "name": "Bilbo, Retired Burglar",
+      "type_line": "Legendary Creature — Halfling Rogue",
+      "uri": "https://api.scryfall.com/cards/edb13910-8e2b-4623-a4c6-a833a795aace"
+    },
+    {
+      "object": "related_card",
+      "id": "b29d7556-9051-4451-812e-91513ef10e62",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/b29d7556-9051-4451-812e-91513ef10e62"
+    },
+    {
+      "object": "related_card",
+      "id": "7215460e-8c06-47d0-94e5-d1832d0218af",
+      "component": "combo_piece",
+      "name": "The Ring // The Ring Tempts You",
+      "type_line": "Emblem // Card",
+      "uri": "https://api.scryfall.com/cards/7215460e-8c06-47d0-94e5-d1832d0218af"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "1012754e-18e5-4a76-b9a3-24c55eaab1c5",
+  "set": "pltr",
+  "set_name": "Tales of Middle-earth Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/1012754e-18e5-4a76-b9a3-24c55eaab1c5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apltr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pltr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/edb13910-8e2b-4623-a4c6-a833a795aace/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2e7e3be5-04dd-4ff4-b121-3e65b3e00699&unique=prints",
+  "collector_number": "403s",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Livia Prima",
+  "artist_ids": [
+    "0f41e561-bc26-4d85-aab6-66c384e01b74"
+  ],
+  "illustration_id": "41f271c1-f6e5-44d5-8b4d-7a6628b12261",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "triangle",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 6755,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.55",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.66",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBilbo%252C%2BRetired%2BBurglar",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBilbo%252C%2BRetired%2BBurglar",
+    "edhrec": "https://edhrec.com/route/?cc=Bilbo%2C+Retired+Burglar"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F501097%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=719348&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bilbo%2C+Retired+Burglar&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

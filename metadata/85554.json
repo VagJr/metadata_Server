@@ -1,0 +1,116 @@
+{
+  "object": "card",
+  "id": "ca099308-db32-4aa0-a511-ae9da5712ebb",
+  "oracle_id": "5b7515f2-7a5a-4e2a-9784-6cbacd768172",
+  "multiverse_ids": [],
+  "tcgplayer_id": 448993,
+  "name": "Lich",
+  "lang": "en",
+  "released_at": "2022-11-28",
+  "uri": "https://api.scryfall.com/cards/ca099308-db32-4aa0-a511-ae9da5712ebb",
+  "scryfall_uri": "https://scryfall.com/card/30a/110/lich?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/a/ca099308-db32-4aa0-a511-ae9da5712ebb.jpg?1664925258",
+    "normal": "https://cards.scryfall.io/normal/front/c/a/ca099308-db32-4aa0-a511-ae9da5712ebb.jpg?1664925258",
+    "large": "https://cards.scryfall.io/large/front/c/a/ca099308-db32-4aa0-a511-ae9da5712ebb.jpg?1664925258",
+    "png": "https://cards.scryfall.io/png/front/c/a/ca099308-db32-4aa0-a511-ae9da5712ebb.png?1664925258",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/a/ca099308-db32-4aa0-a511-ae9da5712ebb.jpg?1664925258",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/a/ca099308-db32-4aa0-a511-ae9da5712ebb.jpg?1664925258"
+  },
+  "mana_cost": "{B}{B}{B}{B}",
+  "cmc": 4,
+  "type_line": "Enchantment",
+  "oracle_text": "As this enchantment enters, you lose life equal to your life total.\nYou don't lose the game for having 0 or less life.\nIf you would gain life, draw that many cards instead.\nWhenever you're dealt damage, sacrifice that many nontoken permanents. If you can't, you lose the game.\nWhen this enchantment is put into a graveyard from the battlefield, you lose the game.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": true,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c3cddb17-44d9-4abd-8d19-666f6c5171fe",
+  "set": "30a",
+  "set_name": "30th Anniversary Edition",
+  "set_type": "memorabilia",
+  "set_uri": "https://api.scryfall.com/sets/c3cddb17-44d9-4abd-8d19-666f6c5171fe",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A30a&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/30a?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ca099308-db32-4aa0-a511-ae9da5712ebb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5b7515f2-7a5a-4e2a-9784-6cbacd768172&unique=prints",
+  "collector_number": "110",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "049a6229-ace9-4363-816a-60cb8773e95d",
+  "artist": "Daniel Gelon",
+  "artist_ids": [
+    "63ac31a8-dd1a-4679-9f82-ece89429a084"
+  ],
+  "illustration_id": "e652abd6-370c-428d-b1a7-b73099566e68",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 17917,
+  "penny_rank": 4535,
+  "prices": {
+    "usd": "64.66",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLich",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLich",
+    "edhrec": "https://edhrec.com/route/?cc=Lich"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F448993%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Lich&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lich&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

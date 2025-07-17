@@ -1,0 +1,149 @@
+{
+  "object": "card",
+  "id": "e24f9369-2e92-4b11-94e8-6f361ef835b3",
+  "oracle_id": "f72558f5-ac5c-4efa-b01b-439bc0bbf18d",
+  "multiverse_ids": [],
+  "tcgplayer_id": 285643,
+  "cardmarket_id": 673829,
+  "name": "Nemata, Primeval Warden",
+  "lang": "en",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/e24f9369-2e92-4b11-94e8-6f361ef835b3",
+  "scryfall_uri": "https://scryfall.com/card/pdmu/209p/nemata-primeval-warden?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/2/e24f9369-2e92-4b11-94e8-6f361ef835b3.jpg?1675619561",
+    "normal": "https://cards.scryfall.io/normal/front/e/2/e24f9369-2e92-4b11-94e8-6f361ef835b3.jpg?1675619561",
+    "large": "https://cards.scryfall.io/large/front/e/2/e24f9369-2e92-4b11-94e8-6f361ef835b3.jpg?1675619561",
+    "png": "https://cards.scryfall.io/png/front/e/2/e24f9369-2e92-4b11-94e8-6f361ef835b3.png?1675619561",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/2/e24f9369-2e92-4b11-94e8-6f361ef835b3.jpg?1675619561",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/2/e24f9369-2e92-4b11-94e8-6f361ef835b3.jpg?1675619561"
+  },
+  "mana_cost": "{2}{B}{G}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Treefolk",
+  "oracle_text": "Reach\nIf a creature an opponent controls would die, exile it instead. When you do, create a 1/1 green Saproling creature token.\n{G}, Sacrifice a Saproling: Nemata gets +2/+2 until end of turn.\n{1}{B}, Sacrifice two Saprolings: Draw a card.",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [
+    "Reach"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "d5a07153-9eb6-4366-aa09-ebe9b4868e7f",
+      "component": "token",
+      "name": "Saproling",
+      "type_line": "Token Creature — Saproling",
+      "uri": "https://api.scryfall.com/cards/d5a07153-9eb6-4366-aa09-ebe9b4868e7f"
+    },
+    {
+      "object": "related_card",
+      "id": "ad580fd5-a2b6-4ef4-90ff-9d1eb000b97b",
+      "component": "combo_piece",
+      "name": "Nemata, Primeval Warden",
+      "type_line": "Legendary Creature — Treefolk",
+      "uri": "https://api.scryfall.com/cards/ad580fd5-a2b6-4ef4-90ff-9d1eb000b97b"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8d8c82dd-0cc2-43b8-8d1c-7620fc4d98d7",
+  "set": "pdmu",
+  "set_name": "Dominaria United Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/8d8c82dd-0cc2-43b8-8d1c-7620fc4d98d7",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apdmu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pdmu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e24f9369-2e92-4b11-94e8-6f361ef835b3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af72558f5-ac5c-4efa-b01b-439bc0bbf18d&unique=prints",
+  "collector_number": "209p",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Andrew Mar",
+  "artist_ids": [
+    "adad79bf-cd52-456a-b170-740ed8bff0fc"
+  ],
+  "illustration_id": "170ac4ff-3522-446d-b6c1-d40d720864d0",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 3614,
+  "penny_rank": 9077,
+  "prices": {
+    "usd": "0.87",
+    "usd_foil": "0.90",
+    "usd_etched": null,
+    "eur": "0.36",
+    "eur_foil": "0.61",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNemata%252C%2BPrimeval%2BWarden",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNemata%252C%2BPrimeval%2BWarden",
+    "edhrec": "https://edhrec.com/route/?cc=Nemata%2C+Primeval+Warden"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F285643%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=673829&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nemata%2C+Primeval+Warden&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

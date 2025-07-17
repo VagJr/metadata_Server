@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "00bbcc83-7307-46cc-b164-e1ff502d18a3",
+  "oracle_id": "7bc3f92f-68a2-4934-afc4-89f6d0e8cf98",
+  "multiverse_ids": [
+    671496
+  ],
+  "mtgo_id": 128417,
+  "tcgplayer_id": 560149,
+  "cardmarket_id": 779314,
+  "name": "Dusk // Dawn",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/00bbcc83-7307-46cc-b164-e1ff502d18a3",
+  "scryfall_uri": "https://scryfall.com/card/blc/138/dusk-dawn?utm_source=api",
+  "layout": "split",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/0/00bbcc83-7307-46cc-b164-e1ff502d18a3.jpg?1721428845",
+    "normal": "https://cards.scryfall.io/normal/front/0/0/00bbcc83-7307-46cc-b164-e1ff502d18a3.jpg?1721428845",
+    "large": "https://cards.scryfall.io/large/front/0/0/00bbcc83-7307-46cc-b164-e1ff502d18a3.jpg?1721428845",
+    "png": "https://cards.scryfall.io/png/front/0/0/00bbcc83-7307-46cc-b164-e1ff502d18a3.png?1721428845",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/0/00bbcc83-7307-46cc-b164-e1ff502d18a3.jpg?1721428845",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/0/00bbcc83-7307-46cc-b164-e1ff502d18a3.jpg?1721428845"
+  },
+  "mana_cost": "{2}{W}{W} // {3}{W}{W}",
+  "cmc": 9,
+  "type_line": "Sorcery // Sorcery",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Aftermath"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Dusk",
+      "mana_cost": "{2}{W}{W}",
+      "type_line": "Sorcery",
+      "oracle_text": "Destroy all creatures with power 3 or greater.",
+      "artist": "Kasia 'Kafis' Zielińska",
+      "artist_id": "a662cb71-4770-4b49-8b03-2cf8497049a7",
+      "illustration_id": "3134f77c-7a7d-48e0-99a6-4f323868e1ef"
+    },
+    {
+      "object": "card_face",
+      "name": "Dawn",
+      "mana_cost": "{3}{W}{W}",
+      "type_line": "Sorcery",
+      "oracle_text": "Aftermath (Cast this spell only from your graveyard. Then exile it.)\nReturn all creature cards with power 2 or less from your graveyard to your hand.",
+      "artist": "Kasia 'Kafis' Zielińska",
+      "artist_id": "a662cb71-4770-4b49-8b03-2cf8497049a7"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "set": "blc",
+  "set_name": "Bloomburrow Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/blc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/00bbcc83-7307-46cc-b164-e1ff502d18a3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7bc3f92f-68a2-4934-afc4-89f6d0e8cf98&unique=prints",
+  "collector_number": "138",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kasia 'Kafis' Zielińska",
+  "artist_ids": [
+    "a662cb71-4770-4b49-8b03-2cf8497049a7"
+  ],
+  "illustration_id": "3134f77c-7a7d-48e0-99a6-4f323868e1ef",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 816,
+  "penny_rank": 3918,
+  "prices": {
+    "usd": "0.19",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": null,
+    "tix": "0.11"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=671496&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDusk%2B%252F%252F%2BDawn",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDusk%2B%252F%252F%2BDawn",
+    "edhrec": "https://edhrec.com/route/?cc=Dusk+%2F%2F+Dawn"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560149%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=779314&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/128417?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "object": "card",
+  "id": "25975f58-a6b7-4cbc-bdc5-d0eedeb3ef1b",
+  "oracle_id": "9c93acf3-d3da-4b4b-947f-ec8fc99d0d34",
+  "multiverse_ids": [
+    495654
+  ],
+  "tcgplayer_id": 222205,
+  "cardmarket_id": 496530,
+  "name": "Grakmaw, Skyclave Ravager",
+  "lang": "en",
+  "released_at": "2020-09-25",
+  "uri": "https://api.scryfall.com/cards/25975f58-a6b7-4cbc-bdc5-d0eedeb3ef1b",
+  "scryfall_uri": "https://scryfall.com/card/znr/366/grakmaw-skyclave-ravager?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/5/25975f58-a6b7-4cbc-bdc5-d0eedeb3ef1b.jpg?1609006860",
+    "normal": "https://cards.scryfall.io/normal/front/2/5/25975f58-a6b7-4cbc-bdc5-d0eedeb3ef1b.jpg?1609006860",
+    "large": "https://cards.scryfall.io/large/front/2/5/25975f58-a6b7-4cbc-bdc5-d0eedeb3ef1b.jpg?1609006860",
+    "png": "https://cards.scryfall.io/png/front/2/5/25975f58-a6b7-4cbc-bdc5-d0eedeb3ef1b.png?1609006860",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/5/25975f58-a6b7-4cbc-bdc5-d0eedeb3ef1b.jpg?1609006860",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/5/25975f58-a6b7-4cbc-bdc5-d0eedeb3ef1b.jpg?1609006860"
+  },
+  "mana_cost": "{1}{B}{G}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Hydra Horror",
+  "oracle_text": "Grakmaw enters with three +1/+1 counters on it.\nWhenever another creature you control dies, if it had a +1/+1 counter on it, put a +1/+1 counter on Grakmaw.\nWhen Grakmaw dies, create an X/X black and green Hydra creature token, where X is the number of +1/+1 counters on Grakmaw.",
+  "power": "0",
+  "toughness": "0",
+  "colors": [
+    "B",
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "f2ad0395-190d-4779-81b7-2832dc257828",
+      "component": "token",
+      "name": "Hydra",
+      "type_line": "Token Creature — Hydra",
+      "uri": "https://api.scryfall.com/cards/f2ad0395-190d-4779-81b7-2832dc257828"
+    },
+    {
+      "object": "related_card",
+      "id": "25975f58-a6b7-4cbc-bdc5-d0eedeb3ef1b",
+      "component": "combo_piece",
+      "name": "Grakmaw, Skyclave Ravager",
+      "type_line": "Legendary Creature — Hydra Horror",
+      "uri": "https://api.scryfall.com/cards/25975f58-a6b7-4cbc-bdc5-d0eedeb3ef1b"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "f4e01fa7-b254-42dd-849f-69b58027a8c4",
+  "set": "znr",
+  "set_name": "Zendikar Rising",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/f4e01fa7-b254-42dd-849f-69b58027a8c4",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aznr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/znr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/25975f58-a6b7-4cbc-bdc5-d0eedeb3ef1b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9c93acf3-d3da-4b4b-947f-ec8fc99d0d34&unique=prints",
+  "collector_number": "366",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Filip Burburan",
+  "artist_ids": [
+    "66082c3b-a623-4d34-be51-2475214b85d3"
+  ],
+  "illustration_id": "b8edb497-2252-4cb5-9c62-da1cc6838475",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 8415,
+  "penny_rank": 5568,
+  "preview": {
+    "source": "EDH TURN",
+    "source_uri": "https://edh-turn.tech/grakmaw-skyclave-ravager/",
+    "previewed_at": "2020-09-10"
+  },
+  "prices": {
+    "usd": "0.44",
+    "usd_foil": "0.53",
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": "0.52",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495654&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGrakmaw%252C%2BSkyclave%2BRavager",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGrakmaw%252C%2BSkyclave%2BRavager",
+    "edhrec": "https://edhrec.com/route/?cc=Grakmaw%2C+Skyclave+Ravager"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F222205%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=496530&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Grakmaw%2C+Skyclave+Ravager&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

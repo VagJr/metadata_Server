@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "570ca3e8-1563-4cef-8559-776982a78838",
+  "oracle_id": "33d2584b-bf29-4c22-bd45-14ba2fb98c0e",
+  "multiverse_ids": [],
+  "tcgplayer_id": 638818,
+  "name": "Cloud, Midgar Mercenary",
+  "lang": "en",
+  "released_at": "2025-06-12",
+  "uri": "https://api.scryfall.com/cards/570ca3e8-1563-4cef-8559-776982a78838",
+  "scryfall_uri": "https://scryfall.com/card/ppro/2025-1/cloud-midgar-mercenary?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/7/570ca3e8-1563-4cef-8559-776982a78838.jpg?1747972148",
+    "normal": "https://cards.scryfall.io/normal/front/5/7/570ca3e8-1563-4cef-8559-776982a78838.jpg?1747972148",
+    "large": "https://cards.scryfall.io/large/front/5/7/570ca3e8-1563-4cef-8559-776982a78838.jpg?1747972148",
+    "png": "https://cards.scryfall.io/png/front/5/7/570ca3e8-1563-4cef-8559-776982a78838.png?1747972148",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/7/570ca3e8-1563-4cef-8559-776982a78838.jpg?1747972148",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/7/570ca3e8-1563-4cef-8559-776982a78838.jpg?1747972148"
+  },
+  "mana_cost": "{W}{W}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Human Soldier Mercenary",
+  "oracle_text": "When Cloud enters, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.\nAs long as Cloud is equipped, if an ability of Cloud or an Equipment attached to it triggers, that ability triggers an additional time.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e82b640d-bacf-41a5-8cf9-85e1ffeee71e",
+  "set": "ppro",
+  "set_name": "Pro Tour Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/e82b640d-bacf-41a5-8cf9-85e1ffeee71e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Appro&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ppro?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/570ca3e8-1563-4cef-8559-776982a78838/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A33d2584b-bf29-4c22-bd45-14ba2fb98c0e&unique=prints",
+  "collector_number": "2025-1",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tetsuya Nomura",
+  "artist_ids": [
+    "a6c5195e-0d82-47d2-a286-ce1b893ca81c"
+  ],
+  "illustration_id": "b046ede0-1cd5-4afa-bcd4-c3a79ad6d310",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "triangle",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "tourney",
+    "ffvii"
+  ],
+  "edhrec_rank": 5867,
+  "prices": {
+    "usd": "4275.00",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCloud%252C%2BMidgar%2BMercenary",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCloud%252C%2BMidgar%2BMercenary",
+    "edhrec": "https://edhrec.com/route/?cc=Cloud%2C+Midgar+Mercenary"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F638818%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cloud%2C+Midgar+Mercenary&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cloud%2C+Midgar+Mercenary&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

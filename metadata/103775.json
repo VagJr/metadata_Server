@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "f55e5aca-b6fe-4b2f-9943-568f4d1704ca",
+  "oracle_id": "670df8be-21cd-49d8-92e3-d7cc38b256d6",
+  "multiverse_ids": [
+    657781
+  ],
+  "mtgo_id": 123635,
+  "arena_id": 90734,
+  "tcgplayer_id": 544877,
+  "cardmarket_id": 764173,
+  "name": "Back for More",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/f55e5aca-b6fe-4b2f-9943-568f4d1704ca",
+  "scryfall_uri": "https://scryfall.com/card/otp/36/back-for-more?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/5/f55e5aca-b6fe-4b2f-9943-568f4d1704ca.jpg?1712353541",
+    "normal": "https://cards.scryfall.io/normal/front/f/5/f55e5aca-b6fe-4b2f-9943-568f4d1704ca.jpg?1712353541",
+    "large": "https://cards.scryfall.io/large/front/f/5/f55e5aca-b6fe-4b2f-9943-568f4d1704ca.jpg?1712353541",
+    "png": "https://cards.scryfall.io/png/front/f/5/f55e5aca-b6fe-4b2f-9943-568f4d1704ca.png?1712353541",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/5/f55e5aca-b6fe-4b2f-9943-568f4d1704ca.jpg?1712353541",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/5/f55e5aca-b6fe-4b2f-9943-568f4d1704ca.jpg?1712353541"
+  },
+  "mana_cost": "{4}{B}{G}",
+  "cmc": 6,
+  "type_line": "Instant",
+  "oracle_text": "Return target creature card from your graveyard to the battlefield. When you do, it fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)",
+  "colors": [
+    "B",
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [
+    "Fight"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8b51294d-fc54-410c-83b2-0168837ede87",
+  "set": "otp",
+  "set_name": "Breaking News",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/8b51294d-fc54-410c-83b2-0168837ede87",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f55e5aca-b6fe-4b2f-9943-568f4d1704ca/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A670df8be-21cd-49d8-92e3-d7cc38b256d6&unique=prints",
+  "collector_number": "36",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Ultimate Showdown Downgraded to Penultimate",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Florey",
+  "artist_ids": [
+    "52df4bbe-0f84-47b0-904d-f84639876c8f"
+  ],
+  "illustration_id": "1e360782-4242-48d4-b4e8-eef40c48b2e8",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 10672,
+  "penny_rank": 15447,
+  "prices": {
+    "usd": "0.11",
+    "usd_foil": "0.12",
+    "usd_etched": null,
+    "eur": "0.07",
+    "eur_foil": "0.11",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=657781&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBack%2Bfor%2BMore",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBack%2Bfor%2BMore",
+    "edhrec": "https://edhrec.com/route/?cc=Back+for+More"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544877%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=764173&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/123635?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "c666c29a-2410-4556-97fe-ea2ab0904a70",
+  "oracle_id": "7af23925-6d32-407d-9a99-a57b2ebb63ac",
+  "multiverse_ids": [],
+  "mtgo_id": 96508,
+  "tcgplayer_id": 255820,
+  "cardmarket_id": 584930,
+  "name": "Brimstone Vandal",
+  "lang": "en",
+  "released_at": "2022-01-28",
+  "uri": "https://api.scryfall.com/cards/c666c29a-2410-4556-97fe-ea2ab0904a70",
+  "scryfall_uri": "https://scryfall.com/card/dbl/130/brimstone-vandal?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/6/c666c29a-2410-4556-97fe-ea2ab0904a70.jpg?1673159840",
+    "normal": "https://cards.scryfall.io/normal/front/c/6/c666c29a-2410-4556-97fe-ea2ab0904a70.jpg?1673159840",
+    "large": "https://cards.scryfall.io/large/front/c/6/c666c29a-2410-4556-97fe-ea2ab0904a70.jpg?1673159840",
+    "png": "https://cards.scryfall.io/png/front/c/6/c666c29a-2410-4556-97fe-ea2ab0904a70.png?1673159840",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/6/c666c29a-2410-4556-97fe-ea2ab0904a70.jpg?1673159840",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/6/c666c29a-2410-4556-97fe-ea2ab0904a70.jpg?1673159840"
+  },
+  "mana_cost": "{2}{R}",
+  "cmc": 3,
+  "type_line": "Creature — Devil",
+  "oracle_text": "Menace (This creature can't be blocked except by two or more creatures.)\nIf it's neither day nor night, it becomes day as this creature enters.\nWhenever day becomes night or night becomes day, this creature deals 1 damage to each opponent.",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Menace"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "c666c29a-2410-4556-97fe-ea2ab0904a70",
+      "component": "combo_piece",
+      "name": "Brimstone Vandal",
+      "type_line": "Creature — Devil",
+      "uri": "https://api.scryfall.com/cards/c666c29a-2410-4556-97fe-ea2ab0904a70"
+    },
+    {
+      "object": "related_card",
+      "id": "dc26e13b-7a0f-4e7f-8593-4f22234f4517",
+      "component": "combo_piece",
+      "name": "Day // Night",
+      "type_line": "Card // Card",
+      "uri": "https://api.scryfall.com/cards/dc26e13b-7a0f-4e7f-8593-4f22234f4517"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set": "dbl",
+  "set_name": "Innistrad: Double Feature",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adbl&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dbl?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c666c29a-2410-4556-97fe-ea2ab0904a70/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7af23925-6d32-407d-9a99-a57b2ebb63ac&unique=prints",
+  "collector_number": "130",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Andreas Zafiratos",
+  "artist_ids": [
+    "e2f13a9a-57c5-40de-81d4-3b0723899cdf"
+  ],
+  "illustration_id": "9941cf48-3f4f-4684-98b6-f12161d5e05e",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 20486,
+  "penny_rank": 15537,
+  "prices": {
+    "usd": "0.04",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.07",
+    "eur_foil": "0.22",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBrimstone%2BVandal",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBrimstone%2BVandal",
+    "edhrec": "https://edhrec.com/route/?cc=Brimstone+Vandal"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F255820%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=584930&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/96508?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

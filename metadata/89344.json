@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "d2d038ee-1648-49cf-8775-c191fca252aa",
+  "oracle_id": "c5323a43-82de-4340-8578-b3ffcc66f8fa",
+  "multiverse_ids": [
+    509384
+  ],
+  "mtgo_id": 86401,
+  "tcgplayer_id": 233417,
+  "cardmarket_id": 542561,
+  "name": "Griffin Guide",
+  "lang": "en",
+  "released_at": "2021-03-19",
+  "uri": "https://api.scryfall.com/cards/d2d038ee-1648-49cf-8775-c191fca252aa",
+  "scryfall_uri": "https://scryfall.com/card/tsr/19/griffin-guide?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/2/d2d038ee-1648-49cf-8775-c191fca252aa.jpg?1619392926",
+    "normal": "https://cards.scryfall.io/normal/front/d/2/d2d038ee-1648-49cf-8775-c191fca252aa.jpg?1619392926",
+    "large": "https://cards.scryfall.io/large/front/d/2/d2d038ee-1648-49cf-8775-c191fca252aa.jpg?1619392926",
+    "png": "https://cards.scryfall.io/png/front/d/2/d2d038ee-1648-49cf-8775-c191fca252aa.png?1619392926",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/2/d2d038ee-1648-49cf-8775-c191fca252aa.jpg?1619392926",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/2/d2d038ee-1648-49cf-8775-c191fca252aa.jpg?1619392926"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant creature\nEnchanted creature gets +2/+2 and has flying.\nWhen enchanted creature dies, create a 2/2 white Griffin creature token with flying.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "2e7a7388-3f80-41c0-a042-d6b8ef3cf291",
+      "component": "token",
+      "name": "Griffin",
+      "type_line": "Token Creature — Griffin",
+      "uri": "https://api.scryfall.com/cards/2e7a7388-3f80-41c0-a042-d6b8ef3cf291"
+    },
+    {
+      "object": "related_card",
+      "id": "d2d038ee-1648-49cf-8775-c191fca252aa",
+      "component": "combo_piece",
+      "name": "Griffin Guide",
+      "type_line": "Enchantment — Aura",
+      "uri": "https://api.scryfall.com/cards/d2d038ee-1648-49cf-8775-c191fca252aa"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "11e90d1b-0502-43e6-b056-e24836523c13",
+  "set": "tsr",
+  "set_name": "Time Spiral Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/11e90d1b-0502-43e6-b056-e24836523c13",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atsr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tsr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d2d038ee-1648-49cf-8775-c191fca252aa/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac5323a43-82de-4340-8578-b3ffcc66f8fa&unique=prints",
+  "collector_number": "19",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jim Nelson",
+  "artist_ids": [
+    "aa9f64d1-29e1-4c82-877e-44c18183f40b"
+  ],
+  "illustration_id": "56da2eee-0134-4fc3-a087-97eed98aae22",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 14590,
+  "penny_rank": 6907,
+  "preview": {
+    "source": "InfiniTokens",
+    "source_uri": "https://twitter.com/InfiniTokens/status/1364993656713850880",
+    "previewed_at": "2021-02-25"
+  },
+  "prices": {
+    "usd": "0.08",
+    "usd_foil": "0.15",
+    "usd_etched": null,
+    "eur": "0.06",
+    "eur_foil": "0.24",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=509384&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGriffin%2BGuide",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGriffin%2BGuide",
+    "edhrec": "https://edhrec.com/route/?cc=Griffin+Guide"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F233417%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=542561&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/86401?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

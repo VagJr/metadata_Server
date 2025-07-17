@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "ee82ee3a-8e84-4eb8-8ca7-3fc09eb6ca33",
+  "oracle_id": "f398d222-f8e7-4983-9a77-267adef7f551",
+  "multiverse_ids": [],
+  "tcgplayer_id": 514281,
+  "name": "Agatha of the Vile Cauldron",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/ee82ee3a-8e84-4eb8-8ca7-3fc09eb6ca33",
+  "scryfall_uri": "https://scryfall.com/card/pwoe/199p/agatha-of-the-vile-cauldron?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/e/ee82ee3a-8e84-4eb8-8ca7-3fc09eb6ca33.jpg?1694308478",
+    "normal": "https://cards.scryfall.io/normal/front/e/e/ee82ee3a-8e84-4eb8-8ca7-3fc09eb6ca33.jpg?1694308478",
+    "large": "https://cards.scryfall.io/large/front/e/e/ee82ee3a-8e84-4eb8-8ca7-3fc09eb6ca33.jpg?1694308478",
+    "png": "https://cards.scryfall.io/png/front/e/e/ee82ee3a-8e84-4eb8-8ca7-3fc09eb6ca33.png?1694308478",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/e/ee82ee3a-8e84-4eb8-8ca7-3fc09eb6ca33.jpg?1694308478",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/e/ee82ee3a-8e84-4eb8-8ca7-3fc09eb6ca33.jpg?1694308478"
+  },
+  "mana_cost": "{R}{G}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Human Warlock",
+  "oracle_text": "Activated abilities of creatures you control cost {X} less to activate, where X is Agatha's power. This effect can't reduce the mana in that cost to less than one mana.\n{4}{R}{G}: Other creatures you control get +1/+1 and gain trample and haste until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "909bf1bb-3277-41d6-af0f-293df1203099",
+  "set": "pwoe",
+  "set_name": "Wilds of Eldraine Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/909bf1bb-3277-41d6-af0f-293df1203099",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwoe&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwoe?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ee82ee3a-8e84-4eb8-8ca7-3fc09eb6ca33/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af398d222-f8e7-4983-9a77-267adef7f551&unique=prints",
+  "collector_number": "199p",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason A. Engle",
+  "artist_ids": [
+    "02e2b5de-4341-464c-8fdb-a1adbf873bc0"
+  ],
+  "illustration_id": "a12832a9-fc99-4333-8fa0-b959a4569446",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 4937,
+  "penny_rank": 5489,
+  "prices": {
+    "usd": "1.74",
+    "usd_foil": "2.21",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAgatha%2Bof%2Bthe%2BVile%2BCauldron",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAgatha%2Bof%2Bthe%2BVile%2BCauldron",
+    "edhrec": "https://edhrec.com/route/?cc=Agatha+of+the+Vile+Cauldron"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F514281%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Agatha+of+the+Vile+Cauldron&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Agatha+of+the+Vile+Cauldron&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

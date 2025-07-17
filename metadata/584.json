@@ -1,0 +1,148 @@
+{
+  "object": "card",
+  "id": "0149b45d-b7d4-46bf-ba3a-5137e93ea607",
+  "oracle_id": "3a310554-3f69-4158-bb94-9d6965c7125a",
+  "multiverse_ids": [],
+  "tcgplayer_id": 574873,
+  "cardmarket_id": 786868,
+  "name": "Minsc & Boo, Timeless Heroes",
+  "lang": "en",
+  "released_at": "2024-08-25",
+  "uri": "https://api.scryfall.com/cards/0149b45d-b7d4-46bf-ba3a-5137e93ea607",
+  "scryfall_uri": "https://scryfall.com/card/sld/879/minsc-&-boo-timeless-heroes?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/1/0149b45d-b7d4-46bf-ba3a-5137e93ea607.jpg?1743403483",
+    "normal": "https://cards.scryfall.io/normal/front/0/1/0149b45d-b7d4-46bf-ba3a-5137e93ea607.jpg?1743403483",
+    "large": "https://cards.scryfall.io/large/front/0/1/0149b45d-b7d4-46bf-ba3a-5137e93ea607.jpg?1743403483",
+    "png": "https://cards.scryfall.io/png/front/0/1/0149b45d-b7d4-46bf-ba3a-5137e93ea607.png?1743403483",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/1/0149b45d-b7d4-46bf-ba3a-5137e93ea607.jpg?1743403483",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/1/0149b45d-b7d4-46bf-ba3a-5137e93ea607.jpg?1743403483"
+  },
+  "mana_cost": "{2}{R}{G}",
+  "cmc": 4,
+  "type_line": "Legendary Planeswalker — Minsc",
+  "oracle_text": "When Minsc & Boo enters and at the beginning of your upkeep, you may create Boo, a legendary 1/1 red Hamster creature token with trample and haste.\n+1: Put three +1/+1 counters on up to one target creature with trample or haste.\n−2: Sacrifice a creature. When you do, Minsc & Boo deals X damage to any target, where X is that creature's power. If the sacrificed creature was a Hamster, draw X cards.\nMinsc & Boo, Timeless Heroes can be your commander.",
+  "loyalty": "3",
+  "colors": [
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "0149b45d-b7d4-46bf-ba3a-5137e93ea607",
+      "component": "combo_piece",
+      "name": "Minsc & Boo, Timeless Heroes",
+      "type_line": "Legendary Planeswalker — Minsc",
+      "uri": "https://api.scryfall.com/cards/0149b45d-b7d4-46bf-ba3a-5137e93ea607"
+    },
+    {
+      "object": "related_card",
+      "id": "0d0475e9-68ae-4553-a5ef-650091e04967",
+      "component": "token",
+      "name": "Boo",
+      "type_line": "Token Legendary Creature — Hamster",
+      "uri": "https://api.scryfall.com/cards/0d0475e9-68ae-4553-a5ef-650091e04967"
+    },
+    {
+      "object": "related_card",
+      "id": "b2e28dd8-77f0-40b1-ad03-0d5671d41f0e",
+      "component": "combo_piece",
+      "name": "A-Minsc & Boo, Timeless Heroes",
+      "type_line": "Legendary Planeswalker — Minsc",
+      "uri": "https://api.scryfall.com/cards/b2e28dd8-77f0-40b1-ad03-0d5671d41f0e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "banned",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "restricted",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0149b45d-b7d4-46bf-ba3a-5137e93ea607/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3a310554-3f69-4158-bb94-9d6965c7125a&unique=prints",
+  "collector_number": "879",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Justin Gerard",
+  "artist_ids": [
+    "7548479e-1d37-42e1-ade0-9d88748f2f47"
+  ],
+  "illustration_id": "5edc127e-4424-4447-ad61-33871546519d",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "sldbonus"
+  ],
+  "edhrec_rank": 3207,
+  "prices": {
+    "usd": null,
+    "usd_foil": "435.15",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "370.07",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMinsc%2B%2526%2BBoo%252C%2BTimeless%2BHeroes",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMinsc%2B%2526%2BBoo%252C%2BTimeless%2BHeroes",
+    "edhrec": "https://edhrec.com/route/?cc=Minsc+%26+Boo%2C+Timeless+Heroes"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F574873%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=786868&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Minsc+%26+Boo%2C+Timeless+Heroes&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

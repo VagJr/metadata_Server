@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "c7a760c9-eeb5-4b83-b68b-f6738915f534",
+  "oracle_id": "6f81bef3-6ca0-4cf4-aa99-7b2813eeef04",
+  "multiverse_ids": [
+    559899
+  ],
+  "mtgo_id": 99095,
+  "tcgplayer_id": 269685,
+  "cardmarket_id": 652911,
+  "name": "Assemble the Legion",
+  "lang": "en",
+  "released_at": "2022-04-29",
+  "uri": "https://api.scryfall.com/cards/c7a760c9-eeb5-4b83-b68b-f6738915f534",
+  "scryfall_uri": "https://scryfall.com/card/ncc/327/assemble-the-legion?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/7/c7a760c9-eeb5-4b83-b68b-f6738915f534.jpg?1673484945",
+    "normal": "https://cards.scryfall.io/normal/front/c/7/c7a760c9-eeb5-4b83-b68b-f6738915f534.jpg?1673484945",
+    "large": "https://cards.scryfall.io/large/front/c/7/c7a760c9-eeb5-4b83-b68b-f6738915f534.jpg?1673484945",
+    "png": "https://cards.scryfall.io/png/front/c/7/c7a760c9-eeb5-4b83-b68b-f6738915f534.png?1673484945",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/7/c7a760c9-eeb5-4b83-b68b-f6738915f534.jpg?1673484945",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/7/c7a760c9-eeb5-4b83-b68b-f6738915f534.jpg?1673484945"
+  },
+  "mana_cost": "{3}{R}{W}",
+  "cmc": 5,
+  "type_line": "Enchantment",
+  "oracle_text": "At the beginning of your upkeep, put a muster counter on this enchantment. Then create a 1/1 red and white Soldier creature token with haste for each muster counter on this enchantment.",
+  "colors": [
+    "R",
+    "W"
+  ],
+  "color_identity": [
+    "R",
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "cedd9906-3b52-43a3-bae8-fb6df5843d8a",
+      "component": "token",
+      "name": "Soldier",
+      "type_line": "Token Creature — Soldier",
+      "uri": "https://api.scryfall.com/cards/cedd9906-3b52-43a3-bae8-fb6df5843d8a"
+    },
+    {
+      "object": "related_card",
+      "id": "c7a760c9-eeb5-4b83-b68b-f6738915f534",
+      "component": "combo_piece",
+      "name": "Assemble the Legion",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/c7a760c9-eeb5-4b83-b68b-f6738915f534"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c51de34b-d4d6-4179-a432-573744ded119",
+  "set": "ncc",
+  "set_name": "New Capenna Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/c51de34b-d4d6-4179-a432-573744ded119",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ancc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ncc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c7a760c9-eeb5-4b83-b68b-f6738915f534/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6f81bef3-6ca0-4cf4-aa99-7b2813eeef04&unique=prints",
+  "collector_number": "327",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Eric Deschamps",
+  "artist_ids": [
+    "37970e22-9cee-44c1-af44-5ee27cf26b76"
+  ],
+  "illustration_id": "62a2a01c-4c61-47df-a7fa-47f0d21c7637",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1806,
+  "penny_rank": 3084,
+  "prices": {
+    "usd": "0.23",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=559899&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAssemble%2Bthe%2BLegion",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAssemble%2Bthe%2BLegion",
+    "edhrec": "https://edhrec.com/route/?cc=Assemble+the+Legion"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F269685%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=652911&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/99095?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "object": "card",
+  "id": "3d0ae4aa-7681-4663-ad08-da23f85ab08a",
+  "oracle_id": "73bddfdb-d1fb-4038-b676-201f6b82beb0",
+  "multiverse_ids": [],
+  "tcgplayer_id": 109902,
+  "cardmarket_id": 15311,
+  "name": "Wanderlust",
+  "printed_name": "Errance",
+  "lang": "fr",
+  "released_at": "1994-04-11",
+  "uri": "https://api.scryfall.com/cards/3d0ae4aa-7681-4663-ad08-da23f85ab08a",
+  "scryfall_uri": "https://scryfall.com/card/fbb/227/fr/errance-(wanderlust)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/d/3d0ae4aa-7681-4663-ad08-da23f85ab08a.jpg?1539998848",
+    "normal": "https://cards.scryfall.io/normal/front/3/d/3d0ae4aa-7681-4663-ad08-da23f85ab08a.jpg?1539998848",
+    "large": "https://cards.scryfall.io/large/front/3/d/3d0ae4aa-7681-4663-ad08-da23f85ab08a.jpg?1539998848",
+    "png": "https://cards.scryfall.io/png/front/3/d/3d0ae4aa-7681-4663-ad08-da23f85ab08a.png?1539998848",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/d/3d0ae4aa-7681-4663-ad08-da23f85ab08a.jpg?1539998848",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/d/3d0ae4aa-7681-4663-ad08-da23f85ab08a.jpg?1539998848"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant creature\nAt the beginning of the upkeep of enchanted creature's controller, this Aura deals 1 damage to that player.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "60648044-9f6a-4961-81af-47a0a94dfac9",
+  "set": "fbb",
+  "set_name": "Foreign Black Border",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/60648044-9f6a-4961-81af-47a0a94dfac9",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afbb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fbb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3d0ae4aa-7681-4663-ad08-da23f85ab08a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A73bddfdb-d1fb-4038-b676-201f6b82beb0&unique=prints",
+  "collector_number": "227",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Cornelius Brudi",
+  "artist_ids": [
+    "1dac5a8b-ce8d-43f0-95ee-2180a4502344"
+  ],
+  "illustration_id": "34cd9997-35cc-4187-bd5d-f80e4e288b48",
+  "border_color": "black",
+  "frame": "1993",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 26844,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.39",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWanderlust",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWanderlust",
+    "edhrec": "https://edhrec.com/route/?cc=Wanderlust"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F109902%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=15311&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wanderlust&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

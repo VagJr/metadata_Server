@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "4eeb4971-38e6-4348-8284-f6de92ac1179",
+  "oracle_id": "2452be47-cc23-47f7-a3a1-fec900bb0119",
+  "multiverse_ids": [],
+  "tcgplayer_id": 526734,
+  "name": "Kitesail Larcenist",
+  "lang": "en",
+  "released_at": "2023-11-17",
+  "uri": "https://api.scryfall.com/cards/4eeb4971-38e6-4348-8284-f6de92ac1179",
+  "scryfall_uri": "https://scryfall.com/card/plci/61s/kitesail-larcenist?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/e/4eeb4971-38e6-4348-8284-f6de92ac1179.jpg?1701304356",
+    "normal": "https://cards.scryfall.io/normal/front/4/e/4eeb4971-38e6-4348-8284-f6de92ac1179.jpg?1701304356",
+    "large": "https://cards.scryfall.io/large/front/4/e/4eeb4971-38e6-4348-8284-f6de92ac1179.jpg?1701304356",
+    "png": "https://cards.scryfall.io/png/front/4/e/4eeb4971-38e6-4348-8284-f6de92ac1179.png?1701304356",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/e/4eeb4971-38e6-4348-8284-f6de92ac1179.jpg?1701304356",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/e/4eeb4971-38e6-4348-8284-f6de92ac1179.jpg?1701304356"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Creature — Human Pirate",
+  "oracle_text": "Flying, ward {1}\nWhen this creature enters, for each player, choose up to one other target artifact or creature that player controls. For as long as this creature remains on the battlefield, the chosen permanents become Treasure artifacts with \"{T}, Sacrifice this artifact: Add one mana of any color\" and lose all other abilities.",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying",
+    "Ward"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c2d4f3dd-aea0-4aec-bf7d-477e625483a6",
+  "set": "plci",
+  "set_name": "The Lost Caverns of Ixalan Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/c2d4f3dd-aea0-4aec-bf7d-477e625483a6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplci&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plci?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4eeb4971-38e6-4348-8284-f6de92ac1179/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2452be47-cc23-47f7-a3a1-fec900bb0119&unique=prints",
+  "collector_number": "61s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Sidharth Chaturvedi",
+  "artist_ids": [
+    "55e6d846-2f73-4fba-9b88-441686bb8dcb"
+  ],
+  "illustration_id": "f7c2240b-99b8-4536-ba82-83db06d6afac",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 3395,
+  "penny_rank": 1246,
+  "prices": {
+    "usd": null,
+    "usd_foil": "2.14",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKitesail%2BLarcenist",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKitesail%2BLarcenist",
+    "edhrec": "https://edhrec.com/route/?cc=Kitesail+Larcenist"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F526734%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kitesail+Larcenist&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kitesail+Larcenist&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

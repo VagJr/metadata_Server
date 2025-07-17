@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "2411c341-a470-4484-9248-7c1d3ca12978",
+  "oracle_id": "6a92b011-fd01-4b6a-a17c-73ac1967ff98",
+  "multiverse_ids": [
+    503732
+  ],
+  "mtgo_id": 87575,
+  "arena_id": 75163,
+  "tcgplayer_id": 230220,
+  "cardmarket_id": 530717,
+  "name": "Axgard Cavalry",
+  "lang": "en",
+  "released_at": "2021-02-05",
+  "uri": "https://api.scryfall.com/cards/2411c341-a470-4484-9248-7c1d3ca12978",
+  "scryfall_uri": "https://scryfall.com/card/khm/121/axgard-cavalry?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/4/2411c341-a470-4484-9248-7c1d3ca12978.jpg?1631048886",
+    "normal": "https://cards.scryfall.io/normal/front/2/4/2411c341-a470-4484-9248-7c1d3ca12978.jpg?1631048886",
+    "large": "https://cards.scryfall.io/large/front/2/4/2411c341-a470-4484-9248-7c1d3ca12978.jpg?1631048886",
+    "png": "https://cards.scryfall.io/png/front/2/4/2411c341-a470-4484-9248-7c1d3ca12978.png?1631048886",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/4/2411c341-a470-4484-9248-7c1d3ca12978.jpg?1631048886",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/4/2411c341-a470-4484-9248-7c1d3ca12978.jpg?1631048886"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Creature — Dwarf Berserker",
+  "oracle_text": "{T}: Target creature gains haste until end of turn. (It can attack and {T} this turn.)",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "43057fad-b1c1-437f-bc48-0045bce6d8c9",
+  "set": "khm",
+  "set_name": "Kaldheim",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/43057fad-b1c1-437f-bc48-0045bce6d8c9",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Akhm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/khm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2411c341-a470-4484-9248-7c1d3ca12978/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6a92b011-fd01-4b6a-a17c-73ac1967ff98&unique=prints",
+  "collector_number": "121",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Riding the goat\n—Dwarven expression meaning\n\"a foolhardy act of bravery\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Evyn Fong",
+  "artist_ids": [
+    "6777be9f-5724-4fdb-b6a0-a83f63efa4ca"
+  ],
+  "illustration_id": "04d90735-8a09-4a66-a17b-5a9fca584d67",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 6329,
+  "preview": {
+    "source": "Shinken25",
+    "source_uri": "https://twitter.com/Shinken27/status/1348711872262938627",
+    "previewed_at": "2021-01-11"
+  },
+  "prices": {
+    "usd": "0.04",
+    "usd_foil": "0.19",
+    "usd_etched": null,
+    "eur": "0.08",
+    "eur_foil": "0.15",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503732&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAxgard%2BCavalry",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAxgard%2BCavalry",
+    "edhrec": "https://edhrec.com/route/?cc=Axgard+Cavalry"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F230220%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=530717&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/87575?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

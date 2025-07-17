@@ -1,0 +1,113 @@
+{
+  "object": "card",
+  "id": "f2723238-51f9-4250-83ff-edd59f03d08e",
+  "oracle_id": "58321467-41d6-4419-bcb2-cd3e60f677b3",
+  "multiverse_ids": [],
+  "arena_id": 76054,
+  "name": "Sinister Starfish",
+  "lang": "en",
+  "released_at": "2021-08-26",
+  "uri": "https://api.scryfall.com/cards/f2723238-51f9-4250-83ff-edd59f03d08e",
+  "scryfall_uri": "https://scryfall.com/card/j21/383/sinister-starfish?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/2/f2723238-51f9-4250-83ff-edd59f03d08e.jpg?1630248189",
+    "normal": "https://cards.scryfall.io/normal/front/f/2/f2723238-51f9-4250-83ff-edd59f03d08e.jpg?1630248189",
+    "large": "https://cards.scryfall.io/large/front/f/2/f2723238-51f9-4250-83ff-edd59f03d08e.jpg?1630248189",
+    "png": "https://cards.scryfall.io/png/front/f/2/f2723238-51f9-4250-83ff-edd59f03d08e.png?1630248189",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/2/f2723238-51f9-4250-83ff-edd59f03d08e.jpg?1630248189",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/2/f2723238-51f9-4250-83ff-edd59f03d08e.jpg?1630248189"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2,
+  "type_line": "Creature — Starfish",
+  "oracle_text": "{T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+  "power": "0",
+  "toughness": "3",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Surveil"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e1cc23bd-379b-4f2c-a4e0-83fc1e7be023",
+  "set": "j21",
+  "set_name": "Jumpstart: Historic Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/e1cc23bd-379b-4f2c-a4e0-83fc1e7be023",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj21&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j21?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f2723238-51f9-4250-83ff-edd59f03d08e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A58321467-41d6-4419-bcb2-cd3e60f677b3&unique=prints",
+  "collector_number": "383",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nils Hamm",
+  "artist_ids": [
+    "c540d1fc-1500-457f-93cf-d6069ee66546"
+  ],
+  "illustration_id": "33c1fbd2-1267-4f52-81c3-d33112442296",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 8524,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSinister%2BStarfish",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSinister%2BStarfish",
+    "edhrec": "https://edhrec.com/route/?cc=Sinister+Starfish"
+  }
+}

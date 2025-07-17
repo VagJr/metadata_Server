@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "1872af8f-aa13-4e72-a6b5-cc01d9960151",
+  "oracle_id": "4f4ec0fa-fcaf-4dc2-9c67-ee7881f5f77d",
+  "multiverse_ids": [],
+  "mtgo_id": 86012,
+  "name": "Emberwilde Captain",
+  "lang": "en",
+  "released_at": "2020-12-15",
+  "uri": "https://api.scryfall.com/cards/1872af8f-aa13-4e72-a6b5-cc01d9960151",
+  "scryfall_uri": "https://scryfall.com/card/prm/86012/emberwilde-captain?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/8/1872af8f-aa13-4e72-a6b5-cc01d9960151.jpg?1630637307",
+    "normal": "https://cards.scryfall.io/normal/front/1/8/1872af8f-aa13-4e72-a6b5-cc01d9960151.jpg?1630637307",
+    "large": "https://cards.scryfall.io/large/front/1/8/1872af8f-aa13-4e72-a6b5-cc01d9960151.jpg?1630637307",
+    "png": "https://cards.scryfall.io/png/front/1/8/1872af8f-aa13-4e72-a6b5-cc01d9960151.png?1630637307",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/8/1872af8f-aa13-4e72-a6b5-cc01d9960151.jpg?1630637307",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/8/1872af8f-aa13-4e72-a6b5-cc01d9960151.jpg?1630637307"
+  },
+  "mana_cost": "{3}{R}",
+  "cmc": 4,
+  "type_line": "Creature — Djinn Pirate",
+  "oracle_text": "When this creature enters, you become the monarch.\nWhenever an opponent attacks you while you're the monarch, this creature deals damage to that player equal to the number of cards in their hand.",
+  "power": "4",
+  "toughness": "2",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "1872af8f-aa13-4e72-a6b5-cc01d9960151",
+      "component": "combo_piece",
+      "name": "Emberwilde Captain",
+      "type_line": "Creature — Djinn Pirate",
+      "uri": "https://api.scryfall.com/cards/1872af8f-aa13-4e72-a6b5-cc01d9960151"
+    },
+    {
+      "object": "related_card",
+      "id": "66f569e1-5a37-4801-be01-9c5d44a82427",
+      "component": "combo_piece",
+      "name": "The Monarch",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/66f569e1-5a37-4801-be01-9c5d44a82427"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1872af8f-aa13-4e72-a6b5-cc01d9960151/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4f4ec0fa-fcaf-4dc2-9c67-ee7881f5f77d&unique=prints",
+  "collector_number": "86012",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tyler Walpole",
+  "artist_ids": [
+    "70c4c8c7-61a8-44e7-8fb1-161b7f943e7e"
+  ],
+  "illustration_id": "767f5d55-50ef-4011-8b22-97a4a9bcaa43",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3032,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "4.01"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEmberwilde%2BCaptain",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEmberwilde%2BCaptain",
+    "edhrec": "https://edhrec.com/route/?cc=Emberwilde+Captain"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DEmberwilde%2BCaptain%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Emberwilde+Captain&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/86012?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "694ae39b-7c45-4e94-9443-38467d7ab224",
+  "oracle_id": "22fe038e-033e-4632-a0d7-116492cded83",
+  "multiverse_ids": [],
+  "mtgo_id": 96648,
+  "tcgplayer_id": 255644,
+  "cardmarket_id": 584976,
+  "name": "Howl of the Hunt",
+  "lang": "en",
+  "released_at": "2022-01-28",
+  "uri": "https://api.scryfall.com/cards/694ae39b-7c45-4e94-9443-38467d7ab224",
+  "scryfall_uri": "https://scryfall.com/card/dbl/188/howl-of-the-hunt?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/9/694ae39b-7c45-4e94-9443-38467d7ab224.jpg?1673160459",
+    "normal": "https://cards.scryfall.io/normal/front/6/9/694ae39b-7c45-4e94-9443-38467d7ab224.jpg?1673160459",
+    "large": "https://cards.scryfall.io/large/front/6/9/694ae39b-7c45-4e94-9443-38467d7ab224.jpg?1673160459",
+    "png": "https://cards.scryfall.io/png/front/6/9/694ae39b-7c45-4e94-9443-38467d7ab224.png?1673160459",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/9/694ae39b-7c45-4e94-9443-38467d7ab224.jpg?1673160459",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/9/694ae39b-7c45-4e94-9443-38467d7ab224.jpg?1673160459"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Flash\nEnchant creature\nWhen this Aura enters, if enchanted creature is a Wolf or Werewolf, untap that creature.\nEnchanted creature gets +2/+2 and has vigilance.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Enchant",
+    "Flash"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set": "dbl",
+  "set_name": "Innistrad: Double Feature",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adbl&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dbl?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/694ae39b-7c45-4e94-9443-38467d7ab224/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A22fe038e-033e-4632-a0d7-116492cded83&unique=prints",
+  "collector_number": "188",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Josu Hernaiz",
+  "artist_ids": [
+    "74246024-92b4-43d0-a5af-a3f9f2a35d5f"
+  ],
+  "illustration_id": "00ff6b71-1ab7-4740-84e1-3c3ed804c298",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 13769,
+  "prices": {
+    "usd": "0.12",
+    "usd_foil": "0.44",
+    "usd_etched": null,
+    "eur": "0.19",
+    "eur_foil": "0.22",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHowl%2Bof%2Bthe%2BHunt",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHowl%2Bof%2Bthe%2BHunt",
+    "edhrec": "https://edhrec.com/route/?cc=Howl+of+the+Hunt"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F255644%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=584976&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/96648?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

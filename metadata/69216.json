@@ -1,0 +1,163 @@
+{
+  "object": "card",
+  "id": "a376835d-ac7a-40c8-89c4-a65bac9e2399",
+  "oracle_id": "4f5096d4-bbb5-4a48-9dd0-9dabdd2ac125",
+  "multiverse_ids": [],
+  "mtgo_id": 78822,
+  "name": "Merfolk Secretkeeper // Venture Deeper",
+  "lang": "en",
+  "released_at": "2019-10-06",
+  "uri": "https://api.scryfall.com/cards/a376835d-ac7a-40c8-89c4-a65bac9e2399",
+  "scryfall_uri": "https://scryfall.com/card/prm/78822/merfolk-secretkeeper-venture-deeper?utm_source=api",
+  "layout": "adventure",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/3/a376835d-ac7a-40c8-89c4-a65bac9e2399.jpg?1585973872",
+    "normal": "https://cards.scryfall.io/normal/front/a/3/a376835d-ac7a-40c8-89c4-a65bac9e2399.jpg?1585973872",
+    "large": "https://cards.scryfall.io/large/front/a/3/a376835d-ac7a-40c8-89c4-a65bac9e2399.jpg?1585973872",
+    "png": "https://cards.scryfall.io/png/front/a/3/a376835d-ac7a-40c8-89c4-a65bac9e2399.png?1585973872",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/3/a376835d-ac7a-40c8-89c4-a65bac9e2399.jpg?1585973872",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/3/a376835d-ac7a-40c8-89c4-a65bac9e2399.jpg?1585973872"
+  },
+  "mana_cost": "{U} // {U}",
+  "cmc": 1,
+  "type_line": "Creature — Merfolk Wizard // Sorcery — Adventure",
+  "power": "0",
+  "toughness": "4",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Merfolk Secretkeeper",
+      "mana_cost": "{U}",
+      "type_line": "Creature — Merfolk Wizard",
+      "oracle_text": "",
+      "power": "0",
+      "toughness": "4",
+      "flavor_text": "Merfolk curiosity usually has dire consequences, but rarely for the merfolk.",
+      "artist": "Allen Williams",
+      "artist_id": "8a56d854-b424-45ec-9262-e993a382a961",
+      "illustration_id": "d7721480-f56b-42c1-af47-303dccb3813b"
+    },
+    {
+      "object": "card_face",
+      "name": "Venture Deeper",
+      "mana_cost": "{U}",
+      "type_line": "Sorcery — Adventure",
+      "oracle_text": "Target player mills four cards. (Then exile this card. You may cast the creature later from exile.)",
+      "artist": "Allen Williams",
+      "artist_id": "8a56d854-b424-45ec-9262-e993a382a961"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a376835d-ac7a-40c8-89c4-a65bac9e2399",
+      "component": "combo_piece",
+      "name": "Merfolk Secretkeeper // Venture Deeper",
+      "type_line": "Creature — Merfolk Wizard // Sorcery — Adventure",
+      "uri": "https://api.scryfall.com/cards/a376835d-ac7a-40c8-89c4-a65bac9e2399"
+    },
+    {
+      "object": "related_card",
+      "id": "fcf4c7fb-7859-4c11-8552-6817f5119d2e",
+      "component": "combo_piece",
+      "name": "On an Adventure",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/fcf4c7fb-7859-4c11-8552-6817f5119d2e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a376835d-ac7a-40c8-89c4-a65bac9e2399/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4f5096d4-bbb5-4a48-9dd0-9dabdd2ac125&unique=prints",
+  "collector_number": "78822",
+  "digital": true,
+  "rarity": "common",
+  "flavor_text": "Merfolk curiosity usually has dire consequences, but rarely for the merfolk.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Allen Williams",
+  "artist_ids": [
+    "8a56d854-b424-45ec-9262-e993a382a961"
+  ],
+  "illustration_id": "d7721480-f56b-42c1-af47-303dccb3813b",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 11715,
+  "penny_rank": 2967,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.30"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMerfolk%2BSecretkeeper%2B%252F%252F%2BVenture%2BDeeper",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMerfolk%2BSecretkeeper%2B%252F%252F%2BVenture%2BDeeper",
+    "edhrec": "https://edhrec.com/route/?cc=Merfolk+Secretkeeper"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DMerfolk%2BSecretkeeper%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Merfolk+Secretkeeper&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/78822?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

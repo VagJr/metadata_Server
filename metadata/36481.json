@@ -1,0 +1,148 @@
+{
+  "object": "card",
+  "id": "564a9faa-71a6-4481-ac7e-1fc0f9b11e1a",
+  "oracle_id": "22a93a6d-fe58-4135-8ac2-6b92e9bb75a3",
+  "multiverse_ids": [],
+  "tcgplayer_id": 168422,
+  "cardmarket_id": 359342,
+  "name": "Sylvia Brightspear",
+  "lang": "en",
+  "released_at": "2018-06-08",
+  "uri": "https://api.scryfall.com/cards/564a9faa-71a6-4481-ac7e-1fc0f9b11e1a",
+  "scryfall_uri": "https://scryfall.com/card/pbbd/10s/sylvia-brightspear?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/6/564a9faa-71a6-4481-ac7e-1fc0f9b11e1a.jpg?1561897072",
+    "normal": "https://cards.scryfall.io/normal/front/5/6/564a9faa-71a6-4481-ac7e-1fc0f9b11e1a.jpg?1561897072",
+    "large": "https://cards.scryfall.io/large/front/5/6/564a9faa-71a6-4481-ac7e-1fc0f9b11e1a.jpg?1561897072",
+    "png": "https://cards.scryfall.io/png/front/5/6/564a9faa-71a6-4481-ac7e-1fc0f9b11e1a.png?1561897072",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/6/564a9faa-71a6-4481-ac7e-1fc0f9b11e1a.jpg?1561897072",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/6/564a9faa-71a6-4481-ac7e-1fc0f9b11e1a.jpg?1561897072"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Human Knight",
+  "oracle_text": "Partner with Khorvath Brightflame (When this creature enters, target player may put Khorvath into their hand from their library, then shuffle.)\nDouble strike\nDragons your team controls have double strike.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Partner with",
+    "Partner",
+    "Double strike"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "564a9faa-71a6-4481-ac7e-1fc0f9b11e1a",
+      "component": "combo_piece",
+      "name": "Sylvia Brightspear",
+      "type_line": "Legendary Creature — Human Knight",
+      "uri": "https://api.scryfall.com/cards/564a9faa-71a6-4481-ac7e-1fc0f9b11e1a"
+    },
+    {
+      "object": "related_card",
+      "id": "32c9cc8f-913e-46b4-9e17-050f977e77f3",
+      "component": "combo_piece",
+      "name": "Khorvath Brightflame",
+      "type_line": "Legendary Creature — Dragon",
+      "uri": "https://api.scryfall.com/cards/32c9cc8f-913e-46b4-9e17-050f977e77f3"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "04e3fb66-920f-4c47-b17e-8aa2681cebdf",
+  "set": "pbbd",
+  "set_name": "Battlebond Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/04e3fb66-920f-4c47-b17e-8aa2681cebdf",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apbbd&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pbbd?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/564a9faa-71a6-4481-ac7e-1fc0f9b11e1a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A22a93a6d-fe58-4135-8ac2-6b92e9bb75a3&unique=prints",
+  "collector_number": "10s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Carmen Sinek",
+  "artist_ids": [
+    "5297be65-a0a7-4dd3-9f02-2ae751884e87"
+  ],
+  "illustration_id": "f0ec387d-b96b-4de2-b383-3243c246b54e",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 9701,
+  "prices": {
+    "usd": null,
+    "usd_foil": "7.68",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "3.25",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSylvia%2BBrightspear",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSylvia%2BBrightspear",
+    "edhrec": "https://edhrec.com/route/?cc=Sylvia+Brightspear"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F168422%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=359342&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sylvia+Brightspear&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "object": "card",
+  "id": "77720d2e-2b7b-492b-852c-eea5061eb31b",
+  "oracle_id": "a3c1af66-63c8-41ec-a401-a3da1131dc67",
+  "multiverse_ids": [
+    607149,
+    607150
+  ],
+  "mtgo_id": 110070,
+  "arena_id": 84385,
+  "tcgplayer_id": 490635,
+  "cardmarket_id": 704028,
+  "name": "Invasion of Innistrad // Deluge of the Dead",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/77720d2e-2b7b-492b-852c-eea5061eb31b",
+  "scryfall_uri": "https://scryfall.com/card/mom/115/invasion-of-innistrad-deluge-of-the-dead?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 4,
+  "type_line": "Battle — Siege // Enchantment",
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Transform",
+    "Flash"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Invasion of Innistrad",
+      "mana_cost": "{2}{B}{B}",
+      "type_line": "Battle — Siege",
+      "oracle_text": "(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)\nFlash\nWhen this Siege enters, target creature an opponent controls gets -13/-13 until end of turn.",
+      "colors": [
+        "B"
+      ],
+      "defense": "5",
+      "artist": "Alexey Kruglov",
+      "artist_id": "15c28181-aa07-4386-8657-0ca5ee6951e2",
+      "illustration_id": "f9e67f63-016e-42c0-83d3-5bc6c99edfb1",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/7/7/77720d2e-2b7b-492b-852c-eea5061eb31b.jpg?1682715272",
+        "normal": "https://cards.scryfall.io/normal/front/7/7/77720d2e-2b7b-492b-852c-eea5061eb31b.jpg?1682715272",
+        "large": "https://cards.scryfall.io/large/front/7/7/77720d2e-2b7b-492b-852c-eea5061eb31b.jpg?1682715272",
+        "png": "https://cards.scryfall.io/png/front/7/7/77720d2e-2b7b-492b-852c-eea5061eb31b.png?1682715272",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/7/7/77720d2e-2b7b-492b-852c-eea5061eb31b.jpg?1682715272",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/7/7/77720d2e-2b7b-492b-852c-eea5061eb31b.jpg?1682715272"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Deluge of the Dead",
+      "mana_cost": "",
+      "type_line": "Enchantment",
+      "oracle_text": "When this enchantment enters, create two 2/2 black Zombie creature tokens.\n{2}{B}: Exile target card from a graveyard. If it was a creature card, create a 2/2 black Zombie creature token.",
+      "colors": [
+        "B"
+      ],
+      "color_indicator": [
+        "B"
+      ],
+      "flavor_text": "The eerie magic animating Innistrad's zombies rendered them immune to phyresis, making them crucial to the plane's defense.",
+      "artist": "Alexey Kruglov",
+      "artist_id": "15c28181-aa07-4386-8657-0ca5ee6951e2",
+      "illustration_id": "0d6f057c-4797-409c-a0df-633646e35b5f",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/7/7/77720d2e-2b7b-492b-852c-eea5061eb31b.jpg?1682715272",
+        "normal": "https://cards.scryfall.io/normal/back/7/7/77720d2e-2b7b-492b-852c-eea5061eb31b.jpg?1682715272",
+        "large": "https://cards.scryfall.io/large/back/7/7/77720d2e-2b7b-492b-852c-eea5061eb31b.jpg?1682715272",
+        "png": "https://cards.scryfall.io/png/back/7/7/77720d2e-2b7b-492b-852c-eea5061eb31b.png?1682715272",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/7/7/77720d2e-2b7b-492b-852c-eea5061eb31b.jpg?1682715272",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/7/7/77720d2e-2b7b-492b-852c-eea5061eb31b.jpg?1682715272"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "77720d2e-2b7b-492b-852c-eea5061eb31b",
+      "component": "combo_piece",
+      "name": "Invasion of Innistrad // Deluge of the Dead",
+      "type_line": "Battle — Siege // Enchantment",
+      "uri": "https://api.scryfall.com/cards/77720d2e-2b7b-492b-852c-eea5061eb31b"
+    },
+    {
+      "object": "related_card",
+      "id": "eb7b2c61-b903-4669-b9a3-110418a35593",
+      "component": "token",
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "uri": "https://api.scryfall.com/cards/eb7b2c61-b903-4669-b9a3-110418a35593"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "392f7315-dc53-40a3-a2cc-5482dbd498b3",
+  "set": "mom",
+  "set_name": "March of the Machine",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/392f7315-dc53-40a3-a2cc-5482dbd498b3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/77720d2e-2b7b-492b-852c-eea5061eb31b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3c1af66-63c8-41ec-a401-a3da1131dc67&unique=prints",
+  "collector_number": "115",
+  "digital": false,
+  "rarity": "mythic",
+  "artist": "Alexey Kruglov",
+  "artist_ids": [
+    "15c28181-aa07-4386-8657-0ca5ee6951e2"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 9069,
+  "preview": {
+    "source": "Stephen Croke",
+    "source_uri": "https://twitter.com/crokeyz/status/1641779719740727297",
+    "previewed_at": "2023-03-31"
+  },
+  "prices": {
+    "usd": "0.33",
+    "usd_foil": "1.04",
+    "usd_etched": null,
+    "eur": "0.74",
+    "eur_foil": "0.87",
+    "tix": "0.41"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=607149&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DInvasion%2Bof%2BInnistrad%2B%252F%252F%2BDeluge%2Bof%2Bthe%2BDead",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DInvasion%2Bof%2BInnistrad%2B%252F%252F%2BDeluge%2Bof%2Bthe%2BDead",
+    "edhrec": "https://edhrec.com/route/?cc=Invasion+of+Innistrad"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F490635%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=704028&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/110070?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

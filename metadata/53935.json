@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "7fb40127-8aba-4a20-b03e-983ddaa605d5",
+  "oracle_id": "87a77482-f286-4fb1-b179-85b2095bb768",
+  "multiverse_ids": [],
+  "tcgplayer_id": 449444,
+  "name": "The Hive",
+  "lang": "en",
+  "released_at": "2022-11-28",
+  "uri": "https://api.scryfall.com/cards/7fb40127-8aba-4a20-b03e-983ddaa605d5",
+  "scryfall_uri": "https://scryfall.com/card/30a/540/the-hive?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/f/7fb40127-8aba-4a20-b03e-983ddaa605d5.jpg?1664929212",
+    "normal": "https://cards.scryfall.io/normal/front/7/f/7fb40127-8aba-4a20-b03e-983ddaa605d5.jpg?1664929212",
+    "large": "https://cards.scryfall.io/large/front/7/f/7fb40127-8aba-4a20-b03e-983ddaa605d5.jpg?1664929212",
+    "png": "https://cards.scryfall.io/png/front/7/f/7fb40127-8aba-4a20-b03e-983ddaa605d5.png?1664929212",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/f/7fb40127-8aba-4a20-b03e-983ddaa605d5.jpg?1664929212",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/f/7fb40127-8aba-4a20-b03e-983ddaa605d5.jpg?1664929212"
+  },
+  "mana_cost": "{5}",
+  "cmc": 5,
+  "type_line": "Artifact",
+  "oracle_text": "{5}, {T}: Create a 1/1 colorless Insect artifact creature token with flying named Wasp. (It can't be blocked except by creatures with flying or reach.)",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "7fb40127-8aba-4a20-b03e-983ddaa605d5",
+      "component": "combo_piece",
+      "name": "The Hive",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/7fb40127-8aba-4a20-b03e-983ddaa605d5"
+    },
+    {
+      "object": "related_card",
+      "id": "09921372-126f-4c81-b6d8-ea50b1d0eb44",
+      "component": "token",
+      "name": "Wasp",
+      "type_line": "Token Artifact Creature — Insect",
+      "uri": "https://api.scryfall.com/cards/09921372-126f-4c81-b6d8-ea50b1d0eb44"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c3cddb17-44d9-4abd-8d19-666f6c5171fe",
+  "set": "30a",
+  "set_name": "30th Anniversary Edition",
+  "set_type": "memorabilia",
+  "set_uri": "https://api.scryfall.com/sets/c3cddb17-44d9-4abd-8d19-666f6c5171fe",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A30a&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/30a?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7fb40127-8aba-4a20-b03e-983ddaa605d5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A87a77482-f286-4fb1-b179-85b2095bb768&unique=prints",
+  "collector_number": "540",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "049a6229-ace9-4363-816a-60cb8773e95d",
+  "artist": "Sandra Everingham",
+  "artist_ids": [
+    "8a8ac2c8-84c9-4274-9960-a19a97f0bde5"
+  ],
+  "illustration_id": "4011b49b-b5aa-495b-bb22-76e55b31ff66",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 23167,
+  "penny_rank": 16915,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThe%2BHive",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThe%2BHive",
+    "edhrec": "https://edhrec.com/route/?cc=The+Hive"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F449444%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=The+Hive&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=The+Hive&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

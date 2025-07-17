@@ -1,0 +1,149 @@
+{
+  "object": "card",
+  "id": "b4e0debd-0157-4a7f-ac84-b322a821d88e",
+  "oracle_id": "a7a0e473-77c1-4a85-b6d7-b0dfdadb696f",
+  "multiverse_ids": [
+    681883
+  ],
+  "arena_id": 92964,
+  "tcgplayer_id": 589851,
+  "cardmarket_id": 796482,
+  "name": "Contract Killing",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/b4e0debd-0157-4a7f-ac84-b322a821d88e",
+  "scryfall_uri": "https://scryfall.com/card/j25/413/contract-killing?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/4/b4e0debd-0157-4a7f-ac84-b322a821d88e.jpg?1730487188",
+    "normal": "https://cards.scryfall.io/normal/front/b/4/b4e0debd-0157-4a7f-ac84-b322a821d88e.jpg?1730487188",
+    "large": "https://cards.scryfall.io/large/front/b/4/b4e0debd-0157-4a7f-ac84-b322a821d88e.jpg?1730487188",
+    "png": "https://cards.scryfall.io/png/front/b/4/b4e0debd-0157-4a7f-ac84-b322a821d88e.png?1730487188",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/4/b4e0debd-0157-4a7f-ac84-b322a821d88e.jpg?1730487188",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/4/b4e0debd-0157-4a7f-ac84-b322a821d88e.jpg?1730487188"
+  },
+  "mana_cost": "{3}{B}{B}",
+  "cmc": 5,
+  "type_line": "Sorcery",
+  "oracle_text": "Destroy target creature. Create two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Treasure"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "21210145-8edd-41f5-9a64-9f0b5be79864",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/21210145-8edd-41f5-9a64-9f0b5be79864"
+    },
+    {
+      "object": "related_card",
+      "id": "b4e0debd-0157-4a7f-ac84-b322a821d88e",
+      "component": "combo_piece",
+      "name": "Contract Killing",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/b4e0debd-0157-4a7f-ac84-b322a821d88e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9201567c-bab5-4720-aac9-260e6741f115",
+  "set": "j25",
+  "set_name": "Foundations Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/9201567c-bab5-4720-aac9-260e6741f115",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj25&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j25?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b4e0debd-0157-4a7f-ac84-b322a821d88e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa7a0e473-77c1-4a85-b6d7-b0dfdadb696f&unique=prints",
+  "collector_number": "413",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "For a price, the floating city of High and Dry offers all the amenities a pirate could want: rest, recreation, and revenge.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Winona Nelson",
+  "artist_ids": [
+    "e45fe8d3-75d6-42c9-a2df-e945ad81ea27"
+  ],
+  "illustration_id": "4335a6df-493c-43ca-813d-a548eb56a999",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 14416,
+  "penny_rank": 10728,
+  "prices": {
+    "usd": "0.05",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.14",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=681883&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DContract%2BKilling",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DContract%2BKilling",
+    "edhrec": "https://edhrec.com/route/?cc=Contract+Killing"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F589851%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=796482&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Contract+Killing&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

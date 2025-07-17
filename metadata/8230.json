@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "12fd6d4d-203b-4a2e-8726-1533fe74e475",
+  "oracle_id": "bdce1af0-3643-4e77-88f9-320206a191d4",
+  "multiverse_ids": [],
+  "tcgplayer_id": 583037,
+  "name": "Zombie Infestation",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/12fd6d4d-203b-4a2e-8726-1533fe74e475",
+  "scryfall_uri": "https://scryfall.com/card/plst/ODY-170/zombie-infestation?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/2/12fd6d4d-203b-4a2e-8726-1533fe74e475.jpg?1723440892",
+    "normal": "https://cards.scryfall.io/normal/front/1/2/12fd6d4d-203b-4a2e-8726-1533fe74e475.jpg?1723440892",
+    "large": "https://cards.scryfall.io/large/front/1/2/12fd6d4d-203b-4a2e-8726-1533fe74e475.jpg?1723440892",
+    "png": "https://cards.scryfall.io/png/front/1/2/12fd6d4d-203b-4a2e-8726-1533fe74e475.png?1723440892",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/2/12fd6d4d-203b-4a2e-8726-1533fe74e475.jpg?1723440892",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/2/12fd6d4d-203b-4a2e-8726-1533fe74e475.jpg?1723440892"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2,
+  "type_line": "Enchantment",
+  "oracle_text": "Discard two cards: Create a 2/2 black Zombie creature token.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "12fd6d4d-203b-4a2e-8726-1533fe74e475",
+      "component": "combo_piece",
+      "name": "Zombie Infestation",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/12fd6d4d-203b-4a2e-8726-1533fe74e475"
+    },
+    {
+      "object": "related_card",
+      "id": "d5edee6d-ab70-48e3-9c9f-b671728448d6",
+      "component": "token",
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "uri": "https://api.scryfall.com/cards/d5edee6d-ab70-48e3-9c9f-b671728448d6"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/12fd6d4d-203b-4a2e-8726-1533fe74e475/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abdce1af0-3643-4e77-88f9-320206a191d4&unique=prints",
+  "collector_number": "ODY-170",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "The nomads' funeral pyres are more practical than ceremonial.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Thomas M. Baxa",
+  "artist_ids": [
+    "ff346569-557d-4043-ae44-97c2c7cabd7d"
+  ],
+  "illustration_id": "beacea9c-8415-464c-b229-6fc86a1e954a",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 8646,
+  "penny_rank": 2336,
+  "prices": {
+    "usd": "0.24",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DZombie%2BInfestation",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DZombie%2BInfestation",
+    "edhrec": "https://edhrec.com/route/?cc=Zombie+Infestation"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F583037%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Zombie+Infestation&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Zombie+Infestation&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

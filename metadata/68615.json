@@ -1,0 +1,115 @@
+{
+  "object": "card",
+  "id": "a226fa52-5926-43d2-9f05-70fd3a09ad8c",
+  "oracle_id": "13c1ca1e-cd17-49ef-bc31-97bff99ec1e3",
+  "multiverse_ids": [],
+  "arena_id": 94241,
+  "name": "Hopeful Eidolon",
+  "lang": "en",
+  "released_at": "2024-12-10",
+  "uri": "https://api.scryfall.com/cards/a226fa52-5926-43d2-9f05-70fd3a09ad8c",
+  "scryfall_uri": "https://scryfall.com/card/pio/17/hopeful-eidolon?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/2/a226fa52-5926-43d2-9f05-70fd3a09ad8c.jpg?1733180220",
+    "normal": "https://cards.scryfall.io/normal/front/a/2/a226fa52-5926-43d2-9f05-70fd3a09ad8c.jpg?1733180220",
+    "large": "https://cards.scryfall.io/large/front/a/2/a226fa52-5926-43d2-9f05-70fd3a09ad8c.jpg?1733180220",
+    "png": "https://cards.scryfall.io/png/front/a/2/a226fa52-5926-43d2-9f05-70fd3a09ad8c.png?1733180220",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/2/a226fa52-5926-43d2-9f05-70fd3a09ad8c.jpg?1733180220",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/2/a226fa52-5926-43d2-9f05-70fd3a09ad8c.jpg?1733180220"
+  },
+  "mana_cost": "{W}",
+  "cmc": 1,
+  "type_line": "Enchantment Creature — Spirit",
+  "oracle_text": "Bestow {3}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)\nEnchanted creature gets +1/+1 and has lifelink.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Lifelink",
+    "Bestow"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "713c226b-d4d9-46e1-b9c9-a04689d90ff6",
+  "set": "pio",
+  "set_name": "Pioneer Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/713c226b-d4d9-46e1-b9c9-a04689d90ff6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apio&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pio?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a226fa52-5926-43d2-9f05-70fd3a09ad8c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A13c1ca1e-cd17-49ef-bc31-97bff99ec1e3&unique=prints",
+  "collector_number": "17",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Min Yum",
+  "artist_ids": [
+    "9cb65d6f-8851-4d56-9add-9eefa274bd1b"
+  ],
+  "illustration_id": "1cbc6a6c-3ca3-4436-bd62-6acec3b16e21",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 13890,
+  "penny_rank": 4493,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHopeful%2BEidolon",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHopeful%2BEidolon",
+    "edhrec": "https://edhrec.com/route/?cc=Hopeful+Eidolon"
+  }
+}

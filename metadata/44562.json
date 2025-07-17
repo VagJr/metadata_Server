@@ -1,0 +1,118 @@
+{
+  "object": "card",
+  "id": "692942ae-15e9-4c16-ab56-fc2065991034",
+  "oracle_id": "cbd483b5-5554-43ed-a729-535d01b0d5d3",
+  "multiverse_ids": [],
+  "tcgplayer_id": 615909,
+  "name": "Jace Reawakened",
+  "lang": "ja",
+  "released_at": "2024-12-26",
+  "uri": "https://api.scryfall.com/cards/692942ae-15e9-4c16-ab56-fc2065991034",
+  "scryfall_uri": "https://scryfall.com/card/pwcs/2024-09/ja/jace-reawakened?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/9/692942ae-15e9-4c16-ab56-fc2065991034.jpg?1735598517",
+    "normal": "https://cards.scryfall.io/normal/front/6/9/692942ae-15e9-4c16-ab56-fc2065991034.jpg?1735598517",
+    "large": "https://cards.scryfall.io/large/front/6/9/692942ae-15e9-4c16-ab56-fc2065991034.jpg?1735598517",
+    "png": "https://cards.scryfall.io/png/front/6/9/692942ae-15e9-4c16-ab56-fc2065991034.png?1735598517",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/9/692942ae-15e9-4c16-ab56-fc2065991034.jpg?1735598517",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/9/692942ae-15e9-4c16-ab56-fc2065991034.jpg?1735598517"
+  },
+  "mana_cost": "{U}{U}",
+  "cmc": 2,
+  "type_line": "Legendary Planeswalker — Jace",
+  "oracle_text": "You can't cast Jace Reawakened during your first, second, or third turns of the game.\n+1: Draw a card, then discard a card.\n+1: You may exile a nonland card with mana value 3 or less from your hand. If you do, it becomes plotted.\n−6: Until end of turn, whenever you cast a spell, copy it. You may choose new targets for the copy.",
+  "loyalty": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Plot"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d08fce7e-36a9-4617-8a14-24eb460bcbaf",
+  "set": "pwcs",
+  "set_name": "Planeswalker Championship Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/d08fce7e-36a9-4617-8a14-24eb460bcbaf",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwcs&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwcs?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/692942ae-15e9-4c16-ab56-fc2065991034/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acbd483b5-5554-43ed-a729-535d01b0d5d3&unique=prints",
+  "collector_number": "2024-09",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Hozan Shinomaru",
+  "artist_ids": [
+    "37eb640c-57a8-4a07-a5aa-a1f44b8b4639"
+  ],
+  "illustration_id": "6b469374-b6d1-4153-9a9c-65dfb8743a43",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 7170,
+  "prices": {
+    "usd": null,
+    "usd_foil": "53.91",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJace%2BReawakened",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJace%2BReawakened",
+    "edhrec": "https://edhrec.com/route/?cc=Jace+Reawakened"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F615909%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Jace+Reawakened&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jace+Reawakened&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

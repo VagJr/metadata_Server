@@ -1,0 +1,117 @@
+{
+  "object": "card",
+  "id": "a15bba9f-14d6-434b-a6a7-d2e93177f620",
+  "oracle_id": "e7a7ba65-ad14-41d5-889b-9bbeae9ab3f7",
+  "multiverse_ids": [],
+  "mtgo_id": 88286,
+  "name": "Crippling Fear",
+  "lang": "en",
+  "released_at": "2021-02-28",
+  "uri": "https://api.scryfall.com/cards/a15bba9f-14d6-434b-a6a7-d2e93177f620",
+  "scryfall_uri": "https://scryfall.com/card/prm/88286/crippling-fear?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/1/a15bba9f-14d6-434b-a6a7-d2e93177f620.jpg?1681079603",
+    "normal": "https://cards.scryfall.io/normal/front/a/1/a15bba9f-14d6-434b-a6a7-d2e93177f620.jpg?1681079603",
+    "large": "https://cards.scryfall.io/large/front/a/1/a15bba9f-14d6-434b-a6a7-d2e93177f620.jpg?1681079603",
+    "png": "https://cards.scryfall.io/png/front/a/1/a15bba9f-14d6-434b-a6a7-d2e93177f620.png?1681079603",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/1/a15bba9f-14d6-434b-a6a7-d2e93177f620.jpg?1681079603",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/1/a15bba9f-14d6-434b-a6a7-d2e93177f620.jpg?1681079603"
+  },
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4,
+  "type_line": "Sorcery",
+  "oracle_text": "Choose a creature type. Creatures that aren't of the chosen type get -3/-3 until end of turn.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a15bba9f-14d6-434b-a6a7-d2e93177f620/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae7a7ba65-ad14-41d5-889b-9bbeae9ab3f7&unique=prints",
+  "collector_number": "88286",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Néstor Ossandón Leal",
+  "artist_ids": [
+    "7a6f1667-a8ac-47f5-a302-f71cb54b2adf"
+  ],
+  "illustration_id": "b6993f01-a071-4e72-a77a-35a29c76e731",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1626,
+  "penny_rank": 3338,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.38"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCrippling%2BFear",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCrippling%2BFear",
+    "edhrec": "https://edhrec.com/route/?cc=Crippling+Fear"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DCrippling%2BFear%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Crippling+Fear&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/88286?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

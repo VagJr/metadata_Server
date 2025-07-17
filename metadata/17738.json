@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "299a807e-21cb-4b49-ad2b-c9ce7eef393a",
+  "oracle_id": "a27445db-33f2-4571-98b5-83206b797484",
+  "multiverse_ids": [
+    632477
+  ],
+  "mtgo_id": 115922,
+  "arena_id": 87087,
+  "tcgplayer_id": 513961,
+  "cardmarket_id": 730272,
+  "name": "Shared Animosity",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/299a807e-21cb-4b49-ad2b-c9ce7eef393a",
+  "scryfall_uri": "https://scryfall.com/card/wot/49/shared-animosity?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/9/299a807e-21cb-4b49-ad2b-c9ce7eef393a.jpg?1692973558",
+    "normal": "https://cards.scryfall.io/normal/front/2/9/299a807e-21cb-4b49-ad2b-c9ce7eef393a.jpg?1692973558",
+    "large": "https://cards.scryfall.io/large/front/2/9/299a807e-21cb-4b49-ad2b-c9ce7eef393a.jpg?1692973558",
+    "png": "https://cards.scryfall.io/png/front/2/9/299a807e-21cb-4b49-ad2b-c9ce7eef393a.png?1692973558",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/9/299a807e-21cb-4b49-ad2b-c9ce7eef393a.jpg?1692973558",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/9/299a807e-21cb-4b49-ad2b-c9ce7eef393a.jpg?1692973558"
+  },
+  "mana_cost": "{2}{R}",
+  "cmc": 3,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d1eba841-452b-4f81-88c9-b32973ac8176",
+  "set": "wot",
+  "set_name": "Wilds of Eldraine: Enchanting Tales",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/d1eba841-452b-4f81-88c9-b32973ac8176",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awot&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/wot?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/299a807e-21cb-4b49-ad2b-c9ce7eef393a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa27445db-33f2-4571-98b5-83206b797484&unique=prints",
+  "collector_number": "49",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"The feud between dwarves and redcaps had raged for so long that no one could quite recall how it started. Few would believe it was sparked by a long-ago dispute over a spoon.\"\n—*Assault on Delverhaugh*",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lander Strijbol",
+  "artist_ids": [
+    "e5ec2b25-3a21-44c1-b27a-3909ebeaf72d"
+  ],
+  "illustration_id": "5d7ae185-b6ee-4691-b482-d46e3fbf86e8",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 626,
+  "penny_rank": 7713,
+  "prices": {
+    "usd": "0.92",
+    "usd_foil": "2.70",
+    "usd_etched": null,
+    "eur": "1.05",
+    "eur_foil": "1.93",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=632477&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DShared%2BAnimosity",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DShared%2BAnimosity",
+    "edhrec": "https://edhrec.com/route/?cc=Shared+Animosity"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F513961%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=730272&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/115922?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

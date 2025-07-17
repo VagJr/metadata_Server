@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "5f538b4e-6ad4-4d30-8699-88bcbde8bf69",
+  "oracle_id": "afa49a09-146f-4439-850e-dd1938c93cef",
+  "multiverse_ids": [
+    670906
+  ],
+  "mtgo_id": 128295,
+  "arena_id": 91894,
+  "tcgplayer_id": 559611,
+  "cardmarket_id": 778681,
+  "name": "Derevi, Empyrial Tactician",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/5f538b4e-6ad4-4d30-8699-88bcbde8bf69",
+  "scryfall_uri": "https://scryfall.com/card/blc/87/derevi-empyrial-tactician?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/f/5f538b4e-6ad4-4d30-8699-88bcbde8bf69.jpg?1722384726",
+    "normal": "https://cards.scryfall.io/normal/front/5/f/5f538b4e-6ad4-4d30-8699-88bcbde8bf69.jpg?1722384726",
+    "large": "https://cards.scryfall.io/large/front/5/f/5f538b4e-6ad4-4d30-8699-88bcbde8bf69.jpg?1722384726",
+    "png": "https://cards.scryfall.io/png/front/5/f/5f538b4e-6ad4-4d30-8699-88bcbde8bf69.png?1722384726",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/f/5f538b4e-6ad4-4d30-8699-88bcbde8bf69.jpg?1722384726",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/f/5f538b4e-6ad4-4d30-8699-88bcbde8bf69.jpg?1722384726"
+  },
+  "mana_cost": "{G}{W}{U}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Bird Wizard",
+  "oracle_text": "Flying\nWhen Derevi enters and whenever a creature you control deals combat damage to a player, you may tap or untap target permanent.\n{1}{G}{W}{U}: Put Derevi onto the battlefield from the command zone.",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "G",
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "U",
+    "W"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "restricted",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "set": "blc",
+  "set_name": "Bloomburrow Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/blc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5f538b4e-6ad4-4d30-8699-88bcbde8bf69/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aafa49a09-146f-4439-850e-dd1938c93cef&unique=prints",
+  "collector_number": "87",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nathaniel Himawan",
+  "artist_ids": [
+    "ae1e4729-d4ec-4d0f-8c71-883fc7358005"
+  ],
+  "illustration_id": "7f112a15-97aa-4e07-9f5c-d3ca5bc63af7",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun",
+    "imagine"
+  ],
+  "edhrec_rank": 2869,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/2199222387",
+    "previewed_at": "2024-07-16"
+  },
+  "prices": {
+    "usd": "6.60",
+    "usd_foil": "11.98",
+    "usd_etched": null,
+    "eur": "4.60",
+    "eur_foil": "7.08",
+    "tix": "4.40"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=670906&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDerevi%252C%2BEmpyrial%2BTactician",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDerevi%252C%2BEmpyrial%2BTactician",
+    "edhrec": "https://edhrec.com/route/?cc=Derevi%2C+Empyrial+Tactician"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F559611%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=778681&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/128295?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

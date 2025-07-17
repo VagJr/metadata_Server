@@ -1,0 +1,153 @@
+{
+  "object": "card",
+  "id": "25545d18-3568-488e-bcab-188447654611",
+  "oracle_id": "0c0ffb66-94db-4ba9-afde-c5b4fbf09578",
+  "multiverse_ids": [],
+  "tcgplayer_id": 536681,
+  "name": "Drag the Canal",
+  "lang": "en",
+  "released_at": "2024-02-09",
+  "uri": "https://api.scryfall.com/cards/25545d18-3568-488e-bcab-188447654611",
+  "scryfall_uri": "https://scryfall.com/card/pmkm/199p/drag-the-canal?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/5/25545d18-3568-488e-bcab-188447654611.jpg?1707510057",
+    "normal": "https://cards.scryfall.io/normal/front/2/5/25545d18-3568-488e-bcab-188447654611.jpg?1707510057",
+    "large": "https://cards.scryfall.io/large/front/2/5/25545d18-3568-488e-bcab-188447654611.jpg?1707510057",
+    "png": "https://cards.scryfall.io/png/front/2/5/25545d18-3568-488e-bcab-188447654611.png?1707510057",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/5/25545d18-3568-488e-bcab-188447654611.jpg?1707510057",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/5/25545d18-3568-488e-bcab-188447654611.jpg?1707510057"
+  },
+  "mana_cost": "{U}{B}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Create a 2/2 white and blue Detective creature token. If a creature died this turn, you gain 2 life, surveil 2, then investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+  "colors": [
+    "B",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [
+    "Surveil",
+    "Investigate"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "b6541b71-d225-474d-9d07-a13415f9f44f",
+      "component": "combo_piece",
+      "name": "Drag the Canal",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/b6541b71-d225-474d-9d07-a13415f9f44f"
+    },
+    {
+      "object": "related_card",
+      "id": "30a109aa-99d4-4cfe-a9b1-1b40db5b7885",
+      "component": "token",
+      "name": "Detective",
+      "type_line": "Token Creature — Detective",
+      "uri": "https://api.scryfall.com/cards/30a109aa-99d4-4cfe-a9b1-1b40db5b7885"
+    },
+    {
+      "object": "related_card",
+      "id": "ef607895-d6d2-44ab-a6b4-84af55fce593",
+      "component": "token",
+      "name": "Clue",
+      "type_line": "Token Artifact — Clue",
+      "uri": "https://api.scryfall.com/cards/ef607895-d6d2-44ab-a6b4-84af55fce593"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5226ce19-28b1-462f-89a2-460e994824dd",
+  "set": "pmkm",
+  "set_name": "Murders at Karlov Manor Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/5226ce19-28b1-462f-89a2-460e994824dd",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apmkm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pmkm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/25545d18-3568-488e-bcab-188447654611/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0c0ffb66-94db-4ba9-afde-c5b4fbf09578&unique=prints",
+  "collector_number": "199p",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Let's gather what we can before the Golgari tidy up the scene.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Josh Hass",
+  "artist_ids": [
+    "8fa1fdf0-96d6-46f4-a7ff-b1c0257c3735"
+  ],
+  "illustration_id": "05ddb990-a7a6-4d95-b206-6fe2946f9d74",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 15399,
+  "penny_rank": 8762,
+  "prices": {
+    "usd": "0.17",
+    "usd_foil": "0.21",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDrag%2Bthe%2BCanal",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDrag%2Bthe%2BCanal",
+    "edhrec": "https://edhrec.com/route/?cc=Drag+the+Canal"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F536681%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Drag+the+Canal&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Drag+the+Canal&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

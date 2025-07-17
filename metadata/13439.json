@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "1f963550-22b8-412f-9f53-195815328961",
+  "oracle_id": "43f2d81e-aa01-4fa9-9046-6a27a05dbd2d",
+  "multiverse_ids": [
+    605869
+  ],
+  "mtgo_id": 107049,
+  "tcgplayer_id": 478608,
+  "cardmarket_id": 693337,
+  "name": "Contagion Clasp",
+  "lang": "en",
+  "released_at": "2023-02-03",
+  "uri": "https://api.scryfall.com/cards/1f963550-22b8-412f-9f53-195815328961",
+  "scryfall_uri": "https://scryfall.com/card/onc/129/contagion-clasp?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/f/1f963550-22b8-412f-9f53-195815328961.jpg?1745567943",
+    "normal": "https://cards.scryfall.io/normal/front/1/f/1f963550-22b8-412f-9f53-195815328961.jpg?1745567943",
+    "large": "https://cards.scryfall.io/large/front/1/f/1f963550-22b8-412f-9f53-195815328961.jpg?1745567943",
+    "png": "https://cards.scryfall.io/png/front/1/f/1f963550-22b8-412f-9f53-195815328961.png?1745567943",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/f/1f963550-22b8-412f-9f53-195815328961.jpg?1745567943",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/f/1f963550-22b8-412f-9f53-195815328961.jpg?1745567943"
+  },
+  "mana_cost": "{2}",
+  "cmc": 2,
+  "type_line": "Artifact",
+  "oracle_text": "When this artifact enters, put a -1/-1 counter on target creature.\n{4}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Proliferate"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8c5e86d4-ae2d-42f7-a0e5-0e4141eb953d",
+  "set": "onc",
+  "set_name": "Phyrexia: All Will Be One Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/8c5e86d4-ae2d-42f7-a0e5-0e4141eb953d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aonc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/onc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1f963550-22b8-412f-9f53-195815328961/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A43f2d81e-aa01-4fa9-9046-6a27a05dbd2d&unique=prints",
+  "collector_number": "129",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Anthony Palumbo",
+  "artist_ids": [
+    "afd2d541-4140-41ae-a28f-862436458fcb"
+  ],
+  "illustration_id": "55c4a339-a06c-452f-a7c3-51d5686a8519",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1423,
+  "penny_rank": 3769,
+  "prices": {
+    "usd": "0.63",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.24",
+    "eur_foil": null,
+    "tix": "0.26"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=605869&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DContagion%2BClasp",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DContagion%2BClasp",
+    "edhrec": "https://edhrec.com/route/?cc=Contagion+Clasp"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F478608%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=693337&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/107049?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

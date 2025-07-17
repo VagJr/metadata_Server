@@ -1,0 +1,151 @@
+{
+  "object": "card",
+  "id": "bf9875dc-b271-40a6-b6e1-f9f0fbb00db7",
+  "oracle_id": "75f5d372-4ff9-430c-8302-72472439e0d2",
+  "multiverse_ids": [
+    569986
+  ],
+  "tcgplayer_id": 272970,
+  "cardmarket_id": 660802,
+  "name": "Blood Money",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/bf9875dc-b271-40a6-b6e1-f9f0fbb00db7",
+  "scryfall_uri": "https://scryfall.com/card/clb/571/blood-money?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/f/bf9875dc-b271-40a6-b6e1-f9f0fbb00db7.jpg?1674139997",
+    "normal": "https://cards.scryfall.io/normal/front/b/f/bf9875dc-b271-40a6-b6e1-f9f0fbb00db7.jpg?1674139997",
+    "large": "https://cards.scryfall.io/large/front/b/f/bf9875dc-b271-40a6-b6e1-f9f0fbb00db7.jpg?1674139997",
+    "png": "https://cards.scryfall.io/png/front/b/f/bf9875dc-b271-40a6-b6e1-f9f0fbb00db7.png?1674139997",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/f/bf9875dc-b271-40a6-b6e1-f9f0fbb00db7.jpg?1674139997",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/f/bf9875dc-b271-40a6-b6e1-f9f0fbb00db7.jpg?1674139997"
+  },
+  "mana_cost": "{5}{B}{B}",
+  "cmc": 7,
+  "type_line": "Sorcery",
+  "oracle_text": "Destroy all creatures. For each nontoken creature destroyed this way, you create a tapped Treasure token.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Treasure"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "770b988d-4f31-4746-8c23-4ed8d9a6b393",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/770b988d-4f31-4746-8c23-4ed8d9a6b393"
+    },
+    {
+      "object": "related_card",
+      "id": "bf9875dc-b271-40a6-b6e1-f9f0fbb00db7",
+      "component": "combo_piece",
+      "name": "Blood Money",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/bf9875dc-b271-40a6-b6e1-f9f0fbb00db7"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set": "clb",
+  "set_name": "Commander Legends: Battle for Baldur's Gate",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/clb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/bf9875dc-b271-40a6-b6e1-f9f0fbb00db7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A75f5d372-4ff9-430c-8302-72472439e0d2&unique=prints",
+  "collector_number": "571",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Inka Schulz",
+  "artist_ids": [
+    "3f93408e-c510-42a5-beef-9ddbc56d9056"
+  ],
+  "illustration_id": "b82e9bb4-0bd2-41d7-a55a-c57de92033f0",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 1557,
+  "preview": {
+    "source": "Leyendas Legendarias",
+    "source_uri": "https://twitter.com/ElBadiablo/status/1527698202274701314",
+    "previewed_at": "2022-05-23"
+  },
+  "prices": {
+    "usd": "2.85",
+    "usd_foil": "3.41",
+    "usd_etched": null,
+    "eur": "2.56",
+    "eur_foil": "3.30",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=569986&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlood%2BMoney",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlood%2BMoney",
+    "edhrec": "https://edhrec.com/route/?cc=Blood+Money"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F272970%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=660802&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blood+Money&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

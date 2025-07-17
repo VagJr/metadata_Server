@@ -1,0 +1,157 @@
+{
+  "object": "card",
+  "id": "e6f210bf-30c9-4904-9ceb-4ab180938f09",
+  "oracle_id": "f82da236-e567-4221-a0bc-439a0c7e2b03",
+  "multiverse_ids": [
+    692472
+  ],
+  "mtgo_id": 137421,
+  "tcgplayer_id": 615150,
+  "cardmarket_id": 808008,
+  "name": "Whirler Virtuoso",
+  "lang": "en",
+  "released_at": "2025-02-14",
+  "uri": "https://api.scryfall.com/cards/e6f210bf-30c9-4904-9ceb-4ab180938f09",
+  "scryfall_uri": "https://scryfall.com/card/drc/122/whirler-virtuoso?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/6/e6f210bf-30c9-4904-9ceb-4ab180938f09.jpg?1738355912",
+    "normal": "https://cards.scryfall.io/normal/front/e/6/e6f210bf-30c9-4904-9ceb-4ab180938f09.jpg?1738355912",
+    "large": "https://cards.scryfall.io/large/front/e/6/e6f210bf-30c9-4904-9ceb-4ab180938f09.jpg?1738355912",
+    "png": "https://cards.scryfall.io/png/front/e/6/e6f210bf-30c9-4904-9ceb-4ab180938f09.png?1738355912",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/6/e6f210bf-30c9-4904-9ceb-4ab180938f09.jpg?1738355912",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/6/e6f210bf-30c9-4904-9ceb-4ab180938f09.jpg?1738355912"
+  },
+  "mana_cost": "{1}{U}{R}",
+  "cmc": 3,
+  "type_line": "Creature — Vedalken Artificer",
+  "oracle_text": "When this creature enters, you get {E}{E}{E} (three energy counters).\nPay {E}{E}{E}: Create a 1/1 colorless Thopter artifact creature token with flying.",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "78e52380-13a1-44fe-b762-e71261cac3d0",
+      "component": "token",
+      "name": "Thopter",
+      "type_line": "Token Artifact Creature — Thopter",
+      "uri": "https://api.scryfall.com/cards/78e52380-13a1-44fe-b762-e71261cac3d0"
+    },
+    {
+      "object": "related_card",
+      "id": "6a2c1fa5-deed-48ba-afe4-6c8ea8d9135e",
+      "component": "combo_piece",
+      "name": "Energy Reserve",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/6a2c1fa5-deed-48ba-afe4-6c8ea8d9135e"
+    },
+    {
+      "object": "related_card",
+      "id": "e6f210bf-30c9-4904-9ceb-4ab180938f09",
+      "component": "combo_piece",
+      "name": "Whirler Virtuoso",
+      "type_line": "Creature — Vedalken Artificer",
+      "uri": "https://api.scryfall.com/cards/e6f210bf-30c9-4904-9ceb-4ab180938f09"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d33ef7a4-41bb-4f16-bad3-b3ee13c257e6",
+  "set": "drc",
+  "set_name": "Aetherdrift Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d33ef7a4-41bb-4f16-bad3-b3ee13c257e6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/drc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e6f210bf-30c9-4904-9ceb-4ab180938f09/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af82da236-e567-4221-a0bc-439a0c7e2b03&unique=prints",
+  "collector_number": "122",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "The first tentative flaps are like a song to his soul.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lake Hurwitz",
+  "artist_ids": [
+    "3677c64b-55e6-4a0d-a952-bdbb05531220"
+  ],
+  "illustration_id": "0d1f3bd0-3df9-47eb-ab3c-cecaba03f24e",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5198,
+  "penny_rank": 2748,
+  "preview": {
+    "source": "The Command Zone",
+    "source_uri": "https://www.youtube.com/watch?v=km1f1W0Tl6k",
+    "previewed_at": "2025-01-23"
+  },
+  "prices": {
+    "usd": "0.08",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.09",
+    "eur_foil": null,
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=692472&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWhirler%2BVirtuoso",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWhirler%2BVirtuoso",
+    "edhrec": "https://edhrec.com/route/?cc=Whirler+Virtuoso"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F615150%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=808008&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/137421?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

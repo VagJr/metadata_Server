@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "3eb7ac76-69dd-4d07-839e-60ac07fa600c",
+  "oracle_id": "77eb44ca-53e9-4924-b19f-31732f14ef14",
+  "multiverse_ids": [],
+  "mtgo_id": 105758,
+  "name": "Simian Simulacrum",
+  "lang": "en",
+  "released_at": "2023-02-06",
+  "uri": "https://api.scryfall.com/cards/3eb7ac76-69dd-4d07-839e-60ac07fa600c",
+  "scryfall_uri": "https://scryfall.com/card/prm/105758/simian-simulacrum?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/e/3eb7ac76-69dd-4d07-839e-60ac07fa600c.jpg?1681141384",
+    "normal": "https://cards.scryfall.io/normal/front/3/e/3eb7ac76-69dd-4d07-839e-60ac07fa600c.jpg?1681141384",
+    "large": "https://cards.scryfall.io/large/front/3/e/3eb7ac76-69dd-4d07-839e-60ac07fa600c.jpg?1681141384",
+    "png": "https://cards.scryfall.io/png/front/3/e/3eb7ac76-69dd-4d07-839e-60ac07fa600c.png?1681141384",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/e/3eb7ac76-69dd-4d07-839e-60ac07fa600c.jpg?1681141384",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/e/3eb7ac76-69dd-4d07-839e-60ac07fa600c.jpg?1681141384"
+  },
+  "mana_cost": "{3}",
+  "cmc": 3,
+  "type_line": "Artifact Creature — Ape",
+  "oracle_text": "When this creature enters, put two +1/+1 counters on target creature you control.\nUnearth {2}{G}{G} ({2}{G}{G}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+  "power": "2",
+  "toughness": "1",
+  "colors": [],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Unearth"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3eb7ac76-69dd-4d07-839e-60ac07fa600c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A77eb44ca-53e9-4924-b19f-31732f14ef14&unique=prints",
+  "collector_number": "105758",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Randy Vargas",
+  "artist_ids": [
+    "d20672ca-0555-4238-a984-fd171d36b247"
+  ],
+  "illustration_id": "4ef37f6f-6c1f-4b6e-b983-573fcb0fc41b",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 8981,
+  "penny_rank": 6762,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.20"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSimian%2BSimulacrum",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSimian%2BSimulacrum",
+    "edhrec": "https://edhrec.com/route/?cc=Simian+Simulacrum"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSimian%2BSimulacrum%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Simian+Simulacrum&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/105758?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

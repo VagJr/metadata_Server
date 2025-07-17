@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "6c724bd5-485d-48d8-bd0a-e00068aead86",
+  "oracle_id": "1b122fbb-c2e1-42d1-bfc5-fcacacdfa0bc",
+  "multiverse_ids": [],
+  "tcgplayer_id": 616868,
+  "name": "Burnout Bashtronaut",
+  "lang": "en",
+  "released_at": "2025-02-14",
+  "uri": "https://api.scryfall.com/cards/6c724bd5-485d-48d8-bd0a-e00068aead86",
+  "scryfall_uri": "https://scryfall.com/card/pdft/115p/burnout-bashtronaut?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/c/6c724bd5-485d-48d8-bd0a-e00068aead86.jpg?1739664656",
+    "normal": "https://cards.scryfall.io/normal/front/6/c/6c724bd5-485d-48d8-bd0a-e00068aead86.jpg?1739664656",
+    "large": "https://cards.scryfall.io/large/front/6/c/6c724bd5-485d-48d8-bd0a-e00068aead86.jpg?1739664656",
+    "png": "https://cards.scryfall.io/png/front/6/c/6c724bd5-485d-48d8-bd0a-e00068aead86.png?1739664656",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/c/6c724bd5-485d-48d8-bd0a-e00068aead86.jpg?1739664656",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/c/6c724bd5-485d-48d8-bd0a-e00068aead86.jpg?1739664656"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1,
+  "type_line": "Creature — Goblin Warrior",
+  "oracle_text": "Menace\nStart your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)\n{2}: This creature gets +1/+0 until end of turn.\nMax speed — This creature has double strike.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Max speed",
+    "Menace",
+    "Start your engines!"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "34092f45-2086-492e-ab48-fcf28c5fee95",
+      "component": "combo_piece",
+      "name": "Burnout Bashtronaut",
+      "type_line": "Creature — Goblin Warrior",
+      "uri": "https://api.scryfall.com/cards/34092f45-2086-492e-ab48-fcf28c5fee95"
+    },
+    {
+      "object": "related_card",
+      "id": "82613de6-ed37-48c1-8d2f-d91a3f496794",
+      "component": "combo_piece",
+      "name": "Start Your Engines! // Max Speed",
+      "type_line": "Card // Card",
+      "uri": "https://api.scryfall.com/cards/82613de6-ed37-48c1-8d2f-d91a3f496794"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cc05a3a1-fb38-4d6d-b3d3-032e90b49d00",
+  "set": "pdft",
+  "set_name": "Aetherdrift Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/cc05a3a1-fb38-4d6d-b3d3-032e90b49d00",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apdft&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pdft?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6c724bd5-485d-48d8-bd0a-e00068aead86/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1b122fbb-c2e1-42d1-bfc5-fcacacdfa0bc&unique=prints",
+  "collector_number": "115p",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Andrea Piparo",
+  "artist_ids": [
+    "e8ab9604-1b3c-4bb5-9290-dfb3fd3cf01d"
+  ],
+  "illustration_id": "5fc4e0cf-6ec5-4cf8-902f-0c2de65befae",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 13080,
+  "penny_rank": 5790,
+  "prices": {
+    "usd": "0.95",
+    "usd_foil": "3.22",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBurnout%2BBashtronaut",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBurnout%2BBashtronaut",
+    "edhrec": "https://edhrec.com/route/?cc=Burnout+Bashtronaut"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F616868%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Burnout+Bashtronaut&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Burnout+Bashtronaut&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

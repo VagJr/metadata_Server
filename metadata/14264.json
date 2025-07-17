@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "218a4867-e04f-498a-b384-9d7c6d44fb4f",
+  "oracle_id": "7fc3798a-3907-4f50-98a1-25b8e1977197",
+  "multiverse_ids": [
+    554169
+  ],
+  "tcgplayer_id": 263013,
+  "cardmarket_id": 608598,
+  "name": "Myrsmith",
+  "lang": "en",
+  "released_at": "2022-02-18",
+  "uri": "https://api.scryfall.com/cards/218a4867-e04f-498a-b384-9d7c6d44fb4f",
+  "scryfall_uri": "https://scryfall.com/card/nec/86/myrsmith?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/1/218a4867-e04f-498a-b384-9d7c6d44fb4f.jpg?1651655635",
+    "normal": "https://cards.scryfall.io/normal/front/2/1/218a4867-e04f-498a-b384-9d7c6d44fb4f.jpg?1651655635",
+    "large": "https://cards.scryfall.io/large/front/2/1/218a4867-e04f-498a-b384-9d7c6d44fb4f.jpg?1651655635",
+    "png": "https://cards.scryfall.io/png/front/2/1/218a4867-e04f-498a-b384-9d7c6d44fb4f.png?1651655635",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/1/218a4867-e04f-498a-b384-9d7c6d44fb4f.jpg?1651655635",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/1/218a4867-e04f-498a-b384-9d7c6d44fb4f.jpg?1651655635"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Creature — Human Artificer",
+  "oracle_text": "Whenever you cast an artifact spell, you may pay {1}. If you do, create a 1/1 colorless Myr artifact creature token.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "218a4867-e04f-498a-b384-9d7c6d44fb4f",
+      "component": "combo_piece",
+      "name": "Myrsmith",
+      "type_line": "Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/218a4867-e04f-498a-b384-9d7c6d44fb4f"
+    },
+    {
+      "object": "related_card",
+      "id": "eb47cd56-8f1f-49c9-8f19-8b1507063a9a",
+      "component": "token",
+      "name": "Myr",
+      "type_line": "Token Artifact Creature — Myr",
+      "uri": "https://api.scryfall.com/cards/eb47cd56-8f1f-49c9-8f19-8b1507063a9a"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5b4d929d-bdf9-4bbf-858e-e248f53325ad",
+  "set": "nec",
+  "set_name": "Neon Dynasty Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/5b4d929d-bdf9-4bbf-858e-e248f53325ad",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Anec&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/nec?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/218a4867-e04f-498a-b384-9d7c6d44fb4f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7fc3798a-3907-4f50-98a1-25b8e1977197&unique=prints",
+  "collector_number": "86",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "The Auriok see the artificer as a conduit, beckoning new creations into the world.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Eric Deschamps",
+  "artist_ids": [
+    "37970e22-9cee-44c1-af44-5ee27cf26b76"
+  ],
+  "illustration_id": "d0847b91-60dc-41ad-88ac-cc21ddbe97ab",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 6501,
+  "penny_rank": 9539,
+  "prices": {
+    "usd": "0.10",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.22",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=554169&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMyrsmith",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMyrsmith",
+    "edhrec": "https://edhrec.com/route/?cc=Myrsmith"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F263013%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=608598&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Myrsmith&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

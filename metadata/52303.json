@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "7bcaa5db-7d9c-4158-9de0-698c42332677",
+  "oracle_id": "ebd2d760-5ad8-4027-b124-171822f3edfe",
+  "multiverse_ids": [],
+  "tcgplayer_id": 204581,
+  "cardmarket_id": 420176,
+  "name": "Grapeshot",
+  "lang": "en",
+  "released_at": "2019-11-07",
+  "uri": "https://api.scryfall.com/cards/7bcaa5db-7d9c-4158-9de0-698c42332677",
+  "scryfall_uri": "https://scryfall.com/card/plst/DDS-16/grapeshot?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/b/7bcaa5db-7d9c-4158-9de0-698c42332677.jpg?1573511910",
+    "normal": "https://cards.scryfall.io/normal/front/7/b/7bcaa5db-7d9c-4158-9de0-698c42332677.jpg?1573511910",
+    "large": "https://cards.scryfall.io/large/front/7/b/7bcaa5db-7d9c-4158-9de0-698c42332677.jpg?1573511910",
+    "png": "https://cards.scryfall.io/png/front/7/b/7bcaa5db-7d9c-4158-9de0-698c42332677.png?1573511910",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/b/7bcaa5db-7d9c-4158-9de0-698c42332677.jpg?1573511910",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/b/7bcaa5db-7d9c-4158-9de0-698c42332677.jpg?1573511910"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "oracle_text": "Grapeshot deals 1 damage to any target.\nStorm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Storm"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "banned",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7bcaa5db-7d9c-4158-9de0-698c42332677/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aebd2d760-5ad8-4027-b124-171822f3edfe&unique=prints",
+  "collector_number": "DDS-16",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Mages often seek to emulate the powerful relics lost to time and apocalypse.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Clint Cearley",
+  "artist_ids": [
+    "03b75350-d5a0-4e3a-b3b4-8d4a5554385b"
+  ],
+  "illustration_id": "fcf41555-df2b-46ef-8e15-9b3107f67f0c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 718,
+  "penny_rank": 1618,
+  "prices": {
+    "usd": "0.28",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.22",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGrapeshot",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGrapeshot",
+    "edhrec": "https://edhrec.com/route/?cc=Grapeshot"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F204581%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=420176&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Grapeshot&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

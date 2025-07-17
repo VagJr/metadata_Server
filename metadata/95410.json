@@ -1,0 +1,171 @@
+{
+  "object": "card",
+  "id": "e13a0a70-5810-46e6-917c-80e8c44d76aa",
+  "oracle_id": "ee524e82-35c4-4cae-b65e-3e147eac2927",
+  "multiverse_ids": [],
+  "mtgo_id": 90312,
+  "name": "Mila, Crafty Companion // Lukka, Wayward Bonder",
+  "lang": "en",
+  "released_at": "2021-05-01",
+  "uri": "https://api.scryfall.com/cards/e13a0a70-5810-46e6-917c-80e8c44d76aa",
+  "scryfall_uri": "https://scryfall.com/card/prm/90312/mila-crafty-companion-lukka-wayward-bonder?utm_source=api",
+  "layout": "modal_dfc",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Fox // Legendary Planeswalker — Lukka",
+  "color_identity": [
+    "R",
+    "W"
+  ],
+  "keywords": [],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Mila, Crafty Companion",
+      "mana_cost": "{1}{W}{W}",
+      "type_line": "Legendary Creature — Fox",
+      "oracle_text": "Whenever an opponent attacks one or more planeswalkers you control, put a loyalty counter on each planeswalker you control.\nWhenever a permanent you control becomes the target of a spell or ability an opponent controls, you may draw a card.",
+      "colors": [
+        "W"
+      ],
+      "power": "2",
+      "toughness": "3",
+      "artist": "Yongjae Choi",
+      "artist_id": "5ab91c3b-a6da-4751-a56e-81d0f61a67ab",
+      "illustration_id": "e8fd62de-5505-44f3-a54b-53fd83b83c72",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/e/1/e13a0a70-5810-46e6-917c-80e8c44d76aa.jpg?1748260732",
+        "normal": "https://cards.scryfall.io/normal/front/e/1/e13a0a70-5810-46e6-917c-80e8c44d76aa.jpg?1748260732",
+        "large": "https://cards.scryfall.io/large/front/e/1/e13a0a70-5810-46e6-917c-80e8c44d76aa.jpg?1748260732",
+        "png": "https://cards.scryfall.io/png/front/e/1/e13a0a70-5810-46e6-917c-80e8c44d76aa.png?1748260732",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/e/1/e13a0a70-5810-46e6-917c-80e8c44d76aa.jpg?1748260732",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/e/1/e13a0a70-5810-46e6-917c-80e8c44d76aa.jpg?1748260732"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Lukka, Wayward Bonder",
+      "mana_cost": "{4}{R}{R}",
+      "type_line": "Legendary Planeswalker — Lukka",
+      "oracle_text": "+1: You may discard a card. If you do, draw a card. If a creature card was discarded this way, draw two cards instead.\n−2: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of your next upkeep.\n−7: You get an emblem with \"Whenever a creature you control enters, it deals damage equal to its power to any target.\"",
+      "colors": [
+        "R"
+      ],
+      "loyalty": "5",
+      "artist": "Yongjae Choi",
+      "artist_id": "5ab91c3b-a6da-4751-a56e-81d0f61a67ab",
+      "illustration_id": "b5f635b6-8f63-46b7-9546-3059e0e186b2",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/e/1/e13a0a70-5810-46e6-917c-80e8c44d76aa.jpg?1748260732",
+        "normal": "https://cards.scryfall.io/normal/back/e/1/e13a0a70-5810-46e6-917c-80e8c44d76aa.jpg?1748260732",
+        "large": "https://cards.scryfall.io/large/back/e/1/e13a0a70-5810-46e6-917c-80e8c44d76aa.jpg?1748260732",
+        "png": "https://cards.scryfall.io/png/back/e/1/e13a0a70-5810-46e6-917c-80e8c44d76aa.png?1748260732",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/e/1/e13a0a70-5810-46e6-917c-80e8c44d76aa.jpg?1748260732",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/e/1/e13a0a70-5810-46e6-917c-80e8c44d76aa.jpg?1748260732"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "28427ccd-d106-4388-835b-aee29288fc40",
+      "component": "combo_piece",
+      "name": "Lukka, Wayward Bonder Emblem",
+      "type_line": "Emblem",
+      "uri": "https://api.scryfall.com/cards/28427ccd-d106-4388-835b-aee29288fc40"
+    },
+    {
+      "object": "related_card",
+      "id": "e13a0a70-5810-46e6-917c-80e8c44d76aa",
+      "component": "combo_piece",
+      "name": "Mila, Crafty Companion // Lukka, Wayward Bonder",
+      "type_line": "Legendary Creature — Fox // Legendary Planeswalker — Lukka",
+      "uri": "https://api.scryfall.com/cards/e13a0a70-5810-46e6-917c-80e8c44d76aa"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e13a0a70-5810-46e6-917c-80e8c44d76aa/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aee524e82-35c4-4cae-b65e-3e147eac2927&unique=prints",
+  "collector_number": "90312",
+  "digital": true,
+  "rarity": "mythic",
+  "artist": "Yongjae Choi",
+  "artist_ids": [
+    "5ab91c3b-a6da-4751-a56e-81d0f61a67ab"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 7098,
+  "penny_rank": 6188,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.54"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMila%252C%2BCrafty%2BCompanion%2B%252F%252F%2BLukka%252C%2BWayward%2BBonder",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMila%252C%2BCrafty%2BCompanion%2B%252F%252F%2BLukka%252C%2BWayward%2BBonder",
+    "edhrec": "https://edhrec.com/route/?cc=Mila%2C+Crafty+Companion"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DMila%252C%2BCrafty%2BCompanion%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mila%2C+Crafty+Companion&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/90312?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

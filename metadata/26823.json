@@ -1,0 +1,113 @@
+{
+  "object": "card",
+  "id": "3f5615d9-a451-41cc-aca0-120ccddb46bd",
+  "oracle_id": "6ded956d-30ed-49ca-8653-cbaaae676b0c",
+  "multiverse_ids": [
+    547628
+  ],
+  "arena_id": 73939,
+  "name": "Imminent Doom",
+  "lang": "en",
+  "released_at": "2020-08-13",
+  "uri": "https://api.scryfall.com/cards/3f5615d9-a451-41cc-aca0-120ccddb46bd",
+  "scryfall_uri": "https://scryfall.com/card/akr/161/imminent-doom?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/f/3f5615d9-a451-41cc-aca0-120ccddb46bd.jpg?1597250408",
+    "normal": "https://cards.scryfall.io/normal/front/3/f/3f5615d9-a451-41cc-aca0-120ccddb46bd.jpg?1597250408",
+    "large": "https://cards.scryfall.io/large/front/3/f/3f5615d9-a451-41cc-aca0-120ccddb46bd.jpg?1597250408",
+    "png": "https://cards.scryfall.io/png/front/3/f/3f5615d9-a451-41cc-aca0-120ccddb46bd.png?1597250408",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/f/3f5615d9-a451-41cc-aca0-120ccddb46bd.jpg?1597250408",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/f/3f5615d9-a451-41cc-aca0-120ccddb46bd.jpg?1597250408"
+  },
+  "mana_cost": "{2}{R}",
+  "cmc": 3,
+  "type_line": "Enchantment",
+  "oracle_text": "This enchantment enters with a doom counter on it.\nWhenever you cast a spell with mana value equal to the number of doom counters on this enchantment, this enchantment deals that much damage to any target. Then put a doom counter on this enchantment.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "915dabb1-b82a-432d-939d-d9b128e65582",
+  "set": "akr",
+  "set_name": "Amonkhet Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/915dabb1-b82a-432d-939d-d9b128e65582",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aakr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/akr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3f5615d9-a451-41cc-aca0-120ccddb46bd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6ded956d-30ed-49ca-8653-cbaaae676b0c&unique=prints",
+  "collector_number": "161",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daniel Ljunggren",
+  "artist_ids": [
+    "0fbd4798-76eb-46d5-a5d4-1e3a25870e34"
+  ],
+  "illustration_id": "eb7c11d4-16d5-4638-8729-4866a3e56b2d",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 22655,
+  "penny_rank": 9363,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547628&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DImminent%2BDoom",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DImminent%2BDoom",
+    "edhrec": "https://edhrec.com/route/?cc=Imminent+Doom"
+  }
+}

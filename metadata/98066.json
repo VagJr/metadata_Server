@@ -1,0 +1,161 @@
+{
+  "object": "card",
+  "id": "e7ac4ece-8551-4662-baca-4e7d5beecb5e",
+  "oracle_id": "1ebf2142-f171-40cd-8143-15f50084b707",
+  "multiverse_ids": [
+    678912
+  ],
+  "mtgo_id": 132968,
+  "tcgplayer_id": 591337,
+  "cardmarket_id": 797053,
+  "name": "Koma, World-Eater",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/e7ac4ece-8551-4662-baca-4e7d5beecb5e",
+  "scryfall_uri": "https://scryfall.com/card/fdn/480/koma-world-eater?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/7/e7ac4ece-8551-4662-baca-4e7d5beecb5e.jpg?1730490423",
+    "normal": "https://cards.scryfall.io/normal/front/e/7/e7ac4ece-8551-4662-baca-4e7d5beecb5e.jpg?1730490423",
+    "large": "https://cards.scryfall.io/large/front/e/7/e7ac4ece-8551-4662-baca-4e7d5beecb5e.jpg?1730490423",
+    "png": "https://cards.scryfall.io/png/front/e/7/e7ac4ece-8551-4662-baca-4e7d5beecb5e.png?1730490423",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/7/e7ac4ece-8551-4662-baca-4e7d5beecb5e.jpg?1730490423",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/7/e7ac4ece-8551-4662-baca-4e7d5beecb5e.jpg?1730490423"
+  },
+  "mana_cost": "{3}{G}{G}{U}{U}",
+  "cmc": 7,
+  "type_line": "Legendary Creature — Serpent",
+  "oracle_text": "This spell can't be countered.\nTrample, ward {4}\nWhenever Koma deals combat damage to a player, create four 3/3 blue Serpent creature tokens named Koma's Coil.",
+  "power": "8",
+  "toughness": "12",
+  "colors": [
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [
+    "Trample",
+    "Ward"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e7ac4ece-8551-4662-baca-4e7d5beecb5e",
+      "component": "combo_piece",
+      "name": "Koma, World-Eater",
+      "type_line": "Legendary Creature — Serpent",
+      "uri": "https://api.scryfall.com/cards/e7ac4ece-8551-4662-baca-4e7d5beecb5e"
+    },
+    {
+      "object": "related_card",
+      "id": "cef25434-cd23-4dcf-b77e-36e648a8de23",
+      "component": "token",
+      "name": "Koma's Coil",
+      "type_line": "Token Creature — Serpent",
+      "uri": "https://api.scryfall.com/cards/cef25434-cd23-4dcf-b77e-36e648a8de23"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set": "fdn",
+  "set_name": "Foundations",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afdn&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fdn?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e7ac4ece-8551-4662-baca-4e7d5beecb5e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1ebf2142-f171-40cd-8143-15f50084b707&unique=prints",
+  "collector_number": "480",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "The gods imprisoned Koma, fearing he would eventually devour the Cosmos itself.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mark Zug",
+  "artist_ids": [
+    "48e2b98c-5467-4671-bd42-4c3746115117"
+  ],
+  "illustration_id": "c5d498bd-88a6-403e-9a0e-5686aac6e3c2",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 3383,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.tiktok.com/@mtg/video/7430918777606262059",
+    "previewed_at": "2024-10-31"
+  },
+  "prices": {
+    "usd": "1.03",
+    "usd_foil": "1.46",
+    "usd_etched": null,
+    "eur": "1.84",
+    "eur_foil": "2.85",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=678912&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKoma%252C%2BWorld-Eater",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKoma%252C%2BWorld-Eater",
+    "edhrec": "https://edhrec.com/route/?cc=Koma%2C+World-Eater"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F591337%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=797053&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/132968?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

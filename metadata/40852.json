@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "6065bbf3-d2ef-41d0-872b-a72c4d6bbf79",
+  "oracle_id": "54731e3f-a84a-4fc9-8c02-2f769133c71c",
+  "multiverse_ids": [
+    681893
+  ],
+  "arena_id": 92974,
+  "tcgplayer_id": 590208,
+  "cardmarket_id": 796492,
+  "name": "Diregraf Scavenger",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/6065bbf3-d2ef-41d0-872b-a72c4d6bbf79",
+  "scryfall_uri": "https://scryfall.com/card/j25/423/diregraf-scavenger?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/0/6065bbf3-d2ef-41d0-872b-a72c4d6bbf79.jpg?1730487224",
+    "normal": "https://cards.scryfall.io/normal/front/6/0/6065bbf3-d2ef-41d0-872b-a72c4d6bbf79.jpg?1730487224",
+    "large": "https://cards.scryfall.io/large/front/6/0/6065bbf3-d2ef-41d0-872b-a72c4d6bbf79.jpg?1730487224",
+    "png": "https://cards.scryfall.io/png/front/6/0/6065bbf3-d2ef-41d0-872b-a72c4d6bbf79.png?1730487224",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/0/6065bbf3-d2ef-41d0-872b-a72c4d6bbf79.jpg?1730487224",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/0/6065bbf3-d2ef-41d0-872b-a72c4d6bbf79.jpg?1730487224"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4,
+  "type_line": "Creature — Zombie Bear",
+  "oracle_text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nWhen this creature enters, exile up to one target card from a graveyard. If a creature card was exiled this way, each opponent loses 2 life and you gain 2 life.",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Deathtouch"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9201567c-bab5-4720-aac9-260e6741f115",
+  "set": "j25",
+  "set_name": "Foundations Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/9201567c-bab5-4720-aac9-260e6741f115",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj25&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j25?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6065bbf3-d2ef-41d0-872b-a72c4d6bbf79/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A54731e3f-a84a-4fc9-8c02-2f769133c71c&unique=prints",
+  "collector_number": "423",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "It can barely feel the sword anymore.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Manuel Castañón",
+  "artist_ids": [
+    "35f11eeb-36ff-4059-bb70-d1274f5bd858"
+  ],
+  "illustration_id": "1d5c3895-3811-4976-88fd-0ab90274e5ad",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 17841,
+  "prices": {
+    "usd": "0.06",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.08",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=681893&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDiregraf%2BScavenger",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDiregraf%2BScavenger",
+    "edhrec": "https://edhrec.com/route/?cc=Diregraf+Scavenger"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F590208%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=796492&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Diregraf+Scavenger&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

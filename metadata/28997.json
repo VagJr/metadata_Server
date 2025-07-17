@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "448c05fc-8327-4c2a-aec2-fa08e297002d",
+  "oracle_id": "a9ea980e-4734-45e5-b5b7-4ec092db3299",
+  "multiverse_ids": [],
+  "name": "Elemental",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/448c05fc-8327-4c2a-aec2-fa08e297002d",
+  "scryfall_uri": "https://scryfall.com/card/totc/21/elemental?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/4/448c05fc-8327-4c2a-aec2-fa08e297002d.jpg?1712319964",
+    "normal": "https://cards.scryfall.io/normal/front/4/4/448c05fc-8327-4c2a-aec2-fa08e297002d.jpg?1712319964",
+    "large": "https://cards.scryfall.io/large/front/4/4/448c05fc-8327-4c2a-aec2-fa08e297002d.jpg?1712319964",
+    "png": "https://cards.scryfall.io/png/front/4/4/448c05fc-8327-4c2a-aec2-fa08e297002d.png?1712319964",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/4/448c05fc-8327-4c2a-aec2-fa08e297002d.jpg?1712319964",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/4/448c05fc-8327-4c2a-aec2-fa08e297002d.jpg?1712319964"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Elemental",
+  "oracle_text": "",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "9a0a9d3f-cd75-419b-840f-88b468f71f4a",
+      "component": "combo_piece",
+      "name": "Omnath, Locus of Rage",
+      "type_line": "Legendary Creature — Elemental",
+      "uri": "https://api.scryfall.com/cards/9a0a9d3f-cd75-419b-840f-88b468f71f4a"
+    },
+    {
+      "object": "related_card",
+      "id": "448c05fc-8327-4c2a-aec2-fa08e297002d",
+      "component": "token",
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "uri": "https://api.scryfall.com/cards/448c05fc-8327-4c2a-aec2-fa08e297002d"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e25e9845-1a2f-420d-a9fb-12a15058b50d",
+  "set": "totc",
+  "set_name": "Outlaws of Thunder Junction Commander Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/e25e9845-1a2f-420d-a9fb-12a15058b50d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/totc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/448c05fc-8327-4c2a-aec2-fa08e297002d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa9ea980e-4734-45e5-b5b7-4ec092db3299&unique=prints",
+  "collector_number": "21",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Brad Rigney",
+  "artist_ids": [
+    "f17194b9-10e9-44ea-9b65-6812ab398624"
+  ],
+  "illustration_id": "4a0d27a7-ad39-4ca2-8be5-152bfb33cf1f",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DElemental",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DElemental",
+    "edhrec": "https://edhrec.com/route/?cc=Elemental"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DElemental%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Elemental&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Elemental&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

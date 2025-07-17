@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "12f43272-6681-41dd-8bfd-d18cc68171c1",
+  "oracle_id": "4d36ea21-e8cb-442d-ba3f-c399289ac208",
+  "multiverse_ids": [
+    489612
+  ],
+  "arena_id": 72190,
+  "tcgplayer_id": 216268,
+  "cardmarket_id": 473629,
+  "name": "Patron of the Valiant",
+  "lang": "en",
+  "released_at": "2020-07-17",
+  "uri": "https://api.scryfall.com/cards/12f43272-6681-41dd-8bfd-d18cc68171c1",
+  "scryfall_uri": "https://scryfall.com/card/jmp/128/patron-of-the-valiant?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/2/12f43272-6681-41dd-8bfd-d18cc68171c1.jpg?1600718389",
+    "normal": "https://cards.scryfall.io/normal/front/1/2/12f43272-6681-41dd-8bfd-d18cc68171c1.jpg?1600718389",
+    "large": "https://cards.scryfall.io/large/front/1/2/12f43272-6681-41dd-8bfd-d18cc68171c1.jpg?1600718389",
+    "png": "https://cards.scryfall.io/png/front/1/2/12f43272-6681-41dd-8bfd-d18cc68171c1.png?1600718389",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/2/12f43272-6681-41dd-8bfd-d18cc68171c1.jpg?1600718389",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/2/12f43272-6681-41dd-8bfd-d18cc68171c1.jpg?1600718389"
+  },
+  "mana_cost": "{3}{W}{W}",
+  "cmc": 5,
+  "type_line": "Creature — Angel",
+  "oracle_text": "Flying\nWhen this creature enters, put a +1/+1 counter on each creature you control with a +1/+1 counter on it.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "0f6ccf25-a627-4263-86df-5757137f1696",
+  "set": "jmp",
+  "set_name": "Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/0f6ccf25-a627-4263-86df-5757137f1696",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ajmp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/jmp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/12f43272-6681-41dd-8bfd-d18cc68171c1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4d36ea21-e8cb-442d-ba3f-c399289ac208&unique=prints",
+  "collector_number": "128",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Bant's most gallant knights wear my sigil, and for that I am humbled.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steve Argyle",
+  "artist_ids": [
+    "a44ddda4-5331-4f83-aac9-3e00ed36bd7b"
+  ],
+  "illustration_id": "1b53508f-2bce-410f-b0e3-8b6e583885d2",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 13882,
+  "penny_rank": 16443,
+  "preview": {
+    "source": "Skybilz",
+    "source_uri": "https://twitter.com/Skybilz/status/1273773133049331713",
+    "previewed_at": "2020-06-19"
+  },
+  "prices": {
+    "usd": "0.07",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.07",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489612&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPatron%2Bof%2Bthe%2BValiant",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPatron%2Bof%2Bthe%2BValiant",
+    "edhrec": "https://edhrec.com/route/?cc=Patron+of+the+Valiant"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F216268%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=473629&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Patron+of+the+Valiant&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "fa9395a0-922c-4062-a917-796786000f2b",
+  "oracle_id": "c24b3135-5f23-461c-9e57-de747ca8978a",
+  "multiverse_ids": [
+    573494
+  ],
+  "tcgplayer_etched_id": 276790,
+  "cardmarket_id": 664945,
+  "name": "Mindwrack Liege",
+  "lang": "en",
+  "released_at": "2022-07-08",
+  "uri": "https://api.scryfall.com/cards/fa9395a0-922c-4062-a917-796786000f2b",
+  "scryfall_uri": "https://scryfall.com/card/2x2/526/mindwrack-liege?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/a/fa9395a0-922c-4062-a917-796786000f2b.jpg?1681411898",
+    "normal": "https://cards.scryfall.io/normal/front/f/a/fa9395a0-922c-4062-a917-796786000f2b.jpg?1681411898",
+    "large": "https://cards.scryfall.io/large/front/f/a/fa9395a0-922c-4062-a917-796786000f2b.jpg?1681411898",
+    "png": "https://cards.scryfall.io/png/front/f/a/fa9395a0-922c-4062-a917-796786000f2b.png?1681411898",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/a/fa9395a0-922c-4062-a917-796786000f2b.jpg?1681411898",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/a/fa9395a0-922c-4062-a917-796786000f2b.jpg?1681411898"
+  },
+  "mana_cost": "{3}{U/R}{U/R}{U/R}",
+  "cmc": 6,
+  "type_line": "Creature — Horror",
+  "oracle_text": "Other blue creatures you control get +1/+1.\nOther red creatures you control get +1/+1.\n{U/R}{U/R}{U/R}{U/R}: You may put a blue or red creature card from your hand onto the battlefield.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": false,
+  "finishes": [
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5a645837-b050-449f-ac90-1e7ccbf45031",
+  "set": "2x2",
+  "set_name": "Double Masters 2022",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/5a645837-b050-449f-ac90-1e7ccbf45031",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A2x2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/2x2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/fa9395a0-922c-4062-a917-796786000f2b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac24b3135-5f23-461c-9e57-de747ca8978a&unique=prints",
+  "collector_number": "526",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Richard Whitters",
+  "artist_ids": [
+    "7d989811-f244-4be7-b5b0-6fbeacacef6b"
+  ],
+  "illustration_id": "826588c3-7c44-4a4c-8fd1-15784fb06fe7",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted",
+    "etched"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 17159,
+  "penny_rank": 16318,
+  "preview": {
+    "source": "TeferiMagic",
+    "source_uri": "https://twitter.com/TeferiMagic/status/1539353031518498816",
+    "previewed_at": "2022-06-21"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": "0.53",
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=573494&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMindwrack%2BLiege",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMindwrack%2BLiege",
+    "edhrec": "https://edhrec.com/route/?cc=Mindwrack+Liege"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DMindwrack%2BLiege%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=664945&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mindwrack+Liege&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "53899f04-d0b5-464c-bac9-c3e9490ed127",
+  "oracle_id": "ebd06311-4aa6-4db9-a90a-666cc4e744d1",
+  "multiverse_ids": [],
+  "tcgplayer_id": 288100,
+  "cardmarket_id": 677422,
+  "name": "Blorbian Buddy",
+  "lang": "en",
+  "released_at": "2022-10-07",
+  "uri": "https://api.scryfall.com/cards/53899f04-d0b5-464c-bac9-c3e9490ed127",
+  "scryfall_uri": "https://scryfall.com/card/unf/417/blorbian-buddy?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/3/53899f04-d0b5-464c-bac9-c3e9490ed127.jpg?1673918025",
+    "normal": "https://cards.scryfall.io/normal/front/5/3/53899f04-d0b5-464c-bac9-c3e9490ed127.jpg?1673918025",
+    "large": "https://cards.scryfall.io/large/front/5/3/53899f04-d0b5-464c-bac9-c3e9490ed127.jpg?1673918025",
+    "png": "https://cards.scryfall.io/png/front/5/3/53899f04-d0b5-464c-bac9-c3e9490ed127.png?1673918025",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/3/53899f04-d0b5-464c-bac9-c3e9490ed127.jpg?1673918025",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/3/53899f04-d0b5-464c-bac9-c3e9490ed127.jpg?1673918025"
+  },
+  "mana_cost": "{G}",
+  "cmc": 1,
+  "type_line": "Creature — Alien Guest",
+  "oracle_text": "Trample\n{G}, {T}: You get {TK} (a ticket counter).",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Trample"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "53899f04-d0b5-464c-bac9-c3e9490ed127",
+      "component": "combo_piece",
+      "name": "Blorbian Buddy",
+      "type_line": "Creature — Alien Guest",
+      "uri": "https://api.scryfall.com/cards/53899f04-d0b5-464c-bac9-c3e9490ed127"
+    },
+    {
+      "object": "related_card",
+      "id": "52942a5c-0552-4a9b-9c0f-7a9ffd04d0af",
+      "component": "combo_piece",
+      "name": "Ticket Bucket-Bot",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/52942a5c-0552-4a9b-9c0f-7a9ffd04d0af"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "b314f553-8f07-4ba9-96c8-16be7784eff3",
+  "set": "unf",
+  "set_name": "Unfinity",
+  "set_type": "funny",
+  "set_uri": "https://api.scryfall.com/sets/b314f553-8f07-4ba9-96c8-16be7784eff3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aunf&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/unf?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/53899f04-d0b5-464c-bac9-c3e9490ed127/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aebd06311-4aa6-4db9-a90a-666cc4e744d1&unique=prints",
+  "collector_number": "417",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "When Captain Nebula tragically destroyed the planet Blorb-12 in a parking accident, Myra compensated the survivors with lifetime passes.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ernanda Souza",
+  "artist_ids": [
+    "e87a8b19-f97f-4df0-9dda-1310ab0257bb"
+  ],
+  "illustration_id": "653678c0-3f7b-4be3-b1b2-4dd0c8c4f483",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "galaxyfoil",
+    "boosterfun"
+  ],
+  "edhrec_rank": 20523,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.29",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.33",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlorbian%2BBuddy",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlorbian%2BBuddy",
+    "edhrec": "https://edhrec.com/route/?cc=Blorbian+Buddy"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F288100%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=677422&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blorbian+Buddy&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

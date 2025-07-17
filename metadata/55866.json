@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "845057a1-4da1-4a32-9bb2-bbf8502acd37",
+  "oracle_id": "b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6",
+  "multiverse_ids": [
+    500990
+  ],
+  "mtgo_id": 85826,
+  "tcgplayer_id": 227269,
+  "cardmarket_id": 515039,
+  "name": "Forest",
+  "lang": "en",
+  "released_at": "2020-11-20",
+  "uri": "https://api.scryfall.com/cards/845057a1-4da1-4a32-9bb2-bbf8502acd37",
+  "scryfall_uri": "https://scryfall.com/card/cmr/510/forest?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/4/845057a1-4da1-4a32-9bb2-bbf8502acd37.jpg?1608918251",
+    "normal": "https://cards.scryfall.io/normal/front/8/4/845057a1-4da1-4a32-9bb2-bbf8502acd37.jpg?1608918251",
+    "large": "https://cards.scryfall.io/large/front/8/4/845057a1-4da1-4a32-9bb2-bbf8502acd37.jpg?1608918251",
+    "png": "https://cards.scryfall.io/png/front/8/4/845057a1-4da1-4a32-9bb2-bbf8502acd37.png?1608918251",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/4/845057a1-4da1-4a32-9bb2-bbf8502acd37.jpg?1608918251",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/4/845057a1-4da1-4a32-9bb2-bbf8502acd37.jpg?1608918251"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Basic Land — Forest",
+  "oracle_text": "({T}: Add {G}.)",
+  "colors": [],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "G"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "39de6fbf-1f11-48d0-8f04-f0407f6a0732",
+  "set": "cmr",
+  "set_name": "Commander Legends",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/39de6fbf-1f11-48d0-8f04-f0407f6a0732",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/845057a1-4da1-4a32-9bb2-bbf8502acd37/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6&unique=prints",
+  "collector_number": "510",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Xin-Yu Liu",
+  "artist_ids": [
+    "71b3780d-7f80-45d1-899a-fb6d223a1857"
+  ],
+  "illustration_id": "68f371eb-0282-4250-beba-78b73f1f22a2",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": "0.13",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.06",
+    "eur_foil": null,
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=500990&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DForest",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DForest",
+    "edhrec": "https://edhrec.com/route/?cc=Forest"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F227269%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=515039&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/85826?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

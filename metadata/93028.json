@@ -1,0 +1,148 @@
+{
+  "object": "card",
+  "id": "db9b1de4-9aba-4145-804d-2072f258af3b",
+  "oracle_id": "f54111c8-9c20-4a73-a7c4-24d216e7de07",
+  "multiverse_ids": [
+    491897
+  ],
+  "mtgo_id": 83487,
+  "arena_id": 73458,
+  "tcgplayer_id": 222180,
+  "cardmarket_id": 496825,
+  "name": "Myriad Construct",
+  "lang": "en",
+  "released_at": "2020-09-25",
+  "uri": "https://api.scryfall.com/cards/db9b1de4-9aba-4145-804d-2072f258af3b",
+  "scryfall_uri": "https://scryfall.com/card/znr/246/myriad-construct?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/b/db9b1de4-9aba-4145-804d-2072f258af3b.jpg?1604200790",
+    "normal": "https://cards.scryfall.io/normal/front/d/b/db9b1de4-9aba-4145-804d-2072f258af3b.jpg?1604200790",
+    "large": "https://cards.scryfall.io/large/front/d/b/db9b1de4-9aba-4145-804d-2072f258af3b.jpg?1604200790",
+    "png": "https://cards.scryfall.io/png/front/d/b/db9b1de4-9aba-4145-804d-2072f258af3b.png?1604200790",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/b/db9b1de4-9aba-4145-804d-2072f258af3b.jpg?1604200790",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/b/db9b1de4-9aba-4145-804d-2072f258af3b.jpg?1604200790"
+  },
+  "mana_cost": "{4}",
+  "cmc": 4,
+  "type_line": "Artifact Creature — Construct",
+  "oracle_text": "Kicker {3}\nIf this creature was kicked, it enters with a +1/+1 counter on it for each nonbasic land your opponents control.\nWhen this creature becomes the target of a spell, sacrifice it and create a number of 1/1 colorless Construct artifact creature tokens equal to its power.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Kicker"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "3462c167-e6cf-46f8-9b77-2a88815e3b82",
+      "component": "token",
+      "name": "Construct",
+      "type_line": "Token Artifact Creature — Construct",
+      "uri": "https://api.scryfall.com/cards/3462c167-e6cf-46f8-9b77-2a88815e3b82"
+    },
+    {
+      "object": "related_card",
+      "id": "d11e4bb6-8ab3-4402-b474-0fb8cbccd802",
+      "component": "combo_piece",
+      "name": "Myriad Construct",
+      "type_line": "Artifact Creature — Construct",
+      "uri": "https://api.scryfall.com/cards/d11e4bb6-8ab3-4402-b474-0fb8cbccd802"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "f4e01fa7-b254-42dd-849f-69b58027a8c4",
+  "set": "znr",
+  "set_name": "Zendikar Rising",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/f4e01fa7-b254-42dd-849f-69b58027a8c4",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aznr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/znr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/db9b1de4-9aba-4145-804d-2072f258af3b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af54111c8-9c20-4a73-a7c4-24d216e7de07&unique=prints",
+  "collector_number": "246",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chase Stone",
+  "artist_ids": [
+    "2d753f61-5f5b-468e-97ea-8e0fdd347340"
+  ],
+  "illustration_id": "f8141f2b-1299-4100-bd4a-df7c47b94454",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 8891,
+  "penny_rank": 9074,
+  "preview": {
+    "source": "Ali Eldrazi",
+    "source_uri": "https://twitter.com/alieldrazi/status/1303484243310530562?s=21",
+    "previewed_at": "2020-09-08"
+  },
+  "prices": {
+    "usd": "0.12",
+    "usd_foil": "0.23",
+    "usd_etched": null,
+    "eur": "0.18",
+    "eur_foil": "0.16",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491897&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMyriad%2BConstruct",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMyriad%2BConstruct",
+    "edhrec": "https://edhrec.com/route/?cc=Myriad+Construct"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F222180%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=496825&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/83487?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

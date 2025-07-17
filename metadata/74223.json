@@ -1,0 +1,163 @@
+{
+  "object": "card",
+  "id": "af1b7fa1-7356-4757-ade5-888738bb0f27",
+  "oracle_id": "fb1c507d-ef94-438e-bee5-29eb48dc8e70",
+  "multiverse_ids": [],
+  "tcgplayer_id": 244546,
+  "cardmarket_id": 572485,
+  "name": "Zalto, Fire Giant Duke",
+  "lang": "en",
+  "released_at": "2021-07-23",
+  "uri": "https://api.scryfall.com/cards/af1b7fa1-7356-4757-ade5-888738bb0f27",
+  "scryfall_uri": "https://scryfall.com/card/pafr/171s/zalto-fire-giant-duke?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/f/af1b7fa1-7356-4757-ade5-888738bb0f27.jpg?1627950932",
+    "normal": "https://cards.scryfall.io/normal/front/a/f/af1b7fa1-7356-4757-ade5-888738bb0f27.jpg?1627950932",
+    "large": "https://cards.scryfall.io/large/front/a/f/af1b7fa1-7356-4757-ade5-888738bb0f27.jpg?1627950932",
+    "png": "https://cards.scryfall.io/png/front/a/f/af1b7fa1-7356-4757-ade5-888738bb0f27.png?1627950932",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/f/af1b7fa1-7356-4757-ade5-888738bb0f27.jpg?1627950932",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/f/af1b7fa1-7356-4757-ade5-888738bb0f27.jpg?1627950932"
+  },
+  "mana_cost": "{3}{R}{R}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Giant Barbarian",
+  "oracle_text": "Trample\nWhenever Zalto is dealt damage, venture into the dungeon. (Enter the first room or advance to the next room.)",
+  "power": "7",
+  "toughness": "3",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Trample",
+    "Venture into the dungeon"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6f509dbe-6ec7-4438-ab36-e20be46c9922",
+      "component": "combo_piece",
+      "name": "Dungeon of the Mad Mage",
+      "type_line": "Dungeon",
+      "uri": "https://api.scryfall.com/cards/6f509dbe-6ec7-4438-ab36-e20be46c9922"
+    },
+    {
+      "object": "related_card",
+      "id": "59b11ff8-f118-4978-87dd-509dc0c8c932",
+      "component": "combo_piece",
+      "name": "Lost Mine of Phandelver",
+      "type_line": "Dungeon",
+      "uri": "https://api.scryfall.com/cards/59b11ff8-f118-4978-87dd-509dc0c8c932"
+    },
+    {
+      "object": "related_card",
+      "id": "70b284bd-7a8f-4b60-8238-f746bdc5b236",
+      "component": "combo_piece",
+      "name": "Tomb of Annihilation",
+      "type_line": "Dungeon",
+      "uri": "https://api.scryfall.com/cards/70b284bd-7a8f-4b60-8238-f746bdc5b236"
+    },
+    {
+      "object": "related_card",
+      "id": "af1b7fa1-7356-4757-ade5-888738bb0f27",
+      "component": "combo_piece",
+      "name": "Zalto, Fire Giant Duke",
+      "type_line": "Legendary Creature — Giant Barbarian",
+      "uri": "https://api.scryfall.com/cards/af1b7fa1-7356-4757-ade5-888738bb0f27"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "983f027f-76f9-462d-8eb5-458dcbf029b4",
+  "set": "pafr",
+  "set_name": "Adventures in the Forgotten Realms Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/983f027f-76f9-462d-8eb5-458dcbf029b4",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apafr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pafr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/af1b7fa1-7356-4757-ade5-888738bb0f27/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afb1c507d-ef94-438e-bee5-29eb48dc8e70&unique=prints",
+  "collector_number": "171s",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Fire giants love to fight on a large scale, and Duke Zalto is one of the greatest warmongers of his age.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Zezhou Chen",
+  "artist_ids": [
+    "810677e5-a502-4c03-b726-78cd808a75d4"
+  ],
+  "illustration_id": "25ff5b7f-527a-4da5-95ee-ef2670eab28a",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 15721,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.15",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.44",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DZalto%252C%2BFire%2BGiant%2BDuke",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DZalto%252C%2BFire%2BGiant%2BDuke",
+    "edhrec": "https://edhrec.com/route/?cc=Zalto%2C+Fire+Giant+Duke"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F244546%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=572485&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Zalto%2C+Fire+Giant+Duke&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

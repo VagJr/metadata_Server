@@ -1,0 +1,113 @@
+{
+  "object": "card",
+  "id": "3be4b8f6-9f1e-4001-8122-70e54aa2f024",
+  "oracle_id": "27e9db49-7af7-4bef-ad4c-bf5dfb92030d",
+  "multiverse_ids": [
+    534747
+  ],
+  "arena_id": 80874,
+  "name": "Fog",
+  "lang": "en",
+  "released_at": "2021-08-26",
+  "uri": "https://api.scryfall.com/cards/3be4b8f6-9f1e-4001-8122-70e54aa2f024",
+  "scryfall_uri": "https://scryfall.com/card/j21/789/fog?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/b/3be4b8f6-9f1e-4001-8122-70e54aa2f024.jpg?1630270382",
+    "normal": "https://cards.scryfall.io/normal/front/3/b/3be4b8f6-9f1e-4001-8122-70e54aa2f024.jpg?1630270382",
+    "large": "https://cards.scryfall.io/large/front/3/b/3be4b8f6-9f1e-4001-8122-70e54aa2f024.jpg?1630270382",
+    "png": "https://cards.scryfall.io/png/front/3/b/3be4b8f6-9f1e-4001-8122-70e54aa2f024.png?1630270382",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/b/3be4b8f6-9f1e-4001-8122-70e54aa2f024.jpg?1630270382",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/b/3be4b8f6-9f1e-4001-8122-70e54aa2f024.jpg?1630270382"
+  },
+  "mana_cost": "{G}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "oracle_text": "Prevent all combat damage that would be dealt this turn.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e1cc23bd-379b-4f2c-a4e0-83fc1e7be023",
+  "set": "j21",
+  "set_name": "Jumpstart: Historic Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/e1cc23bd-379b-4f2c-a4e0-83fc1e7be023",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj21&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j21?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3be4b8f6-9f1e-4001-8122-70e54aa2f024/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A27e9db49-7af7-4bef-ad4c-bf5dfb92030d&unique=prints",
+  "collector_number": "789",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jaime Jones",
+  "artist_ids": [
+    "92f6c2c1-fa57-4b52-99c4-0fd866c13dc9"
+  ],
+  "illustration_id": "04b4bb07-1571-49c6-855c-36b08c32c0d2",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 934,
+  "penny_rank": 3150,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534747&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFog",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFog",
+    "edhrec": "https://edhrec.com/route/?cc=Fog"
+  }
+}

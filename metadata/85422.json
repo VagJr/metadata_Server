@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "c9c356c1-ba55-449a-b77e-a20a0f4e0f8a",
+  "oracle_id": "78eb5399-8c8b-4310-b585-e4ccd9d7c9cc",
+  "multiverse_ids": [],
+  "tcgplayer_id": 249562,
+  "cardmarket_id": 575732,
+  "name": "Wake to Slaughter",
+  "lang": "en",
+  "released_at": "2021-09-24",
+  "uri": "https://api.scryfall.com/cards/c9c356c1-ba55-449a-b77e-a20a0f4e0f8a",
+  "scryfall_uri": "https://scryfall.com/card/pmid/250s/wake-to-slaughter?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/9/c9c356c1-ba55-449a-b77e-a20a0f4e0f8a.jpg?1644863554",
+    "normal": "https://cards.scryfall.io/normal/front/c/9/c9c356c1-ba55-449a-b77e-a20a0f4e0f8a.jpg?1644863554",
+    "large": "https://cards.scryfall.io/large/front/c/9/c9c356c1-ba55-449a-b77e-a20a0f4e0f8a.jpg?1644863554",
+    "png": "https://cards.scryfall.io/png/front/c/9/c9c356c1-ba55-449a-b77e-a20a0f4e0f8a.png?1644863554",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/9/c9c356c1-ba55-449a-b77e-a20a0f4e0f8a.jpg?1644863554",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/9/c9c356c1-ba55-449a-b77e-a20a0f4e0f8a.jpg?1644863554"
+  },
+  "mana_cost": "{3}{B}{R}",
+  "cmc": 5,
+  "type_line": "Sorcery",
+  "oracle_text": "Choose up to two target creature cards in your graveyard. An opponent chooses one of them. Return that card to your hand. Return the other to the battlefield under your control. It gains haste. Exile it at the beginning of the next end step.\nFlashback {4}{B}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "colors": [
+    "B",
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [
+    "Flashback"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e7f1d597-3f0b-4892-a857-ac6f8f6f1058",
+  "set": "pmid",
+  "set_name": "Innistrad: Midnight Hunt Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/e7f1d597-3f0b-4892-a857-ac6f8f6f1058",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apmid&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pmid?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c9c356c1-ba55-449a-b77e-a20a0f4e0f8a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A78eb5399-8c8b-4310-b585-e4ccd9d7c9cc&unique=prints",
+  "collector_number": "250s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Cold",
+  "artist_ids": [
+    "2622d22b-3fd8-4831-9b2b-adc5fac01b85"
+  ],
+  "illustration_id": "2b6e4600-2d93-43d4-9e51-77baafabc481",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 16269,
+  "penny_rank": 14232,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.29",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.48",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWake%2Bto%2BSlaughter",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWake%2Bto%2BSlaughter",
+    "edhrec": "https://edhrec.com/route/?cc=Wake+to+Slaughter"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F249562%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=575732&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wake+to+Slaughter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

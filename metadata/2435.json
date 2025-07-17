@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "05a61555-ddb9-4d55-b637-a219d772033d",
+  "oracle_id": "b1612d71-4e81-4ea7-95d9-05ed7a70e5f1",
+  "multiverse_ids": [],
+  "name": "Cat",
+  "lang": "en",
+  "released_at": "2023-01-13",
+  "uri": "https://api.scryfall.com/cards/05a61555-ddb9-4d55-b637-a219d772033d",
+  "scryfall_uri": "https://scryfall.com/card/tdmr/3/cat?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/5/05a61555-ddb9-4d55-b637-a219d772033d.jpg?1675198619",
+    "normal": "https://cards.scryfall.io/normal/front/0/5/05a61555-ddb9-4d55-b637-a219d772033d.jpg?1675198619",
+    "large": "https://cards.scryfall.io/large/front/0/5/05a61555-ddb9-4d55-b637-a219d772033d.jpg?1675198619",
+    "png": "https://cards.scryfall.io/png/front/0/5/05a61555-ddb9-4d55-b637-a219d772033d.png?1675198619",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/5/05a61555-ddb9-4d55-b637-a219d772033d.jpg?1675198619",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/5/05a61555-ddb9-4d55-b637-a219d772033d.jpg?1675198619"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Cat",
+  "oracle_text": "",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "05a61555-ddb9-4d55-b637-a219d772033d",
+      "component": "token",
+      "name": "Cat",
+      "type_line": "Token Creature — Cat",
+      "uri": "https://api.scryfall.com/cards/05a61555-ddb9-4d55-b637-a219d772033d"
+    },
+    {
+      "object": "related_card",
+      "id": "359fbd40-0f61-4ec7-872c-228a476c7ad5",
+      "component": "combo_piece",
+      "name": "Penumbra Bobcat",
+      "type_line": "Creature — Cat",
+      "uri": "https://api.scryfall.com/cards/359fbd40-0f61-4ec7-872c-228a476c7ad5"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d583889f-a8c3-48ce-82c1-361c06de93dc",
+  "set": "tdmr",
+  "set_name": "Dominaria Remastered Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/d583889f-a8c3-48ce-82c1-361c06de93dc",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdmr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tdmr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/05a61555-ddb9-4d55-b637-a219d772033d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab1612d71-4e81-4ea7-95d9-05ed7a70e5f1&unique=prints",
+  "collector_number": "3",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daren Bader",
+  "artist_ids": [
+    "7da1a585-c875-45e4-b322-5da9e8e1f651"
+  ],
+  "illustration_id": "d54e02e4-71ca-4fb2-9437-c428608f39d2",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCat",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCat",
+    "edhrec": "https://edhrec.com/route/?cc=Cat"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DCat%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cat&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cat&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

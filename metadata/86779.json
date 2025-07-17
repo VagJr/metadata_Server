@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "cce2fce1-8172-43ed-937d-a543a474ef46",
+  "oracle_id": "3fd8ba0c-75ec-43ea-8706-f71e6cf1d236",
+  "multiverse_ids": [
+    532467
+  ],
+  "tcgplayer_id": 243921,
+  "cardmarket_id": 572253,
+  "name": "Champion of Wits",
+  "lang": "en",
+  "released_at": "2021-07-23",
+  "uri": "https://api.scryfall.com/cards/cce2fce1-8172-43ed-937d-a543a474ef46",
+  "scryfall_uri": "https://scryfall.com/card/afc/80/champion-of-wits?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/c/cce2fce1-8172-43ed-937d-a543a474ef46.jpg?1631586189",
+    "normal": "https://cards.scryfall.io/normal/front/c/c/cce2fce1-8172-43ed-937d-a543a474ef46.jpg?1631586189",
+    "large": "https://cards.scryfall.io/large/front/c/c/cce2fce1-8172-43ed-937d-a543a474ef46.jpg?1631586189",
+    "png": "https://cards.scryfall.io/png/front/c/c/cce2fce1-8172-43ed-937d-a543a474ef46.png?1631586189",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/c/cce2fce1-8172-43ed-937d-a543a474ef46.jpg?1631586189",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/c/cce2fce1-8172-43ed-937d-a543a474ef46.jpg?1631586189"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Creature — Snake Wizard",
+  "oracle_text": "When this creature enters, you may draw cards equal to its power. If you do, discard two cards.\nEternalize {5}{U}{U} ({5}{U}{U}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Snake Wizard with no mana cost. Eternalize only as a sorcery.)",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Eternalize"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "cce2fce1-8172-43ed-937d-a543a474ef46",
+      "component": "combo_piece",
+      "name": "Champion of Wits",
+      "type_line": "Creature — Snake Wizard",
+      "uri": "https://api.scryfall.com/cards/cce2fce1-8172-43ed-937d-a543a474ef46"
+    },
+    {
+      "object": "related_card",
+      "id": "d945177b-a94f-4d05-8d4c-d03afb04acf5",
+      "component": "token",
+      "name": "Champion of Wits",
+      "type_line": "Token Creature — Zombie Snake Wizard",
+      "uri": "https://api.scryfall.com/cards/d945177b-a94f-4d05-8d4c-d03afb04acf5"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "db1b46f9-893c-4623-9465-985ff6e4472c",
+  "set": "afc",
+  "set_name": "Forgotten Realms Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/db1b46f9-893c-4623-9465-985ff6e4472c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aafc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/afc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/cce2fce1-8172-43ed-937d-a543a474ef46/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3fd8ba0c-75ec-43ea-8706-f71e6cf1d236&unique=prints",
+  "collector_number": "80",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Even Amundsen",
+  "artist_ids": [
+    "127faa6a-6c02-49a0-beba-ae76d06dd153"
+  ],
+  "illustration_id": "83281c79-8283-4e69-9fdc-090e71504ac2",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5518,
+  "penny_rank": 973,
+  "prices": {
+    "usd": "0.13",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.14",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=532467&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DChampion%2Bof%2BWits",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DChampion%2Bof%2BWits",
+    "edhrec": "https://edhrec.com/route/?cc=Champion+of+Wits"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F243921%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=572253&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Champion+of+Wits&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

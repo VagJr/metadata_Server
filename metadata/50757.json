@@ -1,0 +1,138 @@
+{
+  "object": "card",
+  "id": "77f8aab2-995b-4e55-8c23-6915eac6278c",
+  "oracle_id": "361b0d7f-1e43-45c5-92c2-92baacaf326f",
+  "multiverse_ids": [
+    610933
+  ],
+  "mtgo_id": 109602,
+  "tcgplayer_id": 491017,
+  "cardmarket_id": 704936,
+  "name": "Pile On",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/77f8aab2-995b-4e55-8c23-6915eac6278c",
+  "scryfall_uri": "https://scryfall.com/card/mom/361/pile-on?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/7/77f8aab2-995b-4e55-8c23-6915eac6278c.jpg?1682206771",
+    "normal": "https://cards.scryfall.io/normal/front/7/7/77f8aab2-995b-4e55-8c23-6915eac6278c.jpg?1682206771",
+    "large": "https://cards.scryfall.io/large/front/7/7/77f8aab2-995b-4e55-8c23-6915eac6278c.jpg?1682206771",
+    "png": "https://cards.scryfall.io/png/front/7/7/77f8aab2-995b-4e55-8c23-6915eac6278c.png?1682206771",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/7/77f8aab2-995b-4e55-8c23-6915eac6278c.jpg?1682206771",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/7/77f8aab2-995b-4e55-8c23-6915eac6278c.jpg?1682206771"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4,
+  "type_line": "Instant",
+  "oracle_text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nDestroy target creature or planeswalker. Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Surveil",
+    "Convoke"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "392f7315-dc53-40a3-a2cc-5482dbd498b3",
+  "set": "mom",
+  "set_name": "March of the Machine",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/392f7315-dc53-40a3-a2cc-5482dbd498b3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/77f8aab2-995b-4e55-8c23-6915eac6278c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A361b0d7f-1e43-45c5-92c2-92baacaf326f&unique=prints",
+  "collector_number": "361",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Javier Charro",
+  "artist_ids": [
+    "8fd2d5fa-3b94-4e48-9cec-9d148acc8180"
+  ],
+  "illustration_id": "3b44cf24-ffea-4fed-9155-06bae0ae9f26",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 3743,
+  "penny_rank": 6357,
+  "preview": {
+    "source": "cafe.daum.net",
+    "source_uri": "https://cafe.daum.net/magin/9Uu6/5422",
+    "previewed_at": "2023-04-03"
+  },
+  "prices": {
+    "usd": "0.32",
+    "usd_foil": "0.41",
+    "usd_etched": null,
+    "eur": "0.35",
+    "eur_foil": "0.49",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=610933&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPile%2BOn",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPile%2BOn",
+    "edhrec": "https://edhrec.com/route/?cc=Pile+On"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F491017%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=704936&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/109602?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

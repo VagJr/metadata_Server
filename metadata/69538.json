@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "a439ed1c-b599-4469-82d9-df812f6c5bbd",
+  "oracle_id": "262a5d83-506c-4781-9bc9-1a2b5d83955c",
+  "multiverse_ids": [
+    622598
+  ],
+  "mtgo_id": 111848,
+  "tcgplayer_id": 499319,
+  "cardmarket_id": 717942,
+  "name": "Horizon Canopy",
+  "flavor_name": "Bag End",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/a439ed1c-b599-4469-82d9-df812f6c5bbd",
+  "scryfall_uri": "https://scryfall.com/card/ltc/366/horizon-canopy?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/4/a439ed1c-b599-4469-82d9-df812f6c5bbd.jpg?1686967173",
+    "normal": "https://cards.scryfall.io/normal/front/a/4/a439ed1c-b599-4469-82d9-df812f6c5bbd.jpg?1686967173",
+    "large": "https://cards.scryfall.io/large/front/a/4/a439ed1c-b599-4469-82d9-df812f6c5bbd.jpg?1686967173",
+    "png": "https://cards.scryfall.io/png/front/a/4/a439ed1c-b599-4469-82d9-df812f6c5bbd.png?1686967173",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/4/a439ed1c-b599-4469-82d9-df812f6c5bbd.jpg?1686967173",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/4/a439ed1c-b599-4469-82d9-df812f6c5bbd.jpg?1686967173"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "{T}, Pay 1 life: Add {G} or {W}.\n{1}, {T}, Sacrifice this land: Draw a card.",
+  "colors": [],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "G",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set": "ltc",
+  "set_name": "Tales of Middle-earth Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a439ed1c-b599-4469-82d9-df812f6c5bbd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A262a5d83-506c-4781-9bc9-1a2b5d83955c&unique=prints",
+  "collector_number": "366",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "It was popularly believed, as local legend, that the Hill at Bag End was full of tunnels stuffed with treasure.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Randy Gallegos",
+  "artist_ids": [
+    "a5048cc7-438a-4378-98e4-da99b78e1db0"
+  ],
+  "illustration_id": "48e95120-28eb-4538-929b-cb9ec23d124d",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "triangle",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 1530,
+  "prices": {
+    "usd": "7.75",
+    "usd_foil": "6.66",
+    "usd_etched": null,
+    "eur": "9.12",
+    "eur_foil": "8.12",
+    "tix": "1.75"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=622598&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHorizon%2BCanopy",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHorizon%2BCanopy",
+    "edhrec": "https://edhrec.com/route/?cc=Horizon+Canopy"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F499319%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=717942&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/111848?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

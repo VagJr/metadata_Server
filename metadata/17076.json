@@ -1,0 +1,184 @@
+{
+  "object": "card",
+  "id": "28059d09-2c7d-4c61-af55-8942107a7c1f",
+  "oracle_id": "edd531b9-f615-4399-8c8c-1c5e18c4acbf",
+  "multiverse_ids": [
+    439326,
+    439327
+  ],
+  "mtgo_id": 66417,
+  "tcgplayer_id": 151638,
+  "cardmarket_id": 312375,
+  "name": "Delver of Secrets // Insectile Aberration",
+  "lang": "en",
+  "released_at": "2017-11-24",
+  "uri": "https://api.scryfall.com/cards/28059d09-2c7d-4c61-af55-8942107a7c1f",
+  "scryfall_uri": "https://scryfall.com/card/v17/7/delver-of-secrets-insectile-aberration?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 1,
+  "type_line": "Creature — Human Wizard // Creature — Human Insect",
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying",
+    "Transform"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Delver of Secrets",
+      "mana_cost": "{U}",
+      "type_line": "Creature — Human Wizard",
+      "oracle_text": "At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an instant or sorcery card is revealed this way, transform this creature.",
+      "colors": [
+        "U"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "artist": "Lius Lasahido",
+      "artist_id": "0a0e9093-ce44-4a69-93a7-09b63e7c330d",
+      "illustration_id": "f057ade6-99c3-4fd6-8818-a00bc0b28696",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/2/8/28059d09-2c7d-4c61-af55-8942107a7c1f.jpg?1562701962",
+        "normal": "https://cards.scryfall.io/normal/front/2/8/28059d09-2c7d-4c61-af55-8942107a7c1f.jpg?1562701962",
+        "large": "https://cards.scryfall.io/large/front/2/8/28059d09-2c7d-4c61-af55-8942107a7c1f.jpg?1562701962",
+        "png": "https://cards.scryfall.io/png/front/2/8/28059d09-2c7d-4c61-af55-8942107a7c1f.png?1562701962",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/2/8/28059d09-2c7d-4c61-af55-8942107a7c1f.jpg?1562701962",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/2/8/28059d09-2c7d-4c61-af55-8942107a7c1f.jpg?1562701962"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Insectile Aberration",
+      "mana_cost": "",
+      "type_line": "Creature — Human Insect",
+      "oracle_text": "Flying",
+      "colors": [
+        "U"
+      ],
+      "color_indicator": [
+        "U"
+      ],
+      "power": "3",
+      "toughness": "2",
+      "flavor_text": "\"Unfortunately, all my test animals have died or escaped, so I shall be the final subject. I feel no fear. This is a momentous night.\"\n—Laboratory notes, final entry",
+      "artist": "Lius Lasahido",
+      "artist_id": "0a0e9093-ce44-4a69-93a7-09b63e7c330d",
+      "illustration_id": "7719db45-6774-4005-85ab-ccc6923a1545",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/2/8/28059d09-2c7d-4c61-af55-8942107a7c1f.jpg?1562701962",
+        "normal": "https://cards.scryfall.io/normal/back/2/8/28059d09-2c7d-4c61-af55-8942107a7c1f.jpg?1562701962",
+        "large": "https://cards.scryfall.io/large/back/2/8/28059d09-2c7d-4c61-af55-8942107a7c1f.jpg?1562701962",
+        "png": "https://cards.scryfall.io/png/back/2/8/28059d09-2c7d-4c61-af55-8942107a7c1f.png?1562701962",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/2/8/28059d09-2c7d-4c61-af55-8942107a7c1f.jpg?1562701962",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/2/8/28059d09-2c7d-4c61-af55-8942107a7c1f.jpg?1562701962"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "99ce1bee-8f95-4284-8e06-9de9bfcb53b5",
+      "component": "combo_piece",
+      "name": "Innistrad Checklist",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/99ce1bee-8f95-4284-8e06-9de9bfcb53b5"
+    },
+    {
+      "object": "related_card",
+      "id": "28059d09-2c7d-4c61-af55-8942107a7c1f",
+      "component": "combo_piece",
+      "name": "Delver of Secrets // Insectile Aberration",
+      "type_line": "Creature — Human Wizard // Creature — Human Insect",
+      "uri": "https://api.scryfall.com/cards/28059d09-2c7d-4c61-af55-8942107a7c1f"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "63c89a12-d115-4084-a4af-fceef40ca02f",
+  "set": "v17",
+  "set_name": "From the Vault: Transform",
+  "set_type": "from_the_vault",
+  "set_uri": "https://api.scryfall.com/sets/63c89a12-d115-4084-a4af-fceef40ca02f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Av17&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/v17?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/28059d09-2c7d-4c61-af55-8942107a7c1f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aedd531b9-f615-4399-8c8c-1c5e18c4acbf&unique=prints",
+  "collector_number": "7",
+  "digital": false,
+  "rarity": "mythic",
+  "artist": "Lius Lasahido",
+  "artist_ids": [
+    "0a0e9093-ce44-4a69-93a7-09b63e7c330d"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "sunmoondfc"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 14985,
+  "penny_rank": 157,
+  "prices": {
+    "usd": null,
+    "usd_foil": "3.13",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "2.83",
+    "tix": "0.72"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439326&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDelver%2Bof%2BSecrets%2B%252F%252F%2BInsectile%2BAberration",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDelver%2Bof%2BSecrets%2B%252F%252F%2BInsectile%2BAberration",
+    "edhrec": "https://edhrec.com/route/?cc=Delver+of+Secrets"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F151638%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=312375&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/66417?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

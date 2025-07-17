@@ -1,0 +1,197 @@
+{
+  "object": "card",
+  "id": "b94c8a9e-5b9f-4a80-bced-ee99e5ed060a",
+  "oracle_id": "2e6ed3e6-d2b8-4b75-b7e1-0773da4987a1",
+  "multiverse_ids": [
+    636503,
+    636504
+  ],
+  "mtgo_id": 117482,
+  "tcgplayer_id": 524242,
+  "cardmarket_id": 740896,
+  "name": "Huatli, Poet of Unity // Roar of the Fifth People",
+  "lang": "en",
+  "released_at": "2023-11-17",
+  "uri": "https://api.scryfall.com/cards/b94c8a9e-5b9f-4a80-bced-ee99e5ed060a",
+  "scryfall_uri": "https://scryfall.com/card/lci/296/huatli-poet-of-unity-roar-of-the-fifth-people?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Human Warrior Bard // Enchantment — Saga",
+  "color_identity": [
+    "G",
+    "R",
+    "W"
+  ],
+  "keywords": [
+    "Transform"
+  ],
+  "produced_mana": [
+    "G",
+    "R",
+    "W"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Huatli, Poet of Unity",
+      "mana_cost": "{2}{G}",
+      "type_line": "Legendary Creature — Human Warrior Bard",
+      "oracle_text": "When Huatli enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.\n{3}{R/W}{R/W}: Exile Huatli, then return her to the battlefield transformed under her owner's control. Activate only as a sorcery.",
+      "colors": [
+        "G"
+      ],
+      "power": "2",
+      "toughness": "3",
+      "artist": "Anditya Dita",
+      "artist_id": "ed730031-eab9-47c3-abf2-64f6566dc518",
+      "illustration_id": "632631e6-ff4d-4ebc-9f75-01d29116fd7e",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/b/9/b94c8a9e-5b9f-4a80-bced-ee99e5ed060a.jpg?1699044747",
+        "normal": "https://cards.scryfall.io/normal/front/b/9/b94c8a9e-5b9f-4a80-bced-ee99e5ed060a.jpg?1699044747",
+        "large": "https://cards.scryfall.io/large/front/b/9/b94c8a9e-5b9f-4a80-bced-ee99e5ed060a.jpg?1699044747",
+        "png": "https://cards.scryfall.io/png/front/b/9/b94c8a9e-5b9f-4a80-bced-ee99e5ed060a.png?1699044747",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/b/9/b94c8a9e-5b9f-4a80-bced-ee99e5ed060a.jpg?1699044747",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/b/9/b94c8a9e-5b9f-4a80-bced-ee99e5ed060a.jpg?1699044747"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Roar of the Fifth People",
+      "mana_cost": "",
+      "type_line": "Enchantment — Saga",
+      "oracle_text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)\nI — Create two 3/3 green Dinosaur creature tokens.\nII — Roar of the Fifth People gains \"Creatures you control have '{T}: Add {R}, {G}, or {W}.'\"\nIII — Search your library for a Dinosaur card, reveal it, put it into your hand, then shuffle.\nIV — Dinosaurs you control gain double strike and trample until end of turn.",
+      "colors": [
+        "G",
+        "R",
+        "W"
+      ],
+      "color_indicator": [
+        "G",
+        "R",
+        "W"
+      ],
+      "artist": "Anditya Dita",
+      "artist_id": "ed730031-eab9-47c3-abf2-64f6566dc518",
+      "illustration_id": "abeb8818-0c43-443f-8532-d15565b655a6",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/b/9/b94c8a9e-5b9f-4a80-bced-ee99e5ed060a.jpg?1699044747",
+        "normal": "https://cards.scryfall.io/normal/back/b/9/b94c8a9e-5b9f-4a80-bced-ee99e5ed060a.jpg?1699044747",
+        "large": "https://cards.scryfall.io/large/back/b/9/b94c8a9e-5b9f-4a80-bced-ee99e5ed060a.jpg?1699044747",
+        "png": "https://cards.scryfall.io/png/back/b/9/b94c8a9e-5b9f-4a80-bced-ee99e5ed060a.png?1699044747",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/b/9/b94c8a9e-5b9f-4a80-bced-ee99e5ed060a.jpg?1699044747",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/b/9/b94c8a9e-5b9f-4a80-bced-ee99e5ed060a.jpg?1699044747"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "2bbb7151-cf71-49bc-8d99-b0230d5465e5",
+      "component": "token",
+      "name": "Dinosaur",
+      "type_line": "Token Creature — Dinosaur",
+      "uri": "https://api.scryfall.com/cards/2bbb7151-cf71-49bc-8d99-b0230d5465e5"
+    },
+    {
+      "object": "related_card",
+      "id": "3cdeebd8-28d4-42a5-9a99-3c72771359ea",
+      "component": "combo_piece",
+      "name": "Huatli, Poet of Unity // Roar of the Fifth People",
+      "type_line": "Legendary Creature — Human Warrior Bard // Enchantment — Saga",
+      "uri": "https://api.scryfall.com/cards/3cdeebd8-28d4-42a5-9a99-3c72771359ea"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "70169a6e-89d1-4a3a-aef7-3152958d55ac",
+  "set": "lci",
+  "set_name": "The Lost Caverns of Ixalan",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/70169a6e-89d1-4a3a-aef7-3152958d55ac",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alci&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/lci?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b94c8a9e-5b9f-4a80-bced-ee99e5ed060a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2e6ed3e6-d2b8-4b75-b7e1-0773da4987a1&unique=prints",
+  "collector_number": "296",
+  "digital": false,
+  "rarity": "mythic",
+  "artist": "Anditya Dita",
+  "artist_ids": [
+    "ed730031-eab9-47c3-abf2-64f6566dc518"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 7062,
+  "penny_rank": 4988,
+  "prices": {
+    "usd": "0.54",
+    "usd_foil": "0.87",
+    "usd_etched": null,
+    "eur": "1.50",
+    "eur_foil": "1.17",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=636503&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHuatli%252C%2BPoet%2Bof%2BUnity%2B%252F%252F%2BRoar%2Bof%2Bthe%2BFifth%2BPeople",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHuatli%252C%2BPoet%2Bof%2BUnity%2B%252F%252F%2BRoar%2Bof%2Bthe%2BFifth%2BPeople",
+    "edhrec": "https://edhrec.com/route/?cc=Huatli%2C+Poet+of+Unity"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F524242%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=740896&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/117482?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

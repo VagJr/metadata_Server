@@ -1,0 +1,155 @@
+{
+  "object": "card",
+  "id": "0fc7725d-eb04-4778-8f5e-4c1239ed08b8",
+  "oracle_id": "91320daf-f69c-4350-b0fc-4bb37a6904b1",
+  "multiverse_ids": [
+    639274
+  ],
+  "mtgo_id": 117706,
+  "tcgplayer_id": 525149,
+  "cardmarket_id": 743053,
+  "name": "Restless Anchorage",
+  "lang": "en",
+  "released_at": "2023-11-17",
+  "uri": "https://api.scryfall.com/cards/0fc7725d-eb04-4778-8f5e-4c1239ed08b8",
+  "scryfall_uri": "https://scryfall.com/card/lci/347/restless-anchorage?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/f/0fc7725d-eb04-4778-8f5e-4c1239ed08b8.jpg?1699044919",
+    "normal": "https://cards.scryfall.io/normal/front/0/f/0fc7725d-eb04-4778-8f5e-4c1239ed08b8.jpg?1699044919",
+    "large": "https://cards.scryfall.io/large/front/0/f/0fc7725d-eb04-4778-8f5e-4c1239ed08b8.jpg?1699044919",
+    "png": "https://cards.scryfall.io/png/front/0/f/0fc7725d-eb04-4778-8f5e-4c1239ed08b8.png?1699044919",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/f/0fc7725d-eb04-4778-8f5e-4c1239ed08b8.jpg?1699044919",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/f/0fc7725d-eb04-4778-8f5e-4c1239ed08b8.jpg?1699044919"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "This land enters tapped.\n{T}: Add {W} or {U}.\n{1}{W}{U}: Until end of turn, this land becomes a 2/3 white and blue Bird creature with flying. It's still a land.\nWhenever this land attacks, create a Map token.",
+  "colors": [],
+  "color_identity": [
+    "U",
+    "W"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "0fc7725d-eb04-4778-8f5e-4c1239ed08b8",
+      "component": "combo_piece",
+      "name": "Restless Anchorage",
+      "type_line": "Land",
+      "uri": "https://api.scryfall.com/cards/0fc7725d-eb04-4778-8f5e-4c1239ed08b8"
+    },
+    {
+      "object": "related_card",
+      "id": "64839118-09d2-4645-9d3c-f80755ac781f",
+      "component": "token",
+      "name": "Map",
+      "type_line": "Token Artifact — Map",
+      "uri": "https://api.scryfall.com/cards/64839118-09d2-4645-9d3c-f80755ac781f"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "70169a6e-89d1-4a3a-aef7-3152958d55ac",
+  "set": "lci",
+  "set_name": "The Lost Caverns of Ixalan",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/70169a6e-89d1-4a3a-aef7-3152958d55ac",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alci&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/lci?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0fc7725d-eb04-4778-8f5e-4c1239ed08b8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A91320daf-f69c-4350-b0fc-4bb37a6904b1&unique=prints",
+  "collector_number": "347",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tyler Smith",
+  "artist_ids": [
+    "c6d55ca3-c69b-41aa-9b78-1cd2fef62486"
+  ],
+  "illustration_id": "061e9ef6-9f39-4fcb-9255-be8fe05dc670",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 3797,
+  "preview": {
+    "source": "AGirlNamedRon",
+    "source_uri": "https://twitter.com/AGirlNamedRon/status/1717908150630912067",
+    "previewed_at": "2023-10-27"
+  },
+  "prices": {
+    "usd": "1.06",
+    "usd_foil": "1.64",
+    "usd_etched": null,
+    "eur": "1.59",
+    "eur_foil": "2.10",
+    "tix": "0.10"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=639274&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRestless%2BAnchorage",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRestless%2BAnchorage",
+    "edhrec": "https://edhrec.com/route/?cc=Restless+Anchorage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F525149%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=743053&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/117706?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

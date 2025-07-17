@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "65bd6ec3-7597-499b-8b69-fe7d50ece069",
+  "oracle_id": "75f5d372-4ff9-430c-8302-72472439e0d2",
+  "multiverse_ids": [],
+  "tcgplayer_id": 565175,
+  "cardmarket_id": 785679,
+  "name": "Blood Money",
+  "flavor_name": "Beholder's Petrification Ray",
+  "lang": "en",
+  "released_at": "2024-08-27",
+  "uri": "https://api.scryfall.com/cards/65bd6ec3-7597-499b-8b69-fe7d50ece069",
+  "scryfall_uri": "https://scryfall.com/card/sld/1789/blood-money?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/5/65bd6ec3-7597-499b-8b69-fe7d50ece069.jpg?1723642474",
+    "normal": "https://cards.scryfall.io/normal/front/6/5/65bd6ec3-7597-499b-8b69-fe7d50ece069.jpg?1723642474",
+    "large": "https://cards.scryfall.io/large/front/6/5/65bd6ec3-7597-499b-8b69-fe7d50ece069.jpg?1723642474",
+    "png": "https://cards.scryfall.io/png/front/6/5/65bd6ec3-7597-499b-8b69-fe7d50ece069.png?1723642474",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/5/65bd6ec3-7597-499b-8b69-fe7d50ece069.jpg?1723642474",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/5/65bd6ec3-7597-499b-8b69-fe7d50ece069.jpg?1723642474"
+  },
+  "mana_cost": "{5}{B}{B}",
+  "cmc": 7,
+  "type_line": "Sorcery",
+  "oracle_text": "Destroy all creatures. For each nontoken creature destroyed this way, you create a tapped Treasure token.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Treasure"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "73f94f72-a689-41ca-b1af-6004e2a57e9c",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/73f94f72-a689-41ca-b1af-6004e2a57e9c"
+    },
+    {
+      "object": "related_card",
+      "id": "65bd6ec3-7597-499b-8b69-fe7d50ece069",
+      "component": "combo_piece",
+      "name": "Blood Money",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/65bd6ec3-7597-499b-8b69-fe7d50ece069"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/65bd6ec3-7597-499b-8b69-fe7d50ece069/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A75f5d372-4ff9-430c-8302-72472439e0d2&unique=prints",
+  "collector_number": "1789",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "\"On a failed save, target creature begins turning to stone.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ricardo Diseño",
+  "artist_ids": [
+    "a4128090-f4b5-4a22-9184-3778dd5ee3be"
+  ],
+  "illustration_id": "676624f7-7181-4b0a-8192-d57427b8e423",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1557,
+  "preview": {
+    "source": "MMORPG",
+    "source_uri": "https://www.mmorpg.com/previews/exclusive-magic-the-gathering-dandd-death-is-in-the-eye-of-the-beholder-i-secret-lair-cards-revealed-2000132491",
+    "previewed_at": "2024-08-14"
+  },
+  "prices": {
+    "usd": "2.35",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "2.80",
+    "eur_foil": "3.04",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlood%2BMoney",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlood%2BMoney",
+    "edhrec": "https://edhrec.com/route/?cc=Blood+Money"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F565175%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=785679&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blood+Money&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

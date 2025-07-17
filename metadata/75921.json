@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "b33b5e4e-e68f-4b7d-a9c3-af01aa92c4e8",
+  "oracle_id": "499dceab-1890-49c8-b35d-b059a1dc950f",
+  "multiverse_ids": [],
+  "tcgplayer_id": 586049,
+  "cardmarket_id": 794134,
+  "name": "Stuffy Doll",
+  "flavor_name": "Patchwork Chucky",
+  "lang": "en",
+  "released_at": "2024-09-30",
+  "uri": "https://api.scryfall.com/cards/b33b5e4e-e68f-4b7d-a9c3-af01aa92c4e8",
+  "scryfall_uri": "https://scryfall.com/card/sld/880/stuffy-doll?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/3/b33b5e4e-e68f-4b7d-a9c3-af01aa92c4e8.jpg?1738792589",
+    "normal": "https://cards.scryfall.io/normal/front/b/3/b33b5e4e-e68f-4b7d-a9c3-af01aa92c4e8.jpg?1738792589",
+    "large": "https://cards.scryfall.io/large/front/b/3/b33b5e4e-e68f-4b7d-a9c3-af01aa92c4e8.jpg?1738792589",
+    "png": "https://cards.scryfall.io/png/front/b/3/b33b5e4e-e68f-4b7d-a9c3-af01aa92c4e8.png?1738792589",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/3/b33b5e4e-e68f-4b7d-a9c3-af01aa92c4e8.jpg?1738792589",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/3/b33b5e4e-e68f-4b7d-a9c3-af01aa92c4e8.jpg?1738792589"
+  },
+  "mana_cost": "{5}",
+  "cmc": 5,
+  "type_line": "Artifact Creature — Construct",
+  "oracle_text": "Indestructible\nAs this creature enters, choose a player.\nWhenever this creature is dealt damage, it deals that much damage to the chosen player.\n{T}: This creature deals 1 damage to itself.",
+  "power": "0",
+  "toughness": "1",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Indestructible"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b33b5e4e-e68f-4b7d-a9c3-af01aa92c4e8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A499dceab-1890-49c8-b35d-b059a1dc950f&unique=prints",
+  "collector_number": "880",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Robin Olausson",
+  "artist_ids": [
+    "adb9ad6d-6173-454b-8b50-a102b182548b"
+  ],
+  "illustration_id": "1544eddb-1dd4-4362-abf2-1ced4b2dbe30",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "sldbonus"
+  ],
+  "edhrec_rank": 2158,
+  "penny_rank": 3586,
+  "prices": {
+    "usd": "11.04",
+    "usd_foil": "12.12",
+    "usd_etched": null,
+    "eur": "8.58",
+    "eur_foil": "12.38",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DStuffy%2BDoll",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DStuffy%2BDoll",
+    "edhrec": "https://edhrec.com/route/?cc=Stuffy+Doll"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F586049%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=794134&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Stuffy+Doll&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "4ada5ab3-8edd-44ca-8d35-3683c7dd80c3",
+  "oracle_id": "dcd5ab1b-adc5-486e-a1e0-636af6ee9470",
+  "multiverse_ids": [],
+  "mtgo_id": 105808,
+  "name": "Ashnod the Uncaring",
+  "lang": "en",
+  "released_at": "2023-02-07",
+  "uri": "https://api.scryfall.com/cards/4ada5ab3-8edd-44ca-8d35-3683c7dd80c3",
+  "scryfall_uri": "https://scryfall.com/card/prm/105808/ashnod-the-uncaring?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/a/4ada5ab3-8edd-44ca-8d35-3683c7dd80c3.jpg?1682655533",
+    "normal": "https://cards.scryfall.io/normal/front/4/a/4ada5ab3-8edd-44ca-8d35-3683c7dd80c3.jpg?1682655533",
+    "large": "https://cards.scryfall.io/large/front/4/a/4ada5ab3-8edd-44ca-8d35-3683c7dd80c3.jpg?1682655533",
+    "png": "https://cards.scryfall.io/png/front/4/a/4ada5ab3-8edd-44ca-8d35-3683c7dd80c3.png?1682655533",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/a/4ada5ab3-8edd-44ca-8d35-3683c7dd80c3.jpg?1682655533",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/a/4ada5ab3-8edd-44ca-8d35-3683c7dd80c3.jpg?1682655533"
+  },
+  "mana_cost": "{2}{U}{B}{R}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Human Artificer",
+  "oracle_text": "Deathtouch\nWhenever you activate an ability of an artifact or creature that isn't a mana ability, if one or more permanents were sacrificed to activate it, you may copy that ability. You may choose new targets for the copy. (Sacrificing an artifact for mana to activate an ability doesn't count.)",
+  "power": "1",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "R",
+    "U"
+  ],
+  "keywords": [
+    "Deathtouch"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4ada5ab3-8edd-44ca-8d35-3683c7dd80c3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adcd5ab1b-adc5-486e-a1e0-636af6ee9470&unique=prints",
+  "collector_number": "105808",
+  "digital": true,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kieran Yanner",
+  "artist_ids": [
+    "aa7e89ed-d294-4633-9057-ce04dacfcfa4"
+  ],
+  "illustration_id": "b9bf22c8-3cb8-4c23-92ff-2201e219731e",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 11144,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.20"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAshnod%2Bthe%2BUncaring",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAshnod%2Bthe%2BUncaring",
+    "edhrec": "https://edhrec.com/route/?cc=Ashnod+the+Uncaring"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DAshnod%2Bthe%2BUncaring%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ashnod+the+Uncaring&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/105808?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

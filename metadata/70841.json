@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "a73b8969-fced-4135-b574-a9411fd2b39f",
+  "oracle_id": "0c23fefe-9891-4dd8-9bb1-eebdb3274e31",
+  "multiverse_ids": [],
+  "mtgo_id": 102275,
+  "name": "Bloom Tender",
+  "lang": "en",
+  "released_at": "2022-09-26",
+  "uri": "https://api.scryfall.com/cards/a73b8969-fced-4135-b574-a9411fd2b39f",
+  "scryfall_uri": "https://scryfall.com/card/prm/102275/bloom-tender?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/7/a73b8969-fced-4135-b574-a9411fd2b39f.jpg?1681136608",
+    "normal": "https://cards.scryfall.io/normal/front/a/7/a73b8969-fced-4135-b574-a9411fd2b39f.jpg?1681136608",
+    "large": "https://cards.scryfall.io/large/front/a/7/a73b8969-fced-4135-b574-a9411fd2b39f.jpg?1681136608",
+    "png": "https://cards.scryfall.io/png/front/a/7/a73b8969-fced-4135-b574-a9411fd2b39f.png?1681136608",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/7/a73b8969-fced-4135-b574-a9411fd2b39f.jpg?1681136608",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/7/a73b8969-fced-4135-b574-a9411fd2b39f.jpg?1681136608"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2,
+  "type_line": "Creature — Elf Druid",
+  "oracle_text": "{T}: For each color among permanents you control, add one mana of that color.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a73b8969-fced-4135-b574-a9411fd2b39f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0c23fefe-9891-4dd8-9bb1-eebdb3274e31&unique=prints",
+  "collector_number": "102275",
+  "digital": true,
+  "rarity": "rare",
+  "flavor_text": "\"What, these old things? They were just lying around, gathering dust. I figured I might as well put them to use.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Scott M. Fischer",
+  "artist_ids": [
+    "23b0cf43-3e43-44c6-8329-96446eca5bce"
+  ],
+  "illustration_id": "6136c5d6-49d6-4b70-a991-3279f09fa092",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 323,
+  "penny_rank": 3754,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.61"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBloom%2BTender",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBloom%2BTender",
+    "edhrec": "https://edhrec.com/route/?cc=Bloom+Tender"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBloom%2BTender%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bloom+Tender&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/102275?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

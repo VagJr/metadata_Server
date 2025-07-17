@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "058ece01-b0be-45d2-ad11-ea9ab114303e",
+  "oracle_id": "d36d3c93-ed24-4447-9d15-3071f5c0989b",
+  "multiverse_ids": [],
+  "tcgplayer_id": 498623,
+  "name": "Hoarding Dragon",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/058ece01-b0be-45d2-ad11-ea9ab114303e",
+  "scryfall_uri": "https://scryfall.com/card/plst/IMA-134/hoarding-dragon?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/5/058ece01-b0be-45d2-ad11-ea9ab114303e.jpg?1689467157",
+    "normal": "https://cards.scryfall.io/normal/front/0/5/058ece01-b0be-45d2-ad11-ea9ab114303e.jpg?1689467157",
+    "large": "https://cards.scryfall.io/large/front/0/5/058ece01-b0be-45d2-ad11-ea9ab114303e.jpg?1689467157",
+    "png": "https://cards.scryfall.io/png/front/0/5/058ece01-b0be-45d2-ad11-ea9ab114303e.png?1689467157",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/5/058ece01-b0be-45d2-ad11-ea9ab114303e.jpg?1689467157",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/5/058ece01-b0be-45d2-ad11-ea9ab114303e.jpg?1689467157"
+  },
+  "mana_cost": "{3}{R}{R}",
+  "cmc": 5,
+  "type_line": "Creature — Dragon",
+  "oracle_text": "Flying\nWhen this creature enters, you may search your library for an artifact card, exile it, then shuffle.\nWhen this creature dies, you may put the exiled card into its owner's hand.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/058ece01-b0be-45d2-ad11-ea9ab114303e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad36d3c93-ed24-4447-9d15-3071f5c0989b&unique=prints",
+  "collector_number": "IMA-134",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Matt Cavotta",
+  "artist_ids": [
+    "2e6a0611-9411-4ba4-98e3-c0e18cbf9f83"
+  ],
+  "illustration_id": "c8a8ad36-1243-4df4-a321-0c0a7eac7737",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 8012,
+  "penny_rank": 10780,
+  "prices": {
+    "usd": "0.10",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHoarding%2BDragon",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHoarding%2BDragon",
+    "edhrec": "https://edhrec.com/route/?cc=Hoarding+Dragon"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F498623%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hoarding+Dragon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hoarding+Dragon&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

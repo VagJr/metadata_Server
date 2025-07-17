@@ -1,0 +1,117 @@
+{
+  "object": "card",
+  "id": "81637a2d-32e5-4e99-b8a5-d68862e2477d",
+  "oracle_id": "752b5a97-e2f7-43c0-b8c8-2c1efbbfbd2a",
+  "multiverse_ids": [],
+  "tcgplayer_id": 498600,
+  "name": "Evil Eye of Urborg",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/81637a2d-32e5-4e99-b8a5-d68862e2477d",
+  "scryfall_uri": "https://scryfall.com/card/plst/TSP-107/evil-eye-of-urborg?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/1/81637a2d-32e5-4e99-b8a5-d68862e2477d.jpg?1689467065",
+    "normal": "https://cards.scryfall.io/normal/front/8/1/81637a2d-32e5-4e99-b8a5-d68862e2477d.jpg?1689467065",
+    "large": "https://cards.scryfall.io/large/front/8/1/81637a2d-32e5-4e99-b8a5-d68862e2477d.jpg?1689467065",
+    "png": "https://cards.scryfall.io/png/front/8/1/81637a2d-32e5-4e99-b8a5-d68862e2477d.png?1689467065",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/1/81637a2d-32e5-4e99-b8a5-d68862e2477d.jpg?1689467065",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/1/81637a2d-32e5-4e99-b8a5-d68862e2477d.jpg?1689467065"
+  },
+  "mana_cost": "{4}{B}",
+  "cmc": 5,
+  "type_line": "Creature — Eye",
+  "oracle_text": "Non-Eye creatures you control can't attack.\nWhenever this creature becomes blocked by a creature, destroy that creature.",
+  "power": "6",
+  "toughness": "3",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/81637a2d-32e5-4e99-b8a5-d68862e2477d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A752b5a97-e2f7-43c0-b8c8-2c1efbbfbd2a&unique=prints",
+  "collector_number": "TSP-107",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Edahlis, what *is* that thing? We should have stayed in Yavimaya . . . .\"\n—Aznaph, greenseeker",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Clint Langley",
+  "artist_ids": [
+    "0f670587-9f7b-47b3-89cc-8dca80df4cdf"
+  ],
+  "illustration_id": "b7b06a9d-9d21-491d-8f56-1712e3207899",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 11062,
+  "prices": {
+    "usd": "0.22",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEvil%2BEye%2Bof%2BUrborg",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEvil%2BEye%2Bof%2BUrborg",
+    "edhrec": "https://edhrec.com/route/?cc=Evil+Eye+of+Urborg"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F498600%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Evil+Eye+of+Urborg&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Evil+Eye+of+Urborg&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

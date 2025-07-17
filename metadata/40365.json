@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "5f3c4810-7359-42b7-905f-4845f6d1daf6",
+  "oracle_id": "397dd0fc-fc96-474e-b3a9-19872e310a67",
+  "multiverse_ids": [],
+  "name": "Human Soldier",
+  "lang": "en",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/5f3c4810-7359-42b7-905f-4845f6d1daf6",
+  "scryfall_uri": "https://scryfall.com/card/tvow/15/human-soldier?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/f/5f3c4810-7359-42b7-905f-4845f6d1daf6.jpg?1675457537",
+    "normal": "https://cards.scryfall.io/normal/front/5/f/5f3c4810-7359-42b7-905f-4845f6d1daf6.jpg?1675457537",
+    "large": "https://cards.scryfall.io/large/front/5/f/5f3c4810-7359-42b7-905f-4845f6d1daf6.jpg?1675457537",
+    "png": "https://cards.scryfall.io/png/front/5/f/5f3c4810-7359-42b7-905f-4845f6d1daf6.png?1675457537",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/f/5f3c4810-7359-42b7-905f-4845f6d1daf6.jpg?1675457537",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/f/5f3c4810-7359-42b7-905f-4845f6d1daf6.jpg?1675457537"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Human Soldier",
+  "oracle_text": "Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [
+    "Training"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e52fbb3a-f366-4c78-a617-3abbe08c4f47",
+      "component": "combo_piece",
+      "name": "Torens, Fist of the Angels",
+      "type_line": "Legendary Creature — Human Cleric",
+      "uri": "https://api.scryfall.com/cards/e52fbb3a-f366-4c78-a617-3abbe08c4f47"
+    },
+    {
+      "object": "related_card",
+      "id": "5f3c4810-7359-42b7-905f-4845f6d1daf6",
+      "component": "token",
+      "name": "Human Soldier",
+      "type_line": "Token Creature — Human Soldier",
+      "uri": "https://api.scryfall.com/cards/5f3c4810-7359-42b7-905f-4845f6d1daf6"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "381f2eb8-544e-409c-a8c5-7171cd78edea",
+  "set": "tvow",
+  "set_name": "Innistrad: Crimson Vow Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/381f2eb8-544e-409c-a8c5-7171cd78edea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atvow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tvow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5f3c4810-7359-42b7-905f-4845f6d1daf6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A397dd0fc-fc96-474e-b3a9-19872e310a67&unique=prints",
+  "collector_number": "15",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Campbell White",
+  "artist_ids": [
+    "d281eab4-463a-4ba8-9039-8943737960a0"
+  ],
+  "illustration_id": "f2cd7662-caac-48c0-8b62-b262acb1d72c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHuman%2BSoldier",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHuman%2BSoldier",
+    "edhrec": "https://edhrec.com/route/?cc=Human+Soldier"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DHuman%2BSoldier%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Human+Soldier&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Human+Soldier&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

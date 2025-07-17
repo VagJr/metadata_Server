@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "3981fc94-efb5-4256-8adb-4538515a085c",
+  "oracle_id": "d56f24a1-04dc-4769-9941-05bd99508e40",
+  "multiverse_ids": [
+    552252
+  ],
+  "arena_id": 79791,
+  "tcgplayer_id": 257668,
+  "cardmarket_id": 605022,
+  "name": "Hidetsugu, Devouring Chaos",
+  "lang": "en",
+  "released_at": "2022-02-18",
+  "uri": "https://api.scryfall.com/cards/3981fc94-efb5-4256-8adb-4538515a085c",
+  "scryfall_uri": "https://scryfall.com/card/neo/378/hidetsugu-devouring-chaos?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/9/3981fc94-efb5-4256-8adb-4538515a085c.jpg?1654569952",
+    "normal": "https://cards.scryfall.io/normal/front/3/9/3981fc94-efb5-4256-8adb-4538515a085c.jpg?1654569952",
+    "large": "https://cards.scryfall.io/large/front/3/9/3981fc94-efb5-4256-8adb-4538515a085c.jpg?1654569952",
+    "png": "https://cards.scryfall.io/png/front/3/9/3981fc94-efb5-4256-8adb-4538515a085c.png?1654569952",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/9/3981fc94-efb5-4256-8adb-4538515a085c.jpg?1654569952",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/9/3981fc94-efb5-4256-8adb-4538515a085c.jpg?1654569952"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Ogre Demon",
+  "oracle_text": "{B}, Sacrifice a creature: Scry 2.\n{2}{R}, {T}: Exile the top card of your library. You may play that card this turn. When you exile a nonland card this way, Hidetsugu deals damage equal to the exiled card's mana value to any target.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [
+    "Scry"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "59a2059f-5482-433f-8761-eb2e17859b71",
+  "set": "neo",
+  "set_name": "Kamigawa: Neon Dynasty",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/59a2059f-5482-433f-8761-eb2e17859b71",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aneo&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/neo?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3981fc94-efb5-4256-8adb-4538515a085c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad56f24a1-04dc-4769-9941-05bd99508e40&unique=prints",
+  "collector_number": "378",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "SENNSU",
+  "artist_ids": [
+    "68d66ccc-04f9-4283-af7d-8f48f99b8525"
+  ],
+  "illustration_id": "aa732f2c-9676-48ed-a45d-1ae3ffef48b4",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 8109,
+  "penny_rank": 7865,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/news/electrifying-first-look-kamigawa-neon-dynasty-2021-12-16",
+    "previewed_at": "2021-12-17"
+  },
+  "prices": {
+    "usd": "0.26",
+    "usd_foil": "0.61",
+    "usd_etched": null,
+    "eur": "0.44",
+    "eur_foil": "0.91",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=552252&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHidetsugu%252C%2BDevouring%2BChaos",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHidetsugu%252C%2BDevouring%2BChaos",
+    "edhrec": "https://edhrec.com/route/?cc=Hidetsugu%2C+Devouring+Chaos"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F257668%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=605022&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hidetsugu%2C+Devouring+Chaos&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

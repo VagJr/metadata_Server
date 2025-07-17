@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "8daee74d-aaf9-41bb-96f4-6d967cd4faf7",
+  "oracle_id": "ad33530c-a8df-4c1c-a863-501e583290b6",
+  "multiverse_ids": [
+    502335
+  ],
+  "tcgplayer_id": 227038,
+  "cardmarket_id": 512900,
+  "name": "Coercive Recruiter",
+  "lang": "en",
+  "released_at": "2020-11-20",
+  "uri": "https://api.scryfall.com/cards/8daee74d-aaf9-41bb-96f4-6d967cd4faf7",
+  "scryfall_uri": "https://scryfall.com/card/cmr/662/coercive-recruiter?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/d/8daee74d-aaf9-41bb-96f4-6d967cd4faf7.jpg?1608918710",
+    "normal": "https://cards.scryfall.io/normal/front/8/d/8daee74d-aaf9-41bb-96f4-6d967cd4faf7.jpg?1608918710",
+    "large": "https://cards.scryfall.io/large/front/8/d/8daee74d-aaf9-41bb-96f4-6d967cd4faf7.jpg?1608918710",
+    "png": "https://cards.scryfall.io/png/front/8/d/8daee74d-aaf9-41bb-96f4-6d967cd4faf7.png?1608918710",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/d/8daee74d-aaf9-41bb-96f4-6d967cd4faf7.jpg?1608918710",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/d/8daee74d-aaf9-41bb-96f4-6d967cd4faf7.jpg?1608918710"
+  },
+  "mana_cost": "{4}{R}",
+  "cmc": 5,
+  "type_line": "Creature — Orc Pirate",
+  "oracle_text": "Whenever this creature or another Pirate you control enters, gain control of target creature until end of turn. Untap that creature. Until end of turn, it gains haste and becomes a Pirate in addition to its other types.",
+  "power": "4",
+  "toughness": "3",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "39de6fbf-1f11-48d0-8f04-f0407f6a0732",
+  "set": "cmr",
+  "set_name": "Commander Legends",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/39de6fbf-1f11-48d0-8f04-f0407f6a0732",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8daee74d-aaf9-41bb-96f4-6d967cd4faf7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aad33530c-a8df-4c1c-a863-501e583290b6&unique=prints",
+  "collector_number": "662",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Randy Vargas",
+  "artist_ids": [
+    "d20672ca-0555-4238-a984-fd171d36b247"
+  ],
+  "illustration_id": "80518b84-d78f-4b2f-a8b1-ee0c4f06d7c5",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 2798,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.youtube.com/watch?v=7HiPq9zyXRw",
+    "previewed_at": "2020-11-03"
+  },
+  "prices": {
+    "usd": "1.93",
+    "usd_foil": "2.03",
+    "usd_etched": null,
+    "eur": "0.82",
+    "eur_foil": "1.80",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=502335&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCoercive%2BRecruiter",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCoercive%2BRecruiter",
+    "edhrec": "https://edhrec.com/route/?cc=Coercive+Recruiter"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F227038%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=512900&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Coercive+Recruiter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

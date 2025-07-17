@@ -1,0 +1,177 @@
+{
+  "object": "card",
+  "id": "a7758a0b-9e85-4b4a-bf1c-ffcc6761dbad",
+  "oracle_id": "750266b3-412e-443c-892d-ce60ad919d74",
+  "multiverse_ids": [],
+  "name": "Knight",
+  "lang": "en",
+  "released_at": "2025-06-13",
+  "uri": "https://api.scryfall.com/cards/a7758a0b-9e85-4b4a-bf1c-ffcc6761dbad",
+  "scryfall_uri": "https://scryfall.com/card/tfin/10/knight?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/7/a7758a0b-9e85-4b4a-bf1c-ffcc6761dbad.jpg?1748704059",
+    "normal": "https://cards.scryfall.io/normal/front/a/7/a7758a0b-9e85-4b4a-bf1c-ffcc6761dbad.jpg?1748704059",
+    "large": "https://cards.scryfall.io/large/front/a/7/a7758a0b-9e85-4b4a-bf1c-ffcc6761dbad.jpg?1748704059",
+    "png": "https://cards.scryfall.io/png/front/a/7/a7758a0b-9e85-4b4a-bf1c-ffcc6761dbad.png?1748704059",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/7/a7758a0b-9e85-4b4a-bf1c-ffcc6761dbad.jpg?1748704059",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/7/a7758a0b-9e85-4b4a-bf1c-ffcc6761dbad.jpg?1748704059"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Knight",
+  "oracle_text": "",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "bcef4b8e-ca94-4ea4-8770-a10cc5603c6a",
+      "component": "combo_piece",
+      "name": "The Council of Four",
+      "type_line": "Legendary Creature — Human Noble",
+      "uri": "https://api.scryfall.com/cards/bcef4b8e-ca94-4ea4-8770-a10cc5603c6a"
+    },
+    {
+      "object": "related_card",
+      "id": "a245ebd2-606c-40dc-981b-d619b00d7a07",
+      "component": "combo_piece",
+      "name": "Dion, Bahamut's Dominant // Bahamut, Warden of Light",
+      "type_line": "Legendary Creature — Human Noble Knight // Legendary Enchantment Creature — Saga Dragon",
+      "uri": "https://api.scryfall.com/cards/a245ebd2-606c-40dc-981b-d619b00d7a07"
+    },
+    {
+      "object": "related_card",
+      "id": "d9120fd0-f958-4ce3-82cd-0500d4549654",
+      "component": "combo_piece",
+      "name": "Summon: Knights of Round",
+      "type_line": "Enchantment Creature — Saga Knight",
+      "uri": "https://api.scryfall.com/cards/d9120fd0-f958-4ce3-82cd-0500d4549654"
+    },
+    {
+      "object": "related_card",
+      "id": "a7758a0b-9e85-4b4a-bf1c-ffcc6761dbad",
+      "component": "token",
+      "name": "Knight",
+      "type_line": "Token Creature — Knight",
+      "uri": "https://api.scryfall.com/cards/a7758a0b-9e85-4b4a-bf1c-ffcc6761dbad"
+    },
+    {
+      "object": "related_card",
+      "id": "240e1466-bd02-423d-b829-234dcd2bfab2",
+      "component": "combo_piece",
+      "name": "Battle Menu",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/240e1466-bd02-423d-b829-234dcd2bfab2"
+    },
+    {
+      "object": "related_card",
+      "id": "afbd2822-d161-41df-9f48-abecd5da19c4",
+      "component": "combo_piece",
+      "name": "Recruitment Drive",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/afbd2822-d161-41df-9f48-abecd5da19c4"
+    },
+    {
+      "object": "related_card",
+      "id": "867a33ee-0340-413a-8243-9d6bc2d944e2",
+      "component": "combo_piece",
+      "name": "Waylay",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/867a33ee-0340-413a-8243-9d6bc2d944e2"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e6f97941-6b02-4951-966f-522722cb6339",
+  "set": "tfin",
+  "set_name": "Final Fantasy Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/e6f97941-6b02-4951-966f-522722cb6339",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atfin&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tfin?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a7758a0b-9e85-4b4a-bf1c-ffcc6761dbad/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A750266b3-412e-443c-892d-ce60ad919d74&unique=prints",
+  "collector_number": "10",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Joshua Raphael",
+  "artist_ids": [
+    "553b2a73-780f-414b-b2d7-3b7888821082"
+  ],
+  "illustration_id": "45e2e73e-b3fa-42b4-8a7b-e497ab0dbcf6",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "ffvii"
+  ],
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKnight",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKnight",
+    "edhrec": "https://edhrec.com/route/?cc=Knight"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DKnight%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Knight&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Knight&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "eb40c41c-f5f9-4323-b6ac-e28e405909d0",
+  "oracle_id": "7735eeba-693b-47e2-bd51-414379cf1016",
+  "multiverse_ids": [
+    640529
+  ],
+  "mtgo_id": 118866,
+  "tcgplayer_id": 526091,
+  "cardmarket_id": 743585,
+  "name": "Beast Within",
+  "lang": "en",
+  "released_at": "2023-11-17",
+  "uri": "https://api.scryfall.com/cards/eb40c41c-f5f9-4323-b6ac-e28e405909d0",
+  "scryfall_uri": "https://scryfall.com/card/lcc/233/beast-within?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/b/eb40c41c-f5f9-4323-b6ac-e28e405909d0.jpg?1711198012",
+    "normal": "https://cards.scryfall.io/normal/front/e/b/eb40c41c-f5f9-4323-b6ac-e28e405909d0.jpg?1711198012",
+    "large": "https://cards.scryfall.io/large/front/e/b/eb40c41c-f5f9-4323-b6ac-e28e405909d0.jpg?1711198012",
+    "png": "https://cards.scryfall.io/png/front/e/b/eb40c41c-f5f9-4323-b6ac-e28e405909d0.png?1711198012",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/b/eb40c41c-f5f9-4323-b6ac-e28e405909d0.jpg?1711198012",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/b/eb40c41c-f5f9-4323-b6ac-e28e405909d0.jpg?1711198012"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Instant",
+  "oracle_text": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "0d720a76-58ad-4a7a-8bd9-f6137648e6c4",
+      "component": "token",
+      "name": "Beast",
+      "type_line": "Token Creature — Beast",
+      "uri": "https://api.scryfall.com/cards/0d720a76-58ad-4a7a-8bd9-f6137648e6c4"
+    },
+    {
+      "object": "related_card",
+      "id": "eb40c41c-f5f9-4323-b6ac-e28e405909d0",
+      "component": "combo_piece",
+      "name": "Beast Within",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/eb40c41c-f5f9-4323-b6ac-e28e405909d0"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d253edc3-5bc7-4cf1-9446-a8540dedffa5",
+  "set": "lcc",
+  "set_name": "The Lost Caverns of Ixalan Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d253edc3-5bc7-4cf1-9446-a8540dedffa5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alcc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/lcc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/eb40c41c-f5f9-4323-b6ac-e28e405909d0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7735eeba-693b-47e2-bd51-414379cf1016&unique=prints",
+  "collector_number": "233",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Monsters dwell in every heart. We only think civilization tames them.\"\n—Euphemia, Nexus watcher",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jesper Ejsing",
+  "artist_ids": [
+    "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+  ],
+  "illustration_id": "8ec245f1-fcfe-4a98-9e13-dd69e2483388",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 23,
+  "prices": {
+    "usd": "0.87",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "1.01",
+    "eur_foil": null,
+    "tix": "0.44"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=640529&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBeast%2BWithin",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBeast%2BWithin",
+    "edhrec": "https://edhrec.com/route/?cc=Beast+Within"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F526091%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=743585&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/118866?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

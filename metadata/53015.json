@@ -1,0 +1,169 @@
+{
+  "object": "card",
+  "id": "7d86b85b-5098-4741-a9e9-afb68e8f7d64",
+  "oracle_id": "9c247a17-361c-435e-90c8-ce9c6b71f7db",
+  "multiverse_ids": [],
+  "mtgo_id": 78738,
+  "name": "Oakhame Ranger // Bring Back",
+  "lang": "en",
+  "released_at": "2019-10-06",
+  "uri": "https://api.scryfall.com/cards/7d86b85b-5098-4741-a9e9-afb68e8f7d64",
+  "scryfall_uri": "https://scryfall.com/card/prm/78738/oakhame-ranger-bring-back?utm_source=api",
+  "layout": "adventure",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/d/7d86b85b-5098-4741-a9e9-afb68e8f7d64.jpg?1585973902",
+    "normal": "https://cards.scryfall.io/normal/front/7/d/7d86b85b-5098-4741-a9e9-afb68e8f7d64.jpg?1585973902",
+    "large": "https://cards.scryfall.io/large/front/7/d/7d86b85b-5098-4741-a9e9-afb68e8f7d64.jpg?1585973902",
+    "png": "https://cards.scryfall.io/png/front/7/d/7d86b85b-5098-4741-a9e9-afb68e8f7d64.png?1585973902",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/d/7d86b85b-5098-4741-a9e9-afb68e8f7d64.jpg?1585973902",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/d/7d86b85b-5098-4741-a9e9-afb68e8f7d64.jpg?1585973902"
+  },
+  "mana_cost": "{G/W}{G/W}{G/W}{G/W} // {G/W}{G/W}{G/W}{G/W}",
+  "cmc": 4,
+  "type_line": "Creature — Elf Knight Ranger // Sorcery — Adventure",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Oakhame Ranger",
+      "mana_cost": "{G/W}{G/W}{G/W}{G/W}",
+      "type_line": "Creature — Elf Knight Ranger",
+      "oracle_text": "{T}: Creatures you control get +1/+1 until end of turn.",
+      "power": "2",
+      "toughness": "2",
+      "artist": "Omar Rayyan",
+      "artist_id": "256b61a2-b9af-4ff5-b485-47a61818f818",
+      "illustration_id": "e1bbcfcd-e843-4d29-9857-4b5958080b96"
+    },
+    {
+      "object": "card_face",
+      "name": "Bring Back",
+      "mana_cost": "{G/W}{G/W}{G/W}{G/W}",
+      "type_line": "Sorcery — Adventure",
+      "oracle_text": "Create two 1/1 white Human creature tokens. (Then exile this card. You may cast the creature later from exile.)",
+      "artist": "Omar Rayyan",
+      "artist_id": "256b61a2-b9af-4ff5-b485-47a61818f818"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "5054bb15-ddd5-4e5e-a9fd-6bdf255f7fd3",
+      "component": "token",
+      "name": "Human",
+      "type_line": "Token Creature — Human",
+      "uri": "https://api.scryfall.com/cards/5054bb15-ddd5-4e5e-a9fd-6bdf255f7fd3"
+    },
+    {
+      "object": "related_card",
+      "id": "fcf4c7fb-7859-4c11-8552-6817f5119d2e",
+      "component": "combo_piece",
+      "name": "On an Adventure",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/fcf4c7fb-7859-4c11-8552-6817f5119d2e"
+    },
+    {
+      "object": "related_card",
+      "id": "7d86b85b-5098-4741-a9e9-afb68e8f7d64",
+      "component": "combo_piece",
+      "name": "Oakhame Ranger // Bring Back",
+      "type_line": "Creature — Elf Knight Ranger // Sorcery — Adventure",
+      "uri": "https://api.scryfall.com/cards/7d86b85b-5098-4741-a9e9-afb68e8f7d64"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7d86b85b-5098-4741-a9e9-afb68e8f7d64/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9c247a17-361c-435e-90c8-ce9c6b71f7db&unique=prints",
+  "collector_number": "78738",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Omar Rayyan",
+  "artist_ids": [
+    "256b61a2-b9af-4ff5-b485-47a61818f818"
+  ],
+  "illustration_id": "e1bbcfcd-e843-4d29-9857-4b5958080b96",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 16443,
+  "penny_rank": 10350,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOakhame%2BRanger%2B%252F%252F%2BBring%2BBack",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOakhame%2BRanger%2B%252F%252F%2BBring%2BBack",
+    "edhrec": "https://edhrec.com/route/?cc=Oakhame+Ranger"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DOakhame%2BRanger%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Oakhame+Ranger&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/78738?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

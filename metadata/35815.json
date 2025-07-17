@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "54bc478b-fb90-4071-acdd-ae6ff33334fd",
+  "oracle_id": "48e603a2-b965-4fbc-ad57-4388bce5ac8b",
+  "multiverse_ids": [],
+  "mtgo_id": 99539,
+  "arena_id": 77549,
+  "tcgplayer_id": 235512,
+  "tcgplayer_etched_id": 235511,
+  "cardmarket_id": 557084,
+  "name": "Gods Willing",
+  "printed_name": "神々の思し召し",
+  "lang": "ja",
+  "released_at": "2021-04-23",
+  "uri": "https://api.scryfall.com/cards/54bc478b-fb90-4071-acdd-ae6ff33334fd",
+  "scryfall_uri": "https://scryfall.com/card/sta/70/ja/%E7%A5%9E%E3%80%85%E3%81%AE%E6%80%9D%E3%81%97%E5%8F%AC%E3%81%97-(gods-willing)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/4/54bc478b-fb90-4071-acdd-ae6ff33334fd.jpg?1638113779",
+    "normal": "https://cards.scryfall.io/normal/front/5/4/54bc478b-fb90-4071-acdd-ae6ff33334fd.jpg?1638113779",
+    "large": "https://cards.scryfall.io/large/front/5/4/54bc478b-fb90-4071-acdd-ae6ff33334fd.jpg?1638113779",
+    "png": "https://cards.scryfall.io/png/front/5/4/54bc478b-fb90-4071-acdd-ae6ff33334fd.png?1638113779",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/4/54bc478b-fb90-4071-acdd-ae6ff33334fd.jpg?1638113779",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/4/54bc478b-fb90-4071-acdd-ae6ff33334fd.jpg?1638113779"
+  },
+  "mana_cost": "{W}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "printed_type_line": "インスタント",
+  "oracle_text": "Target creature you control gains protection from the color of your choice until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color.)\nScry 1.",
+  "printed_text": "あなたがコントロールしているクリーチャー１体を対象とする。色１色を選ぶ。ターン終了時まで、それはプロテクション（その選ばれた色）を得る。（それは選ばれた色のものによっては、ブロックされず、対象にならず、ダメージを受けず、エンチャントされず、装備されない。）\n占術１を行う。",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Scry"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil",
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5064a720-907f-4cb6-a425-766dc1dd7374",
+  "set": "sta",
+  "set_name": "Strixhaven Mystical Archive",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/5064a720-907f-4cb6-a425-766dc1dd7374",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asta&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sta?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/54bc478b-fb90-4071-acdd-ae6ff33334fd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A48e603a2-b965-4fbc-ad57-4388bce5ac8b&unique=prints",
+  "collector_number": "70",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tada",
+  "artist_ids": [
+    "46c6b7f9-e629-4cd7-a4cd-4eefe4074d10"
+  ],
+  "illustration_id": "b5911e4c-6c97-4b3a-aba4-4ec2cb081710",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3302,
+  "penny_rank": 1256,
+  "prices": {
+    "usd": "1.11",
+    "usd_foil": "2.82",
+    "usd_etched": "1.35",
+    "eur": "2.26",
+    "eur_foil": "3.19",
+    "tix": "0.44"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGods%2BWilling",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGods%2BWilling",
+    "edhrec": "https://edhrec.com/route/?cc=Gods+Willing"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F235512%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=557084&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/99539?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

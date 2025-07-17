@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "ccb80abd-cbf0-4b7c-a588-29926a09bf29",
+  "oracle_id": "ae033eb6-47ec-4b9e-9cdb-6d023aca07d1",
+  "multiverse_ids": [
+    456363
+  ],
+  "tcgplayer_id": 177427,
+  "cardmarket_id": 365316,
+  "name": "Gather Courage",
+  "lang": "en",
+  "released_at": "2018-11-02",
+  "uri": "https://api.scryfall.com/cards/ccb80abd-cbf0-4b7c-a588-29926a09bf29",
+  "scryfall_uri": "https://scryfall.com/card/gk1/105/gather-courage?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/c/ccb80abd-cbf0-4b7c-a588-29926a09bf29.jpg?1541002874",
+    "normal": "https://cards.scryfall.io/normal/front/c/c/ccb80abd-cbf0-4b7c-a588-29926a09bf29.jpg?1541002874",
+    "large": "https://cards.scryfall.io/large/front/c/c/ccb80abd-cbf0-4b7c-a588-29926a09bf29.jpg?1541002874",
+    "png": "https://cards.scryfall.io/png/front/c/c/ccb80abd-cbf0-4b7c-a588-29926a09bf29.png?1541002874",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/c/ccb80abd-cbf0-4b7c-a588-29926a09bf29.jpg?1541002874",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/c/ccb80abd-cbf0-4b7c-a588-29926a09bf29.jpg?1541002874"
+  },
+  "mana_cost": "{G}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "oracle_text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nTarget creature gets +2/+2 until end of turn.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Convoke"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "600bdba8-0b12-454f-811c-438e0d9eb9b6",
+  "set": "gk1",
+  "set_name": "GRN Guild Kit",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/600bdba8-0b12-454f-811c-438e0d9eb9b6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Agk1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/gk1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ccb80abd-cbf0-4b7c-a588-29926a09bf29/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aae033eb6-47ec-4b9e-9cdb-6d023aca07d1&unique=prints",
+  "collector_number": "105",
+  "digital": false,
+  "rarity": "common",
+  "watermark": "selesnya",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Brian Despain",
+  "artist_ids": [
+    "b4733d20-d538-4dd6-81fe-408c958ca54b"
+  ],
+  "illustration_id": "2e00c38a-b6de-438a-aeb1-dfd953883d55",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 18765,
+  "penny_rank": 9342,
+  "prices": {
+    "usd": "0.26",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.13",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456363&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGather%2BCourage",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGather%2BCourage",
+    "edhrec": "https://edhrec.com/route/?cc=Gather+Courage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F177427%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=365316&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Gather+Courage&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

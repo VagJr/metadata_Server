@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "69e615d8-1b79-4a82-ba9f-ee211d67dc95",
+  "oracle_id": "1de1b591-a73f-4974-b507-8c63e07a0868",
+  "multiverse_ids": [
+    677452
+  ],
+  "mtgo_id": 134274,
+  "tcgplayer_id": 562493,
+  "cardmarket_id": 790896,
+  "name": "Thassa's Oracle",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/69e615d8-1b79-4a82-ba9f-ee211d67dc95",
+  "scryfall_uri": "https://scryfall.com/card/mb2/175/thassas-oracle?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/9/69e615d8-1b79-4a82-ba9f-ee211d67dc95.jpg?1723010271",
+    "normal": "https://cards.scryfall.io/normal/front/6/9/69e615d8-1b79-4a82-ba9f-ee211d67dc95.jpg?1723010271",
+    "large": "https://cards.scryfall.io/large/front/6/9/69e615d8-1b79-4a82-ba9f-ee211d67dc95.jpg?1723010271",
+    "png": "https://cards.scryfall.io/png/front/6/9/69e615d8-1b79-4a82-ba9f-ee211d67dc95.png?1723010271",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/9/69e615d8-1b79-4a82-ba9f-ee211d67dc95.jpg?1723010271",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/9/69e615d8-1b79-4a82-ba9f-ee211d67dc95.jpg?1723010271"
+  },
+  "mana_cost": "{U}{U}",
+  "cmc": 2,
+  "type_line": "Creature — Merfolk Wizard",
+  "oracle_text": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",
+  "power": "1",
+  "toughness": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "banned",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "banned",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": true,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "1e6879fe-2f29-4ad7-8d42-7f5bfb469f4a",
+  "set": "mb2",
+  "set_name": "Mystery Booster 2",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/1e6879fe-2f29-4ad7-8d42-7f5bfb469f4a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amb2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mb2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/69e615d8-1b79-4a82-ba9f-ee211d67dc95/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1de1b591-a73f-4974-b507-8c63e07a0868&unique=prints",
+  "collector_number": "175",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jesper Ejsing",
+  "artist_ids": [
+    "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+  ],
+  "illustration_id": "89b26ad8-18ef-474a-9e49-3c2e0dc5da75",
+  "border_color": "black",
+  "frame": "future",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 343,
+  "prices": {
+    "usd": "15.88",
+    "usd_foil": "133.21",
+    "usd_etched": null,
+    "eur": "14.96",
+    "eur_foil": "98.53",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=677452&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThassa%2527s%2BOracle",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThassa%2527s%2BOracle",
+    "edhrec": "https://edhrec.com/route/?cc=Thassa%27s+Oracle"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F562493%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=790896&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/134274?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

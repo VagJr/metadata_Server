@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "508b438b-bd85-4675-875e-af133d32da2c",
+  "oracle_id": "d15642e4-e61c-4d29-af48-de837991245e",
+  "multiverse_ids": [],
+  "mtgo_id": 86180,
+  "name": "Tymna the Weaver",
+  "lang": "en",
+  "released_at": "2020-12-15",
+  "uri": "https://api.scryfall.com/cards/508b438b-bd85-4675-875e-af133d32da2c",
+  "scryfall_uri": "https://scryfall.com/card/prm/86180/tymna-the-weaver?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/0/508b438b-bd85-4675-875e-af133d32da2c.jpg?1630638925",
+    "normal": "https://cards.scryfall.io/normal/front/5/0/508b438b-bd85-4675-875e-af133d32da2c.jpg?1630638925",
+    "large": "https://cards.scryfall.io/large/front/5/0/508b438b-bd85-4675-875e-af133d32da2c.jpg?1630638925",
+    "png": "https://cards.scryfall.io/png/front/5/0/508b438b-bd85-4675-875e-af133d32da2c.png?1630638925",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/0/508b438b-bd85-4675-875e-af133d32da2c.jpg?1630638925",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/0/508b438b-bd85-4675-875e-af133d32da2c.jpg?1630638925"
+  },
+  "mana_cost": "{1}{W}{B}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Human Cleric",
+  "oracle_text": "Lifelink\nAt the beginning of each of your postcombat main phases, you may pay X life, where X is the number of opponents that were dealt combat damage this turn. If you do, draw X cards.\nPartner (You can have two commanders if both have partner.)",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [
+    "Lifelink",
+    "Partner"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/508b438b-bd85-4675-875e-af133d32da2c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad15642e4-e61c-4d29-af48-de837991245e&unique=prints",
+  "collector_number": "86180",
+  "digital": true,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Winona Nelson",
+  "artist_ids": [
+    "e45fe8d3-75d6-42c9-a2df-e945ad81ea27"
+  ],
+  "illustration_id": "7b035cde-be5a-460d-bf4e-b61ea6c1f770",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4787,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTymna%2Bthe%2BWeaver",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTymna%2Bthe%2BWeaver",
+    "edhrec": "https://edhrec.com/route/?cc=Tymna+the+Weaver"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DTymna%2Bthe%2BWeaver%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tymna+the+Weaver&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/86180?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

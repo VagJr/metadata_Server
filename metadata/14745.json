@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "22b7f560-ef32-496e-ac22-e1b725d08a08",
+  "oracle_id": "645fb11b-d684-4bec-8532-8fa97e8f7b28",
+  "multiverse_ids": [
+    622603
+  ],
+  "mtgo_id": 111858,
+  "tcgplayer_id": 499323,
+  "cardmarket_id": 717953,
+  "name": "Oboro, Palace in the Clouds",
+  "flavor_name": "Bucklebury Ferry",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/22b7f560-ef32-496e-ac22-e1b725d08a08",
+  "scryfall_uri": "https://scryfall.com/card/ltc/371/oboro-palace-in-the-clouds?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/2/22b7f560-ef32-496e-ac22-e1b725d08a08.jpg?1686967224",
+    "normal": "https://cards.scryfall.io/normal/front/2/2/22b7f560-ef32-496e-ac22-e1b725d08a08.jpg?1686967224",
+    "large": "https://cards.scryfall.io/large/front/2/2/22b7f560-ef32-496e-ac22-e1b725d08a08.jpg?1686967224",
+    "png": "https://cards.scryfall.io/png/front/2/2/22b7f560-ef32-496e-ac22-e1b725d08a08.png?1686967224",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/2/22b7f560-ef32-496e-ac22-e1b725d08a08.jpg?1686967224",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/2/22b7f560-ef32-496e-ac22-e1b725d08a08.jpg?1686967224"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Legendary Land",
+  "oracle_text": "{T}: Add {U}.\n{1}: Return Oboro to its owner's hand.",
+  "colors": [],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "U"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set": "ltc",
+  "set_name": "Tales of Middle-earth Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/22b7f560-ef32-496e-ac22-e1b725d08a08/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A645fb11b-d684-4bec-8532-8fa97e8f7b28&unique=prints",
+  "collector_number": "371",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "The Brandywine flowed slow and broad before them. A large flat ferry-boat was moored beside the landing.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jonas De Ro",
+  "artist_ids": [
+    "561ebf9e-8d93-4b57-8156-8826d0c19601"
+  ],
+  "illustration_id": "5f73e378-6f30-4d7f-a4d5-898696b70ae9",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "triangle",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 4800,
+  "penny_rank": 2447,
+  "prices": {
+    "usd": "14.78",
+    "usd_foil": "14.65",
+    "usd_etched": null,
+    "eur": "16.78",
+    "eur_foil": "15.24",
+    "tix": "1.32"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=622603&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOboro%252C%2BPalace%2Bin%2Bthe%2BClouds",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOboro%252C%2BPalace%2Bin%2Bthe%2BClouds",
+    "edhrec": "https://edhrec.com/route/?cc=Oboro%2C+Palace+in+the+Clouds"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F499323%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=717953&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/111858?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

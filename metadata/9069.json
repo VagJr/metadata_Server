@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "151bdf3a-4445-43b1-8cea-2737c13d9dee",
+  "oracle_id": "8ad91f64-ccab-4edc-bd54-b2ee9267d614",
+  "multiverse_ids": [
+    495204
+  ],
+  "arena_id": 74676,
+  "tcgplayer_id": 221791,
+  "cardmarket_id": 494584,
+  "name": "Lotus Cobra",
+  "lang": "en",
+  "released_at": "2020-09-25",
+  "uri": "https://api.scryfall.com/cards/151bdf3a-4445-43b1-8cea-2737c13d9dee",
+  "scryfall_uri": "https://scryfall.com/card/znr/307/lotus-cobra?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/5/151bdf3a-4445-43b1-8cea-2737c13d9dee.jpg?1604202856",
+    "normal": "https://cards.scryfall.io/normal/front/1/5/151bdf3a-4445-43b1-8cea-2737c13d9dee.jpg?1604202856",
+    "large": "https://cards.scryfall.io/large/front/1/5/151bdf3a-4445-43b1-8cea-2737c13d9dee.jpg?1604202856",
+    "png": "https://cards.scryfall.io/png/front/1/5/151bdf3a-4445-43b1-8cea-2737c13d9dee.png?1604202856",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/5/151bdf3a-4445-43b1-8cea-2737c13d9dee.jpg?1604202856",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/5/151bdf3a-4445-43b1-8cea-2737c13d9dee.jpg?1604202856"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2,
+  "type_line": "Creature — Snake",
+  "oracle_text": "Landfall — Whenever a land you control enters, add one mana of any color.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Landfall"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "f4e01fa7-b254-42dd-849f-69b58027a8c4",
+  "set": "znr",
+  "set_name": "Zendikar Rising",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/f4e01fa7-b254-42dd-849f-69b58027a8c4",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aznr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/znr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/151bdf3a-4445-43b1-8cea-2737c13d9dee/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8ad91f64-ccab-4edc-bd54-b2ee9267d614&unique=prints",
+  "collector_number": "307",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Bastien Grivet",
+  "artist_ids": [
+    "434a6cf6-c6bf-4f87-84db-d0a902393b9e"
+  ],
+  "illustration_id": "d6c5218f-d2e6-44ba-ae28-18de1036c5ec",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 345,
+  "penny_rank": 1879,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "http://twitch.tv/videos/728086792",
+    "previewed_at": "2020-09-01"
+  },
+  "prices": {
+    "usd": "3.34",
+    "usd_foil": "4.80",
+    "usd_etched": null,
+    "eur": "3.42",
+    "eur_foil": "4.70",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495204&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLotus%2BCobra",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLotus%2BCobra",
+    "edhrec": "https://edhrec.com/route/?cc=Lotus+Cobra"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F221791%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=494584&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lotus+Cobra&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

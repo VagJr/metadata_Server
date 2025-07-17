@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "61248b5d-3f4b-4329-a1af-7252443883a0",
+  "oracle_id": "73089a39-a2f6-4aa2-a058-e6551475153d",
+  "multiverse_ids": [
+    621318
+  ],
+  "mtgo_id": 112770,
+  "tcgplayer_id": 499501,
+  "cardmarket_id": 717407,
+  "name": "Sanguine Bond",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/61248b5d-3f4b-4329-a1af-7252443883a0",
+  "scryfall_uri": "https://scryfall.com/card/ltc/208/sanguine-bond?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/1/61248b5d-3f4b-4329-a1af-7252443883a0.jpg?1686965698",
+    "normal": "https://cards.scryfall.io/normal/front/6/1/61248b5d-3f4b-4329-a1af-7252443883a0.jpg?1686965698",
+    "large": "https://cards.scryfall.io/large/front/6/1/61248b5d-3f4b-4329-a1af-7252443883a0.jpg?1686965698",
+    "png": "https://cards.scryfall.io/png/front/6/1/61248b5d-3f4b-4329-a1af-7252443883a0.png?1686965698",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/1/61248b5d-3f4b-4329-a1af-7252443883a0.jpg?1686965698",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/1/61248b5d-3f4b-4329-a1af-7252443883a0.jpg?1686965698"
+  },
+  "mana_cost": "{3}{B}{B}",
+  "cmc": 5,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever you gain life, target opponent loses that much life.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "0ecb5bde-285c-473c-83da-f305374bd8f8",
+      "component": "combo_piece",
+      "name": "Sanguine Soothsayer",
+      "type_line": "Creature — Bat Cleric",
+      "uri": "https://api.scryfall.com/cards/0ecb5bde-285c-473c-83da-f305374bd8f8"
+    },
+    {
+      "object": "related_card",
+      "id": "61248b5d-3f4b-4329-a1af-7252443883a0",
+      "component": "combo_piece",
+      "name": "Sanguine Bond",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/61248b5d-3f4b-4329-a1af-7252443883a0"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set": "ltc",
+  "set_name": "Tales of Middle-earth Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/61248b5d-3f4b-4329-a1af-7252443883a0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A73089a39-a2f6-4aa2-a058-e6551475153d&unique=prints",
+  "collector_number": "208",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"They tried to pierce your heart with a Morgul-knife which remains in the wound. If they had succeeded, you would have become like they are, only weaker and under their command.\"\n—Gandalf",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Joseph Meehan",
+  "artist_ids": [
+    "6befd6d5-7f8d-4b7c-87e3-5511391a3359"
+  ],
+  "illustration_id": "d49118e8-bb2c-445b-a493-94ffebcf88db",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 446,
+  "penny_rank": 4828,
+  "prices": {
+    "usd": "2.19",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "2.48",
+    "eur_foil": null,
+    "tix": "0.56"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=621318&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSanguine%2BBond",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSanguine%2BBond",
+    "edhrec": "https://edhrec.com/route/?cc=Sanguine+Bond"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F499501%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=717407&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/112770?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

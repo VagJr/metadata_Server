@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "b02cd3e2-2ab4-4bb6-84aa-6f4a0df2eb31",
+  "oracle_id": "40eacdae-fae5-46b9-a9e5-9211469f74fc",
+  "multiverse_ids": [],
+  "tcgplayer_id": 492004,
+  "name": "Ezuri, Claw of Progress",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/b02cd3e2-2ab4-4bb6-84aa-6f4a0df2eb31",
+  "scryfall_uri": "https://scryfall.com/card/mul/168z/ezuri-claw-of-progress?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/0/b02cd3e2-2ab4-4bb6-84aa-6f4a0df2eb31.jpg?1682485026",
+    "normal": "https://cards.scryfall.io/normal/front/b/0/b02cd3e2-2ab4-4bb6-84aa-6f4a0df2eb31.jpg?1682485026",
+    "large": "https://cards.scryfall.io/large/front/b/0/b02cd3e2-2ab4-4bb6-84aa-6f4a0df2eb31.jpg?1682485026",
+    "png": "https://cards.scryfall.io/png/front/b/0/b02cd3e2-2ab4-4bb6-84aa-6f4a0df2eb31.png?1682485026",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/0/b02cd3e2-2ab4-4bb6-84aa-6f4a0df2eb31.jpg?1682485026",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/0/b02cd3e2-2ab4-4bb6-84aa-6f4a0df2eb31.jpg?1682485026"
+  },
+  "mana_cost": "{2}{G}{U}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Phyrexian Elf Warrior",
+  "oracle_text": "Whenever a creature you control with power 2 or less enters, you get an experience counter.\nAt the beginning of combat on your turn, put X +1/+1 counters on another target creature you control, where X is the number of experience counters you have.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "edf99449-b176-460b-afb3-14a35e3ae35a",
+      "component": "combo_piece",
+      "name": "Experience",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/edf99449-b176-460b-afb3-14a35e3ae35a"
+    },
+    {
+      "object": "related_card",
+      "id": "b02cd3e2-2ab4-4bb6-84aa-6f4a0df2eb31",
+      "component": "combo_piece",
+      "name": "Ezuri, Claw of Progress",
+      "type_line": "Legendary Creature — Phyrexian Elf Warrior",
+      "uri": "https://api.scryfall.com/cards/b02cd3e2-2ab4-4bb6-84aa-6f4a0df2eb31"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a3f8daea-b24e-4e5c-a4d9-ec8910e9078a",
+  "set": "mul",
+  "set_name": "Multiverse Legends",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/a3f8daea-b24e-4e5c-a4d9-ec8910e9078a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amul&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mul?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b02cd3e2-2ab4-4bb6-84aa-6f4a0df2eb31/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A40eacdae-fae5-46b9-a9e5-9211469f74fc&unique=prints",
+  "collector_number": "168z",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "JungShan",
+  "artist_ids": [
+    "7a21e51d-6432-4132-ad64-fa149edb3e08"
+  ],
+  "illustration_id": "ab19ad5a-cb86-4ea7-a274-711d58a31dfe",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "serialized",
+    "doublerainbow"
+  ],
+  "edhrec_rank": 5179,
+  "penny_rank": 8125,
+  "prices": {
+    "usd": null,
+    "usd_foil": "155.00",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEzuri%252C%2BClaw%2Bof%2BProgress",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEzuri%252C%2BClaw%2Bof%2BProgress",
+    "edhrec": "https://edhrec.com/route/?cc=Ezuri%2C+Claw+of+Progress"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F492004%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ezuri%2C+Claw+of+Progress&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ezuri%2C+Claw+of+Progress&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

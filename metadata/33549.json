@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "4f697f1b-6ab5-4f8a-b785-6e130c3ac16e",
+  "oracle_id": "343fd080-c2c2-4dcd-84dd-c065addbaebe",
+  "multiverse_ids": [],
+  "mtgo_id": 86338,
+  "name": "Kamahl, Heart of Krosa",
+  "lang": "en",
+  "released_at": "2020-12-15",
+  "uri": "https://api.scryfall.com/cards/4f697f1b-6ab5-4f8a-b785-6e130c3ac16e",
+  "scryfall_uri": "https://scryfall.com/card/prm/86338/kamahl-heart-of-krosa?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/f/4f697f1b-6ab5-4f8a-b785-6e130c3ac16e.jpg?1630640435",
+    "normal": "https://cards.scryfall.io/normal/front/4/f/4f697f1b-6ab5-4f8a-b785-6e130c3ac16e.jpg?1630640435",
+    "large": "https://cards.scryfall.io/large/front/4/f/4f697f1b-6ab5-4f8a-b785-6e130c3ac16e.jpg?1630640435",
+    "png": "https://cards.scryfall.io/png/front/4/f/4f697f1b-6ab5-4f8a-b785-6e130c3ac16e.png?1630640435",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/f/4f697f1b-6ab5-4f8a-b785-6e130c3ac16e.jpg?1630640435",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/f/4f697f1b-6ab5-4f8a-b785-6e130c3ac16e.jpg?1630640435"
+  },
+  "mana_cost": "{6}{G}{G}",
+  "cmc": 8,
+  "type_line": "Legendary Creature — Human Druid",
+  "oracle_text": "At the beginning of combat on your turn, creatures you control get +3/+3 and gain trample until end of turn.\n{1}{G}: Until end of turn, target land you control becomes a 1/1 Elemental creature with vigilance, indestructible, and haste. It's still a land.\nPartner (You can have two commanders if both have partner.)",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Partner"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4f697f1b-6ab5-4f8a-b785-6e130c3ac16e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A343fd080-c2c2-4dcd-84dd-c065addbaebe&unique=prints",
+  "collector_number": "86338",
+  "digital": true,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kekai Kotaki",
+  "artist_ids": [
+    "4b771085-c049-4308-930d-ec9665f803a4"
+  ],
+  "illustration_id": "16a9cda3-7e07-4410-b7b5-ad0a7e12f134",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3752,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKamahl%252C%2BHeart%2Bof%2BKrosa",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKamahl%252C%2BHeart%2Bof%2BKrosa",
+    "edhrec": "https://edhrec.com/route/?cc=Kamahl%2C+Heart+of+Krosa"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DKamahl%252C%2BHeart%2Bof%2BKrosa%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kamahl%2C+Heart+of+Krosa&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/86338?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

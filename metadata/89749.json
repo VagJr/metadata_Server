@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "d3d91bf6-25c7-4478-854a-e35290b6b049",
+  "oracle_id": "b1a23235-3076-475c-a68a-db29cf2a9dba",
+  "multiverse_ids": [
+    567548
+  ],
+  "tcgplayer_id": 273490,
+  "cardmarket_id": 661874,
+  "name": "Pull from Tomorrow",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/d3d91bf6-25c7-4478-854a-e35290b6b049",
+  "scryfall_uri": "https://scryfall.com/card/clb/731/pull-from-tomorrow?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/3/d3d91bf6-25c7-4478-854a-e35290b6b049.jpg?1674141427",
+    "normal": "https://cards.scryfall.io/normal/front/d/3/d3d91bf6-25c7-4478-854a-e35290b6b049.jpg?1674141427",
+    "large": "https://cards.scryfall.io/large/front/d/3/d3d91bf6-25c7-4478-854a-e35290b6b049.jpg?1674141427",
+    "png": "https://cards.scryfall.io/png/front/d/3/d3d91bf6-25c7-4478-854a-e35290b6b049.png?1674141427",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/3/d3d91bf6-25c7-4478-854a-e35290b6b049.jpg?1674141427",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/3/d3d91bf6-25c7-4478-854a-e35290b6b049.jpg?1674141427"
+  },
+  "mana_cost": "{X}{U}{U}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Draw X cards, then discard a card.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set": "clb",
+  "set_name": "Commander Legends: Battle for Baldur's Gate",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/clb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d3d91bf6-25c7-4478-854a-e35290b6b049/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab1a23235-3076-475c-a68a-db29cf2a9dba&unique=prints",
+  "collector_number": "731",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"I do things in my own time.\"\n—Etha, initiate of Rhet crop",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Sara Winters",
+  "artist_ids": [
+    "56be33dc-a2da-40e9-a4f7-94077dcea31e"
+  ],
+  "illustration_id": "9e4671f9-9657-4bd0-8b05-df175f512d46",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 905,
+  "penny_rank": 1253,
+  "prices": {
+    "usd": "0.37",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.35",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=567548&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPull%2Bfrom%2BTomorrow",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPull%2Bfrom%2BTomorrow",
+    "edhrec": "https://edhrec.com/route/?cc=Pull+from+Tomorrow"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F273490%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=661874&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Pull+from+Tomorrow&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

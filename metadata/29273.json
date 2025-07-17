@@ -1,0 +1,138 @@
+{
+  "object": "card",
+  "id": "452bafa1-bff4-4e7d-a69a-d5c985341d1f",
+  "oracle_id": "276c4643-13ad-43bf-840b-08c025ebc065",
+  "multiverse_ids": [],
+  "mtgo_id": 88234,
+  "name": "Orvar, the All-Form",
+  "lang": "en",
+  "released_at": "2021-02-28",
+  "uri": "https://api.scryfall.com/cards/452bafa1-bff4-4e7d-a69a-d5c985341d1f",
+  "scryfall_uri": "https://scryfall.com/card/prm/88234/orvar-the-all-form?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/5/452bafa1-bff4-4e7d-a69a-d5c985341d1f.jpg?1630640961",
+    "normal": "https://cards.scryfall.io/normal/front/4/5/452bafa1-bff4-4e7d-a69a-d5c985341d1f.jpg?1630640961",
+    "large": "https://cards.scryfall.io/large/front/4/5/452bafa1-bff4-4e7d-a69a-d5c985341d1f.jpg?1630640961",
+    "png": "https://cards.scryfall.io/png/front/4/5/452bafa1-bff4-4e7d-a69a-d5c985341d1f.png?1630640961",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/5/452bafa1-bff4-4e7d-a69a-d5c985341d1f.jpg?1630640961",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/5/452bafa1-bff4-4e7d-a69a-d5c985341d1f.jpg?1630640961"
+  },
+  "mana_cost": "{3}{U}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Shapeshifter",
+  "oracle_text": "Changeling\nWhenever you cast an instant or sorcery spell, if it targets one or more other permanents you control, create a token that's a copy of one of those permanents.\nWhen a spell or ability an opponent controls causes you to discard this card, create a token that's a copy of target permanent.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Changeling"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "452bafa1-bff4-4e7d-a69a-d5c985341d1f",
+      "component": "combo_piece",
+      "name": "Orvar, the All-Form",
+      "type_line": "Legendary Creature — Shapeshifter",
+      "uri": "https://api.scryfall.com/cards/452bafa1-bff4-4e7d-a69a-d5c985341d1f"
+    },
+    {
+      "object": "related_card",
+      "id": "09d6521e-438a-4d16-992f-f2ab27b26ce4",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/09d6521e-438a-4d16-992f-f2ab27b26ce4"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/452bafa1-bff4-4e7d-a69a-d5c985341d1f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A276c4643-13ad-43bf-840b-08c025ebc065&unique=prints",
+  "collector_number": "88234",
+  "digital": true,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "DZO",
+  "artist_ids": [
+    "b967e930-39f5-4fbb-a054-800e5d330ee0"
+  ],
+  "illustration_id": "108bcd9e-8382-4c4b-adda-437c1dbac8d5",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5081,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.37"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOrvar%252C%2Bthe%2BAll-Form",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOrvar%252C%2Bthe%2BAll-Form",
+    "edhrec": "https://edhrec.com/route/?cc=Orvar%2C+the+All-Form"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DOrvar%252C%2Bthe%2BAll-Form%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Orvar%2C+the+All-Form&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/88234?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

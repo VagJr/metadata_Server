@@ -1,0 +1,114 @@
+{
+  "object": "card",
+  "id": "1f3670a1-b5ec-4d28-988f-e1ad1b04cf1d",
+  "oracle_id": "0e969a27-1609-4ab4-b0db-46b1af8066a9",
+  "multiverse_ids": [],
+  "arena_id": 94489,
+  "name": "Unflinching Courage",
+  "lang": "en",
+  "released_at": "2024-12-10",
+  "uri": "https://api.scryfall.com/cards/1f3670a1-b5ec-4d28-988f-e1ad1b04cf1d",
+  "scryfall_uri": "https://scryfall.com/card/pio/250/unflinching-courage?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/f/1f3670a1-b5ec-4d28-988f-e1ad1b04cf1d.jpg?1733180466",
+    "normal": "https://cards.scryfall.io/normal/front/1/f/1f3670a1-b5ec-4d28-988f-e1ad1b04cf1d.jpg?1733180466",
+    "large": "https://cards.scryfall.io/large/front/1/f/1f3670a1-b5ec-4d28-988f-e1ad1b04cf1d.jpg?1733180466",
+    "png": "https://cards.scryfall.io/png/front/1/f/1f3670a1-b5ec-4d28-988f-e1ad1b04cf1d.png?1733180466",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/f/1f3670a1-b5ec-4d28-988f-e1ad1b04cf1d.jpg?1733180466",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/f/1f3670a1-b5ec-4d28-988f-e1ad1b04cf1d.jpg?1733180466"
+  },
+  "mana_cost": "{1}{G}{W}",
+  "cmc": 3,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant creature\nEnchanted creature gets +2/+2 and has trample and lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)",
+  "colors": [
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "713c226b-d4d9-46e1-b9c9-a04689d90ff6",
+  "set": "pio",
+  "set_name": "Pioneer Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/713c226b-d4d9-46e1-b9c9-a04689d90ff6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apio&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pio?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1f3670a1-b5ec-4d28-988f-e1ad1b04cf1d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0e969a27-1609-4ab4-b0db-46b1af8066a9&unique=prints",
+  "collector_number": "250",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mike Bierek",
+  "artist_ids": [
+    "e5f52ef5-1a2e-4128-90b0-ccc71cd47ea7"
+  ],
+  "illustration_id": "ea340264-bfcf-49ea-a1ab-53a5e1ecda99",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5972,
+  "penny_rank": 3607,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DUnflinching%2BCourage",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DUnflinching%2BCourage",
+    "edhrec": "https://edhrec.com/route/?cc=Unflinching+Courage"
+  }
+}

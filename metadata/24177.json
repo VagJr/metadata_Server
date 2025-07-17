@@ -1,0 +1,154 @@
+{
+  "object": "card",
+  "id": "38e40b74-fc77-4797-bb52-4806d10dff82",
+  "oracle_id": "fec6a4a7-4ded-4062-b99b-c1826dea7113",
+  "multiverse_ids": [
+    636225
+  ],
+  "mtgo_id": 119646,
+  "tcgplayer_id": 525994,
+  "cardmarket_id": 738115,
+  "name": "Meriadoc Brandybuck",
+  "lang": "en",
+  "released_at": "2023-11-03",
+  "uri": "https://api.scryfall.com/cards/38e40b74-fc77-4797-bb52-4806d10dff82",
+  "scryfall_uri": "https://scryfall.com/card/ltr/628/meriadoc-brandybuck?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/8/38e40b74-fc77-4797-bb52-4806d10dff82.jpg?1697487241",
+    "normal": "https://cards.scryfall.io/normal/front/3/8/38e40b74-fc77-4797-bb52-4806d10dff82.jpg?1697487241",
+    "large": "https://cards.scryfall.io/large/front/3/8/38e40b74-fc77-4797-bb52-4806d10dff82.jpg?1697487241",
+    "png": "https://cards.scryfall.io/png/front/3/8/38e40b74-fc77-4797-bb52-4806d10dff82.png?1697487241",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/8/38e40b74-fc77-4797-bb52-4806d10dff82.jpg?1697487241",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/8/38e40b74-fc77-4797-bb52-4806d10dff82.jpg?1697487241"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Halfling Citizen",
+  "oracle_text": "Whenever one or more Halflings you control attack a player, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Food"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "4a029bdc-92e3-4d85-8af5-e33429a5f017",
+      "component": "token",
+      "name": "Food",
+      "type_line": "Token Artifact — Food",
+      "uri": "https://api.scryfall.com/cards/4a029bdc-92e3-4d85-8af5-e33429a5f017"
+    },
+    {
+      "object": "related_card",
+      "id": "bba5e81d-fcdd-4c26-a83f-3ee48f23ac6f",
+      "component": "combo_piece",
+      "name": "Meriadoc Brandybuck",
+      "type_line": "Legendary Creature — Halfling Citizen",
+      "uri": "https://api.scryfall.com/cards/bba5e81d-fcdd-4c26-a83f-3ee48f23ac6f"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "08078706-ac5d-439b-8f01-894d38751367",
+  "set": "ltr",
+  "set_name": "The Lord of the Rings: Tales of Middle-earth",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/08078706-ac5d-439b-8f01-894d38751367",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/38e40b74-fc77-4797-bb52-4806d10dff82/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afec6a4a7-4ded-4062-b99b-c1826dea7113&unique=prints",
+  "collector_number": "628",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"My dear old Hobbit, you don't allow for the inquisitiveness of friends. I have known about the existence of the Ring for years.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Marie Magny",
+  "artist_ids": [
+    "fa463dea-41ba-4c0d-9277-c176d2b2509f"
+  ],
+  "illustration_id": "97056420-0621-4697-ab3e-d52fdc57fe18",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun",
+    "silverfoil",
+    "scroll"
+  ],
+  "edhrec_rank": 5009,
+  "prices": {
+    "usd": "0.20",
+    "usd_foil": "0.29",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.12",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=636225&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMeriadoc%2BBrandybuck",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMeriadoc%2BBrandybuck",
+    "edhrec": "https://edhrec.com/route/?cc=Meriadoc+Brandybuck"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F525994%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=738115&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/119646?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

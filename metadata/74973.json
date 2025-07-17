@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "b0d8588f-7986-4c35-b230-375287b4f475",
+  "oracle_id": "2109c49e-dc81-4a10-8265-3cf8c90db523",
+  "multiverse_ids": [],
+  "tcgplayer_id": 222349,
+  "cardmarket_id": 498925,
+  "name": "Vampire Nocturnus",
+  "lang": "en",
+  "released_at": "2020-09-01",
+  "uri": "https://api.scryfall.com/cards/b0d8588f-7986-4c35-b230-375287b4f475",
+  "scryfall_uri": "https://scryfall.com/card/plst/M10-118/vampire-nocturnus?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/0/b0d8588f-7986-4c35-b230-375287b4f475.jpg?1599764621",
+    "normal": "https://cards.scryfall.io/normal/front/b/0/b0d8588f-7986-4c35-b230-375287b4f475.jpg?1599764621",
+    "large": "https://cards.scryfall.io/large/front/b/0/b0d8588f-7986-4c35-b230-375287b4f475.jpg?1599764621",
+    "png": "https://cards.scryfall.io/png/front/b/0/b0d8588f-7986-4c35-b230-375287b4f475.png?1599764621",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/0/b0d8588f-7986-4c35-b230-375287b4f475.jpg?1599764621",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/0/b0d8588f-7986-4c35-b230-375287b4f475.jpg?1599764621"
+  },
+  "mana_cost": "{1}{B}{B}{B}",
+  "cmc": 4,
+  "type_line": "Creature — Vampire",
+  "oracle_text": "Play with the top card of your library revealed.\nAs long as the top card of your library is black, this creature and other Vampire creatures you control get +2/+1 and have flying.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b0d8588f-7986-4c35-b230-375287b4f475/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2109c49e-dc81-4a10-8265-3cf8c90db523&unique=prints",
+  "collector_number": "M10-118",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "\"Your life will set with the sun.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Raymond Swanland",
+  "artist_ids": [
+    "e956bacc-077d-4c12-b6bc-ba798b718af9"
+  ],
+  "illustration_id": "485ff4ec-5d66-44af-8b28-7073536c7519",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 7733,
+  "penny_rank": 3700,
+  "prices": {
+    "usd": "6.69",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "5.85",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVampire%2BNocturnus",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVampire%2BNocturnus",
+    "edhrec": "https://edhrec.com/route/?cc=Vampire+Nocturnus"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F222349%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=498925&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Vampire+Nocturnus&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

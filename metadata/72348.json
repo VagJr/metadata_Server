@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "aab08460-3043-4de7-b8ae-92f238318844",
+  "oracle_id": "8e2fbc26-5373-4fd7-8e9e-41af5bb9ff18",
+  "multiverse_ids": [],
+  "tcgplayer_id": 273626,
+  "cardmarket_id": 668464,
+  "name": "Garruk, Caller of Beasts",
+  "lang": "en",
+  "released_at": "2022-04-12",
+  "uri": "https://api.scryfall.com/cards/aab08460-3043-4de7-b8ae-92f238318844",
+  "scryfall_uri": "https://scryfall.com/card/sld/9995/garruk-caller-of-beasts?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/a/aab08460-3043-4de7-b8ae-92f238318844.jpg?1649275870",
+    "normal": "https://cards.scryfall.io/normal/front/a/a/aab08460-3043-4de7-b8ae-92f238318844.jpg?1649275870",
+    "large": "https://cards.scryfall.io/large/front/a/a/aab08460-3043-4de7-b8ae-92f238318844.jpg?1649275870",
+    "png": "https://cards.scryfall.io/png/front/a/a/aab08460-3043-4de7-b8ae-92f238318844.png?1649275870",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/a/aab08460-3043-4de7-b8ae-92f238318844.jpg?1649275870",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/a/aab08460-3043-4de7-b8ae-92f238318844.jpg?1649275870"
+  },
+  "mana_cost": "{4}{G}{G}",
+  "cmc": 6,
+  "type_line": "Legendary Planeswalker — Garruk",
+  "oracle_text": "+1: Reveal the top five cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.\n−3: You may put a green creature card from your hand onto the battlefield.\n−7: You get an emblem with \"Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle.\"",
+  "loyalty": "4",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "aab08460-3043-4de7-b8ae-92f238318844",
+      "component": "combo_piece",
+      "name": "Garruk, Caller of Beasts",
+      "type_line": "Legendary Planeswalker — Garruk",
+      "uri": "https://api.scryfall.com/cards/aab08460-3043-4de7-b8ae-92f238318844"
+    },
+    {
+      "object": "related_card",
+      "id": "d16429cb-9b00-4411-9ffc-252b38ad0b8c",
+      "component": "combo_piece",
+      "name": "Garruk, Caller of Beasts Emblem",
+      "type_line": "Emblem — Garruk",
+      "uri": "https://api.scryfall.com/cards/d16429cb-9b00-4411-9ffc-252b38ad0b8c"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/aab08460-3043-4de7-b8ae-92f238318844/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8e2fbc26-5373-4fd7-8e9e-41af5bb9ff18&unique=prints",
+  "collector_number": "9995",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jesper Ejsing",
+  "artist_ids": [
+    "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+  ],
+  "illustration_id": "3bbbe7e5-2b80-4d43-b4eb-1e645f1e2691",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 8921,
+  "penny_rank": 5277,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/news/secret-lair-knows-its-left-its-other-left-2022-04-01",
+    "previewed_at": "2022-04-01"
+  },
+  "prices": {
+    "usd": "3.90",
+    "usd_foil": "7.66",
+    "usd_etched": null,
+    "eur": "3.33",
+    "eur_foil": "3.78",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGarruk%252C%2BCaller%2Bof%2BBeasts",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGarruk%252C%2BCaller%2Bof%2BBeasts",
+    "edhrec": "https://edhrec.com/route/?cc=Garruk%2C+Caller+of+Beasts"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F273626%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=668464&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Garruk%2C+Caller+of+Beasts&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

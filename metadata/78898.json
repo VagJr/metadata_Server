@@ -1,0 +1,164 @@
+{
+  "object": "card",
+  "id": "ba453850-4983-4728-8a02-9be15279d791",
+  "oracle_id": "6ec2a242-9068-4ee2-8ac8-8341cc570f56",
+  "multiverse_ids": [],
+  "mtgo_id": 83860,
+  "name": "Emeria's Call // Emeria, Shattered Skyclave",
+  "lang": "en",
+  "released_at": "2020-10-30",
+  "uri": "https://api.scryfall.com/cards/ba453850-4983-4728-8a02-9be15279d791",
+  "scryfall_uri": "https://scryfall.com/card/prm/83860/emerias-call-emeria-shattered-skyclave?utm_source=api",
+  "layout": "modal_dfc",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 7,
+  "type_line": "Sorcery // Land",
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "W"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Emeria's Call",
+      "mana_cost": "{4}{W}{W}{W}",
+      "type_line": "Sorcery",
+      "oracle_text": "Create two 4/4 white Angel Warrior creature tokens with flying. Non-Angel creatures you control gain indestructible until your next turn.",
+      "colors": [
+        "W"
+      ],
+      "artist": "Matt Stewart",
+      "artist_id": "20871267-2d8a-41d5-b03a-be3d557c5734",
+      "illustration_id": "0bd76506-0572-4170-bff5-53cc1ebc24c2",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/b/a/ba453850-4983-4728-8a02-9be15279d791.jpg?1681089731",
+        "normal": "https://cards.scryfall.io/normal/front/b/a/ba453850-4983-4728-8a02-9be15279d791.jpg?1681089731",
+        "large": "https://cards.scryfall.io/large/front/b/a/ba453850-4983-4728-8a02-9be15279d791.jpg?1681089731",
+        "png": "https://cards.scryfall.io/png/front/b/a/ba453850-4983-4728-8a02-9be15279d791.png?1681089731",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/b/a/ba453850-4983-4728-8a02-9be15279d791.jpg?1681089731",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/b/a/ba453850-4983-4728-8a02-9be15279d791.jpg?1681089731"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Emeria, Shattered Skyclave",
+      "mana_cost": "",
+      "type_line": "Land",
+      "oracle_text": "As this land enters, you may pay 3 life. If you don't, it enters tapped.\n{T}: Add {W}.",
+      "colors": [],
+      "artist": "Matt Stewart",
+      "artist_id": "20871267-2d8a-41d5-b03a-be3d557c5734",
+      "illustration_id": "7e4ebfcb-0a84-4510-b0e5-c7cb2138d4da",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/b/a/ba453850-4983-4728-8a02-9be15279d791.jpg?1681089731",
+        "normal": "https://cards.scryfall.io/normal/back/b/a/ba453850-4983-4728-8a02-9be15279d791.jpg?1681089731",
+        "large": "https://cards.scryfall.io/large/back/b/a/ba453850-4983-4728-8a02-9be15279d791.jpg?1681089731",
+        "png": "https://cards.scryfall.io/png/back/b/a/ba453850-4983-4728-8a02-9be15279d791.png?1681089731",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/b/a/ba453850-4983-4728-8a02-9be15279d791.jpg?1681089731",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/b/a/ba453850-4983-4728-8a02-9be15279d791.jpg?1681089731"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "ba453850-4983-4728-8a02-9be15279d791",
+      "component": "combo_piece",
+      "name": "Emeria's Call // Emeria, Shattered Skyclave",
+      "type_line": "Sorcery // Land",
+      "uri": "https://api.scryfall.com/cards/ba453850-4983-4728-8a02-9be15279d791"
+    },
+    {
+      "object": "related_card",
+      "id": "91098481-46c2-49bf-8123-e9cab2f22b84",
+      "component": "token",
+      "name": "Angel Warrior",
+      "type_line": "Token Creature — Angel Warrior",
+      "uri": "https://api.scryfall.com/cards/91098481-46c2-49bf-8123-e9cab2f22b84"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ba453850-4983-4728-8a02-9be15279d791/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6ec2a242-9068-4ee2-8ac8-8341cc570f56&unique=prints",
+  "collector_number": "83860",
+  "digital": true,
+  "rarity": "mythic",
+  "artist": "Matt Stewart",
+  "artist_ids": [
+    "20871267-2d8a-41d5-b03a-be3d557c5734"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2738,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "1.70"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEmeria%2527s%2BCall%2B%252F%252F%2BEmeria%252C%2BShattered%2BSkyclave",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEmeria%2527s%2BCall%2B%252F%252F%2BEmeria%252C%2BShattered%2BSkyclave",
+    "edhrec": "https://edhrec.com/route/?cc=Emeria%27s+Call"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DEmeria%2527s%2BCall%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Emeria%27s+Call&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/83860?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

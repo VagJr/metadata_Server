@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "6bf261c8-98e4-491e-9e51-a9058ff2c03a",
+  "oracle_id": "4d6d3e6d-f958-4c17-b117-960fb8033601",
+  "multiverse_ids": [
+    489361
+  ],
+  "arena_id": 72440,
+  "tcgplayer_id": 216167,
+  "cardmarket_id": 473249,
+  "name": "Assault Formation",
+  "lang": "en",
+  "released_at": "2020-07-17",
+  "uri": "https://api.scryfall.com/cards/6bf261c8-98e4-491e-9e51-a9058ff2c03a",
+  "scryfall_uri": "https://scryfall.com/card/jmp/378/assault-formation?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/b/6bf261c8-98e4-491e-9e51-a9058ff2c03a.jpg?1601078969",
+    "normal": "https://cards.scryfall.io/normal/front/6/b/6bf261c8-98e4-491e-9e51-a9058ff2c03a.jpg?1601078969",
+    "large": "https://cards.scryfall.io/large/front/6/b/6bf261c8-98e4-491e-9e51-a9058ff2c03a.jpg?1601078969",
+    "png": "https://cards.scryfall.io/png/front/6/b/6bf261c8-98e4-491e-9e51-a9058ff2c03a.png?1601078969",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/b/6bf261c8-98e4-491e-9e51-a9058ff2c03a.jpg?1601078969",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/b/6bf261c8-98e4-491e-9e51-a9058ff2c03a.jpg?1601078969"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2,
+  "type_line": "Enchantment",
+  "oracle_text": "Each creature you control assigns combat damage equal to its toughness rather than its power.\n{G}: Target creature with defender can attack this turn as though it didn't have defender.\n{2}{G}: Creatures you control get +0/+1 until end of turn.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "0f6ccf25-a627-4263-86df-5757137f1696",
+  "set": "jmp",
+  "set_name": "Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/0f6ccf25-a627-4263-86df-5757137f1696",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ajmp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/jmp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6bf261c8-98e4-491e-9e51-a9058ff2c03a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4d6d3e6d-f958-4c17-b117-960fb8033601&unique=prints",
+  "collector_number": "378",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kieran Yanner",
+  "artist_ids": [
+    "aa7e89ed-d294-4633-9057-ce04dacfcfa4"
+  ],
+  "illustration_id": "af6f9c22-1e42-491d-bc6f-ed8ffb211411",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2680,
+  "penny_rank": 3803,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/stay-safe-and-throw-lava-2020-06-18",
+    "previewed_at": "2020-06-18"
+  },
+  "prices": {
+    "usd": "0.59",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.60",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489361&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAssault%2BFormation",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAssault%2BFormation",
+    "edhrec": "https://edhrec.com/route/?cc=Assault+Formation"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F216167%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=473249&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Assault+Formation&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

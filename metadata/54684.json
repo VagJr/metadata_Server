@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "816ee5e5-c833-437b-b031-1abd72269149",
+  "oracle_id": "4f57a320-b6b5-49de-af0a-f2e2649758a7",
+  "multiverse_ids": [
+    660137
+  ],
+  "mtgo_id": 124485,
+  "tcgplayer_id": 545447,
+  "name": "Angel of Indemnity",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/816ee5e5-c833-437b-b031-1abd72269149",
+  "scryfall_uri": "https://scryfall.com/card/otc/45/angel-of-indemnity?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/1/816ee5e5-c833-437b-b031-1abd72269149.jpg?1712353922",
+    "normal": "https://cards.scryfall.io/normal/front/8/1/816ee5e5-c833-437b-b031-1abd72269149.jpg?1712353922",
+    "large": "https://cards.scryfall.io/large/front/8/1/816ee5e5-c833-437b-b031-1abd72269149.jpg?1712353922",
+    "png": "https://cards.scryfall.io/png/front/8/1/816ee5e5-c833-437b-b031-1abd72269149.png?1712353922",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/1/816ee5e5-c833-437b-b031-1abd72269149.jpg?1712353922",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/1/816ee5e5-c833-437b-b031-1abd72269149.jpg?1712353922"
+  },
+  "mana_cost": "{5}{W}",
+  "cmc": 6,
+  "type_line": "Creature — Angel Warrior",
+  "oracle_text": "Flying, lifelink\nWhen this creature enters, return target permanent card with mana value 4 or less from your graveyard to the battlefield.\nEncore {6}{W}{W} ({6}{W}{W}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "Lifelink",
+    "Encore"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set": "otc",
+  "set_name": "Outlaws of Thunder Junction Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/816ee5e5-c833-437b-b031-1abd72269149/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4f57a320-b6b5-49de-af0a-f2e2649758a7&unique=prints",
+  "collector_number": "45",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Denman Rooke",
+  "artist_ids": [
+    "5eedbc4b-34a3-4ca5-b3f5-9ac2f6b6adf7"
+  ],
+  "illustration_id": "94f8debf-86ee-49d8-8b3f-0e65e7a6b35b",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 4073,
+  "prices": {
+    "usd": "2.06",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "7.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=660137&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAngel%2Bof%2BIndemnity",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAngel%2Bof%2BIndemnity",
+    "edhrec": "https://edhrec.com/route/?cc=Angel+of+Indemnity"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F545447%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Angel+of+Indemnity&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/124485?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

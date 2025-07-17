@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "7e29a758-d930-4a99-b524-fc72bd125485",
+  "oracle_id": "aebfdcc0-c5b9-4737-8498-764a5021b087",
+  "multiverse_ids": [
+    605410
+  ],
+  "mtgo_id": 105957,
+  "tcgplayer_id": 478573,
+  "cardmarket_id": 692420,
+  "name": "Graaz, Unstoppable Juggernaut",
+  "lang": "en",
+  "released_at": "2023-02-03",
+  "uri": "https://api.scryfall.com/cards/7e29a758-d930-4a99-b524-fc72bd125485",
+  "scryfall_uri": "https://scryfall.com/card/one/334/graaz-unstoppable-juggernaut?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/e/7e29a758-d930-4a99-b524-fc72bd125485.jpg?1682536835",
+    "normal": "https://cards.scryfall.io/normal/front/7/e/7e29a758-d930-4a99-b524-fc72bd125485.jpg?1682536835",
+    "large": "https://cards.scryfall.io/large/front/7/e/7e29a758-d930-4a99-b524-fc72bd125485.jpg?1682536835",
+    "png": "https://cards.scryfall.io/png/front/7/e/7e29a758-d930-4a99-b524-fc72bd125485.png?1682536835",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/e/7e29a758-d930-4a99-b524-fc72bd125485.jpg?1682536835",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/e/7e29a758-d930-4a99-b524-fc72bd125485.jpg?1682536835"
+  },
+  "mana_cost": "{8}",
+  "cmc": 8,
+  "type_line": "Legendary Artifact Creature — Juggernaut",
+  "oracle_text": "Juggernauts you control attack each combat if able.\nJuggernauts you control can't be blocked by Walls.\nOther creatures you control have base power and toughness 5/3 and are Juggernauts in addition to their other creature types.",
+  "power": "7",
+  "toughness": "5",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7e29a758-d930-4a99-b524-fc72bd125485/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aaebfdcc0-c5b9-4737-8498-764a5021b087&unique=prints",
+  "collector_number": "334",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "kutay",
+  "artist_ids": [
+    "2bedbba5-f0c4-4703-90fe-84157e6f57ae"
+  ],
+  "illustration_id": "a18a5c83-9907-4aea-8ca7-9e09425b909a",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted",
+    "showcase"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 6109,
+  "penny_rank": 4531,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/1710211245",
+    "previewed_at": "2023-01-17"
+  },
+  "prices": {
+    "usd": "0.21",
+    "usd_foil": "0.29",
+    "usd_etched": null,
+    "eur": "0.34",
+    "eur_foil": "0.14",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=605410&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGraaz%252C%2BUnstoppable%2BJuggernaut",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGraaz%252C%2BUnstoppable%2BJuggernaut",
+    "edhrec": "https://edhrec.com/route/?cc=Graaz%2C+Unstoppable+Juggernaut"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F478573%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=692420&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/105957?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

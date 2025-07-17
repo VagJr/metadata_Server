@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "d9e5d9eb-a9e8-4d9e-946f-8549f4f9c616",
+  "oracle_id": "39d8406a-90c3-460c-b4e8-0f590573db51",
+  "multiverse_ids": [],
+  "tcgplayer_id": 539373,
+  "name": "Mechanized Production",
+  "lang": "en",
+  "released_at": "2024-03-08",
+  "uri": "https://api.scryfall.com/cards/d9e5d9eb-a9e8-4d9e-946f-8549f4f9c616",
+  "scryfall_uri": "https://scryfall.com/card/pip/706/mechanized-production?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/9/d9e5d9eb-a9e8-4d9e-946f-8549f4f9c616.jpg?1708745076",
+    "normal": "https://cards.scryfall.io/normal/front/d/9/d9e5d9eb-a9e8-4d9e-946f-8549f4f9c616.jpg?1708745076",
+    "large": "https://cards.scryfall.io/large/front/d/9/d9e5d9eb-a9e8-4d9e-946f-8549f4f9c616.jpg?1708745076",
+    "png": "https://cards.scryfall.io/png/front/d/9/d9e5d9eb-a9e8-4d9e-946f-8549f4f9c616.png?1708745076",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/9/d9e5d9eb-a9e8-4d9e-946f-8549f4f9c616.jpg?1708745076",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/9/d9e5d9eb-a9e8-4d9e-946f-8549f4f9c616.jpg?1708745076"
+  },
+  "mana_cost": "{2}{U}{U}",
+  "cmc": 4,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant artifact you control\nAt the beginning of your upkeep, create a token that's a copy of enchanted artifact. Then if you control eight or more artifacts with the same name as one another, you win the game.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "deb47199-65d9-472b-ae8e-0c6580420b8f",
+      "component": "combo_piece",
+      "name": "Mechanized Production",
+      "type_line": "Enchantment — Aura",
+      "uri": "https://api.scryfall.com/cards/deb47199-65d9-472b-ae8e-0c6580420b8f"
+    },
+    {
+      "object": "related_card",
+      "id": "78c43047-87f6-4382-874e-02e9628647bd",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/78c43047-87f6-4382-874e-02e9628647bd"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+  "set": "pip",
+  "set_name": "Fallout",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apip&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pip?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d9e5d9eb-a9e8-4d9e-946f-8549f4f9c616/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A39d8406a-90c3-460c-b4e8-0f590573db51&unique=prints",
+  "collector_number": "706",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "At the onset of the Great War, Nuka-Cola's best minds were reassigned to weapons development.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Brian Valeza",
+  "artist_ids": [
+    "bb2a9339-bbe4-445f-9736-3c43379ee076"
+  ],
+  "illustration_id": "9e0a65f4-c447-4297-83e5-eb9fa4172961",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "surgefoil"
+  ],
+  "edhrec_rank": 1025,
+  "penny_rank": 8337,
+  "prices": {
+    "usd": null,
+    "usd_foil": "4.06",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMechanized%2BProduction",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMechanized%2BProduction",
+    "edhrec": "https://edhrec.com/route/?cc=Mechanized+Production"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F539373%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mechanized+Production&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mechanized+Production&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

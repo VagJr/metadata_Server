@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "ebe59e20-d72c-4aff-9106-26ed3f2a8a80",
+  "oracle_id": "da1e019c-2ffb-412d-90d7-f2e5e5c44c4b",
+  "multiverse_ids": [],
+  "tcgplayer_id": 625820,
+  "name": "Bloomvine Regent // Claim Territory",
+  "lang": "en",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/ebe59e20-d72c-4aff-9106-26ed3f2a8a80",
+  "scryfall_uri": "https://scryfall.com/card/ptdm/136s/bloomvine-regent-claim-territory?utm_source=api",
+  "layout": "adventure",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/b/ebe59e20-d72c-4aff-9106-26ed3f2a8a80.jpg?1744665763",
+    "normal": "https://cards.scryfall.io/normal/front/e/b/ebe59e20-d72c-4aff-9106-26ed3f2a8a80.jpg?1744665763",
+    "large": "https://cards.scryfall.io/large/front/e/b/ebe59e20-d72c-4aff-9106-26ed3f2a8a80.jpg?1744665763",
+    "png": "https://cards.scryfall.io/png/front/e/b/ebe59e20-d72c-4aff-9106-26ed3f2a8a80.png?1744665763",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/b/ebe59e20-d72c-4aff-9106-26ed3f2a8a80.jpg?1744665763",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/b/ebe59e20-d72c-4aff-9106-26ed3f2a8a80.jpg?1744665763"
+  },
+  "mana_cost": "{3}{G}{G} // {2}{G}",
+  "cmc": 5,
+  "type_line": "Creature — Dragon // Sorcery — Omen",
+  "power": "4",
+  "toughness": "5",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Bloomvine Regent",
+      "mana_cost": "{3}{G}{G}",
+      "type_line": "Creature — Dragon",
+      "oracle_text": "Flying\nWhenever this creature or another Dragon you control enters, you gain 3 life.",
+      "power": "4",
+      "toughness": "5",
+      "artist": "Johann Bodin",
+      "artist_id": "d92e2dd9-9ef6-43f6-81f8-df87f9066983",
+      "illustration_id": "241c862a-ed47-40c2-903d-1d7ada0b818e"
+    },
+    {
+      "object": "card_face",
+      "name": "Claim Territory",
+      "mana_cost": "{2}{G}",
+      "type_line": "Sorcery — Omen",
+      "oracle_text": "Search your library for up to two basic Forest cards, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle. (Also shuffle this card.)",
+      "artist": "Johann Bodin",
+      "artist_id": "d92e2dd9-9ef6-43f6-81f8-df87f9066983"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "f17bfc1b-a0dc-45df-9585-84d8d433124f",
+  "set": "ptdm",
+  "set_name": "Tarkir: Dragonstorm Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/f17bfc1b-a0dc-45df-9585-84d8d433124f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aptdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ptdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ebe59e20-d72c-4aff-9106-26ed3f2a8a80/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ada1e019c-2ffb-412d-90d7-f2e5e5c44c4b&unique=prints",
+  "collector_number": "136s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Johann Bodin",
+  "artist_ids": [
+    "d92e2dd9-9ef6-43f6-81f8-df87f9066983"
+  ],
+  "illustration_id": "241c862a-ed47-40c2-903d-1d7ada0b818e",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 6116,
+  "penny_rank": 3030,
+  "prices": {
+    "usd": null,
+    "usd_foil": "2.26",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBloomvine%2BRegent%2B%252F%252F%2BClaim%2BTerritory",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBloomvine%2BRegent%2B%252F%252F%2BClaim%2BTerritory",
+    "edhrec": "https://edhrec.com/route/?cc=Bloomvine+Regent"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F625820%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bloomvine+Regent&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bloomvine+Regent&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

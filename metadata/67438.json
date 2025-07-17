@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "9f58e468-8632-428d-b8ce-39606d3aa5a7",
+  "oracle_id": "926ce6a2-7bdd-4380-ac65-bc902ba0c284",
+  "multiverse_ids": [],
+  "tcgplayer_id": 284383,
+  "cardmarket_id": 673482,
+  "name": "Thran Portal",
+  "lang": "en",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/9f58e468-8632-428d-b8ce-39606d3aa5a7",
+  "scryfall_uri": "https://scryfall.com/card/pdmu/259s/thran-portal?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/f/9f58e468-8632-428d-b8ce-39606d3aa5a7.jpg?1681395322",
+    "normal": "https://cards.scryfall.io/normal/front/9/f/9f58e468-8632-428d-b8ce-39606d3aa5a7.jpg?1681395322",
+    "large": "https://cards.scryfall.io/large/front/9/f/9f58e468-8632-428d-b8ce-39606d3aa5a7.jpg?1681395322",
+    "png": "https://cards.scryfall.io/png/front/9/f/9f58e468-8632-428d-b8ce-39606d3aa5a7.png?1681395322",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/f/9f58e468-8632-428d-b8ce-39606d3aa5a7.jpg?1681395322",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/f/9f58e468-8632-428d-b8ce-39606d3aa5a7.jpg?1681395322"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land — Gate",
+  "oracle_text": "This land enters tapped unless you control two or fewer other lands.\nAs this land enters, choose a basic land type.\nThis land is the chosen type in addition to its other types.\nMana abilities of this land cost an additional 1 life to activate.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "b4505c11-6971-4f9d-af52-8204f4e1323f",
+      "component": "combo_piece",
+      "name": "A-Thran Portal",
+      "type_line": "Land — Gate",
+      "uri": "https://api.scryfall.com/cards/b4505c11-6971-4f9d-af52-8204f4e1323f"
+    },
+    {
+      "object": "related_card",
+      "id": "9f58e468-8632-428d-b8ce-39606d3aa5a7",
+      "component": "combo_piece",
+      "name": "Thran Portal",
+      "type_line": "Land — Gate",
+      "uri": "https://api.scryfall.com/cards/9f58e468-8632-428d-b8ce-39606d3aa5a7"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8d8c82dd-0cc2-43b8-8d1c-7620fc4d98d7",
+  "set": "pdmu",
+  "set_name": "Dominaria United Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/8d8c82dd-0cc2-43b8-8d1c-7620fc4d98d7",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apdmu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pdmu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9f58e468-8632-428d-b8ce-39606d3aa5a7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A926ce6a2-7bdd-4380-ac65-bc902ba0c284&unique=prints",
+  "collector_number": "259s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Sarah Finnigan",
+  "artist_ids": [
+    "e31f5891-08f7-4e5a-bac9-8b4570b8c1ab"
+  ],
+  "illustration_id": "bcdabac8-57f3-4711-ad94-1f8951e240f2",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 3992,
+  "penny_rank": 20,
+  "prices": {
+    "usd": null,
+    "usd_foil": "3.02",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "1.37",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThran%2BPortal",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThran%2BPortal",
+    "edhrec": "https://edhrec.com/route/?cc=Thran+Portal"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F284383%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=673482&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Thran+Portal&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "9db5ae90-f2ea-442b-b638-67bbc0423927",
+  "oracle_id": "5277a68e-1ceb-4b40-8e10-3d0564f5d7be",
+  "multiverse_ids": [],
+  "tcgplayer_id": 189562,
+  "cardmarket_id": 373419,
+  "name": "Jace, Wielder of Mysteries",
+  "printed_name": "神秘を操る者、ジェイス",
+  "lang": "ja",
+  "released_at": "2019-05-03",
+  "uri": "https://api.scryfall.com/cards/9db5ae90-f2ea-442b-b638-67bbc0423927",
+  "scryfall_uri": "https://scryfall.com/card/pwar/54s%E2%98%85/ja/%E7%A5%9E%E7%A7%98%E3%82%92%E6%93%8D%E3%82%8B%E8%80%85%E3%80%81%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%B9-(jace-wielder-of-mysteries)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/d/9db5ae90-f2ea-442b-b638-67bbc0423927.jpg?1593867215",
+    "normal": "https://cards.scryfall.io/normal/front/9/d/9db5ae90-f2ea-442b-b638-67bbc0423927.jpg?1593867215",
+    "large": "https://cards.scryfall.io/large/front/9/d/9db5ae90-f2ea-442b-b638-67bbc0423927.jpg?1593867215",
+    "png": "https://cards.scryfall.io/png/front/9/d/9db5ae90-f2ea-442b-b638-67bbc0423927.png?1593867215",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/d/9db5ae90-f2ea-442b-b638-67bbc0423927.jpg?1593867215",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/d/9db5ae90-f2ea-442b-b638-67bbc0423927.jpg?1593867215"
+  },
+  "mana_cost": "{1}{U}{U}{U}",
+  "cmc": 4,
+  "type_line": "Legendary Planeswalker — Jace",
+  "printed_type_line": "伝説のプレインズウォーカー — ジェイス",
+  "oracle_text": "If you would draw a card while your library has no cards in it, you win the game instead.\n+1: Target player mills two cards. Draw a card.\n−8: Draw seven cards. Then if your library has no cards in it, you win the game.",
+  "printed_text": "あなたのライブラリーにカードがないときにあなたがカードを引くなら、代わりにあなたはこのゲームに勝利する。\n+1:プレイヤー１人を対象とする。そのプレイヤーは、自分のライブラリーの一番上からカードを２枚自分の墓地に置く。カードを１枚引く。\n-8：カードを７枚引く。その後、あなたのライブラリーにカードがないなら、あなたはこのゲームに勝利する。",
+  "loyalty": "4",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9981777b-983e-4f17-b9b1-fe32cf243e23",
+  "set": "pwar",
+  "set_name": "War of the Spark Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/9981777b-983e-4f17-b9b1-fe32cf243e23",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwar&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwar?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9db5ae90-f2ea-442b-b638-67bbc0423927/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5277a68e-1ceb-4b40-8e10-3d0564f5d7be&unique=prints",
+  "collector_number": "54s★",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Takayama Toshiaki",
+  "artist_ids": [
+    "a4879110-33bc-4261-8e00-30b897df509b"
+  ],
+  "illustration_id": "053440d1-afe4-4136-98e7-3d0a29fe6a57",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped",
+    "jpwalker"
+  ],
+  "edhrec_rank": 948,
+  "penny_rank": 2765,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "128.99",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJace%252C%2BWielder%2Bof%2BMysteries",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJace%252C%2BWielder%2Bof%2BMysteries",
+    "edhrec": "https://edhrec.com/route/?cc=Jace%2C+Wielder+of+Mysteries"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F189562%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=373419&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jace%2C+Wielder+of+Mysteries&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

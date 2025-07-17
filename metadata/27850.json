@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "41d10e7a-a69a-478e-8317-6009502ab6d6",
+  "oracle_id": "89738595-dafb-400a-bfba-91a53a37e717",
+  "multiverse_ids": [
+    531514
+  ],
+  "tcgplayer_id": 244230,
+  "cardmarket_id": 572647,
+  "name": "Grim Hireling",
+  "lang": "en",
+  "released_at": "2021-07-23",
+  "uri": "https://api.scryfall.com/cards/41d10e7a-a69a-478e-8317-6009502ab6d6",
+  "scryfall_uri": "https://scryfall.com/card/afc/294/grim-hireling?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/1/41d10e7a-a69a-478e-8317-6009502ab6d6.jpg?1632017465",
+    "normal": "https://cards.scryfall.io/normal/front/4/1/41d10e7a-a69a-478e-8317-6009502ab6d6.jpg?1632017465",
+    "large": "https://cards.scryfall.io/large/front/4/1/41d10e7a-a69a-478e-8317-6009502ab6d6.jpg?1632017465",
+    "png": "https://cards.scryfall.io/png/front/4/1/41d10e7a-a69a-478e-8317-6009502ab6d6.png?1632017465",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/1/41d10e7a-a69a-478e-8317-6009502ab6d6.jpg?1632017465",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/1/41d10e7a-a69a-478e-8317-6009502ab6d6.jpg?1632017465"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4,
+  "type_line": "Creature — Tiefling Rogue",
+  "oracle_text": "Whenever one or more creatures you control deal combat damage to a player, create two Treasure tokens.\n{B}, Sacrifice X Treasures: Target creature gets -X/-X until end of turn. Activate only as a sorcery.",
+  "power": "3",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Treasure"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a3a684b7-27e0-4d9e-a064-9e03c6e50c89",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/a3a684b7-27e0-4d9e-a064-9e03c6e50c89"
+    },
+    {
+      "object": "related_card",
+      "id": "41d10e7a-a69a-478e-8317-6009502ab6d6",
+      "component": "combo_piece",
+      "name": "Grim Hireling",
+      "type_line": "Creature — Tiefling Rogue",
+      "uri": "https://api.scryfall.com/cards/41d10e7a-a69a-478e-8317-6009502ab6d6"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "db1b46f9-893c-4623-9465-985ff6e4472c",
+  "set": "afc",
+  "set_name": "Forgotten Realms Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/db1b46f9-893c-4623-9465-985ff6e4472c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aafc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/afc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/41d10e7a-a69a-478e-8317-6009502ab6d6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A89738595-dafb-400a-bfba-91a53a37e717&unique=prints",
+  "collector_number": "294",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tomas Duchek",
+  "artist_ids": [
+    "ceb3ce65-efa6-4bcc-b2a3-33e83a047528"
+  ],
+  "illustration_id": "66c964f5-f007-420a-a256-27bb0aef3c65",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 752,
+  "prices": {
+    "usd": "16.58",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "17.62",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=531514&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGrim%2BHireling",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGrim%2BHireling",
+    "edhrec": "https://edhrec.com/route/?cc=Grim+Hireling"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F244230%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=572647&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Grim+Hireling&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

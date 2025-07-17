@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "73db9c10-109a-417f-81cd-489d9510cc78",
+  "oracle_id": "fa85c5a2-8e83-4624-a35a-a0bbf17ecbb4",
+  "multiverse_ids": [
+    456674
+  ],
+  "mtgo_id": 70229,
+  "tcgplayer_id": 180920,
+  "cardmarket_id": 366945,
+  "name": "Think Twice",
+  "lang": "en",
+  "released_at": "2018-12-07",
+  "uri": "https://api.scryfall.com/cards/73db9c10-109a-417f-81cd-489d9510cc78",
+  "scryfall_uri": "https://scryfall.com/card/uma/78/think-twice?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/3/73db9c10-109a-417f-81cd-489d9510cc78.jpg?1547516638",
+    "normal": "https://cards.scryfall.io/normal/front/7/3/73db9c10-109a-417f-81cd-489d9510cc78.jpg?1547516638",
+    "large": "https://cards.scryfall.io/large/front/7/3/73db9c10-109a-417f-81cd-489d9510cc78.jpg?1547516638",
+    "png": "https://cards.scryfall.io/png/front/7/3/73db9c10-109a-417f-81cd-489d9510cc78.png?1547516638",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/3/73db9c10-109a-417f-81cd-489d9510cc78.jpg?1547516638",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/3/73db9c10-109a-417f-81cd-489d9510cc78.jpg?1547516638"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Draw a card.\nFlashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flashback"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "533b1a2c-ead1-4636-9c88-e9b582042372",
+      "component": "combo_piece",
+      "name": "Shellfish Scholar",
+      "type_line": "Creature — Rat Wizard",
+      "uri": "https://api.scryfall.com/cards/533b1a2c-ead1-4636-9c88-e9b582042372"
+    },
+    {
+      "object": "related_card",
+      "id": "73db9c10-109a-417f-81cd-489d9510cc78",
+      "component": "combo_piece",
+      "name": "Think Twice",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/73db9c10-109a-417f-81cd-489d9510cc78"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "2ec77b94-6d47-4891-a480-5d0b4e5c9372",
+  "set": "uma",
+  "set_name": "Ultimate Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/2ec77b94-6d47-4891-a480-5d0b4e5c9372",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Auma&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/uma?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/73db9c10-109a-417f-81cd-489d9510cc78/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afa85c5a2-8e83-4624-a35a-a0bbf17ecbb4&unique=prints",
+  "collector_number": "78",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Either I know just the spell I need, or I'm about to.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Anthony Francisco",
+  "artist_ids": [
+    "6ac24c4b-70e9-4286-8f4b-b40c92ab5847"
+  ],
+  "illustration_id": "47d9121c-7988-4e8f-a78b-c560ad412709",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2421,
+  "penny_rank": 913,
+  "prices": {
+    "usd": "0.05",
+    "usd_foil": "0.31",
+    "usd_etched": null,
+    "eur": "0.04",
+    "eur_foil": "0.11",
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456674&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThink%2BTwice",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThink%2BTwice",
+    "edhrec": "https://edhrec.com/route/?cc=Think+Twice"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F180920%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=366945&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/70229?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "ec0b7e74-c513-4fcc-88e0-c9438089db4a",
+  "oracle_id": "2bb2eda7-3b38-4c56-870f-c3218a1056f5",
+  "multiverse_ids": [],
+  "mtgo_id": 59685,
+  "name": "Snapcaster Mage",
+  "lang": "en",
+  "released_at": "2016-06-06",
+  "uri": "https://api.scryfall.com/cards/ec0b7e74-c513-4fcc-88e0-c9438089db4a",
+  "scryfall_uri": "https://scryfall.com/card/prm/59685/snapcaster-mage?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/c/ec0b7e74-c513-4fcc-88e0-c9438089db4a.jpg?1562548964",
+    "normal": "https://cards.scryfall.io/normal/front/e/c/ec0b7e74-c513-4fcc-88e0-c9438089db4a.jpg?1562548964",
+    "large": "https://cards.scryfall.io/large/front/e/c/ec0b7e74-c513-4fcc-88e0-c9438089db4a.jpg?1562548964",
+    "png": "https://cards.scryfall.io/png/front/e/c/ec0b7e74-c513-4fcc-88e0-c9438089db4a.png?1562548964",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/c/ec0b7e74-c513-4fcc-88e0-c9438089db4a.jpg?1562548964",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/c/ec0b7e74-c513-4fcc-88e0-c9438089db4a.jpg?1562548964"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Creature — Human Wizard",
+  "oracle_text": "Flash\nWhen this creature enters, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flash"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ec0b7e74-c513-4fcc-88e0-c9438089db4a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2bb2eda7-3b38-4c56-870f-c3218a1056f5&unique=prints",
+  "collector_number": "59685",
+  "digital": true,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Joseph Meehan",
+  "artist_ids": [
+    "6befd6d5-7f8d-4b7c-87e3-5511391a3359"
+  ],
+  "illustration_id": "9d96d284-fac3-40e6-aa9e-198a327fd0a8",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1766,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "2.02"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSnapcaster%2BMage",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSnapcaster%2BMage",
+    "edhrec": "https://edhrec.com/route/?cc=Snapcaster+Mage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSnapcaster%2BMage%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Snapcaster+Mage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/59685?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

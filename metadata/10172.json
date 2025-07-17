@@ -1,0 +1,156 @@
+{
+  "object": "card",
+  "id": "17c0ae2b-1ae7-4e10-9e7b-6fdeda4355db",
+  "oracle_id": "a0814e97-bf28-4ffb-b65d-845de3613065",
+  "multiverse_ids": [],
+  "name": "Goblin Rogue",
+  "lang": "en",
+  "released_at": "2020-09-25",
+  "uri": "https://api.scryfall.com/cards/17c0ae2b-1ae7-4e10-9e7b-6fdeda4355db",
+  "scryfall_uri": "https://scryfall.com/card/tznc/5/goblin-rogue?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/7/17c0ae2b-1ae7-4e10-9e7b-6fdeda4355db.jpg?1604198489",
+    "normal": "https://cards.scryfall.io/normal/front/1/7/17c0ae2b-1ae7-4e10-9e7b-6fdeda4355db.jpg?1604198489",
+    "large": "https://cards.scryfall.io/large/front/1/7/17c0ae2b-1ae7-4e10-9e7b-6fdeda4355db.jpg?1604198489",
+    "png": "https://cards.scryfall.io/png/front/1/7/17c0ae2b-1ae7-4e10-9e7b-6fdeda4355db.png?1604198489",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/7/17c0ae2b-1ae7-4e10-9e7b-6fdeda4355db.jpg?1604198489",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/7/17c0ae2b-1ae7-4e10-9e7b-6fdeda4355db.jpg?1604198489"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Goblin Rogue",
+  "oracle_text": "",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "64da2ec1-fca9-4488-8ac7-78d645a8bf62",
+      "component": "combo_piece",
+      "name": "Marsh Flitter",
+      "type_line": "Creature — Faerie Rogue",
+      "uri": "https://api.scryfall.com/cards/64da2ec1-fca9-4488-8ac7-78d645a8bf62"
+    },
+    {
+      "object": "related_card",
+      "id": "17c0ae2b-1ae7-4e10-9e7b-6fdeda4355db",
+      "component": "token",
+      "name": "Goblin Rogue",
+      "type_line": "Token Creature — Goblin Rogue",
+      "uri": "https://api.scryfall.com/cards/17c0ae2b-1ae7-4e10-9e7b-6fdeda4355db"
+    },
+    {
+      "object": "related_card",
+      "id": "524aa84d-7838-4664-b30c-3c242b46fc6b",
+      "component": "combo_piece",
+      "name": "Warren Weirding",
+      "type_line": "Kindred Sorcery — Goblin",
+      "uri": "https://api.scryfall.com/cards/524aa84d-7838-4664-b30c-3c242b46fc6b"
+    },
+    {
+      "object": "related_card",
+      "id": "fe1d40cc-2871-4a33-bc58-5250fd3d4f0e",
+      "component": "combo_piece",
+      "name": "Weirding Shaman",
+      "type_line": "Creature — Goblin Shaman",
+      "uri": "https://api.scryfall.com/cards/fe1d40cc-2871-4a33-bc58-5250fd3d4f0e"
+    },
+    {
+      "object": "related_card",
+      "id": "a61990de-0daf-4340-8e6b-c49852d46980",
+      "component": "combo_piece",
+      "name": "Boggart Mob",
+      "type_line": "Creature — Goblin Warrior",
+      "uri": "https://api.scryfall.com/cards/a61990de-0daf-4340-8e6b-c49852d46980"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cfb7e832-fe79-4b5c-ba3d-2d59009525e7",
+  "set": "tznc",
+  "set_name": "Zendikar Rising Commander Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/cfb7e832-fe79-4b5c-ba3d-2d59009525e7",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atznc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tznc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/17c0ae2b-1ae7-4e10-9e7b-6fdeda4355db/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa0814e97-bf28-4ffb-b65d-845de3613065&unique=prints",
+  "collector_number": "5",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dave Kendall",
+  "artist_ids": [
+    "8a5540a8-18c9-4fa9-802c-59d6866114d5"
+  ],
+  "illustration_id": "19c4fc50-b4d6-4e41-b8ec-a976ea9d3adb",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGoblin%2BRogue",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGoblin%2BRogue",
+    "edhrec": "https://edhrec.com/route/?cc=Goblin+Rogue"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DGoblin%2BRogue%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Goblin+Rogue&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Goblin+Rogue&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

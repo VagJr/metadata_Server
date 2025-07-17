@@ -1,0 +1,150 @@
+{
+  "object": "card",
+  "id": "bf187757-01ee-40b5-ab75-4061436e773f",
+  "oracle_id": "b97a11c2-7119-4399-9565-bf69520d3988",
+  "multiverse_ids": [],
+  "mtgo_id": 112640,
+  "tcgplayer_etched_id": 498475,
+  "cardmarket_id": 718059,
+  "name": "Galadriel, Elven-Queen",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/bf187757-01ee-40b5-ab75-4061436e773f",
+  "scryfall_uri": "https://scryfall.com/card/ltc/83/galadriel-elven-queen?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/f/bf187757-01ee-40b5-ab75-4061436e773f.jpg?1686964485",
+    "normal": "https://cards.scryfall.io/normal/front/b/f/bf187757-01ee-40b5-ab75-4061436e773f.jpg?1686964485",
+    "large": "https://cards.scryfall.io/large/front/b/f/bf187757-01ee-40b5-ab75-4061436e773f.jpg?1686964485",
+    "png": "https://cards.scryfall.io/png/front/b/f/bf187757-01ee-40b5-ab75-4061436e773f.png?1686964485",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/f/bf187757-01ee-40b5-ab75-4061436e773f.jpg?1686964485",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/f/bf187757-01ee-40b5-ab75-4061436e773f.jpg?1686964485"
+  },
+  "mana_cost": "{2}{G}{U}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Elf Noble",
+  "oracle_text": "Will of the council — At the beginning of combat on your turn, if another Elf entered the battlefield under your control this turn, starting with you, each player votes for dominion or guidance. If dominion gets more votes, the Ring tempts you, then you put a +1/+1 counter on your Ring-bearer. If guidance gets more votes or the vote is tied, draw a card.",
+  "power": "4",
+  "toughness": "5",
+  "colors": [
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [
+    "Will of the council"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "7215460e-8c06-47d0-94e5-d1832d0218af",
+      "component": "combo_piece",
+      "name": "The Ring // The Ring Tempts You",
+      "type_line": "Emblem // Card",
+      "uri": "https://api.scryfall.com/cards/7215460e-8c06-47d0-94e5-d1832d0218af"
+    },
+    {
+      "object": "related_card",
+      "id": "b5dd5ed3-0679-4a9b-9e39-69412536dd33",
+      "component": "combo_piece",
+      "name": "Galadriel, Elven-Queen",
+      "type_line": "Legendary Creature — Elf Noble",
+      "uri": "https://api.scryfall.com/cards/b5dd5ed3-0679-4a9b-9e39-69412536dd33"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": false,
+  "finishes": [
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set": "ltc",
+  "set_name": "Tales of Middle-earth Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/bf187757-01ee-40b5-ab75-4061436e773f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab97a11c2-7119-4399-9565-bf69520d3988&unique=prints",
+  "collector_number": "83",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Axel Sauerwald",
+  "artist_ids": [
+    "ce5cbff7-7a24-4125-b485-f835185a9fec"
+  ],
+  "illustration_id": "c51e06ea-812d-4ddc-9bf2-04768c01d9fb",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted",
+    "etched"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "thick"
+  ],
+  "edhrec_rank": 9281,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": "0.12",
+    "eur": null,
+    "eur_foil": null,
+    "tix": "2.00"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGaladriel%252C%2BElven-Queen",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGaladriel%252C%2BElven-Queen",
+    "edhrec": "https://edhrec.com/route/?cc=Galadriel%2C+Elven-Queen"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DGaladriel%252C%2BElven-Queen%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=718059&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/112640?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

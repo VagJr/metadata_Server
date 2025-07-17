@@ -1,0 +1,117 @@
+{
+  "object": "card",
+  "id": "0b4e3cb0-bd2a-40eb-b324-910974804f30",
+  "oracle_id": "8a4028cd-6004-4fb0-a044-0bee662a78e1",
+  "multiverse_ids": [
+    534613
+  ],
+  "arena_id": 79237,
+  "name": "Ainok Bond-Kin",
+  "lang": "en",
+  "released_at": "2021-08-26",
+  "uri": "https://api.scryfall.com/cards/0b4e3cb0-bd2a-40eb-b324-910974804f30",
+  "scryfall_uri": "https://scryfall.com/card/j21/36/ainok-bond-kin?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/b/0b4e3cb0-bd2a-40eb-b324-910974804f30.jpg?1630244664",
+    "normal": "https://cards.scryfall.io/normal/front/0/b/0b4e3cb0-bd2a-40eb-b324-910974804f30.jpg?1630244664",
+    "large": "https://cards.scryfall.io/large/front/0/b/0b4e3cb0-bd2a-40eb-b324-910974804f30.jpg?1630244664",
+    "png": "https://cards.scryfall.io/png/front/0/b/0b4e3cb0-bd2a-40eb-b324-910974804f30.png?1630244664",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/b/0b4e3cb0-bd2a-40eb-b324-910974804f30.jpg?1630244664",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/b/0b4e3cb0-bd2a-40eb-b324-910974804f30.jpg?1630244664"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Creature — Dog Soldier",
+  "oracle_text": "Outlast {1}{W} ({1}{W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has first strike.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Outlast"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e1cc23bd-379b-4f2c-a4e0-83fc1e7be023",
+  "set": "j21",
+  "set_name": "Jumpstart: Historic Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/e1cc23bd-379b-4f2c-a4e0-83fc1e7be023",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj21&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j21?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0b4e3cb0-bd2a-40eb-b324-910974804f30/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8a4028cd-6004-4fb0-a044-0bee662a78e1&unique=prints",
+  "collector_number": "36",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rahn",
+  "artist_ids": [
+    "7742047e-0f80-4c0f-a530-d07460165e86"
+  ],
+  "illustration_id": "c145616c-e424-458f-bfa2-6745e3fbe8e6",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 4827,
+  "penny_rank": 9619,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534613&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAinok%2BBond-Kin",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAinok%2BBond-Kin",
+    "edhrec": "https://edhrec.com/route/?cc=Ainok+Bond-Kin"
+  }
+}

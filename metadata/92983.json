@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "db827ee7-6f2e-4e10-aac0-120fc2b69fbd",
+  "oracle_id": "a0c47ab6-dfb4-46ee-a3f7-9e1521b4bb4b",
+  "multiverse_ids": [
+    442923
+  ],
+  "mtgo_id": 67535,
+  "arena_id": 67174,
+  "tcgplayer_id": 164228,
+  "cardmarket_id": 327173,
+  "name": "Shalai, Voice of Plenty",
+  "lang": "en",
+  "released_at": "2018-04-27",
+  "uri": "https://api.scryfall.com/cards/db827ee7-6f2e-4e10-aac0-120fc2b69fbd",
+  "scryfall_uri": "https://scryfall.com/card/dom/35/shalai-voice-of-plenty?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/b/db827ee7-6f2e-4e10-aac0-120fc2b69fbd.jpg?1562743987",
+    "normal": "https://cards.scryfall.io/normal/front/d/b/db827ee7-6f2e-4e10-aac0-120fc2b69fbd.jpg?1562743987",
+    "large": "https://cards.scryfall.io/large/front/d/b/db827ee7-6f2e-4e10-aac0-120fc2b69fbd.jpg?1562743987",
+    "png": "https://cards.scryfall.io/png/front/d/b/db827ee7-6f2e-4e10-aac0-120fc2b69fbd.png?1562743987",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/b/db827ee7-6f2e-4e10-aac0-120fc2b69fbd.jpg?1562743987",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/b/db827ee7-6f2e-4e10-aac0-120fc2b69fbd.jpg?1562743987"
+  },
+  "mana_cost": "{3}{W}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Angel",
+  "oracle_text": "Flying\nYou, planeswalkers you control, and other creatures you control have hexproof.\n{4}{G}{G}: Put a +1/+1 counter on each creature you control.",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "be1daba3-51c9-4e7e-9212-36e68addc26c",
+  "set": "dom",
+  "set_name": "Dominaria",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/be1daba3-51c9-4e7e-9212-36e68addc26c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/db827ee7-6f2e-4e10-aac0-120fc2b69fbd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa0c47ab6-dfb4-46ee-a3f7-9e1521b4bb4b&unique=prints",
+  "collector_number": "35",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Victor Adame Minguez",
+  "artist_ids": [
+    "bd8f7368-5b10-4554-b6b8-d052c6aca89f"
+  ],
+  "illustration_id": "cce92052-3af0-41cd-9985-e426fbad9fcc",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1027,
+  "penny_rank": 1482,
+  "prices": {
+    "usd": "1.18",
+    "usd_foil": "5.33",
+    "usd_etched": null,
+    "eur": "1.40",
+    "eur_foil": "3.68",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442923&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DShalai%252C%2BVoice%2Bof%2BPlenty",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DShalai%252C%2BVoice%2Bof%2BPlenty",
+    "edhrec": "https://edhrec.com/route/?cc=Shalai%2C+Voice+of+Plenty"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F164228%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=327173&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/67535?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

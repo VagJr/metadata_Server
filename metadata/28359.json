@@ -1,0 +1,114 @@
+{
+  "object": "card",
+  "id": "4306145b-2449-42e9-a282-dad88701b103",
+  "oracle_id": "6a9031b6-3f4d-4a36-90e1-ac77b8518cee",
+  "multiverse_ids": [],
+  "name": "Magmatic Insight",
+  "lang": "en",
+  "released_at": "2025-05-05",
+  "uri": "https://api.scryfall.com/cards/4306145b-2449-42e9-a282-dad88701b103",
+  "scryfall_uri": "https://scryfall.com/card/pa1/3/magmatic-insight?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/3/4306145b-2449-42e9-a282-dad88701b103.jpg?1751467753",
+    "normal": "https://cards.scryfall.io/normal/front/4/3/4306145b-2449-42e9-a282-dad88701b103.jpg?1751467753",
+    "large": "https://cards.scryfall.io/large/front/4/3/4306145b-2449-42e9-a282-dad88701b103.jpg?1751467753",
+    "png": "https://cards.scryfall.io/png/front/4/3/4306145b-2449-42e9-a282-dad88701b103.png?1751467753",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/3/4306145b-2449-42e9-a282-dad88701b103.jpg?1751467753",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/3/4306145b-2449-42e9-a282-dad88701b103.jpg?1751467753"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1,
+  "type_line": "Sorcery",
+  "oracle_text": "As an additional cost to cast this spell, discard a land card.\nDraw two cards.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "f254a2f7-eeac-4aeb-8487-8583bf39811c",
+  "set": "pa1",
+  "set_name": "Pioneer Anthology 1",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/f254a2f7-eeac-4aeb-8487-8583bf39811c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apa1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pa1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4306145b-2449-42e9-a282-dad88701b103/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6a9031b6-3f4d-4a36-90e1-ac77b8518cee&unique=prints",
+  "collector_number": "3",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ryan Barger",
+  "artist_ids": [
+    "a4e0102e-bbeb-497c-babc-1c0741fea914"
+  ],
+  "illustration_id": "20918a8e-16a3-4f48-87e2-e78059ec2f9c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5221,
+  "penny_rank": 2858,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/news/mtg-arena/announcing-pioneer",
+    "previewed_at": "2025-06-25"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMagmatic%2BInsight",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMagmatic%2BInsight",
+    "edhrec": "https://edhrec.com/route/?cc=Magmatic+Insight"
+  }
+}

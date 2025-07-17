@@ -1,0 +1,152 @@
+{
+  "object": "card",
+  "id": "5587191b-b56a-452d-8a18-1622df83c267",
+  "oracle_id": "310f141c-7f37-4729-aed6-dd9c09db448d",
+  "multiverse_ids": [
+    573014
+  ],
+  "tcgplayer_id": 277245,
+  "cardmarket_id": 665812,
+  "name": "Blood Artist",
+  "lang": "en",
+  "released_at": "2022-07-08",
+  "uri": "https://api.scryfall.com/cards/5587191b-b56a-452d-8a18-1622df83c267",
+  "scryfall_uri": "https://scryfall.com/card/2x2/352/blood-artist?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/5/5587191b-b56a-452d-8a18-1622df83c267.jpg?1674097229",
+    "normal": "https://cards.scryfall.io/normal/front/5/5/5587191b-b56a-452d-8a18-1622df83c267.jpg?1674097229",
+    "large": "https://cards.scryfall.io/large/front/5/5/5587191b-b56a-452d-8a18-1622df83c267.jpg?1674097229",
+    "png": "https://cards.scryfall.io/png/front/5/5/5587191b-b56a-452d-8a18-1622df83c267.png?1674097229",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/5/5587191b-b56a-452d-8a18-1622df83c267.jpg?1674097229",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/5/5587191b-b56a-452d-8a18-1622df83c267.jpg?1674097229"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2,
+  "type_line": "Creature — Vampire",
+  "oracle_text": "Whenever this creature or another creature dies, target player loses 1 life and you gain 1 life.",
+  "power": "0",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "ab76e956-5d6c-49b8-991c-c39d5b18b876",
+      "component": "combo_piece",
+      "name": "A-Blood Artist",
+      "type_line": "Creature — Vampire",
+      "uri": "https://api.scryfall.com/cards/ab76e956-5d6c-49b8-991c-c39d5b18b876"
+    },
+    {
+      "object": "related_card",
+      "id": "5587191b-b56a-452d-8a18-1622df83c267",
+      "component": "combo_piece",
+      "name": "Blood Artist",
+      "type_line": "Creature — Vampire",
+      "uri": "https://api.scryfall.com/cards/5587191b-b56a-452d-8a18-1622df83c267"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5a645837-b050-449f-ac90-1e7ccbf45031",
+  "set": "2x2",
+  "set_name": "Double Masters 2022",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/5a645837-b050-449f-ac90-1e7ccbf45031",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A2x2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/2x2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5587191b-b56a-452d-8a18-1622df83c267/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A310f141c-7f37-4729-aed6-dd9c09db448d&unique=prints",
+  "collector_number": "352",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "From the veins of a peasant to the sketchbook of a master.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Carl Critchlow",
+  "artist_ids": [
+    "17948f16-611a-44b8-8d10-9895a0bdfff1"
+  ],
+  "illustration_id": "b1d38597-af60-4127-bd43-dff72726522c",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 148,
+  "penny_rank": 1030,
+  "preview": {
+    "source": "開封大好きよしひろ",
+    "source_uri": "https://www.youtube.com/watch?v=9dRbZQkhL2Y&t=7s",
+    "previewed_at": "2022-06-22"
+  },
+  "prices": {
+    "usd": "2.00",
+    "usd_foil": "2.59",
+    "usd_etched": null,
+    "eur": "2.08",
+    "eur_foil": "2.39",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=573014&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlood%2BArtist",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlood%2BArtist",
+    "edhrec": "https://edhrec.com/route/?cc=Blood+Artist"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F277245%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=665812&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blood+Artist&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

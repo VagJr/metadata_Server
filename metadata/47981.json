@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "715c58f4-ede4-4c43-9c91-6119f9edff53",
+  "oracle_id": "ebeee06e-3345-4f02-896f-cb0b2cfa5548",
+  "multiverse_ids": [
+    684276
+  ],
+  "arena_id": 93397,
+  "tcgplayer_id": 590690,
+  "cardmarket_id": 796725,
+  "name": "Kindled Fury",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/715c58f4-ede4-4c43-9c91-6119f9edff53",
+  "scryfall_uri": "https://scryfall.com/card/j25/571/kindled-fury?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/1/715c58f4-ede4-4c43-9c91-6119f9edff53.jpg?1730487780",
+    "normal": "https://cards.scryfall.io/normal/front/7/1/715c58f4-ede4-4c43-9c91-6119f9edff53.jpg?1730487780",
+    "large": "https://cards.scryfall.io/large/front/7/1/715c58f4-ede4-4c43-9c91-6119f9edff53.jpg?1730487780",
+    "png": "https://cards.scryfall.io/png/front/7/1/715c58f4-ede4-4c43-9c91-6119f9edff53.png?1730487780",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/1/715c58f4-ede4-4c43-9c91-6119f9edff53.jpg?1730487780",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/1/715c58f4-ede4-4c43-9c91-6119f9edff53.jpg?1730487780"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "oracle_text": "Target creature gets +1/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9201567c-bab5-4720-aac9-260e6741f115",
+  "set": "j25",
+  "set_name": "Foundations Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/9201567c-bab5-4720-aac9-260e6741f115",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj25&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j25?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/715c58f4-ede4-4c43-9c91-6119f9edff53/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aebeee06e-3345-4f02-896f-cb0b2cfa5548&unique=prints",
+  "collector_number": "571",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "The minotaur stared at the Eternal bearing down on him—the embodiment of deadly skill he had aspired to become.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Craig J Spearing",
+  "artist_ids": [
+    "b0f15e74-0dd6-4156-959e-c5e30c5cdc52"
+  ],
+  "illustration_id": "7c08fb30-32f1-4251-80f4-f8616b214a40",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 17129,
+  "penny_rank": 16184,
+  "prices": {
+    "usd": "0.03",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.07",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=684276&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKindled%2BFury",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKindled%2BFury",
+    "edhrec": "https://edhrec.com/route/?cc=Kindled+Fury"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F590690%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=796725&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kindled+Fury&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

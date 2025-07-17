@@ -1,0 +1,161 @@
+{
+  "object": "card",
+  "id": "0e55af61-7755-4d3c-9197-ee36137fbeae",
+  "oracle_id": "04fbb7aa-0dd4-4ac6-837d-822227fb6356",
+  "multiverse_ids": [],
+  "tcgplayer_id": 582371,
+  "name": "Faerie Guidemother // Gift of the Fae",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/0e55af61-7755-4d3c-9197-ee36137fbeae",
+  "scryfall_uri": "https://scryfall.com/card/plst/ELD-11/faerie-guidemother-gift-of-the-fae?utm_source=api",
+  "layout": "adventure",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/e/0e55af61-7755-4d3c-9197-ee36137fbeae.jpg?1723435921",
+    "normal": "https://cards.scryfall.io/normal/front/0/e/0e55af61-7755-4d3c-9197-ee36137fbeae.jpg?1723435921",
+    "large": "https://cards.scryfall.io/large/front/0/e/0e55af61-7755-4d3c-9197-ee36137fbeae.jpg?1723435921",
+    "png": "https://cards.scryfall.io/png/front/0/e/0e55af61-7755-4d3c-9197-ee36137fbeae.png?1723435921",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/e/0e55af61-7755-4d3c-9197-ee36137fbeae.jpg?1723435921",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/e/0e55af61-7755-4d3c-9197-ee36137fbeae.jpg?1723435921"
+  },
+  "mana_cost": "{W} // {1}{W}",
+  "cmc": 1,
+  "type_line": "Creature — Faerie // Sorcery — Adventure",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Faerie Guidemother",
+      "mana_cost": "{W}",
+      "type_line": "Creature — Faerie",
+      "oracle_text": "Flying",
+      "power": "1",
+      "toughness": "1",
+      "flavor_text": "No one is so lost that a faerie can't find them.",
+      "artist": "Mila Pesic",
+      "artist_id": "81c5ec23-220b-4efa-b7df-9e49dd371e8d",
+      "illustration_id": "baa79d7b-81ac-4580-b56a-9729feac4971"
+    },
+    {
+      "object": "card_face",
+      "name": "Gift of the Fae",
+      "mana_cost": "{1}{W}",
+      "type_line": "Sorcery — Adventure",
+      "oracle_text": "Target creature gets +2/+1 and gains flying until end of turn. (Then exile this card. You may cast the creature later from exile.)",
+      "artist": "Mila Pesic",
+      "artist_id": "81c5ec23-220b-4efa-b7df-9e49dd371e8d"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "0e55af61-7755-4d3c-9197-ee36137fbeae",
+      "component": "combo_piece",
+      "name": "Faerie Guidemother // Gift of the Fae",
+      "type_line": "Creature — Faerie // Sorcery — Adventure",
+      "uri": "https://api.scryfall.com/cards/0e55af61-7755-4d3c-9197-ee36137fbeae"
+    },
+    {
+      "object": "related_card",
+      "id": "fcf4c7fb-7859-4c11-8552-6817f5119d2e",
+      "component": "combo_piece",
+      "name": "On an Adventure",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/fcf4c7fb-7859-4c11-8552-6817f5119d2e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0e55af61-7755-4d3c-9197-ee36137fbeae/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A04fbb7aa-0dd4-4ac6-837d-822227fb6356&unique=prints",
+  "collector_number": "ELD-11",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "No one is so lost that a faerie can't find them.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mila Pesic",
+  "artist_ids": [
+    "81c5ec23-220b-4efa-b7df-9e49dd371e8d"
+  ],
+  "illustration_id": "baa79d7b-81ac-4580-b56a-9729feac4971",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 14176,
+  "penny_rank": 5468,
+  "prices": {
+    "usd": "0.08",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFaerie%2BGuidemother%2B%252F%252F%2BGift%2Bof%2Bthe%2BFae",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFaerie%2BGuidemother%2B%252F%252F%2BGift%2Bof%2Bthe%2BFae",
+    "edhrec": "https://edhrec.com/route/?cc=Faerie+Guidemother"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F582371%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Faerie+Guidemother&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Faerie+Guidemother&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

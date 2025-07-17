@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "318a41e3-1c5a-467e-9ffb-e6a5f817f8fe",
+  "oracle_id": "d385c2e1-a62e-43ad-80ef-a6178deac82c",
+  "multiverse_ids": [
+    489363
+  ],
+  "arena_id": 72442,
+  "tcgplayer_id": 216130,
+  "cardmarket_id": 473334,
+  "name": "Brindle Shoat",
+  "lang": "en",
+  "released_at": "2020-07-17",
+  "uri": "https://api.scryfall.com/cards/318a41e3-1c5a-467e-9ffb-e6a5f817f8fe",
+  "scryfall_uri": "https://scryfall.com/card/jmp/380/brindle-shoat?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/1/318a41e3-1c5a-467e-9ffb-e6a5f817f8fe.jpg?1601079033",
+    "normal": "https://cards.scryfall.io/normal/front/3/1/318a41e3-1c5a-467e-9ffb-e6a5f817f8fe.jpg?1601079033",
+    "large": "https://cards.scryfall.io/large/front/3/1/318a41e3-1c5a-467e-9ffb-e6a5f817f8fe.jpg?1601079033",
+    "png": "https://cards.scryfall.io/png/front/3/1/318a41e3-1c5a-467e-9ffb-e6a5f817f8fe.png?1601079033",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/1/318a41e3-1c5a-467e-9ffb-e6a5f817f8fe.jpg?1601079033",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/1/318a41e3-1c5a-467e-9ffb-e6a5f817f8fe.jpg?1601079033"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2,
+  "type_line": "Creature — Boar",
+  "oracle_text": "When this creature dies, create a 3/3 green Boar creature token.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "318a41e3-1c5a-467e-9ffb-e6a5f817f8fe",
+      "component": "combo_piece",
+      "name": "Brindle Shoat",
+      "type_line": "Creature — Boar",
+      "uri": "https://api.scryfall.com/cards/318a41e3-1c5a-467e-9ffb-e6a5f817f8fe"
+    },
+    {
+      "object": "related_card",
+      "id": "8a911fad-7af3-4bc4-bafc-cac2d5f18f22",
+      "component": "token",
+      "name": "Boar",
+      "type_line": "Token Creature — Boar",
+      "uri": "https://api.scryfall.com/cards/8a911fad-7af3-4bc4-bafc-cac2d5f18f22"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "0f6ccf25-a627-4263-86df-5757137f1696",
+  "set": "jmp",
+  "set_name": "Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/0f6ccf25-a627-4263-86df-5757137f1696",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ajmp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/jmp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/318a41e3-1c5a-467e-9ffb-e6a5f817f8fe/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad385c2e1-a62e-43ad-80ef-a6178deac82c&unique=prints",
+  "collector_number": "380",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Hunters lure the stripling boar into the open, hoping to trap greater prey.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steven Belledin",
+  "artist_ids": [
+    "f07d73b9-52a0-4fe5-858b-61f7b42174a5"
+  ],
+  "illustration_id": "192b79df-f61d-4268-9769-c814d140b8ba",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 19519,
+  "penny_rank": 7124,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2020-06-18"
+  },
+  "prices": {
+    "usd": "0.04",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.09",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489363&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBrindle%2BShoat",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBrindle%2BShoat",
+    "edhrec": "https://edhrec.com/route/?cc=Brindle+Shoat"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F216130%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=473334&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Brindle+Shoat&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

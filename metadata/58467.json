@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "8a325a92-522b-4f2d-a3dd-2a9eb56d1478",
+  "oracle_id": "cbe3a4e7-5dbe-4f58-8ee6-a1762b65acfd",
+  "multiverse_ids": [
+    661488
+  ],
+  "mtgo_id": 125725,
+  "tcgplayer_id": 552380,
+  "cardmarket_id": 771261,
+  "name": "K'rrik, Son of Yawgmoth",
+  "lang": "en",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/8a325a92-522b-4f2d-a3dd-2a9eb56d1478",
+  "scryfall_uri": "https://scryfall.com/card/mh3/365/krrik-son-of-yawgmoth?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/a/8a325a92-522b-4f2d-a3dd-2a9eb56d1478.jpg?1719466229",
+    "normal": "https://cards.scryfall.io/normal/front/8/a/8a325a92-522b-4f2d-a3dd-2a9eb56d1478.jpg?1719466229",
+    "large": "https://cards.scryfall.io/large/front/8/a/8a325a92-522b-4f2d-a3dd-2a9eb56d1478.jpg?1719466229",
+    "png": "https://cards.scryfall.io/png/front/8/a/8a325a92-522b-4f2d-a3dd-2a9eb56d1478.png?1719466229",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/a/8a325a92-522b-4f2d-a3dd-2a9eb56d1478.jpg?1719466229",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/a/8a325a92-522b-4f2d-a3dd-2a9eb56d1478.jpg?1719466229"
+  },
+  "mana_cost": "{4}{B/P}{B/P}{B/P}",
+  "cmc": 7,
+  "type_line": "Legendary Creature — Phyrexian Horror Minion",
+  "oracle_text": "({B/P} can be paid with either {B} or 2 life.)\nLifelink\nFor each {B} in a cost, you may pay 2 life rather than pay that mana.\nWhenever you cast a black spell, put a +1/+1 counter on K'rrik.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Lifelink"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8a325a92-522b-4f2d-a3dd-2a9eb56d1478/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acbe3a4e7-5dbe-4f58-8ee6-a1762b65acfd&unique=prints",
+  "collector_number": "365",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ivan Shavrin",
+  "artist_ids": [
+    "48432182-db18-4106-81c8-7b83100316d6"
+  ],
+  "illustration_id": "342cc563-243c-4af2-bd2e-c7b376171dbf",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "portrait",
+    "boosterfun"
+  ],
+  "edhrec_rank": 1146,
+  "penny_rank": 7620,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2024-05-21"
+  },
+  "prices": {
+    "usd": "0.72",
+    "usd_foil": "1.41",
+    "usd_etched": null,
+    "eur": "0.53",
+    "eur_foil": "1.00",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=661488&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DK%2527rrik%252C%2BSon%2Bof%2BYawgmoth",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DK%2527rrik%252C%2BSon%2Bof%2BYawgmoth",
+    "edhrec": "https://edhrec.com/route/?cc=K%27rrik%2C+Son+of+Yawgmoth"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F552380%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=771261&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/125725?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

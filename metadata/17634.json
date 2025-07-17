@@ -1,0 +1,159 @@
+{
+  "object": "card",
+  "id": "295e63c2-b533-4dbf-8c8a-c6493de31457",
+  "oracle_id": "eb37496e-374f-41b9-bd52-f52f37bdac31",
+  "multiverse_ids": [
+    657357
+  ],
+  "mtgo_id": 123781,
+  "tcgplayer_id": 544720,
+  "cardmarket_id": 764074,
+  "name": "Calamity, Galloping Inferno",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/295e63c2-b533-4dbf-8c8a-c6493de31457",
+  "scryfall_uri": "https://scryfall.com/card/otj/330/calamity-galloping-inferno?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/9/295e63c2-b533-4dbf-8c8a-c6493de31457.jpg?1712356655",
+    "normal": "https://cards.scryfall.io/normal/front/2/9/295e63c2-b533-4dbf-8c8a-c6493de31457.jpg?1712356655",
+    "large": "https://cards.scryfall.io/large/front/2/9/295e63c2-b533-4dbf-8c8a-c6493de31457.jpg?1712356655",
+    "png": "https://cards.scryfall.io/png/front/2/9/295e63c2-b533-4dbf-8c8a-c6493de31457.png?1712356655",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/9/295e63c2-b533-4dbf-8c8a-c6493de31457.jpg?1712356655",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/9/295e63c2-b533-4dbf-8c8a-c6493de31457.jpg?1712356655"
+  },
+  "mana_cost": "{4}{R}{R}",
+  "cmc": 6,
+  "type_line": "Legendary Creature — Horse Mount",
+  "oracle_text": "Haste\nWhenever Calamity attacks while saddled, choose a nonlegendary creature that saddled it this turn and create a tapped and attacking token that's a copy of it. Sacrifice that token at the beginning of the next end step. Repeat this process once.\nSaddle 1",
+  "power": "4",
+  "toughness": "6",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Saddle",
+    "Haste"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e85f57c5-923a-4824-969e-53feddd78c3b",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/e85f57c5-923a-4824-969e-53feddd78c3b"
+    },
+    {
+      "object": "related_card",
+      "id": "295e63c2-b533-4dbf-8c8a-c6493de31457",
+      "component": "combo_piece",
+      "name": "Calamity, Galloping Inferno",
+      "type_line": "Legendary Creature — Horse Mount",
+      "uri": "https://api.scryfall.com/cards/295e63c2-b533-4dbf-8c8a-c6493de31457"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+  "set": "otj",
+  "set_name": "Outlaws of Thunder Junction",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/295e63c2-b533-4dbf-8c8a-c6493de31457/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aeb37496e-374f-41b9-bd52-f52f37bdac31&unique=prints",
+  "collector_number": "330",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Artur Nakhodkin",
+  "artist_ids": [
+    "36450ae0-6428-47cb-b1ff-0549e0bbb7ee"
+  ],
+  "illustration_id": "aa2ca5ed-5786-45d9-8437-3af27857854b",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 6713,
+  "penny_rank": 4897,
+  "preview": {
+    "source": "Hareruya",
+    "source_uri": "https://article.hareruyamtg.com/article/78186/",
+    "previewed_at": "2024-04-01"
+  },
+  "prices": {
+    "usd": "0.74",
+    "usd_foil": "1.01",
+    "usd_etched": null,
+    "eur": "0.58",
+    "eur_foil": "1.23",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=657357&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCalamity%252C%2BGalloping%2BInferno",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCalamity%252C%2BGalloping%2BInferno",
+    "edhrec": "https://edhrec.com/route/?cc=Calamity%2C+Galloping+Inferno"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544720%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=764074&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/123781?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

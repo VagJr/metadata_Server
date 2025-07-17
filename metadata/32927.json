@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "4ddb33dd-a92a-4f71-bcb3-56678ef5e45d",
+  "oracle_id": "48712d36-5c13-4ded-87a4-68106da4a5cd",
+  "multiverse_ids": [
+    657757
+  ],
+  "mtgo_id": 123587,
+  "arena_id": 90710,
+  "tcgplayer_id": 544838,
+  "cardmarket_id": 764151,
+  "name": "Mindbreak Trap",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/4ddb33dd-a92a-4f71-bcb3-56678ef5e45d",
+  "scryfall_uri": "https://scryfall.com/card/otp/12/mindbreak-trap?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/d/4ddb33dd-a92a-4f71-bcb3-56678ef5e45d.jpg?1712353434",
+    "normal": "https://cards.scryfall.io/normal/front/4/d/4ddb33dd-a92a-4f71-bcb3-56678ef5e45d.jpg?1712353434",
+    "large": "https://cards.scryfall.io/large/front/4/d/4ddb33dd-a92a-4f71-bcb3-56678ef5e45d.jpg?1712353434",
+    "png": "https://cards.scryfall.io/png/front/4/d/4ddb33dd-a92a-4f71-bcb3-56678ef5e45d.png?1712353434",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/d/4ddb33dd-a92a-4f71-bcb3-56678ef5e45d.jpg?1712353434",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/d/4ddb33dd-a92a-4f71-bcb3-56678ef5e45d.jpg?1712353434"
+  },
+  "mana_cost": "{2}{U}{U}",
+  "cmc": 4,
+  "type_line": "Instant — Trap",
+  "oracle_text": "If an opponent cast three or more spells this turn, you may pay {0} rather than pay this spell's mana cost.\nExile any number of target spells.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8b51294d-fc54-410c-83b2-0168837ede87",
+  "set": "otp",
+  "set_name": "Breaking News",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/8b51294d-fc54-410c-83b2-0168837ede87",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4ddb33dd-a92a-4f71-bcb3-56678ef5e45d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A48712d36-5c13-4ded-87a4-68106da4a5cd&unique=prints",
+  "collector_number": "12",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "Sheriff Bans Rootin'—Is Tootin' Next?",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Arik Roper",
+  "artist_ids": [
+    "482ca47d-25f1-4173-8d77-332ea9b8eb10"
+  ],
+  "illustration_id": "641be4a4-f303-4ca0-bbd9-fe54abe62f53",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 555,
+  "prices": {
+    "usd": "8.06",
+    "usd_foil": "19.47",
+    "usd_etched": null,
+    "eur": "8.34",
+    "eur_foil": "17.52",
+    "tix": "1.54"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=657757&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMindbreak%2BTrap",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMindbreak%2BTrap",
+    "edhrec": "https://edhrec.com/route/?cc=Mindbreak+Trap"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544838%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=764151&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/123587?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

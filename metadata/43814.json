@@ -1,0 +1,156 @@
+{
+  "object": "card",
+  "id": "67615047-1b17-4dc1-80d2-2d5da109db94",
+  "oracle_id": "6790eb4e-f6ed-44f5-85f1-bd7e167b828c",
+  "multiverse_ids": [],
+  "name": "Kobolds of Kher Keep",
+  "lang": "en",
+  "released_at": "2023-02-03",
+  "uri": "https://api.scryfall.com/cards/67615047-1b17-4dc1-80d2-2d5da109db94",
+  "scryfall_uri": "https://scryfall.com/card/tonc/12/kobolds-of-kher-keep?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/7/67615047-1b17-4dc1-80d2-2d5da109db94.jpg?1675905868",
+    "normal": "https://cards.scryfall.io/normal/front/6/7/67615047-1b17-4dc1-80d2-2d5da109db94.jpg?1675905868",
+    "large": "https://cards.scryfall.io/large/front/6/7/67615047-1b17-4dc1-80d2-2d5da109db94.jpg?1675905868",
+    "png": "https://cards.scryfall.io/png/front/6/7/67615047-1b17-4dc1-80d2-2d5da109db94.png?1675905868",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/7/67615047-1b17-4dc1-80d2-2d5da109db94.jpg?1675905868",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/7/67615047-1b17-4dc1-80d2-2d5da109db94.jpg?1675905868"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Kobold",
+  "oracle_text": "",
+  "power": "0",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "67615047-1b17-4dc1-80d2-2d5da109db94",
+      "component": "token",
+      "name": "Kobolds of Kher Keep",
+      "type_line": "Token Creature — Kobold",
+      "uri": "https://api.scryfall.com/cards/67615047-1b17-4dc1-80d2-2d5da109db94"
+    },
+    {
+      "object": "related_card",
+      "id": "e1e671e7-0e21-472e-9040-e52309c0c760",
+      "component": "combo_piece",
+      "name": "Kher Keep",
+      "type_line": "Legendary Land",
+      "uri": "https://api.scryfall.com/cards/e1e671e7-0e21-472e-9040-e52309c0c760"
+    },
+    {
+      "object": "related_card",
+      "id": "0ebd0ab9-ac1b-48bd-8304-2c15bdbd7bf5",
+      "component": "combo_piece",
+      "name": "Prossh, Skyraider of Kher",
+      "type_line": "Legendary Creature — Dragon",
+      "uri": "https://api.scryfall.com/cards/0ebd0ab9-ac1b-48bd-8304-2c15bdbd7bf5"
+    },
+    {
+      "object": "related_card",
+      "id": "a426020e-bc3d-47ff-a34f-e12ce8825129",
+      "component": "combo_piece",
+      "name": "Rosnakht, Heir of Rohgahh",
+      "type_line": "Legendary Creature — Kobold Warrior",
+      "uri": "https://api.scryfall.com/cards/a426020e-bc3d-47ff-a34f-e12ce8825129"
+    },
+    {
+      "object": "related_card",
+      "id": "d3488954-e248-40f2-8194-0c5ae78cd6d4",
+      "component": "combo_piece",
+      "name": "Rohgahh, Kher Keep Overlord",
+      "type_line": "Legendary Creature — Kobold Warrior",
+      "uri": "https://api.scryfall.com/cards/d3488954-e248-40f2-8194-0c5ae78cd6d4"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "04ed1b78-cc80-4888-9536-c69facdc19e3",
+  "set": "tonc",
+  "set_name": "Phyrexia: All Will Be One Commander Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/04ed1b78-cc80-4888-9536-c69facdc19e3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atonc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tonc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/67615047-1b17-4dc1-80d2-2d5da109db94/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6790eb4e-f6ed-44f5-85f1-bd7e167b828c&unique=prints",
+  "collector_number": "12",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Paolo Parente",
+  "artist_ids": [
+    "d48dd097-720d-476a-8722-6a02854ae28b"
+  ],
+  "illustration_id": "d2b5c2f4-c926-493d-a485-79862e631e00",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKobolds%2Bof%2BKher%2BKeep",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKobolds%2Bof%2BKher%2BKeep",
+    "edhrec": "https://edhrec.com/route/?cc=Kobolds+of+Kher+Keep"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DKobolds%2Bof%2BKher%2BKeep%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kobolds+of+Kher+Keep&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kobolds+of+Kher+Keep&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

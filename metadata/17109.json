@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "281bd31f-a4ae-4554-8944-fbc14db21dfd",
+  "oracle_id": "f5e9c69f-b949-4e9a-91d8-e0d52f8d8d3e",
+  "multiverse_ids": [
+    547505
+  ],
+  "arena_id": 73812,
+  "name": "Sunscourge Champion",
+  "lang": "en",
+  "released_at": "2020-08-13",
+  "uri": "https://api.scryfall.com/cards/281bd31f-a4ae-4554-8944-fbc14db21dfd",
+  "scryfall_uri": "https://scryfall.com/card/akr/38/sunscourge-champion?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/8/281bd31f-a4ae-4554-8944-fbc14db21dfd.jpg?1597077032",
+    "normal": "https://cards.scryfall.io/normal/front/2/8/281bd31f-a4ae-4554-8944-fbc14db21dfd.jpg?1597077032",
+    "large": "https://cards.scryfall.io/large/front/2/8/281bd31f-a4ae-4554-8944-fbc14db21dfd.jpg?1597077032",
+    "png": "https://cards.scryfall.io/png/front/2/8/281bd31f-a4ae-4554-8944-fbc14db21dfd.png?1597077032",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/8/281bd31f-a4ae-4554-8944-fbc14db21dfd.jpg?1597077032",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/8/281bd31f-a4ae-4554-8944-fbc14db21dfd.jpg?1597077032"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Creature — Human Wizard",
+  "oracle_text": "When this creature enters, you gain life equal to its power.\nEternalize—{2}{W}{W}, Discard a card. ({2}{W}{W}, Discard a card, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Wizard with no mana cost. Eternalize only as a sorcery.)",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Eternalize"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "289a9593-151e-47d0-b0de-5eb9f061515a",
+      "component": "token",
+      "name": "Sunscourge Champion",
+      "type_line": "Token Creature — Zombie Human Wizard",
+      "uri": "https://api.scryfall.com/cards/289a9593-151e-47d0-b0de-5eb9f061515a"
+    },
+    {
+      "object": "related_card",
+      "id": "281bd31f-a4ae-4554-8944-fbc14db21dfd",
+      "component": "combo_piece",
+      "name": "Sunscourge Champion",
+      "type_line": "Creature — Human Wizard",
+      "uri": "https://api.scryfall.com/cards/281bd31f-a4ae-4554-8944-fbc14db21dfd"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "915dabb1-b82a-432d-939d-d9b128e65582",
+  "set": "akr",
+  "set_name": "Amonkhet Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/915dabb1-b82a-432d-939d-d9b128e65582",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aakr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/akr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/281bd31f-a4ae-4554-8944-fbc14db21dfd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af5e9c69f-b949-4e9a-91d8-e0d52f8d8d3e&unique=prints",
+  "collector_number": "38",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Josu Hernaiz",
+  "artist_ids": [
+    "74246024-92b4-43d0-a5af-a3f9f2a35d5f"
+  ],
+  "illustration_id": "3161c9e0-0e8b-44b2-8c6b-30d49eb50431",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 22002,
+  "penny_rank": 2324,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547505&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSunscourge%2BChampion",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSunscourge%2BChampion",
+    "edhrec": "https://edhrec.com/route/?cc=Sunscourge+Champion"
+  }
+}

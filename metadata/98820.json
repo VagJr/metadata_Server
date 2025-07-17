@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "e9822b57-8e42-4158-981d-f0b0b0646fc9",
+  "oracle_id": "d465a3d6-5830-456c-8e7a-908b464db846",
+  "multiverse_ids": [
+    489594
+  ],
+  "arena_id": 72172,
+  "tcgplayer_id": 216295,
+  "cardmarket_id": 473764,
+  "name": "Inspired Charge",
+  "lang": "en",
+  "released_at": "2020-07-17",
+  "uri": "https://api.scryfall.com/cards/e9822b57-8e42-4158-981d-f0b0b0646fc9",
+  "scryfall_uri": "https://scryfall.com/card/jmp/110/inspired-charge?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/9/e9822b57-8e42-4158-981d-f0b0b0646fc9.jpg?1600717056",
+    "normal": "https://cards.scryfall.io/normal/front/e/9/e9822b57-8e42-4158-981d-f0b0b0646fc9.jpg?1600717056",
+    "large": "https://cards.scryfall.io/large/front/e/9/e9822b57-8e42-4158-981d-f0b0b0646fc9.jpg?1600717056",
+    "png": "https://cards.scryfall.io/png/front/e/9/e9822b57-8e42-4158-981d-f0b0b0646fc9.png?1600717056",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/9/e9822b57-8e42-4158-981d-f0b0b0646fc9.jpg?1600717056",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/9/e9822b57-8e42-4158-981d-f0b0b0646fc9.jpg?1600717056"
+  },
+  "mana_cost": "{2}{W}{W}",
+  "cmc": 4,
+  "type_line": "Instant",
+  "oracle_text": "Creatures you control get +2/+1 until end of turn.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena",
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "0f6ccf25-a627-4263-86df-5757137f1696",
+  "set": "jmp",
+  "set_name": "Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/0f6ccf25-a627-4263-86df-5757137f1696",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ajmp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/jmp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e9822b57-8e42-4158-981d-f0b0b0646fc9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad465a3d6-5830-456c-8e7a-908b464db846&unique=prints",
+  "collector_number": "110",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"We are armed with light and steel. Who can stand against us?\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wayne Reynolds",
+  "artist_ids": [
+    "afc47cec-3ccc-404e-a8c6-4d83dd504271"
+  ],
+  "illustration_id": "ad673213-6423-4318-818c-600b67c4d708",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 16708,
+  "penny_rank": 13859,
+  "preview": {
+    "source": "BIG MAGIC",
+    "source_uri": "http://mtg.bigmagic.net/article/2020/06/preview/JMP.html",
+    "previewed_at": "2020-06-19"
+  },
+  "prices": {
+    "usd": "0.04",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.06",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489594&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DInspired%2BCharge",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DInspired%2BCharge",
+    "edhrec": "https://edhrec.com/route/?cc=Inspired+Charge"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F216295%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=473764&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Inspired+Charge&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

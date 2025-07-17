@@ -1,0 +1,113 @@
+{
+  "object": "card",
+  "id": "806830e3-7296-4982-b366-fa443bda3989",
+  "oracle_id": "f33d1132-064d-42f1-8814-95d27fde8bf8",
+  "multiverse_ids": [
+    547590
+  ],
+  "arena_id": 73901,
+  "name": "Shadow of the Grave",
+  "lang": "en",
+  "released_at": "2020-08-13",
+  "uri": "https://api.scryfall.com/cards/806830e3-7296-4982-b366-fa443bda3989",
+  "scryfall_uri": "https://scryfall.com/card/akr/123/shadow-of-the-grave?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/0/806830e3-7296-4982-b366-fa443bda3989.jpg?1597172524",
+    "normal": "https://cards.scryfall.io/normal/front/8/0/806830e3-7296-4982-b366-fa443bda3989.jpg?1597172524",
+    "large": "https://cards.scryfall.io/large/front/8/0/806830e3-7296-4982-b366-fa443bda3989.jpg?1597172524",
+    "png": "https://cards.scryfall.io/png/front/8/0/806830e3-7296-4982-b366-fa443bda3989.png?1597172524",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/0/806830e3-7296-4982-b366-fa443bda3989.jpg?1597172524",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/0/806830e3-7296-4982-b366-fa443bda3989.jpg?1597172524"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Return to your hand all cards in your graveyard that you cycled or discarded this turn.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "915dabb1-b82a-432d-939d-d9b128e65582",
+  "set": "akr",
+  "set_name": "Amonkhet Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/915dabb1-b82a-432d-939d-d9b128e65582",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aakr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/akr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/806830e3-7296-4982-b366-fa443bda3989/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af33d1132-064d-42f1-8814-95d27fde8bf8&unique=prints",
+  "collector_number": "123",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Darek Zabrocki",
+  "artist_ids": [
+    "904ed2e7-9850-4472-802f-2657c53dd4d8"
+  ],
+  "illustration_id": "9745120e-2c89-40ef-9614-f78b2dd378e6",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 7435,
+  "penny_rank": 4197,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547590&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DShadow%2Bof%2Bthe%2BGrave",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DShadow%2Bof%2Bthe%2BGrave",
+    "edhrec": "https://edhrec.com/route/?cc=Shadow+of+the+Grave"
+  }
+}

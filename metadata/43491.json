@@ -1,0 +1,159 @@
+{
+  "object": "card",
+  "id": "66a0347e-8ec6-463e-aef5-33f7d62899e2",
+  "oracle_id": "bce7e45d-b2c5-43aa-91a6-3a3c24f30850",
+  "multiverse_ids": [],
+  "tcgplayer_id": 511866,
+  "name": "Bruna, the Fading Light",
+  "lang": "en",
+  "released_at": "2023-08-10",
+  "uri": "https://api.scryfall.com/cards/66a0347e-8ec6-463e-aef5-33f7d62899e2",
+  "scryfall_uri": "https://scryfall.com/card/sld/1336/bruna-the-fading-light?utm_source=api",
+  "layout": "meld",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/6/66a0347e-8ec6-463e-aef5-33f7d62899e2.jpg?1692183800",
+    "normal": "https://cards.scryfall.io/normal/front/6/6/66a0347e-8ec6-463e-aef5-33f7d62899e2.jpg?1692183800",
+    "large": "https://cards.scryfall.io/large/front/6/6/66a0347e-8ec6-463e-aef5-33f7d62899e2.jpg?1692183800",
+    "png": "https://cards.scryfall.io/png/front/6/6/66a0347e-8ec6-463e-aef5-33f7d62899e2.png?1692183800",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/6/66a0347e-8ec6-463e-aef5-33f7d62899e2.jpg?1692183800",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/6/66a0347e-8ec6-463e-aef5-33f7d62899e2.jpg?1692183800"
+  },
+  "mana_cost": "{5}{W}{W}",
+  "cmc": 7,
+  "type_line": "Legendary Creature — Angel Horror",
+  "oracle_text": "When you cast this spell, you may return target Angel or Human creature card from your graveyard to the battlefield.\nFlying, vigilance\n(Melds with Gisela, the Broken Blade.)",
+  "power": "5",
+  "toughness": "7",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "Vigilance"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "cd8586f9-97e2-438d-b74f-1e53c811f314",
+      "component": "combo_piece",
+      "name": "Eldritch Moon Checklist",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/cd8586f9-97e2-438d-b74f-1e53c811f314"
+    },
+    {
+      "object": "related_card",
+      "id": "bbcd6747-f763-4e74-bb24-e93afe23cb32",
+      "component": "meld_result",
+      "name": "Brisela, Voice of Nightmares",
+      "type_line": "Legendary Creature — Eldrazi Angel",
+      "uri": "https://api.scryfall.com/cards/bbcd6747-f763-4e74-bb24-e93afe23cb32"
+    },
+    {
+      "object": "related_card",
+      "id": "abd2e842-d953-4e97-b95a-2b1af51173a9",
+      "component": "meld_part",
+      "name": "Bruna, the Fading Light",
+      "type_line": "Legendary Creature — Angel Horror",
+      "uri": "https://api.scryfall.com/cards/abd2e842-d953-4e97-b95a-2b1af51173a9"
+    },
+    {
+      "object": "related_card",
+      "id": "128e73b3-19a0-4740-b32b-5882d3937a79",
+      "component": "meld_part",
+      "name": "Gisela, the Broken Blade",
+      "type_line": "Legendary Creature — Angel Horror",
+      "uri": "https://api.scryfall.com/cards/128e73b3-19a0-4740-b32b-5882d3937a79"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/66a0347e-8ec6-463e-aef5-33f7d62899e2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abce7e45d-b2c5-43aa-91a6-3a3c24f30850&unique=prints",
+  "collector_number": "1336",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"My heart is no longer my own.\"",
+  "card_back_id": "13540fb3-34fe-453c-84da-59904345c14d",
+  "artist": "Scott M. Fischer",
+  "artist_ids": [
+    "23b0cf43-3e43-44c6-8329-96446eca5bce"
+  ],
+  "illustration_id": "30a330df-4c19-46e6-8fdd-2a6df011685c",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2307,
+  "penny_rank": 6691,
+  "prices": {
+    "usd": null,
+    "usd_foil": "59.78",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBruna%252C%2Bthe%2BFading%2BLight",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBruna%252C%2Bthe%2BFading%2BLight",
+    "edhrec": "https://edhrec.com/route/?cc=Bruna%2C+the+Fading+Light"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F511866%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bruna%2C+the+Fading+Light&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bruna%2C+the+Fading+Light&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "object": "card",
+  "id": "6ae8f2d9-5759-49bf-b5d6-f2b9515ef919",
+  "oracle_id": "b3c69bf4-880f-4198-a67c-87d23d9c3d41",
+  "multiverse_ids": [
+    678828
+  ],
+  "mtgo_id": 133022,
+  "tcgplayer_id": 589756,
+  "cardmarket_id": 795393,
+  "name": "Homunculus Horde",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/6ae8f2d9-5759-49bf-b5d6-f2b9515ef919",
+  "scryfall_uri": "https://scryfall.com/card/fdn/376/homunculus-horde?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/a/6ae8f2d9-5759-49bf-b5d6-f2b9515ef919.jpg?1734361603",
+    "normal": "https://cards.scryfall.io/normal/front/6/a/6ae8f2d9-5759-49bf-b5d6-f2b9515ef919.jpg?1734361603",
+    "large": "https://cards.scryfall.io/large/front/6/a/6ae8f2d9-5759-49bf-b5d6-f2b9515ef919.jpg?1734361603",
+    "png": "https://cards.scryfall.io/png/front/6/a/6ae8f2d9-5759-49bf-b5d6-f2b9515ef919.png?1734361603",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/a/6ae8f2d9-5759-49bf-b5d6-f2b9515ef919.jpg?1734361603",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/a/6ae8f2d9-5759-49bf-b5d6-f2b9515ef919.jpg?1734361603"
+  },
+  "mana_cost": "{3}{U}",
+  "cmc": 4,
+  "type_line": "Creature — Homunculus",
+  "oracle_text": "Whenever you draw your second card each turn, create a token that's a copy of this creature.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "fc586e46-b7d0-4c84-8678-3542cd390de1",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/fc586e46-b7d0-4c84-8678-3542cd390de1"
+    },
+    {
+      "object": "related_card",
+      "id": "f3ec1d32-9467-4c79-a9d6-bf3aad2d7fed",
+      "component": "combo_piece",
+      "name": "Homunculus Horde",
+      "type_line": "Creature — Homunculus",
+      "uri": "https://api.scryfall.com/cards/f3ec1d32-9467-4c79-a9d6-bf3aad2d7fed"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set": "fdn",
+  "set_name": "Foundations",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afdn&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fdn?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6ae8f2d9-5759-49bf-b5d6-f2b9515ef919/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab3c69bf4-880f-4198-a67c-87d23d9c3d41&unique=prints",
+  "collector_number": "376",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"To whoever left their homunculus experiment unattended: you will not be penalized if you come forward and tell us how to make it stop.\"\n—Laboratory notice",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Filipe Pagliuso",
+  "artist_ids": [
+    "64c537b4-a864-4051-9a24-fbdd22cb40b4"
+  ],
+  "illustration_id": "362427a2-00c3-4f17-9be4-6a9a0ddb8a21",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "manafoil",
+    "boosterfun"
+  ],
+  "edhrec_rank": 3816,
+  "preview": {
+    "source": "Josh Strife Hayes",
+    "source_uri": "https://x.com/JoshStrifeHayes/status/1850547772610519301",
+    "previewed_at": "2024-10-28"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "10.02",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "8.16",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=678828&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHomunculus%2BHorde",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHomunculus%2BHorde",
+    "edhrec": "https://edhrec.com/route/?cc=Homunculus+Horde"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F589756%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=795393&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/133022?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "6d414102-f31a-4a5d-95f0-879a6f0113b6",
+  "oracle_id": "b967870d-9773-4ad5-bf06-c3be5465dab9",
+  "multiverse_ids": [],
+  "tcgplayer_id": 237329,
+  "cardmarket_id": 560873,
+  "name": "Strict Proctor",
+  "lang": "en",
+  "released_at": "2021-04-23",
+  "uri": "https://api.scryfall.com/cards/6d414102-f31a-4a5d-95f0-879a6f0113b6",
+  "scryfall_uri": "https://scryfall.com/card/pstx/33s/strict-proctor?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/d/6d414102-f31a-4a5d-95f0-879a6f0113b6.jpg?1687648794",
+    "normal": "https://cards.scryfall.io/normal/front/6/d/6d414102-f31a-4a5d-95f0-879a6f0113b6.jpg?1687648794",
+    "large": "https://cards.scryfall.io/large/front/6/d/6d414102-f31a-4a5d-95f0-879a6f0113b6.jpg?1687648794",
+    "png": "https://cards.scryfall.io/png/front/6/d/6d414102-f31a-4a5d-95f0-879a6f0113b6.png?1687648794",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/d/6d414102-f31a-4a5d-95f0-879a6f0113b6.jpg?1687648794",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/d/6d414102-f31a-4a5d-95f0-879a6f0113b6.jpg?1687648794"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Creature — Spirit Cleric",
+  "oracle_text": "Flying\nWhenever a permanent entering causes a triggered ability to trigger, counter that ability unless its controller pays {2}.",
+  "power": "1",
+  "toughness": "3",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "bc98232b-a539-4f81-92b5-2efc57d38f53",
+  "set": "pstx",
+  "set_name": "Strixhaven: School of Mages Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/bc98232b-a539-4f81-92b5-2efc57d38f53",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apstx&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pstx?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6d414102-f31a-4a5d-95f0-879a6f0113b6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab967870d-9773-4ad5-bf06-c3be5465dab9&unique=prints",
+  "collector_number": "33s",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"You might believe being dead for centuries has made me more lenient. I think you'll find the opposite to be true.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jokubas Uogintas",
+  "artist_ids": [
+    "2c14303e-97a3-45fa-9bd8-59e5332a65f9"
+  ],
+  "illustration_id": "b84329b8-d4fc-4b33-858a-37c952b148f9",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 9123,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.00",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.96",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DStrict%2BProctor",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DStrict%2BProctor",
+    "edhrec": "https://edhrec.com/route/?cc=Strict+Proctor"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F237329%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=560873&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Strict+Proctor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

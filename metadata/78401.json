@@ -1,0 +1,182 @@
+{
+  "object": "card",
+  "id": "b910c6a1-7701-45f1-9dc8-4a3e8a8f023e",
+  "oracle_id": "6f6b8e14-c247-4dfd-8b39-38c7a5f2f354",
+  "multiverse_ids": [],
+  "tcgplayer_id": 496161,
+  "name": "Chandra, Fire of Kaladesh // Chandra, Roaring Flame",
+  "lang": "en",
+  "released_at": "2020-09-26",
+  "uri": "https://api.scryfall.com/cards/b910c6a1-7701-45f1-9dc8-4a3e8a8f023e",
+  "scryfall_uri": "https://scryfall.com/card/plst/ORI-135/chandra-fire-of-kaladesh-chandra-roaring-flame?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Human Shaman // Legendary Planeswalker — Chandra",
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Transform"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Chandra, Fire of Kaladesh",
+      "mana_cost": "{1}{R}{R}",
+      "type_line": "Legendary Creature — Human Shaman",
+      "oracle_text": "Whenever you cast a red spell, untap Chandra.\n{T}: Chandra deals 1 damage to target player or planeswalker. If Chandra has dealt 3 or more damage this turn, exile her, then return her to the battlefield transformed under her owner's control.",
+      "colors": [
+        "R"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "artist": "Eric Deschamps",
+      "artist_id": "37970e22-9cee-44c1-af44-5ee27cf26b76",
+      "illustration_id": "b6cc6b40-7a49-462b-907e-9bdc4c5271ab",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/b/9/b910c6a1-7701-45f1-9dc8-4a3e8a8f023e.jpg?1684197918",
+        "normal": "https://cards.scryfall.io/normal/front/b/9/b910c6a1-7701-45f1-9dc8-4a3e8a8f023e.jpg?1684197918",
+        "large": "https://cards.scryfall.io/large/front/b/9/b910c6a1-7701-45f1-9dc8-4a3e8a8f023e.jpg?1684197918",
+        "png": "https://cards.scryfall.io/png/front/b/9/b910c6a1-7701-45f1-9dc8-4a3e8a8f023e.png?1684197918",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/b/9/b910c6a1-7701-45f1-9dc8-4a3e8a8f023e.jpg?1684197918",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/b/9/b910c6a1-7701-45f1-9dc8-4a3e8a8f023e.jpg?1684197918"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Chandra, Roaring Flame",
+      "mana_cost": "",
+      "type_line": "Legendary Planeswalker — Chandra",
+      "oracle_text": "+1: Chandra deals 2 damage to target player or planeswalker.\n−2: Chandra deals 2 damage to target creature.\n−7: Chandra deals 6 damage to each opponent. Each player dealt damage this way gets an emblem with \"At the beginning of your upkeep, this emblem deals 3 damage to you.\"",
+      "colors": [
+        "R"
+      ],
+      "color_indicator": [
+        "R"
+      ],
+      "loyalty": "4",
+      "artist": "Eric Deschamps",
+      "artist_id": "37970e22-9cee-44c1-af44-5ee27cf26b76",
+      "illustration_id": "df182d33-8dc7-4885-af28-9383d723f5b9",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/b/9/b910c6a1-7701-45f1-9dc8-4a3e8a8f023e.jpg?1684197918",
+        "normal": "https://cards.scryfall.io/normal/back/b/9/b910c6a1-7701-45f1-9dc8-4a3e8a8f023e.jpg?1684197918",
+        "large": "https://cards.scryfall.io/large/back/b/9/b910c6a1-7701-45f1-9dc8-4a3e8a8f023e.jpg?1684197918",
+        "png": "https://cards.scryfall.io/png/back/b/9/b910c6a1-7701-45f1-9dc8-4a3e8a8f023e.png?1684197918",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/b/9/b910c6a1-7701-45f1-9dc8-4a3e8a8f023e.jpg?1684197918",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/b/9/b910c6a1-7701-45f1-9dc8-4a3e8a8f023e.jpg?1684197918"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "f3dcc7b5-c911-44c9-be5a-087298ddb492",
+      "component": "combo_piece",
+      "name": "Magic Origins Checklist",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/f3dcc7b5-c911-44c9-be5a-087298ddb492"
+    },
+    {
+      "object": "related_card",
+      "id": "a43fa669-961d-4ec5-a7c8-67e55a4e54f2",
+      "component": "combo_piece",
+      "name": "Chandra, Roaring Flame Emblem",
+      "type_line": "Emblem — Chandra",
+      "uri": "https://api.scryfall.com/cards/a43fa669-961d-4ec5-a7c8-67e55a4e54f2"
+    },
+    {
+      "object": "related_card",
+      "id": "b910c6a1-7701-45f1-9dc8-4a3e8a8f023e",
+      "component": "combo_piece",
+      "name": "Chandra, Fire of Kaladesh // Chandra, Roaring Flame",
+      "type_line": "Legendary Creature — Human Shaman // Legendary Planeswalker — Chandra",
+      "uri": "https://api.scryfall.com/cards/b910c6a1-7701-45f1-9dc8-4a3e8a8f023e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b910c6a1-7701-45f1-9dc8-4a3e8a8f023e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6f6b8e14-c247-4dfd-8b39-38c7a5f2f354&unique=prints",
+  "collector_number": "ORI-135",
+  "digital": false,
+  "rarity": "mythic",
+  "artist": "Eric Deschamps",
+  "artist_ids": [
+    "37970e22-9cee-44c1-af44-5ee27cf26b76"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "originpwdfc"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 8291,
+  "penny_rank": 3847,
+  "prices": {
+    "usd": "2.38",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DChandra%252C%2BFire%2Bof%2BKaladesh%2B%252F%252F%2BChandra%252C%2BRoaring%2BFlame",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DChandra%252C%2BFire%2Bof%2BKaladesh%2B%252F%252F%2BChandra%252C%2BRoaring%2BFlame",
+    "edhrec": "https://edhrec.com/route/?cc=Chandra%2C+Fire+of+Kaladesh"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F496161%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Chandra%2C+Fire+of+Kaladesh&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Chandra%2C+Fire+of+Kaladesh&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

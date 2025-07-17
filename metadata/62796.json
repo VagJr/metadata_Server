@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "94a50acd-ac2d-47bf-b331-0bcf5edd9c75",
+  "oracle_id": "1bbf9c3a-3791-4523-b832-b163263ffc67",
+  "multiverse_ids": [],
+  "name": "Avatar",
+  "lang": "en",
+  "released_at": "2021-04-23",
+  "uri": "https://api.scryfall.com/cards/94a50acd-ac2d-47bf-b331-0bcf5edd9c75",
+  "scryfall_uri": "https://scryfall.com/card/tstx/1/avatar?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/4/94a50acd-ac2d-47bf-b331-0bcf5edd9c75.jpg?1641306148",
+    "normal": "https://cards.scryfall.io/normal/front/9/4/94a50acd-ac2d-47bf-b331-0bcf5edd9c75.jpg?1641306148",
+    "large": "https://cards.scryfall.io/large/front/9/4/94a50acd-ac2d-47bf-b331-0bcf5edd9c75.jpg?1641306148",
+    "png": "https://cards.scryfall.io/png/front/9/4/94a50acd-ac2d-47bf-b331-0bcf5edd9c75.png?1641306148",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/4/94a50acd-ac2d-47bf-b331-0bcf5edd9c75.jpg?1641306148",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/4/94a50acd-ac2d-47bf-b331-0bcf5edd9c75.jpg?1641306148"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Avatar",
+  "oracle_text": "Haste\nWhenever this creature attacks, it deals 3 damage to each opponent.",
+  "power": "3",
+  "toughness": "6",
+  "colors": [
+    "B",
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [
+    "Haste"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "7be32140-c001-4fe1-a952-99a98c495330",
+      "component": "combo_piece",
+      "name": "Extus, Oriq Overlord // Awaken the Blood Avatar",
+      "type_line": "Legendary Creature — Human Warlock // Sorcery",
+      "uri": "https://api.scryfall.com/cards/7be32140-c001-4fe1-a952-99a98c495330"
+    },
+    {
+      "object": "related_card",
+      "id": "94a50acd-ac2d-47bf-b331-0bcf5edd9c75",
+      "component": "token",
+      "name": "Avatar",
+      "type_line": "Token Creature — Avatar",
+      "uri": "https://api.scryfall.com/cards/94a50acd-ac2d-47bf-b331-0bcf5edd9c75"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "5a24058d-2b14-4f38-b906-9d2509da1c90",
+  "set": "tstx",
+  "set_name": "Strixhaven: School of Mages Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/5a24058d-2b14-4f38-b906-9d2509da1c90",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atstx&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tstx?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/94a50acd-ac2d-47bf-b331-0bcf5edd9c75/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1bbf9c3a-3791-4523-b832-b163263ffc67&unique=prints",
+  "collector_number": "1",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Bryan Sola",
+  "artist_ids": [
+    "e6879299-a28b-48bc-8db1-9cafcf36de09"
+  ],
+  "illustration_id": "77bc1768-0084-4a3f-86f7-d17c79b326f3",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAvatar",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAvatar",
+    "edhrec": "https://edhrec.com/route/?cc=Avatar"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DAvatar%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Avatar&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Avatar&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

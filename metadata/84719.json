@@ -1,0 +1,517 @@
+{
+  "object": "card",
+  "id": "c8178c17-826a-44ec-be5c-7c859d7634f4",
+  "oracle_id": "7c0b6b53-4ddb-4bb5-8a26-0041b2006d3f",
+  "multiverse_ids": [],
+  "name": "Thopter",
+  "lang": "ja",
+  "released_at": "2024-02-09",
+  "uri": "https://api.scryfall.com/cards/c8178c17-826a-44ec-be5c-7c859d7634f4",
+  "scryfall_uri": "https://scryfall.com/card/wmkm/3/ja/thopter?utm_source=api",
+  "layout": "token",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/8/c8178c17-826a-44ec-be5c-7c859d7634f4.jpg?1742799437",
+    "normal": "https://cards.scryfall.io/normal/front/c/8/c8178c17-826a-44ec-be5c-7c859d7634f4.jpg?1742799437",
+    "large": "https://cards.scryfall.io/large/front/c/8/c8178c17-826a-44ec-be5c-7c859d7634f4.jpg?1742799437",
+    "png": "https://cards.scryfall.io/png/front/c/8/c8178c17-826a-44ec-be5c-7c859d7634f4.png?1742799437",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/8/c8178c17-826a-44ec-be5c-7c859d7634f4.jpg?1742799437",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/8/c8178c17-826a-44ec-be5c-7c859d7634f4.jpg?1742799437"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Artifact Creature — Thopter",
+  "oracle_text": "Flying",
+  "power": "1",
+  "toughness": "1",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "1c201a50-a11a-4c36-b6c6-a1c81e77c979",
+      "component": "combo_piece",
+      "name": "Thopter Assembly",
+      "type_line": "Artifact Creature — Thopter",
+      "uri": "https://api.scryfall.com/cards/1c201a50-a11a-4c36-b6c6-a1c81e77c979"
+    },
+    {
+      "object": "related_card",
+      "id": "e985dcdc-c830-4269-a663-6b134d6fda4f",
+      "component": "combo_piece",
+      "name": "Nimble Thopterist",
+      "type_line": "Creature — Vedalken Artificer",
+      "uri": "https://api.scryfall.com/cards/e985dcdc-c830-4269-a663-6b134d6fda4f"
+    },
+    {
+      "object": "related_card",
+      "id": "f160b1b4-93b1-4978-97cd-9a8bb33ea366",
+      "component": "combo_piece",
+      "name": "Foundry of the Consuls",
+      "type_line": "Land",
+      "uri": "https://api.scryfall.com/cards/f160b1b4-93b1-4978-97cd-9a8bb33ea366"
+    },
+    {
+      "object": "related_card",
+      "id": "0370d5b2-7e30-4a12-9e6c-32be386eb61a",
+      "component": "combo_piece",
+      "name": "Broadcast Rambler",
+      "type_line": "Artifact — Vehicle",
+      "uri": "https://api.scryfall.com/cards/0370d5b2-7e30-4a12-9e6c-32be386eb61a"
+    },
+    {
+      "object": "related_card",
+      "id": "4f408ce4-098f-4eff-912c-e972f95e81fa",
+      "component": "combo_piece",
+      "name": "Barbed Spike",
+      "type_line": "Artifact — Equipment",
+      "uri": "https://api.scryfall.com/cards/4f408ce4-098f-4eff-912c-e972f95e81fa"
+    },
+    {
+      "object": "related_card",
+      "id": "eabbb77e-dde8-4e0d-9a2e-a5b6d0fd6649",
+      "component": "combo_piece",
+      "name": "Access Denied",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/eabbb77e-dde8-4e0d-9a2e-a5b6d0fd6649"
+    },
+    {
+      "object": "related_card",
+      "id": "c01e61d7-1147-4d0d-8aad-c24dbbf0d26f",
+      "component": "combo_piece",
+      "name": "Experimental Aviator",
+      "type_line": "Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/c01e61d7-1147-4d0d-8aad-c24dbbf0d26f"
+    },
+    {
+      "object": "related_card",
+      "id": "d73ab5d2-86a1-4ce4-af4b-dbd017e4bf16",
+      "component": "combo_piece",
+      "name": "Thopter Spy Network",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/d73ab5d2-86a1-4ce4-af4b-dbd017e4bf16"
+    },
+    {
+      "object": "related_card",
+      "id": "7afa9088-f900-4fa2-bed8-39565365cd49",
+      "component": "combo_piece",
+      "name": "Rangers' Aetherhive",
+      "type_line": "Artifact — Vehicle",
+      "uri": "https://api.scryfall.com/cards/7afa9088-f900-4fa2-bed8-39565365cd49"
+    },
+    {
+      "object": "related_card",
+      "id": "ba941c74-e94f-42a1-bbe4-fa7aed8728ce",
+      "component": "combo_piece",
+      "name": "Thopter Engineer",
+      "type_line": "Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/ba941c74-e94f-42a1-bbe4-fa7aed8728ce"
+    },
+    {
+      "object": "related_card",
+      "id": "456b8de3-6d2e-442a-9270-e4f38323352a",
+      "component": "combo_piece",
+      "name": "Sai, Master Thopterist",
+      "type_line": "Legendary Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/456b8de3-6d2e-442a-9270-e4f38323352a"
+    },
+    {
+      "object": "related_card",
+      "id": "f84975c7-8e7b-4677-9019-4fdc3b878abb",
+      "component": "combo_piece",
+      "name": "Dovin, Grand Arbiter",
+      "type_line": "Legendary Planeswalker — Dovin",
+      "uri": "https://api.scryfall.com/cards/f84975c7-8e7b-4677-9019-4fdc3b878abb"
+    },
+    {
+      "object": "related_card",
+      "id": "3ac644a2-8976-4144-8576-01685927a347",
+      "component": "combo_piece",
+      "name": "Efficient Construction",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/3ac644a2-8976-4144-8576-01685927a347"
+    },
+    {
+      "object": "related_card",
+      "id": "ecbdc412-7332-4b99-aa87-cf02395f6ce8",
+      "component": "combo_piece",
+      "name": "Launch Mishap",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/ecbdc412-7332-4b99-aa87-cf02395f6ce8"
+    },
+    {
+      "object": "related_card",
+      "id": "9c0e1ce8-1694-4aef-a1f5-640077f3e7cd",
+      "component": "combo_piece",
+      "name": "Inspired Sphinx",
+      "type_line": "Creature — Sphinx",
+      "uri": "https://api.scryfall.com/cards/9c0e1ce8-1694-4aef-a1f5-640077f3e7cd"
+    },
+    {
+      "object": "related_card",
+      "id": "08280ace-a5d5-470e-b627-a3705590aad1",
+      "component": "combo_piece",
+      "name": "Pia Nalaar, Consul of Revival",
+      "type_line": "Legendary Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/08280ace-a5d5-470e-b627-a3705590aad1"
+    },
+    {
+      "object": "related_card",
+      "id": "afd9dc73-9c72-407d-8440-e262bb34add3",
+      "component": "combo_piece",
+      "name": "Saheeli, Filigree Master",
+      "type_line": "Legendary Planeswalker — Saheeli",
+      "uri": "https://api.scryfall.com/cards/afd9dc73-9c72-407d-8440-e262bb34add3"
+    },
+    {
+      "object": "related_card",
+      "id": "070bed4b-393e-4a3f-967c-ddaa4ebfef6f",
+      "component": "combo_piece",
+      "name": "Whirler Rogue",
+      "type_line": "Creature — Human Rogue Artificer",
+      "uri": "https://api.scryfall.com/cards/070bed4b-393e-4a3f-967c-ddaa4ebfef6f"
+    },
+    {
+      "object": "related_card",
+      "id": "0b80cf2a-7014-4b66-abb8-082555eddfcc",
+      "component": "combo_piece",
+      "name": "Ghirapur Gearcrafter",
+      "type_line": "Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/0b80cf2a-7014-4b66-abb8-082555eddfcc"
+    },
+    {
+      "object": "related_card",
+      "id": "e5e90c64-1cff-4c12-ba75-d28790ac8354",
+      "component": "combo_piece",
+      "name": "Pia Nalaar",
+      "type_line": "Legendary Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/e5e90c64-1cff-4c12-ba75-d28790ac8354"
+    },
+    {
+      "object": "related_card",
+      "id": "379ab79a-c284-413f-8005-d95699b520f2",
+      "component": "combo_piece",
+      "name": "Maverick Thopterist",
+      "type_line": "Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/379ab79a-c284-413f-8005-d95699b520f2"
+    },
+    {
+      "object": "related_card",
+      "id": "c0e70167-3c50-4dbd-a80c-82d793cc17df",
+      "component": "combo_piece",
+      "name": "Sweep the Skies",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/c0e70167-3c50-4dbd-a80c-82d793cc17df"
+    },
+    {
+      "object": "related_card",
+      "id": "c8178c17-826a-44ec-be5c-7c859d7634f4",
+      "component": "token",
+      "name": "Thopter",
+      "type_line": "Token Artifact Creature — Thopter",
+      "uri": "https://api.scryfall.com/cards/c8178c17-826a-44ec-be5c-7c859d7634f4"
+    },
+    {
+      "object": "related_card",
+      "id": "87ce9953-d192-404e-a2da-ed9eb0a3fd13",
+      "component": "combo_piece",
+      "name": "Haunt the Network",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/87ce9953-d192-404e-a2da-ed9eb0a3fd13"
+    },
+    {
+      "object": "related_card",
+      "id": "8ae52027-371b-44d5-8218-1da1d65e828c",
+      "component": "combo_piece",
+      "name": "Loyal Apprentice",
+      "type_line": "Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/8ae52027-371b-44d5-8218-1da1d65e828c"
+    },
+    {
+      "object": "related_card",
+      "id": "5651b07a-7541-40e7-abcb-32c04178a3b5",
+      "component": "combo_piece",
+      "name": "Pia and Kiran Nalaar",
+      "type_line": "Legendary Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/5651b07a-7541-40e7-abcb-32c04178a3b5"
+    },
+    {
+      "object": "related_card",
+      "id": "f8318465-320c-49ac-9378-227a8239945a",
+      "component": "combo_piece",
+      "name": "Fuss // Bother",
+      "type_line": "Instant // Sorcery",
+      "uri": "https://api.scryfall.com/cards/f8318465-320c-49ac-9378-227a8239945a"
+    },
+    {
+      "object": "related_card",
+      "id": "f13d05d0-ddc9-4385-9b5c-540a3e4dca8a",
+      "component": "combo_piece",
+      "name": "Thopter Fabricator",
+      "type_line": "Artifact — Vehicle",
+      "uri": "https://api.scryfall.com/cards/f13d05d0-ddc9-4385-9b5c-540a3e4dca8a"
+    },
+    {
+      "object": "related_card",
+      "id": "3325eaa5-e29b-4187-8598-15fd8899c21d",
+      "component": "combo_piece",
+      "name": "Fairgrounds Patrol",
+      "type_line": "Creature — Human Soldier",
+      "uri": "https://api.scryfall.com/cards/3325eaa5-e29b-4187-8598-15fd8899c21d"
+    },
+    {
+      "object": "related_card",
+      "id": "385f1462-10af-482b-bd75-d5b2ee856a84",
+      "component": "combo_piece",
+      "name": "Breya's Apprentice",
+      "type_line": "Artifact Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/385f1462-10af-482b-bd75-d5b2ee856a84"
+    },
+    {
+      "object": "related_card",
+      "id": "5716527b-de99-4190-aa3c-207f846e77ad",
+      "component": "combo_piece",
+      "name": "Stridehangar Automaton",
+      "type_line": "Artifact Creature — Construct",
+      "uri": "https://api.scryfall.com/cards/5716527b-de99-4190-aa3c-207f846e77ad"
+    },
+    {
+      "object": "related_card",
+      "id": "6d652f18-90eb-4229-84ad-0132495542be",
+      "component": "combo_piece",
+      "name": "Surveillance Monitor",
+      "type_line": "Creature — Vedalken Detective",
+      "uri": "https://api.scryfall.com/cards/6d652f18-90eb-4229-84ad-0132495542be"
+    },
+    {
+      "object": "related_card",
+      "id": "5fb11aa4-52c6-46d1-9558-c312ea626a18",
+      "component": "combo_piece",
+      "name": "Harried Dronesmith",
+      "type_line": "Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/5fb11aa4-52c6-46d1-9558-c312ea626a18"
+    },
+    {
+      "object": "related_card",
+      "id": "c742a726-882a-4e8f-a8d6-863b8b925125",
+      "component": "combo_piece",
+      "name": "Thopter Mechanic",
+      "type_line": "Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/c742a726-882a-4e8f-a8d6-863b8b925125"
+    },
+    {
+      "object": "related_card",
+      "id": "b96e49d3-e10f-481f-9ae7-5c3df227b043",
+      "component": "combo_piece",
+      "name": "Retrofitter Foundry",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/b96e49d3-e10f-481f-9ae7-5c3df227b043"
+    },
+    {
+      "object": "related_card",
+      "id": "a43079d9-0b10-4106-acdb-d7011de4d99b",
+      "component": "combo_piece",
+      "name": "Aviation Pioneer",
+      "type_line": "Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/a43079d9-0b10-4106-acdb-d7011de4d99b"
+    },
+    {
+      "object": "related_card",
+      "id": "f92f4168-143b-4226-aeaf-5b4dc566c4e7",
+      "component": "combo_piece",
+      "name": "Aspiring Aeronaut",
+      "type_line": "Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/f92f4168-143b-4226-aeaf-5b4dc566c4e7"
+    },
+    {
+      "object": "related_card",
+      "id": "d18568a0-3a1c-4627-b0c1-357f95897d01",
+      "component": "combo_piece",
+      "name": "Thopter Shop",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/d18568a0-3a1c-4627-b0c1-357f95897d01"
+    },
+    {
+      "object": "related_card",
+      "id": "f7c079b5-4e2d-4a61-8b89-d2e4aea1b3b2",
+      "component": "combo_piece",
+      "name": "Camera Launcher",
+      "type_line": "Artifact Creature — Construct",
+      "uri": "https://api.scryfall.com/cards/f7c079b5-4e2d-4a61-8b89-d2e4aea1b3b2"
+    },
+    {
+      "object": "related_card",
+      "id": "dcd8f06e-5eab-4d5d-a484-1a2635d957d3",
+      "component": "combo_piece",
+      "name": "Etherium Spinner",
+      "type_line": "Artifact Creature — Human Wizard",
+      "uri": "https://api.scryfall.com/cards/dcd8f06e-5eab-4d5d-a484-1a2635d957d3"
+    },
+    {
+      "object": "related_card",
+      "id": "832651e0-7e34-463b-ae32-05fcd37961cc",
+      "component": "combo_piece",
+      "name": "Invasion of Kaladesh // Aetherwing, Golden-Scale Flagship",
+      "type_line": "Battle — Siege // Legendary Artifact — Vehicle",
+      "uri": "https://api.scryfall.com/cards/832651e0-7e34-463b-ae32-05fcd37961cc"
+    },
+    {
+      "object": "related_card",
+      "id": "31d4e2ac-3276-41aa-aef6-f18579a24996",
+      "component": "combo_piece",
+      "name": "Whirlermaker",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/31d4e2ac-3276-41aa-aef6-f18579a24996"
+    },
+    {
+      "object": "related_card",
+      "id": "899e44d2-25f3-436d-8f1a-29697c1281f7",
+      "component": "combo_piece",
+      "name": "Depose // Deploy",
+      "type_line": "Instant // Instant",
+      "uri": "https://api.scryfall.com/cards/899e44d2-25f3-436d-8f1a-29697c1281f7"
+    },
+    {
+      "object": "related_card",
+      "id": "deb2d37d-216e-46f5-834b-29205c6ec551",
+      "component": "combo_piece",
+      "name": "Gadget Technician",
+      "type_line": "Creature — Goblin Artificer",
+      "uri": "https://api.scryfall.com/cards/deb2d37d-216e-46f5-834b-29205c6ec551"
+    },
+    {
+      "object": "related_card",
+      "id": "504d0d53-604a-4ecb-8329-7eaead09f848",
+      "component": "combo_piece",
+      "name": "Hangarback Walker",
+      "type_line": "Artifact Creature — Construct",
+      "uri": "https://api.scryfall.com/cards/504d0d53-604a-4ecb-8329-7eaead09f848"
+    },
+    {
+      "object": "related_card",
+      "id": "222fc512-86fa-4b3b-bc93-8353b3a4c6c1",
+      "component": "combo_piece",
+      "name": "Tezzeret, Artifice Master",
+      "type_line": "Legendary Planeswalker — Tezzeret",
+      "uri": "https://api.scryfall.com/cards/222fc512-86fa-4b3b-bc93-8353b3a4c6c1"
+    },
+    {
+      "object": "related_card",
+      "id": "b32adc32-1a9a-452d-ac71-c460c033e642",
+      "component": "combo_piece",
+      "name": "Detective's Satchel",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/b32adc32-1a9a-452d-ac71-c460c033e642"
+    },
+    {
+      "object": "related_card",
+      "id": "bd5cf0b2-69da-4b21-905e-ef4dff132039",
+      "component": "combo_piece",
+      "name": "Thopter Squadron",
+      "type_line": "Artifact Creature — Thopter",
+      "uri": "https://api.scryfall.com/cards/bd5cf0b2-69da-4b21-905e-ef4dff132039"
+    },
+    {
+      "object": "related_card",
+      "id": "90e85218-12b3-4df2-b242-a073961dfa97",
+      "component": "combo_piece",
+      "name": "Filigree Crawler",
+      "type_line": "Artifact Creature — Insect",
+      "uri": "https://api.scryfall.com/cards/90e85218-12b3-4df2-b242-a073961dfa97"
+    },
+    {
+      "object": "related_card",
+      "id": "dc8f3cec-3214-4552-858b-703aab838357",
+      "component": "combo_piece",
+      "name": "Whirler Virtuoso",
+      "type_line": "Creature — Vedalken Artificer",
+      "uri": "https://api.scryfall.com/cards/dc8f3cec-3214-4552-858b-703aab838357"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d37543a8-f7f9-4d77-a2dc-0c5d36667187",
+  "set": "wmkm",
+  "set_name": "MKM Japanese Promo Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/d37543a8-f7f9-4d77-a2dc-0c5d36667187",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awmkm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/wmkm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c8178c17-826a-44ec-be5c-7c859d7634f4/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7c0b6b53-4ddb-4bb5-8a26-0041b2006d3f&unique=prints",
+  "collector_number": "3",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Naochika Morishita",
+  "artist_ids": [
+    "da74c7c3-5bd0-4c10-921b-fefc13f66af5"
+  ],
+  "illustration_id": "ecbc2d02-eefc-46b0-8dcb-6e52353c408e",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "plastic"
+  ],
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThopter",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThopter",
+    "edhrec": "https://edhrec.com/route/?cc=Thopter"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DThopter%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Thopter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Thopter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

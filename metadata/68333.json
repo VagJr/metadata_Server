@@ -1,0 +1,156 @@
+{
+  "object": "card",
+  "id": "a1864b99-6893-4e4d-94de-641837c05da3",
+  "oracle_id": "30bb01c1-9253-4251-80e7-fb8236b3d858",
+  "multiverse_ids": [
+    690422
+  ],
+  "mtgo_id": 137169,
+  "tcgplayer_id": 614304,
+  "cardmarket_id": 807311,
+  "name": "Chandra, Spark Hunter",
+  "lang": "en",
+  "released_at": "2025-02-14",
+  "uri": "https://api.scryfall.com/cards/a1864b99-6893-4e4d-94de-641837c05da3",
+  "scryfall_uri": "https://scryfall.com/card/dft/401/chandra-spark-hunter?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/1/a1864b99-6893-4e4d-94de-641837c05da3.jpg?1739042203",
+    "normal": "https://cards.scryfall.io/normal/front/a/1/a1864b99-6893-4e4d-94de-641837c05da3.jpg?1739042203",
+    "large": "https://cards.scryfall.io/large/front/a/1/a1864b99-6893-4e4d-94de-641837c05da3.jpg?1739042203",
+    "png": "https://cards.scryfall.io/png/front/a/1/a1864b99-6893-4e4d-94de-641837c05da3.png?1739042203",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/1/a1864b99-6893-4e4d-94de-641837c05da3.jpg?1739042203",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/1/a1864b99-6893-4e4d-94de-641837c05da3.jpg?1739042203"
+  },
+  "mana_cost": "{3}{R}",
+  "cmc": 4,
+  "type_line": "Legendary Planeswalker — Chandra",
+  "oracle_text": "At the beginning of combat on your turn, choose up to one target Vehicle you control. Until end of turn, it becomes an artifact creature and gains haste.\n+2: You may sacrifice an artifact or discard a card. If you do, draw a card.\n0: Create a 3/2 colorless Vehicle artifact token with crew 1.\n−7: You get an emblem with \"Whenever an artifact you control enters, this emblem deals 3 damage to any target.\"",
+  "loyalty": "4",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "625b175a-b63f-46d1-a7e1-95dfc7c03e3f",
+      "component": "combo_piece",
+      "name": "Chandra, Spark Hunter",
+      "type_line": "Legendary Planeswalker — Chandra",
+      "uri": "https://api.scryfall.com/cards/625b175a-b63f-46d1-a7e1-95dfc7c03e3f"
+    },
+    {
+      "object": "related_card",
+      "id": "a3803365-ed78-409f-8ca5-7aa3634faf76",
+      "component": "token",
+      "name": "Vehicle",
+      "type_line": "Token Artifact — Vehicle",
+      "uri": "https://api.scryfall.com/cards/a3803365-ed78-409f-8ca5-7aa3634faf76"
+    },
+    {
+      "object": "related_card",
+      "id": "343d2622-a5a6-4195-ab41-c6bd17e334a2",
+      "component": "combo_piece",
+      "name": "Chandra, Spark Hunter Emblem",
+      "type_line": "Emblem",
+      "uri": "https://api.scryfall.com/cards/343d2622-a5a6-4195-ab41-c6bd17e334a2"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "23464cc2-a69c-427d-b8a7-08e5d80235d7",
+  "set": "dft",
+  "set_name": "Aetherdrift",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/23464cc2-a69c-427d-b8a7-08e5d80235d7",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adft&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dft?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a1864b99-6893-4e4d-94de-641837c05da3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A30bb01c1-9253-4251-80e7-fb8236b3d858&unique=prints",
+  "collector_number": "401",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "jbstyle.",
+  "artist_ids": [
+    "6fa5e431-9001-4d23-b3e3-1c6a213eb733"
+  ],
+  "illustration_id": "358754be-41a7-4be1-9c2e-122ad51e0ca0",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 9416,
+  "prices": {
+    "usd": null,
+    "usd_foil": "13.09",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "11.04",
+    "tix": "0.30"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=690422&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DChandra%252C%2BSpark%2BHunter",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DChandra%252C%2BSpark%2BHunter",
+    "edhrec": "https://edhrec.com/route/?cc=Chandra%2C+Spark+Hunter"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F614304%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=807311&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/137169?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

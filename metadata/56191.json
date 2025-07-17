@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "85159701-bc58-4d40-9c10-84cbe8099b75",
+  "oracle_id": "fa3e28b1-131c-4223-81e0-18dfbab22c26",
+  "multiverse_ids": [
+    640575
+  ],
+  "mtgo_id": 118958,
+  "tcgplayer_id": 525801,
+  "cardmarket_id": 743631,
+  "name": "Prismari Command",
+  "lang": "en",
+  "released_at": "2023-11-17",
+  "uri": "https://api.scryfall.com/cards/85159701-bc58-4d40-9c10-84cbe8099b75",
+  "scryfall_uri": "https://scryfall.com/card/lcc/279/prismari-command?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/5/85159701-bc58-4d40-9c10-84cbe8099b75.jpg?1698988454",
+    "normal": "https://cards.scryfall.io/normal/front/8/5/85159701-bc58-4d40-9c10-84cbe8099b75.jpg?1698988454",
+    "large": "https://cards.scryfall.io/large/front/8/5/85159701-bc58-4d40-9c10-84cbe8099b75.jpg?1698988454",
+    "png": "https://cards.scryfall.io/png/front/8/5/85159701-bc58-4d40-9c10-84cbe8099b75.png?1698988454",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/5/85159701-bc58-4d40-9c10-84cbe8099b75.jpg?1698988454",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/5/85159701-bc58-4d40-9c10-84cbe8099b75.jpg?1698988454"
+  },
+  "mana_cost": "{1}{U}{R}",
+  "cmc": 3,
+  "type_line": "Instant",
+  "oracle_text": "Choose two —\n• Prismari Command deals 2 damage to any target.\n• Target player draws two cards, then discards two cards.\n• Target player creates a Treasure token.\n• Destroy target artifact.",
+  "colors": [
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [
+    "Treasure"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "3dfaedeb-f8ec-4f0e-b243-c850770a86f2",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/3dfaedeb-f8ec-4f0e-b243-c850770a86f2"
+    },
+    {
+      "object": "related_card",
+      "id": "85159701-bc58-4d40-9c10-84cbe8099b75",
+      "component": "combo_piece",
+      "name": "Prismari Command",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/85159701-bc58-4d40-9c10-84cbe8099b75"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d253edc3-5bc7-4cf1-9446-a8540dedffa5",
+  "set": "lcc",
+  "set_name": "The Lost Caverns of Ixalan Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d253edc3-5bc7-4cf1-9446-a8540dedffa5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alcc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/lcc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/85159701-bc58-4d40-9c10-84cbe8099b75/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afa3e28b1-131c-4223-81e0-18dfbab22c26&unique=prints",
+  "collector_number": "279",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Johannes Voss",
+  "artist_ids": [
+    "3593dd7e-c547-4a32-81cd-7da725f60118"
+  ],
+  "illustration_id": "85385d8b-21b2-4c64-91d9-c9cf8b00ba8a",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1261,
+  "prices": {
+    "usd": "0.49",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.65",
+    "eur_foil": null,
+    "tix": "1.64"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=640575&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPrismari%2BCommand",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPrismari%2BCommand",
+    "edhrec": "https://edhrec.com/route/?cc=Prismari+Command"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F525801%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=743631&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/118958?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

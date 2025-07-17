@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "94d33649-9532-4820-b057-c7c5fec832dc",
+  "oracle_id": "df1a8846-b4da-4e9b-8cf3-ee687e4c606b",
+  "multiverse_ids": [
+    547988
+  ],
+  "arena_id": 75760,
+  "name": "Servant of the Conduit",
+  "lang": "en",
+  "released_at": "2020-11-12",
+  "uri": "https://api.scryfall.com/cards/94d33649-9532-4820-b057-c7c5fec832dc",
+  "scryfall_uri": "https://scryfall.com/card/klr/182/servant-of-the-conduit?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/4/94d33649-9532-4820-b057-c7c5fec832dc.jpg?1605328973",
+    "normal": "https://cards.scryfall.io/normal/front/9/4/94d33649-9532-4820-b057-c7c5fec832dc.jpg?1605328973",
+    "large": "https://cards.scryfall.io/large/front/9/4/94d33649-9532-4820-b057-c7c5fec832dc.jpg?1605328973",
+    "png": "https://cards.scryfall.io/png/front/9/4/94d33649-9532-4820-b057-c7c5fec832dc.png?1605328973",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/4/94d33649-9532-4820-b057-c7c5fec832dc.jpg?1605328973",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/4/94d33649-9532-4820-b057-c7c5fec832dc.jpg?1605328973"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2,
+  "type_line": "Creature — Elf Druid",
+  "oracle_text": "When this creature enters, you get {E}{E} (two energy counters).\n{T}, Pay {E}: Add one mana of any color.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6a2c1fa5-deed-48ba-afe4-6c8ea8d9135e",
+      "component": "combo_piece",
+      "name": "Energy Reserve",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/6a2c1fa5-deed-48ba-afe4-6c8ea8d9135e"
+    },
+    {
+      "object": "related_card",
+      "id": "94d33649-9532-4820-b057-c7c5fec832dc",
+      "component": "combo_piece",
+      "name": "Servant of the Conduit",
+      "type_line": "Creature — Elf Druid",
+      "uri": "https://api.scryfall.com/cards/94d33649-9532-4820-b057-c7c5fec832dc"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cff93939-c724-4ed0-9367-e1277d39ba70",
+  "set": "klr",
+  "set_name": "Kaladesh Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cff93939-c724-4ed0-9367-e1277d39ba70",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aklr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/klr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/94d33649-9532-4820-b057-c7c5fec832dc/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adf1a8846-b4da-4e9b-8cf3-ee687e4c606b&unique=prints",
+  "collector_number": "182",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Magali Villeneuve",
+  "artist_ids": [
+    "9e6a55ae-be4d-4c23-a2a5-135737ffd879"
+  ],
+  "illustration_id": "d5607b18-bdf8-47ae-8466-af3feae1a8b9",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 10534,
+  "penny_rank": 1376,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547988&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DServant%2Bof%2Bthe%2BConduit",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DServant%2Bof%2Bthe%2BConduit",
+    "edhrec": "https://edhrec.com/route/?cc=Servant+of+the+Conduit"
+  }
+}

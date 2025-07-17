@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "31764d29-6f32-40b3-b7a6-2e3c12ea3777",
+  "oracle_id": "bd47398d-da35-4a09-8754-771af91b14f4",
+  "multiverse_ids": [
+    534712
+  ],
+  "arena_id": 79338,
+  "name": "Manaweft Sliver",
+  "lang": "en",
+  "released_at": "2021-08-26",
+  "uri": "https://api.scryfall.com/cards/31764d29-6f32-40b3-b7a6-2e3c12ea3777",
+  "scryfall_uri": "https://scryfall.com/card/j21/601/manaweft-sliver?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/1/31764d29-6f32-40b3-b7a6-2e3c12ea3777.jpg?1630250583",
+    "normal": "https://cards.scryfall.io/normal/front/3/1/31764d29-6f32-40b3-b7a6-2e3c12ea3777.jpg?1630250583",
+    "large": "https://cards.scryfall.io/large/front/3/1/31764d29-6f32-40b3-b7a6-2e3c12ea3777.jpg?1630250583",
+    "png": "https://cards.scryfall.io/png/front/3/1/31764d29-6f32-40b3-b7a6-2e3c12ea3777.png?1630250583",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/1/31764d29-6f32-40b3-b7a6-2e3c12ea3777.jpg?1630250583",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/1/31764d29-6f32-40b3-b7a6-2e3c12ea3777.jpg?1630250583"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2,
+  "type_line": "Creature — Sliver",
+  "oracle_text": "Sliver creatures you control have \"{T}: Add one mana of any color.\"",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e1cc23bd-379b-4f2c-a4e0-83fc1e7be023",
+  "set": "j21",
+  "set_name": "Jumpstart: Historic Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/e1cc23bd-379b-4f2c-a4e0-83fc1e7be023",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj21&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j21?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/31764d29-6f32-40b3-b7a6-2e3c12ea3777/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abd47398d-da35-4a09-8754-771af91b14f4&unique=prints",
+  "collector_number": "601",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Trevor Claxton",
+  "artist_ids": [
+    "35d39e75-5d6c-4318-9136-38cdfff34a05"
+  ],
+  "illustration_id": "98b69f1d-5bd0-4746-bc05-038006907b6d",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2787,
+  "penny_rank": 4450,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534712&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DManaweft%2BSliver",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DManaweft%2BSliver",
+    "edhrec": "https://edhrec.com/route/?cc=Manaweft+Sliver"
+  }
+}

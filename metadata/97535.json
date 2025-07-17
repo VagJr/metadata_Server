@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "e6748788-496c-42b4-9f68-e0bd5692b511",
+  "oracle_id": "8b0e2382-dd91-42e6-aba3-5e8a15418a49",
+  "multiverse_ids": [],
+  "tcgplayer_id": 493986,
+  "cardmarket_id": 710699,
+  "name": "Serra the Benevolent",
+  "lang": "en",
+  "released_at": "2023-04-23",
+  "uri": "https://api.scryfall.com/cards/e6748788-496c-42b4-9f68-e0bd5692b511",
+  "scryfall_uri": "https://scryfall.com/card/sld/1252/serra-the-benevolent?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/6/e6748788-496c-42b4-9f68-e0bd5692b511.jpg?1682341671",
+    "normal": "https://cards.scryfall.io/normal/front/e/6/e6748788-496c-42b4-9f68-e0bd5692b511.jpg?1682341671",
+    "large": "https://cards.scryfall.io/large/front/e/6/e6748788-496c-42b4-9f68-e0bd5692b511.jpg?1682341671",
+    "png": "https://cards.scryfall.io/png/front/e/6/e6748788-496c-42b4-9f68-e0bd5692b511.png?1682341671",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/6/e6748788-496c-42b4-9f68-e0bd5692b511.jpg?1682341671",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/6/e6748788-496c-42b4-9f68-e0bd5692b511.jpg?1682341671"
+  },
+  "mana_cost": "{2}{W}{W}",
+  "cmc": 4,
+  "type_line": "Legendary Planeswalker — Serra",
+  "oracle_text": "+2: Creatures you control with flying get +1/+1 until end of turn.\n−3: Create a 4/4 white Angel creature token with flying and vigilance.\n−6: You get an emblem with \"If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.\"",
+  "loyalty": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "bb2b69c0-ba32-4db1-bf02-230b6d4802aa",
+      "component": "token",
+      "name": "Angel",
+      "type_line": "Token Creature — Angel",
+      "uri": "https://api.scryfall.com/cards/bb2b69c0-ba32-4db1-bf02-230b6d4802aa"
+    },
+    {
+      "object": "related_card",
+      "id": "87dbb0b0-d898-491a-8ed9-efefca04e6e6",
+      "component": "combo_piece",
+      "name": "Serra the Benevolent Emblem",
+      "type_line": "Emblem — Serra",
+      "uri": "https://api.scryfall.com/cards/87dbb0b0-d898-491a-8ed9-efefca04e6e6"
+    },
+    {
+      "object": "related_card",
+      "id": "e6748788-496c-42b4-9f68-e0bd5692b511",
+      "component": "combo_piece",
+      "name": "Serra the Benevolent",
+      "type_line": "Legendary Planeswalker — Serra",
+      "uri": "https://api.scryfall.com/cards/e6748788-496c-42b4-9f68-e0bd5692b511"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e6748788-496c-42b4-9f68-e0bd5692b511/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8b0e2382-dd91-42e6-aba3-5e8a15418a49&unique=prints",
+  "collector_number": "1252",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Rebecca Guay",
+  "artist_ids": [
+    "f8f662fa-d597-46a3-afb2-91d6e13243e2"
+  ],
+  "illustration_id": "660bd3ea-91a6-4a74-8a5e-bd7879e16a7b",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5293,
+  "penny_rank": 3287,
+  "prices": {
+    "usd": "9.02",
+    "usd_foil": "8.72",
+    "usd_etched": null,
+    "eur": "4.70",
+    "eur_foil": "5.26",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSerra%2Bthe%2BBenevolent",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSerra%2Bthe%2BBenevolent",
+    "edhrec": "https://edhrec.com/route/?cc=Serra+the+Benevolent"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F493986%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=710699&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Serra+the+Benevolent&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

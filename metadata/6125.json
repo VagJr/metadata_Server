@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "0dfbdd8f-f336-4945-96d0-2c7246dec7ca",
+  "oracle_id": "e4b1ef6a-6f05-472e-aaed-1c24dd6605c7",
+  "multiverse_ids": [],
+  "arena_id": 94680,
+  "name": "Far // Away",
+  "lang": "en",
+  "released_at": "2024-12-10",
+  "uri": "https://api.scryfall.com/cards/0dfbdd8f-f336-4945-96d0-2c7246dec7ca",
+  "scryfall_uri": "https://scryfall.com/card/pio/388/far-away?utm_source=api",
+  "layout": "split",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/d/0dfbdd8f-f336-4945-96d0-2c7246dec7ca.jpg?1733253134",
+    "normal": "https://cards.scryfall.io/normal/front/0/d/0dfbdd8f-f336-4945-96d0-2c7246dec7ca.jpg?1733253134",
+    "large": "https://cards.scryfall.io/large/front/0/d/0dfbdd8f-f336-4945-96d0-2c7246dec7ca.jpg?1733253134",
+    "png": "https://cards.scryfall.io/png/front/0/d/0dfbdd8f-f336-4945-96d0-2c7246dec7ca.png?1733253134",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/d/0dfbdd8f-f336-4945-96d0-2c7246dec7ca.jpg?1733253134",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/d/0dfbdd8f-f336-4945-96d0-2c7246dec7ca.jpg?1733253134"
+  },
+  "mana_cost": "{1}{U} // {2}{B}",
+  "cmc": 5,
+  "type_line": "Instant // Instant",
+  "colors": [
+    "B",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [
+    "Fuse"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Far",
+      "mana_cost": "{1}{U}",
+      "type_line": "Instant",
+      "oracle_text": "Return target creature to its owner's hand.\nFuse (You may cast one or both halves of this card from your hand.)",
+      "artist": "Greg Staples",
+      "artist_id": "93d65564-bf00-447b-8406-e2031f03b6b1",
+      "illustration_id": "008f298b-1493-4269-999b-5af3233858e0"
+    },
+    {
+      "object": "card_face",
+      "name": "Away",
+      "mana_cost": "{2}{B}",
+      "type_line": "Instant",
+      "oracle_text": "Target player sacrifices a creature of their choice.\nFuse (You may cast one or both halves of this card from your hand.)",
+      "artist": "Greg Staples",
+      "artist_id": "93d65564-bf00-447b-8406-e2031f03b6b1"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "713c226b-d4d9-46e1-b9c9-a04689d90ff6",
+  "set": "pio",
+  "set_name": "Pioneer Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/713c226b-d4d9-46e1-b9c9-a04689d90ff6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apio&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pio?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0dfbdd8f-f336-4945-96d0-2c7246dec7ca/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae4b1ef6a-6f05-472e-aaed-1c24dd6605c7&unique=prints",
+  "collector_number": "388",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Greg Staples",
+  "artist_ids": [
+    "93d65564-bf00-447b-8406-e2031f03b6b1"
+  ],
+  "illustration_id": "008f298b-1493-4269-999b-5af3233858e0",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 13307,
+  "penny_rank": 1866,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFar%2B%252F%252F%2BAway",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFar%2B%252F%252F%2BAway",
+    "edhrec": "https://edhrec.com/route/?cc=Far+%2F%2F+Away"
+  }
+}

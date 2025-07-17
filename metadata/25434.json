@@ -1,0 +1,149 @@
+{
+  "object": "card",
+  "id": "3c15a04e-b0a7-4560-a838-94213dbb2336",
+  "oracle_id": "d9c4996a-35eb-4d38-9680-57d9d039ed82",
+  "multiverse_ids": [],
+  "tcgplayer_id": 614721,
+  "cardmarket_id": 808255,
+  "name": "Cursecloth Wrappings",
+  "lang": "en",
+  "released_at": "2025-02-14",
+  "uri": "https://api.scryfall.com/cards/3c15a04e-b0a7-4560-a838-94213dbb2336",
+  "scryfall_uri": "https://scryfall.com/card/dft/410/cursecloth-wrappings?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/c/3c15a04e-b0a7-4560-a838-94213dbb2336.jpg?1738357692",
+    "normal": "https://cards.scryfall.io/normal/front/3/c/3c15a04e-b0a7-4560-a838-94213dbb2336.jpg?1738357692",
+    "large": "https://cards.scryfall.io/large/front/3/c/3c15a04e-b0a7-4560-a838-94213dbb2336.jpg?1738357692",
+    "png": "https://cards.scryfall.io/png/front/3/c/3c15a04e-b0a7-4560-a838-94213dbb2336.png?1738357692",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/c/3c15a04e-b0a7-4560-a838-94213dbb2336.jpg?1738357692",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/c/3c15a04e-b0a7-4560-a838-94213dbb2336.jpg?1738357692"
+  },
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4,
+  "type_line": "Artifact",
+  "oracle_text": "Zombies you control get +1/+1.\n{T}: Target creature card in your graveyard gains embalm until end of turn. The embalm cost is equal to its mana cost. (Exile that card and pay its embalm cost: Create a token that's a copy of it, except it's a white Zombie in addition to its other types and has no mana cost. Embalm only as a sorcery.)",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "09d6521e-438a-4d16-992f-f2ab27b26ce4",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/09d6521e-438a-4d16-992f-f2ab27b26ce4"
+    },
+    {
+      "object": "related_card",
+      "id": "2b283c18-abe7-4b73-8532-dd76a85fabd6",
+      "component": "combo_piece",
+      "name": "Cursecloth Wrappings",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/2b283c18-abe7-4b73-8532-dd76a85fabd6"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "23464cc2-a69c-427d-b8a7-08e5d80235d7",
+  "set": "dft",
+  "set_name": "Aetherdrift",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/23464cc2-a69c-427d-b8a7-08e5d80235d7",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adft&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dft?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3c15a04e-b0a7-4560-a838-94213dbb2336/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad9c4996a-35eb-4d38-9680-57d9d039ed82&unique=prints",
+  "collector_number": "410",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "BARON UEDA",
+  "artist_ids": [
+    "8f411416-45bf-4d46-9eca-bb2c36edd579"
+  ],
+  "illustration_id": "8cbe1848-1d4e-4b0c-8fd3-862372dc7dfe",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "fracturefoil",
+    "boosterfun"
+  ],
+  "edhrec_rank": 9766,
+  "preview": {
+    "source": "Gameshub",
+    "source_uri": "https://www.gameshub.com/news/features/mtg-aetherdrift-card-preview-cursecloth-wrappings-2649420/",
+    "previewed_at": "2025-01-23"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "77.97",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "11.34",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCursecloth%2BWrappings",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCursecloth%2BWrappings",
+    "edhrec": "https://edhrec.com/route/?cc=Cursecloth+Wrappings"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F614721%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=808255&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cursecloth+Wrappings&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "4f67aa6c-6dce-47f7-9a8e-b8970b3c121e",
+  "oracle_id": "b12cbda1-ac09-49eb-96b3-a4df27bc37ea",
+  "multiverse_ids": [],
+  "tcgplayer_id": 625721,
+  "name": "Voice of Victory",
+  "lang": "en",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/4f67aa6c-6dce-47f7-9a8e-b8970b3c121e",
+  "scryfall_uri": "https://scryfall.com/card/ptdm/33p/voice-of-victory?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/f/4f67aa6c-6dce-47f7-9a8e-b8970b3c121e.jpg?1744666551",
+    "normal": "https://cards.scryfall.io/normal/front/4/f/4f67aa6c-6dce-47f7-9a8e-b8970b3c121e.jpg?1744666551",
+    "large": "https://cards.scryfall.io/large/front/4/f/4f67aa6c-6dce-47f7-9a8e-b8970b3c121e.jpg?1744666551",
+    "png": "https://cards.scryfall.io/png/front/4/f/4f67aa6c-6dce-47f7-9a8e-b8970b3c121e.png?1744666551",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/f/4f67aa6c-6dce-47f7-9a8e-b8970b3c121e.jpg?1744666551",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/f/4f67aa6c-6dce-47f7-9a8e-b8970b3c121e.jpg?1744666551"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Creature — Human Bard",
+  "oracle_text": "Mobilize 2 (Whenever this creature attacks, create two tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)\nYour opponents can't cast spells during your turn.",
+  "power": "1",
+  "toughness": "3",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Mobilize"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "7edc0515-a130-45a7-aa09-0e23bba41587",
+      "component": "token",
+      "name": "Warrior",
+      "type_line": "Token Creature — Warrior",
+      "uri": "https://api.scryfall.com/cards/7edc0515-a130-45a7-aa09-0e23bba41587"
+    },
+    {
+      "object": "related_card",
+      "id": "233ce7c0-85bb-4875-8750-5f3287979201",
+      "component": "combo_piece",
+      "name": "Voice of Victory",
+      "type_line": "Creature — Human Bard",
+      "uri": "https://api.scryfall.com/cards/233ce7c0-85bb-4875-8750-5f3287979201"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "f17bfc1b-a0dc-45df-9585-84d8d433124f",
+  "set": "ptdm",
+  "set_name": "Tarkir: Dragonstorm Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/f17bfc1b-a0dc-45df-9585-84d8d433124f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aptdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ptdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4f67aa6c-6dce-47f7-9a8e-b8970b3c121e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab12cbda1-ac09-49eb-96b3-a4df27bc37ea&unique=prints",
+  "collector_number": "33p",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "mardu",
+  "flavor_text": "\"Come crackling spear, come beating wing! Come cavalier, come taut bowstring!\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Joshua Cairos",
+  "artist_ids": [
+    "2b8abf3a-262e-492d-8ee5-5f33e09cc679"
+  ],
+  "illustration_id": "5ac5cdd7-ca4a-4f94-ae75-ece9d48c5815",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 1586,
+  "prices": {
+    "usd": "9.45",
+    "usd_foil": "14.39",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVoice%2Bof%2BVictory",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVoice%2Bof%2BVictory",
+    "edhrec": "https://edhrec.com/route/?cc=Voice+of+Victory"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F625721%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Voice+of+Victory&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Voice+of+Victory&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

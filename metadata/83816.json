@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "c5f4583d-a532-4c67-ad50-138f35fa7490",
+  "oracle_id": "d1b815d1-2848-40d4-a555-66822d1becbc",
+  "multiverse_ids": [],
+  "mtgo_id": 99625,
+  "arena_id": 77592,
+  "tcgplayer_id": 235138,
+  "tcgplayer_etched_id": 235137,
+  "cardmarket_id": 557122,
+  "name": "Channel",
+  "printed_name": "チャネル",
+  "lang": "ja",
+  "released_at": "2021-04-23",
+  "uri": "https://api.scryfall.com/cards/c5f4583d-a532-4c67-ad50-138f35fa7490",
+  "scryfall_uri": "https://scryfall.com/card/sta/113/ja/%E3%83%81%E3%83%A3%E3%83%8D%E3%83%AB-(channel)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/5/c5f4583d-a532-4c67-ad50-138f35fa7490.jpg?1638110526",
+    "normal": "https://cards.scryfall.io/normal/front/c/5/c5f4583d-a532-4c67-ad50-138f35fa7490.jpg?1638110526",
+    "large": "https://cards.scryfall.io/large/front/c/5/c5f4583d-a532-4c67-ad50-138f35fa7490.jpg?1638110526",
+    "png": "https://cards.scryfall.io/png/front/c/5/c5f4583d-a532-4c67-ad50-138f35fa7490.png?1638110526",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/5/c5f4583d-a532-4c67-ad50-138f35fa7490.jpg?1638110526",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/5/c5f4583d-a532-4c67-ad50-138f35fa7490.jpg?1638110526"
+  },
+  "mana_cost": "{G}{G}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "printed_type_line": "ソーサリー",
+  "oracle_text": "Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {C}.",
+  "printed_text": "ターン終了時まで、あなたがマナ能力を起動できるときならいつでも、あなたは「１点のライフを支払い、{C}を加える。」を選んでもよい。",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "banned",
+    "timeless": "restricted",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "banned",
+    "pauper": "not_legal",
+    "vintage": "restricted",
+    "penny": "not_legal",
+    "commander": "banned",
+    "oathbreaker": "banned",
+    "standardbrawl": "not_legal",
+    "brawl": "banned",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "banned",
+    "oldschool": "not_legal",
+    "premodern": "banned",
+    "predh": "banned"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil",
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5064a720-907f-4cb6-a425-766dc1dd7374",
+  "set": "sta",
+  "set_name": "Strixhaven Mystical Archive",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/5064a720-907f-4cb6-a425-766dc1dd7374",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asta&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sta?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c5f4583d-a532-4c67-ad50-138f35fa7490/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad1b815d1-2848-40d4-a555-66822d1becbc&unique=prints",
+  "collector_number": "113",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "「呼吸しているかぎり、お前にはまだ貢献できるものがある。」\n—-ウィザーブルームの学部長、ヴァレンティン",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Shie Nanahara",
+  "artist_ids": [
+    "723fd839-62d3-4d12-9a0b-60e144923a4a"
+  ],
+  "illustration_id": "72367f32-b896-44a5-ae51-21640e4045b4",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "penny_rank": 65,
+  "prices": {
+    "usd": "4.71",
+    "usd_foil": "12.99",
+    "usd_etched": "4.75",
+    "eur": "7.59",
+    "eur_foil": "17.83",
+    "tix": "0.27"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DChannel",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DChannel",
+    "edhrec": "https://edhrec.com/route/?cc=Channel"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F235138%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=557122&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/99625?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

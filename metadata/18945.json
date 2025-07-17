@@ -1,0 +1,173 @@
+{
+  "object": "card",
+  "id": "2c983363-f900-45f5-b906-d56b91d5c260",
+  "oracle_id": "85e797de-da27-4cd5-8fa4-4aef948988b2",
+  "multiverse_ids": [
+    606675
+  ],
+  "arena_id": 86100,
+  "name": "Docent of Perfection // Final Iteration",
+  "lang": "en",
+  "released_at": "2023-03-21",
+  "uri": "https://api.scryfall.com/cards/2c983363-f900-45f5-b906-d56b91d5c260",
+  "scryfall_uri": "https://scryfall.com/card/sir/61/docent-of-perfection-final-iteration?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 5,
+  "type_line": "Creature — Insect Horror // Creature — Eldrazi Insect",
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying",
+    "Transform"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Docent of Perfection",
+      "mana_cost": "{3}{U}{U}",
+      "type_line": "Creature — Insect Horror",
+      "oracle_text": "Flying\nWhenever you cast an instant or sorcery spell, create a 1/1 blue Human Wizard creature token. Then if you control three or more Wizards, transform this creature.",
+      "colors": [
+        "U"
+      ],
+      "power": "5",
+      "toughness": "4",
+      "artist": "Nils Hamm",
+      "artist_id": "c540d1fc-1500-457f-93cf-d6069ee66546",
+      "illustration_id": "f5525220-2787-41c5-9cd1-0676519ba60f",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/2/c/2c983363-f900-45f5-b906-d56b91d5c260.jpg?1678945540",
+        "normal": "https://cards.scryfall.io/normal/front/2/c/2c983363-f900-45f5-b906-d56b91d5c260.jpg?1678945540",
+        "large": "https://cards.scryfall.io/large/front/2/c/2c983363-f900-45f5-b906-d56b91d5c260.jpg?1678945540",
+        "png": "https://cards.scryfall.io/png/front/2/c/2c983363-f900-45f5-b906-d56b91d5c260.png?1678945540",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/2/c/2c983363-f900-45f5-b906-d56b91d5c260.jpg?1678945540",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/2/c/2c983363-f900-45f5-b906-d56b91d5c260.jpg?1678945540"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Final Iteration",
+      "mana_cost": "",
+      "type_line": "Creature — Eldrazi Insect",
+      "oracle_text": "Flying\nWizards you control get +2/+1 and have flying.\nWhenever you cast an instant or sorcery spell, create a 1/1 blue Human Wizard creature token.",
+      "colors": [],
+      "power": "6",
+      "toughness": "5",
+      "artist": "Nils Hamm",
+      "artist_id": "c540d1fc-1500-457f-93cf-d6069ee66546",
+      "illustration_id": "e933aa38-2e18-4521-b032-ed4afc857601",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/2/c/2c983363-f900-45f5-b906-d56b91d5c260.jpg?1678945540",
+        "normal": "https://cards.scryfall.io/normal/back/2/c/2c983363-f900-45f5-b906-d56b91d5c260.jpg?1678945540",
+        "large": "https://cards.scryfall.io/large/back/2/c/2c983363-f900-45f5-b906-d56b91d5c260.jpg?1678945540",
+        "png": "https://cards.scryfall.io/png/back/2/c/2c983363-f900-45f5-b906-d56b91d5c260.png?1678945540",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/2/c/2c983363-f900-45f5-b906-d56b91d5c260.jpg?1678945540",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/2/c/2c983363-f900-45f5-b906-d56b91d5c260.jpg?1678945540"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "cd8586f9-97e2-438d-b74f-1e53c811f314",
+      "component": "combo_piece",
+      "name": "Eldritch Moon Checklist",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/cd8586f9-97e2-438d-b74f-1e53c811f314"
+    },
+    {
+      "object": "related_card",
+      "id": "2c983363-f900-45f5-b906-d56b91d5c260",
+      "component": "combo_piece",
+      "name": "Docent of Perfection // Final Iteration",
+      "type_line": "Creature — Insect Horror // Creature — Eldrazi Insect",
+      "uri": "https://api.scryfall.com/cards/2c983363-f900-45f5-b906-d56b91d5c260"
+    },
+    {
+      "object": "related_card",
+      "id": "547ba2bc-2520-4d79-b9c9-a17f921df1bd",
+      "component": "token",
+      "name": "Human Wizard",
+      "type_line": "Token Creature — Human Wizard",
+      "uri": "https://api.scryfall.com/cards/547ba2bc-2520-4d79-b9c9-a17f921df1bd"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c3694ff5-7b12-4f29-8d82-2c9b553ac60e",
+  "set": "sir",
+  "set_name": "Shadows over Innistrad Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/c3694ff5-7b12-4f29-8d82-2c9b553ac60e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asir&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sir?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2c983363-f900-45f5-b906-d56b91d5c260/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A85e797de-da27-4cd5-8fa4-4aef948988b2&unique=prints",
+  "collector_number": "61",
+  "digital": true,
+  "rarity": "rare",
+  "artist": "Nils Hamm",
+  "artist_ids": [
+    "c540d1fc-1500-457f-93cf-d6069ee66546"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4848,
+  "penny_rank": 3871,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=606675&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDocent%2Bof%2BPerfection%2B%252F%252F%2BFinal%2BIteration",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDocent%2Bof%2BPerfection%2B%252F%252F%2BFinal%2BIteration",
+    "edhrec": "https://edhrec.com/route/?cc=Docent+of+Perfection"
+  }
+}

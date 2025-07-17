@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "bdc3ab55-8b33-4604-ad78-26edbb23d218",
+  "oracle_id": "2069c2cb-3cb7-4f3b-be72-ae783de82c42",
+  "multiverse_ids": [],
+  "name": "Cat",
+  "lang": "en",
+  "released_at": "2024-02-09",
+  "uri": "https://api.scryfall.com/cards/bdc3ab55-8b33-4604-ad78-26edbb23d218",
+  "scryfall_uri": "https://scryfall.com/card/tmkc/15/cat?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/d/bdc3ab55-8b33-4604-ad78-26edbb23d218.jpg?1706129749",
+    "normal": "https://cards.scryfall.io/normal/front/b/d/bdc3ab55-8b33-4604-ad78-26edbb23d218.jpg?1706129749",
+    "large": "https://cards.scryfall.io/large/front/b/d/bdc3ab55-8b33-4604-ad78-26edbb23d218.jpg?1706129749",
+    "png": "https://cards.scryfall.io/png/front/b/d/bdc3ab55-8b33-4604-ad78-26edbb23d218.png?1706129749",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/d/bdc3ab55-8b33-4604-ad78-26edbb23d218.jpg?1706129749",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/d/bdc3ab55-8b33-4604-ad78-26edbb23d218.jpg?1706129749"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Cat",
+  "oracle_text": "",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "bdc3ab55-8b33-4604-ad78-26edbb23d218",
+      "component": "token",
+      "name": "Cat",
+      "type_line": "Token Creature — Cat",
+      "uri": "https://api.scryfall.com/cards/bdc3ab55-8b33-4604-ad78-26edbb23d218"
+    },
+    {
+      "object": "related_card",
+      "id": "bf333864-1299-43a4-a03f-5df98b7498e8",
+      "component": "combo_piece",
+      "name": "Esika's Chariot",
+      "type_line": "Legendary Artifact — Vehicle",
+      "uri": "https://api.scryfall.com/cards/bf333864-1299-43a4-a03f-5df98b7498e8"
+    },
+    {
+      "object": "related_card",
+      "id": "188f9016-275f-4060-8b11-9cdeef3759bd",
+      "component": "combo_piece",
+      "name": "Jolrael, Mwonvuli Recluse",
+      "type_line": "Legendary Creature — Human Druid",
+      "uri": "https://api.scryfall.com/cards/188f9016-275f-4060-8b11-9cdeef3759bd"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "94023707-128c-438e-95e3-c86f1ce72fb5",
+  "set": "tmkc",
+  "set_name": "Murders at Karlov Manor Commander Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/94023707-128c-438e-95e3-c86f1ce72fb5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atmkc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tmkc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/bdc3ab55-8b33-4604-ad78-26edbb23d218/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2069c2cb-3cb7-4f3b-be72-ae783de82c42&unique=prints",
+  "collector_number": "15",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Raoul Vitale",
+  "artist_ids": [
+    "c7c15d49-f84b-4d98-9a34-e80e8347b756"
+  ],
+  "illustration_id": "effd7c21-0a1b-466d-8e2e-3a8034737002",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCat",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCat",
+    "edhrec": "https://edhrec.com/route/?cc=Cat"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DCat%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cat&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cat&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

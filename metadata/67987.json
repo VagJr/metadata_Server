@@ -1,0 +1,165 @@
+{
+  "object": "card",
+  "id": "a0a9ada5-5707-44a6-a6e8-dde108af5f0b",
+  "oracle_id": "5783facf-d26e-4aae-a753-b9dc553361c1",
+  "multiverse_ids": [],
+  "tcgplayer_id": 514434,
+  "name": "Mosswood Dreadknight // Dread Whispers",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/a0a9ada5-5707-44a6-a6e8-dde108af5f0b",
+  "scryfall_uri": "https://scryfall.com/card/pwoe/231s/mosswood-dreadknight-dread-whispers?utm_source=api",
+  "layout": "adventure",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/0/a0a9ada5-5707-44a6-a6e8-dde108af5f0b.jpg?1694311860",
+    "normal": "https://cards.scryfall.io/normal/front/a/0/a0a9ada5-5707-44a6-a6e8-dde108af5f0b.jpg?1694311860",
+    "large": "https://cards.scryfall.io/large/front/a/0/a0a9ada5-5707-44a6-a6e8-dde108af5f0b.jpg?1694311860",
+    "png": "https://cards.scryfall.io/png/front/a/0/a0a9ada5-5707-44a6-a6e8-dde108af5f0b.png?1694311860",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/0/a0a9ada5-5707-44a6-a6e8-dde108af5f0b.jpg?1694311860",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/0/a0a9ada5-5707-44a6-a6e8-dde108af5f0b.jpg?1694311860"
+  },
+  "mana_cost": "{1}{G} // {1}{B}",
+  "cmc": 2,
+  "type_line": "Creature — Human Knight // Sorcery — Adventure",
+  "power": "3",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [
+    "Trample"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Mosswood Dreadknight",
+      "mana_cost": "{1}{G}",
+      "type_line": "Creature — Human Knight",
+      "oracle_text": "Trample\nWhen this creature dies, you may cast it from your graveyard as an Adventure until the end of your next turn.",
+      "power": "3",
+      "toughness": "2",
+      "artist": "Ryan Pancoast",
+      "artist_id": "89cc9475-dda2-4d13-bf88-54b92867a25c",
+      "illustration_id": "25feb495-1544-4310-9e48-deacb749067a"
+    },
+    {
+      "object": "card_face",
+      "name": "Dread Whispers",
+      "mana_cost": "{1}{B}",
+      "type_line": "Sorcery — Adventure",
+      "oracle_text": "You draw a card and you lose 1 life. (Then exile this card. You may cast the creature later from exile.)",
+      "artist": "Ryan Pancoast",
+      "artist_id": "89cc9475-dda2-4d13-bf88-54b92867a25c"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a0a9ada5-5707-44a6-a6e8-dde108af5f0b",
+      "component": "combo_piece",
+      "name": "Mosswood Dreadknight // Dread Whispers",
+      "type_line": "Creature — Human Knight // Sorcery — Adventure",
+      "uri": "https://api.scryfall.com/cards/a0a9ada5-5707-44a6-a6e8-dde108af5f0b"
+    },
+    {
+      "object": "related_card",
+      "id": "fcf4c7fb-7859-4c11-8552-6817f5119d2e",
+      "component": "combo_piece",
+      "name": "On an Adventure",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/fcf4c7fb-7859-4c11-8552-6817f5119d2e"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "909bf1bb-3277-41d6-af0f-293df1203099",
+  "set": "pwoe",
+  "set_name": "Wilds of Eldraine Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/909bf1bb-3277-41d6-af0f-293df1203099",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwoe&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwoe?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a0a9ada5-5707-44a6-a6e8-dde108af5f0b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5783facf-d26e-4aae-a753-b9dc553361c1&unique=prints",
+  "collector_number": "231s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ryan Pancoast",
+  "artist_ids": [
+    "89cc9475-dda2-4d13-bf88-54b92867a25c"
+  ],
+  "illustration_id": "25feb495-1544-4310-9e48-deacb749067a",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 4752,
+  "penny_rank": 276,
+  "prices": {
+    "usd": null,
+    "usd_foil": "2.61",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMosswood%2BDreadknight%2B%252F%252F%2BDread%2BWhispers",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMosswood%2BDreadknight%2B%252F%252F%2BDread%2BWhispers",
+    "edhrec": "https://edhrec.com/route/?cc=Mosswood+Dreadknight"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F514434%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mosswood+Dreadknight&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mosswood+Dreadknight&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

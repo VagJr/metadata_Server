@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "59b211da-1438-456a-b38d-f11bc09260f0",
+  "oracle_id": "0f30f32f-3c4c-4f73-8b2a-82045a40bda9",
+  "multiverse_ids": [],
+  "mtgo_id": 99845,
+  "name": "Killer Service",
+  "lang": "en",
+  "released_at": "2024-04-27",
+  "uri": "https://api.scryfall.com/cards/59b211da-1438-456a-b38d-f11bc09260f0",
+  "scryfall_uri": "https://scryfall.com/card/prm/99845/killer-service?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/9/59b211da-1438-456a-b38d-f11bc09260f0.jpg?1681136201",
+    "normal": "https://cards.scryfall.io/normal/front/5/9/59b211da-1438-456a-b38d-f11bc09260f0.jpg?1681136201",
+    "large": "https://cards.scryfall.io/large/front/5/9/59b211da-1438-456a-b38d-f11bc09260f0.jpg?1681136201",
+    "png": "https://cards.scryfall.io/png/front/5/9/59b211da-1438-456a-b38d-f11bc09260f0.png?1681136201",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/9/59b211da-1438-456a-b38d-f11bc09260f0.jpg?1681136201",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/9/59b211da-1438-456a-b38d-f11bc09260f0.jpg?1681136201"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Enchantment",
+  "oracle_text": "When this enchantment enters, create a number of Food tokens equal to the number of opponents you have. (They're artifacts with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nAt the beginning of your end step, you may pay {2} and sacrifice a token. If you do, create a 4/4 green Rhino Warrior creature token.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Food"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "59b211da-1438-456a-b38d-f11bc09260f0",
+      "component": "combo_piece",
+      "name": "Killer Service",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/59b211da-1438-456a-b38d-f11bc09260f0"
+    },
+    {
+      "object": "related_card",
+      "id": "c6002fe4-a5c0-426d-860b-59f66896c75c",
+      "component": "token",
+      "name": "Food",
+      "type_line": "Token Artifact — Food",
+      "uri": "https://api.scryfall.com/cards/c6002fe4-a5c0-426d-860b-59f66896c75c"
+    },
+    {
+      "object": "related_card",
+      "id": "eec70281-7bdf-46b8-903e-a8a46b7d47bf",
+      "component": "token",
+      "name": "Rhino Warrior",
+      "type_line": "Token Creature — Rhino Warrior",
+      "uri": "https://api.scryfall.com/cards/eec70281-7bdf-46b8-903e-a8a46b7d47bf"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/59b211da-1438-456a-b38d-f11bc09260f0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0f30f32f-3c4c-4f73-8b2a-82045a40bda9&unique=prints",
+  "collector_number": "99845",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Simon Dominic",
+  "artist_ids": [
+    "b0e80135-db5a-4b88-a0bc-815a0e94faa1"
+  ],
+  "illustration_id": "f8c70e04-78ee-4cb8-b2e2-894f0ced5c4b",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4950,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.70"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKiller%2BService",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKiller%2BService",
+    "edhrec": "https://edhrec.com/route/?cc=Killer+Service"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DKiller%2BService%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Killer+Service&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/99845?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

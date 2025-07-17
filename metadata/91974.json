@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "d920b00c-d4ed-4d21-abfa-da270a1ae94f",
+  "oracle_id": "69d4ecac-4735-4667-bfc1-c8800b436d08",
+  "multiverse_ids": [
+    593950
+  ],
+  "tcgplayer_id": 455329,
+  "cardmarket_id": 686879,
+  "name": "Endless Ranks of the Dead",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/d920b00c-d4ed-4d21-abfa-da270a1ae94f",
+  "scryfall_uri": "https://scryfall.com/card/j22/410/endless-ranks-of-the-dead?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/9/d920b00c-d4ed-4d21-abfa-da270a1ae94f.jpg?1675649445",
+    "normal": "https://cards.scryfall.io/normal/front/d/9/d920b00c-d4ed-4d21-abfa-da270a1ae94f.jpg?1675649445",
+    "large": "https://cards.scryfall.io/large/front/d/9/d920b00c-d4ed-4d21-abfa-da270a1ae94f.jpg?1675649445",
+    "png": "https://cards.scryfall.io/png/front/d/9/d920b00c-d4ed-4d21-abfa-da270a1ae94f.png?1675649445",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/9/d920b00c-d4ed-4d21-abfa-da270a1ae94f.jpg?1675649445",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/9/d920b00c-d4ed-4d21-abfa-da270a1ae94f.jpg?1675649445"
+  },
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4,
+  "type_line": "Enchantment",
+  "oracle_text": "At the beginning of your upkeep, create X 2/2 black Zombie creature tokens, where X is half the number of Zombies you control, rounded down.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "d920b00c-d4ed-4d21-abfa-da270a1ae94f",
+      "component": "combo_piece",
+      "name": "Endless Ranks of the Dead",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/d920b00c-d4ed-4d21-abfa-da270a1ae94f"
+    },
+    {
+      "object": "related_card",
+      "id": "4cecd5c6-d6c8-4cd5-97a3-cddaf051af15",
+      "component": "token",
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "uri": "https://api.scryfall.com/cards/4cecd5c6-d6c8-4cd5-97a3-cddaf051af15"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "247df475-e4ce-4e5e-9317-11892d2211e0",
+  "set": "j22",
+  "set_name": "Jumpstart 2022",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/247df475-e4ce-4e5e-9317-11892d2211e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj22&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j22?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d920b00c-d4ed-4d21-abfa-da270a1ae94f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A69d4ecac-4735-4667-bfc1-c8800b436d08&unique=prints",
+  "collector_number": "410",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "With Thraben's army recalled to its city walls, outlying villages were left to fend for themselves.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ryan Yee",
+  "artist_ids": [
+    "8955dca7-3e37-42b4-83a9-167c78a2178f"
+  ],
+  "illustration_id": "51521da7-e186-4629-b9a7-671a6b0ecfa5",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2065,
+  "penny_rank": 6174,
+  "prices": {
+    "usd": "5.37",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "3.77",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=593950&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEndless%2BRanks%2Bof%2Bthe%2BDead",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEndless%2BRanks%2Bof%2Bthe%2BDead",
+    "edhrec": "https://edhrec.com/route/?cc=Endless+Ranks+of+the+Dead"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F455329%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=686879&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Endless+Ranks+of+the+Dead&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

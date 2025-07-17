@@ -1,0 +1,150 @@
+{
+  "object": "card",
+  "id": "be0c3878-3097-4451-9ec0-7f45a0f72323",
+  "oracle_id": "f955bc96-d602-4142-a9a2-87009cc7028c",
+  "multiverse_ids": [
+    489826
+  ],
+  "mtgo_id": 82340,
+  "tcgplayer_id": 219025,
+  "cardmarket_id": 486214,
+  "name": "Awakening Zone",
+  "lang": "en",
+  "released_at": "2020-08-07",
+  "uri": "https://api.scryfall.com/cards/be0c3878-3097-4451-9ec0-7f45a0f72323",
+  "scryfall_uri": "https://scryfall.com/card/2xm/153/awakening-zone?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/e/be0c3878-3097-4451-9ec0-7f45a0f72323.jpg?1599706905",
+    "normal": "https://cards.scryfall.io/normal/front/b/e/be0c3878-3097-4451-9ec0-7f45a0f72323.jpg?1599706905",
+    "large": "https://cards.scryfall.io/large/front/b/e/be0c3878-3097-4451-9ec0-7f45a0f72323.jpg?1599706905",
+    "png": "https://cards.scryfall.io/png/front/b/e/be0c3878-3097-4451-9ec0-7f45a0f72323.png?1599706905",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/e/be0c3878-3097-4451-9ec0-7f45a0f72323.jpg?1599706905",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/e/be0c3878-3097-4451-9ec0-7f45a0f72323.jpg?1599706905"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Enchantment",
+  "oracle_text": "At the beginning of your upkeep, you may create a 0/1 colorless Eldrazi Spawn creature token. It has \"Sacrifice this token: Add {C}.\"",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "06e3f3c1-866c-4214-82e0-dcca2d1aba1e",
+      "component": "token",
+      "name": "Eldrazi Spawn",
+      "type_line": "Token Creature — Eldrazi Spawn",
+      "uri": "https://api.scryfall.com/cards/06e3f3c1-866c-4214-82e0-dcca2d1aba1e"
+    },
+    {
+      "object": "related_card",
+      "id": "be0c3878-3097-4451-9ec0-7f45a0f72323",
+      "component": "combo_piece",
+      "name": "Awakening Zone",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/be0c3878-3097-4451-9ec0-7f45a0f72323"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "372dafe8-b5d1-4b81-998f-3ae96b59498a",
+  "set": "2xm",
+  "set_name": "Double Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/372dafe8-b5d1-4b81-998f-3ae96b59498a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A2xm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/2xm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/be0c3878-3097-4451-9ec0-7f45a0f72323/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af955bc96-d602-4142-a9a2-87009cc7028c&unique=prints",
+  "collector_number": "153",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "The ground erupted in time with the hedron's thrum, a dirge of the last days.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Johann Bodin",
+  "artist_ids": [
+    "d92e2dd9-9ef6-43f6-81f8-df87f9066983"
+  ],
+  "illustration_id": "e9e474d5-a347-4b1e-b369-7d1109a47a9d",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1457,
+  "penny_rank": 6283,
+  "preview": {
+    "source": "Elizabeth Rice",
+    "source_uri": "https://blog.cardsphere.com/mtg-double-masters-preview-maelstrom-pulse-and-awakening-zone/",
+    "previewed_at": "2020-07-29"
+  },
+  "prices": {
+    "usd": "1.04",
+    "usd_foil": "3.36",
+    "usd_etched": null,
+    "eur": "0.88",
+    "eur_foil": "2.30",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489826&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAwakening%2BZone",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAwakening%2BZone",
+    "edhrec": "https://edhrec.com/route/?cc=Awakening+Zone"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F219025%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=486214&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/82340?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

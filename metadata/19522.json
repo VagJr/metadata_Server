@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "2dfc4cfe-d1f7-43e4-a543-35c050d01a8f",
+  "oracle_id": "b6fb79c3-cd32-4045-8177-e52841eea65b",
+  "multiverse_ids": [
+    532511
+  ],
+  "tcgplayer_id": 243816,
+  "cardmarket_id": 572297,
+  "name": "Dragonmaster Outcast",
+  "lang": "en",
+  "released_at": "2021-07-23",
+  "uri": "https://api.scryfall.com/cards/2dfc4cfe-d1f7-43e4-a543-35c050d01a8f",
+  "scryfall_uri": "https://scryfall.com/card/afc/124/dragonmaster-outcast?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/d/2dfc4cfe-d1f7-43e4-a543-35c050d01a8f.jpg?1631587151",
+    "normal": "https://cards.scryfall.io/normal/front/2/d/2dfc4cfe-d1f7-43e4-a543-35c050d01a8f.jpg?1631587151",
+    "large": "https://cards.scryfall.io/large/front/2/d/2dfc4cfe-d1f7-43e4-a543-35c050d01a8f.jpg?1631587151",
+    "png": "https://cards.scryfall.io/png/front/2/d/2dfc4cfe-d1f7-43e4-a543-35c050d01a8f.png?1631587151",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/d/2dfc4cfe-d1f7-43e4-a543-35c050d01a8f.jpg?1631587151",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/d/2dfc4cfe-d1f7-43e4-a543-35c050d01a8f.jpg?1631587151"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1,
+  "type_line": "Creature — Human Shaman",
+  "oracle_text": "At the beginning of your upkeep, if you control six or more lands, create a 5/5 red Dragon creature token with flying.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "c00df96e-38bf-4ecd-b362-ac2d0568e371",
+      "component": "token",
+      "name": "Dragon",
+      "type_line": "Token Creature — Dragon",
+      "uri": "https://api.scryfall.com/cards/c00df96e-38bf-4ecd-b362-ac2d0568e371"
+    },
+    {
+      "object": "related_card",
+      "id": "2dfc4cfe-d1f7-43e4-a543-35c050d01a8f",
+      "component": "combo_piece",
+      "name": "Dragonmaster Outcast",
+      "type_line": "Creature — Human Shaman",
+      "uri": "https://api.scryfall.com/cards/2dfc4cfe-d1f7-43e4-a543-35c050d01a8f"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "db1b46f9-893c-4623-9465-985ff6e4472c",
+  "set": "afc",
+  "set_name": "Forgotten Realms Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/db1b46f9-893c-4623-9465-985ff6e4472c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aafc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/afc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2dfc4cfe-d1f7-43e4-a543-35c050d01a8f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab6fb79c3-cd32-4045-8177-e52841eea65b&unique=prints",
+  "collector_number": "124",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "\"This world will be ruled by its rightful sovereigns, not these hideous pretenders.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Raymond Swanland",
+  "artist_ids": [
+    "e956bacc-077d-4c12-b6bc-ba798b718af9"
+  ],
+  "illustration_id": "34ab34a8-ff4a-4c86-b9a3-792f0c9f1bf4",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1221,
+  "penny_rank": 6735,
+  "prices": {
+    "usd": "0.97",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.66",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=532511&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDragonmaster%2BOutcast",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDragonmaster%2BOutcast",
+    "edhrec": "https://edhrec.com/route/?cc=Dragonmaster+Outcast"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F243816%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=572297&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dragonmaster+Outcast&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

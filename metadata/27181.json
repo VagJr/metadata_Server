@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "40366946-d9e7-4770-bca2-f6d1dcb73ff5",
+  "oracle_id": "4c7e6520-d179-4590-afdc-92eb2c0740a6",
+  "multiverse_ids": [
+    615826
+  ],
+  "tcgplayer_id": 495844,
+  "cardmarket_id": 710566,
+  "name": "Kolaghan Warmonger",
+  "lang": "en",
+  "released_at": "2023-05-12",
+  "uri": "https://api.scryfall.com/cards/40366946-d9e7-4770-bca2-f6d1dcb73ff5",
+  "scryfall_uri": "https://scryfall.com/card/mat/201/kolaghan-warmonger?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/0/40366946-d9e7-4770-bca2-f6d1dcb73ff5.jpg?1684342228",
+    "normal": "https://cards.scryfall.io/normal/front/4/0/40366946-d9e7-4770-bca2-f6d1dcb73ff5.jpg?1684342228",
+    "large": "https://cards.scryfall.io/large/front/4/0/40366946-d9e7-4770-bca2-f6d1dcb73ff5.jpg?1684342228",
+    "png": "https://cards.scryfall.io/png/front/4/0/40366946-d9e7-4770-bca2-f6d1dcb73ff5.png?1684342228",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/0/40366946-d9e7-4770-bca2-f6d1dcb73ff5.jpg?1684342228",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/0/40366946-d9e7-4770-bca2-f6d1dcb73ff5.jpg?1684342228"
+  },
+  "mana_cost": "{2}{R}",
+  "cmc": 3,
+  "type_line": "Creature — Ogre Warrior",
+  "oracle_text": "Haste\nWhenever this creature attacks, look at the top six cards of your library. You may reveal a Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+  "power": "3",
+  "toughness": "2",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Haste"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "6727e43d-31b6-45b0-ae05-7a811ba72f70",
+  "set": "mat",
+  "set_name": "March of the Machine: The Aftermath",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/6727e43d-31b6-45b0-ae05-7a811ba72f70",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amat&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mat?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/40366946-d9e7-4770-bca2-f6d1dcb73ff5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4c7e6520-d179-4590-afdc-92eb2c0740a6&unique=prints",
+  "collector_number": "201",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Domenico Cava",
+  "artist_ids": [
+    "15eda809-1e56-4583-89e6-c9ccda740e16"
+  ],
+  "illustration_id": "2e7eba07-ea8c-42ad-be2e-48c9833fc509",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "halofoil",
+    "boosterfun"
+  ],
+  "edhrec_rank": 11922,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.48",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.66",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=615826&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKolaghan%2BWarmonger",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKolaghan%2BWarmonger",
+    "edhrec": "https://edhrec.com/route/?cc=Kolaghan+Warmonger"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F495844%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=710566&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kolaghan+Warmonger&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

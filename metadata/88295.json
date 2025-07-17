@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "d0651efa-75a5-41d3-a5b9-9c5109d6ce44",
+  "oracle_id": "66b46257-b64c-4672-bf47-12bf0bcd6f8f",
+  "multiverse_ids": [],
+  "tcgplayer_id": 165594,
+  "cardmarket_id": 355715,
+  "name": "Sylvan Awakening",
+  "lang": "en",
+  "released_at": "2018-04-27",
+  "uri": "https://api.scryfall.com/cards/d0651efa-75a5-41d3-a5b9-9c5109d6ce44",
+  "scryfall_uri": "https://scryfall.com/card/pdom/183s/sylvan-awakening?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/0/d0651efa-75a5-41d3-a5b9-9c5109d6ce44.jpg?1591104709",
+    "normal": "https://cards.scryfall.io/normal/front/d/0/d0651efa-75a5-41d3-a5b9-9c5109d6ce44.jpg?1591104709",
+    "large": "https://cards.scryfall.io/large/front/d/0/d0651efa-75a5-41d3-a5b9-9c5109d6ce44.jpg?1591104709",
+    "png": "https://cards.scryfall.io/png/front/d/0/d0651efa-75a5-41d3-a5b9-9c5109d6ce44.png?1591104709",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/0/d0651efa-75a5-41d3-a5b9-9c5109d6ce44.jpg?1591104709",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/0/d0651efa-75a5-41d3-a5b9-9c5109d6ce44.jpg?1591104709"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Sorcery",
+  "oracle_text": "Until your next turn, all lands you control become 2/2 Elemental creatures with reach, indestructible, and haste. They're still lands.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Indestructible"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e61a976d-a9ce-42bd-ad9e-f51b1c8fc434",
+  "set": "pdom",
+  "set_name": "Dominaria Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/e61a976d-a9ce-42bd-ad9e-f51b1c8fc434",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apdom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pdom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d0651efa-75a5-41d3-a5b9-9c5109d6ce44/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A66b46257-b64c-4672-bf47-12bf0bcd6f8f&unique=prints",
+  "collector_number": "183s",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Yavimaya is aware, but not always awake. You will know the difference when you see it.\"\n—Karn",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Adam Paquette",
+  "artist_ids": [
+    "89023dad-e6c0-41e0-83fb-eb2bfbbdc3f2"
+  ],
+  "illustration_id": "9e596a18-87ec-4054-9ec4-e9faf8c0058e",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 4428,
+  "penny_rank": 3478,
+  "prices": {
+    "usd": null,
+    "usd_foil": "3.31",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "2.00",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSylvan%2BAwakening",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSylvan%2BAwakening",
+    "edhrec": "https://edhrec.com/route/?cc=Sylvan+Awakening"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F165594%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=355715&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sylvan+Awakening&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

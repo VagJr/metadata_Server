@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "21a2bac8-451f-4af8-a82d-aeae5e28a8be",
+  "oracle_id": "ed8392b8-71e9-4874-a5bd-3c9fa5605780",
+  "multiverse_ids": [
+    605814
+  ],
+  "mtgo_id": 106939,
+  "tcgplayer_id": 478481,
+  "cardmarket_id": 693241,
+  "name": "Harmonious Archon",
+  "lang": "en",
+  "released_at": "2023-02-03",
+  "uri": "https://api.scryfall.com/cards/21a2bac8-451f-4af8-a82d-aeae5e28a8be",
+  "scryfall_uri": "https://scryfall.com/card/onc/74/harmonious-archon?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/1/21a2bac8-451f-4af8-a82d-aeae5e28a8be.jpg?1675905688",
+    "normal": "https://cards.scryfall.io/normal/front/2/1/21a2bac8-451f-4af8-a82d-aeae5e28a8be.jpg?1675905688",
+    "large": "https://cards.scryfall.io/large/front/2/1/21a2bac8-451f-4af8-a82d-aeae5e28a8be.jpg?1675905688",
+    "png": "https://cards.scryfall.io/png/front/2/1/21a2bac8-451f-4af8-a82d-aeae5e28a8be.png?1675905688",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/1/21a2bac8-451f-4af8-a82d-aeae5e28a8be.jpg?1675905688",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/1/21a2bac8-451f-4af8-a82d-aeae5e28a8be.jpg?1675905688"
+  },
+  "mana_cost": "{4}{W}{W}",
+  "cmc": 6,
+  "type_line": "Creature — Archon",
+  "oracle_text": "Flying\nNon-Archon creatures have base power and toughness 3/3.\nWhen this creature enters, create two 1/1 white Human creature tokens.",
+  "power": "4",
+  "toughness": "5",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "34e52e1d-dcf7-485c-a29f-78e75581c3a4",
+      "component": "token",
+      "name": "Human",
+      "type_line": "Token Creature — Human",
+      "uri": "https://api.scryfall.com/cards/34e52e1d-dcf7-485c-a29f-78e75581c3a4"
+    },
+    {
+      "object": "related_card",
+      "id": "21a2bac8-451f-4af8-a82d-aeae5e28a8be",
+      "component": "combo_piece",
+      "name": "Harmonious Archon",
+      "type_line": "Creature — Archon",
+      "uri": "https://api.scryfall.com/cards/21a2bac8-451f-4af8-a82d-aeae5e28a8be"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8c5e86d4-ae2d-42f7-a0e5-0e4141eb953d",
+  "set": "onc",
+  "set_name": "Phyrexia: All Will Be One Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/8c5e86d4-ae2d-42f7-a0e5-0e4141eb953d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aonc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/onc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/21a2bac8-451f-4af8-a82d-aeae5e28a8be/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aed8392b8-71e9-4874-a5bd-3c9fa5605780&unique=prints",
+  "collector_number": "74",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "First among equals.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Anastasia Ovchinnikova",
+  "artist_ids": [
+    "3605d81f-5c97-4958-9dcc-d44a85e10305"
+  ],
+  "illustration_id": "5d6df900-7182-4bb9-ad22-ea0966a24c28",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 10861,
+  "penny_rank": 11707,
+  "prices": {
+    "usd": "0.22",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": null,
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=605814&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHarmonious%2BArchon",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHarmonious%2BArchon",
+    "edhrec": "https://edhrec.com/route/?cc=Harmonious+Archon"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F478481%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=693241&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106939?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

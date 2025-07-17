@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "5ef641f6-848f-46c6-8a66-fd89c696f500",
+  "oracle_id": "0a07a676-890f-49a2-9a2d-17d7b1dc6868",
+  "multiverse_ids": [],
+  "tcgplayer_id": 247261,
+  "cardmarket_id": 574640,
+  "name": "Wight",
+  "lang": "en",
+  "released_at": "2021-07-23",
+  "uri": "https://api.scryfall.com/cards/5ef641f6-848f-46c6-8a66-fd89c696f500",
+  "scryfall_uri": "https://scryfall.com/card/pafr/127a/wight?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/e/5ef641f6-848f-46c6-8a66-fd89c696f500.jpg?1630011743",
+    "normal": "https://cards.scryfall.io/normal/front/5/e/5ef641f6-848f-46c6-8a66-fd89c696f500.jpg?1630011743",
+    "large": "https://cards.scryfall.io/large/front/5/e/5ef641f6-848f-46c6-8a66-fd89c696f500.jpg?1630011743",
+    "png": "https://cards.scryfall.io/png/front/5/e/5ef641f6-848f-46c6-8a66-fd89c696f500.png?1630011743",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/e/5ef641f6-848f-46c6-8a66-fd89c696f500.jpg?1630011743",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/e/5ef641f6-848f-46c6-8a66-fd89c696f500.jpg?1630011743"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2,
+  "type_line": "Creature — Zombie Soldier",
+  "oracle_text": "This creature enters tapped.\nLife Drain — Whenever a creature dealt damage by this creature this turn dies, create a tapped 2/2 black Zombie creature token and exile that card.",
+  "power": "3",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "384ad52f-63c0-4c55-8e6d-847d532e610d",
+      "component": "combo_piece",
+      "name": "Wight",
+      "type_line": "Creature — Zombie Soldier",
+      "uri": "https://api.scryfall.com/cards/384ad52f-63c0-4c55-8e6d-847d532e610d"
+    },
+    {
+      "object": "related_card",
+      "id": "0b08d210-01cb-46c5-9150-4dfb47f50ae7",
+      "component": "token",
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "uri": "https://api.scryfall.com/cards/0b08d210-01cb-46c5-9150-4dfb47f50ae7"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "983f027f-76f9-462d-8eb5-458dcbf029b4",
+  "set": "pafr",
+  "set_name": "Adventures in the Forgotten Realms Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/983f027f-76f9-462d-8eb5-458dcbf029b4",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apafr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pafr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5ef641f6-848f-46c6-8a66-fd89c696f500/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0a07a676-890f-49a2-9a2d-17d7b1dc6868&unique=prints",
+  "collector_number": "127a",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Wights want the world to resound with echoes of their own cruel hatred.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Slawomir Maniak",
+  "artist_ids": [
+    "d887bc66-2779-416c-a1ff-d8720242063e"
+  ],
+  "illustration_id": "da33f6a0-3b60-4611-b94f-27deba22c6fe",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "embossed"
+  ],
+  "edhrec_rank": 16828,
+  "penny_rank": 3828,
+  "prices": {
+    "usd": null,
+    "usd_foil": "4.24",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.02",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWight",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWight",
+    "edhrec": "https://edhrec.com/route/?cc=Wight"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F247261%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=574640&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wight&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

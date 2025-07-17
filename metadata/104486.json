@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "f7020563-0701-4cd0-9a78-1568a23bf02d",
+  "oracle_id": "87fca901-678d-4c9a-be4a-9dce2a53074b",
+  "multiverse_ids": [
+    547700
+  ],
+  "arena_id": 74025,
+  "name": "Driven // Despair",
+  "lang": "en",
+  "released_at": "2020-08-13",
+  "uri": "https://api.scryfall.com/cards/f7020563-0701-4cd0-9a78-1568a23bf02d",
+  "scryfall_uri": "https://scryfall.com/card/akr/233/driven-despair?utm_source=api",
+  "layout": "split",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/7/f7020563-0701-4cd0-9a78-1568a23bf02d.jpg?1671337672",
+    "normal": "https://cards.scryfall.io/normal/front/f/7/f7020563-0701-4cd0-9a78-1568a23bf02d.jpg?1671337672",
+    "large": "https://cards.scryfall.io/large/front/f/7/f7020563-0701-4cd0-9a78-1568a23bf02d.jpg?1671337672",
+    "png": "https://cards.scryfall.io/png/front/f/7/f7020563-0701-4cd0-9a78-1568a23bf02d.png?1671337672",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/7/f7020563-0701-4cd0-9a78-1568a23bf02d.jpg?1671337672",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/7/f7020563-0701-4cd0-9a78-1568a23bf02d.jpg?1671337672"
+  },
+  "mana_cost": "{1}{G} // {1}{B}",
+  "cmc": 4,
+  "type_line": "Sorcery // Sorcery",
+  "colors": [
+    "B",
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [
+    "Aftermath"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Driven",
+      "mana_cost": "{1}{G}",
+      "type_line": "Sorcery",
+      "oracle_text": "Until end of turn, creatures you control gain trample and \"Whenever this creature deals combat damage to a player, draw a card.\"",
+      "artist": "Winona Nelson",
+      "artist_id": "e45fe8d3-75d6-42c9-a2df-e945ad81ea27",
+      "illustration_id": "7d8b470a-c708-40a7-af62-4d9e20cb2f3e"
+    },
+    {
+      "object": "card_face",
+      "name": "Despair",
+      "mana_cost": "{1}{B}",
+      "type_line": "Sorcery",
+      "oracle_text": "Aftermath (Cast this spell only from your graveyard. Then exile it.)\nUntil end of turn, creatures you control gain menace and \"Whenever this creature deals combat damage to a player, that player discards a card.\"",
+      "artist": "Winona Nelson",
+      "artist_id": "e45fe8d3-75d6-42c9-a2df-e945ad81ea27"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "915dabb1-b82a-432d-939d-d9b128e65582",
+  "set": "akr",
+  "set_name": "Amonkhet Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/915dabb1-b82a-432d-939d-d9b128e65582",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aakr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/akr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f7020563-0701-4cd0-9a78-1568a23bf02d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A87fca901-678d-4c9a-be4a-9dce2a53074b&unique=prints",
+  "collector_number": "233",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Winona Nelson",
+  "artist_ids": [
+    "e45fe8d3-75d6-42c9-a2df-e945ad81ea27"
+  ],
+  "illustration_id": "7d8b470a-c708-40a7-af62-4d9e20cb2f3e",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 12712,
+  "penny_rank": 4127,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547700&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDriven%2B%252F%252F%2BDespair",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDriven%2B%252F%252F%2BDespair",
+    "edhrec": "https://edhrec.com/route/?cc=Driven+%2F%2F+Despair"
+  }
+}

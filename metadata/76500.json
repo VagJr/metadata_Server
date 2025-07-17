@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "b49034a8-5b16-4fb5-b89b-c6a1418ec7a4",
+  "oracle_id": "17121caf-e19c-4c4a-93ec-2ce85d241e14",
+  "multiverse_ids": [],
+  "name": "Mountain // Mountain",
+  "lang": "en",
+  "released_at": "2022-02-18",
+  "uri": "https://api.scryfall.com/cards/b49034a8-5b16-4fb5-b89b-c6a1418ec7a4",
+  "scryfall_uri": "https://scryfall.com/card/aneo/78/mountain-mountain?utm_source=api",
+  "layout": "art_series",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 0,
+  "type_line": "Card // Card",
+  "color_identity": [],
+  "keywords": [],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Mountain",
+      "mana_cost": "",
+      "type_line": "Card",
+      "oracle_text": "",
+      "colors": [],
+      "artist": "Ayami Nakashima",
+      "artist_id": "7188a1e3-611e-4f15-96f4-d96757a69420",
+      "illustration_id": "015f39d7-4a74-43b3-b84e-195337be2b32",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/b/4/b49034a8-5b16-4fb5-b89b-c6a1418ec7a4.jpg?1679090586",
+        "normal": "https://cards.scryfall.io/normal/front/b/4/b49034a8-5b16-4fb5-b89b-c6a1418ec7a4.jpg?1679090586",
+        "large": "https://cards.scryfall.io/large/front/b/4/b49034a8-5b16-4fb5-b89b-c6a1418ec7a4.jpg?1679090586",
+        "png": "https://cards.scryfall.io/png/front/b/4/b49034a8-5b16-4fb5-b89b-c6a1418ec7a4.png?1679090586",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/b/4/b49034a8-5b16-4fb5-b89b-c6a1418ec7a4.jpg?1679090586",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/b/4/b49034a8-5b16-4fb5-b89b-c6a1418ec7a4.jpg?1679090586"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Mountain",
+      "mana_cost": "",
+      "type_line": "Card",
+      "oracle_text": "",
+      "colors": [],
+      "artist": "Ayami Nakashima",
+      "artist_id": "7188a1e3-611e-4f15-96f4-d96757a69420",
+      "illustration_id": "aa0cc9dd-ebd1-4a15-826a-01bd0184ad3e",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/b/4/b49034a8-5b16-4fb5-b89b-c6a1418ec7a4.jpg?1679090586",
+        "normal": "https://cards.scryfall.io/normal/back/b/4/b49034a8-5b16-4fb5-b89b-c6a1418ec7a4.jpg?1679090586",
+        "large": "https://cards.scryfall.io/large/back/b/4/b49034a8-5b16-4fb5-b89b-c6a1418ec7a4.jpg?1679090586",
+        "png": "https://cards.scryfall.io/png/back/b/4/b49034a8-5b16-4fb5-b89b-c6a1418ec7a4.png?1679090586",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/b/4/b49034a8-5b16-4fb5-b89b-c6a1418ec7a4.jpg?1679090586",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/b/4/b49034a8-5b16-4fb5-b89b-c6a1418ec7a4.jpg?1679090586"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d94185a1-24a1-4cd9-855d-8c4d5f5ebf5b",
+  "set": "aneo",
+  "set_name": "Neon Dynasty Art Series",
+  "set_type": "memorabilia",
+  "set_uri": "https://api.scryfall.com/sets/d94185a1-24a1-4cd9-855d-8c4d5f5ebf5b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aaneo&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/aneo?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b49034a8-5b16-4fb5-b89b-c6a1418ec7a4/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A17121caf-e19c-4c4a-93ec-2ce85d241e14&unique=prints",
+  "collector_number": "78",
+  "digital": false,
+  "rarity": "common",
+  "artist": "Ayami Nakashima",
+  "artist_ids": [
+    "7188a1e3-611e-4f15-96f4-d96757a69420"
+  ],
+  "border_color": "borderless",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMountain%2B%252F%252F%2BMountain",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMountain%2B%252F%252F%2BMountain",
+    "edhrec": "https://edhrec.com/route/?cc=Mountain"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DMountain%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mountain&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mountain&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

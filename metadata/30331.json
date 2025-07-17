@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "47b2b383-393e-49c7-be0f-0fb8ffb39287",
+  "oracle_id": "9e6a3df4-67a3-452e-a6ef-f04dbadb21ef",
+  "multiverse_ids": [
+    675495
+  ],
+  "mtgo_id": 130763,
+  "tcgplayer_id": 575093,
+  "cardmarket_id": 786268,
+  "name": "Living Death",
+  "lang": "en",
+  "released_at": "2024-09-27",
+  "uri": "https://api.scryfall.com/cards/47b2b383-393e-49c7-be0f-0fb8ffb39287",
+  "scryfall_uri": "https://scryfall.com/card/dsc/373/living-death?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/7/47b2b383-393e-49c7-be0f-0fb8ffb39287.jpg?1734498232",
+    "normal": "https://cards.scryfall.io/normal/front/4/7/47b2b383-393e-49c7-be0f-0fb8ffb39287.jpg?1734498232",
+    "large": "https://cards.scryfall.io/large/front/4/7/47b2b383-393e-49c7-be0f-0fb8ffb39287.jpg?1734498232",
+    "png": "https://cards.scryfall.io/png/front/4/7/47b2b383-393e-49c7-be0f-0fb8ffb39287.png?1734498232",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/7/47b2b383-393e-49c7-be0f-0fb8ffb39287.jpg?1734498232",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/7/47b2b383-393e-49c7-be0f-0fb8ffb39287.jpg?1734498232"
+  },
+  "mana_cost": "{3}{B}{B}",
+  "cmc": 5,
+  "type_line": "Sorcery",
+  "oracle_text": "Each player exiles all creature cards from their graveyard, then sacrifices all creatures they control, then puts all cards they exiled this way onto the battlefield.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4c822528-83c3-42c7-8708-dd1d37166819",
+  "set": "dsc",
+  "set_name": "Duskmourn: House of Horror Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/4c822528-83c3-42c7-8708-dd1d37166819",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adsc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dsc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/47b2b383-393e-49c7-be0f-0fb8ffb39287/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9e6a3df4-67a3-452e-a6ef-f04dbadb21ef&unique=prints",
+  "collector_number": "373",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Josh Newton",
+  "artist_ids": [
+    "0a37dc19-786c-44ed-954b-0a5967a16bdb"
+  ],
+  "illustration_id": "14e9d9bb-98a1-4dcb-b6e2-65d0b0033798",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "poster",
+    "bundle"
+  ],
+  "edhrec_rank": 466,
+  "penny_rank": 201,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/news/feature/collecting-duskmourn",
+    "previewed_at": "2024-08-31"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "6.75",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "4.65",
+    "tix": "0.23"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=675495&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLiving%2BDeath",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLiving%2BDeath",
+    "edhrec": "https://edhrec.com/route/?cc=Living+Death"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F575093%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=786268&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/130763?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "0cace1a3-34df-45d0-b653-b120b3617d40",
+  "oracle_id": "dd25cab9-15cc-40f5-9b68-8f345dd7e952",
+  "multiverse_ids": [
+    592766
+  ],
+  "tcgplayer_id": 455094,
+  "cardmarket_id": 686501,
+  "name": "Master of the Wild Hunt",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/0cace1a3-34df-45d0-b653-b120b3617d40",
+  "scryfall_uri": "https://scryfall.com/card/j22/688/master-of-the-wild-hunt?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/c/0cace1a3-34df-45d0-b653-b120b3617d40.jpg?1675651720",
+    "normal": "https://cards.scryfall.io/normal/front/0/c/0cace1a3-34df-45d0-b653-b120b3617d40.jpg?1675651720",
+    "large": "https://cards.scryfall.io/large/front/0/c/0cace1a3-34df-45d0-b653-b120b3617d40.jpg?1675651720",
+    "png": "https://cards.scryfall.io/png/front/0/c/0cace1a3-34df-45d0-b653-b120b3617d40.png?1675651720",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/c/0cace1a3-34df-45d0-b653-b120b3617d40.jpg?1675651720",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/c/0cace1a3-34df-45d0-b653-b120b3617d40.jpg?1675651720"
+  },
+  "mana_cost": "{2}{G}{G}",
+  "cmc": 4,
+  "type_line": "Creature — Human Shaman",
+  "oracle_text": "At the beginning of your upkeep, create a 2/2 green Wolf creature token.\n{T}: Tap all untapped Wolf creatures you control. Each Wolf tapped this way deals damage equal to its power to target creature. That creature deals damage equal to its power divided as its controller chooses among any number of those Wolves.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "89b89a55-3ea2-4186-b946-06831bc16169",
+      "component": "token",
+      "name": "Wolf",
+      "type_line": "Token Creature — Wolf",
+      "uri": "https://api.scryfall.com/cards/89b89a55-3ea2-4186-b946-06831bc16169"
+    },
+    {
+      "object": "related_card",
+      "id": "0cace1a3-34df-45d0-b653-b120b3617d40",
+      "component": "combo_piece",
+      "name": "Master of the Wild Hunt",
+      "type_line": "Creature — Human Shaman",
+      "uri": "https://api.scryfall.com/cards/0cace1a3-34df-45d0-b653-b120b3617d40"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "247df475-e4ce-4e5e-9317-11892d2211e0",
+  "set": "j22",
+  "set_name": "Jumpstart 2022",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/247df475-e4ce-4e5e-9317-11892d2211e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj22&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j22?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0cace1a3-34df-45d0-b653-b120b3617d40/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Add25cab9-15cc-40f5-9b68-8f345dd7e952&unique=prints",
+  "collector_number": "688",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kev Walker",
+  "artist_ids": [
+    "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+  ],
+  "illustration_id": "f702714d-e9e5-4f42-bc56-581bd7fb68a4",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 7335,
+  "penny_rank": 6657,
+  "prices": {
+    "usd": "1.39",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "1.72",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=592766&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMaster%2Bof%2Bthe%2BWild%2BHunt",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMaster%2Bof%2Bthe%2BWild%2BHunt",
+    "edhrec": "https://edhrec.com/route/?cc=Master+of+the+Wild+Hunt"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F455094%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=686501&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Master+of+the+Wild+Hunt&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

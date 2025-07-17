@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "b33ee002-fbd4-4bbe-a17c-876972750646",
+  "oracle_id": "628f2deb-519e-4810-a7e5-e31316e9a4e0",
+  "multiverse_ids": [
+    526729
+  ],
+  "tcgplayer_id": 240209,
+  "cardmarket_id": 566839,
+  "name": "Arcus Acolyte",
+  "lang": "en",
+  "released_at": "2021-06-18",
+  "uri": "https://api.scryfall.com/cards/b33ee002-fbd4-4bbe-a17c-876972750646",
+  "scryfall_uri": "https://scryfall.com/card/mh2/361/arcus-acolyte?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/3/b33ee002-fbd4-4bbe-a17c-876972750646.jpg?1626101934",
+    "normal": "https://cards.scryfall.io/normal/front/b/3/b33ee002-fbd4-4bbe-a17c-876972750646.jpg?1626101934",
+    "large": "https://cards.scryfall.io/large/front/b/3/b33ee002-fbd4-4bbe-a17c-876972750646.jpg?1626101934",
+    "png": "https://cards.scryfall.io/png/front/b/3/b33ee002-fbd4-4bbe-a17c-876972750646.png?1626101934",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/3/b33ee002-fbd4-4bbe-a17c-876972750646.jpg?1626101934",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/3/b33ee002-fbd4-4bbe-a17c-876972750646.jpg?1626101934"
+  },
+  "mana_cost": "{G}{W}",
+  "cmc": 2,
+  "type_line": "Creature — Human Cleric Archer",
+  "oracle_text": "Reach, lifelink\nOutlast {G/W} ({G/W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach other creature you control without a +1/+1 counter on it has outlast {G/W}.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [
+    "Lifelink",
+    "Reach",
+    "Outlast"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c1c7eb8c-f205-40ab-a609-767cb296544e",
+  "set": "mh2",
+  "set_name": "Modern Horizons 2",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/c1c7eb8c-f205-40ab-a609-767cb296544e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b33ee002-fbd4-4bbe-a17c-876972750646/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A628f2deb-519e-4810-a7e5-e31316e9a4e0&unique=prints",
+  "collector_number": "361",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Volkan Baǵa",
+  "artist_ids": [
+    "93bec3c0-0260-4d31-8064-5d01efb4153f"
+  ],
+  "illustration_id": "b9d360af-1e63-4cb5-858f-c999f6a861ce",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 11306,
+  "penny_rank": 9813,
+  "preview": {
+    "source": "Five Color Hub",
+    "source_uri": "https://twitter.com/FiveColorHub/status/1399147028588924928",
+    "previewed_at": "2021-05-30"
+  },
+  "prices": {
+    "usd": "0.07",
+    "usd_foil": "0.11",
+    "usd_etched": null,
+    "eur": "0.13",
+    "eur_foil": "0.18",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=526729&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DArcus%2BAcolyte",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DArcus%2BAcolyte",
+    "edhrec": "https://edhrec.com/route/?cc=Arcus+Acolyte"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F240209%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=566839&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Arcus+Acolyte&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

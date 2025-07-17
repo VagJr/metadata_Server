@@ -1,0 +1,117 @@
+{
+  "object": "card",
+  "id": "d88dd364-8c39-4064-95d4-a26e0784550d",
+  "oracle_id": "699fc7cf-1ad3-4c32-b3e4-49f9a2da4b26",
+  "multiverse_ids": [
+    547556
+  ],
+  "arena_id": 73865,
+  "name": "Vizier of Tumbling Sands",
+  "lang": "en",
+  "released_at": "2020-08-13",
+  "uri": "https://api.scryfall.com/cards/d88dd364-8c39-4064-95d4-a26e0784550d",
+  "scryfall_uri": "https://scryfall.com/card/akr/89/vizier-of-tumbling-sands?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/8/d88dd364-8c39-4064-95d4-a26e0784550d.jpg?1597173456",
+    "normal": "https://cards.scryfall.io/normal/front/d/8/d88dd364-8c39-4064-95d4-a26e0784550d.jpg?1597173456",
+    "large": "https://cards.scryfall.io/large/front/d/8/d88dd364-8c39-4064-95d4-a26e0784550d.jpg?1597173456",
+    "png": "https://cards.scryfall.io/png/front/d/8/d88dd364-8c39-4064-95d4-a26e0784550d.png?1597173456",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/8/d88dd364-8c39-4064-95d4-a26e0784550d.jpg?1597173456",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/8/d88dd364-8c39-4064-95d4-a26e0784550d.jpg?1597173456"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Creature — Human Cleric",
+  "oracle_text": "{T}: Untap another target permanent.\nCycling {1}{U} ({1}{U}, Discard this card: Draw a card.)\nWhen you cycle this card, untap target permanent.",
+  "power": "1",
+  "toughness": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Cycling"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "915dabb1-b82a-432d-939d-d9b128e65582",
+  "set": "akr",
+  "set_name": "Amonkhet Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/915dabb1-b82a-432d-939d-d9b128e65582",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aakr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/akr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d88dd364-8c39-4064-95d4-a26e0784550d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A699fc7cf-1ad3-4c32-b3e4-49f9a2da4b26&unique=prints",
+  "collector_number": "89",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Josu Hernaiz",
+  "artist_ids": [
+    "74246024-92b4-43d0-a5af-a3f9f2a35d5f"
+  ],
+  "illustration_id": "b257f538-c72b-4505-9a94-4fb06fd4de0c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3052,
+  "penny_rank": 1525,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547556&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVizier%2Bof%2BTumbling%2BSands",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVizier%2Bof%2BTumbling%2BSands",
+    "edhrec": "https://edhrec.com/route/?cc=Vizier+of+Tumbling+Sands"
+  }
+}

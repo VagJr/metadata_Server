@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "47b1d426-db36-4a6d-9eb7-d093e0c0ee6a",
+  "oracle_id": "bc8802db-8c94-4eb4-817f-5f4f5408b7a4",
+  "multiverse_ids": [
+    616450
+  ],
+  "mtgo_id": 109122,
+  "tcgplayer_id": 495659,
+  "cardmarket_id": 710464,
+  "name": "Karn, Legacy Reforged",
+  "lang": "en",
+  "released_at": "2023-05-12",
+  "uri": "https://api.scryfall.com/cards/47b1d426-db36-4a6d-9eb7-d093e0c0ee6a",
+  "scryfall_uri": "https://scryfall.com/card/mat/99/karn-legacy-reforged?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/7/47b1d426-db36-4a6d-9eb7-d093e0c0ee6a.jpg?1684341311",
+    "normal": "https://cards.scryfall.io/normal/front/4/7/47b1d426-db36-4a6d-9eb7-d093e0c0ee6a.jpg?1684341311",
+    "large": "https://cards.scryfall.io/large/front/4/7/47b1d426-db36-4a6d-9eb7-d093e0c0ee6a.jpg?1684341311",
+    "png": "https://cards.scryfall.io/png/front/4/7/47b1d426-db36-4a6d-9eb7-d093e0c0ee6a.png?1684341311",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/7/47b1d426-db36-4a6d-9eb7-d093e0c0ee6a.jpg?1684341311",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/7/47b1d426-db36-4a6d-9eb7-d093e0c0ee6a.jpg?1684341311"
+  },
+  "mana_cost": "{5}",
+  "cmc": 5,
+  "type_line": "Legendary Artifact Creature — Golem",
+  "oracle_text": "Karn's power and toughness are each equal to the greatest mana value among artifacts you control.\nAt the beginning of your upkeep, add {C} for each artifact you control. This mana can't be spent to cast nonartifact spells. Until end of turn, you don't lose this mana as steps and phases end.",
+  "power": "*",
+  "toughness": "*",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "6727e43d-31b6-45b0-ae05-7a811ba72f70",
+  "set": "mat",
+  "set_name": "March of the Machine: The Aftermath",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/6727e43d-31b6-45b0-ae05-7a811ba72f70",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amat&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mat?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/47b1d426-db36-4a6d-9eb7-d093e0c0ee6a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abc8802db-8c94-4eb4-817f-5f4f5408b7a4&unique=prints",
+  "collector_number": "99",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daren Bader",
+  "artist_ids": [
+    "7da1a585-c875-45e4-b322-5da9e8e1f651"
+  ],
+  "illustration_id": "c6ac2121-a761-41e2-b34f-06c8fa065c56",
+  "border_color": "black",
+  "frame": "1997",
+  "frame_effects": [
+    "showcase",
+    "legendary"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 2242,
+  "penny_rank": 8322,
+  "prices": {
+    "usd": "11.04",
+    "usd_foil": "11.40",
+    "usd_etched": null,
+    "eur": "13.04",
+    "eur_foil": "12.98",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=616450&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKarn%252C%2BLegacy%2BReforged",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKarn%252C%2BLegacy%2BReforged",
+    "edhrec": "https://edhrec.com/route/?cc=Karn%2C+Legacy+Reforged"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F495659%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=710464&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/109122?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

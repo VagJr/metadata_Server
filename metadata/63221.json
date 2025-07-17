@@ -1,0 +1,162 @@
+{
+  "object": "card",
+  "id": "95a239e4-07f8-4b26-bb51-2b245c07e6bf",
+  "oracle_id": "166e5680-b8cf-47da-bcae-3591367c5fb4",
+  "multiverse_ids": [],
+  "tcgplayer_id": 492955,
+  "name": "Vorinclex // The Grand Evolution",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/95a239e4-07f8-4b26-bb51-2b245c07e6bf",
+  "scryfall_uri": "https://scryfall.com/card/pmom/213s/vorinclex-the-grand-evolution?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Phyrexian Praetor // Enchantment — Saga",
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Reach",
+    "Transform",
+    "Trample",
+    "Fight",
+    "Mill"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Vorinclex",
+      "mana_cost": "{3}{G}{G}",
+      "type_line": "Legendary Creature — Phyrexian Praetor",
+      "oracle_text": "Trample, reach\nWhen Vorinclex enters, search your library for up to two Forest cards, reveal them, put them into your hand, then shuffle.\n{6}{G}{G}: Exile Vorinclex, then return it to the battlefield transformed under its owner's control. Activate only as a sorcery.",
+      "colors": [
+        "G"
+      ],
+      "power": "6",
+      "toughness": "6",
+      "artist": "Daarken",
+      "artist_id": "e607a0d4-fc12-4c01-9e3f-501f5269b9cb",
+      "illustration_id": "8383bac7-d6ca-4c93-8078-ba6e82e65bb3",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/9/5/95a239e4-07f8-4b26-bb51-2b245c07e6bf.jpg?1689415682",
+        "normal": "https://cards.scryfall.io/normal/front/9/5/95a239e4-07f8-4b26-bb51-2b245c07e6bf.jpg?1689415682",
+        "large": "https://cards.scryfall.io/large/front/9/5/95a239e4-07f8-4b26-bb51-2b245c07e6bf.jpg?1689415682",
+        "png": "https://cards.scryfall.io/png/front/9/5/95a239e4-07f8-4b26-bb51-2b245c07e6bf.png?1689415682",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/9/5/95a239e4-07f8-4b26-bb51-2b245c07e6bf.jpg?1689415682",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/9/5/95a239e4-07f8-4b26-bb51-2b245c07e6bf.jpg?1689415682"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "The Grand Evolution",
+      "mana_cost": "",
+      "type_line": "Enchantment — Saga",
+      "oracle_text": "(As this Saga enters and after your draw step, add a lore counter.)\nI — Mill ten cards. Put up to two creature cards from among the milled cards onto the battlefield.\nII — Distribute seven +1/+1 counters among any number of target creatures you control.\nIII — Until end of turn, creatures you control gain \"{1}: This creature fights target creature you don't control.\" Exile this Saga, then return it to the battlefield (front face up).",
+      "colors": [
+        "G"
+      ],
+      "color_indicator": [
+        "G"
+      ],
+      "artist": "Daarken",
+      "artist_id": "e607a0d4-fc12-4c01-9e3f-501f5269b9cb",
+      "illustration_id": "e4938da9-124b-4847-90fd-3623aca16ad2",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/9/5/95a239e4-07f8-4b26-bb51-2b245c07e6bf.jpg?1689415682",
+        "normal": "https://cards.scryfall.io/normal/back/9/5/95a239e4-07f8-4b26-bb51-2b245c07e6bf.jpg?1689415682",
+        "large": "https://cards.scryfall.io/large/back/9/5/95a239e4-07f8-4b26-bb51-2b245c07e6bf.jpg?1689415682",
+        "png": "https://cards.scryfall.io/png/back/9/5/95a239e4-07f8-4b26-bb51-2b245c07e6bf.png?1689415682",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/9/5/95a239e4-07f8-4b26-bb51-2b245c07e6bf.jpg?1689415682",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/9/5/95a239e4-07f8-4b26-bb51-2b245c07e6bf.jpg?1689415682"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4af147e4-cf99-4f32-a77e-d116412f469a",
+  "set": "pmom",
+  "set_name": "March of the Machine Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/4af147e4-cf99-4f32-a77e-d116412f469a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apmom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pmom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/95a239e4-07f8-4b26-bb51-2b245c07e6bf/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A166e5680-b8cf-47da-bcae-3591367c5fb4&unique=prints",
+  "collector_number": "213s",
+  "digital": false,
+  "rarity": "mythic",
+  "artist": "Daarken",
+  "artist_ids": [
+    "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 2281,
+  "prices": {
+    "usd": null,
+    "usd_foil": "12.58",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVorinclex%2B%252F%252F%2BThe%2BGrand%2BEvolution",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVorinclex%2B%252F%252F%2BThe%2BGrand%2BEvolution",
+    "edhrec": "https://edhrec.com/route/?cc=Vorinclex"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F492955%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Vorinclex&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Vorinclex&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

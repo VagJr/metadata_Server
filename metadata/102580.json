@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "f2784c1e-1066-411f-96ea-287d60e0c115",
+  "oracle_id": "9e1b0034-bd2c-4412-8d81-db3306c8814f",
+  "multiverse_ids": [
+    571378
+  ],
+  "mtgo_id": 101574,
+  "tcgplayer_id": 277139,
+  "cardmarket_id": 664273,
+  "name": "Deranged Assistant",
+  "lang": "en",
+  "released_at": "2022-07-08",
+  "uri": "https://api.scryfall.com/cards/f2784c1e-1066-411f-96ea-287d60e0c115",
+  "scryfall_uri": "https://scryfall.com/card/2x2/45/deranged-assistant?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/2/f2784c1e-1066-411f-96ea-287d60e0c115.jpg?1673147259",
+    "normal": "https://cards.scryfall.io/normal/front/f/2/f2784c1e-1066-411f-96ea-287d60e0c115.jpg?1673147259",
+    "large": "https://cards.scryfall.io/large/front/f/2/f2784c1e-1066-411f-96ea-287d60e0c115.jpg?1673147259",
+    "png": "https://cards.scryfall.io/png/front/f/2/f2784c1e-1066-411f-96ea-287d60e0c115.png?1673147259",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/2/f2784c1e-1066-411f-96ea-287d60e0c115.jpg?1673147259",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/2/f2784c1e-1066-411f-96ea-287d60e0c115.jpg?1673147259"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Creature — Human Wizard",
+  "oracle_text": "{T}, Mill a card: Add {C}. (To mill a card, put the top card of your library into your graveyard.)",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5a645837-b050-449f-ac90-1e7ccbf45031",
+  "set": "2x2",
+  "set_name": "Double Masters 2022",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/5a645837-b050-449f-ac90-1e7ccbf45031",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A2x2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/2x2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f2784c1e-1066-411f-96ea-287d60e0c115/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9e1b0034-bd2c-4412-8d81-db3306c8814f&unique=prints",
+  "collector_number": "45",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Garl, adjust the slurry dispensers. Garl, fetch more corpses. Garl, quit crying and give me your brain tissue. If he doesn't stop being so rude, I'm quitting.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nils Hamm",
+  "artist_ids": [
+    "c540d1fc-1500-457f-93cf-d6069ee66546"
+  ],
+  "illustration_id": "66264564-7636-4078-8fd4-f905ad21964c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 4252,
+  "penny_rank": 10496,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/feature/double-masters-2022-release-notes-2022-06-24",
+    "previewed_at": "2022-06-24"
+  },
+  "prices": {
+    "usd": "0.03",
+    "usd_foil": "0.15",
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.07",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=571378&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDeranged%2BAssistant",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDeranged%2BAssistant",
+    "edhrec": "https://edhrec.com/route/?cc=Deranged+Assistant"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F277139%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=664273&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/101574?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

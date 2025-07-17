@@ -1,0 +1,154 @@
+{
+  "object": "card",
+  "id": "cdbd1cb1-799e-45aa-acd8-36ef924b0cdf",
+  "oracle_id": "0232418d-1c52-4573-b488-c62345ca1c8d",
+  "multiverse_ids": [
+    526700
+  ],
+  "tcgplayer_id": 240291,
+  "cardmarket_id": 566833,
+  "name": "Search the Premises",
+  "lang": "en",
+  "released_at": "2021-06-18",
+  "uri": "https://api.scryfall.com/cards/cdbd1cb1-799e-45aa-acd8-36ef924b0cdf",
+  "scryfall_uri": "https://scryfall.com/card/mh2/332/search-the-premises?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/d/cdbd1cb1-799e-45aa-acd8-36ef924b0cdf.jpg?1626101215",
+    "normal": "https://cards.scryfall.io/normal/front/c/d/cdbd1cb1-799e-45aa-acd8-36ef924b0cdf.jpg?1626101215",
+    "large": "https://cards.scryfall.io/large/front/c/d/cdbd1cb1-799e-45aa-acd8-36ef924b0cdf.jpg?1626101215",
+    "png": "https://cards.scryfall.io/png/front/c/d/cdbd1cb1-799e-45aa-acd8-36ef924b0cdf.png?1626101215",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/d/cdbd1cb1-799e-45aa-acd8-36ef924b0cdf.jpg?1626101215",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/d/cdbd1cb1-799e-45aa-acd8-36ef924b0cdf.jpg?1626101215"
+  },
+  "mana_cost": "{3}{W}",
+  "cmc": 4,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever a creature attacks you or a planeswalker you control, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Investigate"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "cdbd1cb1-799e-45aa-acd8-36ef924b0cdf",
+      "component": "combo_piece",
+      "name": "Search the Premises",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/cdbd1cb1-799e-45aa-acd8-36ef924b0cdf"
+    },
+    {
+      "object": "related_card",
+      "id": "eb129b0d-1349-4e88-a6a7-b7968b26ee7e",
+      "component": "token",
+      "name": "Clue",
+      "type_line": "Token Artifact — Clue",
+      "uri": "https://api.scryfall.com/cards/eb129b0d-1349-4e88-a6a7-b7968b26ee7e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c1c7eb8c-f205-40ab-a609-767cb296544e",
+  "set": "mh2",
+  "set_name": "Modern Horizons 2",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/c1c7eb8c-f205-40ab-a609-767cb296544e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/cdbd1cb1-799e-45aa-acd8-36ef924b0cdf/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0232418d-1c52-4573-b488-c62345ca1c8d&unique=prints",
+  "collector_number": "332",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Mood: Determined to find evidence of wrongdoing.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Matt Stewart",
+  "artist_ids": [
+    "20871267-2d8a-41d5-b03a-be3d557c5734"
+  ],
+  "illustration_id": "719236b9-0105-4a14-b553-55eb7ad65bbd",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 5608,
+  "penny_rank": 12730,
+  "preview": {
+    "source": "Bestmarmotte",
+    "source_uri": "https://twitter.com/Bestmarmotte/status/1399274699473969153",
+    "previewed_at": "2021-05-31"
+  },
+  "prices": {
+    "usd": "0.22",
+    "usd_foil": "0.24",
+    "usd_etched": null,
+    "eur": "0.16",
+    "eur_foil": "0.39",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=526700&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSearch%2Bthe%2BPremises",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSearch%2Bthe%2BPremises",
+    "edhrec": "https://edhrec.com/route/?cc=Search+the+Premises"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F240291%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=566833&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Search+the+Premises&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

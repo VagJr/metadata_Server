@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "9a8d5e4c-bc67-47a1-85d9-cf862a38edf5",
+  "oracle_id": "7677c7ce-1db3-41f5-8f86-e68718ea2d11",
+  "multiverse_ids": [
+    578070
+  ],
+  "tcgplayer_id": 283096,
+  "cardmarket_id": 671732,
+  "name": "Shanna, Purifying Blade",
+  "lang": "en",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/9a8d5e4c-bc67-47a1-85d9-cf862a38edf5",
+  "scryfall_uri": "https://scryfall.com/card/dmu/317/shanna-purifying-blade?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/a/9a8d5e4c-bc67-47a1-85d9-cf862a38edf5.jpg?1674074124",
+    "normal": "https://cards.scryfall.io/normal/front/9/a/9a8d5e4c-bc67-47a1-85d9-cf862a38edf5.jpg?1674074124",
+    "large": "https://cards.scryfall.io/large/front/9/a/9a8d5e4c-bc67-47a1-85d9-cf862a38edf5.jpg?1674074124",
+    "png": "https://cards.scryfall.io/png/front/9/a/9a8d5e4c-bc67-47a1-85d9-cf862a38edf5.png?1674074124",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/a/9a8d5e4c-bc67-47a1-85d9-cf862a38edf5.jpg?1674074124",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/a/9a8d5e4c-bc67-47a1-85d9-cf862a38edf5.jpg?1674074124"
+  },
+  "mana_cost": "{G}{W}{U}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Human Warrior",
+  "oracle_text": "Lifelink\nAt the beginning of your end step, you may pay {X}. If you do, draw X cards. X can't be greater than the amount of life you gained this turn.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "G",
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "U",
+    "W"
+  ],
+  "keywords": [
+    "Lifelink"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set": "dmu",
+  "set_name": "Dominaria United",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dmu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9a8d5e4c-bc67-47a1-85d9-cf862a38edf5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7677c7ce-1db3-41f5-8f86-e68718ea2d11&unique=prints",
+  "collector_number": "317",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jody Clark",
+  "artist_ids": [
+    "d116e987-f760-459d-9e8b-249d62f4acdf"
+  ],
+  "illustration_id": "a771c311-491b-425d-bbee-373a184dab1e",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 12192,
+  "preview": {
+    "source": "Cracked",
+    "source_uri": "https://www.cracked.com/article_35043_cracked-exclusive-a-new-mythic-commander-from-dominaria-united-the-latest-magic-the-gathering-set.html",
+    "previewed_at": "2022-08-24"
+  },
+  "prices": {
+    "usd": "0.23",
+    "usd_foil": "0.29",
+    "usd_etched": null,
+    "eur": "0.31",
+    "eur_foil": "1.01",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=578070&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DShanna%252C%2BPurifying%2BBlade",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DShanna%252C%2BPurifying%2BBlade",
+    "edhrec": "https://edhrec.com/route/?cc=Shanna%2C+Purifying+Blade"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F283096%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=671732&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Shanna%2C+Purifying+Blade&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

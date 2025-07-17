@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "74f8a654-8a7c-47db-b7aa-f78112b2f943",
+  "oracle_id": "48a99dce-0aa9-4aac-81df-cec5f94c639d",
+  "multiverse_ids": [],
+  "tcgplayer_id": 207712,
+  "cardmarket_id": 435044,
+  "name": "Archon of Sun's Grace",
+  "lang": "en",
+  "released_at": "2020-01-24",
+  "uri": "https://api.scryfall.com/cards/74f8a654-8a7c-47db-b7aa-f78112b2f943",
+  "scryfall_uri": "https://scryfall.com/card/pthb/3p/archon-of-suns-grace?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/4/74f8a654-8a7c-47db-b7aa-f78112b2f943.jpg?1581630625",
+    "normal": "https://cards.scryfall.io/normal/front/7/4/74f8a654-8a7c-47db-b7aa-f78112b2f943.jpg?1581630625",
+    "large": "https://cards.scryfall.io/large/front/7/4/74f8a654-8a7c-47db-b7aa-f78112b2f943.jpg?1581630625",
+    "png": "https://cards.scryfall.io/png/front/7/4/74f8a654-8a7c-47db-b7aa-f78112b2f943.png?1581630625",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/4/74f8a654-8a7c-47db-b7aa-f78112b2f943.jpg?1581630625",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/4/74f8a654-8a7c-47db-b7aa-f78112b2f943.jpg?1581630625"
+  },
+  "mana_cost": "{2}{W}{W}",
+  "cmc": 4,
+  "type_line": "Creature — Archon",
+  "oracle_text": "Flying\nLifelink (Damage dealt by this creature also causes you to gain that much life.)\nPegasus creatures you control have lifelink.\nConstellation — Whenever an enchantment you control enters, create a 2/2 white Pegasus creature token with flying.",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "Lifelink",
+    "Constellation"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "dee1c2ee-d92e-409a-995a-b4c91620c918",
+      "component": "token",
+      "name": "Pegasus",
+      "type_line": "Token Creature — Pegasus",
+      "uri": "https://api.scryfall.com/cards/dee1c2ee-d92e-409a-995a-b4c91620c918"
+    },
+    {
+      "object": "related_card",
+      "id": "4a8ebe3d-e189-430f-9431-bab4863daf37",
+      "component": "combo_piece",
+      "name": "Archon of Sun's Grace",
+      "type_line": "Creature — Archon",
+      "uri": "https://api.scryfall.com/cards/4a8ebe3d-e189-430f-9431-bab4863daf37"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "66d787e4-101d-4f72-a4ed-7c38df9b99fe",
+  "set": "pthb",
+  "set_name": "Theros Beyond Death Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/66d787e4-101d-4f72-a4ed-7c38df9b99fe",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apthb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pthb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/74f8a654-8a7c-47db-b7aa-f78112b2f943/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A48a99dce-0aa9-4aac-81df-cec5f94c639d&unique=prints",
+  "collector_number": "3p",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Matt Stewart",
+  "artist_ids": [
+    "20871267-2d8a-41d5-b03a-be3d557c5734"
+  ],
+  "illustration_id": "12655b1b-2813-4261-bb3d-db90d3f01d28",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 910,
+  "penny_rank": 2470,
+  "prices": {
+    "usd": "0.84",
+    "usd_foil": "1.44",
+    "usd_etched": null,
+    "eur": "0.47",
+    "eur_foil": "1.26",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DArchon%2Bof%2BSun%2527s%2BGrace",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DArchon%2Bof%2BSun%2527s%2BGrace",
+    "edhrec": "https://edhrec.com/route/?cc=Archon+of+Sun%27s+Grace"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F207712%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=435044&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Archon+of+Sun%27s+Grace&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

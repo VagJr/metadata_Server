@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "03f90e39-5130-4c8a-a0cf-23f2f2f76814",
+  "oracle_id": "6728b9d0-d3ab-4ba3-af13-63cb83e0ed99",
+  "multiverse_ids": [],
+  "mtgo_id": 79857,
+  "name": "Purphoros, Bronze-Blooded",
+  "lang": "en",
+  "released_at": "2020-02-07",
+  "uri": "https://api.scryfall.com/cards/03f90e39-5130-4c8a-a0cf-23f2f2f76814",
+  "scryfall_uri": "https://scryfall.com/card/prm/79857/purphoros-bronze-blooded?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/3/03f90e39-5130-4c8a-a0cf-23f2f2f76814.jpg?1681729303",
+    "normal": "https://cards.scryfall.io/normal/front/0/3/03f90e39-5130-4c8a-a0cf-23f2f2f76814.jpg?1681729303",
+    "large": "https://cards.scryfall.io/large/front/0/3/03f90e39-5130-4c8a-a0cf-23f2f2f76814.jpg?1681729303",
+    "png": "https://cards.scryfall.io/png/front/0/3/03f90e39-5130-4c8a-a0cf-23f2f2f76814.png?1681729303",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/3/03f90e39-5130-4c8a-a0cf-23f2f2f76814.jpg?1681729303",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/3/03f90e39-5130-4c8a-a0cf-23f2f2f76814.jpg?1681729303"
+  },
+  "mana_cost": "{4}{R}",
+  "cmc": 5,
+  "type_line": "Legendary Enchantment Creature — God",
+  "oracle_text": "Indestructible\nAs long as your devotion to red is less than five, Purphoros isn't a creature.\nOther creatures you control have haste.\n{2}{R}: You may put a red creature card or an artifact creature card from your hand onto the battlefield. Sacrifice it at the beginning of the next end step.",
+  "power": "7",
+  "toughness": "6",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Indestructible"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/03f90e39-5130-4c8a-a0cf-23f2f2f76814/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6728b9d0-d3ab-4ba3-af13-63cb83e0ed99&unique=prints",
+  "collector_number": "79857",
+  "digital": true,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason A. Engle",
+  "artist_ids": [
+    "02e2b5de-4341-464c-8fdb-a1adbf873bc0"
+  ],
+  "illustration_id": "78ac2b71-6991-498c-a5a6-c14cf96d5ff5",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "enchantment"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4310,
+  "penny_rank": 7803,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "1.04"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPurphoros%252C%2BBronze-Blooded",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPurphoros%252C%2BBronze-Blooded",
+    "edhrec": "https://edhrec.com/route/?cc=Purphoros%2C+Bronze-Blooded"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DPurphoros%252C%2BBronze-Blooded%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Purphoros%2C+Bronze-Blooded&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/79857?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "object": "card",
+  "id": "fcecfd0d-6d2b-40e9-b5bc-9303ff455689",
+  "oracle_id": "5d604aff-ba60-4064-b025-b1f3d1c0254e",
+  "multiverse_ids": [
+    548081
+  ],
+  "arena_id": 75853,
+  "name": "Weldfast Monitor",
+  "lang": "en",
+  "released_at": "2020-11-12",
+  "uri": "https://api.scryfall.com/cards/fcecfd0d-6d2b-40e9-b5bc-9303ff455689",
+  "scryfall_uri": "https://scryfall.com/card/klr/275/weldfast-monitor?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/c/fcecfd0d-6d2b-40e9-b5bc-9303ff455689.jpg?1605330181",
+    "normal": "https://cards.scryfall.io/normal/front/f/c/fcecfd0d-6d2b-40e9-b5bc-9303ff455689.jpg?1605330181",
+    "large": "https://cards.scryfall.io/large/front/f/c/fcecfd0d-6d2b-40e9-b5bc-9303ff455689.jpg?1605330181",
+    "png": "https://cards.scryfall.io/png/front/f/c/fcecfd0d-6d2b-40e9-b5bc-9303ff455689.png?1605330181",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/c/fcecfd0d-6d2b-40e9-b5bc-9303ff455689.jpg?1605330181",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/c/fcecfd0d-6d2b-40e9-b5bc-9303ff455689.jpg?1605330181"
+  },
+  "mana_cost": "{3}",
+  "cmc": 3,
+  "type_line": "Artifact Creature — Lizard",
+  "oracle_text": "{R}: This creature gains menace until end of turn.",
+  "power": "3",
+  "toughness": "2",
+  "colors": [],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cff93939-c724-4ed0-9367-e1277d39ba70",
+  "set": "klr",
+  "set_name": "Kaladesh Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cff93939-c724-4ed0-9367-e1277d39ba70",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aklr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/klr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/fcecfd0d-6d2b-40e9-b5bc-9303ff455689/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5d604aff-ba60-4064-b025-b1f3d1c0254e&unique=prints",
+  "collector_number": "275",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jakub Kasper",
+  "artist_ids": [
+    "36901417-ce61-4636-8b77-6db14a9cb68a"
+  ],
+  "illustration_id": "7f909f8a-e504-4f7e-964b-6cb64a38a89c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 26423,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548081&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWeldfast%2BMonitor",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWeldfast%2BMonitor",
+    "edhrec": "https://edhrec.com/route/?cc=Weldfast+Monitor"
+  }
+}

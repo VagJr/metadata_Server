@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "a6759c74-7b87-4717-b2ed-6eac64d98029",
+  "oracle_id": "3431ee42-c34a-4972-9488-41b83ba5f943",
+  "multiverse_ids": [],
+  "tcgplayer_id": 492965,
+  "name": "Inga and Esika",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/a6759c74-7b87-4717-b2ed-6eac64d98029",
+  "scryfall_uri": "https://scryfall.com/card/pmom/229s/inga-and-esika?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/6/a6759c74-7b87-4717-b2ed-6eac64d98029.jpg?1682598819",
+    "normal": "https://cards.scryfall.io/normal/front/a/6/a6759c74-7b87-4717-b2ed-6eac64d98029.jpg?1682598819",
+    "large": "https://cards.scryfall.io/large/front/a/6/a6759c74-7b87-4717-b2ed-6eac64d98029.jpg?1682598819",
+    "png": "https://cards.scryfall.io/png/front/a/6/a6759c74-7b87-4717-b2ed-6eac64d98029.png?1682598819",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/6/a6759c74-7b87-4717-b2ed-6eac64d98029.jpg?1682598819",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/6/a6759c74-7b87-4717-b2ed-6eac64d98029.jpg?1682598819"
+  },
+  "mana_cost": "{2}{G}{U}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Human God",
+  "oracle_text": "Creatures you control have vigilance and \"{T}: Add one mana of any color. Spend this mana only to cast a creature spell.\"\nWhenever you cast a creature spell, if three or more mana from creatures was spent to cast it, draw a card.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4af147e4-cf99-4f32-a77e-d116412f469a",
+  "set": "pmom",
+  "set_name": "March of the Machine Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/4af147e4-cf99-4f32-a77e-d116412f469a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apmom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pmom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a6759c74-7b87-4717-b2ed-6eac64d98029/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3431ee42-c34a-4972-9488-41b83ba5f943&unique=prints",
+  "collector_number": "229s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wayne Reynolds",
+  "artist_ids": [
+    "afc47cec-3ccc-404e-a8c6-4d83dd504271"
+  ],
+  "illustration_id": "cf4e21c8-c4d9-4b33-b922-35e3d6dd70e0",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 2055,
+  "penny_rank": 8435,
+  "prices": {
+    "usd": null,
+    "usd_foil": "2.49",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DInga%2Band%2BEsika",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DInga%2Band%2BEsika",
+    "edhrec": "https://edhrec.com/route/?cc=Inga+and+Esika"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F492965%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Inga+and+Esika&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Inga+and+Esika&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

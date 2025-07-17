@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "be6604df-0888-420d-957e-93cf3d770a9e",
+  "oracle_id": "bd004c9d-771e-4e63-a97d-a2259c096af8",
+  "multiverse_ids": [
+    497177
+  ],
+  "mtgo_id": 83601,
+  "tcgplayer_id": 221816,
+  "cardmarket_id": 494939,
+  "name": "Morphic Pool",
+  "lang": "en",
+  "released_at": "2020-09-25",
+  "uri": "https://api.scryfall.com/cards/be6604df-0888-420d-957e-93cf3d770a9e",
+  "scryfall_uri": "https://scryfall.com/card/zne/17/morphic-pool?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/e/be6604df-0888-420d-957e-93cf3d770a9e.jpg?1604195631",
+    "normal": "https://cards.scryfall.io/normal/front/b/e/be6604df-0888-420d-957e-93cf3d770a9e.jpg?1604195631",
+    "large": "https://cards.scryfall.io/large/front/b/e/be6604df-0888-420d-957e-93cf3d770a9e.jpg?1604195631",
+    "png": "https://cards.scryfall.io/png/front/b/e/be6604df-0888-420d-957e-93cf3d770a9e.png?1604195631",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/e/be6604df-0888-420d-957e-93cf3d770a9e.jpg?1604195631",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/e/be6604df-0888-420d-957e-93cf3d770a9e.jpg?1604195631"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {U} or {B}.",
+  "colors": [],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "U"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "24e668b5-8312-498e-9bd7-c77a102bb55c",
+  "set": "zne",
+  "set_name": "Zendikar Rising Expeditions",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/24e668b5-8312-498e-9bd7-c77a102bb55c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Azne&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/zne?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/be6604df-0888-420d-957e-93cf3d770a9e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abd004c9d-771e-4e63-a97d-a2259c096af8&unique=prints",
+  "collector_number": "17",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steven Belledin",
+  "artist_ids": [
+    "f07d73b9-52a0-4fe5-858b-61f7b42174a5"
+  ],
+  "illustration_id": "1dec40b0-c7f9-47f4-9545-f4a9e22ed735",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 133,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/news/zendikar-debut-and-announcement-day-recap-2020-09-01",
+    "previewed_at": "2020-09-01"
+  },
+  "prices": {
+    "usd": "20.34",
+    "usd_foil": "28.50",
+    "usd_etched": null,
+    "eur": "19.78",
+    "eur_foil": "25.66",
+    "tix": "6.11"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=497177&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMorphic%2BPool",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMorphic%2BPool",
+    "edhrec": "https://edhrec.com/route/?cc=Morphic+Pool"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F221816%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=494939&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/83601?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "99285945-0d97-4e29-9be2-2d2cfd9bac4e",
+  "oracle_id": "18bdc181-9592-4147-81fb-7f83ce137f70",
+  "multiverse_ids": [],
+  "tcgplayer_id": 484585,
+  "name": "Ugin, the Ineffable",
+  "lang": "en",
+  "released_at": "2023-02-20",
+  "uri": "https://api.scryfall.com/cards/99285945-0d97-4e29-9be2-2d2cfd9bac4e",
+  "scryfall_uri": "https://scryfall.com/card/sld/1243/ugin-the-ineffable?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/9/99285945-0d97-4e29-9be2-2d2cfd9bac4e.jpg?1682642061",
+    "normal": "https://cards.scryfall.io/normal/front/9/9/99285945-0d97-4e29-9be2-2d2cfd9bac4e.jpg?1682642061",
+    "large": "https://cards.scryfall.io/large/front/9/9/99285945-0d97-4e29-9be2-2d2cfd9bac4e.jpg?1682642061",
+    "png": "https://cards.scryfall.io/png/front/9/9/99285945-0d97-4e29-9be2-2d2cfd9bac4e.png?1682642061",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/9/99285945-0d97-4e29-9be2-2d2cfd9bac4e.jpg?1682642061",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/9/99285945-0d97-4e29-9be2-2d2cfd9bac4e.jpg?1682642061"
+  },
+  "mana_cost": "{6}",
+  "cmc": 6,
+  "type_line": "Legendary Planeswalker — Ugin",
+  "oracle_text": "Colorless spells you cast cost {2} less to cast.\n+1: Exile the top card of your library face down and look at it. Create a 2/2 colorless Spirit creature token. When that token leaves the battlefield, put the exiled card into your hand.\n−3: Destroy target permanent that's one or more colors.",
+  "loyalty": "4",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "99285945-0d97-4e29-9be2-2d2cfd9bac4e",
+      "component": "combo_piece",
+      "name": "Ugin, the Ineffable",
+      "type_line": "Legendary Planeswalker — Ugin",
+      "uri": "https://api.scryfall.com/cards/99285945-0d97-4e29-9be2-2d2cfd9bac4e"
+    },
+    {
+      "object": "related_card",
+      "id": "3df8b9f6-f500-4bd5-b53e-c457c6cf0052",
+      "component": "token",
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/3df8b9f6-f500-4bd5-b53e-c457c6cf0052"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/99285945-0d97-4e29-9be2-2d2cfd9bac4e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A18bdc181-9592-4147-81fb-7f83ce137f70&unique=prints",
+  "collector_number": "1243",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Sansyu",
+  "artist_ids": [
+    "00f53364-12d6-4797-85fe-30503bae0d11"
+  ],
+  "illustration_id": "c10d4234-702e-43ad-9b21-18da2024ba96",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 820,
+  "penny_rank": 952,
+  "prices": {
+    "usd": null,
+    "usd_foil": "7.41",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DUgin%252C%2Bthe%2BIneffable",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DUgin%252C%2Bthe%2BIneffable",
+    "edhrec": "https://edhrec.com/route/?cc=Ugin%2C+the+Ineffable"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F484585%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ugin%2C+the+Ineffable&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ugin%2C+the+Ineffable&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "object": "card",
+  "id": "46ecbec4-0f29-4795-a16c-15e7ca55af4f",
+  "oracle_id": "18beb8eb-6f67-482f-9a7d-282f1e7ecbc1",
+  "multiverse_ids": [
+    507683
+  ],
+  "arena_id": 75438,
+  "tcgplayer_id": 230511,
+  "cardmarket_id": 531162,
+  "name": "Narfi, Betrayer King",
+  "lang": "en",
+  "released_at": "2021-02-05",
+  "uri": "https://api.scryfall.com/cards/46ecbec4-0f29-4795-a16c-15e7ca55af4f",
+  "scryfall_uri": "https://scryfall.com/card/khm/329/narfi-betrayer-king?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/6/46ecbec4-0f29-4795-a16c-15e7ca55af4f.jpg?1631055510",
+    "normal": "https://cards.scryfall.io/normal/front/4/6/46ecbec4-0f29-4795-a16c-15e7ca55af4f.jpg?1631055510",
+    "large": "https://cards.scryfall.io/large/front/4/6/46ecbec4-0f29-4795-a16c-15e7ca55af4f.jpg?1631055510",
+    "png": "https://cards.scryfall.io/png/front/4/6/46ecbec4-0f29-4795-a16c-15e7ca55af4f.png?1631055510",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/6/46ecbec4-0f29-4795-a16c-15e7ca55af4f.jpg?1631055510",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/6/46ecbec4-0f29-4795-a16c-15e7ca55af4f.jpg?1631055510"
+  },
+  "mana_cost": "{3}{U}{B}",
+  "cmc": 5,
+  "type_line": "Legendary Snow Creature — Zombie Wizard",
+  "oracle_text": "Other snow and Zombie creatures you control get +1/+1.\n{S}{S}{S}: Return this card from your graveyard to the battlefield tapped. ({S} can be paid with one mana from a snow source.)",
+  "power": "4",
+  "toughness": "3",
+  "colors": [
+    "B",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "46ecbec4-0f29-4795-a16c-15e7ca55af4f",
+      "component": "combo_piece",
+      "name": "Narfi, Betrayer King",
+      "type_line": "Legendary Snow Creature — Zombie Wizard",
+      "uri": "https://api.scryfall.com/cards/46ecbec4-0f29-4795-a16c-15e7ca55af4f"
+    },
+    {
+      "object": "related_card",
+      "id": "2d689fc6-c7b5-46f8-9ec2-2bc4b4af87c0",
+      "component": "combo_piece",
+      "name": "A-Narfi, Betrayer King",
+      "type_line": "Legendary Snow Creature — Zombie Wizard",
+      "uri": "https://api.scryfall.com/cards/2d689fc6-c7b5-46f8-9ec2-2bc4b4af87c0"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "43057fad-b1c1-437f-bc48-0045bce6d8c9",
+  "set": "khm",
+  "set_name": "Kaldheim",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/43057fad-b1c1-437f-bc48-0045bce6d8c9",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Akhm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/khm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/46ecbec4-0f29-4795-a16c-15e7ca55af4f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A18beb8eb-6f67-482f-9a7d-282f1e7ecbc1&unique=prints",
+  "collector_number": "329",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Christopher Lovell",
+  "artist_ids": [
+    "092140b9-afcc-4b5f-891c-2ceea9c67e35"
+  ],
+  "illustration_id": "9898f7d8-b735-4d05-a466-4f91fdc358bf",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 10200,
+  "penny_rank": 2925,
+  "preview": {
+    "source": "Olivia Gobert-Hicks",
+    "source_uri": "https://twitter.com/goberthicks/status/1349400365184086018",
+    "previewed_at": "2021-01-14"
+  },
+  "prices": {
+    "usd": "0.10",
+    "usd_foil": "0.16",
+    "usd_etched": null,
+    "eur": "0.15",
+    "eur_foil": "0.20",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=507683&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNarfi%252C%2BBetrayer%2BKing",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNarfi%252C%2BBetrayer%2BKing",
+    "edhrec": "https://edhrec.com/route/?cc=Narfi%2C+Betrayer+King"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F230511%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=531162&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Narfi%2C+Betrayer+King&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

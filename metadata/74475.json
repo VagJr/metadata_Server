@@ -1,0 +1,158 @@
+{
+  "object": "card",
+  "id": "afb796a0-4eb0-4fc5-bf84-92a71bec4466",
+  "oracle_id": "11734409-b03b-4905-af83-261f29a96bc2",
+  "multiverse_ids": [],
+  "tcgplayer_id": 274070,
+  "name": "Boar",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/afb796a0-4eb0-4fc5-bf84-92a71bec4466",
+  "scryfall_uri": "https://scryfall.com/card/tclb/12/boar?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/f/afb796a0-4eb0-4fc5-bf84-92a71bec4466.jpg?1675455830",
+    "normal": "https://cards.scryfall.io/normal/front/a/f/afb796a0-4eb0-4fc5-bf84-92a71bec4466.jpg?1675455830",
+    "large": "https://cards.scryfall.io/large/front/a/f/afb796a0-4eb0-4fc5-bf84-92a71bec4466.jpg?1675455830",
+    "png": "https://cards.scryfall.io/png/front/a/f/afb796a0-4eb0-4fc5-bf84-92a71bec4466.png?1675455830",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/f/afb796a0-4eb0-4fc5-bf84-92a71bec4466.jpg?1675455830",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/f/afb796a0-4eb0-4fc5-bf84-92a71bec4466.jpg?1675455830"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Boar",
+  "oracle_text": "",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "afb796a0-4eb0-4fc5-bf84-92a71bec4466",
+      "component": "token",
+      "name": "Boar",
+      "type_line": "Token Creature — Boar",
+      "uri": "https://api.scryfall.com/cards/afb796a0-4eb0-4fc5-bf84-92a71bec4466"
+    },
+    {
+      "object": "related_card",
+      "id": "7e782e90-d6e5-4a55-87a8-3bd6dce1b67a",
+      "component": "combo_piece",
+      "name": "Stampede Surfer",
+      "type_line": "Creature — Human Warrior",
+      "uri": "https://api.scryfall.com/cards/7e782e90-d6e5-4a55-87a8-3bd6dce1b67a"
+    },
+    {
+      "object": "related_card",
+      "id": "ad8d2b97-72b9-4bde-ad31-fd9562512d30",
+      "component": "combo_piece",
+      "name": "Carefree Swinemaster",
+      "type_line": "Creature — Gnome Ranger",
+      "uri": "https://api.scryfall.com/cards/ad8d2b97-72b9-4bde-ad31-fd9562512d30"
+    },
+    {
+      "object": "related_card",
+      "id": "a0ef264e-f987-422e-aac1-ae4963c797f5",
+      "component": "combo_piece",
+      "name": "Curse of the Swine",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/a0ef264e-f987-422e-aac1-ae4963c797f5"
+    },
+    {
+      "object": "related_card",
+      "id": "d59299b0-91d9-4131-b8d9-614088e1ccaf",
+      "component": "combo_piece",
+      "name": "Contraband Livestock",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/d59299b0-91d9-4131-b8d9-614088e1ccaf"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "942706db-55db-4d8b-8337-deca3a4b522c",
+  "set": "tclb",
+  "set_name": "Battle for Baldur's Gate Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/942706db-55db-4d8b-8337-deca3a4b522c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tclb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/afb796a0-4eb0-4fc5-bf84-92a71bec4466/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A11734409-b03b-4905-af83-261f29a96bc2&unique=prints",
+  "collector_number": "12",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tomek Larek",
+  "artist_ids": [
+    "9061457f-e55b-4755-9965-715872ff2a70"
+  ],
+  "illustration_id": "582d8716-0224-471a-b20d-1b9fde5c6012",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": "0.31",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBoar",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBoar",
+    "edhrec": "https://edhrec.com/route/?cc=Boar"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F274070%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Boar&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Boar&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "0de4d738-e71e-49ab-b842-e7ea785450e9",
+  "oracle_id": "53f7c868-b03e-4fc2-8dcf-a75bbfa3272b",
+  "multiverse_ids": [],
+  "tcgplayer_id": 528385,
+  "name": "Dark Ritual",
+  "lang": "en",
+  "released_at": "2024-02-23",
+  "uri": "https://api.scryfall.com/cards/0de4d738-e71e-49ab-b842-e7ea785450e9",
+  "scryfall_uri": "https://scryfall.com/card/slp/16/dark-ritual?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/d/0de4d738-e71e-49ab-b842-e7ea785450e9.jpg?1700170028",
+    "normal": "https://cards.scryfall.io/normal/front/0/d/0de4d738-e71e-49ab-b842-e7ea785450e9.jpg?1700170028",
+    "large": "https://cards.scryfall.io/large/front/0/d/0de4d738-e71e-49ab-b842-e7ea785450e9.jpg?1700170028",
+    "png": "https://cards.scryfall.io/png/front/0/d/0de4d738-e71e-49ab-b842-e7ea785450e9.png?1700170028",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/d/0de4d738-e71e-49ab-b842-e7ea785450e9.jpg?1700170028",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/d/0de4d738-e71e-49ab-b842-e7ea785450e9.jpg?1700170028"
+  },
+  "mana_cost": "{B}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "oracle_text": "Add {B}{B}{B}.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "banned",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "banned",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c325b3f9-51e1-416b-83b1-138f11790dd1",
+  "set": "slp",
+  "set_name": "Secret Lair Showdown",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/c325b3f9-51e1-416b-83b1-138f11790dd1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aslp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/slp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0de4d738-e71e-49ab-b842-e7ea785450e9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A53f7c868-b03e-4fc2-8dcf-a75bbfa3272b&unique=prints",
+  "collector_number": "16",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"I will bleat you dry.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wizard of Barge",
+  "artist_ids": [
+    "b1b7118a-fce9-4f28-9617-5cea5146e33c"
+  ],
+  "illustration_id": "1a090bc9-4e4b-4307-8f30-8b961b98e34f",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 39,
+  "penny_rank": 28,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.gg/news/the-2024-magiccon-schedule",
+    "previewed_at": "2023-11-16"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDark%2BRitual",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDark%2BRitual",
+    "edhrec": "https://edhrec.com/route/?cc=Dark+Ritual"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F528385%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dark+Ritual&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dark+Ritual&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

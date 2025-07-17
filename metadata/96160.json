@@ -1,0 +1,162 @@
+{
+  "object": "card",
+  "id": "e314fa27-8d87-425a-ae94-28bfd9005505",
+  "oracle_id": "80d918b2-3a28-49ad-a485-496658bd7ac3",
+  "multiverse_ids": [
+    610544
+  ],
+  "mtgo_id": 109550,
+  "tcgplayer_id": 490578,
+  "cardmarket_id": 704078,
+  "name": "Rankle and Torbran",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/e314fa27-8d87-425a-ae94-28bfd9005505",
+  "scryfall_uri": "https://scryfall.com/card/mom/315/rankle-and-torbran?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/3/e314fa27-8d87-425a-ae94-28bfd9005505.jpg?1682206391",
+    "normal": "https://cards.scryfall.io/normal/front/e/3/e314fa27-8d87-425a-ae94-28bfd9005505.jpg?1682206391",
+    "large": "https://cards.scryfall.io/large/front/e/3/e314fa27-8d87-425a-ae94-28bfd9005505.jpg?1682206391",
+    "png": "https://cards.scryfall.io/png/front/e/3/e314fa27-8d87-425a-ae94-28bfd9005505.png?1682206391",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/3/e314fa27-8d87-425a-ae94-28bfd9005505.jpg?1682206391",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/3/e314fa27-8d87-425a-ae94-28bfd9005505.jpg?1682206391"
+  },
+  "mana_cost": "{1}{B}{B}{R}{R}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Faerie Dwarf",
+  "oracle_text": "Flying, first strike, haste\nWhenever Rankle and Torbran deals combat damage to a player or battle, choose any number —\n• Each player creates a Treasure token.\n• Each player sacrifices a creature of their choice.\n• If a source would deal damage to a player or battle this turn, it deals that much damage plus 2 instead.",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [
+    "Flying",
+    "First strike",
+    "Treasure",
+    "Haste"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "1728ad2d-c8a6-49e4-85bb-29934fa26208",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/1728ad2d-c8a6-49e4-85bb-29934fa26208"
+    },
+    {
+      "object": "related_card",
+      "id": "e314fa27-8d87-425a-ae94-28bfd9005505",
+      "component": "combo_piece",
+      "name": "Rankle and Torbran",
+      "type_line": "Legendary Creature — Faerie Dwarf",
+      "uri": "https://api.scryfall.com/cards/e314fa27-8d87-425a-ae94-28bfd9005505"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "392f7315-dc53-40a3-a2cc-5482dbd498b3",
+  "set": "mom",
+  "set_name": "March of the Machine",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/392f7315-dc53-40a3-a2cc-5482dbd498b3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e314fa27-8d87-425a-ae94-28bfd9005505/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A80d918b2-3a28-49ad-a485-496658bd7ac3&unique=prints",
+  "collector_number": "315",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Omar Rayyan",
+  "artist_ids": [
+    "256b61a2-b9af-4ff5-b485-47a61818f818"
+  ],
+  "illustration_id": "7c8776d7-6674-4453-8e3e-803d37c1ec0e",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 7604,
+  "preview": {
+    "source": "IGN",
+    "source_uri": "https://www.ign.com/articles/magic-the-gatherings-march-of-the-machine-card-reveal-spoilers-combo",
+    "previewed_at": "2023-03-30"
+  },
+  "prices": {
+    "usd": "0.21",
+    "usd_foil": "0.31",
+    "usd_etched": null,
+    "eur": "0.32",
+    "eur_foil": "0.31",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=610544&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRankle%2Band%2BTorbran",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRankle%2Band%2BTorbran",
+    "edhrec": "https://edhrec.com/route/?cc=Rankle+and+Torbran"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F490578%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=704078&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/109550?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

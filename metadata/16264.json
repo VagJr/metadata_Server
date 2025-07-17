@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "2624fbf2-3a81-40f7-b3a0-9483cd4bf782",
+  "oracle_id": "b01d61cc-9844-4191-86a0-f2db6d42d6e5",
+  "multiverse_ids": [
+    675491
+  ],
+  "mtgo_id": 130767,
+  "tcgplayer_id": 575090,
+  "cardmarket_id": 786264,
+  "name": "Damn",
+  "lang": "en",
+  "released_at": "2024-09-27",
+  "uri": "https://api.scryfall.com/cards/2624fbf2-3a81-40f7-b3a0-9483cd4bf782",
+  "scryfall_uri": "https://scryfall.com/card/dsc/369/damn?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/6/2624fbf2-3a81-40f7-b3a0-9483cd4bf782.jpg?1734498179",
+    "normal": "https://cards.scryfall.io/normal/front/2/6/2624fbf2-3a81-40f7-b3a0-9483cd4bf782.jpg?1734498179",
+    "large": "https://cards.scryfall.io/large/front/2/6/2624fbf2-3a81-40f7-b3a0-9483cd4bf782.jpg?1734498179",
+    "png": "https://cards.scryfall.io/png/front/2/6/2624fbf2-3a81-40f7-b3a0-9483cd4bf782.png?1734498179",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/6/2624fbf2-3a81-40f7-b3a0-9483cd4bf782.jpg?1734498179",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/6/2624fbf2-3a81-40f7-b3a0-9483cd4bf782.jpg?1734498179"
+  },
+  "mana_cost": "{B}{B}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "oracle_text": "Destroy target creature. A creature destroyed this way can't be regenerated.\nOverload {2}{W}{W} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [
+    "Overload"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4c822528-83c3-42c7-8708-dd1d37166819",
+  "set": "dsc",
+  "set_name": "Duskmourn: House of Horror Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/4c822528-83c3-42c7-8708-dd1d37166819",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adsc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dsc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2624fbf2-3a81-40f7-b3a0-9483cd4bf782/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab01d61cc-9844-4191-86a0-f2db6d42d6e5&unique=prints",
+  "collector_number": "369",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "As their bodies crumbled to ash, the cultists' terrible smiles only grew wider.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tim Jacobus",
+  "artist_ids": [
+    "266dc8ef-ad8f-4972-a293-f9e150ef5740"
+  ],
+  "illustration_id": "6dcf09e8-edf0-4975-beed-5d17ac172082",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "bundle"
+  ],
+  "edhrec_rank": 307,
+  "penny_rank": 24,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/news/feature/collecting-duskmourn",
+    "previewed_at": "2024-08-31"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "4.26",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "3.58",
+    "tix": "0.15"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=675491&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDamn",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDamn",
+    "edhrec": "https://edhrec.com/route/?cc=Damn"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F575090%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=786264&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/130767?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

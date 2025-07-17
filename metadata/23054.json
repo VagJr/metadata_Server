@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "3634a763-66cb-4929-bc02-1188c732ae90",
+  "oracle_id": "04f2c320-dfcc-440a-9e24-3c2083d74e7c",
+  "multiverse_ids": [],
+  "tcgplayer_id": 189564,
+  "cardmarket_id": 373452,
+  "name": "Jiang Yanggu, Wildcrafter",
+  "printed_name": "野生造り、ジアン・ヤングー",
+  "lang": "ja",
+  "released_at": "2019-05-03",
+  "uri": "https://api.scryfall.com/cards/3634a763-66cb-4929-bc02-1188c732ae90",
+  "scryfall_uri": "https://scryfall.com/card/pwar/164s%E2%98%85/ja/%E9%87%8E%E7%94%9F%E9%80%A0%E3%82%8A%E3%80%81%E3%82%B8%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%A4%E3%83%B3%E3%82%B0%E3%83%BC-(jiang-yanggu-wildcrafter)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/6/3634a763-66cb-4929-bc02-1188c732ae90.jpg?1593867211",
+    "normal": "https://cards.scryfall.io/normal/front/3/6/3634a763-66cb-4929-bc02-1188c732ae90.jpg?1593867211",
+    "large": "https://cards.scryfall.io/large/front/3/6/3634a763-66cb-4929-bc02-1188c732ae90.jpg?1593867211",
+    "png": "https://cards.scryfall.io/png/front/3/6/3634a763-66cb-4929-bc02-1188c732ae90.png?1593867211",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/6/3634a763-66cb-4929-bc02-1188c732ae90.jpg?1593867211",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/6/3634a763-66cb-4929-bc02-1188c732ae90.jpg?1593867211"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Legendary Planeswalker — Yanggu",
+  "printed_type_line": "伝説のプレインズウォーカー — ヤングー",
+  "oracle_text": "Each creature you control with a +1/+1 counter on it has \"{T}: Add one mana of any color.\"\n−1: Put a +1/+1 counter on target creature.",
+  "printed_text": "あなたがコントロールしていて＋１/＋１カウンターが置かれている各クリーチャーはそれぞれ「{T}：好きな色１色のマナ１点を加える。」を持つ。\n-1：クリーチャー１体を対象とし、それの上に＋１/＋１カウンターを１個置く。",
+  "loyalty": "3",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9981777b-983e-4f17-b9b1-fe32cf243e23",
+  "set": "pwar",
+  "set_name": "War of the Spark Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/9981777b-983e-4f17-b9b1-fe32cf243e23",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwar&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwar?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3634a763-66cb-4929-bc02-1188c732ae90/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A04f2c320-dfcc-440a-9e24-3c2083d74e7c&unique=prints",
+  "collector_number": "164s★",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daisuke Izuka",
+  "artist_ids": [
+    "716d25a7-8bb9-45aa-960f-f73ea6886ad4"
+  ],
+  "illustration_id": "20c6bf58-a47f-46bd-9166-23278cfcf2d2",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped",
+    "jpwalker"
+  ],
+  "edhrec_rank": 4716,
+  "penny_rank": 6707,
+  "prices": {
+    "usd": null,
+    "usd_foil": "11.00",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "35.88",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJiang%2BYanggu%252C%2BWildcrafter",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJiang%2BYanggu%252C%2BWildcrafter",
+    "edhrec": "https://edhrec.com/route/?cc=Jiang+Yanggu%2C+Wildcrafter"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F189564%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=373452&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jiang+Yanggu%2C+Wildcrafter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

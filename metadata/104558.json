@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "f7294e40-11b3-4d5c-82d0-c8ec6bd3a6c9",
+  "oracle_id": "1b94a11b-21b0-4465-a520-69608f022fb4",
+  "multiverse_ids": [
+    435176
+  ],
+  "mtgo_id": 65060,
+  "mtgo_foil_id": 65061,
+  "arena_id": 66009,
+  "tcgplayer_id": 141996,
+  "cardmarket_id": 301195,
+  "name": "Mavren Fein, Dusk Apostle",
+  "lang": "en",
+  "released_at": "2017-09-29",
+  "uri": "https://api.scryfall.com/cards/f7294e40-11b3-4d5c-82d0-c8ec6bd3a6c9",
+  "scryfall_uri": "https://scryfall.com/card/xln/24/mavren-fein-dusk-apostle?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/7/f7294e40-11b3-4d5c-82d0-c8ec6bd3a6c9.jpg?1562566887",
+    "normal": "https://cards.scryfall.io/normal/front/f/7/f7294e40-11b3-4d5c-82d0-c8ec6bd3a6c9.jpg?1562566887",
+    "large": "https://cards.scryfall.io/large/front/f/7/f7294e40-11b3-4d5c-82d0-c8ec6bd3a6c9.jpg?1562566887",
+    "png": "https://cards.scryfall.io/png/front/f/7/f7294e40-11b3-4d5c-82d0-c8ec6bd3a6c9.png?1562566887",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/7/f7294e40-11b3-4d5c-82d0-c8ec6bd3a6c9.jpg?1562566887",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/7/f7294e40-11b3-4d5c-82d0-c8ec6bd3a6c9.jpg?1562566887"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Vampire Cleric",
+  "oracle_text": "Whenever one or more nontoken Vampires you control attack, create a 1/1 white Vampire creature token with lifelink.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "f7294e40-11b3-4d5c-82d0-c8ec6bd3a6c9",
+      "component": "combo_piece",
+      "name": "Mavren Fein, Dusk Apostle",
+      "type_line": "Legendary Creature — Vampire Cleric",
+      "uri": "https://api.scryfall.com/cards/f7294e40-11b3-4d5c-82d0-c8ec6bd3a6c9"
+    },
+    {
+      "object": "related_card",
+      "id": "09293ae7-0629-417b-9eda-9bd3f6d8e118",
+      "component": "token",
+      "name": "Vampire",
+      "type_line": "Token Creature — Vampire",
+      "uri": "https://api.scryfall.com/cards/09293ae7-0629-417b-9eda-9bd3f6d8e118"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "fe0dad85-54bc-4151-9200-d68da84dd0f2",
+  "set": "xln",
+  "set_name": "Ixalan",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/fe0dad85-54bc-4151-9200-d68da84dd0f2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Axln&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/xln?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f7294e40-11b3-4d5c-82d0-c8ec6bd3a6c9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1b94a11b-21b0-4465-a520-69608f022fb4&unique=prints",
+  "collector_number": "24",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "In the rapture of his Blood Fast, he destroyed the navigator's tools and steered the ship to shore by faith alone.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daarken",
+  "artist_ids": [
+    "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+  ],
+  "illustration_id": "6ff38d33-780e-4418-a89c-595d55f56e72",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3129,
+  "penny_rank": 7213,
+  "prices": {
+    "usd": "0.46",
+    "usd_foil": "2.89",
+    "usd_etched": null,
+    "eur": "0.17",
+    "eur_foil": "1.46",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435176&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMavren%2BFein%252C%2BDusk%2BApostle",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMavren%2BFein%252C%2BDusk%2BApostle",
+    "edhrec": "https://edhrec.com/route/?cc=Mavren+Fein%2C+Dusk+Apostle"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F141996%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=301195&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/65060?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

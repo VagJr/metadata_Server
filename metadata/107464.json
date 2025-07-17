@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "fe1d5e11-0c74-4de0-a8be-428af44be684",
+  "oracle_id": "83e78565-e61f-4bbc-b834-f47941f7e3ec",
+  "multiverse_ids": [],
+  "mtgo_id": 140239,
+  "tcgplayer_id": 631214,
+  "cardmarket_id": 824543,
+  "name": "Resourceful Defense",
+  "lang": "en",
+  "released_at": "2025-06-13",
+  "uri": "https://api.scryfall.com/cards/fe1d5e11-0c74-4de0-a8be-428af44be684",
+  "scryfall_uri": "https://scryfall.com/card/fic/251/resourceful-defense?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/e/fe1d5e11-0c74-4de0-a8be-428af44be684.jpg?1748705095",
+    "normal": "https://cards.scryfall.io/normal/front/f/e/fe1d5e11-0c74-4de0-a8be-428af44be684.jpg?1748705095",
+    "large": "https://cards.scryfall.io/large/front/f/e/fe1d5e11-0c74-4de0-a8be-428af44be684.jpg?1748705095",
+    "png": "https://cards.scryfall.io/png/front/f/e/fe1d5e11-0c74-4de0-a8be-428af44be684.png?1748705095",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/e/fe1d5e11-0c74-4de0-a8be-428af44be684.jpg?1748705095",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/e/fe1d5e11-0c74-4de0-a8be-428af44be684.jpg?1748705095"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever a permanent you control leaves the battlefield, if it had counters on it, put those counters on target permanent you control.\n{4}{W}: Move any number of counters from target permanent you control to another target permanent you control.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "30659956-4558-4cbf-a65f-34cd00c89579",
+  "set": "fic",
+  "set_name": "Final Fantasy Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/30659956-4558-4cbf-a65f-34cd00c89579",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afic&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fic?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/fe1d5e11-0c74-4de0-a8be-428af44be684/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A83e78565-e61f-4bbc-b834-f47941f7e3ec&unique=prints",
+  "collector_number": "251",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Shiyu",
+  "artist_ids": [
+    "49f6277b-cd67-4fc7-a41f-ade6504c66ff"
+  ],
+  "illustration_id": "c4a67707-53d2-4632-92b7-9dfde786557e",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "enchantment"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "surgefoil",
+    "ffx"
+  ],
+  "edhrec_rank": 2996,
+  "prices": {
+    "usd": "1.78",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "2.10",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DResourceful%2BDefense",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DResourceful%2BDefense",
+    "edhrec": "https://edhrec.com/route/?cc=Resourceful+Defense"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F631214%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=824543&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/140239?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

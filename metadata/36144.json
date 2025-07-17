@@ -1,0 +1,118 @@
+{
+  "object": "card",
+  "id": "557dc342-b265-4370-969e-ecb9de5bc01d",
+  "oracle_id": "b079f9db-974d-4525-a894-57b754ba9dcc",
+  "multiverse_ids": [
+    596198
+  ],
+  "tcgplayer_id": 455580,
+  "cardmarket_id": 686923,
+  "name": "Kitesail",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/557dc342-b265-4370-969e-ecb9de5bc01d",
+  "scryfall_uri": "https://scryfall.com/card/j22/781/kitesail?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/5/557dc342-b265-4370-969e-ecb9de5bc01d.jpg?1675652463",
+    "normal": "https://cards.scryfall.io/normal/front/5/5/557dc342-b265-4370-969e-ecb9de5bc01d.jpg?1675652463",
+    "large": "https://cards.scryfall.io/large/front/5/5/557dc342-b265-4370-969e-ecb9de5bc01d.jpg?1675652463",
+    "png": "https://cards.scryfall.io/png/front/5/5/557dc342-b265-4370-969e-ecb9de5bc01d.png?1675652463",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/5/557dc342-b265-4370-969e-ecb9de5bc01d.jpg?1675652463",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/5/557dc342-b265-4370-969e-ecb9de5bc01d.jpg?1675652463"
+  },
+  "mana_cost": "{2}",
+  "cmc": 2,
+  "type_line": "Artifact — Equipment",
+  "oracle_text": "Equipped creature gets +1/+0 and has flying.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Equip"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "247df475-e4ce-4e5e-9317-11892d2211e0",
+  "set": "j22",
+  "set_name": "Jumpstart 2022",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/247df475-e4ce-4e5e-9317-11892d2211e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj22&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j22?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/557dc342-b265-4370-969e-ecb9de5bc01d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab079f9db-974d-4525-a894-57b754ba9dcc&unique=prints",
+  "collector_number": "781",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Kitesailing is a way of life—and without practice, the end of it.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Cyril Van Der Haegen",
+  "artist_ids": [
+    "90edbd2e-9462-4394-b0b4-02885b4e56b3"
+  ],
+  "illustration_id": "b04ad842-1bd1-493d-b7b7-eaf7437edb54",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 13521,
+  "penny_rank": 13883,
+  "prices": {
+    "usd": "0.04",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.14",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=596198&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKitesail",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKitesail",
+    "edhrec": "https://edhrec.com/route/?cc=Kitesail"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F455580%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=686923&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kitesail&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

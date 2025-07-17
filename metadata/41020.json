@@ -1,0 +1,159 @@
+{
+  "object": "card",
+  "id": "60c9b613-1494-4df0-9a38-cc0a69fd3945",
+  "oracle_id": "1b122fbb-c2e1-42d1-bfc5-fcacacdfa0bc",
+  "multiverse_ids": [
+    689966
+  ],
+  "mtgo_id": 137057,
+  "tcgplayer_id": 615636,
+  "cardmarket_id": 808833,
+  "name": "Burnout Bashtronaut",
+  "lang": "en",
+  "released_at": "2025-02-14",
+  "uri": "https://api.scryfall.com/cards/60c9b613-1494-4df0-9a38-cc0a69fd3945",
+  "scryfall_uri": "https://scryfall.com/card/dft/455/burnout-bashtronaut?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/0/60c9b613-1494-4df0-9a38-cc0a69fd3945.jpg?1738357911",
+    "normal": "https://cards.scryfall.io/normal/front/6/0/60c9b613-1494-4df0-9a38-cc0a69fd3945.jpg?1738357911",
+    "large": "https://cards.scryfall.io/large/front/6/0/60c9b613-1494-4df0-9a38-cc0a69fd3945.jpg?1738357911",
+    "png": "https://cards.scryfall.io/png/front/6/0/60c9b613-1494-4df0-9a38-cc0a69fd3945.png?1738357911",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/0/60c9b613-1494-4df0-9a38-cc0a69fd3945.jpg?1738357911",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/0/60c9b613-1494-4df0-9a38-cc0a69fd3945.jpg?1738357911"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1,
+  "type_line": "Creature — Goblin Warrior",
+  "oracle_text": "Menace\nStart your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)\n{2}: This creature gets +1/+0 until end of turn.\nMax speed — This creature has double strike.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Max speed",
+    "Menace",
+    "Start your engines!"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "b2151639-5621-4ffa-9374-3a1c48a635d9",
+      "component": "combo_piece",
+      "name": "Burnout Bashtronaut",
+      "type_line": "Creature — Goblin Warrior",
+      "uri": "https://api.scryfall.com/cards/b2151639-5621-4ffa-9374-3a1c48a635d9"
+    },
+    {
+      "object": "related_card",
+      "id": "82613de6-ed37-48c1-8d2f-d91a3f496794",
+      "component": "combo_piece",
+      "name": "Start Your Engines! // Max Speed",
+      "type_line": "Card // Card",
+      "uri": "https://api.scryfall.com/cards/82613de6-ed37-48c1-8d2f-d91a3f496794"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "23464cc2-a69c-427d-b8a7-08e5d80235d7",
+  "set": "dft",
+  "set_name": "Aetherdrift",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/23464cc2-a69c-427d-b8a7-08e5d80235d7",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adft&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dft?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/60c9b613-1494-4df0-9a38-cc0a69fd3945/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1b122fbb-c2e1-42d1-bfc5-fcacacdfa0bc&unique=prints",
+  "collector_number": "455",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Andrea Piparo",
+  "artist_ids": [
+    "e8ab9604-1b3c-4bb5-9290-dfb3fd3cf01d"
+  ],
+  "illustration_id": "5fc4e0cf-6ec5-4cf8-902f-0c2de65befae",
+  "border_color": "yellow",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "firstplacefoil",
+    "boxtopper"
+  ],
+  "edhrec_rank": 13080,
+  "penny_rank": 5790,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2025-01-28"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.44",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "1.14",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=689966&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBurnout%2BBashtronaut",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBurnout%2BBashtronaut",
+    "edhrec": "https://edhrec.com/route/?cc=Burnout+Bashtronaut"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F615636%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=808833&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/137057?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

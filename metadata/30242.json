@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "4782545f-8f3e-473c-bc54-0c237b733797",
+  "oracle_id": "e73131cd-b454-405b-9539-9d777e232b9e",
+  "multiverse_ids": [
+    612422
+  ],
+  "mtgo_id": 110796,
+  "tcgplayer_id": 491885,
+  "cardmarket_id": 705562,
+  "name": "Battle Screech",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/4782545f-8f3e-473c-bc54-0c237b733797",
+  "scryfall_uri": "https://scryfall.com/card/moc/174/battle-screech?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/7/4782545f-8f3e-473c-bc54-0c237b733797.jpg?1682208315",
+    "normal": "https://cards.scryfall.io/normal/front/4/7/4782545f-8f3e-473c-bc54-0c237b733797.jpg?1682208315",
+    "large": "https://cards.scryfall.io/large/front/4/7/4782545f-8f3e-473c-bc54-0c237b733797.jpg?1682208315",
+    "png": "https://cards.scryfall.io/png/front/4/7/4782545f-8f3e-473c-bc54-0c237b733797.png?1682208315",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/7/4782545f-8f3e-473c-bc54-0c237b733797.jpg?1682208315",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/7/4782545f-8f3e-473c-bc54-0c237b733797.jpg?1682208315"
+  },
+  "mana_cost": "{2}{W}{W}",
+  "cmc": 4,
+  "type_line": "Sorcery",
+  "oracle_text": "Create two 1/1 white Bird creature tokens with flying.\nFlashback—Tap three untapped white creatures you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flashback"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "38476293-627e-44e6-a83e-24aaf3de8e9a",
+      "component": "token",
+      "name": "Bird",
+      "type_line": "Token Creature — Bird",
+      "uri": "https://api.scryfall.com/cards/38476293-627e-44e6-a83e-24aaf3de8e9a"
+    },
+    {
+      "object": "related_card",
+      "id": "4782545f-8f3e-473c-bc54-0c237b733797",
+      "component": "combo_piece",
+      "name": "Battle Screech",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/4782545f-8f3e-473c-bc54-0c237b733797"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "6bba5de9-5afb-42af-a7eb-24ac854bf671",
+  "set": "moc",
+  "set_name": "March of the Machine Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/6bba5de9-5afb-42af-a7eb-24ac854bf671",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amoc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/moc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4782545f-8f3e-473c-bc54-0c237b733797/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae73131cd-b454-405b-9539-9d777e232b9e&unique=prints",
+  "collector_number": "174",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "All sounds harmonize with the Worldsoul.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Anastasia Ovchinnikova",
+  "artist_ids": [
+    "3605d81f-5c97-4958-9dcc-d44a85e10305"
+  ],
+  "illustration_id": "5b176697-4a2c-47fa-8bee-05b2ac31d293",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 6509,
+  "penny_rank": 2586,
+  "prices": {
+    "usd": "0.10",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.18",
+    "eur_foil": null,
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=612422&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBattle%2BScreech",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBattle%2BScreech",
+    "edhrec": "https://edhrec.com/route/?cc=Battle+Screech"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F491885%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=705562&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/110796?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

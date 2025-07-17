@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "2b4746f0-233a-4e6f-9054-7a269e36a206",
+  "oracle_id": "3127ae9b-a7a7-43ec-89d7-688f8445b33d",
+  "multiverse_ids": [],
+  "mtgo_id": 103948,
+  "mtgo_foil_id": 103949,
+  "tcgplayer_id": 456930,
+  "cardmarket_id": 689080,
+  "name": "Garruk's Uprising",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/2b4746f0-233a-4e6f-9054-7a269e36a206",
+  "scryfall_uri": "https://scryfall.com/card/scd/185/garruks-uprising?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/b/2b4746f0-233a-4e6f-9054-7a269e36a206.jpg?1674675533",
+    "normal": "https://cards.scryfall.io/normal/front/2/b/2b4746f0-233a-4e6f-9054-7a269e36a206.jpg?1674675533",
+    "large": "https://cards.scryfall.io/large/front/2/b/2b4746f0-233a-4e6f-9054-7a269e36a206.jpg?1674675533",
+    "png": "https://cards.scryfall.io/png/front/2/b/2b4746f0-233a-4e6f-9054-7a269e36a206.png?1674675533",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/b/2b4746f0-233a-4e6f-9054-7a269e36a206.jpg?1674675533",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/b/2b4746f0-233a-4e6f-9054-7a269e36a206.jpg?1674675533"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Enchantment",
+  "oracle_text": "When this enchantment enters, if you control a creature with power 4 or greater, draw a card.\nCreatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)\nWhenever a creature you control with power 4 or greater enters, draw a card.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set": "scd",
+  "set_name": "Starter Commander Decks",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ascd&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/scd?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2b4746f0-233a-4e6f-9054-7a269e36a206/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3127ae9b-a7a7-43ec-89d7-688f8445b33d&unique=prints",
+  "collector_number": "185",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wisnu Tan",
+  "artist_ids": [
+    "f2d36cdd-a4e9-43ba-b2ad-9d514f6706d4"
+  ],
+  "illustration_id": "437b0e75-af9d-4ccb-8f02-35332a41d287",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 104,
+  "penny_rank": 3066,
+  "prices": {
+    "usd": "0.54",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.76",
+    "eur_foil": null,
+    "tix": "2.44"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGarruk%2527s%2BUprising",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGarruk%2527s%2BUprising",
+    "edhrec": "https://edhrec.com/route/?cc=Garruk%27s+Uprising"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F456930%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=689080&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/103948?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

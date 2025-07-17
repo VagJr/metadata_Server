@@ -1,0 +1,155 @@
+{
+  "object": "card",
+  "id": "043b2d30-a40f-4d47-933b-80544512f9c2",
+  "oracle_id": "53236dd7-845a-444c-96d5-f41ed7325d8f",
+  "multiverse_ids": [
+    632453
+  ],
+  "mtgo_id": 115874,
+  "arena_id": 87063,
+  "tcgplayer_id": 509518,
+  "cardmarket_id": 728403,
+  "name": "Rhystic Study",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/043b2d30-a40f-4d47-933b-80544512f9c2",
+  "scryfall_uri": "https://scryfall.com/card/wot/25/rhystic-study?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/4/043b2d30-a40f-4d47-933b-80544512f9c2.jpg?1692932382",
+    "normal": "https://cards.scryfall.io/normal/front/0/4/043b2d30-a40f-4d47-933b-80544512f9c2.jpg?1692932382",
+    "large": "https://cards.scryfall.io/large/front/0/4/043b2d30-a40f-4d47-933b-80544512f9c2.jpg?1692932382",
+    "png": "https://cards.scryfall.io/png/front/0/4/043b2d30-a40f-4d47-933b-80544512f9c2.png?1692932382",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/4/043b2d30-a40f-4d47-933b-80544512f9c2.jpg?1692932382",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/4/043b2d30-a40f-4d47-933b-80544512f9c2.jpg?1692932382"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "8f7f8d7a-e5ad-4c03-8ab3-e9af9c2927b7",
+      "component": "combo_piece",
+      "name": "Rhystic Study",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/8f7f8d7a-e5ad-4c03-8ab3-e9af9c2927b7"
+    },
+    {
+      "object": "related_card",
+      "id": "76fca761-fc3a-41a1-a5f9-c2a35f3eacf1",
+      "component": "combo_piece",
+      "name": "Archival Whorl",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/76fca761-fc3a-41a1-a5f9-c2a35f3eacf1"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "banned",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": true,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d1eba841-452b-4f81-88c9-b32973ac8176",
+  "set": "wot",
+  "set_name": "Wilds of Eldraine: Enchanting Tales",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/d1eba841-452b-4f81-88c9-b32973ac8176",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awot&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/wot?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/043b2d30-a40f-4d47-933b-80544512f9c2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A53236dd7-845a-444c-96d5-f41ed7325d8f&unique=prints",
+  "collector_number": "25",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "\"Despite her father's warnings, Valtry's fascination with the surface only grew. She collected things that fell to the bottom, daydreaming of life on land.\"\n—*The Merfolk Who Walked*",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Serena Malyon",
+  "artist_ids": [
+    "d9fee7a6-7c5e-48a5-8639-bba25abc8a06"
+  ],
+  "illustration_id": "8089dd2d-e099-447b-8718-a29a0b5e35d6",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 37,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/news/announcements/a-first-look-at-wilds-of-eldraine",
+    "previewed_at": "2023-07-28"
+  },
+  "prices": {
+    "usd": "54.49",
+    "usd_foil": "115.02",
+    "usd_etched": null,
+    "eur": "45.96",
+    "eur_foil": "83.79",
+    "tix": "3.13"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=632453&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRhystic%2BStudy",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRhystic%2BStudy",
+    "edhrec": "https://edhrec.com/route/?cc=Rhystic+Study"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F509518%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=728403&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/115874?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

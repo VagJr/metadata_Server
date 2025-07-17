@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "64e4d2ee-e5e5-48e6-a7b8-9045dc8b10a7",
+  "oracle_id": "b3fe2f61-c58e-4ebc-a5e3-99d6b6f62caf",
+  "multiverse_ids": [
+    466904
+  ],
+  "mtgo_id": 73199,
+  "arena_id": 69935,
+  "tcgplayer_id": 192592,
+  "cardmarket_id": 378669,
+  "name": "Marauding Raptor",
+  "lang": "en",
+  "released_at": "2019-07-12",
+  "uri": "https://api.scryfall.com/cards/64e4d2ee-e5e5-48e6-a7b8-9045dc8b10a7",
+  "scryfall_uri": "https://scryfall.com/card/m20/150/marauding-raptor?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/4/64e4d2ee-e5e5-48e6-a7b8-9045dc8b10a7.jpg?1592517013",
+    "normal": "https://cards.scryfall.io/normal/front/6/4/64e4d2ee-e5e5-48e6-a7b8-9045dc8b10a7.jpg?1592517013",
+    "large": "https://cards.scryfall.io/large/front/6/4/64e4d2ee-e5e5-48e6-a7b8-9045dc8b10a7.jpg?1592517013",
+    "png": "https://cards.scryfall.io/png/front/6/4/64e4d2ee-e5e5-48e6-a7b8-9045dc8b10a7.png?1592517013",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/4/64e4d2ee-e5e5-48e6-a7b8-9045dc8b10a7.jpg?1592517013",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/4/64e4d2ee-e5e5-48e6-a7b8-9045dc8b10a7.jpg?1592517013"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Creature — Dinosaur",
+  "oracle_text": "Creature spells you cast cost {1} less to cast.\nWhenever another creature you control enters, this creature deals 2 damage to it. If a Dinosaur is dealt damage this way, this creature gets +2/+0 until end of turn.",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4a787360-9767-4f44-80b1-2405dc5e39c7",
+  "set": "m20",
+  "set_name": "Core Set 2020",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/4a787360-9767-4f44-80b1-2405dc5e39c7",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am20&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/m20?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/64e4d2ee-e5e5-48e6-a7b8-9045dc8b10a7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab3fe2f61-c58e-4ebc-a5e3-99d6b6f62caf&unique=prints",
+  "collector_number": "150",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Stand still and try not to look like prey!\"\n—Skerk Hobnett, wilderness guide",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Bayard Wu",
+  "artist_ids": [
+    "b089963c-610a-4d50-9206-d64b7caedef1"
+  ],
+  "illustration_id": "f593931e-c894-4881-b62b-1a4aff20d1a5",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2375,
+  "penny_rank": 3897,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/dino-cores-2019-06-19",
+    "previewed_at": "2019-06-19"
+  },
+  "prices": {
+    "usd": "0.75",
+    "usd_foil": "3.24",
+    "usd_etched": null,
+    "eur": "1.11",
+    "eur_foil": "2.37",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466904&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMarauding%2BRaptor",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMarauding%2BRaptor",
+    "edhrec": "https://edhrec.com/route/?cc=Marauding+Raptor"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F192592%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=378669&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/73199?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

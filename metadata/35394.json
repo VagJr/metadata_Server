@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "53d4df17-6bc8-4a45-b417-553b644267f9",
+  "oracle_id": "e86c965b-ac10-4fff-b682-dddd6d9747c6",
+  "multiverse_ids": [],
+  "tcgplayer_id": 536686,
+  "name": "Judith, Carnage Connoisseur",
+  "lang": "en",
+  "released_at": "2024-02-09",
+  "uri": "https://api.scryfall.com/cards/53d4df17-6bc8-4a45-b417-553b644267f9",
+  "scryfall_uri": "https://scryfall.com/card/pmkm/210p/judith-carnage-connoisseur?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/3/53d4df17-6bc8-4a45-b417-553b644267f9.jpg?1707510000",
+    "normal": "https://cards.scryfall.io/normal/front/5/3/53d4df17-6bc8-4a45-b417-553b644267f9.jpg?1707510000",
+    "large": "https://cards.scryfall.io/large/front/5/3/53d4df17-6bc8-4a45-b417-553b644267f9.jpg?1707510000",
+    "png": "https://cards.scryfall.io/png/front/5/3/53d4df17-6bc8-4a45-b417-553b644267f9.png?1707510000",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/3/53d4df17-6bc8-4a45-b417-553b644267f9.jpg?1707510000",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/3/53d4df17-6bc8-4a45-b417-553b644267f9.jpg?1707510000"
+  },
+  "mana_cost": "{3}{B}{R}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Human Shaman",
+  "oracle_text": "Whenever you cast an instant or sorcery spell, choose one —\n• That spell gains deathtouch and lifelink.\n• Create a 2/2 red Imp creature token with \"When this token dies, it deals 2 damage to each opponent.\"",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "47a1385b-2be2-49a8-8400-186cd5525dad",
+      "component": "token",
+      "name": "Imp",
+      "type_line": "Token Creature — Imp",
+      "uri": "https://api.scryfall.com/cards/47a1385b-2be2-49a8-8400-186cd5525dad"
+    },
+    {
+      "object": "related_card",
+      "id": "6ce77857-cde3-44e8-ad29-e2940cafb320",
+      "component": "combo_piece",
+      "name": "Judith, Carnage Connoisseur",
+      "type_line": "Legendary Creature — Human Shaman",
+      "uri": "https://api.scryfall.com/cards/6ce77857-cde3-44e8-ad29-e2940cafb320"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5226ce19-28b1-462f-89a2-460e994824dd",
+  "set": "pmkm",
+  "set_name": "Murders at Karlov Manor Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/5226ce19-28b1-462f-89a2-460e994824dd",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apmkm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pmkm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/53d4df17-6bc8-4a45-b417-553b644267f9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae86c965b-ac10-4fff-b682-dddd6d9747c6&unique=prints",
+  "collector_number": "210p",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"I don't make my living hiding the truth, detective. I shout it from the stage.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jodie Muir",
+  "artist_ids": [
+    "b09e6cd1-0257-425a-9bbb-5cac3f803443"
+  ],
+  "illustration_id": "5c3e4cca-49e0-415c-9da6-79f7dd396823",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 4681,
+  "penny_rank": 10799,
+  "prices": {
+    "usd": "0.81",
+    "usd_foil": "2.08",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJudith%252C%2BCarnage%2BConnoisseur",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJudith%252C%2BCarnage%2BConnoisseur",
+    "edhrec": "https://edhrec.com/route/?cc=Judith%2C+Carnage+Connoisseur"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F536686%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Judith%2C+Carnage+Connoisseur&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Judith%2C+Carnage+Connoisseur&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

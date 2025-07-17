@@ -1,0 +1,158 @@
+{
+  "object": "card",
+  "id": "66f40264-0d28-4222-9a85-9e9e9f811c12",
+  "oracle_id": "b981af39-4ee6-4fbc-9a89-618dcad9dfbf",
+  "multiverse_ids": [],
+  "tcgplayer_id": 554247,
+  "name": "The Necrobloom",
+  "lang": "en",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/66f40264-0d28-4222-9a85-9e9e9f811c12",
+  "scryfall_uri": "https://scryfall.com/card/pmh3/194s/the-necrobloom?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/6/66f40264-0d28-4222-9a85-9e9e9f811c12.jpg?1719871735",
+    "normal": "https://cards.scryfall.io/normal/front/6/6/66f40264-0d28-4222-9a85-9e9e9f811c12.jpg?1719871735",
+    "large": "https://cards.scryfall.io/large/front/6/6/66f40264-0d28-4222-9a85-9e9e9f811c12.jpg?1719871735",
+    "png": "https://cards.scryfall.io/png/front/6/6/66f40264-0d28-4222-9a85-9e9e9f811c12.png?1719871735",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/6/66f40264-0d28-4222-9a85-9e9e9f811c12.jpg?1719871735",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/6/66f40264-0d28-4222-9a85-9e9e9f811c12.jpg?1719871735"
+  },
+  "mana_cost": "{1}{W}{B}{G}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Plant",
+  "oracle_text": "Landfall — Whenever a land you control enters, create a 0/1 green Plant creature token. If you control seven or more lands with different names, create a 2/2 black Zombie creature token instead.\nLand cards in your graveyard have dredge 2. (You may return a land card from your graveyard to your hand and mill two cards instead of drawing a card.)",
+  "power": "2",
+  "toughness": "7",
+  "colors": [
+    "B",
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "W"
+  ],
+  "keywords": [
+    "Mill",
+    "Landfall"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "66f40264-0d28-4222-9a85-9e9e9f811c12",
+      "component": "combo_piece",
+      "name": "The Necrobloom",
+      "type_line": "Legendary Creature — Plant",
+      "uri": "https://api.scryfall.com/cards/66f40264-0d28-4222-9a85-9e9e9f811c12"
+    },
+    {
+      "object": "related_card",
+      "id": "909f85b2-0d7b-42ac-a0b7-402e20cedab4",
+      "component": "token",
+      "name": "Plant",
+      "type_line": "Token Creature — Plant",
+      "uri": "https://api.scryfall.com/cards/909f85b2-0d7b-42ac-a0b7-402e20cedab4"
+    },
+    {
+      "object": "related_card",
+      "id": "4c923eed-3d09-4b38-a884-513700aebca3",
+      "component": "token",
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "uri": "https://api.scryfall.com/cards/4c923eed-3d09-4b38-a884-513700aebca3"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8f33d6e8-fe8a-4c8e-a96d-8fe32660e775",
+  "set": "pmh3",
+  "set_name": "Modern Horizons 3 Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/8f33d6e8-fe8a-4c8e-a96d-8fe32660e775",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apmh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pmh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/66f40264-0d28-4222-9a85-9e9e9f811c12/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab981af39-4ee6-4fbc-9a89-618dcad9dfbf&unique=prints",
+  "collector_number": "194s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Igor Krstic",
+  "artist_ids": [
+    "44cdd332-50f6-4cab-b606-c4565fc5efeb"
+  ],
+  "illustration_id": "6f9fb548-7bfc-4e06-9f83-711cc840a879",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 3876,
+  "penny_rank": 5549,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.72",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThe%2BNecrobloom",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThe%2BNecrobloom",
+    "edhrec": "https://edhrec.com/route/?cc=The+Necrobloom"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F554247%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=The+Necrobloom&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=The+Necrobloom&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

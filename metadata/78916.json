@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "ba508669-c15d-4194-ac37-236d4fd3ece7",
+  "oracle_id": "53c6f2cf-ed3e-4c0c-ad42-56a6ce1622b6",
+  "multiverse_ids": [
+    502701
+  ],
+  "tcgplayer_etched_id": 226820,
+  "cardmarket_id": 510845,
+  "name": "Livio, Oathsworn Sentinel",
+  "lang": "en",
+  "released_at": "2020-11-20",
+  "uri": "https://api.scryfall.com/cards/ba508669-c15d-4194-ac37-236d4fd3ece7",
+  "scryfall_uri": "https://scryfall.com/card/cmr/551/livio-oathsworn-sentinel?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/a/ba508669-c15d-4194-ac37-236d4fd3ece7.jpg?1612402242",
+    "normal": "https://cards.scryfall.io/normal/front/b/a/ba508669-c15d-4194-ac37-236d4fd3ece7.jpg?1612402242",
+    "large": "https://cards.scryfall.io/large/front/b/a/ba508669-c15d-4194-ac37-236d4fd3ece7.jpg?1612402242",
+    "png": "https://cards.scryfall.io/png/front/b/a/ba508669-c15d-4194-ac37-236d4fd3ece7.png?1612402242",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/a/ba508669-c15d-4194-ac37-236d4fd3ece7.jpg?1612402242",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/a/ba508669-c15d-4194-ac37-236d4fd3ece7.jpg?1612402242"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Human Knight",
+  "oracle_text": "{1}{W}: Choose another target creature. Its controller may exile it with an aegis counter on it.\n{2}{W}, {T}: Return all exiled cards with aegis counters on them to the battlefield under their owners' control.\nPartner (You can have two commanders if both have partner.)",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Partner"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": false,
+  "finishes": [
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "39de6fbf-1f11-48d0-8f04-f0407f6a0732",
+  "set": "cmr",
+  "set_name": "Commander Legends",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/39de6fbf-1f11-48d0-8f04-f0407f6a0732",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ba508669-c15d-4194-ac37-236d4fd3ece7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A53c6f2cf-ed3e-4c0c-ad42-56a6ce1622b6&unique=prints",
+  "collector_number": "551",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kekai Kotaki",
+  "artist_ids": [
+    "4b771085-c049-4308-930d-ec9665f803a4"
+  ],
+  "illustration_id": "9f187ff3-832f-4f71-8a74-0b2b192faa8d",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted",
+    "etched",
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 17259,
+  "preview": {
+    "source": "Enndal Games",
+    "source_uri": "https://article.enndalgames.com/article/2020/10/29/859/",
+    "previewed_at": "2020-10-29"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": "0.26",
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=502701&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLivio%252C%2BOathsworn%2BSentinel",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLivio%252C%2BOathsworn%2BSentinel",
+    "edhrec": "https://edhrec.com/route/?cc=Livio%2C+Oathsworn+Sentinel"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DLivio%252C%2BOathsworn%2BSentinel%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=510845&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Livio%2C+Oathsworn+Sentinel&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

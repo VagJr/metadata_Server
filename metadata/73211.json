@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "acb3325d-0b43-471b-9311-1c5ba14b06cf",
+  "oracle_id": "52700e58-8201-47e1-bf2c-b28f8bdb5845",
+  "multiverse_ids": [],
+  "name": "Arco-Flagellant",
+  "lang": "en",
+  "released_at": "2022-10-07",
+  "uri": "https://api.scryfall.com/cards/acb3325d-0b43-471b-9311-1c5ba14b06cf",
+  "scryfall_uri": "https://scryfall.com/card/t40k/11/arco-flagellant?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/c/acb3325d-0b43-471b-9311-1c5ba14b06cf.jpg?1675455215",
+    "normal": "https://cards.scryfall.io/normal/front/a/c/acb3325d-0b43-471b-9311-1c5ba14b06cf.jpg?1675455215",
+    "large": "https://cards.scryfall.io/large/front/a/c/acb3325d-0b43-471b-9311-1c5ba14b06cf.jpg?1675455215",
+    "png": "https://cards.scryfall.io/png/front/a/c/acb3325d-0b43-471b-9311-1c5ba14b06cf.png?1675455215",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/c/acb3325d-0b43-471b-9311-1c5ba14b06cf.jpg?1675455215",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/c/acb3325d-0b43-471b-9311-1c5ba14b06cf.jpg?1675455215"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Human",
+  "oracle_text": "Arco-Flagellant can't block.\nPay 3 life: Arco-Flagellant gains indestructible until end of turn.",
+  "power": "3",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "acb3325d-0b43-471b-9311-1c5ba14b06cf",
+      "component": "token",
+      "name": "Arco-Flagellant",
+      "type_line": "Token Creature — Human",
+      "uri": "https://api.scryfall.com/cards/acb3325d-0b43-471b-9311-1c5ba14b06cf"
+    },
+    {
+      "object": "related_card",
+      "id": "b6e2a217-a857-4c62-aa39-e72a95094ddb",
+      "component": "combo_piece",
+      "name": "Arco-Flagellant",
+      "type_line": "Creature — Human",
+      "uri": "https://api.scryfall.com/cards/b6e2a217-a857-4c62-aa39-e72a95094ddb"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "671f2e10-501c-42ef-a1e3-9aa63ec3ec6c",
+  "set": "t40k",
+  "set_name": "Warhammer 40,000 Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/671f2e10-501c-42ef-a1e3-9aa63ec3ec6c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3At40k&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/t40k?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/acb3325d-0b43-471b-9311-1c5ba14b06cf/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A52700e58-8201-47e1-bf2c-b28f8bdb5845&unique=prints",
+  "collector_number": "11",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Xavier Ribeiro",
+  "artist_ids": [
+    "e17c2662-0491-47b2-bf1d-8c111a8ad3f8"
+  ],
+  "illustration_id": "d9982c3b-69b6-4f20-b974-581baa117dac",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DArco-Flagellant",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DArco-Flagellant",
+    "edhrec": "https://edhrec.com/route/?cc=Arco-Flagellant"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DArco-Flagellant%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Arco-Flagellant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Arco-Flagellant&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

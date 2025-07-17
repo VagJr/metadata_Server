@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "24eeb424-235d-4346-9355-57914e740ec6",
+  "oracle_id": "56719f6a-1a6c-4c0a-8d21-18f7d7350b68",
+  "multiverse_ids": [
+    461183
+  ],
+  "mtgo_id": 72118,
+  "arena_id": 69707,
+  "tcgplayer_id": 188362,
+  "cardmarket_id": 371844,
+  "name": "Swamp",
+  "lang": "en",
+  "released_at": "2019-05-03",
+  "uri": "https://api.scryfall.com/cards/24eeb424-235d-4346-9355-57914e740ec6",
+  "scryfall_uri": "https://scryfall.com/card/war/256/swamp?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/4/24eeb424-235d-4346-9355-57914e740ec6.jpg?1557577534",
+    "normal": "https://cards.scryfall.io/normal/front/2/4/24eeb424-235d-4346-9355-57914e740ec6.jpg?1557577534",
+    "large": "https://cards.scryfall.io/large/front/2/4/24eeb424-235d-4346-9355-57914e740ec6.jpg?1557577534",
+    "png": "https://cards.scryfall.io/png/front/2/4/24eeb424-235d-4346-9355-57914e740ec6.png?1557577534",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/4/24eeb424-235d-4346-9355-57914e740ec6.jpg?1557577534",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/4/24eeb424-235d-4346-9355-57914e740ec6.jpg?1557577534"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Basic Land — Swamp",
+  "oracle_text": "({T}: Add {B}.)",
+  "colors": [],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "ee044f0b-e101-4ead-8d0e-aa510aad4277",
+  "set": "war",
+  "set_name": "War of the Spark",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/ee044f0b-e101-4ead-8d0e-aa510aad4277",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awar&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/war?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/24eeb424-235d-4346-9355-57914e740ec6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A56719f6a-1a6c-4c0a-8d21-18f7d7350b68&unique=prints",
+  "collector_number": "256",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Titus Lunter",
+  "artist_ids": [
+    "b11e6b3a-f4ca-4cf1-8fd7-475696de5f5c"
+  ],
+  "illustration_id": "4bea397c-61aa-4e69-80ec-2e08b8663eba",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/products/warofthespark/cards",
+    "previewed_at": "2019-04-01"
+  },
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": "0.69",
+    "usd_etched": null,
+    "eur": "0.07",
+    "eur_foil": "0.18",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461183&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSwamp",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSwamp",
+    "edhrec": "https://edhrec.com/route/?cc=Swamp"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F188362%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=371844&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72118?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

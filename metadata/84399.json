@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "c751d9eb-bbf2-4823-9c56-7fcdc837b9b4",
+  "oracle_id": "0c7f18d5-36cb-4bc6-a358-443b97666215",
+  "multiverse_ids": [],
+  "mtgo_id": 97907,
+  "name": "The Wandering Emperor",
+  "lang": "en",
+  "released_at": "2022-05-09",
+  "uri": "https://api.scryfall.com/cards/c751d9eb-bbf2-4823-9c56-7fcdc837b9b4",
+  "scryfall_uri": "https://scryfall.com/card/prm/97907/the-wandering-emperor?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/7/c751d9eb-bbf2-4823-9c56-7fcdc837b9b4.jpg?1681084604",
+    "normal": "https://cards.scryfall.io/normal/front/c/7/c751d9eb-bbf2-4823-9c56-7fcdc837b9b4.jpg?1681084604",
+    "large": "https://cards.scryfall.io/large/front/c/7/c751d9eb-bbf2-4823-9c56-7fcdc837b9b4.jpg?1681084604",
+    "png": "https://cards.scryfall.io/png/front/c/7/c751d9eb-bbf2-4823-9c56-7fcdc837b9b4.png?1681084604",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/7/c751d9eb-bbf2-4823-9c56-7fcdc837b9b4.jpg?1681084604",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/7/c751d9eb-bbf2-4823-9c56-7fcdc837b9b4.jpg?1681084604"
+  },
+  "mana_cost": "{2}{W}{W}",
+  "cmc": 4,
+  "type_line": "Legendary Planeswalker",
+  "oracle_text": "Flash\nAs long as The Wandering Emperor entered this turn, you may activate her loyalty abilities any time you could cast an instant.\n+1: Put a +1/+1 counter on up to one target creature. It gains first strike until end of turn.\n−1: Create a 2/2 white Samurai creature token with vigilance.\n−2: Exile target tapped creature. You gain 2 life.",
+  "loyalty": "3",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flash"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "c751d9eb-bbf2-4823-9c56-7fcdc837b9b4",
+      "component": "combo_piece",
+      "name": "The Wandering Emperor",
+      "type_line": "Legendary Planeswalker",
+      "uri": "https://api.scryfall.com/cards/c751d9eb-bbf2-4823-9c56-7fcdc837b9b4"
+    },
+    {
+      "object": "related_card",
+      "id": "f68e5337-6e44-4f8f-a102-2f97b433beea",
+      "component": "token",
+      "name": "Samurai",
+      "type_line": "Token Creature — Samurai",
+      "uri": "https://api.scryfall.com/cards/f68e5337-6e44-4f8f-a102-2f97b433beea"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c751d9eb-bbf2-4823-9c56-7fcdc837b9b4/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0c7f18d5-36cb-4bc6-a358-443b97666215&unique=prints",
+  "collector_number": "97907",
+  "digital": true,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Terada Katsuya",
+  "artist_ids": [
+    "d8d6bbd5-36f9-4b5d-aecc-1804be2c6d07"
+  ],
+  "illustration_id": "8200a9d0-e71f-402f-b8c7-5425755c633a",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4866,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "2.29"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThe%2BWandering%2BEmperor",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThe%2BWandering%2BEmperor",
+    "edhrec": "https://edhrec.com/route/?cc=The+Wandering+Emperor"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DThe%2BWandering%2BEmperor%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=The+Wandering+Emperor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/97907?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

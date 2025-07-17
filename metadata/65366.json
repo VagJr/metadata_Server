@@ -1,0 +1,138 @@
+{
+  "object": "card",
+  "id": "9a89d111-1a7c-4446-9a53-99d5d68099cf",
+  "oracle_id": "74a62c7b-4753-4af2-b7a1-9a4ae8988801",
+  "multiverse_ids": [
+    624411
+  ],
+  "mtgo_id": 113671,
+  "tcgplayer_id": 504147,
+  "cardmarket_id": 722656,
+  "name": "Puresteel Paladin",
+  "lang": "en",
+  "released_at": "2023-08-04",
+  "uri": "https://api.scryfall.com/cards/9a89d111-1a7c-4446-9a53-99d5d68099cf",
+  "scryfall_uri": "https://scryfall.com/card/cmm/627/puresteel-paladin?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/a/9a89d111-1a7c-4446-9a53-99d5d68099cf.jpg?1690002016",
+    "normal": "https://cards.scryfall.io/normal/front/9/a/9a89d111-1a7c-4446-9a53-99d5d68099cf.jpg?1690002016",
+    "large": "https://cards.scryfall.io/large/front/9/a/9a89d111-1a7c-4446-9a53-99d5d68099cf.jpg?1690002016",
+    "png": "https://cards.scryfall.io/png/front/9/a/9a89d111-1a7c-4446-9a53-99d5d68099cf.png?1690002016",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/a/9a89d111-1a7c-4446-9a53-99d5d68099cf.jpg?1690002016",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/a/9a89d111-1a7c-4446-9a53-99d5d68099cf.jpg?1690002016"
+  },
+  "mana_cost": "{W}{W}",
+  "cmc": 2,
+  "type_line": "Creature — Human Knight",
+  "oracle_text": "Whenever an Equipment you control enters, you may draw a card.\nMetalcraft — Equipment you control have equip {0} as long as you control three or more artifacts.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Metalcraft"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set": "cmm",
+  "set_name": "Commander Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9a89d111-1a7c-4446-9a53-99d5d68099cf/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A74a62c7b-4753-4af2-b7a1-9a4ae8988801&unique=prints",
+  "collector_number": "627",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "His heart is pure. His world is not.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Richard Kane Ferguson",
+  "artist_ids": [
+    "191620ed-2361-444e-96a6-1fe7ce32ef3b"
+  ],
+  "illustration_id": "f03f7231-2d1e-44ac-9bcb-c7d1c8b3d12d",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 748,
+  "preview": {
+    "source": "ChannelFireball",
+    "source_uri": "https://twitter.com/ChannelFireball/status/1679523123706621952",
+    "previewed_at": "2023-07-13"
+  },
+  "prices": {
+    "usd": "2.99",
+    "usd_foil": "4.75",
+    "usd_etched": null,
+    "eur": "1.98",
+    "eur_foil": "3.01",
+    "tix": "1.34"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=624411&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPuresteel%2BPaladin",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPuresteel%2BPaladin",
+    "edhrec": "https://edhrec.com/route/?cc=Puresteel+Paladin"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F504147%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=722656&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/113671?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

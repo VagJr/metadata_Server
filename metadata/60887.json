@@ -1,0 +1,153 @@
+{
+  "object": "card",
+  "id": "90033450-3f5e-4648-a171-0ac72d51fd9e",
+  "oracle_id": "9eec304d-ffcb-4287-b877-280ac1e4f496",
+  "multiverse_ids": [],
+  "tcgplayer_id": 514320,
+  "name": "Charming Scoundrel",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/90033450-3f5e-4648-a171-0ac72d51fd9e",
+  "scryfall_uri": "https://scryfall.com/card/pwoe/124p/charming-scoundrel?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/0/90033450-3f5e-4648-a171-0ac72d51fd9e.jpg?1694308707",
+    "normal": "https://cards.scryfall.io/normal/front/9/0/90033450-3f5e-4648-a171-0ac72d51fd9e.jpg?1694308707",
+    "large": "https://cards.scryfall.io/large/front/9/0/90033450-3f5e-4648-a171-0ac72d51fd9e.jpg?1694308707",
+    "png": "https://cards.scryfall.io/png/front/9/0/90033450-3f5e-4648-a171-0ac72d51fd9e.png?1694308707",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/0/90033450-3f5e-4648-a171-0ac72d51fd9e.jpg?1694308707",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/0/90033450-3f5e-4648-a171-0ac72d51fd9e.jpg?1694308707"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Creature — Human Rogue",
+  "oracle_text": "Haste\nWhen this creature enters, choose one —\n• Discard a card, then draw a card.\n• Create a Treasure token.\n• Create a Wicked Role token attached to target creature you control.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Role token",
+    "Treasure",
+    "Haste"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a9b7040e-cd24-42cc-b043-9af8c557da6a",
+      "component": "token",
+      "name": "Wicked // Cursed",
+      "type_line": "Token Enchantment — Aura Role // Token Enchantment — Aura Role",
+      "uri": "https://api.scryfall.com/cards/a9b7040e-cd24-42cc-b043-9af8c557da6a"
+    },
+    {
+      "object": "related_card",
+      "id": "73cbf189-a79b-4dca-8b29-33aef6306b5a",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/73cbf189-a79b-4dca-8b29-33aef6306b5a"
+    },
+    {
+      "object": "related_card",
+      "id": "d7e2e42a-572a-4a33-869b-d6c9749fbf65",
+      "component": "combo_piece",
+      "name": "Charming Scoundrel",
+      "type_line": "Creature — Human Rogue",
+      "uri": "https://api.scryfall.com/cards/d7e2e42a-572a-4a33-869b-d6c9749fbf65"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "909bf1bb-3277-41d6-af0f-293df1203099",
+  "set": "pwoe",
+  "set_name": "Wilds of Eldraine Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/909bf1bb-3277-41d6-af0f-293df1203099",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwoe&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwoe?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/90033450-3f5e-4648-a171-0ac72d51fd9e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9eec304d-ffcb-4287-b877-280ac1e4f496&unique=prints",
+  "collector_number": "124p",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Caroline Gariba",
+  "artist_ids": [
+    "61a4c572-3d1b-4b71-aeb0-1a5a6b82c524"
+  ],
+  "illustration_id": "18b6c5d2-e99d-43e9-ac18-e085ee0a9ca2",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 3899,
+  "penny_rank": 511,
+  "prices": {
+    "usd": "0.47",
+    "usd_foil": "0.66",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCharming%2BScoundrel",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCharming%2BScoundrel",
+    "edhrec": "https://edhrec.com/route/?cc=Charming+Scoundrel"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F514320%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Charming+Scoundrel&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Charming+Scoundrel&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "6453140c-6588-41d8-b43f-1858d70d9761",
+  "oracle_id": "3b03358d-f87e-4939-afc9-5ee3f044146a",
+  "multiverse_ids": [
+    692416
+  ],
+  "mtgo_id": 137305,
+  "tcgplayer_id": 615089,
+  "cardmarket_id": 808261,
+  "name": "God-Eternal Oketra",
+  "lang": "en",
+  "released_at": "2025-02-14",
+  "uri": "https://api.scryfall.com/cards/6453140c-6588-41d8-b43f-1858d70d9761",
+  "scryfall_uri": "https://scryfall.com/card/drc/66/god-eternal-oketra?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/4/6453140c-6588-41d8-b43f-1858d70d9761.jpg?1738355626",
+    "normal": "https://cards.scryfall.io/normal/front/6/4/6453140c-6588-41d8-b43f-1858d70d9761.jpg?1738355626",
+    "large": "https://cards.scryfall.io/large/front/6/4/6453140c-6588-41d8-b43f-1858d70d9761.jpg?1738355626",
+    "png": "https://cards.scryfall.io/png/front/6/4/6453140c-6588-41d8-b43f-1858d70d9761.png?1738355626",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/4/6453140c-6588-41d8-b43f-1858d70d9761.jpg?1738355626",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/4/6453140c-6588-41d8-b43f-1858d70d9761.jpg?1738355626"
+  },
+  "mana_cost": "{3}{W}{W}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Zombie God",
+  "oracle_text": "Double strike\nWhenever you cast a creature spell, create a 4/4 black Zombie Warrior creature token with vigilance.\nWhen God-Eternal Oketra dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.",
+  "power": "3",
+  "toughness": "6",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Double strike"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6453140c-6588-41d8-b43f-1858d70d9761",
+      "component": "combo_piece",
+      "name": "God-Eternal Oketra",
+      "type_line": "Legendary Creature — Zombie God",
+      "uri": "https://api.scryfall.com/cards/6453140c-6588-41d8-b43f-1858d70d9761"
+    },
+    {
+      "object": "related_card",
+      "id": "feddb610-e327-4592-8a81-66f8613c1daf",
+      "component": "token",
+      "name": "Zombie Warrior",
+      "type_line": "Token Creature — Zombie Warrior",
+      "uri": "https://api.scryfall.com/cards/feddb610-e327-4592-8a81-66f8613c1daf"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d33ef7a4-41bb-4f16-bad3-b3ee13c257e6",
+  "set": "drc",
+  "set_name": "Aetherdrift Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d33ef7a4-41bb-4f16-bad3-b3ee13c257e6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/drc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6453140c-6588-41d8-b43f-1858d70d9761/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3b03358d-f87e-4939-afc9-5ee3f044146a&unique=prints",
+  "collector_number": "66",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Grzegorz Rutkowski",
+  "artist_ids": [
+    "b5f49d0d-8056-48e3-b614-090e656b4f9c"
+  ],
+  "illustration_id": "9f85957f-41fc-4710-93c6-203f2e05dbde",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2489,
+  "penny_rank": 10086,
+  "prices": {
+    "usd": "1.10",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "1.16",
+    "eur_foil": null,
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=692416&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGod-Eternal%2BOketra",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGod-Eternal%2BOketra",
+    "edhrec": "https://edhrec.com/route/?cc=God-Eternal+Oketra"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F615089%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=808261&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/137305?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

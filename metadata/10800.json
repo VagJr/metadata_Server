@@ -1,0 +1,153 @@
+{
+  "object": "card",
+  "id": "1935902c-d84f-496a-b9f1-f96d1f5e2b84",
+  "oracle_id": "63ff850d-df4a-4903-95cb-cc04dfacc3f1",
+  "multiverse_ids": [],
+  "tcgplayer_id": 153065,
+  "name": "Construct",
+  "lang": "en",
+  "released_at": "2017-12-08",
+  "uri": "https://api.scryfall.com/cards/1935902c-d84f-496a-b9f1-f96d1f5e2b84",
+  "scryfall_uri": "https://scryfall.com/card/tust/19/construct?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/9/1935902c-d84f-496a-b9f1-f96d1f5e2b84.jpg?1562899738",
+    "normal": "https://cards.scryfall.io/normal/front/1/9/1935902c-d84f-496a-b9f1-f96d1f5e2b84.jpg?1562899738",
+    "large": "https://cards.scryfall.io/large/front/1/9/1935902c-d84f-496a-b9f1-f96d1f5e2b84.jpg?1562899738",
+    "png": "https://cards.scryfall.io/png/front/1/9/1935902c-d84f-496a-b9f1-f96d1f5e2b84.png?1562899738",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/9/1935902c-d84f-496a-b9f1-f96d1f5e2b84.jpg?1562899738",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/9/1935902c-d84f-496a-b9f1-f96d1f5e2b84.jpg?1562899738"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Artifact Creature — Construct",
+  "oracle_text": "",
+  "power": "*",
+  "toughness": "*",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "337af8e8-940f-4afd-bd0c-330de63f79c9",
+      "component": "combo_piece",
+      "name": "Rapid Prototyper",
+      "type_line": "Artifact — Contraption",
+      "uri": "https://api.scryfall.com/cards/337af8e8-940f-4afd-bd0c-330de63f79c9"
+    },
+    {
+      "object": "related_card",
+      "id": "b7938b15-7585-43fb-897f-a57e820665b3",
+      "component": "combo_piece",
+      "name": "Oviya Pashiri, Sage Lifecrafter",
+      "type_line": "Legendary Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/b7938b15-7585-43fb-897f-a57e820665b3"
+    },
+    {
+      "object": "related_card",
+      "id": "1935902c-d84f-496a-b9f1-f96d1f5e2b84",
+      "component": "token",
+      "name": "Construct",
+      "type_line": "Token Artifact Creature — Construct",
+      "uri": "https://api.scryfall.com/cards/1935902c-d84f-496a-b9f1-f96d1f5e2b84"
+    },
+    {
+      "object": "related_card",
+      "id": "3a769d7e-c749-4845-ba87-808f0386df80",
+      "component": "combo_piece",
+      "name": "Metallurgic Summonings",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/3a769d7e-c749-4845-ba87-808f0386df80"
+    },
+    {
+      "object": "related_card",
+      "id": "2e03e05b-011b-4695-950b-98dd7643b8a0",
+      "component": "combo_piece",
+      "name": "Gemini Engine",
+      "type_line": "Artifact Creature — Construct",
+      "uri": "https://api.scryfall.com/cards/2e03e05b-011b-4695-950b-98dd7643b8a0"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "f494ec08-2e39-4228-bddb-200967e2b109",
+  "set": "tust",
+  "set_name": "Unstable Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/f494ec08-2e39-4228-bddb-200967e2b109",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atust&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tust?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1935902c-d84f-496a-b9f1-f96d1f5e2b84/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A63ff850d-df4a-4903-95cb-cc04dfacc3f1&unique=prints",
+  "collector_number": "19",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Matt Gaser",
+  "artist_ids": [
+    "6e995f31-35cc-4cd3-82ab-b381e96f2716"
+  ],
+  "illustration_id": "fe419c4f-323b-4482-9883-eea18e27e254",
+  "border_color": "silver",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": "2.66",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DConstruct",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DConstruct",
+    "edhrec": "https://edhrec.com/route/?cc=Construct"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F153065%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Construct&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Construct&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

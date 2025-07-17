@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "f9376380-8661-4ac6-bd7a-f5d3606f678a",
+  "oracle_id": "393a254f-be31-431a-9341-a51286f8cbce",
+  "multiverse_ids": [],
+  "tcgplayer_id": 454982,
+  "name": "Blast Zone",
+  "lang": "en",
+  "released_at": "2022-11-18",
+  "uri": "https://api.scryfall.com/cards/f9376380-8661-4ac6-bd7a-f5d3606f678a",
+  "scryfall_uri": "https://scryfall.com/card/pbro/258p/blast-zone?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/9/f9376380-8661-4ac6-bd7a-f5d3606f678a.jpg?1675620427",
+    "normal": "https://cards.scryfall.io/normal/front/f/9/f9376380-8661-4ac6-bd7a-f5d3606f678a.jpg?1675620427",
+    "large": "https://cards.scryfall.io/large/front/f/9/f9376380-8661-4ac6-bd7a-f5d3606f678a.jpg?1675620427",
+    "png": "https://cards.scryfall.io/png/front/f/9/f9376380-8661-4ac6-bd7a-f5d3606f678a.png?1675620427",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/9/f9376380-8661-4ac6-bd7a-f5d3606f678a.jpg?1675620427",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/9/f9376380-8661-4ac6-bd7a-f5d3606f678a.jpg?1675620427"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "This land enters with a charge counter on it.\n{T}: Add {C}.\n{X}{X}, {T}: Put X charge counters on this land.\n{3}, {T}, Sacrifice this land: Destroy each nonland permanent with mana value equal to the number of charge counters on this land.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7e8b0464-6ce5-4184-abc7-3de544eebc6a",
+  "set": "pbro",
+  "set_name": "The Brothers' War Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7e8b0464-6ce5-4184-abc7-3de544eebc6a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apbro&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pbro?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f9376380-8661-4ac6-bd7a-f5d3606f678a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A393a254f-be31-431a-9341-a51286f8cbce&unique=prints",
+  "collector_number": "258p",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jorge Jacinto",
+  "artist_ids": [
+    "05a3ac12-b25d-48e2-af5e-8a299fd3da14"
+  ],
+  "illustration_id": "30766027-b0be-42f5-b0d1-70297b5e4467",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 1320,
+  "penny_rank": 109,
+  "prices": {
+    "usd": "0.36",
+    "usd_foil": "0.55",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlast%2BZone",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlast%2BZone",
+    "edhrec": "https://edhrec.com/route/?cc=Blast+Zone"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F454982%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blast+Zone&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blast+Zone&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "33eb868d-44e1-4edd-9513-52f489144f8b",
+  "oracle_id": "279e573d-b7a3-4e62-a708-3ec992d97972",
+  "multiverse_ids": [],
+  "mtgo_id": 90094,
+  "name": "Retriever Phoenix",
+  "lang": "en",
+  "released_at": "2021-05-01",
+  "uri": "https://api.scryfall.com/cards/33eb868d-44e1-4edd-9513-52f489144f8b",
+  "scryfall_uri": "https://scryfall.com/card/prm/90094/retriever-phoenix?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/3/33eb868d-44e1-4edd-9513-52f489144f8b.jpg?1681080434",
+    "normal": "https://cards.scryfall.io/normal/front/3/3/33eb868d-44e1-4edd-9513-52f489144f8b.jpg?1681080434",
+    "large": "https://cards.scryfall.io/large/front/3/3/33eb868d-44e1-4edd-9513-52f489144f8b.jpg?1681080434",
+    "png": "https://cards.scryfall.io/png/front/3/3/33eb868d-44e1-4edd-9513-52f489144f8b.png?1681080434",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/3/33eb868d-44e1-4edd-9513-52f489144f8b.jpg?1681080434",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/3/33eb868d-44e1-4edd-9513-52f489144f8b.jpg?1681080434"
+  },
+  "mana_cost": "{3}{R}",
+  "cmc": 4,
+  "type_line": "Creature — Phoenix",
+  "oracle_text": "Flying, haste\nWhen this creature enters, if you cast it, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)\nAs long as this card is in your graveyard, if you would learn, you may instead return this card to the battlefield.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flying",
+    "Haste",
+    "Learn"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/33eb868d-44e1-4edd-9513-52f489144f8b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A279e573d-b7a3-4e62-a708-3ec992d97972&unique=prints",
+  "collector_number": "90094",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Karl Kopinski",
+  "artist_ids": [
+    "0fad2c48-a56e-4a0b-b512-224f6f238f20"
+  ],
+  "illustration_id": "2775bdcb-2b2c-416f-8de3-c72615873b6f",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 23475,
+  "penny_rank": 10613,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRetriever%2BPhoenix",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRetriever%2BPhoenix",
+    "edhrec": "https://edhrec.com/route/?cc=Retriever+Phoenix"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DRetriever%2BPhoenix%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Retriever+Phoenix&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/90094?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

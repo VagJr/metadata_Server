@@ -1,0 +1,189 @@
+{
+  "object": "card",
+  "id": "a1eff7f8-b645-41cb-bcd9-3dc1ab10200e",
+  "oracle_id": "695b14a0-920a-47bd-bd4a-7989862cdd0a",
+  "multiverse_ids": [],
+  "name": "Beast",
+  "lang": "en",
+  "released_at": "2021-06-18",
+  "uri": "https://api.scryfall.com/cards/a1eff7f8-b645-41cb-bcd9-3dc1ab10200e",
+  "scryfall_uri": "https://scryfall.com/card/tmh2/9/beast?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/1/a1eff7f8-b645-41cb-bcd9-3dc1ab10200e.jpg?1641306190",
+    "normal": "https://cards.scryfall.io/normal/front/a/1/a1eff7f8-b645-41cb-bcd9-3dc1ab10200e.jpg?1641306190",
+    "large": "https://cards.scryfall.io/large/front/a/1/a1eff7f8-b645-41cb-bcd9-3dc1ab10200e.jpg?1641306190",
+    "png": "https://cards.scryfall.io/png/front/a/1/a1eff7f8-b645-41cb-bcd9-3dc1ab10200e.png?1641306190",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/1/a1eff7f8-b645-41cb-bcd9-3dc1ab10200e.jpg?1641306190",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/1/a1eff7f8-b645-41cb-bcd9-3dc1ab10200e.jpg?1641306190"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Beast",
+  "oracle_text": "",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "c1e9cef5-c55f-47d9-9d2f-300dab8fcb0b",
+      "component": "combo_piece",
+      "name": "Herd Baloth",
+      "type_line": "Creature — Beast",
+      "uri": "https://api.scryfall.com/cards/c1e9cef5-c55f-47d9-9d2f-300dab8fcb0b"
+    },
+    {
+      "object": "related_card",
+      "id": "7f9c0792-1ff6-4c8c-b3d5-ff32644c366b",
+      "component": "combo_piece",
+      "name": "Baloth Cage Trap",
+      "type_line": "Instant — Trap",
+      "uri": "https://api.scryfall.com/cards/7f9c0792-1ff6-4c8c-b3d5-ff32644c366b"
+    },
+    {
+      "object": "related_card",
+      "id": "84aa18de-6acc-46cc-8e28-3046790a6751",
+      "component": "combo_piece",
+      "name": "Rampaging Baloths",
+      "type_line": "Creature — Beast",
+      "uri": "https://api.scryfall.com/cards/84aa18de-6acc-46cc-8e28-3046790a6751"
+    },
+    {
+      "object": "related_card",
+      "id": "ddb3ddbd-f963-4014-b321-91e90f3b3bfb",
+      "component": "combo_piece",
+      "name": "Beast Attack",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/ddb3ddbd-f963-4014-b321-91e90f3b3bfb"
+    },
+    {
+      "object": "related_card",
+      "id": "a1eff7f8-b645-41cb-bcd9-3dc1ab10200e",
+      "component": "token",
+      "name": "Beast",
+      "type_line": "Token Creature — Beast",
+      "uri": "https://api.scryfall.com/cards/a1eff7f8-b645-41cb-bcd9-3dc1ab10200e"
+    },
+    {
+      "object": "related_card",
+      "id": "d7ac6ff5-4caa-48ee-a9a4-de7c1300e326",
+      "component": "combo_piece",
+      "name": "Combine Chrysalis",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/d7ac6ff5-4caa-48ee-a9a4-de7c1300e326"
+    },
+    {
+      "object": "related_card",
+      "id": "8c9eb595-e8fa-4a5e-abca-d30613c0e28f",
+      "component": "combo_piece",
+      "name": "Hunting Pack",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/8c9eb595-e8fa-4a5e-abca-d30613c0e28f"
+    },
+    {
+      "object": "related_card",
+      "id": "167eac91-56a8-4bfe-ac95-bb460e0206fa",
+      "component": "combo_piece",
+      "name": "Somberwald Beastmaster",
+      "type_line": "Creature — Human Ranger",
+      "uri": "https://api.scryfall.com/cards/167eac91-56a8-4bfe-ac95-bb460e0206fa"
+    },
+    {
+      "object": "related_card",
+      "id": "c419455e-2ede-430f-84cc-4d1164898cb5",
+      "component": "combo_piece",
+      "name": "Shadowbeast Sighting",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/c419455e-2ede-430f-84cc-4d1164898cb5"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "b25a75f7-3f5b-4056-8ab8-a463d18ce818",
+  "set": "tmh2",
+  "set_name": "Modern Horizons 2 Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/b25a75f7-3f5b-4056-8ab8-a463d18ce818",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atmh2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tmh2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a1eff7f8-b645-41cb-bcd9-3dc1ab10200e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A695b14a0-920a-47bd-bd4a-7989862cdd0a&unique=prints",
+  "collector_number": "9",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lucas Graciano",
+  "artist_ids": [
+    "ce98f39c-7cdd-47e6-a520-6c50443bb4c2"
+  ],
+  "illustration_id": "c6621f55-6271-4801-86e4-13844e55270b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBeast",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBeast",
+    "edhrec": "https://edhrec.com/route/?cc=Beast"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBeast%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Beast&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Beast&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

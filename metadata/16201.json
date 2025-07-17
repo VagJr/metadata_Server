@@ -1,0 +1,152 @@
+{
+  "object": "card",
+  "id": "25fe1de0-431e-4a33-a6e2-c68dad7c17fe",
+  "oracle_id": "bce7e45d-b2c5-43aa-91a6-3a3c24f30850",
+  "multiverse_ids": [],
+  "arena_id": 86618,
+  "name": "Bruna, the Fading Light",
+  "lang": "en",
+  "released_at": "2023-03-21",
+  "uri": "https://api.scryfall.com/cards/25fe1de0-431e-4a33-a6e2-c68dad7c17fe",
+  "scryfall_uri": "https://scryfall.com/card/sir/17a/bruna-the-fading-light?utm_source=api",
+  "layout": "meld",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/5/25fe1de0-431e-4a33-a6e2-c68dad7c17fe.jpg?1680474751",
+    "normal": "https://cards.scryfall.io/normal/front/2/5/25fe1de0-431e-4a33-a6e2-c68dad7c17fe.jpg?1680474751",
+    "large": "https://cards.scryfall.io/large/front/2/5/25fe1de0-431e-4a33-a6e2-c68dad7c17fe.jpg?1680474751",
+    "png": "https://cards.scryfall.io/png/front/2/5/25fe1de0-431e-4a33-a6e2-c68dad7c17fe.png?1680474751",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/5/25fe1de0-431e-4a33-a6e2-c68dad7c17fe.jpg?1680474751",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/5/25fe1de0-431e-4a33-a6e2-c68dad7c17fe.jpg?1680474751"
+  },
+  "mana_cost": "{5}{W}{W}",
+  "cmc": 7,
+  "type_line": "Legendary Creature — Angel Horror",
+  "oracle_text": "When you cast this spell, you may return target Angel or Human creature card from your graveyard to the battlefield.\nFlying, vigilance\n(Melds with Gisela, the Broken Blade.)",
+  "power": "5",
+  "toughness": "7",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "Vigilance"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "cd8586f9-97e2-438d-b74f-1e53c811f314",
+      "component": "combo_piece",
+      "name": "Eldritch Moon Checklist",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/cd8586f9-97e2-438d-b74f-1e53c811f314"
+    },
+    {
+      "object": "related_card",
+      "id": "1895e487-467c-425e-be65-df64d81f5264",
+      "component": "meld_result",
+      "name": "Brisela, Voice of Nightmares",
+      "type_line": "Legendary Creature — Eldrazi Angel",
+      "uri": "https://api.scryfall.com/cards/1895e487-467c-425e-be65-df64d81f5264"
+    },
+    {
+      "object": "related_card",
+      "id": "25fe1de0-431e-4a33-a6e2-c68dad7c17fe",
+      "component": "meld_part",
+      "name": "Bruna, the Fading Light",
+      "type_line": "Legendary Creature — Angel Horror",
+      "uri": "https://api.scryfall.com/cards/25fe1de0-431e-4a33-a6e2-c68dad7c17fe"
+    },
+    {
+      "object": "related_card",
+      "id": "bcaad0d2-4f73-4d09-80f2-5975a498ea19",
+      "component": "meld_part",
+      "name": "Gisela, the Broken Blade",
+      "type_line": "Legendary Creature — Angel Horror",
+      "uri": "https://api.scryfall.com/cards/bcaad0d2-4f73-4d09-80f2-5975a498ea19"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c3694ff5-7b12-4f29-8d82-2c9b553ac60e",
+  "set": "sir",
+  "set_name": "Shadows over Innistrad Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/c3694ff5-7b12-4f29-8d82-2c9b553ac60e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asir&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sir?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/25fe1de0-431e-4a33-a6e2-c68dad7c17fe/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abce7e45d-b2c5-43aa-91a6-3a3c24f30850&unique=prints",
+  "collector_number": "17a",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Clint Cearley",
+  "artist_ids": [
+    "03b75350-d5a0-4e3a-b3b4-8d4a5554385b"
+  ],
+  "illustration_id": "4c8cee4a-a9a4-42eb-9cbf-fcc6c6344d00",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2307,
+  "penny_rank": 6691,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBruna%252C%2Bthe%2BFading%2BLight",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBruna%252C%2Bthe%2BFading%2BLight",
+    "edhrec": "https://edhrec.com/route/?cc=Bruna%2C+the+Fading+Light"
+  }
+}

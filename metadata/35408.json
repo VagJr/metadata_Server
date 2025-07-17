@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "53df0949-a732-4b2d-b81d-a900353869e2",
+  "oracle_id": "639d16ed-daa4-4c8d-8550-5c9a29f4d9fe",
+  "multiverse_ids": [],
+  "tcgplayer_id": 222756,
+  "cardmarket_id": 498450,
+  "name": "Necravolver",
+  "lang": "en",
+  "released_at": "2020-09-01",
+  "uri": "https://api.scryfall.com/cards/53df0949-a732-4b2d-b81d-a900353869e2",
+  "scryfall_uri": "https://scryfall.com/card/plst/APC-46/necravolver?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/3/53df0949-a732-4b2d-b81d-a900353869e2.jpg?1599764469",
+    "normal": "https://cards.scryfall.io/normal/front/5/3/53df0949-a732-4b2d-b81d-a900353869e2.jpg?1599764469",
+    "large": "https://cards.scryfall.io/large/front/5/3/53df0949-a732-4b2d-b81d-a900353869e2.jpg?1599764469",
+    "png": "https://cards.scryfall.io/png/front/5/3/53df0949-a732-4b2d-b81d-a900353869e2.png?1599764469",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/3/53df0949-a732-4b2d-b81d-a900353869e2.jpg?1599764469",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/3/53df0949-a732-4b2d-b81d-a900353869e2.jpg?1599764469"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3,
+  "type_line": "Creature — Volver",
+  "oracle_text": "Kicker {1}{G} and/or {W} (You may pay an additional {1}{G} and/or {W} as you cast this spell.)\nIf this creature was kicked with its {1}{G} kicker, it enters with two +1/+1 counters on it and with trample.\nIf this creature was kicked with its {W} kicker, it enters with a +1/+1 counter on it and with \"Whenever this creature deals damage, you gain that much life.\"",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "W"
+  ],
+  "keywords": [
+    "Kicker"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/53df0949-a732-4b2d-b81d-a900353869e2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A639d16ed-daa4-4c8d-8550-5c9a29f4d9fe&unique=prints",
+  "collector_number": "APC-46",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dave Dorman",
+  "artist_ids": [
+    "9235458b-ce92-45bd-a430-a72ecd8e6176"
+  ],
+  "illustration_id": "9b6ec68a-00bc-4e45-be7f-bdc3e7ef555d",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 28392,
+  "penny_rank": 16371,
+  "prices": {
+    "usd": "0.21",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.17",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNecravolver",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNecravolver",
+    "edhrec": "https://edhrec.com/route/?cc=Necravolver"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F222756%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=498450&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Necravolver&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

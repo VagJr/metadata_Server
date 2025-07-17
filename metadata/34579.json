@@ -1,0 +1,155 @@
+{
+  "object": "card",
+  "id": "51ef5fb3-236d-4ac1-a8a5-68ee230b8909",
+  "oracle_id": "756042c5-e444-45d7-8dc6-ae7c83c98438",
+  "multiverse_ids": [],
+  "tcgplayer_id": 492962,
+  "name": "Ghalta and Mavren",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/51ef5fb3-236d-4ac1-a8a5-68ee230b8909",
+  "scryfall_uri": "https://scryfall.com/card/pmom/225s/ghalta-and-mavren?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/1/51ef5fb3-236d-4ac1-a8a5-68ee230b8909.jpg?1682598847",
+    "normal": "https://cards.scryfall.io/normal/front/5/1/51ef5fb3-236d-4ac1-a8a5-68ee230b8909.jpg?1682598847",
+    "large": "https://cards.scryfall.io/large/front/5/1/51ef5fb3-236d-4ac1-a8a5-68ee230b8909.jpg?1682598847",
+    "png": "https://cards.scryfall.io/png/front/5/1/51ef5fb3-236d-4ac1-a8a5-68ee230b8909.png?1682598847",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/1/51ef5fb3-236d-4ac1-a8a5-68ee230b8909.jpg?1682598847",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/1/51ef5fb3-236d-4ac1-a8a5-68ee230b8909.jpg?1682598847"
+  },
+  "mana_cost": "{3}{G}{G}{W}{W}",
+  "cmc": 7,
+  "type_line": "Legendary Creature — Dinosaur Vampire",
+  "oracle_text": "Trample\nWhenever you attack, choose one —\n• Create a tapped and attacking X/X green Dinosaur creature token with trample, where X is the greatest power among other attacking creatures.\n• Create X 1/1 white Vampire creature tokens with lifelink, where X is the number of other attacking creatures.",
+  "power": "12",
+  "toughness": "12",
+  "colors": [
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [
+    "Trample"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "51ef5fb3-236d-4ac1-a8a5-68ee230b8909",
+      "component": "combo_piece",
+      "name": "Ghalta and Mavren",
+      "type_line": "Legendary Creature — Dinosaur Vampire",
+      "uri": "https://api.scryfall.com/cards/51ef5fb3-236d-4ac1-a8a5-68ee230b8909"
+    },
+    {
+      "object": "related_card",
+      "id": "03a2f3c3-fbcb-4b21-8f86-232c0db80c1f",
+      "component": "token",
+      "name": "Vampire",
+      "type_line": "Token Creature — Vampire",
+      "uri": "https://api.scryfall.com/cards/03a2f3c3-fbcb-4b21-8f86-232c0db80c1f"
+    },
+    {
+      "object": "related_card",
+      "id": "50b6ea55-c976-40e7-aa09-5ba77688bfe9",
+      "component": "token",
+      "name": "Dinosaur",
+      "type_line": "Token Creature — Dinosaur",
+      "uri": "https://api.scryfall.com/cards/50b6ea55-c976-40e7-aa09-5ba77688bfe9"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4af147e4-cf99-4f32-a77e-d116412f469a",
+  "set": "pmom",
+  "set_name": "March of the Machine Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/4af147e4-cf99-4f32-a77e-d116412f469a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apmom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pmom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/51ef5fb3-236d-4ac1-a8a5-68ee230b8909/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A756042c5-e444-45d7-8dc6-ae7c83c98438&unique=prints",
+  "collector_number": "225s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Zezhou Chen",
+  "artist_ids": [
+    "810677e5-a502-4c03-b726-78cd808a75d4"
+  ],
+  "illustration_id": "f46697d1-8d77-4990-9d15-d6bb74c1607b",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 1428,
+  "penny_rank": 5172,
+  "prices": {
+    "usd": null,
+    "usd_foil": "4.93",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGhalta%2Band%2BMavren",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGhalta%2Band%2BMavren",
+    "edhrec": "https://edhrec.com/route/?cc=Ghalta+and+Mavren"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F492962%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ghalta+and+Mavren&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ghalta+and+Mavren&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

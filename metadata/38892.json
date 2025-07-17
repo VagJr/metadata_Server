@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "5bc9808d-1d47-417d-bba8-06694a83d88e",
+  "oracle_id": "1fa20b05-cc06-4fb7-ae76-677a29e2185a",
+  "multiverse_ids": [
+    627797
+  ],
+  "mtgo_id": 114895,
+  "tcgplayer_id": 507301,
+  "cardmarket_id": 723698,
+  "name": "Yedora, Grave Gardener",
+  "lang": "en",
+  "released_at": "2023-08-04",
+  "uri": "https://api.scryfall.com/cards/5bc9808d-1d47-417d-bba8-06694a83d88e",
+  "scryfall_uri": "https://scryfall.com/card/cmm/333/yedora-grave-gardener?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/b/5bc9808d-1d47-417d-bba8-06694a83d88e.jpg?1690017071",
+    "normal": "https://cards.scryfall.io/normal/front/5/b/5bc9808d-1d47-417d-bba8-06694a83d88e.jpg?1690017071",
+    "large": "https://cards.scryfall.io/large/front/5/b/5bc9808d-1d47-417d-bba8-06694a83d88e.jpg?1690017071",
+    "png": "https://cards.scryfall.io/png/front/5/b/5bc9808d-1d47-417d-bba8-06694a83d88e.png?1690017071",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/b/5bc9808d-1d47-417d-bba8-06694a83d88e.jpg?1690017071",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/b/5bc9808d-1d47-417d-bba8-06694a83d88e.jpg?1690017071"
+  },
+  "mana_cost": "{4}{G}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Treefolk Druid",
+  "oracle_text": "Whenever another nontoken creature you control dies, you may return it to the battlefield face down under its owner's control. It's a Forest land. (It has no other types or abilities.)",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set": "cmm",
+  "set_name": "Commander Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5bc9808d-1d47-417d-bba8-06694a83d88e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1fa20b05-cc06-4fb7-ae76-677a29e2185a&unique=prints",
+  "collector_number": "333",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Even in death, we never stop growing.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Svetlin Velinov",
+  "artist_ids": [
+    "ffd063ae-c097-4f26-b2e6-b1e2137708bc"
+  ],
+  "illustration_id": "e5b906bf-3b86-4981-94f2-08202adafdb4",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2688,
+  "penny_rank": 7918,
+  "prices": {
+    "usd": "0.13",
+    "usd_foil": "0.17",
+    "usd_etched": null,
+    "eur": "0.12",
+    "eur_foil": "0.25",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=627797&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DYedora%252C%2BGrave%2BGardener",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DYedora%252C%2BGrave%2BGardener",
+    "edhrec": "https://edhrec.com/route/?cc=Yedora%2C+Grave+Gardener"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F507301%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=723698&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/114895?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

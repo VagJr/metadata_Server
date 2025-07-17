@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "d1a38e25-297f-43e1-9455-73f00eb08cec",
+  "oracle_id": "fbffaf9f-40e7-4113-a037-533b733cebce",
+  "multiverse_ids": [],
+  "mtgo_id": 95876,
+  "tcgplayer_id": 255732,
+  "cardmarket_id": 585263,
+  "name": "Sorin the Mirthless",
+  "lang": "en",
+  "released_at": "2022-01-28",
+  "uri": "https://api.scryfall.com/cards/d1a38e25-297f-43e1-9455-73f00eb08cec",
+  "scryfall_uri": "https://scryfall.com/card/dbl/398/sorin-the-mirthless?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/1/d1a38e25-297f-43e1-9455-73f00eb08cec.jpg?1673162626",
+    "normal": "https://cards.scryfall.io/normal/front/d/1/d1a38e25-297f-43e1-9455-73f00eb08cec.jpg?1673162626",
+    "large": "https://cards.scryfall.io/large/front/d/1/d1a38e25-297f-43e1-9455-73f00eb08cec.jpg?1673162626",
+    "png": "https://cards.scryfall.io/png/front/d/1/d1a38e25-297f-43e1-9455-73f00eb08cec.png?1673162626",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/1/d1a38e25-297f-43e1-9455-73f00eb08cec.jpg?1673162626",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/1/d1a38e25-297f-43e1-9455-73f00eb08cec.jpg?1673162626"
+  },
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4,
+  "type_line": "Legendary Planeswalker — Sorin",
+  "oracle_text": "+1: Look at the top card of your library. You may reveal that card and put it into your hand. If you do, you lose life equal to its mana value.\n−2: Create a 2/3 black Vampire creature token with flying and lifelink.\n−7: Sorin deals 13 damage to any target. You gain 13 life.",
+  "loyalty": "4",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "ebd12ac1-d1b2-4e22-9a17-8f3964294e35",
+      "component": "token",
+      "name": "Vampire",
+      "type_line": "Token Creature — Vampire",
+      "uri": "https://api.scryfall.com/cards/ebd12ac1-d1b2-4e22-9a17-8f3964294e35"
+    },
+    {
+      "object": "related_card",
+      "id": "d1a38e25-297f-43e1-9455-73f00eb08cec",
+      "component": "combo_piece",
+      "name": "Sorin the Mirthless",
+      "type_line": "Legendary Planeswalker — Sorin",
+      "uri": "https://api.scryfall.com/cards/d1a38e25-297f-43e1-9455-73f00eb08cec"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set": "dbl",
+  "set_name": "Innistrad: Double Feature",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adbl&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dbl?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d1a38e25-297f-43e1-9455-73f00eb08cec/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afbffaf9f-40e7-4113-a037-533b733cebce&unique=prints",
+  "collector_number": "398",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Martina Fačková",
+  "artist_ids": [
+    "6338124e-8e53-498d-8bf9-93a55db2f61c"
+  ],
+  "illustration_id": "3b0a815c-97c5-4cbd-8cc3-6213779e57ed",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 6558,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2021-10-31"
+  },
+  "prices": {
+    "usd": "4.26",
+    "usd_foil": "17.98",
+    "usd_etched": null,
+    "eur": "4.26",
+    "eur_foil": "5.92",
+    "tix": "0.80"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSorin%2Bthe%2BMirthless",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSorin%2Bthe%2BMirthless",
+    "edhrec": "https://edhrec.com/route/?cc=Sorin+the+Mirthless"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F255732%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=585263&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/95876?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

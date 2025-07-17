@@ -1,0 +1,118 @@
+{
+  "object": "card",
+  "id": "136e3710-9696-44ce-89c6-83a470e04e5d",
+  "oracle_id": "b3b00911-ece7-4484-bc36-f211ce72b6cc",
+  "multiverse_ids": [
+    547450
+  ],
+  "arena_id": 18902,
+  "name": "Stifle",
+  "lang": "en",
+  "released_at": "2021-05-27",
+  "uri": "https://api.scryfall.com/cards/136e3710-9696-44ce-89c6-83a470e04e5d",
+  "scryfall_uri": "https://scryfall.com/card/ha5/8/stifle?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/3/136e3710-9696-44ce-89c6-83a470e04e5d.jpg?1623371794",
+    "normal": "https://cards.scryfall.io/normal/front/1/3/136e3710-9696-44ce-89c6-83a470e04e5d.jpg?1623371794",
+    "large": "https://cards.scryfall.io/large/front/1/3/136e3710-9696-44ce-89c6-83a470e04e5d.jpg?1623371794",
+    "png": "https://cards.scryfall.io/png/front/1/3/136e3710-9696-44ce-89c6-83a470e04e5d.png?1623371794",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/3/136e3710-9696-44ce-89c6-83a470e04e5d.jpg?1623371794",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/3/136e3710-9696-44ce-89c6-83a470e04e5d.jpg?1623371794"
+  },
+  "mana_cost": "{U}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "oracle_text": "Counter target activated or triggered ability. (Mana abilities can't be targeted.)",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5278af8f-d212-48ea-924e-92aa8a4b495d",
+  "set": "ha5",
+  "set_name": "Historic Anthology 5",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/5278af8f-d212-48ea-924e-92aa8a4b495d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aha5&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ha5?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/136e3710-9696-44ce-89c6-83a470e04e5d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab3b00911-ece7-4484-bc36-f211ce72b6cc&unique=prints",
+  "collector_number": "8",
+  "digital": true,
+  "rarity": "rare",
+  "flavor_text": "\"If I wanted your opinion, I'd have told you what it was.\"\n—Pemmin, Riptide survivor",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dany Orizio",
+  "artist_ids": [
+    "fcd5ea36-64e0-4af0-992a-3c68a34a400f"
+  ],
+  "illustration_id": "b3adbbdc-9747-4745-95f1-fda5617529f2",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4572,
+  "preview": {
+    "source": "Destructoid",
+    "source_uri": "https://www.destructoid.com/stories/exclusive-here-s-a-look-at-some-upcoming-magic-arena-historic-anthology-v-cards-628930.phtml",
+    "previewed_at": "2021-05-11"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547450&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DStifle",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DStifle",
+    "edhrec": "https://edhrec.com/route/?cc=Stifle"
+  }
+}

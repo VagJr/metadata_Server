@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "e09a42a2-0726-4263-ac17-fbb6ea50714f",
+  "oracle_id": "d57a6b19-bd06-4b07-8ee1-0b45612ba9e4",
+  "multiverse_ids": [],
+  "tcgplayer_id": 617983,
+  "cardmarket_id": 810748,
+  "name": "Veyran, Voice of Duality",
+  "lang": "en",
+  "released_at": "2025-02-10",
+  "uri": "https://api.scryfall.com/cards/e09a42a2-0726-4263-ac17-fbb6ea50714f",
+  "scryfall_uri": "https://scryfall.com/card/sld/1915/veyran-voice-of-duality?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/0/e09a42a2-0726-4263-ac17-fbb6ea50714f.jpg?1739103954",
+    "normal": "https://cards.scryfall.io/normal/front/e/0/e09a42a2-0726-4263-ac17-fbb6ea50714f.jpg?1739103954",
+    "large": "https://cards.scryfall.io/large/front/e/0/e09a42a2-0726-4263-ac17-fbb6ea50714f.jpg?1739103954",
+    "png": "https://cards.scryfall.io/png/front/e/0/e09a42a2-0726-4263-ac17-fbb6ea50714f.png?1739103954",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/0/e09a42a2-0726-4263-ac17-fbb6ea50714f.jpg?1739103954",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/0/e09a42a2-0726-4263-ac17-fbb6ea50714f.jpg?1739103954"
+  },
+  "mana_cost": "{1}{U}{R}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Efreet Wizard",
+  "oracle_text": "Magecraft — Whenever you cast or copy an instant or sorcery spell, Veyran gets +1/+1 until end of turn.\nIf you casting or copying an instant or sorcery spell causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [
+    "Magecraft"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e09a42a2-0726-4263-ac17-fbb6ea50714f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad57a6b19-bd06-4b07-8ee1-0b45612ba9e4&unique=prints",
+  "collector_number": "1915",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tsubonari",
+  "artist_ids": [
+    "187d26d3-0e88-4a2f-ae35-af368fad2997"
+  ],
+  "illustration_id": "7c5c4045-cd9c-49f1-bfd2-2c187dba98af",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1057,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/news/announcements/secret-lair-winter-superdrop-2025",
+    "previewed_at": "2025-02-09"
+  },
+  "prices": {
+    "usd": "30.72",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "21.66",
+    "eur_foil": "24.75",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVeyran%252C%2BVoice%2Bof%2BDuality",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVeyran%252C%2BVoice%2Bof%2BDuality",
+    "edhrec": "https://edhrec.com/route/?cc=Veyran%2C+Voice+of+Duality"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F617983%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=810748&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Veyran%2C+Voice+of+Duality&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

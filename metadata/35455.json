@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "53f72b5f-86a1-4d44-94e2-93d4856ce3a8",
+  "oracle_id": "c6911265-54ef-4c16-bcf2-1ffb24b7d426",
+  "multiverse_ids": [
+    665766
+  ],
+  "mtgo_id": 127249,
+  "tcgplayer_id": 553548,
+  "cardmarket_id": 773228,
+  "name": "Kessig Wolf Run",
+  "lang": "en",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/53f72b5f-86a1-4d44-94e2-93d4856ce3a8",
+  "scryfall_uri": "https://scryfall.com/card/m3c/352/kessig-wolf-run?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/3/53f72b5f-86a1-4d44-94e2-93d4856ce3a8.jpg?1717190990",
+    "normal": "https://cards.scryfall.io/normal/front/5/3/53f72b5f-86a1-4d44-94e2-93d4856ce3a8.jpg?1717190990",
+    "large": "https://cards.scryfall.io/large/front/5/3/53f72b5f-86a1-4d44-94e2-93d4856ce3a8.jpg?1717190990",
+    "png": "https://cards.scryfall.io/png/front/5/3/53f72b5f-86a1-4d44-94e2-93d4856ce3a8.png?1717190990",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/3/53f72b5f-86a1-4d44-94e2-93d4856ce3a8.jpg?1717190990",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/3/53f72b5f-86a1-4d44-94e2-93d4856ce3a8.jpg?1717190990"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "{T}: Add {C}.\n{X}{R}{G}, {T}: Target creature gets +X/+0 and gains trample until end of turn.",
+  "colors": [],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "f5e00721-cf99-43ba-bf16-b22d56d12c73",
+  "set": "m3c",
+  "set_name": "Modern Horizons 3 Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/f5e00721-cf99-43ba-bf16-b22d56d12c73",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am3c&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/m3c?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/53f72b5f-86a1-4d44-94e2-93d4856ce3a8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac6911265-54ef-4c16-bcf2-1ffb24b7d426&unique=prints",
+  "collector_number": "352",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "When a werewolf changes for the first time, that first howl is said to echo through the wilds till moonset.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Eytan Zana",
+  "artist_ids": [
+    "0d8d6726-4051-445a-8374-a919aad98f38"
+  ],
+  "illustration_id": "7d3b1e94-b84d-4cff-a4ce-f8053e4ad35e",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "ripplefoil"
+  ],
+  "edhrec_rank": 334,
+  "penny_rank": 1499,
+  "prices": {
+    "usd": "0.23",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": "2.17",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=665766&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKessig%2BWolf%2BRun",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKessig%2BWolf%2BRun",
+    "edhrec": "https://edhrec.com/route/?cc=Kessig+Wolf+Run"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F553548%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=773228&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/127249?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

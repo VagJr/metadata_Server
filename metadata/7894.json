@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "121deaec-29a1-496b-b357-c6db81988aa9",
+  "oracle_id": "f46c72b8-e2e8-42e6-a2e7-ffa5810a9bf3",
+  "multiverse_ids": [],
+  "tcgplayer_id": 223883,
+  "cardmarket_id": 501770,
+  "name": "Swarm Shambler",
+  "lang": "en",
+  "released_at": "2020-09-25",
+  "uri": "https://api.scryfall.com/cards/121deaec-29a1-496b-b357-c6db81988aa9",
+  "scryfall_uri": "https://scryfall.com/card/pznr/207p/swarm-shambler?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/2/121deaec-29a1-496b-b357-c6db81988aa9.jpg?1607365150",
+    "normal": "https://cards.scryfall.io/normal/front/1/2/121deaec-29a1-496b-b357-c6db81988aa9.jpg?1607365150",
+    "large": "https://cards.scryfall.io/large/front/1/2/121deaec-29a1-496b-b357-c6db81988aa9.jpg?1607365150",
+    "png": "https://cards.scryfall.io/png/front/1/2/121deaec-29a1-496b-b357-c6db81988aa9.png?1607365150",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/2/121deaec-29a1-496b-b357-c6db81988aa9.jpg?1607365150",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/2/121deaec-29a1-496b-b357-c6db81988aa9.jpg?1607365150"
+  },
+  "mana_cost": "{G}",
+  "cmc": 1,
+  "type_line": "Creature — Fungus Beast",
+  "oracle_text": "This creature enters with a +1/+1 counter on it.\nWhenever a creature you control with a +1/+1 counter on it becomes the target of a spell an opponent controls, create a 1/1 green Insect creature token.\n{1}, {T}: Put a +1/+1 counter on this creature.",
+  "power": "0",
+  "toughness": "0",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "84da9c36-5d9c-4e29-b6cc-c5c10e490f2e",
+      "component": "token",
+      "name": "Insect",
+      "type_line": "Token Creature — Insect",
+      "uri": "https://api.scryfall.com/cards/84da9c36-5d9c-4e29-b6cc-c5c10e490f2e"
+    },
+    {
+      "object": "related_card",
+      "id": "56ab0aa1-a289-4e7e-9272-36f8635a4bbf",
+      "component": "combo_piece",
+      "name": "Swarm Shambler",
+      "type_line": "Creature — Fungus Beast",
+      "uri": "https://api.scryfall.com/cards/56ab0aa1-a289-4e7e-9272-36f8635a4bbf"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "76c61d42-610a-4b5a-880a-7a1fc1222f81",
+  "set": "pznr",
+  "set_name": "Zendikar Rising Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/76c61d42-610a-4b5a-880a-7a1fc1222f81",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apznr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pznr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/121deaec-29a1-496b-b357-c6db81988aa9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af46c72b8-e2e8-42e6-a2e7-ffa5810a9bf3&unique=prints",
+  "collector_number": "207p",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nicholas Gregory",
+  "artist_ids": [
+    "a1bba8ff-63b4-4786-b1c4-f1bfe5d3ab1c"
+  ],
+  "illustration_id": "89da0519-d534-426d-891a-0301ca7467ac",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 12948,
+  "penny_rank": 4118,
+  "prices": {
+    "usd": "0.20",
+    "usd_foil": "0.45",
+    "usd_etched": null,
+    "eur": "0.15",
+    "eur_foil": "0.43",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSwarm%2BShambler",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSwarm%2BShambler",
+    "edhrec": "https://edhrec.com/route/?cc=Swarm+Shambler"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F223883%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=501770&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Swarm+Shambler&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "object": "card",
+  "id": "4b717f04-4162-4d80-a739-5d848481d2bf",
+  "oracle_id": "8faa4330-07bb-4b65-810a-bbce29d3cd42",
+  "multiverse_ids": [],
+  "tcgplayer_id": 493184,
+  "name": "Invasion of Alara // Awaken the Maelstrom",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/4b717f04-4162-4d80-a739-5d848481d2bf",
+  "scryfall_uri": "https://scryfall.com/card/pmom/230s/invasion-of-alara-awaken-the-maelstrom?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 5,
+  "type_line": "Battle — Siege // Sorcery",
+  "color_identity": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "keywords": [],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Invasion of Alara",
+      "mana_cost": "{W}{U}{B}{R}{G}",
+      "type_line": "Battle — Siege",
+      "oracle_text": "When this Siege enters, exile cards from the top of your library until you exile two nonland cards with mana value 4 or less. You may cast one of those two cards without paying its mana cost. Put one of them into your hand. Then put the other cards exiled this way on the bottom of your library in a random order.",
+      "colors": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "defense": "7",
+      "artist": "Mathias Kollros",
+      "artist_id": "2ae0dd12-047c-4efb-80d7-bccc3bac5fba",
+      "illustration_id": "f580122c-7d41-48f1-95fb-00ef6346b125",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/4/b/4b717f04-4162-4d80-a739-5d848481d2bf.jpg?1682717298",
+        "normal": "https://cards.scryfall.io/normal/front/4/b/4b717f04-4162-4d80-a739-5d848481d2bf.jpg?1682717298",
+        "large": "https://cards.scryfall.io/large/front/4/b/4b717f04-4162-4d80-a739-5d848481d2bf.jpg?1682717298",
+        "png": "https://cards.scryfall.io/png/front/4/b/4b717f04-4162-4d80-a739-5d848481d2bf.png?1682717298",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/4/b/4b717f04-4162-4d80-a739-5d848481d2bf.jpg?1682717298",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/4/b/4b717f04-4162-4d80-a739-5d848481d2bf.jpg?1682717298"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Awaken the Maelstrom",
+      "mana_cost": "",
+      "type_line": "Sorcery",
+      "oracle_text": "Awaken the Maelstrom is all colors.\nTarget player draws two cards. You may put an artifact card from your hand onto the battlefield. Create a token that's a copy of a permanent you control. Distribute three +1/+1 counters among one, two, or three creatures you control. Destroy target permanent an opponent controls.",
+      "colors": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "artist": "Mathias Kollros",
+      "artist_id": "2ae0dd12-047c-4efb-80d7-bccc3bac5fba",
+      "illustration_id": "9890958e-7f57-449e-ac4c-adfb0591ae2a",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/4/b/4b717f04-4162-4d80-a739-5d848481d2bf.jpg?1682717298",
+        "normal": "https://cards.scryfall.io/normal/back/4/b/4b717f04-4162-4d80-a739-5d848481d2bf.jpg?1682717298",
+        "large": "https://cards.scryfall.io/large/back/4/b/4b717f04-4162-4d80-a739-5d848481d2bf.jpg?1682717298",
+        "png": "https://cards.scryfall.io/png/back/4/b/4b717f04-4162-4d80-a739-5d848481d2bf.png?1682717298",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/4/b/4b717f04-4162-4d80-a739-5d848481d2bf.jpg?1682717298",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/4/b/4b717f04-4162-4d80-a739-5d848481d2bf.jpg?1682717298"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "09d6521e-438a-4d16-992f-f2ab27b26ce4",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/09d6521e-438a-4d16-992f-f2ab27b26ce4"
+    },
+    {
+      "object": "related_card",
+      "id": "4b717f04-4162-4d80-a739-5d848481d2bf",
+      "component": "combo_piece",
+      "name": "Invasion of Alara // Awaken the Maelstrom",
+      "type_line": "Battle — Siege // Sorcery",
+      "uri": "https://api.scryfall.com/cards/4b717f04-4162-4d80-a739-5d848481d2bf"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4af147e4-cf99-4f32-a77e-d116412f469a",
+  "set": "pmom",
+  "set_name": "March of the Machine Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/4af147e4-cf99-4f32-a77e-d116412f469a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apmom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pmom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4b717f04-4162-4d80-a739-5d848481d2bf/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8faa4330-07bb-4b65-810a-bbce29d3cd42&unique=prints",
+  "collector_number": "230s",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Mathias Kollros",
+  "artist_ids": [
+    "2ae0dd12-047c-4efb-80d7-bccc3bac5fba"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 9621,
+  "penny_rank": 3640,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.13",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DInvasion%2Bof%2BAlara%2B%252F%252F%2BAwaken%2Bthe%2BMaelstrom",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DInvasion%2Bof%2BAlara%2B%252F%252F%2BAwaken%2Bthe%2BMaelstrom",
+    "edhrec": "https://edhrec.com/route/?cc=Invasion+of+Alara"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F493184%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Invasion+of+Alara&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Invasion+of+Alara&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

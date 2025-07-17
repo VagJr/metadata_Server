@@ -1,0 +1,162 @@
+{
+  "object": "card",
+  "id": "dc3347e3-df90-465d-9346-77d3b4fead10",
+  "oracle_id": "a3112971-3af4-46e8-b2d6-a8759b39d0d1",
+  "multiverse_ids": [
+    570271
+  ],
+  "tcgplayer_id": 272930,
+  "cardmarket_id": 660069,
+  "name": "Ganax, Astral Hunter",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/dc3347e3-df90-465d-9346-77d3b4fead10",
+  "scryfall_uri": "https://scryfall.com/card/clb/398/ganax-astral-hunter?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/c/dc3347e3-df90-465d-9346-77d3b4fead10.jpg?1674138536",
+    "normal": "https://cards.scryfall.io/normal/front/d/c/dc3347e3-df90-465d-9346-77d3b4fead10.jpg?1674138536",
+    "large": "https://cards.scryfall.io/large/front/d/c/dc3347e3-df90-465d-9346-77d3b4fead10.jpg?1674138536",
+    "png": "https://cards.scryfall.io/png/front/d/c/dc3347e3-df90-465d-9346-77d3b4fead10.png?1674138536",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/c/dc3347e3-df90-465d-9346-77d3b4fead10.jpg?1674138536",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/c/dc3347e3-df90-465d-9346-77d3b4fead10.jpg?1674138536"
+  },
+  "mana_cost": "{4}{R}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Dragon",
+  "oracle_text": "Flying\nWhenever Ganax or another Dragon you control enters, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nChoose a Background (You can have a Background as a second commander.)",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flying",
+    "Choose a background",
+    "Treasure"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "770b988d-4f31-4746-8c23-4ed8d9a6b393",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/770b988d-4f31-4746-8c23-4ed8d9a6b393"
+    },
+    {
+      "object": "related_card",
+      "id": "97fb28cc-67bd-4e1f-933a-3b859f38ea64",
+      "component": "combo_piece",
+      "name": "Ganax, Astral Hunter",
+      "type_line": "Legendary Creature — Dragon",
+      "uri": "https://api.scryfall.com/cards/97fb28cc-67bd-4e1f-933a-3b859f38ea64"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set": "clb",
+  "set_name": "Commander Legends: Battle for Baldur's Gate",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/clb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/dc3347e3-df90-465d-9346-77d3b4fead10/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3112971-3af4-46e8-b2d6-a8759b39d0d1&unique=prints",
+  "collector_number": "398",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Justine Jones",
+  "artist_ids": [
+    "51041d8d-35e6-47a2-95b1-528fa4d82134"
+  ],
+  "illustration_id": "5828e528-b703-4199-b8e3-59c7af9007a2",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 1308,
+  "preview": {
+    "source": "HobbyConsolas",
+    "source_uri": "https://www.hobbyconsolas.com/noticias/magic-dungeons-dragons-leyendas-commander-batalla-puerta-baldur-desvelamos-dos-cartas-exclusiva-1063203",
+    "previewed_at": "2022-05-23"
+  },
+  "prices": {
+    "usd": "0.30",
+    "usd_foil": "4.67",
+    "usd_etched": null,
+    "eur": "0.37",
+    "eur_foil": "0.79",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=570271&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGanax%252C%2BAstral%2BHunter",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGanax%252C%2BAstral%2BHunter",
+    "edhrec": "https://edhrec.com/route/?cc=Ganax%2C+Astral+Hunter"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F272930%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=660069&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ganax%2C+Astral+Hunter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

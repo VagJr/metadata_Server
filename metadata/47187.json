@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "6f7dce60-702f-4e6d-9c72-8595ca7189e5",
+  "oracle_id": "367d4cf2-270f-4236-af10-7d5e8ea8c9fe",
+  "multiverse_ids": [
+    666684
+  ],
+  "mtgo_id": 127493,
+  "arena_id": 91172,
+  "tcgplayer_id": 552398,
+  "cardmarket_id": 772582,
+  "name": "Persist",
+  "lang": "en",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/6f7dce60-702f-4e6d-9c72-8595ca7189e5",
+  "scryfall_uri": "https://scryfall.com/card/spg/42/persist?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/f/6f7dce60-702f-4e6d-9c72-8595ca7189e5.jpg?1729618857",
+    "normal": "https://cards.scryfall.io/normal/front/6/f/6f7dce60-702f-4e6d-9c72-8595ca7189e5.jpg?1729618857",
+    "large": "https://cards.scryfall.io/large/front/6/f/6f7dce60-702f-4e6d-9c72-8595ca7189e5.jpg?1729618857",
+    "png": "https://cards.scryfall.io/png/front/6/f/6f7dce60-702f-4e6d-9c72-8595ca7189e5.png?1729618857",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/f/6f7dce60-702f-4e6d-9c72-8595ca7189e5.jpg?1729618857",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/f/6f7dce60-702f-4e6d-9c72-8595ca7189e5.jpg?1729618857"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "oracle_text": "Return target nonlegendary creature card from your graveyard to the battlefield with a -1/-1 counter on it.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c01003a2-b3e2-4e7f-a26d-2348144c8056",
+  "set": "spg",
+  "set_name": "Special Guests",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/c01003a2-b3e2-4e7f-a26d-2348144c8056",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aspg&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/spg?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6f7dce60-702f-4e6d-9c72-8595ca7189e5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A367d4cf2-270f-4236-af10-7d5e8ea8c9fe&unique=prints",
+  "collector_number": "42",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "\"I paid a price to one I will not name to escape the abyss. A bit of my soul for a second chance. And I'd do it again, and again—until I had no soul left to trade.\"\n—Tinua, Skirsdag cultist",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jarel Threat",
+  "artist_ids": [
+    "0fd89fbd-bd59-4ded-890e-731a8982f278"
+  ],
+  "illustration_id": "93ab2ad9-90b7-473e-b53b-f3957c48935f",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 1534,
+  "penny_rank": 117,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2024-05-21"
+  },
+  "prices": {
+    "usd": "3.63",
+    "usd_foil": "11.14",
+    "usd_etched": null,
+    "eur": "4.95",
+    "eur_foil": "9.49",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=666684&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPersist",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPersist",
+    "edhrec": "https://edhrec.com/route/?cc=Persist"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F552398%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=772582&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/127493?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

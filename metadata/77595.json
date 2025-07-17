@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "b727615a-1d3c-4c93-8362-708241486938",
+  "oracle_id": "da113cc9-bb2b-4af4-9c43-32c165b87363",
+  "multiverse_ids": [
+    547434
+  ],
+  "arena_id": 42396,
+  "name": "Spider Spawning",
+  "lang": "en",
+  "released_at": "2021-03-11",
+  "uri": "https://api.scryfall.com/cards/b727615a-1d3c-4c93-8362-708241486938",
+  "scryfall_uri": "https://scryfall.com/card/ha4/17/spider-spawning?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/7/b727615a-1d3c-4c93-8362-708241486938.jpg?1684289178",
+    "normal": "https://cards.scryfall.io/normal/front/b/7/b727615a-1d3c-4c93-8362-708241486938.jpg?1684289178",
+    "large": "https://cards.scryfall.io/large/front/b/7/b727615a-1d3c-4c93-8362-708241486938.jpg?1684289178",
+    "png": "https://cards.scryfall.io/png/front/b/7/b727615a-1d3c-4c93-8362-708241486938.png?1684289178",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/7/b727615a-1d3c-4c93-8362-708241486938.jpg?1684289178",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/7/b727615a-1d3c-4c93-8362-708241486938.jpg?1684289178"
+  },
+  "mana_cost": "{4}{G}",
+  "cmc": 5,
+  "type_line": "Sorcery",
+  "oracle_text": "Create a 1/2 green Spider creature token with reach for each creature card in your graveyard.\nFlashback {6}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [
+    "Flashback"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a351094c-2315-4e95-89ed-16a1866f67cb",
+      "component": "token",
+      "name": "Spider",
+      "type_line": "Token Creature — Spider",
+      "uri": "https://api.scryfall.com/cards/a351094c-2315-4e95-89ed-16a1866f67cb"
+    },
+    {
+      "object": "related_card",
+      "id": "b727615a-1d3c-4c93-8362-708241486938",
+      "component": "combo_piece",
+      "name": "Spider Spawning",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/b727615a-1d3c-4c93-8362-708241486938"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "0c5ab7e5-7d12-45f2-9d58-7ed0acfcc0c6",
+  "set": "ha4",
+  "set_name": "Historic Anthology 4",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/0c5ab7e5-7d12-45f2-9d58-7ed0acfcc0c6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aha4&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ha4?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b727615a-1d3c-4c93-8362-708241486938/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ada113cc9-bb2b-4af4-9c43-32c165b87363&unique=prints",
+  "collector_number": "17",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daniel Ljunggren",
+  "artist_ids": [
+    "0fbd4798-76eb-46d5-a5d4-1e3a25870e34"
+  ],
+  "illustration_id": "b10f7089-229b-4cc2-8ed5-55ee7bc7a402",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 6336,
+  "penny_rank": 7302,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547434&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSpider%2BSpawning",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSpider%2BSpawning",
+    "edhrec": "https://edhrec.com/route/?cc=Spider+Spawning"
+  }
+}

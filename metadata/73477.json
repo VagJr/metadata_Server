@@ -1,0 +1,155 @@
+{
+  "object": "card",
+  "id": "ad4ba0c9-ec77-4406-a62a-82a550791e61",
+  "oracle_id": "92b91910-9b65-4421-8eef-a33793161089",
+  "multiverse_ids": [
+    660550
+  ],
+  "mtgo_id": 125255,
+  "tcgplayer_id": 545136,
+  "cardmarket_id": 764306,
+  "name": "Molten Duplication",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/ad4ba0c9-ec77-4406-a62a-82a550791e61",
+  "scryfall_uri": "https://scryfall.com/card/big/44/molten-duplication?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/d/ad4ba0c9-ec77-4406-a62a-82a550791e61.jpg?1712353144",
+    "normal": "https://cards.scryfall.io/normal/front/a/d/ad4ba0c9-ec77-4406-a62a-82a550791e61.jpg?1712353144",
+    "large": "https://cards.scryfall.io/large/front/a/d/ad4ba0c9-ec77-4406-a62a-82a550791e61.jpg?1712353144",
+    "png": "https://cards.scryfall.io/png/front/a/d/ad4ba0c9-ec77-4406-a62a-82a550791e61.png?1712353144",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/d/ad4ba0c9-ec77-4406-a62a-82a550791e61.jpg?1712353144",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/d/ad4ba0c9-ec77-4406-a62a-82a550791e61.jpg?1712353144"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "oracle_text": "Create a token that's a copy of target artifact or creature you control, except it's an artifact in addition to its other types. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e85f57c5-923a-4824-969e-53feddd78c3b",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/e85f57c5-923a-4824-969e-53feddd78c3b"
+    },
+    {
+      "object": "related_card",
+      "id": "61fbf320-63e1-461e-9696-561a2d6f554a",
+      "component": "combo_piece",
+      "name": "Molten Duplication",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/61fbf320-63e1-461e-9696-561a2d6f554a"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "14332d2c-ba93-4498-bf3f-9d601f88f783",
+  "set": "big",
+  "set_name": "The Big Score",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/14332d2c-ba93-4498-bf3f-9d601f88f783",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abig&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/big?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ad4ba0c9-ec77-4406-a62a-82a550791e61/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A92b91910-9b65-4421-8eef-a33793161089&unique=prints",
+  "collector_number": "44",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "No one had seen this side of Angeline before, not even her.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Inkognit",
+  "artist_ids": [
+    "0ebd73e7-55c9-49d6-bf99-241f10801f89"
+  ],
+  "illustration_id": "dae48d39-9d42-418f-8309-8d38cb98c4c6",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "vault",
+    "boosterfun"
+  ],
+  "edhrec_rank": 1986,
+  "penny_rank": 2317,
+  "preview": {
+    "source": "GamingBible",
+    "source_uri": "https://www.gamingbible.com/features/magic-the-gathering-thunder-junction-card-preview-165494-20240326",
+    "previewed_at": "2024-04-02"
+  },
+  "prices": {
+    "usd": "23.14",
+    "usd_foil": "35.83",
+    "usd_etched": null,
+    "eur": "17.36",
+    "eur_foil": "21.20",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=660550&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMolten%2BDuplication",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMolten%2BDuplication",
+    "edhrec": "https://edhrec.com/route/?cc=Molten+Duplication"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F545136%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=764306&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/125255?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

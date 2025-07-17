@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "18e1bdc9-be60-4abd-9756-d3e70e2fcdb5",
+  "oracle_id": "27e0948b-9916-473b-8d8c-a51bdfbc7457",
+  "multiverse_ids": [],
+  "tcgplayer_id": 206643,
+  "cardmarket_id": 430209,
+  "name": "Underworld Breach",
+  "lang": "en",
+  "released_at": "2020-01-24",
+  "uri": "https://api.scryfall.com/cards/18e1bdc9-be60-4abd-9756-d3e70e2fcdb5",
+  "scryfall_uri": "https://scryfall.com/card/thb/324/underworld-breach?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/8/18e1bdc9-be60-4abd-9756-d3e70e2fcdb5.jpg?1581507317",
+    "normal": "https://cards.scryfall.io/normal/front/1/8/18e1bdc9-be60-4abd-9756-d3e70e2fcdb5.jpg?1581507317",
+    "large": "https://cards.scryfall.io/large/front/1/8/18e1bdc9-be60-4abd-9756-d3e70e2fcdb5.jpg?1581507317",
+    "png": "https://cards.scryfall.io/png/front/1/8/18e1bdc9-be60-4abd-9756-d3e70e2fcdb5.png?1581507317",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/8/18e1bdc9-be60-4abd-9756-d3e70e2fcdb5.jpg?1581507317",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/8/18e1bdc9-be60-4abd-9756-d3e70e2fcdb5.jpg?1581507317"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Enchantment",
+  "oracle_text": "Each nonland card in your graveyard has escape. The escape cost is equal to the card's mana cost plus exile three other cards from your graveyard. (You may cast cards from your graveyard for their escape cost.)\nAt the beginning of the end step, sacrifice this enchantment.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "banned",
+    "modern": "banned",
+    "legacy": "banned",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": true,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "5f23a78d-cda1-462a-8be3-a62b40c34913",
+  "set": "thb",
+  "set_name": "Theros Beyond Death",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/5f23a78d-cda1-462a-8be3-a62b40c34913",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Athb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/thb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/18e1bdc9-be60-4abd-9756-d3e70e2fcdb5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A27e0948b-9916-473b-8d8c-a51bdfbc7457&unique=prints",
+  "collector_number": "324",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lie Setiawan",
+  "artist_ids": [
+    "6f771d3f-310e-4aa4-841f-5ba4ba9f025a"
+  ],
+  "illustration_id": "096145fa-4695-428e-8ba1-7b6465acfae6",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 424,
+  "preview": {
+    "source": "Commanders Brew",
+    "source_uri": "https://twitter.com/CommandersBrew/status/1211693714487336961?s=20",
+    "previewed_at": "2019-12-30"
+  },
+  "prices": {
+    "usd": "10.29",
+    "usd_foil": "21.00",
+    "usd_etched": null,
+    "eur": "8.78",
+    "eur_foil": "18.06",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DUnderworld%2BBreach",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DUnderworld%2BBreach",
+    "edhrec": "https://edhrec.com/route/?cc=Underworld+Breach"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F206643%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=430209&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Underworld+Breach&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

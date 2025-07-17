@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "bf3fcf94-c206-46ac-9356-7561cc0cd711",
+  "oracle_id": "5a8630a8-804e-4789-b9a3-96d9ede5e188",
+  "multiverse_ids": [
+    653190
+  ],
+  "mtgo_id": 132085,
+  "tcgplayer_id": 539586,
+  "cardmarket_id": 757854,
+  "name": "Brass Knuckles",
+  "lang": "en",
+  "released_at": "2024-03-08",
+  "uri": "https://api.scryfall.com/cards/bf3fcf94-c206-46ac-9356-7561cc0cd711",
+  "scryfall_uri": "https://scryfall.com/card/pip/227/brass-knuckles?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/f/bf3fcf94-c206-46ac-9356-7561cc0cd711.jpg?1708743116",
+    "normal": "https://cards.scryfall.io/normal/front/b/f/bf3fcf94-c206-46ac-9356-7561cc0cd711.jpg?1708743116",
+    "large": "https://cards.scryfall.io/large/front/b/f/bf3fcf94-c206-46ac-9356-7561cc0cd711.jpg?1708743116",
+    "png": "https://cards.scryfall.io/png/front/b/f/bf3fcf94-c206-46ac-9356-7561cc0cd711.png?1708743116",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/f/bf3fcf94-c206-46ac-9356-7561cc0cd711.jpg?1708743116",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/f/bf3fcf94-c206-46ac-9356-7561cc0cd711.jpg?1708743116"
+  },
+  "mana_cost": "{4}",
+  "cmc": 4,
+  "type_line": "Artifact — Equipment",
+  "oracle_text": "When you cast this spell, copy it. (The copy becomes a token.)\nEquipped creature has double strike as long as two or more Equipment are attached to it.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Equip"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+  "set": "pip",
+  "set_name": "Fallout",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apip&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pip?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/bf3fcf94-c206-46ac-9356-7561cc0cd711/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5a8630a8-804e-4789-b9a3-96d9ede5e188&unique=prints",
+  "collector_number": "227",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Russell Lu",
+  "artist_ids": [
+    "94d67707-d26e-4af6-a9fc-10b7724fe9ab"
+  ],
+  "illustration_id": "f7b66bd1-6191-4195-9b2e-a9310053e0d5",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4343,
+  "penny_rank": 6121,
+  "prices": {
+    "usd": "0.11",
+    "usd_foil": "0.67",
+    "usd_etched": null,
+    "eur": "0.17",
+    "eur_foil": "0.22",
+    "tix": "0.08"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=653190&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBrass%2BKnuckles",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBrass%2BKnuckles",
+    "edhrec": "https://edhrec.com/route/?cc=Brass+Knuckles"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F539586%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=757854&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/132085?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

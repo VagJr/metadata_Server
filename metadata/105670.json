@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "f9ca12f3-4649-4c3a-b9f3-7ed9b7254f18",
+  "oracle_id": "da72a4bc-ce6f-4b72-bc66-2ee33cfa87df",
+  "multiverse_ids": [
+    558710
+  ],
+  "arena_id": 80490,
+  "tcgplayer_id": 268421,
+  "cardmarket_id": 651279,
+  "name": "Jetmir, Nexus of Revels",
+  "lang": "en",
+  "released_at": "2022-04-29",
+  "uri": "https://api.scryfall.com/cards/f9ca12f3-4649-4c3a-b9f3-7ed9b7254f18",
+  "scryfall_uri": "https://scryfall.com/card/snc/312/jetmir-nexus-of-revels?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/9/f9ca12f3-4649-4c3a-b9f3-7ed9b7254f18.jpg?1664415377",
+    "normal": "https://cards.scryfall.io/normal/front/f/9/f9ca12f3-4649-4c3a-b9f3-7ed9b7254f18.jpg?1664415377",
+    "large": "https://cards.scryfall.io/large/front/f/9/f9ca12f3-4649-4c3a-b9f3-7ed9b7254f18.jpg?1664415377",
+    "png": "https://cards.scryfall.io/png/front/f/9/f9ca12f3-4649-4c3a-b9f3-7ed9b7254f18.png?1664415377",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/9/f9ca12f3-4649-4c3a-b9f3-7ed9b7254f18.jpg?1664415377",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/9/f9ca12f3-4649-4c3a-b9f3-7ed9b7254f18.jpg?1664415377"
+  },
+  "mana_cost": "{1}{R}{G}{W}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Cat Demon",
+  "oracle_text": "Creatures you control get +1/+0 and have vigilance as long as you control three or more creatures.\nCreatures you control also get +1/+0 and have trample as long as you control six or more creatures.\nCreatures you control also get +1/+0 and have double strike as long as you control nine or more creatures.",
+  "power": "5",
+  "toughness": "4",
+  "colors": [
+    "G",
+    "R",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "R",
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+  "set": "snc",
+  "set_name": "Streets of New Capenna",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f9ca12f3-4649-4c3a-b9f3-7ed9b7254f18/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ada72a4bc-ce6f-4b72-bc66-2ee33cfa87df&unique=prints",
+  "collector_number": "312",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Julie Dillon",
+  "artist_ids": [
+    "ce8605ad-6d5a-45a3-a7b6-84be4f5209cd"
+  ],
+  "illustration_id": "063a6361-3a97-4279-98d3-1d68f85e381c",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 1775,
+  "penny_rank": 8647,
+  "preview": {
+    "source": "The Command Zone",
+    "source_uri": "https://www.youtube.com/watch?v=mTK3BofsvWg",
+    "previewed_at": "2022-04-07"
+  },
+  "prices": {
+    "usd": "8.08",
+    "usd_foil": "9.43",
+    "usd_etched": null,
+    "eur": "9.36",
+    "eur_foil": "10.70",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=558710&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJetmir%252C%2BNexus%2Bof%2BRevels",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJetmir%252C%2BNexus%2Bof%2BRevels",
+    "edhrec": "https://edhrec.com/route/?cc=Jetmir%2C+Nexus+of+Revels"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268421%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=651279&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jetmir%2C+Nexus+of+Revels&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

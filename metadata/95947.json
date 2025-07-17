@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "e28b5fce-ac73-44ec-be2c-c95d8d3579fe",
+  "oracle_id": "bd104c7e-311e-4b03-98d3-5f20f3a99d26",
+  "multiverse_ids": [
+    593975
+  ],
+  "tcgplayer_id": 455321,
+  "cardmarket_id": 686870,
+  "name": "Liliana's Mastery",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/e28b5fce-ac73-44ec-be2c-c95d8d3579fe",
+  "scryfall_uri": "https://scryfall.com/card/j22/435/lilianas-mastery?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/2/e28b5fce-ac73-44ec-be2c-c95d8d3579fe.jpg?1675649642",
+    "normal": "https://cards.scryfall.io/normal/front/e/2/e28b5fce-ac73-44ec-be2c-c95d8d3579fe.jpg?1675649642",
+    "large": "https://cards.scryfall.io/large/front/e/2/e28b5fce-ac73-44ec-be2c-c95d8d3579fe.jpg?1675649642",
+    "png": "https://cards.scryfall.io/png/front/e/2/e28b5fce-ac73-44ec-be2c-c95d8d3579fe.png?1675649642",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/2/e28b5fce-ac73-44ec-be2c-c95d8d3579fe.jpg?1675649642",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/2/e28b5fce-ac73-44ec-be2c-c95d8d3579fe.jpg?1675649642"
+  },
+  "mana_cost": "{3}{B}{B}",
+  "cmc": 5,
+  "type_line": "Enchantment",
+  "oracle_text": "Zombies you control get +1/+1.\nWhen this enchantment enters, create two 2/2 black Zombie creature tokens.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e28b5fce-ac73-44ec-be2c-c95d8d3579fe",
+      "component": "combo_piece",
+      "name": "Liliana's Mastery",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/e28b5fce-ac73-44ec-be2c-c95d8d3579fe"
+    },
+    {
+      "object": "related_card",
+      "id": "4cecd5c6-d6c8-4cd5-97a3-cddaf051af15",
+      "component": "token",
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "uri": "https://api.scryfall.com/cards/4cecd5c6-d6c8-4cd5-97a3-cddaf051af15"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "247df475-e4ce-4e5e-9317-11892d2211e0",
+  "set": "j22",
+  "set_name": "Jumpstart 2022",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/247df475-e4ce-4e5e-9317-11892d2211e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj22&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j22?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e28b5fce-ac73-44ec-be2c-c95d8d3579fe/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abd104c7e-311e-4b03-98d3-5f20f3a99d26&unique=prints",
+  "collector_number": "435",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"There are so many of them. It seems they've just been waiting for someone to serve.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kieran Yanner",
+  "artist_ids": [
+    "aa7e89ed-d294-4633-9057-ce04dacfcfa4"
+  ],
+  "illustration_id": "df3684a0-68cf-4d92-8299-983841050af8",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3823,
+  "penny_rank": 2017,
+  "prices": {
+    "usd": "0.33",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.26",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=593975&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLiliana%2527s%2BMastery",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLiliana%2527s%2BMastery",
+    "edhrec": "https://edhrec.com/route/?cc=Liliana%27s+Mastery"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F455321%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=686870&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Liliana%27s+Mastery&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

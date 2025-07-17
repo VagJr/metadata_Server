@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "da8acf63-cf7d-4f95-bdd5-31c766417229",
+  "oracle_id": "50779f73-c538-4364-aca4-4ab069a00814",
+  "multiverse_ids": [
+    658677
+  ],
+  "mtgo_id": 124929,
+  "tcgplayer_id": 545350,
+  "cardmarket_id": 764773,
+  "name": "Life Insurance",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/da8acf63-cf7d-4f95-bdd5-31c766417229",
+  "scryfall_uri": "https://scryfall.com/card/otc/233/life-insurance?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/a/da8acf63-cf7d-4f95-bdd5-31c766417229.jpg?1712354741",
+    "normal": "https://cards.scryfall.io/normal/front/d/a/da8acf63-cf7d-4f95-bdd5-31c766417229.jpg?1712354741",
+    "large": "https://cards.scryfall.io/large/front/d/a/da8acf63-cf7d-4f95-bdd5-31c766417229.jpg?1712354741",
+    "png": "https://cards.scryfall.io/png/front/d/a/da8acf63-cf7d-4f95-bdd5-31c766417229.png?1712354741",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/a/da8acf63-cf7d-4f95-bdd5-31c766417229.jpg?1712354741",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/a/da8acf63-cf7d-4f95-bdd5-31c766417229.jpg?1712354741"
+  },
+  "mana_cost": "{3}{W}{B}",
+  "cmc": 5,
+  "type_line": "Enchantment",
+  "oracle_text": "Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)\nWhenever a nontoken creature dies, you lose 1 life and create a Treasure token.",
+  "colors": [
+    "B",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [
+    "Extort",
+    "Treasure"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "7ec6f053-96f7-4e57-b2eb-4e7699a40a4f",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/7ec6f053-96f7-4e57-b2eb-4e7699a40a4f"
+    },
+    {
+      "object": "related_card",
+      "id": "da8acf63-cf7d-4f95-bdd5-31c766417229",
+      "component": "combo_piece",
+      "name": "Life Insurance",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/da8acf63-cf7d-4f95-bdd5-31c766417229"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set": "otc",
+  "set_name": "Outlaws of Thunder Junction Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/da8acf63-cf7d-4f95-bdd5-31c766417229/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A50779f73-c538-4364-aca4-4ab069a00814&unique=prints",
+  "collector_number": "233",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "All the money in the world won't buy back a pulse.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Brian Valeza",
+  "artist_ids": [
+    "bb2a9339-bbe4-445f-9736-3c43379ee076"
+  ],
+  "illustration_id": "ff30e34f-1267-4ce1-bc8c-811bfcc01c35",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4454,
+  "penny_rank": 10808,
+  "prices": {
+    "usd": "0.13",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": null,
+    "tix": "0.43"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=658677&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLife%2BInsurance",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLife%2BInsurance",
+    "edhrec": "https://edhrec.com/route/?cc=Life+Insurance"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F545350%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=764773&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/124929?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

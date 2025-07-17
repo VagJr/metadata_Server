@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "50f9cecb-0ff7-4837-a8c5-4af394834e2c",
+  "oracle_id": "ad0db433-a406-4ef0-8ffa-416af610c4e7",
+  "multiverse_ids": [
+    673108
+  ],
+  "mtgo_id": 130047,
+  "tcgplayer_id": 557268,
+  "cardmarket_id": 788144,
+  "name": "Doomsday Excruciator",
+  "lang": "en",
+  "released_at": "2024-09-27",
+  "uri": "https://api.scryfall.com/cards/50f9cecb-0ff7-4837-a8c5-4af394834e2c",
+  "scryfall_uri": "https://scryfall.com/card/dsk/346/doomsday-excruciator?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/0/50f9cecb-0ff7-4837-a8c5-4af394834e2c.jpg?1726287183",
+    "normal": "https://cards.scryfall.io/normal/front/5/0/50f9cecb-0ff7-4837-a8c5-4af394834e2c.jpg?1726287183",
+    "large": "https://cards.scryfall.io/large/front/5/0/50f9cecb-0ff7-4837-a8c5-4af394834e2c.jpg?1726287183",
+    "png": "https://cards.scryfall.io/png/front/5/0/50f9cecb-0ff7-4837-a8c5-4af394834e2c.png?1726287183",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/0/50f9cecb-0ff7-4837-a8c5-4af394834e2c.jpg?1726287183",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/0/50f9cecb-0ff7-4837-a8c5-4af394834e2c.jpg?1726287183"
+  },
+  "mana_cost": "{B}{B}{B}{B}{B}{B}",
+  "cmc": 6,
+  "type_line": "Creature — Demon",
+  "oracle_text": "Flying\nWhen this creature enters, if it was cast, each player exiles all but the bottom six cards of their library face down.\nAt the beginning of your upkeep, draw a card.",
+  "power": "6",
+  "toughness": "6",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a111d8a9-b647-48ec-afab-2b78f92173f5",
+  "set": "dsk",
+  "set_name": "Duskmourn: House of Horror",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/a111d8a9-b647-48ec-afab-2b78f92173f5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adsk&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dsk?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/50f9cecb-0ff7-4837-a8c5-4af394834e2c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aad0db433-a406-4ef0-8ffa-416af610c4e7&unique=prints",
+  "collector_number": "346",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jarel Threat",
+  "artist_ids": [
+    "0fd89fbd-bd59-4ded-890e-731a8982f278"
+  ],
+  "illustration_id": "f73d38e1-8725-4e20-81dd-9af57c9504cc",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 7756,
+  "penny_rank": 328,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://twitter.com/wizards_magic/status/1806654504278044790/photo/1",
+    "previewed_at": "2024-06-28"
+  },
+  "prices": {
+    "usd": "0.56",
+    "usd_foil": "0.83",
+    "usd_etched": null,
+    "eur": "0.38",
+    "eur_foil": "1.10",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=673108&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDoomsday%2BExcruciator",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDoomsday%2BExcruciator",
+    "edhrec": "https://edhrec.com/route/?cc=Doomsday+Excruciator"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F557268%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=788144&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/130047?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

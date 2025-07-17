@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "fc65edbb-9690-4dd9-8542-10419729b92a",
+  "oracle_id": "3d783beb-9ca6-4681-9276-fc3ad13b993f",
+  "multiverse_ids": [
+    626385
+  ],
+  "mtgo_id": 113405,
+  "tcgplayer_etched_id": 504622,
+  "cardmarket_id": 722631,
+  "name": "Balefire Dragon",
+  "lang": "en",
+  "released_at": "2023-08-04",
+  "uri": "https://api.scryfall.com/cards/fc65edbb-9690-4dd9-8542-10419729b92a",
+  "scryfall_uri": "https://scryfall.com/card/cmm/530/balefire-dragon?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/c/fc65edbb-9690-4dd9-8542-10419729b92a.jpg?1690000997",
+    "normal": "https://cards.scryfall.io/normal/front/f/c/fc65edbb-9690-4dd9-8542-10419729b92a.jpg?1690000997",
+    "large": "https://cards.scryfall.io/large/front/f/c/fc65edbb-9690-4dd9-8542-10419729b92a.jpg?1690000997",
+    "png": "https://cards.scryfall.io/png/front/f/c/fc65edbb-9690-4dd9-8542-10419729b92a.png?1690000997",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/c/fc65edbb-9690-4dd9-8542-10419729b92a.jpg?1690000997",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/c/fc65edbb-9690-4dd9-8542-10419729b92a.jpg?1690000997"
+  },
+  "mana_cost": "{5}{R}{R}",
+  "cmc": 7,
+  "type_line": "Creature — Dragon",
+  "oracle_text": "Flying\nWhenever this creature deals combat damage to a player, it deals that much damage to each creature that player controls.",
+  "power": "6",
+  "toughness": "6",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": false,
+  "finishes": [
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set": "cmm",
+  "set_name": "Commander Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/fc65edbb-9690-4dd9-8542-10419729b92a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3d783beb-9ca6-4681-9276-fc3ad13b993f&unique=prints",
+  "collector_number": "530",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "If it comes for you, die boldly or die swiftly—for die you will.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Eric Deschamps",
+  "artist_ids": [
+    "37970e22-9cee-44c1-af44-5ee27cf26b76"
+  ],
+  "illustration_id": "2ef5ed4b-018a-4bdc-85f9-7984f4c5ff6c",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted",
+    "etched"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 1231,
+  "penny_rank": 10444,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": "18.73",
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.26"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=626385&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBalefire%2BDragon",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBalefire%2BDragon",
+    "edhrec": "https://edhrec.com/route/?cc=Balefire+Dragon"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBalefire%2BDragon%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=722631&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/113405?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

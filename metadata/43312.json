@@ -1,0 +1,118 @@
+{
+  "object": "card",
+  "id": "663029eb-8002-42fd-b1ad-02f249bc0ffd",
+  "oracle_id": "bc71ebf6-2056-41f7-be35-b2e5c34afa99",
+  "multiverse_ids": [
+    456580
+  ],
+  "tcgplayer_id": 180418,
+  "cardmarket_id": 366601,
+  "name": "Plains",
+  "lang": "en",
+  "released_at": "2018-11-16",
+  "uri": "https://api.scryfall.com/cards/663029eb-8002-42fd-b1ad-02f249bc0ffd",
+  "scryfall_uri": "https://scryfall.com/card/gnt/60/plains?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/6/663029eb-8002-42fd-b1ad-02f249bc0ffd.jpg?1592765307",
+    "normal": "https://cards.scryfall.io/normal/front/6/6/663029eb-8002-42fd-b1ad-02f249bc0ffd.jpg?1592765307",
+    "large": "https://cards.scryfall.io/large/front/6/6/663029eb-8002-42fd-b1ad-02f249bc0ffd.jpg?1592765307",
+    "png": "https://cards.scryfall.io/png/front/6/6/663029eb-8002-42fd-b1ad-02f249bc0ffd.png?1592765307",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/6/663029eb-8002-42fd-b1ad-02f249bc0ffd.jpg?1592765307",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/6/663029eb-8002-42fd-b1ad-02f249bc0ffd.jpg?1592765307"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Basic Land — Plains",
+  "oracle_text": "({T}: Add {W}.)",
+  "colors": [],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "W"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cdbedc27-4f24-4d89-ace1-8da1b36ac78e",
+  "set": "gnt",
+  "set_name": "Game Night",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/cdbedc27-4f24-4d89-ace1-8da1b36ac78e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Agnt&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/gnt?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/663029eb-8002-42fd-b1ad-02f249bc0ffd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abc71ebf6-2056-41f7-be35-b2e5c34afa99&unique=prints",
+  "collector_number": "60",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Howard Lyon",
+  "artist_ids": [
+    "6dd06426-59fe-4b9c-aad5-6da8446a5c3d"
+  ],
+  "illustration_id": "eacd88eb-e9f6-4772-81d3-887e94e4034e",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": "0.16",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.07",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456580&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPlains",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPlains",
+    "edhrec": "https://edhrec.com/route/?cc=Plains"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F180418%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=366601&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Plains&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

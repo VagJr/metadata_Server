@@ -1,0 +1,148 @@
+{
+  "object": "card",
+  "id": "0a98990e-52f1-4a56-bede-a87d9c8e1ecb",
+  "oracle_id": "5aa76c5d-8046-42ce-b61d-cc9b4806c11a",
+  "multiverse_ids": [],
+  "tcgplayer_id": 526879,
+  "name": "Saheeli, the Sun's Brilliance",
+  "lang": "en",
+  "released_at": "2023-11-17",
+  "uri": "https://api.scryfall.com/cards/0a98990e-52f1-4a56-bede-a87d9c8e1ecb",
+  "scryfall_uri": "https://scryfall.com/card/plci/239p/saheeli-the-suns-brilliance?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/a/0a98990e-52f1-4a56-bede-a87d9c8e1ecb.jpg?1702060819",
+    "normal": "https://cards.scryfall.io/normal/front/0/a/0a98990e-52f1-4a56-bede-a87d9c8e1ecb.jpg?1702060819",
+    "large": "https://cards.scryfall.io/large/front/0/a/0a98990e-52f1-4a56-bede-a87d9c8e1ecb.jpg?1702060819",
+    "png": "https://cards.scryfall.io/png/front/0/a/0a98990e-52f1-4a56-bede-a87d9c8e1ecb.png?1702060819",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/a/0a98990e-52f1-4a56-bede-a87d9c8e1ecb.jpg?1702060819",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/a/0a98990e-52f1-4a56-bede-a87d9c8e1ecb.jpg?1702060819"
+  },
+  "mana_cost": "{U}{R}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Human Artificer",
+  "oracle_text": "{U}{R}, {T}: Create a token that's a copy of another target creature or artifact you control, except it's an artifact in addition to its other types. It gains haste. Sacrifice it at the beginning of the next end step.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a5d981dc-7732-405d-87b7-4c02e9694260",
+      "component": "combo_piece",
+      "name": "Saheeli, the Sun's Brilliance",
+      "type_line": "Legendary Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/a5d981dc-7732-405d-87b7-4c02e9694260"
+    },
+    {
+      "object": "related_card",
+      "id": "01c3b739-89b3-4ad8-aab9-76e8f87cf123",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/01c3b739-89b3-4ad8-aab9-76e8f87cf123"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c2d4f3dd-aea0-4aec-bf7d-477e625483a6",
+  "set": "plci",
+  "set_name": "The Lost Caverns of Ixalan Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/c2d4f3dd-aea0-4aec-bf7d-477e625483a6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplci&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plci?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0a98990e-52f1-4a56-bede-a87d9c8e1ecb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5aa76c5d-8046-42ce-b61d-cc9b4806c11a&unique=prints",
+  "collector_number": "239p",
+  "digital": false,
+  "rarity": "mythic",
+  "watermark": "desparked",
+  "flavor_text": "What began as a single gift for Huatli became a battalion of automatons unlike anything ever seen on Ixalan.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Cynthia Sheppard",
+  "artist_ids": [
+    "9dfbdd58-65e6-40cf-951a-80e141061939"
+  ],
+  "illustration_id": "ece9ebac-e460-4003-b2cd-10e3804a81f7",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 4510,
+  "penny_rank": 9569,
+  "prices": {
+    "usd": "1.10",
+    "usd_foil": "2.04",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSaheeli%252C%2Bthe%2BSun%2527s%2BBrilliance",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSaheeli%252C%2Bthe%2BSun%2527s%2BBrilliance",
+    "edhrec": "https://edhrec.com/route/?cc=Saheeli%2C+the+Sun%27s+Brilliance"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F526879%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Saheeli%2C+the+Sun%27s+Brilliance&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Saheeli%2C+the+Sun%27s+Brilliance&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

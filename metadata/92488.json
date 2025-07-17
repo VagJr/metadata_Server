@@ -1,0 +1,186 @@
+{
+  "object": "card",
+  "id": "da5ecf95-b360-4bc6-8706-de350736b7e3",
+  "oracle_id": "730be0d6-2612-44d6-9d36-e1fc6510c6bd",
+  "multiverse_ids": [],
+  "tcgplayer_id": 555840,
+  "cardmarket_id": 776215,
+  "name": "Avabruck Caretaker // Hollowhenge Huntmaster",
+  "lang": "en",
+  "released_at": "2024-06-24",
+  "uri": "https://api.scryfall.com/cards/da5ecf95-b360-4bc6-8706-de350736b7e3",
+  "scryfall_uri": "https://scryfall.com/card/sld/1608/avabruck-caretaker-hollowhenge-huntmaster?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 6,
+  "type_line": "Creature — Human Werewolf // Creature — Werewolf",
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Daybound",
+    "Hexproof",
+    "Nightbound"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Avabruck Caretaker",
+      "mana_cost": "{4}{G}{G}",
+      "type_line": "Creature — Human Werewolf",
+      "oracle_text": "Hexproof\nAt the beginning of combat on your turn, put two +1/+1 counters on another target creature you control.\nDaybound (If a player casts no spells during their own turn, it becomes night next turn.)",
+      "colors": [
+        "G"
+      ],
+      "power": "4",
+      "toughness": "4",
+      "flavor_text": "\"If anyone asks, we met online.\"",
+      "artist": "Kev Walker",
+      "artist_id": "f366a0ee-a0cd-466d-ba6a-90058c7a31a6",
+      "illustration_id": "c96b4db5-a176-47a1-9314-357a45db8f62",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/d/a/da5ecf95-b360-4bc6-8706-de350736b7e3.jpg?1719002288",
+        "normal": "https://cards.scryfall.io/normal/front/d/a/da5ecf95-b360-4bc6-8706-de350736b7e3.jpg?1719002288",
+        "large": "https://cards.scryfall.io/large/front/d/a/da5ecf95-b360-4bc6-8706-de350736b7e3.jpg?1719002288",
+        "png": "https://cards.scryfall.io/png/front/d/a/da5ecf95-b360-4bc6-8706-de350736b7e3.png?1719002288",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/d/a/da5ecf95-b360-4bc6-8706-de350736b7e3.jpg?1719002288",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/d/a/da5ecf95-b360-4bc6-8706-de350736b7e3.jpg?1719002288"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Hollowhenge Huntmaster",
+      "mana_cost": "",
+      "type_line": "Creature — Werewolf",
+      "oracle_text": "Hexproof\nOther permanents you control have hexproof.\nAt the beginning of combat on your turn, put two +1/+1 counters on each creature you control.\nNightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)",
+      "colors": [
+        "G"
+      ],
+      "color_indicator": [
+        "G"
+      ],
+      "power": "6",
+      "toughness": "6",
+      "flavor_text": "\"PLEASE DO NOT BE ALARMED. WE TIP VERY WELL.\"",
+      "artist": "Kev Walker",
+      "artist_id": "f366a0ee-a0cd-466d-ba6a-90058c7a31a6",
+      "illustration_id": "c6b85449-81d2-4b1a-b71a-98659d986170",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/d/a/da5ecf95-b360-4bc6-8706-de350736b7e3.jpg?1719002288",
+        "normal": "https://cards.scryfall.io/normal/back/d/a/da5ecf95-b360-4bc6-8706-de350736b7e3.jpg?1719002288",
+        "large": "https://cards.scryfall.io/large/back/d/a/da5ecf95-b360-4bc6-8706-de350736b7e3.jpg?1719002288",
+        "png": "https://cards.scryfall.io/png/back/d/a/da5ecf95-b360-4bc6-8706-de350736b7e3.png?1719002288",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/d/a/da5ecf95-b360-4bc6-8706-de350736b7e3.jpg?1719002288",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/d/a/da5ecf95-b360-4bc6-8706-de350736b7e3.jpg?1719002288"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "da5ecf95-b360-4bc6-8706-de350736b7e3",
+      "component": "combo_piece",
+      "name": "Avabruck Caretaker // Hollowhenge Huntmaster",
+      "type_line": "Creature — Human Werewolf // Creature — Werewolf",
+      "uri": "https://api.scryfall.com/cards/da5ecf95-b360-4bc6-8706-de350736b7e3"
+    },
+    {
+      "object": "related_card",
+      "id": "dc26e13b-7a0f-4e7f-8593-4f22234f4517",
+      "component": "combo_piece",
+      "name": "Day // Night",
+      "type_line": "Card // Card",
+      "uri": "https://api.scryfall.com/cards/dc26e13b-7a0f-4e7f-8593-4f22234f4517"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/da5ecf95-b360-4bc6-8706-de350736b7e3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A730be0d6-2612-44d6-9d36-e1fc6510c6bd&unique=prints",
+  "collector_number": "1608",
+  "digital": false,
+  "rarity": "mythic",
+  "artist": "Kev Walker",
+  "artist_ids": [
+    "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+  ],
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 6206,
+  "penny_rank": 5492,
+  "preview": {
+    "source": "NOT A WOLF",
+    "source_uri": "https://x.com/SICKOFWOLVES/status/1802370559290040761",
+    "previewed_at": "2024-06-16"
+  },
+  "prices": {
+    "usd": "5.90",
+    "usd_foil": "6.00",
+    "usd_etched": null,
+    "eur": "7.03",
+    "eur_foil": "5.99",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAvabruck%2BCaretaker%2B%252F%252F%2BHollowhenge%2BHuntmaster",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAvabruck%2BCaretaker%2B%252F%252F%2BHollowhenge%2BHuntmaster",
+    "edhrec": "https://edhrec.com/route/?cc=Avabruck+Caretaker"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F555840%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=776215&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Avabruck+Caretaker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

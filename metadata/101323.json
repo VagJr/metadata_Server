@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "ef7b3575-4942-4ce3-a6de-87c9c4568927",
+  "oracle_id": "0b67c4e2-f88b-4e01-85a1-9d5f5b8db13b",
+  "multiverse_ids": [],
+  "tcgplayer_id": 519838,
+  "name": "Commander's Sphere",
+  "lang": "en",
+  "released_at": "2023-10-13",
+  "uri": "https://api.scryfall.com/cards/ef7b3575-4942-4ce3-a6de-87c9c4568927",
+  "scryfall_uri": "https://scryfall.com/card/who/831/commanders-sphere?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/f/ef7b3575-4942-4ce3-a6de-87c9c4568927.jpg?1696638319",
+    "normal": "https://cards.scryfall.io/normal/front/e/f/ef7b3575-4942-4ce3-a6de-87c9c4568927.jpg?1696638319",
+    "large": "https://cards.scryfall.io/large/front/e/f/ef7b3575-4942-4ce3-a6de-87c9c4568927.jpg?1696638319",
+    "png": "https://cards.scryfall.io/png/front/e/f/ef7b3575-4942-4ce3-a6de-87c9c4568927.png?1696638319",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/f/ef7b3575-4942-4ce3-a6de-87c9c4568927.jpg?1696638319",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/f/ef7b3575-4942-4ce3-a6de-87c9c4568927.jpg?1696638319"
+  },
+  "mana_cost": "{3}",
+  "cmc": 3,
+  "type_line": "Artifact",
+  "oracle_text": "{T}: Add one mana of any color in your commander's color identity.\nSacrifice this artifact: Draw a card.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "efdfdd99-cee7-4c11-a5e9-03d60f88bdd6",
+  "set": "who",
+  "set_name": "Doctor Who",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/efdfdd99-cee7-4c11-a5e9-03d60f88bdd6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awho&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/who?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ef7b3575-4942-4ce3-a6de-87c9c4568927/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0b67c4e2-f88b-4e01-85a1-9d5f5b8db13b&unique=prints",
+  "collector_number": "831",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"This is the Source. This is what you're fighting over. A device to rejuvenate a planet's ecosystem.\"\n—The Tenth Doctor",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Thanh Tuấn",
+  "artist_ids": [
+    "4092d03e-ede3-4946-bfdc-888fff30cfdf"
+  ],
+  "illustration_id": "eaa0ecd5-984f-4734-a487-3bed3b7dee5a",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "surgefoil",
+    "boosterfun"
+  ],
+  "edhrec_rank": 32,
+  "prices": {
+    "usd": null,
+    "usd_foil": "4.70",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCommander%2527s%2BSphere",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCommander%2527s%2BSphere",
+    "edhrec": "https://edhrec.com/route/?cc=Commander%27s+Sphere"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F519838%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Commander%27s+Sphere&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Commander%27s+Sphere&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

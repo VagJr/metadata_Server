@@ -1,0 +1,171 @@
+{
+  "object": "card",
+  "id": "c717b484-4b88-4073-a185-71b6085e7324",
+  "oracle_id": "35ae7b25-6d0f-49f8-a40d-dd2cf88e6f44",
+  "multiverse_ids": [
+    507643,
+    507644
+  ],
+  "arena_id": 75398,
+  "tcgplayer_id": 230922,
+  "cardmarket_id": 532117,
+  "name": "Reidane, God of the Worthy // Valkmira, Protector's Shield",
+  "lang": "en",
+  "released_at": "2021-02-05",
+  "uri": "https://api.scryfall.com/cards/c717b484-4b88-4073-a185-71b6085e7324",
+  "scryfall_uri": "https://scryfall.com/card/khm/300/reidane-god-of-the-worthy-valkmira-protectors-shield?utm_source=api",
+  "layout": "modal_dfc",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 3,
+  "type_line": "Legendary Creature — God // Legendary Artifact",
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "Vigilance"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Reidane, God of the Worthy",
+      "mana_cost": "{2}{W}",
+      "type_line": "Legendary Creature — God",
+      "oracle_text": "Flying, vigilance\nSnow lands your opponents control enter tapped.\nNoncreature spells your opponents cast with mana value 4 or greater cost {2} more to cast.",
+      "colors": [
+        "W"
+      ],
+      "power": "2",
+      "toughness": "3",
+      "artist": "Andy Brase",
+      "artist_id": "e546966c-32fd-4b79-9f33-1cd332b92dbc",
+      "illustration_id": "9f8d18fd-1177-49c9-ac43-5d2655e05de8",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/c/7/c717b484-4b88-4073-a185-71b6085e7324.jpg?1631054138",
+        "normal": "https://cards.scryfall.io/normal/front/c/7/c717b484-4b88-4073-a185-71b6085e7324.jpg?1631054138",
+        "large": "https://cards.scryfall.io/large/front/c/7/c717b484-4b88-4073-a185-71b6085e7324.jpg?1631054138",
+        "png": "https://cards.scryfall.io/png/front/c/7/c717b484-4b88-4073-a185-71b6085e7324.png?1631054138",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/c/7/c717b484-4b88-4073-a185-71b6085e7324.jpg?1631054138",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/c/7/c717b484-4b88-4073-a185-71b6085e7324.jpg?1631054138"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Valkmira, Protector's Shield",
+      "mana_cost": "{3}{W}",
+      "type_line": "Legendary Artifact",
+      "oracle_text": "If a source an opponent controls would deal damage to you or a permanent you control, prevent 1 of that damage.\nWhenever you or another permanent you control becomes the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays {1}.",
+      "colors": [
+        "W"
+      ],
+      "artist": "Andy Brase",
+      "artist_id": "e546966c-32fd-4b79-9f33-1cd332b92dbc",
+      "illustration_id": "8bc670a7-f175-4d72-8d7e-8c5fc64bf9a2",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/c/7/c717b484-4b88-4073-a185-71b6085e7324.jpg?1631054138",
+        "normal": "https://cards.scryfall.io/normal/back/c/7/c717b484-4b88-4073-a185-71b6085e7324.jpg?1631054138",
+        "large": "https://cards.scryfall.io/large/back/c/7/c717b484-4b88-4073-a185-71b6085e7324.jpg?1631054138",
+        "png": "https://cards.scryfall.io/png/back/c/7/c717b484-4b88-4073-a185-71b6085e7324.png?1631054138",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/c/7/c717b484-4b88-4073-a185-71b6085e7324.jpg?1631054138",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/c/7/c717b484-4b88-4073-a185-71b6085e7324.jpg?1631054138"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "43057fad-b1c1-437f-bc48-0045bce6d8c9",
+  "set": "khm",
+  "set_name": "Kaldheim",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/43057fad-b1c1-437f-bc48-0045bce6d8c9",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Akhm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/khm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c717b484-4b88-4073-a185-71b6085e7324/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A35ae7b25-6d0f-49f8-a40d-dd2cf88e6f44&unique=prints",
+  "collector_number": "300",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Andy Brase",
+  "artist_ids": [
+    "e546966c-32fd-4b79-9f33-1cd332b92dbc"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 6487,
+  "penny_rank": 3443,
+  "preview": {
+    "source": "Marty Friedman",
+    "source_uri": "https://twitter.com/marty_friedman/status/1349527247560994816",
+    "previewed_at": "2021-01-13"
+  },
+  "prices": {
+    "usd": "0.32",
+    "usd_foil": "2.08",
+    "usd_etched": null,
+    "eur": "0.45",
+    "eur_foil": "1.51",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=507643&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DReidane%252C%2BGod%2Bof%2Bthe%2BWorthy%2B%252F%252F%2BValkmira%252C%2BProtector%2527s%2BShield",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DReidane%252C%2BGod%2Bof%2Bthe%2BWorthy%2B%252F%252F%2BValkmira%252C%2BProtector%2527s%2BShield",
+    "edhrec": "https://edhrec.com/route/?cc=Reidane%2C+God+of+the+Worthy"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F230922%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=532117&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Reidane%2C+God+of+the+Worthy&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

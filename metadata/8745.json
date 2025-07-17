@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "144bb08b-a289-4bd2-9da6-e42173543918",
+  "oracle_id": "a38828be-781e-4340-9c6f-f40b1d34773f",
+  "multiverse_ids": [],
+  "tcgplayer_id": 481537,
+  "name": "White Sun's Twilight",
+  "lang": "en",
+  "released_at": "2023-02-03",
+  "uri": "https://api.scryfall.com/cards/144bb08b-a289-4bd2-9da6-e42173543918",
+  "scryfall_uri": "https://scryfall.com/card/pone/38s/white-suns-twilight?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/4/144bb08b-a289-4bd2-9da6-e42173543918.jpg?1675700861",
+    "normal": "https://cards.scryfall.io/normal/front/1/4/144bb08b-a289-4bd2-9da6-e42173543918.jpg?1675700861",
+    "large": "https://cards.scryfall.io/large/front/1/4/144bb08b-a289-4bd2-9da6-e42173543918.jpg?1675700861",
+    "png": "https://cards.scryfall.io/png/front/1/4/144bb08b-a289-4bd2-9da6-e42173543918.png?1675700861",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/4/144bb08b-a289-4bd2-9da6-e42173543918.jpg?1675700861",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/4/144bb08b-a289-4bd2-9da6-e42173543918.jpg?1675700861"
+  },
+  "mana_cost": "{X}{W}{W}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "oracle_text": "You gain X life. Create X 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \"This token can't block.\" If X is 5 or more, destroy all other creatures. (Players dealt combat damage by a creature with toxic 1 also get a poison counter.)",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a0b4b9cc-b0a4-4383-881b-e843e5d8a8c1",
+      "component": "token",
+      "name": "Phyrexian Mite",
+      "type_line": "Token Artifact Creature — Phyrexian Mite",
+      "uri": "https://api.scryfall.com/cards/a0b4b9cc-b0a4-4383-881b-e843e5d8a8c1"
+    },
+    {
+      "object": "related_card",
+      "id": "40255bfa-0004-45f1-a31b-17d385f09a95",
+      "component": "combo_piece",
+      "name": "Poison Counter",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/40255bfa-0004-45f1-a31b-17d385f09a95"
+    },
+    {
+      "object": "related_card",
+      "id": "144bb08b-a289-4bd2-9da6-e42173543918",
+      "component": "combo_piece",
+      "name": "White Sun's Twilight",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/144bb08b-a289-4bd2-9da6-e42173543918"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a43681f0-e7f5-415b-bf1f-f9e52ad8213c",
+  "set": "pone",
+  "set_name": "Phyrexia: All Will Be One Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/a43681f0-e7f5-415b-bf1f-f9e52ad8213c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pone?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/144bb08b-a289-4bd2-9da6-e42173543918/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa38828be-781e-4340-9c6f-f40b1d34773f&unique=prints",
+  "collector_number": "38s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Julian Kok Joon Wen",
+  "artist_ids": [
+    "7f1868e3-325f-4df9-8f27-a381fed4f0fc"
+  ],
+  "illustration_id": "88a6b201-2e2d-43a2-8cb7-2ec419db9ae9",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 1553,
+  "penny_rank": 3240,
+  "prices": {
+    "usd": null,
+    "usd_foil": "2.56",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWhite%2BSun%2527s%2BTwilight",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWhite%2BSun%2527s%2BTwilight",
+    "edhrec": "https://edhrec.com/route/?cc=White+Sun%27s+Twilight"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F481537%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=White+Sun%27s+Twilight&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=White+Sun%27s+Twilight&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

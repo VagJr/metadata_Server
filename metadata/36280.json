@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "55ce97bd-3526-444c-ba28-373fb4a4b831",
+  "oracle_id": "4b473a42-a0c5-43d5-93f9-c599e963a06b",
+  "multiverse_ids": [],
+  "tcgplayer_id": 561030,
+  "name": "Season of Weaving",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/55ce97bd-3526-444c-ba28-373fb4a4b831",
+  "scryfall_uri": "https://scryfall.com/card/pblb/68s/season-of-weaving?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/5/55ce97bd-3526-444c-ba28-373fb4a4b831.jpg?1723082219",
+    "normal": "https://cards.scryfall.io/normal/front/5/5/55ce97bd-3526-444c-ba28-373fb4a4b831.jpg?1723082219",
+    "large": "https://cards.scryfall.io/large/front/5/5/55ce97bd-3526-444c-ba28-373fb4a4b831.jpg?1723082219",
+    "png": "https://cards.scryfall.io/png/front/5/5/55ce97bd-3526-444c-ba28-373fb4a4b831.png?1723082219",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/5/55ce97bd-3526-444c-ba28-373fb4a4b831.jpg?1723082219",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/5/55ce97bd-3526-444c-ba28-373fb4a4b831.jpg?1723082219"
+  },
+  "mana_cost": "{4}{U}{U}",
+  "cmc": 6,
+  "type_line": "Sorcery",
+  "oracle_text": "Choose up to five {P} worth of modes. You may choose the same mode more than once.\n{P} — Draw a card.\n{P}{P} — Choose an artifact or creature you control. Create a token that's a copy of it.\n{P}{P}{P} — Return each nonland, nontoken permanent to its owner's hand.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "55ce97bd-3526-444c-ba28-373fb4a4b831",
+      "component": "combo_piece",
+      "name": "Season of Weaving",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/55ce97bd-3526-444c-ba28-373fb4a4b831"
+    },
+    {
+      "object": "related_card",
+      "id": "09d6521e-438a-4d16-992f-f2ab27b26ce4",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/09d6521e-438a-4d16-992f-f2ab27b26ce4"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "3e2b178a-4f7b-4bb3-9af3-3c1ffcdfaa3e",
+  "set": "pblb",
+  "set_name": "Bloomburrow Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/3e2b178a-4f7b-4bb3-9af3-3c1ffcdfaa3e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apblb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pblb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/55ce97bd-3526-444c-ba28-373fb4a4b831/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4b473a42-a0c5-43d5-93f9-c599e963a06b&unique=prints",
+  "collector_number": "68s",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wylie Beckert",
+  "artist_ids": [
+    "074daf3d-0849-4c4a-b5a5-c276384e81e5"
+  ],
+  "illustration_id": "d48afe3b-1419-49d6-8982-292d10a5a1b5",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 2908,
+  "prices": {
+    "usd": null,
+    "usd_foil": "4.80",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSeason%2Bof%2BWeaving",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSeason%2Bof%2BWeaving",
+    "edhrec": "https://edhrec.com/route/?cc=Season+of+Weaving"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F561030%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Season+of+Weaving&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Season+of+Weaving&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

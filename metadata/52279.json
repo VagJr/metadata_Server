@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "7bbcf127-8612-4569-a618-34507300d2ce",
+  "oracle_id": "9b2cdbed-c733-409b-b0e4-2c8960c25111",
+  "multiverse_ids": [],
+  "tcgplayer_id": 231877,
+  "cardmarket_id": 536342,
+  "name": "Maskwood Nexus",
+  "lang": "en",
+  "released_at": "2021-02-05",
+  "uri": "https://api.scryfall.com/cards/7bbcf127-8612-4569-a618-34507300d2ce",
+  "scryfall_uri": "https://scryfall.com/card/pkhm/240p/maskwood-nexus?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/b/7bbcf127-8612-4569-a618-34507300d2ce.jpg?1628380438",
+    "normal": "https://cards.scryfall.io/normal/front/7/b/7bbcf127-8612-4569-a618-34507300d2ce.jpg?1628380438",
+    "large": "https://cards.scryfall.io/large/front/7/b/7bbcf127-8612-4569-a618-34507300d2ce.jpg?1628380438",
+    "png": "https://cards.scryfall.io/png/front/7/b/7bbcf127-8612-4569-a618-34507300d2ce.png?1628380438",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/b/7bbcf127-8612-4569-a618-34507300d2ce.jpg?1628380438",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/b/7bbcf127-8612-4569-a618-34507300d2ce.jpg?1628380438"
+  },
+  "mana_cost": "{4}",
+  "cmc": 4,
+  "type_line": "Artifact",
+  "oracle_text": "Creatures you control are every creature type. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.\n{3}, {T}: Create a 2/2 blue Shapeshifter creature token with changeling. (It is every creature type.)",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "ef775ad0-b1a9-4254-ab6f-304558bb77a1",
+      "component": "token",
+      "name": "Shapeshifter",
+      "type_line": "Token Creature — Shapeshifter",
+      "uri": "https://api.scryfall.com/cards/ef775ad0-b1a9-4254-ab6f-304558bb77a1"
+    },
+    {
+      "object": "related_card",
+      "id": "b9900049-65e4-47e0-a90a-38678cc940a5",
+      "component": "combo_piece",
+      "name": "Maskwood Nexus",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/b9900049-65e4-47e0-a90a-38678cc940a5"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d7b6bf0-0ded-49a0-8c0e-b1ae2bfba77c",
+  "set": "pkhm",
+  "set_name": "Kaldheim Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/4d7b6bf0-0ded-49a0-8c0e-b1ae2bfba77c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apkhm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pkhm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7bbcf127-8612-4569-a618-34507300d2ce/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9b2cdbed-c733-409b-b0e4-2c8960c25111&unique=prints",
+  "collector_number": "240p",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason A. Engle",
+  "artist_ids": [
+    "02e2b5de-4341-464c-8fdb-a1adbf873bc0"
+  ],
+  "illustration_id": "beb74ef0-5b6d-429b-ac95-b50ad44910f8",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 467,
+  "penny_rank": 11763,
+  "prices": {
+    "usd": "2.61",
+    "usd_foil": "4.31",
+    "usd_etched": null,
+    "eur": "1.79",
+    "eur_foil": "1.47",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMaskwood%2BNexus",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMaskwood%2BNexus",
+    "edhrec": "https://edhrec.com/route/?cc=Maskwood+Nexus"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F231877%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=536342&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Maskwood+Nexus&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

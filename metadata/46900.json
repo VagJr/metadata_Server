@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "6eda8787-8f57-4894-a911-a91f92812062",
+  "oracle_id": "0abc993b-18c7-4bb8-aa58-0d06a41cb48f",
+  "multiverse_ids": [
+    688213
+  ],
+  "mtgo_id": 135044,
+  "tcgplayer_id": 609956,
+  "name": "Gisa's Bidding",
+  "lang": "en",
+  "released_at": "2025-01-24",
+  "uri": "https://api.scryfall.com/cards/6eda8787-8f57-4894-a911-a91f92812062",
+  "scryfall_uri": "https://scryfall.com/card/inr/379/gisas-bidding?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/e/6eda8787-8f57-4894-a911-a91f92812062.jpg?1736551354",
+    "normal": "https://cards.scryfall.io/normal/front/6/e/6eda8787-8f57-4894-a911-a91f92812062.jpg?1736551354",
+    "large": "https://cards.scryfall.io/large/front/6/e/6eda8787-8f57-4894-a911-a91f92812062.jpg?1736551354",
+    "png": "https://cards.scryfall.io/png/front/6/e/6eda8787-8f57-4894-a911-a91f92812062.png?1736551354",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/e/6eda8787-8f57-4894-a911-a91f92812062.jpg?1736551354",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/e/6eda8787-8f57-4894-a911-a91f92812062.jpg?1736551354"
+  },
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4,
+  "type_line": "Sorcery",
+  "oracle_text": "Create two 2/2 black Zombie creature tokens.\nMadness {2}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Madness"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6eda8787-8f57-4894-a911-a91f92812062",
+      "component": "combo_piece",
+      "name": "Gisa's Bidding",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/6eda8787-8f57-4894-a911-a91f92812062"
+    },
+    {
+      "object": "related_card",
+      "id": "e6474e0d-a3ca-439f-b9b8-82022c59ff14",
+      "component": "token",
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "uri": "https://api.scryfall.com/cards/e6474e0d-a3ca-439f-b9b8-82022c59ff14"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "b9618c8c-9f31-4b42-9798-2991893c27bf",
+  "set": "inr",
+  "set_name": "Innistrad Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/b9618c8c-9f31-4b42-9798-2991893c27bf",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ainr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/inr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6eda8787-8f57-4894-a911-a91f92812062/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0abc993b-18c7-4bb8-aa58-0d06a41cb48f&unique=prints",
+  "collector_number": "379",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Soft dirt makes for light work.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason Felix",
+  "artist_ids": [
+    "af42a44c-8ec3-47a7-9047-5d29ddad186d"
+  ],
+  "illustration_id": "461362b4-35b9-4b44-bed2-debc67239dc1",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 12822,
+  "penny_rank": 9346,
+  "prices": {
+    "usd": "0.07",
+    "usd_foil": "0.20",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=688213&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGisa%2527s%2BBidding",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGisa%2527s%2BBidding",
+    "edhrec": "https://edhrec.com/route/?cc=Gisa%27s+Bidding"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F609956%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gisa%27s+Bidding&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/135044?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

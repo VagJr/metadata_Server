@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "2078d569-47c1-43c8-b34f-ef84951b7566",
+  "oracle_id": "d9b066ff-9519-415c-ae17-bfea703c9889",
+  "multiverse_ids": [
+    646353
+  ],
+  "mtgo_id": 120459,
+  "tcgplayer_id": 531000,
+  "name": "Hellkite Tyrant",
+  "lang": "en",
+  "released_at": "2024-01-12",
+  "uri": "https://api.scryfall.com/cards/2078d569-47c1-43c8-b34f-ef84951b7566",
+  "scryfall_uri": "https://scryfall.com/card/rvr/428/hellkite-tyrant?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/0/2078d569-47c1-43c8-b34f-ef84951b7566.jpg?1702429871",
+    "normal": "https://cards.scryfall.io/normal/front/2/0/2078d569-47c1-43c8-b34f-ef84951b7566.jpg?1702429871",
+    "large": "https://cards.scryfall.io/large/front/2/0/2078d569-47c1-43c8-b34f-ef84951b7566.jpg?1702429871",
+    "png": "https://cards.scryfall.io/png/front/2/0/2078d569-47c1-43c8-b34f-ef84951b7566.png?1702429871",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/0/2078d569-47c1-43c8-b34f-ef84951b7566.jpg?1702429871",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/0/2078d569-47c1-43c8-b34f-ef84951b7566.jpg?1702429871"
+  },
+  "mana_cost": "{4}{R}{R}",
+  "cmc": 6,
+  "type_line": "Creature — Dragon",
+  "oracle_text": "Flying, trample\nWhenever this creature deals combat damage to a player, gain control of all artifacts that player controls.\nAt the beginning of your upkeep, if you control twenty or more artifacts, you win the game.",
+  "power": "6",
+  "toughness": "5",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flying",
+    "Trample"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+  "set": "rvr",
+  "set_name": "Ravnica Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arvr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/rvr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2078d569-47c1-43c8-b34f-ef84951b7566/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad9b066ff-9519-415c-ae17-bfea703c9889&unique=prints",
+  "collector_number": "428",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ishikawa Kenta",
+  "artist_ids": [
+    "7af32cf9-75ca-439e-91c3-619dfeea2dfd"
+  ],
+  "illustration_id": "32a34385-e281-4d1e-a259-49acad6ee991",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 833,
+  "prices": {
+    "usd": "8.75",
+    "usd_foil": "31.10",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.20"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646353&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHellkite%2BTyrant",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHellkite%2BTyrant",
+    "edhrec": "https://edhrec.com/route/?cc=Hellkite+Tyrant"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F531000%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hellkite+Tyrant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/120459?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

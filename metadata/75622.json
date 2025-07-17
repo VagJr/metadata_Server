@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "b27a03a8-df78-43fb-a811-478be5983e91",
+  "oracle_id": "cee836f1-87a4-43db-a6ea-55575a4ce781",
+  "multiverse_ids": [
+    538506
+  ],
+  "mtgo_id": 94156,
+  "arena_id": 78730,
+  "tcgplayer_id": 248103,
+  "cardmarket_id": 574930,
+  "name": "Slogurk, the Overslime",
+  "lang": "en",
+  "released_at": "2021-09-24",
+  "uri": "https://api.scryfall.com/cards/b27a03a8-df78-43fb-a811-478be5983e91",
+  "scryfall_uri": "https://scryfall.com/card/mid/324/slogurk-the-overslime?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/2/b27a03a8-df78-43fb-a811-478be5983e91.jpg?1682716959",
+    "normal": "https://cards.scryfall.io/normal/front/b/2/b27a03a8-df78-43fb-a811-478be5983e91.jpg?1682716959",
+    "large": "https://cards.scryfall.io/large/front/b/2/b27a03a8-df78-43fb-a811-478be5983e91.jpg?1682716959",
+    "png": "https://cards.scryfall.io/png/front/b/2/b27a03a8-df78-43fb-a811-478be5983e91.png?1682716959",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/2/b27a03a8-df78-43fb-a811-478be5983e91.jpg?1682716959",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/2/b27a03a8-df78-43fb-a811-478be5983e91.jpg?1682716959"
+  },
+  "mana_cost": "{1}{G}{U}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Ooze",
+  "oracle_text": "Trample\nWhenever a land card is put into your graveyard from anywhere, put a +1/+1 counter on Slogurk.\nRemove three +1/+1 counters from Slogurk: Return it to its owner's hand.\nWhen Slogurk leaves the battlefield, return up to three target land cards from your graveyard to your hand.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [
+    "Trample"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "44b8eb8f-fa23-401a-98b5-1fbb9871128e",
+  "set": "mid",
+  "set_name": "Innistrad: Midnight Hunt",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/44b8eb8f-fa23-401a-98b5-1fbb9871128e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amid&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mid?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b27a03a8-df78-43fb-a811-478be5983e91/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acee836f1-87a4-43db-a6ea-55575a4ce781&unique=prints",
+  "collector_number": "324",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Robbie Trevino",
+  "artist_ids": [
+    "34f236c4-d646-4e48-9723-9df5f507754d"
+  ],
+  "illustration_id": "6a1c292d-e1f2-4990-8f44-bd70a9a074c5",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 8783,
+  "penny_rank": 4249,
+  "preview": {
+    "source": "Noxious",
+    "source_uri": "https://twitter.com/coL_noxious/status/1435507424547516419",
+    "previewed_at": "2021-09-08"
+  },
+  "prices": {
+    "usd": "0.21",
+    "usd_foil": "2.43",
+    "usd_etched": null,
+    "eur": "0.39",
+    "eur_foil": "0.57",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=538506&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSlogurk%252C%2Bthe%2BOverslime",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSlogurk%252C%2Bthe%2BOverslime",
+    "edhrec": "https://edhrec.com/route/?cc=Slogurk%2C+the+Overslime"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F248103%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=574930&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/94156?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

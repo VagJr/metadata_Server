@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "3cba6180-a15e-4f7f-8843-e48e69e758a0",
+  "oracle_id": "6257c2fd-005f-41e3-8a72-af76df1eb134",
+  "multiverse_ids": [
+    571617
+  ],
+  "mtgo_id": 102052,
+  "tcgplayer_id": 276656,
+  "cardmarket_id": 664903,
+  "name": "Terminate",
+  "lang": "en",
+  "released_at": "2022-07-08",
+  "uri": "https://api.scryfall.com/cards/3cba6180-a15e-4f7f-8843-e48e69e758a0",
+  "scryfall_uri": "https://scryfall.com/card/2x2/284/terminate?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/c/3cba6180-a15e-4f7f-8843-e48e69e758a0.jpg?1673149196",
+    "normal": "https://cards.scryfall.io/normal/front/3/c/3cba6180-a15e-4f7f-8843-e48e69e758a0.jpg?1673149196",
+    "large": "https://cards.scryfall.io/large/front/3/c/3cba6180-a15e-4f7f-8843-e48e69e758a0.jpg?1673149196",
+    "png": "https://cards.scryfall.io/png/front/3/c/3cba6180-a15e-4f7f-8843-e48e69e758a0.png?1673149196",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/c/3cba6180-a15e-4f7f-8843-e48e69e758a0.jpg?1673149196",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/c/3cba6180-a15e-4f7f-8843-e48e69e758a0.jpg?1673149196"
+  },
+  "mana_cost": "{B}{R}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Destroy target creature. It can't be regenerated.",
+  "colors": [
+    "B",
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5a645837-b050-449f-ac90-1e7ccbf45031",
+  "set": "2x2",
+  "set_name": "Double Masters 2022",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/5a645837-b050-449f-ac90-1e7ccbf45031",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A2x2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/2x2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3cba6180-a15e-4f7f-8843-e48e69e758a0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6257c2fd-005f-41e3-8a72-af76df1eb134&unique=prints",
+  "collector_number": "284",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "All suns must set.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lucas Graciano",
+  "artist_ids": [
+    "ce98f39c-7cdd-47e6-a520-6c50443bb4c2"
+  ],
+  "illustration_id": "6c1fbb7a-1f06-4ba0-8e79-dc2024197d0d",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 232,
+  "penny_rank": 236,
+  "preview": {
+    "source": "PlayEDH",
+    "source_uri": "https://twitter.com/PlayEDHdiscord/status/1539254959245602821",
+    "previewed_at": "2022-06-21"
+  },
+  "prices": {
+    "usd": "0.43",
+    "usd_foil": "0.39",
+    "usd_etched": null,
+    "eur": "0.35",
+    "eur_foil": "0.67",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=571617&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTerminate",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTerminate",
+    "edhrec": "https://edhrec.com/route/?cc=Terminate"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F276656%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=664903&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/102052?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "object": "card",
+  "id": "362fb82b-d1ea-471f-be0a-cc2c0c600fd1",
+  "oracle_id": "bd386399-69f0-4653-96a1-fd05b8fd148c",
+  "multiverse_ids": [],
+  "name": "Spider",
+  "lang": "en",
+  "released_at": "2025-01-24",
+  "uri": "https://api.scryfall.com/cards/362fb82b-d1ea-471f-be0a-cc2c0c600fd1",
+  "scryfall_uri": "https://scryfall.com/card/tinr/16/spider?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/6/362fb82b-d1ea-471f-be0a-cc2c0c600fd1.jpg?1736467692",
+    "normal": "https://cards.scryfall.io/normal/front/3/6/362fb82b-d1ea-471f-be0a-cc2c0c600fd1.jpg?1736467692",
+    "large": "https://cards.scryfall.io/large/front/3/6/362fb82b-d1ea-471f-be0a-cc2c0c600fd1.jpg?1736467692",
+    "png": "https://cards.scryfall.io/png/front/3/6/362fb82b-d1ea-471f-be0a-cc2c0c600fd1.png?1736467692",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/6/362fb82b-d1ea-471f-be0a-cc2c0c600fd1.jpg?1736467692",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/6/362fb82b-d1ea-471f-be0a-cc2c0c600fd1.jpg?1736467692"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Spider",
+  "oracle_text": "Reach",
+  "power": "1",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Reach"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "ce62fa4e-f76d-4ff2-aa6d-bcae4f725696",
+      "component": "combo_piece",
+      "name": "Rotwidow Pack",
+      "type_line": "Creature — Spider",
+      "uri": "https://api.scryfall.com/cards/ce62fa4e-f76d-4ff2-aa6d-bcae4f725696"
+    },
+    {
+      "object": "related_card",
+      "id": "59b989b4-692c-4ccb-a290-0ff00abacba9",
+      "component": "combo_piece",
+      "name": "Gloomwidow's Feast",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/59b989b4-692c-4ccb-a290-0ff00abacba9"
+    },
+    {
+      "object": "related_card",
+      "id": "95a87b4e-f0ea-457c-9517-4acf313c4ca6",
+      "component": "combo_piece",
+      "name": "Arasta of the Endless Web",
+      "type_line": "Legendary Enchantment Creature — Spider",
+      "uri": "https://api.scryfall.com/cards/95a87b4e-f0ea-457c-9517-4acf313c4ca6"
+    },
+    {
+      "object": "related_card",
+      "id": "2a61bad1-f212-4d9b-8422-8ec548b8155c",
+      "component": "combo_piece",
+      "name": "Ishkanah, Grafwidow",
+      "type_line": "Legendary Creature — Spider",
+      "uri": "https://api.scryfall.com/cards/2a61bad1-f212-4d9b-8422-8ec548b8155c"
+    },
+    {
+      "object": "related_card",
+      "id": "68e9ba91-9bab-4b2f-a82d-05b333b8deed",
+      "component": "combo_piece",
+      "name": "Twin-Silk Spider",
+      "type_line": "Creature — Spider",
+      "uri": "https://api.scryfall.com/cards/68e9ba91-9bab-4b2f-a82d-05b333b8deed"
+    },
+    {
+      "object": "related_card",
+      "id": "f5f18431-64c0-4ae5-bdc1-1e953313f086",
+      "component": "combo_piece",
+      "name": "Arachnogenesis",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/f5f18431-64c0-4ae5-bdc1-1e953313f086"
+    },
+    {
+      "object": "related_card",
+      "id": "362fb82b-d1ea-471f-be0a-cc2c0c600fd1",
+      "component": "token",
+      "name": "Spider",
+      "type_line": "Token Creature — Spider",
+      "uri": "https://api.scryfall.com/cards/362fb82b-d1ea-471f-be0a-cc2c0c600fd1"
+    },
+    {
+      "object": "related_card",
+      "id": "ff363cfe-cc69-44fb-ba61-fcb4a8bceb66",
+      "component": "combo_piece",
+      "name": "Curse of Clinging Webs",
+      "type_line": "Enchantment — Aura Curse",
+      "uri": "https://api.scryfall.com/cards/ff363cfe-cc69-44fb-ba61-fcb4a8bceb66"
+    },
+    {
+      "object": "related_card",
+      "id": "5ac28be3-d8a6-40ba-b84c-a3aa220446d8",
+      "component": "combo_piece",
+      "name": "Spider Spawning",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/5ac28be3-d8a6-40ba-b84c-a3aa220446d8"
+    },
+    {
+      "object": "related_card",
+      "id": "2ec08f5a-0dcc-426b-94d9-cf8877071d6a",
+      "component": "combo_piece",
+      "name": "Brood Weaver",
+      "type_line": "Creature — Spider",
+      "uri": "https://api.scryfall.com/cards/2ec08f5a-0dcc-426b-94d9-cf8877071d6a"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "de27268e-c9c5-4d97-9bfd-28ad8cb7b1a0",
+  "set": "tinr",
+  "set_name": "Innistrad Remastered Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/de27268e-c9c5-4d97-9bfd-28ad8cb7b1a0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atinr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tinr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/362fb82b-d1ea-471f-be0a-cc2c0c600fd1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abd386399-69f0-4653-96a1-fd05b8fd148c&unique=prints",
+  "collector_number": "16",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Slawomir Maniak",
+  "artist_ids": [
+    "d887bc66-2779-416c-a1ff-d8720242063e"
+  ],
+  "illustration_id": "2dabea78-8f20-4076-ab75-32393ca41301",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSpider",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSpider",
+    "edhrec": "https://edhrec.com/route/?cc=Spider"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSpider%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Spider&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Spider&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

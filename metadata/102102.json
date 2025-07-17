@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "f15b8e8e-1a71-4445-ba82-e3d2cc7afdfc",
+  "oracle_id": "acfe7ec0-0606-4d5e-b1fa-25f0c7aeec47",
+  "multiverse_ids": [],
+  "tcgplayer_id": 600036,
+  "name": "Sanctum Weaver",
+  "lang": "en",
+  "released_at": "2024-12-02",
+  "uri": "https://api.scryfall.com/cards/f15b8e8e-1a71-4445-ba82-e3d2cc7afdfc",
+  "scryfall_uri": "https://scryfall.com/card/plst/MH2-171/sanctum-weaver?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/1/f15b8e8e-1a71-4445-ba82-e3d2cc7afdfc.jpg?1733170081",
+    "normal": "https://cards.scryfall.io/normal/front/f/1/f15b8e8e-1a71-4445-ba82-e3d2cc7afdfc.jpg?1733170081",
+    "large": "https://cards.scryfall.io/large/front/f/1/f15b8e8e-1a71-4445-ba82-e3d2cc7afdfc.jpg?1733170081",
+    "png": "https://cards.scryfall.io/png/front/f/1/f15b8e8e-1a71-4445-ba82-e3d2cc7afdfc.png?1733170081",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/1/f15b8e8e-1a71-4445-ba82-e3d2cc7afdfc.jpg?1733170081",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/1/f15b8e8e-1a71-4445-ba82-e3d2cc7afdfc.jpg?1733170081"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2,
+  "type_line": "Enchantment Creature — Dryad",
+  "oracle_text": "{T}: Add X mana of any one color, where X is the number of enchantments you control.",
+  "power": "0",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f15b8e8e-1a71-4445-ba82-e3d2cc7afdfc/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aacfe7ec0-0606-4d5e-b1fa-25f0c7aeec47&unique=prints",
+  "collector_number": "MH2-171",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "The arrival of spring's first flowers is a sacred occasion to Karametra's acolytes, who fill the Setessan woods with song in celebration.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kimonas Theodossiou",
+  "artist_ids": [
+    "fa058291-5283-4b33-a65e-d4911cb319bb"
+  ],
+  "illustration_id": "5c005254-e647-4041-9d56-7116e26819ff",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "enchantment"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 528,
+  "penny_rank": 650,
+  "prices": {
+    "usd": "5.18",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSanctum%2BWeaver",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSanctum%2BWeaver",
+    "edhrec": "https://edhrec.com/route/?cc=Sanctum+Weaver"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F600036%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sanctum+Weaver&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sanctum+Weaver&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

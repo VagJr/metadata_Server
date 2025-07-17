@@ -1,0 +1,153 @@
+{
+  "object": "card",
+  "id": "0208a5a9-3a6f-44c5-9e46-24bdf924753c",
+  "oracle_id": "2acb15bd-6c89-4ff3-ab32-beac67e9c88a",
+  "multiverse_ids": [],
+  "mtgo_id": 141929,
+  "tcgplayer_id": 633070,
+  "cardmarket_id": 826200,
+  "name": "Quina, Qu Gourmet",
+  "lang": "en",
+  "released_at": "2025-06-13",
+  "uri": "https://api.scryfall.com/cards/0208a5a9-3a6f-44c5-9e46-24bdf924753c",
+  "scryfall_uri": "https://scryfall.com/card/fin/471/quina-qu-gourmet?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/2/0208a5a9-3a6f-44c5-9e46-24bdf924753c.jpg?1748707528",
+    "normal": "https://cards.scryfall.io/normal/front/0/2/0208a5a9-3a6f-44c5-9e46-24bdf924753c.jpg?1748707528",
+    "large": "https://cards.scryfall.io/large/front/0/2/0208a5a9-3a6f-44c5-9e46-24bdf924753c.jpg?1748707528",
+    "png": "https://cards.scryfall.io/png/front/0/2/0208a5a9-3a6f-44c5-9e46-24bdf924753c.png?1748707528",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/2/0208a5a9-3a6f-44c5-9e46-24bdf924753c.jpg?1748707528",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/2/0208a5a9-3a6f-44c5-9e46-24bdf924753c.jpg?1748707528"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Qu",
+  "oracle_text": "If one or more tokens would be created under your control, those tokens plus a 1/1 green Frog creature token are created instead.\n{2}, Sacrifice a Frog: Put a +1/+1 counter on Quina.",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "0208a5a9-3a6f-44c5-9e46-24bdf924753c",
+      "component": "combo_piece",
+      "name": "Quina, Qu Gourmet",
+      "type_line": "Legendary Creature — Qu",
+      "uri": "https://api.scryfall.com/cards/0208a5a9-3a6f-44c5-9e46-24bdf924753c"
+    },
+    {
+      "object": "related_card",
+      "id": "e3c84944-23b8-40d7-9b25-c746b08b4dc4",
+      "component": "token",
+      "name": "Frog",
+      "type_line": "Token Creature — Frog",
+      "uri": "https://api.scryfall.com/cards/e3c84944-23b8-40d7-9b25-c746b08b4dc4"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7beb4b7-e1ff-4d35-ab07-5700f17ea1ea",
+  "set": "fin",
+  "set_name": "Final Fantasy",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/d7beb4b7-e1ff-4d35-ab07-5700f17ea1ea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afin&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fin?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0208a5a9-3a6f-44c5-9e46-24bdf924753c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2acb15bd-6c89-4ff3-ab32-beac67e9c88a&unique=prints",
+  "collector_number": "471",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"World only have two things: Things you can eat and things you no can eat.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Fajareka Setiawan",
+  "artist_ids": [
+    "0cc534e0-be18-4cb1-8521-50fabd0dac6f"
+  ],
+  "illustration_id": "192fd558-5b64-4687-b54c-0c5669eba646",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "extendedart"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "ffix",
+    "boosterfun"
+  ],
+  "edhrec_rank": 13611,
+  "preview": {
+    "source": "Square Enix",
+    "source_uri": "https://na.finalfantasy.com/topics/591",
+    "previewed_at": "2025-05-18"
+  },
+  "prices": {
+    "usd": "1.20",
+    "usd_foil": "13.68",
+    "usd_etched": null,
+    "eur": "1.64",
+    "eur_foil": "11.59",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DQuina%252C%2BQu%2BGourmet",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DQuina%252C%2BQu%2BGourmet",
+    "edhrec": "https://edhrec.com/route/?cc=Quina%2C+Qu+Gourmet"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F633070%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=826200&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/141929?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

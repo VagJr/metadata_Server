@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "adb19c94-1c1b-4b42-b41c-c9fe31accbe0",
+  "oracle_id": "4df179b4-7c6b-4e63-9d7d-62f4df377989",
+  "multiverse_ids": [
+    642341
+  ],
+  "mtgo_id": 118536,
+  "tcgplayer_id": 524272,
+  "name": "Admiral Brass, Unsinkable",
+  "lang": "en",
+  "released_at": "2023-11-17",
+  "uri": "https://api.scryfall.com/cards/adb19c94-1c1b-4b42-b41c-c9fe31accbe0",
+  "scryfall_uri": "https://scryfall.com/card/lcc/25/admiral-brass-unsinkable?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/d/adb19c94-1c1b-4b42-b41c-c9fe31accbe0.jpg?1698987816",
+    "normal": "https://cards.scryfall.io/normal/front/a/d/adb19c94-1c1b-4b42-b41c-c9fe31accbe0.jpg?1698987816",
+    "large": "https://cards.scryfall.io/large/front/a/d/adb19c94-1c1b-4b42-b41c-c9fe31accbe0.jpg?1698987816",
+    "png": "https://cards.scryfall.io/png/front/a/d/adb19c94-1c1b-4b42-b41c-c9fe31accbe0.png?1698987816",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/d/adb19c94-1c1b-4b42-b41c-c9fe31accbe0.jpg?1698987816",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/d/adb19c94-1c1b-4b42-b41c-c9fe31accbe0.jpg?1698987816"
+  },
+  "mana_cost": "{2}{U}{B}{R}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Human Pirate",
+  "oracle_text": "When Admiral Brass enters, mill four cards.\nAt the beginning of combat on your turn, you may return target Pirate creature card from your graveyard to the battlefield with a finality counter on it. It has base power and toughness 4/4. It gains haste until end of turn. (If a creature with a finality counter on it would die, exile it instead.)",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "B",
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "R",
+    "U"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d253edc3-5bc7-4cf1-9446-a8540dedffa5",
+  "set": "lcc",
+  "set_name": "The Lost Caverns of Ixalan Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d253edc3-5bc7-4cf1-9446-a8540dedffa5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alcc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/lcc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/adb19c94-1c1b-4b42-b41c-c9fe31accbe0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4df179b4-7c6b-4e63-9d7d-62f4df377989&unique=prints",
+  "collector_number": "25",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason Rainville",
+  "artist_ids": [
+    "6ed7e669-579b-443d-b223-e5cbcb2a7483"
+  ],
+  "illustration_id": "41bbd94c-d19b-4473-9b4b-812ad13b6710",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 6515,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.youtube.com/watch?v=Szm0yzSUUm0",
+    "previewed_at": "2023-10-24"
+  },
+  "prices": {
+    "usd": "0.20",
+    "usd_foil": "0.55",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642341&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAdmiral%2BBrass%252C%2BUnsinkable",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAdmiral%2BBrass%252C%2BUnsinkable",
+    "edhrec": "https://edhrec.com/route/?cc=Admiral+Brass%2C+Unsinkable"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F524272%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Admiral+Brass%2C+Unsinkable&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/118536?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

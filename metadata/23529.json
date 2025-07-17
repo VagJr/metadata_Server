@@ -1,0 +1,118 @@
+{
+  "object": "card",
+  "id": "375e1986-678a-4a51-b2a7-61b1f936fe39",
+  "oracle_id": "2549bc57-9ffb-4053-9f10-f2a5f792b845",
+  "multiverse_ids": [],
+  "tcgplayer_id": 519346,
+  "name": "Myriad Landscape",
+  "lang": "en",
+  "released_at": "2023-10-13",
+  "uri": "https://api.scryfall.com/cards/375e1986-678a-4a51-b2a7-61b1f936fe39",
+  "scryfall_uri": "https://scryfall.com/card/who/881/myriad-landscape?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/7/375e1986-678a-4a51-b2a7-61b1f936fe39.jpg?1696638376",
+    "normal": "https://cards.scryfall.io/normal/front/3/7/375e1986-678a-4a51-b2a7-61b1f936fe39.jpg?1696638376",
+    "large": "https://cards.scryfall.io/large/front/3/7/375e1986-678a-4a51-b2a7-61b1f936fe39.jpg?1696638376",
+    "png": "https://cards.scryfall.io/png/front/3/7/375e1986-678a-4a51-b2a7-61b1f936fe39.png?1696638376",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/7/375e1986-678a-4a51-b2a7-61b1f936fe39.jpg?1696638376",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/7/375e1986-678a-4a51-b2a7-61b1f936fe39.jpg?1696638376"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "This land enters tapped.\n{T}: Add {C}.\n{2}, {T}, Sacrifice this land: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "efdfdd99-cee7-4c11-a5e9-03d60f88bdd6",
+  "set": "who",
+  "set_name": "Doctor Who",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/efdfdd99-cee7-4c11-a5e9-03d60f88bdd6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awho&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/who?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/375e1986-678a-4a51-b2a7-61b1f936fe39/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2549bc57-9ffb-4053-9f10-f2a5f792b845&unique=prints",
+  "collector_number": "881",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Bartek Fedyczak",
+  "artist_ids": [
+    "70b1ba71-4ee1-4087-8a9e-ea919f20ebff"
+  ],
+  "illustration_id": "c0f57595-5a69-4036-96cf-b490084a5235",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "surgefoil",
+    "boosterfun"
+  ],
+  "edhrec_rank": 21,
+  "prices": {
+    "usd": null,
+    "usd_foil": "3.85",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMyriad%2BLandscape",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMyriad%2BLandscape",
+    "edhrec": "https://edhrec.com/route/?cc=Myriad+Landscape"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F519346%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Myriad+Landscape&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Myriad+Landscape&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

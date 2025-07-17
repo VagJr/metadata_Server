@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "2a4dd90b-f4e2-4f22-80cb-56f1c3586abc",
+  "oracle_id": "592d847e-e3f3-425d-89f9-01ab533ad581",
+  "multiverse_ids": [],
+  "tcgplayer_id": 491933,
+  "name": "Aegar, the Freezing Flame",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/2a4dd90b-f4e2-4f22-80cb-56f1c3586abc",
+  "scryfall_uri": "https://scryfall.com/card/mul/161/aegar-the-freezing-flame?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/a/2a4dd90b-f4e2-4f22-80cb-56f1c3586abc.jpg?1682720513",
+    "normal": "https://cards.scryfall.io/normal/front/2/a/2a4dd90b-f4e2-4f22-80cb-56f1c3586abc.jpg?1682720513",
+    "large": "https://cards.scryfall.io/large/front/2/a/2a4dd90b-f4e2-4f22-80cb-56f1c3586abc.jpg?1682720513",
+    "png": "https://cards.scryfall.io/png/front/2/a/2a4dd90b-f4e2-4f22-80cb-56f1c3586abc.png?1682720513",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/a/2a4dd90b-f4e2-4f22-80cb-56f1c3586abc.jpg?1682720513",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/a/2a4dd90b-f4e2-4f22-80cb-56f1c3586abc.jpg?1682720513"
+  },
+  "mana_cost": "{1}{U}{R}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Giant Wizard",
+  "oracle_text": "Whenever a creature or planeswalker an opponent controls is dealt excess damage, if a Giant, Wizard, or spell you controlled dealt damage to it this turn, draw a card.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a3f8daea-b24e-4e5c-a4d9-ec8910e9078a",
+  "set": "mul",
+  "set_name": "Multiverse Legends",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/a3f8daea-b24e-4e5c-a4d9-ec8910e9078a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amul&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mul?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2a4dd90b-f4e2-4f22-80cb-56f1c3586abc/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A592d847e-e3f3-425d-89f9-01ab533ad581&unique=prints",
+  "collector_number": "161",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Though Phyrexian machines could adapt to extremes of heat or cold, they never figured out how to adapt to both at once.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Richard Luong",
+  "artist_ids": [
+    "9e4c54c6-1f28-4ae7-8c85-f9c6787145c2"
+  ],
+  "illustration_id": "d114f3c0-bde2-4959-8a90-1b0b11e0a719",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "showcase",
+    "inverted"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "halofoil"
+  ],
+  "edhrec_rank": 10814,
+  "penny_rank": 8489,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.29",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAegar%252C%2Bthe%2BFreezing%2BFlame",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAegar%252C%2Bthe%2BFreezing%2BFlame",
+    "edhrec": "https://edhrec.com/route/?cc=Aegar%2C+the+Freezing+Flame"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F491933%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Aegar%2C+the+Freezing+Flame&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Aegar%2C+the+Freezing+Flame&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

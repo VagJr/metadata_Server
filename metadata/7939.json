@@ -1,0 +1,113 @@
+{
+  "object": "card",
+  "id": "1238755c-5272-45b5-b685-e4e36411b831",
+  "oracle_id": "acff2573-cf8a-4aee-96a3-28721a4128f6",
+  "multiverse_ids": [],
+  "name": "Mardu Hateblade",
+  "lang": "en",
+  "released_at": "2023-12-12",
+  "uri": "https://api.scryfall.com/cards/1238755c-5272-45b5-b685-e4e36411b831",
+  "scryfall_uri": "https://scryfall.com/card/ktk/16y/mardu-hateblade?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/2/1238755c-5272-45b5-b685-e4e36411b831.jpg?1738828426",
+    "normal": "https://cards.scryfall.io/normal/front/1/2/1238755c-5272-45b5-b685-e4e36411b831.jpg?1738828426",
+    "large": "https://cards.scryfall.io/large/front/1/2/1238755c-5272-45b5-b685-e4e36411b831.jpg?1738828426",
+    "png": "https://cards.scryfall.io/png/front/1/2/1238755c-5272-45b5-b685-e4e36411b831.png?1738828426",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/2/1238755c-5272-45b5-b685-e4e36411b831.jpg?1738828426",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/2/1238755c-5272-45b5-b685-e4e36411b831.jpg?1738828426"
+  },
+  "mana_cost": "{W}",
+  "cmc": 1,
+  "type_line": "Creature — Human Warrior",
+  "oracle_text": "{B}: This creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "6c7a715c-ded9-449e-89b0-c665773e9c3c",
+  "set": "ktk",
+  "set_name": "Khans of Tarkir",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/6c7a715c-ded9-449e-89b0-c665773e9c3c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aktk&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ktk?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1238755c-5272-45b5-b685-e4e36411b831/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aacff2573-cf8a-4aee-96a3-28721a4128f6&unique=prints",
+  "collector_number": "16y",
+  "digital": true,
+  "rarity": "common",
+  "watermark": "mardu",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nathaniel Himawan",
+  "artist_ids": [
+    "ae1e4729-d4ec-4d0f-8c71-883fc7358005"
+  ],
+  "illustration_id": "ff23726a-036e-4b59-b5e3-7b4ec1385512",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 23915,
+  "penny_rank": 13926,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMardu%2BHateblade",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMardu%2BHateblade",
+    "edhrec": "https://edhrec.com/route/?cc=Mardu+Hateblade"
+  }
+}

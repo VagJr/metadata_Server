@@ -1,0 +1,114 @@
+{
+  "object": "card",
+  "id": "1716ed63-ae59-4d53-9cfb-f82fabdf9873",
+  "oracle_id": "bb87917f-33fb-4024-9317-0992c2f8f55e",
+  "multiverse_ids": [],
+  "arena_id": 94380,
+  "name": "Mogis's Warhound",
+  "lang": "en",
+  "released_at": "2024-12-10",
+  "uri": "https://api.scryfall.com/cards/1716ed63-ae59-4d53-9cfb-f82fabdf9873",
+  "scryfall_uri": "https://scryfall.com/card/pio/146/mogiss-warhound?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/7/1716ed63-ae59-4d53-9cfb-f82fabdf9873.jpg?1733179641",
+    "normal": "https://cards.scryfall.io/normal/front/1/7/1716ed63-ae59-4d53-9cfb-f82fabdf9873.jpg?1733179641",
+    "large": "https://cards.scryfall.io/large/front/1/7/1716ed63-ae59-4d53-9cfb-f82fabdf9873.jpg?1733179641",
+    "png": "https://cards.scryfall.io/png/front/1/7/1716ed63-ae59-4d53-9cfb-f82fabdf9873.png?1733179641",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/7/1716ed63-ae59-4d53-9cfb-f82fabdf9873.jpg?1733179641",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/7/1716ed63-ae59-4d53-9cfb-f82fabdf9873.jpg?1733179641"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Enchantment Creature — Dog",
+  "oracle_text": "Bestow {2}{R} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nThis creature attacks each combat if able.\nEnchanted creature gets +2/+2 and attacks each combat if able.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Bestow"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "713c226b-d4d9-46e1-b9c9-a04689d90ff6",
+  "set": "pio",
+  "set_name": "Pioneer Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/713c226b-d4d9-46e1-b9c9-a04689d90ff6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apio&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pio?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1716ed63-ae59-4d53-9cfb-f82fabdf9873/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abb87917f-33fb-4024-9317-0992c2f8f55e&unique=prints",
+  "collector_number": "146",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "John Severin Brassell",
+  "artist_ids": [
+    "a4f50310-4b01-4cd3-8ab8-85b31e6876db"
+  ],
+  "illustration_id": "3236cb02-fa9a-4e90-9457-837f3330c168",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 20347,
+  "penny_rank": 11782,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMogis%2527s%2BWarhound",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMogis%2527s%2BWarhound",
+    "edhrec": "https://edhrec.com/route/?cc=Mogis%27s+Warhound"
+  }
+}

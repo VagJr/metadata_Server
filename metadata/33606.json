@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "4f8cde13-e7c8-4781-acf0-56f522afe425",
+  "oracle_id": "48cce741-cfbd-4ed9-a7ac-38880867a286",
+  "multiverse_ids": [
+    585762
+  ],
+  "tcgplayer_id": 452292,
+  "cardmarket_id": 682681,
+  "name": "Tawnos, the Toymaker",
+  "lang": "en",
+  "released_at": "2022-11-18",
+  "uri": "https://api.scryfall.com/cards/4f8cde13-e7c8-4781-acf0-56f522afe425",
+  "scryfall_uri": "https://scryfall.com/card/bro/359/tawnos-the-toymaker?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/f/4f8cde13-e7c8-4781-acf0-56f522afe425.jpg?1674422961",
+    "normal": "https://cards.scryfall.io/normal/front/4/f/4f8cde13-e7c8-4781-acf0-56f522afe425.jpg?1674422961",
+    "large": "https://cards.scryfall.io/large/front/4/f/4f8cde13-e7c8-4781-acf0-56f522afe425.jpg?1674422961",
+    "png": "https://cards.scryfall.io/png/front/4/f/4f8cde13-e7c8-4781-acf0-56f522afe425.png?1674422961",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/f/4f8cde13-e7c8-4781-acf0-56f522afe425.jpg?1674422961",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/f/4f8cde13-e7c8-4781-acf0-56f522afe425.jpg?1674422961"
+  },
+  "mana_cost": "{3}{G}{U}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Human Artificer",
+  "oracle_text": "Whenever you cast a Beast or Bird creature spell, you may copy it, except the copy is an artifact in addition to its other types. (The copy becomes a token.)",
+  "power": "3",
+  "toughness": "5",
+  "colors": [
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4219a14e-6701-4ddd-a185-21dc054ab19b",
+  "set": "bro",
+  "set_name": "The Brothers' War",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/4219a14e-6701-4ddd-a185-21dc054ab19b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abro&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/bro?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4f8cde13-e7c8-4781-acf0-56f522afe425/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A48cce741-cfbd-4ed9-a7ac-38880867a286&unique=prints",
+  "collector_number": "359",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Livia Prima",
+  "artist_ids": [
+    "0f41e561-bc26-4d85-aab6-66c384e01b74"
+  ],
+  "illustration_id": "618aebac-5841-4389-8239-66d8ea758ea9",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart",
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 8989,
+  "prices": {
+    "usd": "0.57",
+    "usd_foil": "0.62",
+    "usd_etched": null,
+    "eur": "0.41",
+    "eur_foil": "0.65",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=585762&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTawnos%252C%2Bthe%2BToymaker",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTawnos%252C%2Bthe%2BToymaker",
+    "edhrec": "https://edhrec.com/route/?cc=Tawnos%2C+the+Toymaker"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F452292%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=682681&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tawnos%2C+the+Toymaker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

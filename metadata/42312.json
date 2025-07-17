@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "63e25534-2bc3-4813-ae63-63cadfe36df6",
+  "oracle_id": "40362fe0-a1a9-4d76-8c35-eac474b91af5",
+  "multiverse_ids": [],
+  "mtgo_id": 99611,
+  "arena_id": 77585,
+  "tcgplayer_id": 235504,
+  "tcgplayer_etched_id": 235503,
+  "cardmarket_id": 557115,
+  "name": "Mizzix's Mastery",
+  "printed_name": "ミジックスの熟達",
+  "lang": "ja",
+  "released_at": "2021-04-23",
+  "uri": "https://api.scryfall.com/cards/63e25534-2bc3-4813-ae63-63cadfe36df6",
+  "scryfall_uri": "https://scryfall.com/card/sta/106/ja/%E3%83%9F%E3%82%B8%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E7%86%9F%E9%81%94-(mizzixs-mastery)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/3/63e25534-2bc3-4813-ae63-63cadfe36df6.jpg?1638109739",
+    "normal": "https://cards.scryfall.io/normal/front/6/3/63e25534-2bc3-4813-ae63-63cadfe36df6.jpg?1638109739",
+    "large": "https://cards.scryfall.io/large/front/6/3/63e25534-2bc3-4813-ae63-63cadfe36df6.jpg?1638109739",
+    "png": "https://cards.scryfall.io/png/front/6/3/63e25534-2bc3-4813-ae63-63cadfe36df6.png?1638109739",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/3/63e25534-2bc3-4813-ae63-63cadfe36df6.jpg?1638109739",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/3/63e25534-2bc3-4813-ae63-63cadfe36df6.jpg?1638109739"
+  },
+  "mana_cost": "{3}{R}",
+  "cmc": 4,
+  "type_line": "Sorcery",
+  "printed_type_line": "ソーサリー",
+  "oracle_text": "Exile target card that's an instant or sorcery from your graveyard. For each card exiled this way, copy it, and you may cast the copy without paying its mana cost. Exile Mizzix's Mastery.\nOverload {5}{R}{R}{R} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")",
+  "printed_text": "あなたの墓地からインスタントかソーサリーであるカード１枚を対象とする。それを追放する。これにより追放されたカードをコピーする。あなたはそのコピーをマナ・コストを支払うことなく唱えてもよい。ミジックスの熟達を追放する。\n超過{5}{R}{R}{R}（あなたはこの呪文をこれの超過コストで唱えてもよい。そうしたなら、対象は取らず、あなたの墓地からインスタントやソーサリーであるすべてのカードを追放する。これにより追放された各カードをそれぞれコピーする。あなたはそれらのコピーをマナ・コストを支払うことなく唱えてもよい。ミジックスの熟達を追放する。）",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Overload"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil",
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5064a720-907f-4cb6-a425-766dc1dd7374",
+  "set": "sta",
+  "set_name": "Strixhaven Mystical Archive",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/5064a720-907f-4cb6-a425-766dc1dd7374",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asta&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sta?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/63e25534-2bc3-4813-ae63-63cadfe36df6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A40362fe0-a1a9-4d76-8c35-eac474b91af5&unique=prints",
+  "collector_number": "106",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Hiro Suda",
+  "artist_ids": [
+    "a437b87b-0c9e-4e66-b187-ffcc26579628"
+  ],
+  "illustration_id": "40bbe090-63c7-4c87-b070-3c35770f9ab0",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 850,
+  "penny_rank": 1497,
+  "prices": {
+    "usd": "5.00",
+    "usd_foil": "8.96",
+    "usd_etched": "6.49",
+    "eur": "6.67",
+    "eur_foil": "10.22",
+    "tix": "0.27"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMizzix%2527s%2BMastery",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMizzix%2527s%2BMastery",
+    "edhrec": "https://edhrec.com/route/?cc=Mizzix%27s+Mastery"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F235504%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=557115&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/99611?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

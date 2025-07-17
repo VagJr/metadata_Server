@@ -1,0 +1,163 @@
+{
+  "object": "card",
+  "id": "d98aad50-649c-43ad-894c-e9ce065ab245",
+  "oracle_id": "11ad6e75-9bbd-40ea-b04a-e6a61db3bcda",
+  "multiverse_ids": [],
+  "mtgo_id": 78766,
+  "name": "Smitten Swordmaster // Curry Favor",
+  "lang": "en",
+  "released_at": "2019-10-06",
+  "uri": "https://api.scryfall.com/cards/d98aad50-649c-43ad-894c-e9ce065ab245",
+  "scryfall_uri": "https://scryfall.com/card/prm/78766/smitten-swordmaster-curry-favor?utm_source=api",
+  "layout": "adventure",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/9/d98aad50-649c-43ad-894c-e9ce065ab245.jpg?1585974242",
+    "normal": "https://cards.scryfall.io/normal/front/d/9/d98aad50-649c-43ad-894c-e9ce065ab245.jpg?1585974242",
+    "large": "https://cards.scryfall.io/large/front/d/9/d98aad50-649c-43ad-894c-e9ce065ab245.jpg?1585974242",
+    "png": "https://cards.scryfall.io/png/front/d/9/d98aad50-649c-43ad-894c-e9ce065ab245.png?1585974242",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/9/d98aad50-649c-43ad-894c-e9ce065ab245.jpg?1585974242",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/9/d98aad50-649c-43ad-894c-e9ce065ab245.jpg?1585974242"
+  },
+  "mana_cost": "{1}{B} // {B}",
+  "cmc": 2,
+  "type_line": "Creature — Human Knight // Sorcery — Adventure",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Lifelink"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Smitten Swordmaster",
+      "mana_cost": "{1}{B}",
+      "type_line": "Creature — Human Knight",
+      "oracle_text": "Lifelink",
+      "power": "2",
+      "toughness": "1",
+      "flavor_text": "\"My quest? Why, to marry Ayara. Or die trying.\"",
+      "artist": "Shawn Wood",
+      "artist_id": "0228f922-3fc1-4d01-a20e-5c6cb21c765d",
+      "illustration_id": "d4714fe7-a1fb-4cec-b5cb-e80a5b32e7fc"
+    },
+    {
+      "object": "card_face",
+      "name": "Curry Favor",
+      "mana_cost": "{B}",
+      "type_line": "Sorcery — Adventure",
+      "oracle_text": "You gain X life and each opponent loses X life, where X is the number of Knights you control.",
+      "artist": "Shawn Wood",
+      "artist_id": "0228f922-3fc1-4d01-a20e-5c6cb21c765d"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "d98aad50-649c-43ad-894c-e9ce065ab245",
+      "component": "combo_piece",
+      "name": "Smitten Swordmaster // Curry Favor",
+      "type_line": "Creature — Human Knight // Sorcery — Adventure",
+      "uri": "https://api.scryfall.com/cards/d98aad50-649c-43ad-894c-e9ce065ab245"
+    },
+    {
+      "object": "related_card",
+      "id": "fcf4c7fb-7859-4c11-8552-6817f5119d2e",
+      "component": "combo_piece",
+      "name": "On an Adventure",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/fcf4c7fb-7859-4c11-8552-6817f5119d2e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d98aad50-649c-43ad-894c-e9ce065ab245/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A11ad6e75-9bbd-40ea-b04a-e6a61db3bcda&unique=prints",
+  "collector_number": "78766",
+  "digital": true,
+  "rarity": "common",
+  "flavor_text": "\"My quest? Why, to marry Ayara. Or die trying.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Shawn Wood",
+  "artist_ids": [
+    "0228f922-3fc1-4d01-a20e-5c6cb21c765d"
+  ],
+  "illustration_id": "d4714fe7-a1fb-4cec-b5cb-e80a5b32e7fc",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 6366,
+  "penny_rank": 4843,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.21"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSmitten%2BSwordmaster%2B%252F%252F%2BCurry%2BFavor",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSmitten%2BSwordmaster%2B%252F%252F%2BCurry%2BFavor",
+    "edhrec": "https://edhrec.com/route/?cc=Smitten+Swordmaster"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSmitten%2BSwordmaster%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Smitten+Swordmaster&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/78766?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

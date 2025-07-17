@@ -1,0 +1,156 @@
+{
+  "object": "card",
+  "id": "d6a6cfc8-32c0-4f73-a36e-b45f6b71d6d0",
+  "oracle_id": "55bc7f55-f73b-40b5-8912-9bf76c129ccc",
+  "multiverse_ids": [
+    664951
+  ],
+  "mtgo_id": 126745,
+  "tcgplayer_id": 552445,
+  "name": "Azlask, the Swelling Scourge",
+  "lang": "en",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/d6a6cfc8-32c0-4f73-a36e-b45f6b71d6d0",
+  "scryfall_uri": "https://scryfall.com/card/m3c/9/azlask-the-swelling-scourge?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/6/d6a6cfc8-32c0-4f73-a36e-b45f6b71d6d0.jpg?1719466145",
+    "normal": "https://cards.scryfall.io/normal/front/d/6/d6a6cfc8-32c0-4f73-a36e-b45f6b71d6d0.jpg?1719466145",
+    "large": "https://cards.scryfall.io/large/front/d/6/d6a6cfc8-32c0-4f73-a36e-b45f6b71d6d0.jpg?1719466145",
+    "png": "https://cards.scryfall.io/png/front/d/6/d6a6cfc8-32c0-4f73-a36e-b45f6b71d6d0.png?1719466145",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/6/d6a6cfc8-32c0-4f73-a36e-b45f6b71d6d0.jpg?1719466145",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/6/d6a6cfc8-32c0-4f73-a36e-b45f6b71d6d0.jpg?1719466145"
+  },
+  "mana_cost": "{3}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Eldrazi",
+  "oracle_text": "Whenever Azlask or another colorless creature you control dies, you get an experience counter.\n{W}{U}{B}{R}{G}: Creatures you control get +X/+X until end of turn, where X is the number of experience counters you have. Scions and Spawns you control gain indestructible and annihilator 1 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [],
+  "color_identity": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "1374bfa2-9714-486d-90aa-7a9b8d8ef3a8",
+      "component": "combo_piece",
+      "name": "Experience",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/1374bfa2-9714-486d-90aa-7a9b8d8ef3a8"
+    },
+    {
+      "object": "related_card",
+      "id": "cbe191c5-c019-4ee2-b3a4-dad4116d2bbb",
+      "component": "combo_piece",
+      "name": "Azlask, the Swelling Scourge",
+      "type_line": "Legendary Creature — Eldrazi",
+      "uri": "https://api.scryfall.com/cards/cbe191c5-c019-4ee2-b3a4-dad4116d2bbb"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "f5e00721-cf99-43ba-bf16-b22d56d12c73",
+  "set": "m3c",
+  "set_name": "Modern Horizons 3 Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/f5e00721-cf99-43ba-bf16-b22d56d12c73",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am3c&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/m3c?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d6a6cfc8-32c0-4f73-a36e-b45f6b71d6d0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A55bc7f55-f73b-40b5-8912-9bf76c129ccc&unique=prints",
+  "collector_number": "9",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Cosmin Podar",
+  "artist_ids": [
+    "91adf165-e324-461c-baf3-0d22e390a40c"
+  ],
+  "illustration_id": "bafe5aae-4953-4ece-a9c8-98a2a32fec9d",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "portrait"
+  ],
+  "edhrec_rank": 5836,
+  "penny_rank": 9300,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/products/modern-horizons-3/card-image-gallery",
+    "previewed_at": "2024-05-21"
+  },
+  "prices": {
+    "usd": "0.66",
+    "usd_foil": "1.19",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.12"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=664951&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAzlask%252C%2Bthe%2BSwelling%2BScourge",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAzlask%252C%2Bthe%2BSwelling%2BScourge",
+    "edhrec": "https://edhrec.com/route/?cc=Azlask%2C+the+Swelling+Scourge"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F552445%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Azlask%2C+the+Swelling+Scourge&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/126745?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

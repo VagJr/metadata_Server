@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "29e4c9a1-35c3-4063-b1ae-a9934f778fdd",
+  "oracle_id": "b6be94dc-7162-4887-b959-3bda709724eb",
+  "multiverse_ids": [],
+  "tcgplayer_id": 263515,
+  "cardmarket_id": 609062,
+  "name": "Reckoner Bankbuster",
+  "lang": "en",
+  "released_at": "2022-02-18",
+  "uri": "https://api.scryfall.com/cards/29e4c9a1-35c3-4063-b1ae-a9934f778fdd",
+  "scryfall_uri": "https://scryfall.com/card/pneo/255s/reckoner-bankbuster?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/9/29e4c9a1-35c3-4063-b1ae-a9934f778fdd.jpg?1675617081",
+    "normal": "https://cards.scryfall.io/normal/front/2/9/29e4c9a1-35c3-4063-b1ae-a9934f778fdd.jpg?1675617081",
+    "large": "https://cards.scryfall.io/large/front/2/9/29e4c9a1-35c3-4063-b1ae-a9934f778fdd.jpg?1675617081",
+    "png": "https://cards.scryfall.io/png/front/2/9/29e4c9a1-35c3-4063-b1ae-a9934f778fdd.png?1675617081",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/9/29e4c9a1-35c3-4063-b1ae-a9934f778fdd.jpg?1675617081",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/9/29e4c9a1-35c3-4063-b1ae-a9934f778fdd.jpg?1675617081"
+  },
+  "mana_cost": "{2}",
+  "cmc": 2,
+  "type_line": "Artifact — Vehicle",
+  "oracle_text": "This Vehicle enters with three charge counters on it.\n{2}, {T}, Remove a charge counter from this Vehicle: Draw a card. Then if there are no charge counters on this Vehicle, create a Treasure token and a 1/1 colorless Pilot creature token with \"This token crews Vehicles as though its power were 2 greater.\"\nCrew 3",
+  "power": "4",
+  "toughness": "4",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Treasure",
+    "Crew"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6911181d-573b-41eb-96a4-799c96e008fc",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/6911181d-573b-41eb-96a4-799c96e008fc"
+    },
+    {
+      "object": "related_card",
+      "id": "be84f259-2809-48c9-9c70-861437f08c23",
+      "component": "token",
+      "name": "Pilot",
+      "type_line": "Token Creature — Pilot",
+      "uri": "https://api.scryfall.com/cards/be84f259-2809-48c9-9c70-861437f08c23"
+    },
+    {
+      "object": "related_card",
+      "id": "58d01c4c-cdb9-4f86-ab2e-2bfb52cdf5f7",
+      "component": "combo_piece",
+      "name": "Reckoner Bankbuster",
+      "type_line": "Artifact — Vehicle",
+      "uri": "https://api.scryfall.com/cards/58d01c4c-cdb9-4f86-ab2e-2bfb52cdf5f7"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "b3161020-d74f-48cc-bc9d-d7233e64e524",
+  "set": "pneo",
+  "set_name": "Kamigawa: Neon Dynasty Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/b3161020-d74f-48cc-bc9d-d7233e64e524",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apneo&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pneo?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/29e4c9a1-35c3-4063-b1ae-a9934f778fdd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab6be94dc-7162-4887-b959-3bda709724eb&unique=prints",
+  "collector_number": "255s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steve Prescott",
+  "artist_ids": [
+    "a1139fb8-41f5-4a9e-9a74-f662e1a23b35"
+  ],
+  "illustration_id": "b8e3a577-b786-4c41-bd2f-66acecda84e0",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 3229,
+  "prices": {
+    "usd": null,
+    "usd_foil": "2.73",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "3.78",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DReckoner%2BBankbuster",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DReckoner%2BBankbuster",
+    "edhrec": "https://edhrec.com/route/?cc=Reckoner+Bankbuster"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F263515%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=609062&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Reckoner+Bankbuster&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

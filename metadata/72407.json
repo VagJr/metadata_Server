@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "aad618e7-271b-40e1-a3b1-416e1b8bedd6",
+  "oracle_id": "0998768a-1632-4da1-8310-352582501c4b",
+  "multiverse_ids": [],
+  "mtgo_id": 88282,
+  "name": "Rise of the Dread Marn",
+  "lang": "en",
+  "released_at": "2021-02-28",
+  "uri": "https://api.scryfall.com/cards/aad618e7-271b-40e1-a3b1-416e1b8bedd6",
+  "scryfall_uri": "https://scryfall.com/card/prm/88282/rise-of-the-dread-marn?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/a/aad618e7-271b-40e1-a3b1-416e1b8bedd6.jpg?1681079587",
+    "normal": "https://cards.scryfall.io/normal/front/a/a/aad618e7-271b-40e1-a3b1-416e1b8bedd6.jpg?1681079587",
+    "large": "https://cards.scryfall.io/large/front/a/a/aad618e7-271b-40e1-a3b1-416e1b8bedd6.jpg?1681079587",
+    "png": "https://cards.scryfall.io/png/front/a/a/aad618e7-271b-40e1-a3b1-416e1b8bedd6.png?1681079587",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/a/aad618e7-271b-40e1-a3b1-416e1b8bedd6.jpg?1681079587",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/a/aad618e7-271b-40e1-a3b1-416e1b8bedd6.jpg?1681079587"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3,
+  "type_line": "Instant",
+  "oracle_text": "Create X 2/2 black Zombie Berserker creature tokens, where X is the number of nontoken creatures that died this turn.\nForetell {B} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Foretell"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "aad618e7-271b-40e1-a3b1-416e1b8bedd6",
+      "component": "combo_piece",
+      "name": "Rise of the Dread Marn",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/aad618e7-271b-40e1-a3b1-416e1b8bedd6"
+    },
+    {
+      "object": "related_card",
+      "id": "e4bbd379-6728-4c6b-b375-295926fe6b00",
+      "component": "token",
+      "name": "Zombie Berserker",
+      "type_line": "Token Creature — Zombie Berserker",
+      "uri": "https://api.scryfall.com/cards/e4bbd379-6728-4c6b-b375-295926fe6b00"
+    },
+    {
+      "object": "related_card",
+      "id": "207b3d62-2541-4a51-8152-3c54218ab6f7",
+      "component": "combo_piece",
+      "name": "Foretell",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/207b3d62-2541-4a51-8152-3c54218ab6f7"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/aad618e7-271b-40e1-a3b1-416e1b8bedd6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0998768a-1632-4da1-8310-352582501c4b&unique=prints",
+  "collector_number": "88282",
+  "digital": true,
+  "rarity": "rare",
+  "watermark": "foretell",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Titus Lunter",
+  "artist_ids": [
+    "b11e6b3a-f4ca-4cf1-8fd7-475696de5f5c"
+  ],
+  "illustration_id": "78d3aec1-a73f-4388-8ef0-3057baa439f1",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4254,
+  "penny_rank": 11452,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.17"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRise%2Bof%2Bthe%2BDread%2BMarn",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRise%2Bof%2Bthe%2BDread%2BMarn",
+    "edhrec": "https://edhrec.com/route/?cc=Rise+of+the+Dread+Marn"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DRise%2Bof%2Bthe%2BDread%2BMarn%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rise+of+the+Dread+Marn&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/88282?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

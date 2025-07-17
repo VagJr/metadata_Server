@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "cc92f1c5-e112-43ed-977d-6ededa8d804d",
+  "oracle_id": "93723b12-db34-4047-885e-8606415b1553",
+  "multiverse_ids": [],
+  "tcgplayer_id": 189555,
+  "cardmarket_id": 373485,
+  "name": "Ashiok, Dream Render",
+  "printed_name": "夢を引き裂く者、アショク",
+  "lang": "ja",
+  "released_at": "2019-05-03",
+  "uri": "https://api.scryfall.com/cards/cc92f1c5-e112-43ed-977d-6ededa8d804d",
+  "scryfall_uri": "https://scryfall.com/card/pwar/228s%E2%98%85/ja/%E5%A4%A2%E3%82%92%E5%BC%95%E3%81%8D%E8%A3%82%E3%81%8F%E8%80%85%E3%80%81%E3%82%A2%E3%82%B7%E3%83%A7%E3%82%AF-(ashiok-dream-render)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/c/cc92f1c5-e112-43ed-977d-6ededa8d804d.jpg?1593867221",
+    "normal": "https://cards.scryfall.io/normal/front/c/c/cc92f1c5-e112-43ed-977d-6ededa8d804d.jpg?1593867221",
+    "large": "https://cards.scryfall.io/large/front/c/c/cc92f1c5-e112-43ed-977d-6ededa8d804d.jpg?1593867221",
+    "png": "https://cards.scryfall.io/png/front/c/c/cc92f1c5-e112-43ed-977d-6ededa8d804d.png?1593867221",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/c/cc92f1c5-e112-43ed-977d-6ededa8d804d.jpg?1593867221",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/c/cc92f1c5-e112-43ed-977d-6ededa8d804d.jpg?1593867221"
+  },
+  "mana_cost": "{1}{U/B}{U/B}",
+  "cmc": 3,
+  "type_line": "Legendary Planeswalker — Ashiok",
+  "printed_type_line": "伝説のプレインズウォーカー — アショク",
+  "oracle_text": "Spells and abilities your opponents control can't cause their controller to search their library.\n−1: Target player mills four cards. Then exile each opponent's graveyard.",
+  "printed_text": "対戦相手がコントロールしている呪文や能力は、それのコントローラーにそのプレイヤーのライブラリーからカードを探させることができない。\n-1：プレイヤー１人を対象とする。そのプレイヤーは自分のライブラリーの一番上からカードを４枚自分の墓地に置く。その後、各対戦相手の墓地を追放する。",
+  "loyalty": "5",
+  "colors": [
+    "B",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9981777b-983e-4f17-b9b1-fe32cf243e23",
+  "set": "pwar",
+  "set_name": "War of the Spark Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/9981777b-983e-4f17-b9b1-fe32cf243e23",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwar&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwar?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/cc92f1c5-e112-43ed-977d-6ededa8d804d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A93723b12-db34-4047-885e-8606415b1553&unique=prints",
+  "collector_number": "228s★",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Hozan Shinomaru",
+  "artist_ids": [
+    "37eb640c-57a8-4a07-a5aa-a1f44b8b4639"
+  ],
+  "illustration_id": "985b3a5b-02c1-4d4e-bd5e-a1ccefb6163b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped",
+    "jpwalker"
+  ],
+  "edhrec_rank": 2047,
+  "prices": {
+    "usd": null,
+    "usd_foil": "50.00",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "141.32",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAshiok%252C%2BDream%2BRender",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAshiok%252C%2BDream%2BRender",
+    "edhrec": "https://edhrec.com/route/?cc=Ashiok%2C+Dream+Render"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F189555%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=373485&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ashiok%2C+Dream+Render&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

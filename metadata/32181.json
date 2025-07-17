@@ -1,0 +1,113 @@
+{
+  "object": "card",
+  "id": "4c04489b-7e7f-4700-9e97-1926cbfa3722",
+  "oracle_id": "550c74d4-1fcb-406a-b02a-639a760a4380",
+  "multiverse_ids": [],
+  "mtgo_id": 46954,
+  "name": "Ancestral Recall",
+  "lang": "en",
+  "released_at": "2014-10-17",
+  "uri": "https://api.scryfall.com/cards/4c04489b-7e7f-4700-9e97-1926cbfa3722",
+  "scryfall_uri": "https://scryfall.com/card/prm/46954/ancestral-recall?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/c/4c04489b-7e7f-4700-9e97-1926cbfa3722.jpg?1562544593",
+    "normal": "https://cards.scryfall.io/normal/front/4/c/4c04489b-7e7f-4700-9e97-1926cbfa3722.jpg?1562544593",
+    "large": "https://cards.scryfall.io/large/front/4/c/4c04489b-7e7f-4700-9e97-1926cbfa3722.jpg?1562544593",
+    "png": "https://cards.scryfall.io/png/front/4/c/4c04489b-7e7f-4700-9e97-1926cbfa3722.png?1562544593",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/c/4c04489b-7e7f-4700-9e97-1926cbfa3722.jpg?1562544593",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/c/4c04489b-7e7f-4700-9e97-1926cbfa3722.jpg?1562544593"
+  },
+  "mana_cost": "{U}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "oracle_text": "Target player draws three cards.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "banned",
+    "pauper": "not_legal",
+    "vintage": "restricted",
+    "penny": "not_legal",
+    "commander": "banned",
+    "oathbreaker": "banned",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "banned",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "banned"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": true,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4c04489b-7e7f-4700-9e97-1926cbfa3722/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A550c74d4-1fcb-406a-b02a-639a760a4380&unique=prints",
+  "collector_number": "46954",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mark Poole",
+  "artist_ids": [
+    "bfdeaf09-f915-4058-8e8b-bcac3bc43c33"
+  ],
+  "illustration_id": "aac2a0b0-2a6a-4416-88d1-25668f0c5ed4",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAncestral%2BRecall",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAncestral%2BRecall",
+    "edhrec": "https://edhrec.com/route/?cc=Ancestral+Recall"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DAncestral%2BRecall%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ancestral+Recall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/46954?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

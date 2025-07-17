@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "fd374915-323c-4d98-9b59-94d405c1dde8",
+  "oracle_id": "2ffc6372-f63b-4f32-8dd0-2d7938aeb412",
+  "multiverse_ids": [
+    635555
+  ],
+  "tcgplayer_id": 519515,
+  "cardmarket_id": 739091,
+  "name": "Carpet of Flowers",
+  "lang": "en",
+  "released_at": "2023-10-13",
+  "uri": "https://api.scryfall.com/cards/fd374915-323c-4d98-9b59-94d405c1dde8",
+  "scryfall_uri": "https://scryfall.com/card/who/229/carpet-of-flowers?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/d/fd374915-323c-4d98-9b59-94d405c1dde8.jpg?1696636933",
+    "normal": "https://cards.scryfall.io/normal/front/f/d/fd374915-323c-4d98-9b59-94d405c1dde8.jpg?1696636933",
+    "large": "https://cards.scryfall.io/large/front/f/d/fd374915-323c-4d98-9b59-94d405c1dde8.jpg?1696636933",
+    "png": "https://cards.scryfall.io/png/front/f/d/fd374915-323c-4d98-9b59-94d405c1dde8.png?1696636933",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/d/fd374915-323c-4d98-9b59-94d405c1dde8.jpg?1696636933",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/d/fd374915-323c-4d98-9b59-94d405c1dde8.jpg?1696636933"
+  },
+  "mana_cost": "{G}",
+  "cmc": 1,
+  "type_line": "Enchantment",
+  "oracle_text": "At the beginning of each of your main phases, if you haven't added mana with this ability this turn, you may add X mana of any one color, where X is the number of Islands target opponent controls.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "efdfdd99-cee7-4c11-a5e9-03d60f88bdd6",
+  "set": "who",
+  "set_name": "Doctor Who",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/efdfdd99-cee7-4c11-a5e9-03d60f88bdd6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awho&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/who?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/fd374915-323c-4d98-9b59-94d405c1dde8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2ffc6372-f63b-4f32-8dd0-2d7938aeb412&unique=prints",
+  "collector_number": "229",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Love is a form of hope and, like hope, love abides in the face of everything.\"\n—The Thirteenth Doctor",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Logan Feliciano",
+  "artist_ids": [
+    "fa8fd324-099a-43f2-9c57-97f64e38a5e9"
+  ],
+  "illustration_id": "db9da5d0-6da1-4514-8613-48f2b2afe07a",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 949,
+  "preview": {
+    "source": "The Command Zone",
+    "source_uri": "https://www.youtube.com/watch?v=nOGRTEwNbog",
+    "previewed_at": "2023-10-04"
+  },
+  "prices": {
+    "usd": "2.21",
+    "usd_foil": "5.20",
+    "usd_etched": null,
+    "eur": "2.53",
+    "eur_foil": "4.55",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=635555&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCarpet%2Bof%2BFlowers",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCarpet%2Bof%2BFlowers",
+    "edhrec": "https://edhrec.com/route/?cc=Carpet+of+Flowers"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F519515%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=739091&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Carpet+of+Flowers&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

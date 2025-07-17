@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "e9828a61-bc29-4a6d-8a41-e439dcb822db",
+  "oracle_id": "18a5e71e-eb75-4ac7-bedd-2220aaa24f78",
+  "multiverse_ids": [
+    591538
+  ],
+  "tcgplayer_id": 455450,
+  "cardmarket_id": 687154,
+  "name": "Valkyrie Harbinger",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/e9828a61-bc29-4a6d-8a41-e439dcb822db",
+  "scryfall_uri": "https://scryfall.com/card/j22/261/valkyrie-harbinger?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/9/e9828a61-bc29-4a6d-8a41-e439dcb822db.jpg?1675647837",
+    "normal": "https://cards.scryfall.io/normal/front/e/9/e9828a61-bc29-4a6d-8a41-e439dcb822db.jpg?1675647837",
+    "large": "https://cards.scryfall.io/large/front/e/9/e9828a61-bc29-4a6d-8a41-e439dcb822db.jpg?1675647837",
+    "png": "https://cards.scryfall.io/png/front/e/9/e9828a61-bc29-4a6d-8a41-e439dcb822db.png?1675647837",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/9/e9828a61-bc29-4a6d-8a41-e439dcb822db.jpg?1675647837",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/9/e9828a61-bc29-4a6d-8a41-e439dcb822db.jpg?1675647837"
+  },
+  "mana_cost": "{4}{W}{W}",
+  "cmc": 6,
+  "type_line": "Creature — Angel Cleric",
+  "oracle_text": "Flying\nLifelink (Damage dealt by this creature also causes you to gain that much life.)\nAt the beginning of each end step, if you gained 4 or more life this turn, create a 4/4 white Angel creature token with flying and vigilance.",
+  "power": "4",
+  "toughness": "5",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "Lifelink"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e9828a61-bc29-4a6d-8a41-e439dcb822db",
+      "component": "combo_piece",
+      "name": "Valkyrie Harbinger",
+      "type_line": "Creature — Angel Cleric",
+      "uri": "https://api.scryfall.com/cards/e9828a61-bc29-4a6d-8a41-e439dcb822db"
+    },
+    {
+      "object": "related_card",
+      "id": "bb2b69c0-ba32-4db1-bf02-230b6d4802aa",
+      "component": "token",
+      "name": "Angel",
+      "type_line": "Token Creature — Angel",
+      "uri": "https://api.scryfall.com/cards/bb2b69c0-ba32-4db1-bf02-230b6d4802aa"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "247df475-e4ce-4e5e-9317-11892d2211e0",
+  "set": "j22",
+  "set_name": "Jumpstart 2022",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/247df475-e4ce-4e5e-9317-11892d2211e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj22&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j22?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e9828a61-bc29-4a6d-8a41-e439dcb822db/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A18a5e71e-eb75-4ac7-bedd-2220aaa24f78&unique=prints",
+  "collector_number": "261",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Where she flies, the Light of Starnheim shines.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tran Nguyen",
+  "artist_ids": [
+    "fcd05833-d82b-4d3b-b7a7-8fddb3ed2485"
+  ],
+  "illustration_id": "31f09f2d-56e0-4a67-9a43-9b33b38f2842",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2534,
+  "penny_rank": 9433,
+  "prices": {
+    "usd": "1.36",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "2.55",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=591538&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DValkyrie%2BHarbinger",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DValkyrie%2BHarbinger",
+    "edhrec": "https://edhrec.com/route/?cc=Valkyrie+Harbinger"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F455450%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=687154&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Valkyrie+Harbinger&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

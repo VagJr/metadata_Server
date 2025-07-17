@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "35710226-9e2c-4ee5-a422-a708affb94ef",
+  "oracle_id": "fede3b66-1380-4b18-986a-27a9a145a3a0",
+  "multiverse_ids": [],
+  "name": "Dinosaur",
+  "lang": "ja",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/35710226-9e2c-4ee5-a422-a708affb94ef",
+  "scryfall_uri": "https://scryfall.com/card/wmom/5/ja/dinosaur?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/5/35710226-9e2c-4ee5-a422-a708affb94ef.jpg?1685566144",
+    "normal": "https://cards.scryfall.io/normal/front/3/5/35710226-9e2c-4ee5-a422-a708affb94ef.jpg?1685566144",
+    "large": "https://cards.scryfall.io/large/front/3/5/35710226-9e2c-4ee5-a422-a708affb94ef.jpg?1685566144",
+    "png": "https://cards.scryfall.io/png/front/3/5/35710226-9e2c-4ee5-a422-a708affb94ef.png?1685566144",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/5/35710226-9e2c-4ee5-a422-a708affb94ef.jpg?1685566144",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/5/35710226-9e2c-4ee5-a422-a708affb94ef.jpg?1685566144"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Dinosaur",
+  "oracle_text": "",
+  "power": "*",
+  "toughness": "*",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "bb0bf15a-7988-4298-8eea-33a1d72dbc7e",
+      "component": "combo_piece",
+      "name": "Ghalta and Mavren",
+      "type_line": "Legendary Creature — Dinosaur Vampire",
+      "uri": "https://api.scryfall.com/cards/bb0bf15a-7988-4298-8eea-33a1d72dbc7e"
+    },
+    {
+      "object": "related_card",
+      "id": "35710226-9e2c-4ee5-a422-a708affb94ef",
+      "component": "token",
+      "name": "Dinosaur",
+      "type_line": "Token Creature — Dinosaur",
+      "uri": "https://api.scryfall.com/cards/35710226-9e2c-4ee5-a422-a708affb94ef"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "19e95cc8-2387-4ea4-9045-19a130effe7f",
+  "set": "wmom",
+  "set_name": "MOM Japanese Promo Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/19e95cc8-2387-4ea4-9045-19a130effe7f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awmom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/wmom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/35710226-9e2c-4ee5-a422-a708affb94ef/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afede3b66-1380-4b18-986a-27a9a145a3a0&unique=prints",
+  "collector_number": "5",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ishikawa Kenta",
+  "artist_ids": [
+    "7af32cf9-75ca-439e-91c3-619dfeea2dfd"
+  ],
+  "illustration_id": "799398a6-76ed-407c-8bf8-f4f9e9205b82",
+  "border_color": "borderless",
+  "frame": "2015",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "plastic"
+  ],
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDinosaur",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDinosaur",
+    "edhrec": "https://edhrec.com/route/?cc=Dinosaur"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DDinosaur%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dinosaur&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dinosaur&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "object": "card",
+  "id": "de36ecaa-62e0-4f1c-b07f-837a786dc897",
+  "oracle_id": "d7a38484-2acc-49a6-b32d-d54dddb14d31",
+  "multiverse_ids": [
+    632430
+  ],
+  "mtgo_id": 115828,
+  "arena_id": 87040,
+  "tcgplayer_id": 512512,
+  "cardmarket_id": 728487,
+  "name": "Dawn of Hope",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/de36ecaa-62e0-4f1c-b07f-837a786dc897",
+  "scryfall_uri": "https://scryfall.com/card/wot/2/dawn-of-hope?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/e/de36ecaa-62e0-4f1c-b07f-837a786dc897.jpg?1692932039",
+    "normal": "https://cards.scryfall.io/normal/front/d/e/de36ecaa-62e0-4f1c-b07f-837a786dc897.jpg?1692932039",
+    "large": "https://cards.scryfall.io/large/front/d/e/de36ecaa-62e0-4f1c-b07f-837a786dc897.jpg?1692932039",
+    "png": "https://cards.scryfall.io/png/front/d/e/de36ecaa-62e0-4f1c-b07f-837a786dc897.png?1692932039",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/e/de36ecaa-62e0-4f1c-b07f-837a786dc897.jpg?1692932039",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/e/de36ecaa-62e0-4f1c-b07f-837a786dc897.jpg?1692932039"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever you gain life, you may pay {2}. If you do, draw a card.\n{3}{W}: Create a 1/1 white Soldier creature token with lifelink.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "20a9bda0-5673-4071-9201-83670a317f8a",
+      "component": "token",
+      "name": "Soldier",
+      "type_line": "Token Creature — Soldier",
+      "uri": "https://api.scryfall.com/cards/20a9bda0-5673-4071-9201-83670a317f8a"
+    },
+    {
+      "object": "related_card",
+      "id": "de36ecaa-62e0-4f1c-b07f-837a786dc897",
+      "component": "combo_piece",
+      "name": "Dawn of Hope",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/de36ecaa-62e0-4f1c-b07f-837a786dc897"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d1eba841-452b-4f81-88c9-b32973ac8176",
+  "set": "wot",
+  "set_name": "Wilds of Eldraine: Enchanting Tales",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/d1eba841-452b-4f81-88c9-b32973ac8176",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awot&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/wot?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/de36ecaa-62e0-4f1c-b07f-837a786dc897/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad7a38484-2acc-49a6-b32d-d54dddb14d31&unique=prints",
+  "collector_number": "2",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"She was the rising sun, her courage banishing the terrors of the night.\"\n—*Legend of the Gilded Knights*",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Maël Ollivier-Henry",
+  "artist_ids": [
+    "01d7a674-0768-4251-89bb-85ef02a70f4a"
+  ],
+  "illustration_id": "20abf968-ec06-47b1-8997-28120308c335",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 2030,
+  "penny_rank": 564,
+  "preview": {
+    "source": "MANA PRO SG",
+    "source_uri": "https://www.facebook.com/photo?fbid=674204901408019&set=a.402615891900256",
+    "previewed_at": "2023-08-16"
+  },
+  "prices": {
+    "usd": "0.28",
+    "usd_foil": "0.43",
+    "usd_etched": null,
+    "eur": "0.29",
+    "eur_foil": "0.76",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=632430&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDawn%2Bof%2BHope",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDawn%2Bof%2BHope",
+    "edhrec": "https://edhrec.com/route/?cc=Dawn+of+Hope"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F512512%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=728487&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/115828?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "object": "card",
+  "id": "ea4f1d5d-7991-4a2d-b907-3522e951ad4c",
+  "oracle_id": "6d4e7943-1fdf-4085-8af0-658badbd0cb8",
+  "multiverse_ids": [
+    574431
+  ],
+  "arena_id": 81814,
+  "name": "Monster Manual // Zoological Study",
+  "lang": "en",
+  "released_at": "2022-07-07",
+  "uri": "https://api.scryfall.com/cards/ea4f1d5d-7991-4a2d-b907-3522e951ad4c",
+  "scryfall_uri": "https://scryfall.com/card/hbg/217/monster-manual-zoological-study?utm_source=api",
+  "layout": "adventure",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/a/ea4f1d5d-7991-4a2d-b907-3522e951ad4c.jpg?1693966074",
+    "normal": "https://cards.scryfall.io/normal/front/e/a/ea4f1d5d-7991-4a2d-b907-3522e951ad4c.jpg?1693966074",
+    "large": "https://cards.scryfall.io/large/front/e/a/ea4f1d5d-7991-4a2d-b907-3522e951ad4c.jpg?1693966074",
+    "png": "https://cards.scryfall.io/png/front/e/a/ea4f1d5d-7991-4a2d-b907-3522e951ad4c.png?1693966074",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/a/ea4f1d5d-7991-4a2d-b907-3522e951ad4c.jpg?1693966074",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/a/ea4f1d5d-7991-4a2d-b907-3522e951ad4c.jpg?1693966074"
+  },
+  "mana_cost": "{3}{G} // {2}{G}",
+  "cmc": 4,
+  "type_line": "Artifact // Sorcery — Adventure",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Monster Manual",
+      "mana_cost": "{3}{G}",
+      "type_line": "Artifact",
+      "oracle_text": "{1}{G}, {T}: You may put a creature card from your hand onto the battlefield.",
+      "artist": "David Gaillet",
+      "artist_id": "3496c5b4-57bf-4e5e-8bac-a1e05a911a2d",
+      "illustration_id": "318c3bd9-d145-4e96-89ae-d9dc66a9ce19"
+    },
+    {
+      "object": "card_face",
+      "name": "Zoological Study",
+      "mana_cost": "{2}{G}",
+      "type_line": "Sorcery — Adventure",
+      "oracle_text": "Mill five cards, then return a creature card milled this way to your hand. (Then exile this card. You may cast the artifact later from exile.)",
+      "artist": "David Gaillet",
+      "artist_id": "3496c5b4-57bf-4e5e-8bac-a1e05a911a2d"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "ea4f1d5d-7991-4a2d-b907-3522e951ad4c",
+      "component": "combo_piece",
+      "name": "Monster Manual // Zoological Study",
+      "type_line": "Artifact // Sorcery — Adventure",
+      "uri": "https://api.scryfall.com/cards/ea4f1d5d-7991-4a2d-b907-3522e951ad4c"
+    },
+    {
+      "object": "related_card",
+      "id": "fcf4c7fb-7859-4c11-8552-6817f5119d2e",
+      "component": "combo_piece",
+      "name": "On an Adventure",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/fcf4c7fb-7859-4c11-8552-6817f5119d2e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "35528ede-7870-4598-a2ee-7f3d6464a74b",
+  "set": "hbg",
+  "set_name": "Alchemy Horizons: Baldur's Gate",
+  "set_type": "alchemy",
+  "set_uri": "https://api.scryfall.com/sets/35528ede-7870-4598-a2ee-7f3d6464a74b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahbg&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/hbg?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ea4f1d5d-7991-4a2d-b907-3522e951ad4c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6d4e7943-1fdf-4085-8af0-658badbd0cb8&unique=prints",
+  "collector_number": "217",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "David Gaillet",
+  "artist_ids": [
+    "3496c5b4-57bf-4e5e-8bac-a1e05a911a2d"
+  ],
+  "illustration_id": "318c3bd9-d145-4e96-89ae-d9dc66a9ce19",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1520,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574431&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMonster%2BManual%2B%252F%252F%2BZoological%2BStudy",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMonster%2BManual%2B%252F%252F%2BZoological%2BStudy",
+    "edhrec": "https://edhrec.com/route/?cc=Monster+Manual"
+  }
+}

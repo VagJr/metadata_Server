@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "06ca4385-c438-4efa-8db4-fcc8151580dd",
+  "oracle_id": "2eb1b429-8d11-42f3-8815-5a60b6a4e2d5",
+  "multiverse_ids": [],
+  "tcgplayer_id": 501269,
+  "name": "Witch-king of Angmar",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/06ca4385-c438-4efa-8db4-fcc8151580dd",
+  "scryfall_uri": "https://scryfall.com/card/pltr/114s/witch-king-of-angmar?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/6/06ca4385-c438-4efa-8db4-fcc8151580dd.jpg?1687887917",
+    "normal": "https://cards.scryfall.io/normal/front/0/6/06ca4385-c438-4efa-8db4-fcc8151580dd.jpg?1687887917",
+    "large": "https://cards.scryfall.io/large/front/0/6/06ca4385-c438-4efa-8db4-fcc8151580dd.jpg?1687887917",
+    "png": "https://cards.scryfall.io/png/front/0/6/06ca4385-c438-4efa-8db4-fcc8151580dd.png?1687887917",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/6/06ca4385-c438-4efa-8db4-fcc8151580dd.jpg?1687887917",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/6/06ca4385-c438-4efa-8db4-fcc8151580dd.jpg?1687887917"
+  },
+  "mana_cost": "{3}{B}{B}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Wraith Noble",
+  "oracle_text": "Flying\nWhenever one or more creatures deal combat damage to you, each opponent sacrifices a creature of their choice that dealt combat damage to you this turn. The Ring tempts you.\nDiscard a card: Witch-king of Angmar gains indestructible until end of turn. Tap it.",
+  "power": "5",
+  "toughness": "3",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "06ca4385-c438-4efa-8db4-fcc8151580dd",
+      "component": "combo_piece",
+      "name": "Witch-king of Angmar",
+      "type_line": "Legendary Creature — Wraith Noble",
+      "uri": "https://api.scryfall.com/cards/06ca4385-c438-4efa-8db4-fcc8151580dd"
+    },
+    {
+      "object": "related_card",
+      "id": "7215460e-8c06-47d0-94e5-d1832d0218af",
+      "component": "combo_piece",
+      "name": "The Ring // The Ring Tempts You",
+      "type_line": "Emblem // Card",
+      "uri": "https://api.scryfall.com/cards/7215460e-8c06-47d0-94e5-d1832d0218af"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "1012754e-18e5-4a76-b9a3-24c55eaab1c5",
+  "set": "pltr",
+  "set_name": "Tales of Middle-earth Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/1012754e-18e5-4a76-b9a3-24c55eaab1c5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apltr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pltr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/06ca4385-c438-4efa-8db4-fcc8151580dd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2eb1b429-8d11-42f3-8815-5a60b6a4e2d5&unique=prints",
+  "collector_number": "114s",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Anato Finnstark",
+  "artist_ids": [
+    "05d233e7-4958-4f79-83e6-f9bf8b6ff78e"
+  ],
+  "illustration_id": "892f9ab4-370c-43ce-bcd9-a30869988594",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 2439,
+  "penny_rank": 4388,
+  "prices": {
+    "usd": null,
+    "usd_foil": "8.93",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWitch-king%2Bof%2BAngmar",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWitch-king%2Bof%2BAngmar",
+    "edhrec": "https://edhrec.com/route/?cc=Witch-king+of+Angmar"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F501269%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Witch-king+of+Angmar&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Witch-king+of+Angmar&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

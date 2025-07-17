@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "4b093537-962b-4707-8e17-a6a2b089a863",
+  "oracle_id": "92d5bb7e-08ba-448e-8763-f47c89505e80",
+  "multiverse_ids": [
+    592743
+  ],
+  "tcgplayer_id": 454907,
+  "cardmarket_id": 686500,
+  "name": "Ghirapur Guide",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/4b093537-962b-4707-8e17-a6a2b089a863",
+  "scryfall_uri": "https://scryfall.com/card/j22/665/ghirapur-guide?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/b/4b093537-962b-4707-8e17-a6a2b089a863.jpg?1675651519",
+    "normal": "https://cards.scryfall.io/normal/front/4/b/4b093537-962b-4707-8e17-a6a2b089a863.jpg?1675651519",
+    "large": "https://cards.scryfall.io/large/front/4/b/4b093537-962b-4707-8e17-a6a2b089a863.jpg?1675651519",
+    "png": "https://cards.scryfall.io/png/front/4/b/4b093537-962b-4707-8e17-a6a2b089a863.png?1675651519",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/b/4b093537-962b-4707-8e17-a6a2b089a863.jpg?1675651519",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/b/4b093537-962b-4707-8e17-a6a2b089a863.jpg?1675651519"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Creature — Elf Scout",
+  "oracle_text": "{2}{G}: Target creature you control can't be blocked by creatures with power 2 or less this turn.",
+  "power": "3",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "247df475-e4ce-4e5e-9317-11892d2211e0",
+  "set": "j22",
+  "set_name": "Jumpstart 2022",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/247df475-e4ce-4e5e-9317-11892d2211e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj22&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j22?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4b093537-962b-4707-8e17-a6a2b089a863/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A92d5bb7e-08ba-448e-8763-f47c89505e80&unique=prints",
+  "collector_number": "665",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Fairgoers were delighted to find that even outside the fairgrounds, Ghirapur was a city of wonders.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Scott Murphy",
+  "artist_ids": [
+    "07c7ac65-dfa6-4273-9c66-ec9d8f3e2226"
+  ],
+  "illustration_id": "12e921ab-65e2-4b3e-a1b8-50082e06bdf0",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 22780,
+  "prices": {
+    "usd": "0.15",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.12",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=592743&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGhirapur%2BGuide",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGhirapur%2BGuide",
+    "edhrec": "https://edhrec.com/route/?cc=Ghirapur+Guide"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F454907%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=686500&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ghirapur+Guide&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

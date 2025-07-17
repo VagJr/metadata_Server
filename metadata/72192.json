@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "aa576f30-6502-4d4c-831f-99e77a29965c",
+  "oracle_id": "e85bfbbc-7269-486b-992c-776ab45d5840",
+  "multiverse_ids": [],
+  "name": "Phyrexian Saproling",
+  "lang": "ja",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/aa576f30-6502-4d4c-831f-99e77a29965c",
+  "scryfall_uri": "https://scryfall.com/card/wmom/10/ja/phyrexian-saproling?utm_source=api",
+  "layout": "token",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/a/aa576f30-6502-4d4c-831f-99e77a29965c.jpg?1698008847",
+    "normal": "https://cards.scryfall.io/normal/front/a/a/aa576f30-6502-4d4c-831f-99e77a29965c.jpg?1698008847",
+    "large": "https://cards.scryfall.io/large/front/a/a/aa576f30-6502-4d4c-831f-99e77a29965c.jpg?1698008847",
+    "png": "https://cards.scryfall.io/png/front/a/a/aa576f30-6502-4d4c-831f-99e77a29965c.png?1698008847",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/a/aa576f30-6502-4d4c-831f-99e77a29965c.jpg?1698008847",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/a/aa576f30-6502-4d4c-831f-99e77a29965c.jpg?1698008847"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Phyrexian Saproling",
+  "oracle_text": "",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "aa576f30-6502-4d4c-831f-99e77a29965c",
+      "component": "token",
+      "name": "Phyrexian Saproling",
+      "type_line": "Token Creature — Phyrexian Saproling",
+      "uri": "https://api.scryfall.com/cards/aa576f30-6502-4d4c-831f-99e77a29965c"
+    },
+    {
+      "object": "related_card",
+      "id": "3e5b2b9e-99c9-4b94-b378-5f8707b9b3b4",
+      "component": "combo_piece",
+      "name": "Blightreaper Thallid // Blightsower Thallid",
+      "type_line": "Creature — Fungus // Creature — Phyrexian Fungus",
+      "uri": "https://api.scryfall.com/cards/3e5b2b9e-99c9-4b94-b378-5f8707b9b3b4"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "19e95cc8-2387-4ea4-9045-19a130effe7f",
+  "set": "wmom",
+  "set_name": "MOM Japanese Promo Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/19e95cc8-2387-4ea4-9045-19a130effe7f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awmom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/wmom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/aa576f30-6502-4d4c-831f-99e77a29965c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae85bfbbc-7269-486b-992c-776ab45d5840&unique=prints",
+  "collector_number": "10",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ai Nanahira",
+  "artist_ids": [
+    "651f1c56-b47a-418b-9742-94be1e9482c4"
+  ],
+  "illustration_id": "95033051-6d7b-432e-8f90-97f74dacc2ad",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "plastic"
+  ],
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPhyrexian%2BSaproling",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPhyrexian%2BSaproling",
+    "edhrec": "https://edhrec.com/route/?cc=Phyrexian+Saproling"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DPhyrexian%2BSaproling%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Phyrexian+Saproling&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Phyrexian+Saproling&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "63f71b68-92f6-4683-b763-27e6684c33ab",
+  "oracle_id": "2b8c2882-dbca-466a-a0af-dd1d65edfe7c",
+  "multiverse_ids": [],
+  "tcgplayer_id": 616800,
+  "name": "Mimeoplasm, Revered One",
+  "lang": "en",
+  "released_at": "2025-02-14",
+  "uri": "https://api.scryfall.com/cards/63f71b68-92f6-4683-b763-27e6684c33ab",
+  "scryfall_uri": "https://scryfall.com/card/pdft/214s/mimeoplasm-revered-one?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/3/63f71b68-92f6-4683-b763-27e6684c33ab.jpg?1739664621",
+    "normal": "https://cards.scryfall.io/normal/front/6/3/63f71b68-92f6-4683-b763-27e6684c33ab.jpg?1739664621",
+    "large": "https://cards.scryfall.io/large/front/6/3/63f71b68-92f6-4683-b763-27e6684c33ab.jpg?1739664621",
+    "png": "https://cards.scryfall.io/png/front/6/3/63f71b68-92f6-4683-b763-27e6684c33ab.png?1739664621",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/3/63f71b68-92f6-4683-b763-27e6684c33ab.jpg?1739664621",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/3/63f71b68-92f6-4683-b763-27e6684c33ab.jpg?1739664621"
+  },
+  "mana_cost": "{X}{B}{G}{U}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Ooze",
+  "oracle_text": "As Mimeoplasm enters, exile up to X creature cards from your graveyard. It enters with three +1/+1 counters on it for each creature card exiled this way.\n{2}: Mimeoplasm becomes a copy of target creature card exiled with it, except it's 0/0 and has this ability.",
+  "power": "0",
+  "toughness": "0",
+  "colors": [
+    "B",
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cc05a3a1-fb38-4d6d-b3d3-032e90b49d00",
+  "set": "pdft",
+  "set_name": "Aetherdrift Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/cc05a3a1-fb38-4d6d-b3d3-032e90b49d00",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apdft&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pdft?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/63f71b68-92f6-4683-b763-27e6684c33ab/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2b8c2882-dbca-466a-a0af-dd1d65edfe7c&unique=prints",
+  "collector_number": "214s",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ron Spencer",
+  "artist_ids": [
+    "dab52c11-0564-4207-a4a1-c1735c946a65"
+  ],
+  "illustration_id": "c853cf43-3365-4647-adfe-bdfdbf1d9251",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 15388,
+  "prices": {
+    "usd": null,
+    "usd_foil": "2.35",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMimeoplasm%252C%2BRevered%2BOne",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMimeoplasm%252C%2BRevered%2BOne",
+    "edhrec": "https://edhrec.com/route/?cc=Mimeoplasm%2C+Revered+One"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F616800%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mimeoplasm%2C+Revered+One&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mimeoplasm%2C+Revered+One&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "object": "card",
+  "id": "428edb41-faf4-4619-ad91-0df8b5a87865",
+  "oracle_id": "b1a23235-3076-475c-a68a-db29cf2a9dba",
+  "multiverse_ids": [
+    547541
+  ],
+  "arena_id": 73850,
+  "name": "Pull from Tomorrow",
+  "lang": "en",
+  "released_at": "2020-08-13",
+  "uri": "https://api.scryfall.com/cards/428edb41-faf4-4619-ad91-0df8b5a87865",
+  "scryfall_uri": "https://scryfall.com/card/akr/74/pull-from-tomorrow?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/2/428edb41-faf4-4619-ad91-0df8b5a87865.jpg?1597173290",
+    "normal": "https://cards.scryfall.io/normal/front/4/2/428edb41-faf4-4619-ad91-0df8b5a87865.jpg?1597173290",
+    "large": "https://cards.scryfall.io/large/front/4/2/428edb41-faf4-4619-ad91-0df8b5a87865.jpg?1597173290",
+    "png": "https://cards.scryfall.io/png/front/4/2/428edb41-faf4-4619-ad91-0df8b5a87865.png?1597173290",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/2/428edb41-faf4-4619-ad91-0df8b5a87865.jpg?1597173290",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/2/428edb41-faf4-4619-ad91-0df8b5a87865.jpg?1597173290"
+  },
+  "mana_cost": "{X}{U}{U}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Draw X cards, then discard a card.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "915dabb1-b82a-432d-939d-d9b128e65582",
+  "set": "akr",
+  "set_name": "Amonkhet Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/915dabb1-b82a-432d-939d-d9b128e65582",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aakr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/akr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/428edb41-faf4-4619-ad91-0df8b5a87865/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab1a23235-3076-475c-a68a-db29cf2a9dba&unique=prints",
+  "collector_number": "74",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Sara Winters",
+  "artist_ids": [
+    "56be33dc-a2da-40e9-a4f7-94077dcea31e"
+  ],
+  "illustration_id": "9e4671f9-9657-4bd0-8b05-df175f512d46",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 905,
+  "penny_rank": 1253,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547541&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPull%2Bfrom%2BTomorrow",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPull%2Bfrom%2BTomorrow",
+    "edhrec": "https://edhrec.com/route/?cc=Pull+from+Tomorrow"
+  }
+}

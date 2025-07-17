@@ -1,0 +1,160 @@
+{
+  "object": "card",
+  "id": "24484578-7885-4125-b95f-e677d970a5a1",
+  "oracle_id": "4457ed35-7c10-48c8-9776-456485fdf070",
+  "multiverse_ids": [],
+  "tcgplayer_id": 588036,
+  "cardmarket_id": 794087,
+  "name": "Lightning Bolt",
+  "lang": "en",
+  "released_at": "2024-11-04",
+  "uri": "https://api.scryfall.com/cards/24484578-7885-4125-b95f-e677d970a5a1",
+  "scryfall_uri": "https://scryfall.com/card/sld/1743/lightning-bolt?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/4/24484578-7885-4125-b95f-e677d970a5a1.jpg?1729272954",
+    "normal": "https://cards.scryfall.io/normal/front/2/4/24484578-7885-4125-b95f-e677d970a5a1.jpg?1729272954",
+    "large": "https://cards.scryfall.io/large/front/2/4/24484578-7885-4125-b95f-e677d970a5a1.jpg?1729272954",
+    "png": "https://cards.scryfall.io/png/front/2/4/24484578-7885-4125-b95f-e677d970a5a1.png?1729272954",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/4/24484578-7885-4125-b95f-e677d970a5a1.jpg?1729272954",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/4/24484578-7885-4125-b95f-e677d970a5a1.jpg?1729272954"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "oracle_text": "Lightning Bolt deals 3 damage to any target.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "5a763474-5ce9-48cc-aaf8-8ca363df4430",
+      "component": "combo_piece",
+      "name": "Lightning Bolt",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/5a763474-5ce9-48cc-aaf8-8ca363df4430"
+    },
+    {
+      "object": "related_card",
+      "id": "4f095067-cf24-4061-8626-dc68a66a0b36",
+      "component": "combo_piece",
+      "name": "Toralf's Disciple",
+      "type_line": "Creature — Human Warrior",
+      "uri": "https://api.scryfall.com/cards/4f095067-cf24-4061-8626-dc68a66a0b36"
+    },
+    {
+      "object": "related_card",
+      "id": "69b51576-532b-450e-a8bf-0482cac04618",
+      "component": "combo_piece",
+      "name": "Thayan Evokers",
+      "type_line": "Creature — Human Wizard",
+      "uri": "https://api.scryfall.com/cards/69b51576-532b-450e-a8bf-0482cac04618"
+    },
+    {
+      "object": "related_card",
+      "id": "618806ea-7ea8-4cfb-a8c1-c3defa34e7dd",
+      "component": "combo_piece",
+      "name": "Indris, the Hydrostatic Surge",
+      "type_line": "Legendary Creature — Otter Incarnation",
+      "uri": "https://api.scryfall.com/cards/618806ea-7ea8-4cfb-a8c1-c3defa34e7dd"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "banned",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/24484578-7885-4125-b95f-e677d970a5a1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4457ed35-7c10-48c8-9776-456485fdf070&unique=prints",
+  "collector_number": "1743",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"The elements marshal their infinite might at my beckoning! Power seethes in the roiling clouds! Now, at my command-STRIKE!\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Francisco Miyara",
+  "artist_ids": [
+    "fa64fc53-a243-4a94-a4d2-97625ea24b4f"
+  ],
+  "illustration_id": "5ad2bf57-824a-47ae-96b1-db631907fbe9",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "triangle",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 172,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2024-10-18"
+  },
+  "prices": {
+    "usd": "3.80",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "4.17",
+    "eur_foil": "4.43",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLightning%2BBolt",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLightning%2BBolt",
+    "edhrec": "https://edhrec.com/route/?cc=Lightning+Bolt"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F588036%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=794087&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lightning+Bolt&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "c8cf5c70-25e8-489a-9cab-ce45eab191ed",
+  "oracle_id": "cae6d903-3fd6-422d-b21b-92201b78fa1b",
+  "multiverse_ids": [
+    516898
+  ],
+  "tcgplayer_id": 236040,
+  "cardmarket_id": 558001,
+  "name": "Fervent Mastery",
+  "lang": "en",
+  "released_at": "2021-04-23",
+  "uri": "https://api.scryfall.com/cards/c8cf5c70-25e8-489a-9cab-ce45eab191ed",
+  "scryfall_uri": "https://scryfall.com/card/stx/311/fervent-mastery?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/8/c8cf5c70-25e8-489a-9cab-ce45eab191ed.jpg?1624741879",
+    "normal": "https://cards.scryfall.io/normal/front/c/8/c8cf5c70-25e8-489a-9cab-ce45eab191ed.jpg?1624741879",
+    "large": "https://cards.scryfall.io/large/front/c/8/c8cf5c70-25e8-489a-9cab-ce45eab191ed.jpg?1624741879",
+    "png": "https://cards.scryfall.io/png/front/c/8/c8cf5c70-25e8-489a-9cab-ce45eab191ed.png?1624741879",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/8/c8cf5c70-25e8-489a-9cab-ce45eab191ed.jpg?1624741879",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/8/c8cf5c70-25e8-489a-9cab-ce45eab191ed.jpg?1624741879"
+  },
+  "mana_cost": "{3}{R}{R}",
+  "cmc": 5,
+  "type_line": "Sorcery",
+  "oracle_text": "You may pay {2}{R}{R} rather than pay this spell's mana cost.\nIf the {2}{R}{R} cost was paid, an opponent discards any number of cards, then draws that many cards.\nSearch your library for up to three cards, put them into your hand, shuffle, then discard three cards at random.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
+  "set": "stx",
+  "set_name": "Strixhaven: School of Mages",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/541c3c28-8747-40e5-a231-8e8f33234859",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Astx&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/stx?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c8cf5c70-25e8-489a-9cab-ce45eab191ed/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acae6d903-3fd6-422d-b21b-92201b78fa1b&unique=prints",
+  "collector_number": "311",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Sean Sevestre",
+  "artist_ids": [
+    "711d2a24-64ca-48af-b1cf-5b448f60a1b5"
+  ],
+  "illustration_id": "e3c7e250-d345-4130-a258-2c1b1fcfde96",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 11675,
+  "penny_rank": 12075,
+  "preview": {
+    "source": "Amy the Amazonian",
+    "source_uri": "https://twitter.com/coL_Amazonian/status/1377296266049298441",
+    "previewed_at": "2021-04-01"
+  },
+  "prices": {
+    "usd": "0.28",
+    "usd_foil": "0.25",
+    "usd_etched": null,
+    "eur": "0.48",
+    "eur_foil": "0.28",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=516898&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFervent%2BMastery",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFervent%2BMastery",
+    "edhrec": "https://edhrec.com/route/?cc=Fervent+Mastery"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F236040%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=558001&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Fervent+Mastery&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

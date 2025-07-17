@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "213112df-439b-454e-ade4-90e4176411c5",
+  "oracle_id": "145ef633-a2e0-4bd9-a866-5767821eb44f",
+  "multiverse_ids": [
+    545238
+  ],
+  "arena_id": 79197,
+  "tcgplayer_id": 252949,
+  "cardmarket_id": 581372,
+  "name": "Dominating Vampire",
+  "lang": "en",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/213112df-439b-454e-ade4-90e4176411c5",
+  "scryfall_uri": "https://scryfall.com/card/vow/305/dominating-vampire?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/1/213112df-439b-454e-ade4-90e4176411c5.jpg?1645055101",
+    "normal": "https://cards.scryfall.io/normal/front/2/1/213112df-439b-454e-ade4-90e4176411c5.jpg?1645055101",
+    "large": "https://cards.scryfall.io/large/front/2/1/213112df-439b-454e-ade4-90e4176411c5.jpg?1645055101",
+    "png": "https://cards.scryfall.io/png/front/2/1/213112df-439b-454e-ade4-90e4176411c5.png?1645055101",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/1/213112df-439b-454e-ade4-90e4176411c5.jpg?1645055101",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/1/213112df-439b-454e-ade4-90e4176411c5.jpg?1645055101"
+  },
+  "mana_cost": "{1}{R}{R}",
+  "cmc": 3,
+  "type_line": "Creature — Vampire",
+  "oracle_text": "When this creature enters, gain control of target creature with mana value less than or equal to the number of Vampires you control until end of turn. Untap that creature. It gains haste until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/vow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/213112df-439b-454e-ade4-90e4176411c5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A145ef633-a2e0-4bd9-a866-5767821eb44f&unique=prints",
+  "collector_number": "305",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Christian Angel",
+  "artist_ids": [
+    "ed4192ab-736c-4639-b991-28f8617a1fd4"
+  ],
+  "illustration_id": "97742a3d-f72d-4b85-b7cf-1310f40bc5aa",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 10864,
+  "penny_rank": 6782,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/1189365133",
+    "previewed_at": "2021-10-28"
+  },
+  "prices": {
+    "usd": "0.27",
+    "usd_foil": "0.46",
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": "0.43",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=545238&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDominating%2BVampire",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDominating%2BVampire",
+    "edhrec": "https://edhrec.com/route/?cc=Dominating+Vampire"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F252949%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=581372&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dominating+Vampire&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

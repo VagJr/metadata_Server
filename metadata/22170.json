@@ -1,0 +1,175 @@
+{
+  "object": "card",
+  "id": "34274e5e-31e4-4e4d-9ff9-04074214a60e",
+  "oracle_id": "5df44b8d-b337-49d8-8427-34253f52cb47",
+  "multiverse_ids": [],
+  "tcgplayer_id": 514433,
+  "name": "Decadent Dragon // Expensive Taste",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/34274e5e-31e4-4e4d-9ff9-04074214a60e",
+  "scryfall_uri": "https://scryfall.com/card/pwoe/223s/decadent-dragon-expensive-taste?utm_source=api",
+  "layout": "adventure",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/4/34274e5e-31e4-4e4d-9ff9-04074214a60e.jpg?1694311941",
+    "normal": "https://cards.scryfall.io/normal/front/3/4/34274e5e-31e4-4e4d-9ff9-04074214a60e.jpg?1694311941",
+    "large": "https://cards.scryfall.io/large/front/3/4/34274e5e-31e4-4e4d-9ff9-04074214a60e.jpg?1694311941",
+    "png": "https://cards.scryfall.io/png/front/3/4/34274e5e-31e4-4e4d-9ff9-04074214a60e.png?1694311941",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/4/34274e5e-31e4-4e4d-9ff9-04074214a60e.jpg?1694311941",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/4/34274e5e-31e4-4e4d-9ff9-04074214a60e.jpg?1694311941"
+  },
+  "mana_cost": "{2}{R}{R} // {2}{B}",
+  "cmc": 4,
+  "type_line": "Creature — Dragon // Instant — Adventure",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [
+    "Flying",
+    "Treasure",
+    "Trample"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Decadent Dragon",
+      "mana_cost": "{2}{R}{R}",
+      "type_line": "Creature — Dragon",
+      "oracle_text": "Flying, trample\nWhenever this creature attacks, create a Treasure token.",
+      "power": "4",
+      "toughness": "4",
+      "artist": "Wylie Beckert",
+      "artist_id": "074daf3d-0849-4c4a-b5a5-c276384e81e5",
+      "illustration_id": "822f4129-50da-4d66-b6ac-2380c8fdcbb0"
+    },
+    {
+      "object": "card_face",
+      "name": "Expensive Taste",
+      "mana_cost": "{2}{B}",
+      "type_line": "Instant — Adventure",
+      "oracle_text": "Exile the top two cards of target opponent's library face down. You may look at and play those cards for as long as they remain exiled.",
+      "artist": "Wylie Beckert",
+      "artist_id": "074daf3d-0849-4c4a-b5a5-c276384e81e5"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "73cbf189-a79b-4dca-8b29-33aef6306b5a",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/73cbf189-a79b-4dca-8b29-33aef6306b5a"
+    },
+    {
+      "object": "related_card",
+      "id": "34274e5e-31e4-4e4d-9ff9-04074214a60e",
+      "component": "combo_piece",
+      "name": "Decadent Dragon // Expensive Taste",
+      "type_line": "Creature — Dragon // Instant — Adventure",
+      "uri": "https://api.scryfall.com/cards/34274e5e-31e4-4e4d-9ff9-04074214a60e"
+    },
+    {
+      "object": "related_card",
+      "id": "fcf4c7fb-7859-4c11-8552-6817f5119d2e",
+      "component": "combo_piece",
+      "name": "On an Adventure",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/fcf4c7fb-7859-4c11-8552-6817f5119d2e"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "909bf1bb-3277-41d6-af0f-293df1203099",
+  "set": "pwoe",
+  "set_name": "Wilds of Eldraine Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/909bf1bb-3277-41d6-af0f-293df1203099",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwoe&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwoe?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/34274e5e-31e4-4e4d-9ff9-04074214a60e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5df44b8d-b337-49d8-8427-34253f52cb47&unique=prints",
+  "collector_number": "223s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wylie Beckert",
+  "artist_ids": [
+    "074daf3d-0849-4c4a-b5a5-c276384e81e5"
+  ],
+  "illustration_id": "822f4129-50da-4d66-b6ac-2380c8fdcbb0",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 2225,
+  "penny_rank": 1599,
+  "prices": {
+    "usd": null,
+    "usd_foil": "2.21",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDecadent%2BDragon%2B%252F%252F%2BExpensive%2BTaste",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDecadent%2BDragon%2B%252F%252F%2BExpensive%2BTaste",
+    "edhrec": "https://edhrec.com/route/?cc=Decadent+Dragon"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F514433%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Decadent+Dragon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Decadent+Dragon&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

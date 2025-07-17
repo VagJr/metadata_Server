@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "b7210c3a-bbd3-4f3a-933b-a5618a4f7a52",
+  "oracle_id": "0d4ecdb1-ec90-497f-a7a4-1c68092b8757",
+  "multiverse_ids": [],
+  "tcgplayer_id": 539217,
+  "cardmarket_id": 757031,
+  "name": "Teferi's Protection",
+  "lang": "en",
+  "released_at": "2024-02-26",
+  "uri": "https://api.scryfall.com/cards/b7210c3a-bbd3-4f3a-933b-a5618a4f7a52",
+  "scryfall_uri": "https://scryfall.com/card/sld/1691/teferis-protection?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/7/b7210c3a-bbd3-4f3a-933b-a5618a4f7a52.jpg?1733142203",
+    "normal": "https://cards.scryfall.io/normal/front/b/7/b7210c3a-bbd3-4f3a-933b-a5618a4f7a52.jpg?1733142203",
+    "large": "https://cards.scryfall.io/large/front/b/7/b7210c3a-bbd3-4f3a-933b-a5618a4f7a52.jpg?1733142203",
+    "png": "https://cards.scryfall.io/png/front/b/7/b7210c3a-bbd3-4f3a-933b-a5618a4f7a52.png?1733142203",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/7/b7210c3a-bbd3-4f3a-933b-a5618a4f7a52.jpg?1733142203",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/7/b7210c3a-bbd3-4f3a-933b-a5618a4f7a52.jpg?1733142203"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Instant",
+  "oracle_text": "Until your next turn, your life total can't change and you gain protection from everything. All permanents you control phase out. (While they're phased out, they're treated as though they don't exist. They phase in before you untap during your untap step.)\nExile Teferi's Protection.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": true,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b7210c3a-bbd3-4f3a-933b-a5618a4f7a52/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0d4ecdb1-ec90-497f-a7a4-1c68092b8757&unique=prints",
+  "collector_number": "1691",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"If you're doing it alone, you're doing it wrong.\"\n—Sheldon Menery",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steve Argyle",
+  "artist_ids": [
+    "a44ddda4-5331-4f83-aac9-3e00ed36bd7b"
+  ],
+  "illustration_id": "74ecee45-f3d5-442e-a3a6-27a61e71fa78",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 85,
+  "prices": {
+    "usd": "49.42",
+    "usd_foil": "49.60",
+    "usd_etched": null,
+    "eur": "38.64",
+    "eur_foil": "42.55",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTeferi%2527s%2BProtection",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTeferi%2527s%2BProtection",
+    "edhrec": "https://edhrec.com/route/?cc=Teferi%27s+Protection"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F539217%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=757031&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Teferi%27s+Protection&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

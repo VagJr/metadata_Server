@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "529ae7c1-320d-4625-ad64-c87678d51354",
+  "oracle_id": "70fbb378-d905-47cf-8c54-cc166a7867b3",
+  "multiverse_ids": [],
+  "tcgplayer_id": 635778,
+  "name": "Kain, Traitorous Dragoon",
+  "lang": "en",
+  "released_at": "2025-06-13",
+  "uri": "https://api.scryfall.com/cards/529ae7c1-320d-4625-ad64-c87678d51354",
+  "scryfall_uri": "https://scryfall.com/card/pfin/105s/kain-traitorous-dragoon?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/2/529ae7c1-320d-4625-ad64-c87678d51354.jpg?1750536849",
+    "normal": "https://cards.scryfall.io/normal/front/5/2/529ae7c1-320d-4625-ad64-c87678d51354.jpg?1750536849",
+    "large": "https://cards.scryfall.io/large/front/5/2/529ae7c1-320d-4625-ad64-c87678d51354.jpg?1750536849",
+    "png": "https://cards.scryfall.io/png/front/5/2/529ae7c1-320d-4625-ad64-c87678d51354.png?1750536849",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/2/529ae7c1-320d-4625-ad64-c87678d51354.jpg?1750536849",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/2/529ae7c1-320d-4625-ad64-c87678d51354.jpg?1750536849"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Human Knight",
+  "oracle_text": "Jump — During your turn, Kain has flying.\nWhenever Kain deals combat damage to a player, that player gains control of Kain. If they do, you draw that many cards, create that many tapped Treasure tokens, then lose that much life.",
+  "power": "2",
+  "toughness": "4",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Jump",
+    "Treasure"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e5f4f810-f95a-41ac-9c3b-47254c03e766",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/e5f4f810-f95a-41ac-9c3b-47254c03e766"
+    },
+    {
+      "object": "related_card",
+      "id": "529ae7c1-320d-4625-ad64-c87678d51354",
+      "component": "combo_piece",
+      "name": "Kain, Traitorous Dragoon",
+      "type_line": "Legendary Creature — Human Knight",
+      "uri": "https://api.scryfall.com/cards/529ae7c1-320d-4625-ad64-c87678d51354"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "ff405aba-0309-4694-a6d5-e657024f7ad0",
+  "set": "pfin",
+  "set_name": "Final Fantasy Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/ff405aba-0309-4694-a6d5-e657024f7ad0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apfin&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pfin?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/529ae7c1-320d-4625-ad64-c87678d51354/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A70fbb378-d905-47cf-8c54-cc166a7867b3&unique=prints",
+  "collector_number": "105s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Russell Dongjun Lu",
+  "artist_ids": [
+    "c3b265fe-5182-4b97-9086-14aeba814c21"
+  ],
+  "illustration_id": "96a2d1eb-e815-4c07-b64e-081f759d2be9",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 13996,
+  "penny_rank": 2183,
+  "prices": {
+    "usd": null,
+    "usd_foil": "8.16",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKain%252C%2BTraitorous%2BDragoon",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKain%252C%2BTraitorous%2BDragoon",
+    "edhrec": "https://edhrec.com/route/?cc=Kain%2C+Traitorous+Dragoon"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F635778%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kain%2C+Traitorous+Dragoon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kain%2C+Traitorous+Dragoon&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

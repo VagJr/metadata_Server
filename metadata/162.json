@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "00541f77-f1ca-4de5-b080-de2dcdfe17e7",
+  "oracle_id": "739bbf44-9169-4749-abea-21c20823915f",
+  "multiverse_ids": [
+    580318
+  ],
+  "tcgplayer_id": 283227,
+  "name": "Cadric, Soul Kindler",
+  "lang": "en",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/00541f77-f1ca-4de5-b080-de2dcdfe17e7",
+  "scryfall_uri": "https://scryfall.com/card/dmc/86/cadric-soul-kindler?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/0/00541f77-f1ca-4de5-b080-de2dcdfe17e7.jpg?1686851869",
+    "normal": "https://cards.scryfall.io/normal/front/0/0/00541f77-f1ca-4de5-b080-de2dcdfe17e7.jpg?1686851869",
+    "large": "https://cards.scryfall.io/large/front/0/0/00541f77-f1ca-4de5-b080-de2dcdfe17e7.jpg?1686851869",
+    "png": "https://cards.scryfall.io/png/front/0/0/00541f77-f1ca-4de5-b080-de2dcdfe17e7.png?1686851869",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/0/00541f77-f1ca-4de5-b080-de2dcdfe17e7.jpg?1686851869",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/0/00541f77-f1ca-4de5-b080-de2dcdfe17e7.jpg?1686851869"
+  },
+  "mana_cost": "{2}{R}{W}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Dwarf Wizard",
+  "oracle_text": "The \"legend rule\" doesn't apply to tokens you control.\nWhenever another nontoken legendary permanent you control enters, you may pay {1}. If you do, create a token that's a copy of it. That token gains haste. Sacrifice it at the beginning of the next end step.",
+  "power": "4",
+  "toughness": "3",
+  "colors": [
+    "R",
+    "W"
+  ],
+  "color_identity": [
+    "R",
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "00541f77-f1ca-4de5-b080-de2dcdfe17e7",
+      "component": "combo_piece",
+      "name": "Cadric, Soul Kindler",
+      "type_line": "Legendary Creature — Dwarf Wizard",
+      "uri": "https://api.scryfall.com/cards/00541f77-f1ca-4de5-b080-de2dcdfe17e7"
+    },
+    {
+      "object": "related_card",
+      "id": "09d6521e-438a-4d16-992f-f2ab27b26ce4",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/09d6521e-438a-4d16-992f-f2ab27b26ce4"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "78076b27-f888-4723-b27c-44074accd261",
+  "set": "dmc",
+  "set_name": "Dominaria United Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/78076b27-f888-4723-b27c-44074accd261",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dmc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/00541f77-f1ca-4de5-b080-de2dcdfe17e7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A739bbf44-9169-4749-abea-21c20823915f&unique=prints",
+  "collector_number": "86",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Joseph Weston",
+  "artist_ids": [
+    "50365a81-fa9f-4fcf-aa83-6a57c63ad43e"
+  ],
+  "illustration_id": "721c7c1d-a9ad-46d8-a242-8e2ee06c04de",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart",
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 4037,
+  "prices": {
+    "usd": "5.02",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=580318&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCadric%252C%2BSoul%2BKindler",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCadric%252C%2BSoul%2BKindler",
+    "edhrec": "https://edhrec.com/route/?cc=Cadric%2C+Soul+Kindler"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F283227%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cadric%2C+Soul+Kindler&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cadric%2C+Soul+Kindler&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "774c25d1-7e31-4e67-8601-a3b4c9320223",
+  "oracle_id": "dcb9337b-d5fd-4cd2-a41f-900d170a5ded",
+  "multiverse_ids": [
+    580608
+  ],
+  "tcgplayer_id": 287256,
+  "cardmarket_id": 676519,
+  "name": "The Most Dangerous Gamer",
+  "lang": "en",
+  "released_at": "2022-10-07",
+  "uri": "https://api.scryfall.com/cards/774c25d1-7e31-4e67-8601-a3b4c9320223",
+  "scryfall_uri": "https://scryfall.com/card/unf/266/the-most-dangerous-gamer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/7/774c25d1-7e31-4e67-8601-a3b4c9320223.jpg?1673916668",
+    "normal": "https://cards.scryfall.io/normal/front/7/7/774c25d1-7e31-4e67-8601-a3b4c9320223.jpg?1673916668",
+    "large": "https://cards.scryfall.io/large/front/7/7/774c25d1-7e31-4e67-8601-a3b4c9320223.jpg?1673916668",
+    "png": "https://cards.scryfall.io/png/front/7/7/774c25d1-7e31-4e67-8601-a3b4c9320223.png?1673916668",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/7/774c25d1-7e31-4e67-8601-a3b4c9320223.jpg?1673916668",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/7/774c25d1-7e31-4e67-8601-a3b4c9320223.jpg?1673916668"
+  },
+  "mana_cost": "{2}{B}{G}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Human Gamer Guest",
+  "oracle_text": "Deathtouch\nWhenever The Most Dangerous Gamer enters or attacks, open an Attraction.\nWhenever you open an Attraction, put a +1/+1 counter on The Most Dangerous Gamer.\nWhenever you claim the prize of an Attraction, destroy target permanent.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B",
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [
+    "Deathtouch",
+    "Open an Attraction"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "banned",
+    "pauper": "not_legal",
+    "vintage": "banned",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "banned",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "banned",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "b314f553-8f07-4ba9-96c8-16be7784eff3",
+  "set": "unf",
+  "set_name": "Unfinity",
+  "set_type": "funny",
+  "set_uri": "https://api.scryfall.com/sets/b314f553-8f07-4ba9-96c8-16be7784eff3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aunf&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/unf?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/774c25d1-7e31-4e67-8601-a3b4c9320223/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adcb9337b-d5fd-4cd2-a41f-900d170a5ded&unique=prints",
+  "collector_number": "266",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "set",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Scooter",
+  "artist_ids": [
+    "1ee6c74f-9ed7-4240-97fd-4864ad2da98e"
+  ],
+  "illustration_id": "b000378c-a1c9-42c1-8079-3c84eeda80e9",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 15029,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/most-dangerous-gamer-2022-09-22",
+    "previewed_at": "2022-09-22"
+  },
+  "prices": {
+    "usd": "0.18",
+    "usd_foil": "0.20",
+    "usd_etched": null,
+    "eur": "0.16",
+    "eur_foil": "0.17",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=580608&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThe%2BMost%2BDangerous%2BGamer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThe%2BMost%2BDangerous%2BGamer",
+    "edhrec": "https://edhrec.com/route/?cc=The+Most+Dangerous+Gamer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F287256%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=676519&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=The+Most+Dangerous+Gamer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

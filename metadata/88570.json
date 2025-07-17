@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "d0f8dccb-1178-44bd-8572-7da607057fb0",
+  "oracle_id": "158d0272-a850-4399-8afa-d0caa143c3cb",
+  "multiverse_ids": [],
+  "tcgplayer_id": 625728,
+  "name": "Avenger of the Fallen",
+  "lang": "en",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/d0f8dccb-1178-44bd-8572-7da607057fb0",
+  "scryfall_uri": "https://scryfall.com/card/ptdm/73p/avenger-of-the-fallen?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/0/d0f8dccb-1178-44bd-8572-7da607057fb0.jpg?1744666490",
+    "normal": "https://cards.scryfall.io/normal/front/d/0/d0f8dccb-1178-44bd-8572-7da607057fb0.jpg?1744666490",
+    "large": "https://cards.scryfall.io/large/front/d/0/d0f8dccb-1178-44bd-8572-7da607057fb0.jpg?1744666490",
+    "png": "https://cards.scryfall.io/png/front/d/0/d0f8dccb-1178-44bd-8572-7da607057fb0.png?1744666490",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/0/d0f8dccb-1178-44bd-8572-7da607057fb0.jpg?1744666490",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/0/d0f8dccb-1178-44bd-8572-7da607057fb0.jpg?1744666490"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3,
+  "type_line": "Creature — Human Warrior",
+  "oracle_text": "Deathtouch\nMobilize X, where X is the number of creature cards in your graveyard. (Whenever this creature attacks, create X tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)",
+  "power": "2",
+  "toughness": "4",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Mobilize",
+    "Deathtouch"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "1d533922-0bb3-491c-b94b-1bd74fbb7cf0",
+      "component": "combo_piece",
+      "name": "Avenger of the Fallen",
+      "type_line": "Creature — Human Warrior",
+      "uri": "https://api.scryfall.com/cards/1d533922-0bb3-491c-b94b-1bd74fbb7cf0"
+    },
+    {
+      "object": "related_card",
+      "id": "7edc0515-a130-45a7-aa09-0e23bba41587",
+      "component": "token",
+      "name": "Warrior",
+      "type_line": "Token Creature — Warrior",
+      "uri": "https://api.scryfall.com/cards/7edc0515-a130-45a7-aa09-0e23bba41587"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "f17bfc1b-a0dc-45df-9585-84d8d433124f",
+  "set": "ptdm",
+  "set_name": "Tarkir: Dragonstorm Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/f17bfc1b-a0dc-45df-9585-84d8d433124f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aptdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ptdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d0f8dccb-1178-44bd-8572-7da607057fb0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A158d0272-a850-4399-8afa-d0caa143c3cb&unique=prints",
+  "collector_number": "73p",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "mardu",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Winona Nelson",
+  "artist_ids": [
+    "e45fe8d3-75d6-42c9-a2df-e945ad81ea27"
+  ],
+  "illustration_id": "22f6c767-d6f1-4e8f-a021-7d9c3bf55dd7",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 6417,
+  "prices": {
+    "usd": "0.72",
+    "usd_foil": "0.42",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAvenger%2Bof%2Bthe%2BFallen",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAvenger%2Bof%2Bthe%2BFallen",
+    "edhrec": "https://edhrec.com/route/?cc=Avenger+of+the+Fallen"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F625728%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Avenger+of+the+Fallen&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Avenger+of+the+Fallen&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

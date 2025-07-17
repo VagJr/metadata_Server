@@ -1,0 +1,116 @@
+{
+  "object": "card",
+  "id": "f10995e5-86ea-4081-97ce-daed98b8dd5c",
+  "oracle_id": "16d8ee99-8ec8-429f-9ba7-818a74b6f910",
+  "multiverse_ids": [],
+  "mtgo_id": 61056,
+  "name": "Gush",
+  "lang": "en",
+  "released_at": "2016-10-28",
+  "uri": "https://api.scryfall.com/cards/f10995e5-86ea-4081-97ce-daed98b8dd5c",
+  "scryfall_uri": "https://scryfall.com/card/prm/61056/gush?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/1/f10995e5-86ea-4081-97ce-daed98b8dd5c.jpg?1562549075",
+    "normal": "https://cards.scryfall.io/normal/front/f/1/f10995e5-86ea-4081-97ce-daed98b8dd5c.jpg?1562549075",
+    "large": "https://cards.scryfall.io/large/front/f/1/f10995e5-86ea-4081-97ce-daed98b8dd5c.jpg?1562549075",
+    "png": "https://cards.scryfall.io/png/front/f/1/f10995e5-86ea-4081-97ce-daed98b8dd5c.png?1562549075",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/1/f10995e5-86ea-4081-97ce-daed98b8dd5c.jpg?1562549075",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/1/f10995e5-86ea-4081-97ce-daed98b8dd5c.jpg?1562549075"
+  },
+  "mana_cost": "{4}{U}",
+  "cmc": 5,
+  "type_line": "Instant",
+  "oracle_text": "You may return two Islands you control to their owner's hand rather than pay this spell's mana cost.\nDraw two cards.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "banned",
+    "pauper": "banned",
+    "vintage": "restricted",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f10995e5-86ea-4081-97ce-daed98b8dd5c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A16d8ee99-8ec8-429f-9ba7-818a74b6f910&unique=prints",
+  "collector_number": "61056",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Franz Vohwinkel",
+  "artist_ids": [
+    "3a243c17-3baa-4b53-9599-645311cd7d3d"
+  ],
+  "illustration_id": "5e46e6cf-f063-4bc0-bb75-1935d610da26",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5289,
+  "penny_rank": 129,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGush",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGush",
+    "edhrec": "https://edhrec.com/route/?cc=Gush"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DGush%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gush&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/61056?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

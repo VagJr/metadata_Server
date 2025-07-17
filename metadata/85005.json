@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "c8c6bdde-cd19-4371-b51a-45c7ff8b6dbe",
+  "oracle_id": "434a20f8-3f87-4004-9155-0f196fc2257e",
+  "multiverse_ids": [
+    636193
+  ],
+  "mtgo_id": 119582,
+  "tcgplayer_id": 526169,
+  "cardmarket_id": 738051,
+  "name": "Rising of the Day",
+  "lang": "en",
+  "released_at": "2023-11-03",
+  "uri": "https://api.scryfall.com/cards/c8c6bdde-cd19-4371-b51a-45c7ff8b6dbe",
+  "scryfall_uri": "https://scryfall.com/card/ltr/596/rising-of-the-day?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/8/c8c6bdde-cd19-4371-b51a-45c7ff8b6dbe.jpg?1695448395",
+    "normal": "https://cards.scryfall.io/normal/front/c/8/c8c6bdde-cd19-4371-b51a-45c7ff8b6dbe.jpg?1695448395",
+    "large": "https://cards.scryfall.io/large/front/c/8/c8c6bdde-cd19-4371-b51a-45c7ff8b6dbe.jpg?1695448395",
+    "png": "https://cards.scryfall.io/png/front/c/8/c8c6bdde-cd19-4371-b51a-45c7ff8b6dbe.png?1695448395",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/8/c8c6bdde-cd19-4371-b51a-45c7ff8b6dbe.jpg?1695448395",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/8/c8c6bdde-cd19-4371-b51a-45c7ff8b6dbe.jpg?1695448395"
+  },
+  "mana_cost": "{2}{R}",
+  "cmc": 3,
+  "type_line": "Enchantment",
+  "oracle_text": "Creatures you control have haste.\nLegendary creatures you control get +1/+0.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "08078706-ac5d-439b-8f01-894d38751367",
+  "set": "ltr",
+  "set_name": "The Lord of the Rings: Tales of Middle-earth",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/08078706-ac5d-439b-8f01-894d38751367",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c8c6bdde-cd19-4371-b51a-45c7ff8b6dbe/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A434a20f8-3f87-4004-9155-0f196fc2257e&unique=prints",
+  "collector_number": "596",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Over the low hills the horns were sounding. Hastening down the long slopes were a thousand men on foot; their swords were in their hands.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wei Guan",
+  "artist_ids": [
+    "6bd18163-aa22-4a41-82f6-8cdb8269d3c8"
+  ],
+  "illustration_id": "3fb129bc-143a-4673-a0c5-e7a2b3ba9f18",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "silverfoil",
+    "scroll",
+    "boosterfun"
+  ],
+  "edhrec_rank": 565,
+  "prices": {
+    "usd": "1.86",
+    "usd_foil": "2.22",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.98",
+    "tix": "0.11"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=636193&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRising%2Bof%2Bthe%2BDay",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRising%2Bof%2Bthe%2BDay",
+    "edhrec": "https://edhrec.com/route/?cc=Rising+of+the+Day"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F526169%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=738051&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/119582?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

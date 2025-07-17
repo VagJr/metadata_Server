@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "db45c616-ea32-4e7e-86bf-84fb1e95dc7f",
+  "oracle_id": "282003f4-862a-4f80-8f45-e470fc0fe2fe",
+  "multiverse_ids": [],
+  "tcgplayer_id": 582874,
+  "name": "Blightwidow",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/db45c616-ea32-4e7e-86bf-84fb1e95dc7f",
+  "scryfall_uri": "https://scryfall.com/card/plst/MBS-77/blightwidow?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/b/db45c616-ea32-4e7e-86bf-84fb1e95dc7f.jpg?1723439372",
+    "normal": "https://cards.scryfall.io/normal/front/d/b/db45c616-ea32-4e7e-86bf-84fb1e95dc7f.jpg?1723439372",
+    "large": "https://cards.scryfall.io/large/front/d/b/db45c616-ea32-4e7e-86bf-84fb1e95dc7f.jpg?1723439372",
+    "png": "https://cards.scryfall.io/png/front/d/b/db45c616-ea32-4e7e-86bf-84fb1e95dc7f.png?1723439372",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/b/db45c616-ea32-4e7e-86bf-84fb1e95dc7f.jpg?1723439372",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/b/db45c616-ea32-4e7e-86bf-84fb1e95dc7f.jpg?1723439372"
+  },
+  "mana_cost": "{3}{G}",
+  "cmc": 4,
+  "type_line": "Creature — Phyrexian Spider",
+  "oracle_text": "Reach (This creature can block creatures with flying.)\nInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+  "power": "2",
+  "toughness": "4",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Reach",
+    "Infect"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "db45c616-ea32-4e7e-86bf-84fb1e95dc7f",
+      "component": "combo_piece",
+      "name": "Blightwidow",
+      "type_line": "Creature — Phyrexian Spider",
+      "uri": "https://api.scryfall.com/cards/db45c616-ea32-4e7e-86bf-84fb1e95dc7f"
+    },
+    {
+      "object": "related_card",
+      "id": "7afb0ba4-9a1b-4cd5-8d0f-2f697c6d3ab1",
+      "component": "combo_piece",
+      "name": "Poison Counter",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/7afb0ba4-9a1b-4cd5-8d0f-2f697c6d3ab1"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/db45c616-ea32-4e7e-86bf-84fb1e95dc7f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A282003f4-862a-4f80-8f45-e470fc0fe2fe&unique=prints",
+  "collector_number": "MBS-77",
+  "digital": false,
+  "rarity": "common",
+  "watermark": "phyrexian",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daniel Ljunggren",
+  "artist_ids": [
+    "0fbd4798-76eb-46d5-a5d4-1e3a25870e34"
+  ],
+  "illustration_id": "56b79864-b07e-44c7-8e95-2e7dda914614",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 11613,
+  "penny_rank": 10975,
+  "prices": {
+    "usd": "0.14",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlightwidow",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlightwidow",
+    "edhrec": "https://edhrec.com/route/?cc=Blightwidow"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F582874%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blightwidow&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blightwidow&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

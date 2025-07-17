@@ -1,0 +1,159 @@
+{
+  "object": "card",
+  "id": "c9bdcfe6-671e-4475-a48d-bfe45d8a5e01",
+  "oracle_id": "af6438b9-3fde-45c9-af69-dff686c1e0de",
+  "multiverse_ids": [],
+  "tcgplayer_id": 514332,
+  "name": "Virtue of Courage // Embereth Blaze",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/c9bdcfe6-671e-4475-a48d-bfe45d8a5e01",
+  "scryfall_uri": "https://scryfall.com/card/pwoe/157p/virtue-of-courage-embereth-blaze?utm_source=api",
+  "layout": "adventure",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/9/c9bdcfe6-671e-4475-a48d-bfe45d8a5e01.jpg?1694308597",
+    "normal": "https://cards.scryfall.io/normal/front/c/9/c9bdcfe6-671e-4475-a48d-bfe45d8a5e01.jpg?1694308597",
+    "large": "https://cards.scryfall.io/large/front/c/9/c9bdcfe6-671e-4475-a48d-bfe45d8a5e01.jpg?1694308597",
+    "png": "https://cards.scryfall.io/png/front/c/9/c9bdcfe6-671e-4475-a48d-bfe45d8a5e01.png?1694308597",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/9/c9bdcfe6-671e-4475-a48d-bfe45d8a5e01.jpg?1694308597",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/9/c9bdcfe6-671e-4475-a48d-bfe45d8a5e01.jpg?1694308597"
+  },
+  "mana_cost": "{3}{R}{R} // {1}{R}",
+  "cmc": 5,
+  "type_line": "Enchantment // Instant — Adventure",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Virtue of Courage",
+      "mana_cost": "{3}{R}{R}",
+      "type_line": "Enchantment",
+      "oracle_text": "Whenever a source you control deals noncombat damage to an opponent, you may exile that many cards from the top of your library. You may play those cards this turn.",
+      "artist": "Piotr Dura",
+      "artist_id": "aff176e8-1d15-432e-ad1d-207a474decba",
+      "illustration_id": "0a6c355b-0dde-42c1-9208-67630d196874"
+    },
+    {
+      "object": "card_face",
+      "name": "Embereth Blaze",
+      "mana_cost": "{1}{R}",
+      "type_line": "Instant — Adventure",
+      "oracle_text": "Embereth Blaze deals 2 damage to any target. (Then exile this card. You may cast the enchantment later from exile.)",
+      "artist": "Piotr Dura",
+      "artist_id": "aff176e8-1d15-432e-ad1d-207a474decba"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "fcf4c7fb-7859-4c11-8552-6817f5119d2e",
+      "component": "combo_piece",
+      "name": "On an Adventure",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/fcf4c7fb-7859-4c11-8552-6817f5119d2e"
+    },
+    {
+      "object": "related_card",
+      "id": "41d1fed9-f9b2-4fec-bdaf-d2d9ce4111ad",
+      "component": "combo_piece",
+      "name": "Virtue of Courage // Embereth Blaze",
+      "type_line": "Enchantment // Instant — Adventure",
+      "uri": "https://api.scryfall.com/cards/41d1fed9-f9b2-4fec-bdaf-d2d9ce4111ad"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "909bf1bb-3277-41d6-af0f-293df1203099",
+  "set": "pwoe",
+  "set_name": "Wilds of Eldraine Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/909bf1bb-3277-41d6-af0f-293df1203099",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwoe&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwoe?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c9bdcfe6-671e-4475-a48d-bfe45d8a5e01/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aaf6438b9-3fde-45c9-af69-dff686c1e0de&unique=prints",
+  "collector_number": "157p",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Piotr Dura",
+  "artist_ids": [
+    "aff176e8-1d15-432e-ad1d-207a474decba"
+  ],
+  "illustration_id": "0a6c355b-0dde-42c1-9208-67630d196874",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 3042,
+  "penny_rank": 4593,
+  "prices": {
+    "usd": "0.97",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVirtue%2Bof%2BCourage%2B%252F%252F%2BEmbereth%2BBlaze",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVirtue%2Bof%2BCourage%2B%252F%252F%2BEmbereth%2BBlaze",
+    "edhrec": "https://edhrec.com/route/?cc=Virtue+of+Courage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F514332%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Virtue+of+Courage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Virtue+of+Courage&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

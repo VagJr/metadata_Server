@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "cb3b6487-6a9d-4297-aa38-94cd687f8f80",
+  "oracle_id": "bc71ebf6-2056-41f7-be35-b2e5c34afa99",
+  "multiverse_ids": [
+    651992
+  ],
+  "mtgo_id": 123318,
+  "tcgplayer_id": 534537,
+  "cardmarket_id": 753228,
+  "name": "Plains",
+  "lang": "en",
+  "released_at": "2024-02-23",
+  "uri": "https://api.scryfall.com/cards/cb3b6487-6a9d-4297-aa38-94cd687f8f80",
+  "scryfall_uri": "https://scryfall.com/card/clu/257/plains?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/b/cb3b6487-6a9d-4297-aa38-94cd687f8f80.jpg?1706240313",
+    "normal": "https://cards.scryfall.io/normal/front/c/b/cb3b6487-6a9d-4297-aa38-94cd687f8f80.jpg?1706240313",
+    "large": "https://cards.scryfall.io/large/front/c/b/cb3b6487-6a9d-4297-aa38-94cd687f8f80.jpg?1706240313",
+    "png": "https://cards.scryfall.io/png/front/c/b/cb3b6487-6a9d-4297-aa38-94cd687f8f80.png?1706240313",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/b/cb3b6487-6a9d-4297-aa38-94cd687f8f80.jpg?1706240313",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/b/cb3b6487-6a9d-4297-aa38-94cd687f8f80.jpg?1706240313"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Basic Land — Plains",
+  "oracle_text": "({T}: Add {W}.)",
+  "colors": [],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "W"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d4bfabcf-a859-43a4-9d8a-665533c8b174",
+  "set": "clu",
+  "set_name": "Ravnica: Clue Edition",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d4bfabcf-a859-43a4-9d8a-665533c8b174",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/clu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/cb3b6487-6a9d-4297-aa38-94cd687f8f80/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abc71ebf6-2056-41f7-be35-b2e5c34afa99&unique=prints",
+  "collector_number": "257",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ravenna Tran",
+  "artist_ids": [
+    "e24bc1d0-446b-45e0-b215-89f581837aa4"
+  ],
+  "illustration_id": "2e4df6cb-ef49-4002-bf10-7670a5a926b7",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": "0.08",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.14",
+    "eur_foil": null,
+    "tix": "0.01"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=651992&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPlains",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPlains",
+    "edhrec": "https://edhrec.com/route/?cc=Plains"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F534537%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=753228&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/123318?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

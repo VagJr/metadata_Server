@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "1ee18ff6-8d88-4ae9-8d62-87a08bb8878e",
+  "oracle_id": "7dabd64c-8d0b-4e56-b6be-5651c9e985c5",
+  "multiverse_ids": [],
+  "mtgo_id": 103428,
+  "name": "Stronghold Arena",
+  "lang": "en",
+  "released_at": "2022-11-28",
+  "uri": "https://api.scryfall.com/cards/1ee18ff6-8d88-4ae9-8d62-87a08bb8878e",
+  "scryfall_uri": "https://scryfall.com/card/prm/103428/stronghold-arena?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/e/1ee18ff6-8d88-4ae9-8d62-87a08bb8878e.jpg?1681137277",
+    "normal": "https://cards.scryfall.io/normal/front/1/e/1ee18ff6-8d88-4ae9-8d62-87a08bb8878e.jpg?1681137277",
+    "large": "https://cards.scryfall.io/large/front/1/e/1ee18ff6-8d88-4ae9-8d62-87a08bb8878e.jpg?1681137277",
+    "png": "https://cards.scryfall.io/png/front/1/e/1ee18ff6-8d88-4ae9-8d62-87a08bb8878e.png?1681137277",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/e/1ee18ff6-8d88-4ae9-8d62-87a08bb8878e.jpg?1681137277",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/e/1ee18ff6-8d88-4ae9-8d62-87a08bb8878e.jpg?1681137277"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2,
+  "type_line": "Enchantment",
+  "oracle_text": "Kicker {G} and/or {W} (You may pay an additional {G} and/or {W} as you cast this spell.)\nWhen this enchantment enters, you gain 3 life for each time it was kicked.\nWhenever one or more creatures you control deal combat damage to a player, you may reveal the top card of your library and put it into your hand. If you do, you lose life equal to its mana value.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "W"
+  ],
+  "keywords": [
+    "Kicker"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1ee18ff6-8d88-4ae9-8d62-87a08bb8878e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7dabd64c-8d0b-4e56-b6be-5651c9e985c5&unique=prints",
+  "collector_number": "103428",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alexander Mokhov",
+  "artist_ids": [
+    "3a6a9d37-e62c-44bd-90f2-f5126324e3f0"
+  ],
+  "illustration_id": "b1d9f551-270e-49a7-83d3-4e6a5cdc7449",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 15857,
+  "penny_rank": 8072,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DStronghold%2BArena",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DStronghold%2BArena",
+    "edhrec": "https://edhrec.com/route/?cc=Stronghold+Arena"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DStronghold%2BArena%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Stronghold+Arena&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/103428?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

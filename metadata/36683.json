@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "56c533bf-00d9-4f85-841d-f5c20b003e08",
+  "oracle_id": "bafc2e11-5f1c-46f1-a852-2330e099b8e2",
+  "multiverse_ids": [],
+  "tcgplayer_id": 582737,
+  "name": "Markov Baron",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/56c533bf-00d9-4f85-841d-f5c20b003e08",
+  "scryfall_uri": "https://scryfall.com/card/plst/MAT-14/markov-baron?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/6/56c533bf-00d9-4f85-841d-f5c20b003e08.jpg?1723439315",
+    "normal": "https://cards.scryfall.io/normal/front/5/6/56c533bf-00d9-4f85-841d-f5c20b003e08.jpg?1723439315",
+    "large": "https://cards.scryfall.io/large/front/5/6/56c533bf-00d9-4f85-841d-f5c20b003e08.jpg?1723439315",
+    "png": "https://cards.scryfall.io/png/front/5/6/56c533bf-00d9-4f85-841d-f5c20b003e08.png?1723439315",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/6/56c533bf-00d9-4f85-841d-f5c20b003e08.jpg?1723439315",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/6/56c533bf-00d9-4f85-841d-f5c20b003e08.jpg?1723439315"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3,
+  "type_line": "Creature — Vampire Noble",
+  "oracle_text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nLifelink\nOther Vampires you control get +1/+1.\nMadness {2}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Lifelink",
+    "Madness",
+    "Convoke"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/56c533bf-00d9-4f85-841d-f5c20b003e08/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abafc2e11-5f1c-46f1-a852-2330e099b8e2&unique=prints",
+  "collector_number": "MAT-14",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ina Wong",
+  "artist_ids": [
+    "66509051-6c00-40cf-a6a7-471b6db84fe0"
+  ],
+  "illustration_id": "31c7426c-f074-49ce-b99a-4bc6296aca53",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3053,
+  "prices": {
+    "usd": "0.38",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMarkov%2BBaron",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMarkov%2BBaron",
+    "edhrec": "https://edhrec.com/route/?cc=Markov+Baron"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F582737%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Markov+Baron&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Markov+Baron&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

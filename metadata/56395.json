@@ -1,0 +1,113 @@
+{
+  "object": "card",
+  "id": "85936113-9790-463b-ae08-90d8be9172cf",
+  "oracle_id": "cf75dbd8-b65a-48d9-b96b-4afb43f336d1",
+  "multiverse_ids": [
+    606738
+  ],
+  "arena_id": 86166,
+  "name": "Macabre Waltz",
+  "lang": "en",
+  "released_at": "2023-03-21",
+  "uri": "https://api.scryfall.com/cards/85936113-9790-463b-ae08-90d8be9172cf",
+  "scryfall_uri": "https://scryfall.com/card/sir/121/macabre-waltz?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/5/85936113-9790-463b-ae08-90d8be9172cf.jpg?1678945059",
+    "normal": "https://cards.scryfall.io/normal/front/8/5/85936113-9790-463b-ae08-90d8be9172cf.jpg?1678945059",
+    "large": "https://cards.scryfall.io/large/front/8/5/85936113-9790-463b-ae08-90d8be9172cf.jpg?1678945059",
+    "png": "https://cards.scryfall.io/png/front/8/5/85936113-9790-463b-ae08-90d8be9172cf.png?1678945059",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/5/85936113-9790-463b-ae08-90d8be9172cf.jpg?1678945059",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/5/85936113-9790-463b-ae08-90d8be9172cf.jpg?1678945059"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "oracle_text": "Return up to two target creature cards from your graveyard to your hand, then discard a card.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c3694ff5-7b12-4f29-8d82-2c9b553ac60e",
+  "set": "sir",
+  "set_name": "Shadows over Innistrad Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/c3694ff5-7b12-4f29-8d82-2c9b553ac60e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asir&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sir?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/85936113-9790-463b-ae08-90d8be9172cf/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acf75dbd8-b65a-48d9-b96b-4afb43f336d1&unique=prints",
+  "collector_number": "121",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Willian Murai",
+  "artist_ids": [
+    "5a553c8e-e3b9-40e0-bde5-1db621c53939"
+  ],
+  "illustration_id": "31d7a4d8-6c84-491e-a7ab-7c2425652b17",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 6351,
+  "penny_rank": 9914,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=606738&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMacabre%2BWaltz",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMacabre%2BWaltz",
+    "edhrec": "https://edhrec.com/route/?cc=Macabre+Waltz"
+  }
+}

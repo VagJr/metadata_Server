@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "d6a7756e-2f01-4422-a370-3319fc5145fe",
+  "oracle_id": "c744b5f4-fbcf-48b8-9d60-5e9c6ac297e0",
+  "multiverse_ids": [
+    512355
+  ],
+  "mtgo_id": 87155,
+  "tcgplayer_id": 234258,
+  "cardmarket_id": 548386,
+  "name": "Trygon Predator",
+  "lang": "en",
+  "released_at": "2021-03-19",
+  "uri": "https://api.scryfall.com/cards/d6a7756e-2f01-4422-a370-3319fc5145fe",
+  "scryfall_uri": "https://scryfall.com/card/tsr/389/trygon-predator?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/6/d6a7756e-2f01-4422-a370-3319fc5145fe.jpg?1619402854",
+    "normal": "https://cards.scryfall.io/normal/front/d/6/d6a7756e-2f01-4422-a370-3319fc5145fe.jpg?1619402854",
+    "large": "https://cards.scryfall.io/large/front/d/6/d6a7756e-2f01-4422-a370-3319fc5145fe.jpg?1619402854",
+    "png": "https://cards.scryfall.io/png/front/d/6/d6a7756e-2f01-4422-a370-3319fc5145fe.png?1619402854",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/6/d6a7756e-2f01-4422-a370-3319fc5145fe.jpg?1619402854",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/6/d6a7756e-2f01-4422-a370-3319fc5145fe.jpg?1619402854"
+  },
+  "mana_cost": "{1}{G}{U}",
+  "cmc": 3,
+  "type_line": "Creature — Beast",
+  "oracle_text": "Flying\nWhenever this creature deals combat damage to a player, you may destroy target artifact or enchantment that player controls.",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "11e90d1b-0502-43e6-b056-e24836523c13",
+  "set": "tsr",
+  "set_name": "Time Spiral Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/11e90d1b-0502-43e6-b056-e24836523c13",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atsr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tsr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d6a7756e-2f01-4422-a370-3319fc5145fe/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac744b5f4-fbcf-48b8-9d60-5e9c6ac297e0&unique=prints",
+  "collector_number": "389",
+  "digital": false,
+  "rarity": "special",
+  "flavor_text": "Held aloft by metabolized magic, trygons are ravenous for sources of mystic fuel.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jack Wang",
+  "artist_ids": [
+    "331942ac-401c-4af3-9d70-85f67717496c"
+  ],
+  "illustration_id": "a6c3be6a-8137-4a1b-a07f-f80cc8bacbc5",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2705,
+  "penny_rank": 3502,
+  "preview": {
+    "source": "Ladee Danger",
+    "source_uri": "https://twitter.com/Brttnymchlle/status/1367543755683688449",
+    "previewed_at": "2021-03-04"
+  },
+  "prices": {
+    "usd": "0.25",
+    "usd_foil": "3.73",
+    "usd_etched": null,
+    "eur": "0.50",
+    "eur_foil": "2.26",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=512355&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTrygon%2BPredator",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTrygon%2BPredator",
+    "edhrec": "https://edhrec.com/route/?cc=Trygon+Predator"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F234258%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=548386&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/87155?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

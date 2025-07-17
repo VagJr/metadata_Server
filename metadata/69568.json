@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "a44d8329-fe4c-4102-a5ee-3c058b84e315",
+  "oracle_id": "56956afd-db53-4542-816b-490c8b0bbcf7",
+  "multiverse_ids": [
+    595163
+  ],
+  "tcgplayer_id": 455612,
+  "cardmarket_id": 687082,
+  "name": "Serum Visions",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/a44d8329-fe4c-4102-a5ee-3c058b84e315",
+  "scryfall_uri": "https://scryfall.com/card/j22/345/serum-visions?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/4/a44d8329-fe4c-4102-a5ee-3c058b84e315.jpg?1675648928",
+    "normal": "https://cards.scryfall.io/normal/front/a/4/a44d8329-fe4c-4102-a5ee-3c058b84e315.jpg?1675648928",
+    "large": "https://cards.scryfall.io/large/front/a/4/a44d8329-fe4c-4102-a5ee-3c058b84e315.jpg?1675648928",
+    "png": "https://cards.scryfall.io/png/front/a/4/a44d8329-fe4c-4102-a5ee-3c058b84e315.png?1675648928",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/4/a44d8329-fe4c-4102-a5ee-3c058b84e315.jpg?1675648928",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/4/a44d8329-fe4c-4102-a5ee-3c058b84e315.jpg?1675648928"
+  },
+  "mana_cost": "{U}",
+  "cmc": 1,
+  "type_line": "Sorcery",
+  "oracle_text": "Draw a card. Scry 2.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Scry"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "247df475-e4ce-4e5e-9317-11892d2211e0",
+  "set": "j22",
+  "set_name": "Jumpstart 2022",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/247df475-e4ce-4e5e-9317-11892d2211e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj22&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j22?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a44d8329-fe4c-4102-a5ee-3c058b84e315/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A56956afd-db53-4542-816b-490c8b0bbcf7&unique=prints",
+  "collector_number": "345",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Serum was once derived from Mirrodin's blinkmoths, offering visions of inspiration. Now it is pulled from Phyrexian inkmoths, yielding visions of perfection.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Izzy",
+  "artist_ids": [
+    "2c3d2473-ff5d-4309-8194-e0b2def2ab65"
+  ],
+  "illustration_id": "0aff1f65-bedc-4e51-897a-995326817cf0",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 708,
+  "penny_rank": 23,
+  "prices": {
+    "usd": "0.59",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.74",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=595163&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSerum%2BVisions",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSerum%2BVisions",
+    "edhrec": "https://edhrec.com/route/?cc=Serum+Visions"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F455612%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=687082&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Serum+Visions&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

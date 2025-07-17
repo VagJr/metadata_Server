@@ -1,0 +1,149 @@
+{
+  "object": "card",
+  "id": "1bfb1fcb-a411-4c1c-b8fc-496242ae3a9b",
+  "oracle_id": "814e321d-16fd-4f7b-a8d8-2b089be76f2c",
+  "multiverse_ids": [
+    513528
+  ],
+  "mtgo_id": 88579,
+  "arena_id": 76444,
+  "tcgplayer_id": 235671,
+  "cardmarket_id": 557500,
+  "name": "Resculpt",
+  "lang": "en",
+  "released_at": "2021-04-23",
+  "uri": "https://api.scryfall.com/cards/1bfb1fcb-a411-4c1c-b8fc-496242ae3a9b",
+  "scryfall_uri": "https://scryfall.com/card/stx/51/resculpt?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/b/1bfb1fcb-a411-4c1c-b8fc-496242ae3a9b.jpg?1624590361",
+    "normal": "https://cards.scryfall.io/normal/front/1/b/1bfb1fcb-a411-4c1c-b8fc-496242ae3a9b.jpg?1624590361",
+    "large": "https://cards.scryfall.io/large/front/1/b/1bfb1fcb-a411-4c1c-b8fc-496242ae3a9b.jpg?1624590361",
+    "png": "https://cards.scryfall.io/png/front/1/b/1bfb1fcb-a411-4c1c-b8fc-496242ae3a9b.png?1624590361",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/b/1bfb1fcb-a411-4c1c-b8fc-496242ae3a9b.jpg?1624590361",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/b/1bfb1fcb-a411-4c1c-b8fc-496242ae3a9b.jpg?1624590361"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Exile target artifact or creature. Its controller creates a 4/4 blue and red Elemental creature token.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "1bfb1fcb-a411-4c1c-b8fc-496242ae3a9b",
+      "component": "combo_piece",
+      "name": "Resculpt",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/1bfb1fcb-a411-4c1c-b8fc-496242ae3a9b"
+    },
+    {
+      "object": "related_card",
+      "id": "3d0b9b88-705e-4df0-8a93-3e240b81355b",
+      "component": "token",
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "uri": "https://api.scryfall.com/cards/3d0b9b88-705e-4df0-8a93-3e240b81355b"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
+  "set": "stx",
+  "set_name": "Strixhaven: School of Mages",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/541c3c28-8747-40e5-a231-8e8f33234859",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Astx&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/stx?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1bfb1fcb-a411-4c1c-b8fc-496242ae3a9b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A814e321d-16fd-4f7b-a8d8-2b089be76f2c&unique=prints",
+  "collector_number": "51",
+  "digital": false,
+  "rarity": "common",
+  "watermark": "prismari",
+  "flavor_text": "Critics were struck first by the elemental's surprising grace, and then by its fists.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Torstein Nordstrand",
+  "artist_ids": [
+    "d72fed18-68fb-4a66-b369-978ae372fa07"
+  ],
+  "illustration_id": "00359f2e-3a1a-4cfc-8571-c46f1ecc6604",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 637,
+  "penny_rank": 11449,
+  "preview": {
+    "source": "Card Kingdom",
+    "source_uri": "https://twitter.com/Card_Kingdom/status/1376958459900493825",
+    "previewed_at": "2021-03-30"
+  },
+  "prices": {
+    "usd": "0.30",
+    "usd_foil": "0.46",
+    "usd_etched": null,
+    "eur": "0.20",
+    "eur_foil": "0.87",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513528&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DResculpt",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DResculpt",
+    "edhrec": "https://edhrec.com/route/?cc=Resculpt"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F235671%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=557500&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/88579?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

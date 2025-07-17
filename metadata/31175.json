@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "49be3f34-f140-46ec-a59d-bed4dcc34ad4",
+  "oracle_id": "fe168bf1-f626-460c-890b-1ce758af01fc",
+  "multiverse_ids": [
+    559795
+  ],
+  "tcgplayer_id": 269749,
+  "cardmarket_id": 652807,
+  "name": "Ghostly Pilferer",
+  "lang": "en",
+  "released_at": "2022-04-29",
+  "uri": "https://api.scryfall.com/cards/49be3f34-f140-46ec-a59d-bed4dcc34ad4",
+  "scryfall_uri": "https://scryfall.com/card/ncc/223/ghostly-pilferer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/9/49be3f34-f140-46ec-a59d-bed4dcc34ad4.jpg?1673483912",
+    "normal": "https://cards.scryfall.io/normal/front/4/9/49be3f34-f140-46ec-a59d-bed4dcc34ad4.jpg?1673483912",
+    "large": "https://cards.scryfall.io/large/front/4/9/49be3f34-f140-46ec-a59d-bed4dcc34ad4.jpg?1673483912",
+    "png": "https://cards.scryfall.io/png/front/4/9/49be3f34-f140-46ec-a59d-bed4dcc34ad4.png?1673483912",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/9/49be3f34-f140-46ec-a59d-bed4dcc34ad4.jpg?1673483912",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/9/49be3f34-f140-46ec-a59d-bed4dcc34ad4.jpg?1673483912"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Creature — Spirit Rogue",
+  "oracle_text": "Whenever this creature becomes untapped, you may pay {2}. If you do, draw a card.\nWhenever an opponent casts a spell from anywhere other than their hand, draw a card.\nDiscard a card: This creature can't be blocked this turn.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c51de34b-d4d6-4179-a432-573744ded119",
+  "set": "ncc",
+  "set_name": "New Capenna Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/c51de34b-d4d6-4179-a432-573744ded119",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ancc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ncc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/49be3f34-f140-46ec-a59d-bed4dcc34ad4/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afe168bf1-f626-460c-890b-1ce758af01fc&unique=prints",
+  "collector_number": "223",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Craig J Spearing",
+  "artist_ids": [
+    "b0f15e74-0dd6-4156-959e-c5e30c5cdc52"
+  ],
+  "illustration_id": "486c0f13-5c9b-48ef-86e4-adfaa884e6d9",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1461,
+  "penny_rank": 5173,
+  "prices": {
+    "usd": "0.60",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.38",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=559795&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGhostly%2BPilferer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGhostly%2BPilferer",
+    "edhrec": "https://edhrec.com/route/?cc=Ghostly+Pilferer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F269749%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=652807&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ghostly+Pilferer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

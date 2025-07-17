@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "c2fdde82-6c4d-4e34-a15c-9756c834e9a0",
+  "oracle_id": "1b30210d-10e9-4703-8967-032063bb4f26",
+  "multiverse_ids": [
+    577725
+  ],
+  "tcgplayer_id": 282853,
+  "cardmarket_id": 672436,
+  "name": "Cut Down",
+  "lang": "en",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/c2fdde82-6c4d-4e34-a15c-9756c834e9a0",
+  "scryfall_uri": "https://scryfall.com/card/dmu/432/cut-down?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/2/c2fdde82-6c4d-4e34-a15c-9756c834e9a0.jpg?1674312235",
+    "normal": "https://cards.scryfall.io/normal/front/c/2/c2fdde82-6c4d-4e34-a15c-9756c834e9a0.jpg?1674312235",
+    "large": "https://cards.scryfall.io/large/front/c/2/c2fdde82-6c4d-4e34-a15c-9756c834e9a0.jpg?1674312235",
+    "png": "https://cards.scryfall.io/png/front/c/2/c2fdde82-6c4d-4e34-a15c-9756c834e9a0.png?1674312235",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/2/c2fdde82-6c4d-4e34-a15c-9756c834e9a0.jpg?1674312235",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/2/c2fdde82-6c4d-4e34-a15c-9756c834e9a0.jpg?1674312235"
+  },
+  "mana_cost": "{B}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "oracle_text": "Destroy target creature with total power and toughness 5 or less.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set": "dmu",
+  "set_name": "Dominaria United",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dmu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c2fdde82-6c4d-4e34-a15c-9756c834e9a0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1b30210d-10e9-4703-8967-032063bb4f26&unique=prints",
+  "collector_number": "432",
+  "digital": false,
+  "rarity": "uncommon",
+  "watermark": "planeswalker",
+  "flavor_text": "\"There can be no mercy, no half measures. When facing Phyrexians, it's kill swiftly or die.\"\n—Jodah",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dominik Mayer",
+  "artist_ids": [
+    "c3439c4a-1fee-4e33-9b89-18dac27ac927"
+  ],
+  "illustration_id": "8e96e144-da0e-4016-8a4e-d73a5ae87a7a",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack"
+  ],
+  "edhrec_rank": 3810,
+  "penny_rank": 142,
+  "prices": {
+    "usd": "3.09",
+    "usd_foil": "7.16",
+    "usd_etched": null,
+    "eur": "2.67",
+    "eur_foil": "4.36",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=577725&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCut%2BDown",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCut%2BDown",
+    "edhrec": "https://edhrec.com/route/?cc=Cut+Down"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F282853%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=672436&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cut+Down&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

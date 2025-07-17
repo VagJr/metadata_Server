@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "c3f9fd87-5c9b-4732-b8a5-f6be360a5fa5",
+  "oracle_id": "ed2e8718-4b20-4310-96ce-05a29a24ef32",
+  "multiverse_ids": [
+    585716
+  ],
+  "tcgplayer_id": 452330,
+  "cardmarket_id": 682665,
+  "name": "Drafna, Founder of Lat-Nam",
+  "lang": "en",
+  "released_at": "2022-11-18",
+  "uri": "https://api.scryfall.com/cards/c3f9fd87-5c9b-4732-b8a5-f6be360a5fa5",
+  "scryfall_uri": "https://scryfall.com/card/bro/313/drafna-founder-of-lat-nam?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/3/c3f9fd87-5c9b-4732-b8a5-f6be360a5fa5.jpg?1674422601",
+    "normal": "https://cards.scryfall.io/normal/front/c/3/c3f9fd87-5c9b-4732-b8a5-f6be360a5fa5.jpg?1674422601",
+    "large": "https://cards.scryfall.io/large/front/c/3/c3f9fd87-5c9b-4732-b8a5-f6be360a5fa5.jpg?1674422601",
+    "png": "https://cards.scryfall.io/png/front/c/3/c3f9fd87-5c9b-4732-b8a5-f6be360a5fa5.png?1674422601",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/3/c3f9fd87-5c9b-4732-b8a5-f6be360a5fa5.jpg?1674422601",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/3/c3f9fd87-5c9b-4732-b8a5-f6be360a5fa5.jpg?1674422601"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Human Artificer Advisor",
+  "oracle_text": "{1}{U}: Return target artifact you control to its owner's hand.\n{3}, {T}: Copy target artifact spell you control. (The copy becomes a token.)",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4219a14e-6701-4ddd-a185-21dc054ab19b",
+  "set": "bro",
+  "set_name": "The Brothers' War",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/4219a14e-6701-4ddd-a185-21dc054ab19b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abro&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/bro?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c3f9fd87-5c9b-4732-b8a5-f6be360a5fa5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aed2e8718-4b20-4310-96ce-05a29a24ef32&unique=prints",
+  "collector_number": "313",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lie Setiawan",
+  "artist_ids": [
+    "6f771d3f-310e-4aa4-841f-5ba4ba9f025a"
+  ],
+  "illustration_id": "6980a478-1075-4105-8d30-60adf258a244",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart",
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 5476,
+  "penny_rank": 7765,
+  "prices": {
+    "usd": "1.09",
+    "usd_foil": "1.49",
+    "usd_etched": null,
+    "eur": "0.53",
+    "eur_foil": "1.17",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=585716&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDrafna%252C%2BFounder%2Bof%2BLat-Nam",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDrafna%252C%2BFounder%2Bof%2BLat-Nam",
+    "edhrec": "https://edhrec.com/route/?cc=Drafna%2C+Founder+of+Lat-Nam"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F452330%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=682665&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Drafna%2C+Founder+of+Lat-Nam&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

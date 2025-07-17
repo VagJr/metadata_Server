@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "e1c2b1b4-6439-4203-967d-c8a40a2e701e",
+  "oracle_id": "41e03224-bcdd-4127-a19a-fe66196339b9",
+  "multiverse_ids": [
+    547980
+  ],
+  "arena_id": 75752,
+  "name": "Oviya Pashiri, Sage Lifecrafter",
+  "lang": "en",
+  "released_at": "2020-11-12",
+  "uri": "https://api.scryfall.com/cards/e1c2b1b4-6439-4203-967d-c8a40a2e701e",
+  "scryfall_uri": "https://scryfall.com/card/klr/174/oviya-pashiri-sage-lifecrafter?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/1/e1c2b1b4-6439-4203-967d-c8a40a2e701e.jpg?1605328867",
+    "normal": "https://cards.scryfall.io/normal/front/e/1/e1c2b1b4-6439-4203-967d-c8a40a2e701e.jpg?1605328867",
+    "large": "https://cards.scryfall.io/large/front/e/1/e1c2b1b4-6439-4203-967d-c8a40a2e701e.jpg?1605328867",
+    "png": "https://cards.scryfall.io/png/front/e/1/e1c2b1b4-6439-4203-967d-c8a40a2e701e.png?1605328867",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/1/e1c2b1b4-6439-4203-967d-c8a40a2e701e.jpg?1605328867",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/1/e1c2b1b4-6439-4203-967d-c8a40a2e701e.jpg?1605328867"
+  },
+  "mana_cost": "{G}",
+  "cmc": 1,
+  "type_line": "Legendary Creature — Human Artificer",
+  "oracle_text": "{2}{G}, {T}: Create a 1/1 colorless Servo artifact creature token.\n{4}{G}, {T}: Create an X/X colorless Construct artifact creature token, where X is the number of creatures you control.",
+  "power": "1",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e1c2b1b4-6439-4203-967d-c8a40a2e701e",
+      "component": "combo_piece",
+      "name": "Oviya Pashiri, Sage Lifecrafter",
+      "type_line": "Legendary Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/e1c2b1b4-6439-4203-967d-c8a40a2e701e"
+    },
+    {
+      "object": "related_card",
+      "id": "0f3954f9-776d-4a8d-a032-724c4eae0e13",
+      "component": "token",
+      "name": "Construct",
+      "type_line": "Token Artifact Creature — Construct",
+      "uri": "https://api.scryfall.com/cards/0f3954f9-776d-4a8d-a032-724c4eae0e13"
+    },
+    {
+      "object": "related_card",
+      "id": "57890ef7-9006-47b9-9f8b-42b665123607",
+      "component": "token",
+      "name": "Servo",
+      "type_line": "Token Artifact Creature — Servo",
+      "uri": "https://api.scryfall.com/cards/57890ef7-9006-47b9-9f8b-42b665123607"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cff93939-c724-4ed0-9367-e1277d39ba70",
+  "set": "klr",
+  "set_name": "Kaladesh Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cff93939-c724-4ed0-9367-e1277d39ba70",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aklr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/klr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e1c2b1b4-6439-4203-967d-c8a40a2e701e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A41e03224-bcdd-4127-a19a-fe66196339b9&unique=prints",
+  "collector_number": "174",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Magali Villeneuve",
+  "artist_ids": [
+    "9e6a55ae-be4d-4c23-a2a5-135737ffd879"
+  ],
+  "illustration_id": "e71d9baf-9907-4139-be6b-97825b5f7279",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 11876,
+  "penny_rank": 5510,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547980&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOviya%2BPashiri%252C%2BSage%2BLifecrafter",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOviya%2BPashiri%252C%2BSage%2BLifecrafter",
+    "edhrec": "https://edhrec.com/route/?cc=Oviya+Pashiri%2C+Sage+Lifecrafter"
+  }
+}

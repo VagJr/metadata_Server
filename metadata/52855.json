@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "7d1e6860-213a-4cde-8539-1c925ae74e6d",
+  "oracle_id": "3f01c327-ba50-4fc3-a930-fa1fb02e34b9",
+  "multiverse_ids": [],
+  "tcgplayer_id": 514346,
+  "name": "Tangled Colony",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/7d1e6860-213a-4cde-8539-1c925ae74e6d",
+  "scryfall_uri": "https://scryfall.com/card/pwoe/113p/tangled-colony?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/d/7d1e6860-213a-4cde-8539-1c925ae74e6d.jpg?1694308729",
+    "normal": "https://cards.scryfall.io/normal/front/7/d/7d1e6860-213a-4cde-8539-1c925ae74e6d.jpg?1694308729",
+    "large": "https://cards.scryfall.io/large/front/7/d/7d1e6860-213a-4cde-8539-1c925ae74e6d.jpg?1694308729",
+    "png": "https://cards.scryfall.io/png/front/7/d/7d1e6860-213a-4cde-8539-1c925ae74e6d.png?1694308729",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/d/7d1e6860-213a-4cde-8539-1c925ae74e6d.jpg?1694308729",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/d/7d1e6860-213a-4cde-8539-1c925ae74e6d.jpg?1694308729"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2,
+  "type_line": "Creature — Rat",
+  "oracle_text": "This creature can't block.\nWhen this creature dies, create X 1/1 black Rat creature tokens with \"This token can't block,\" where X is the amount of damage dealt to it this turn.",
+  "power": "3",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "2f185869-5509-4269-ae25-dc9ec2601b98",
+      "component": "combo_piece",
+      "name": "Tangled Colony",
+      "type_line": "Creature — Rat",
+      "uri": "https://api.scryfall.com/cards/2f185869-5509-4269-ae25-dc9ec2601b98"
+    },
+    {
+      "object": "related_card",
+      "id": "1e0205f2-25c1-403b-b408-56e3f2d63b4d",
+      "component": "token",
+      "name": "Rat",
+      "type_line": "Token Creature — Rat",
+      "uri": "https://api.scryfall.com/cards/1e0205f2-25c1-403b-b408-56e3f2d63b4d"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "909bf1bb-3277-41d6-af0f-293df1203099",
+  "set": "pwoe",
+  "set_name": "Wilds of Eldraine Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/909bf1bb-3277-41d6-af0f-293df1203099",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwoe&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwoe?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7d1e6860-213a-4cde-8539-1c925ae74e6d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3f01c327-ba50-4fc3-a930-fa1fb02e34b9&unique=prints",
+  "collector_number": "113p",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Clawing for scraps and driven mad by hunger, the individual rats became a writhing mass.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Filip Burburan",
+  "artist_ids": [
+    "66082c3b-a623-4d34-be51-2475214b85d3"
+  ],
+  "illustration_id": "dfb28a17-c284-491f-af94-5f4a4e3cd050",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 5016,
+  "penny_rank": 2945,
+  "prices": {
+    "usd": "0.74",
+    "usd_foil": "0.75",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTangled%2BColony",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTangled%2BColony",
+    "edhrec": "https://edhrec.com/route/?cc=Tangled+Colony"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F514346%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tangled+Colony&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tangled+Colony&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

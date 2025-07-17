@@ -1,0 +1,159 @@
+{
+  "object": "card",
+  "id": "3cf04e55-b266-46cd-a79a-d87f5ceba469",
+  "oracle_id": "ab8d5f5c-1976-4f77-8ed2-8d28ee666741",
+  "multiverse_ids": [],
+  "mtgo_id": 125553,
+  "tcgplayer_id": 552323,
+  "name": "Tireless Provisioner",
+  "lang": "en",
+  "released_at": "2024-06-07",
+  "uri": "https://api.scryfall.com/cards/3cf04e55-b266-46cd-a79a-d87f5ceba469",
+  "scryfall_uri": "https://scryfall.com/card/h2r/15/tireless-provisioner?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/c/3cf04e55-b266-46cd-a79a-d87f5ceba469.jpg?1717188177",
+    "normal": "https://cards.scryfall.io/normal/front/3/c/3cf04e55-b266-46cd-a79a-d87f5ceba469.jpg?1717188177",
+    "large": "https://cards.scryfall.io/large/front/3/c/3cf04e55-b266-46cd-a79a-d87f5ceba469.jpg?1717188177",
+    "png": "https://cards.scryfall.io/png/front/3/c/3cf04e55-b266-46cd-a79a-d87f5ceba469.png?1717188177",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/c/3cf04e55-b266-46cd-a79a-d87f5ceba469.jpg?1717188177",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/c/3cf04e55-b266-46cd-a79a-d87f5ceba469.jpg?1717188177"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Creature — Elf Scout",
+  "oracle_text": "Landfall — Whenever a land you control enters, create a Food token or a Treasure token. (Food is an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\" Treasure is an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+  "power": "3",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Treasure",
+    "Food",
+    "Landfall"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "79a7e037-9f56-4a77-a09e-caeafbb86d7c",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/79a7e037-9f56-4a77-a09e-caeafbb86d7c"
+    },
+    {
+      "object": "related_card",
+      "id": "14fe0b7c-2d73-4c21-98ca-ee3a7d7f20c8",
+      "component": "token",
+      "name": "Food",
+      "type_line": "Token Artifact — Food",
+      "uri": "https://api.scryfall.com/cards/14fe0b7c-2d73-4c21-98ca-ee3a7d7f20c8"
+    },
+    {
+      "object": "related_card",
+      "id": "3cf04e55-b266-46cd-a79a-d87f5ceba469",
+      "component": "combo_piece",
+      "name": "Tireless Provisioner",
+      "type_line": "Creature — Elf Scout",
+      "uri": "https://api.scryfall.com/cards/3cf04e55-b266-46cd-a79a-d87f5ceba469"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "20e53d4f-2ce8-4d82-9c7c-e6378a0134ad",
+  "set": "h2r",
+  "set_name": "Modern Horizons 2 Timeshifts",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/20e53d4f-2ce8-4d82-9c7c-e6378a0134ad",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ah2r&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/h2r?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3cf04e55-b266-46cd-a79a-d87f5ceba469/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aab8d5f5c-1976-4f77-8ed2-8d28ee666741&unique=prints",
+  "collector_number": "15",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Josu Hernaiz",
+  "artist_ids": [
+    "74246024-92b4-43d0-a5af-a3f9f2a35d5f"
+  ],
+  "illustration_id": "a2da3244-bfe6-44b8-a19e-67872b369813",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 181,
+  "penny_rank": 1980,
+  "prices": {
+    "usd": "1.51",
+    "usd_foil": "1.51",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTireless%2BProvisioner",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTireless%2BProvisioner",
+    "edhrec": "https://edhrec.com/route/?cc=Tireless+Provisioner"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F552323%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tireless+Provisioner&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/125553?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

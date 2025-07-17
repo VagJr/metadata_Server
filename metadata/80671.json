@@ -1,0 +1,154 @@
+{
+  "object": "card",
+  "id": "be695f79-b3d1-4269-97d4-7da515149066",
+  "oracle_id": "d60e14b4-f750-40cc-85b5-17c87ae8a584",
+  "multiverse_ids": [
+    574348
+  ],
+  "arena_id": 81721,
+  "name": "Sword Coast Serpent // Capsizing Wave",
+  "lang": "en",
+  "released_at": "2022-07-07",
+  "uri": "https://api.scryfall.com/cards/be695f79-b3d1-4269-97d4-7da515149066",
+  "scryfall_uri": "https://scryfall.com/card/hbg/134/sword-coast-serpent-capsizing-wave?utm_source=api",
+  "layout": "adventure",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/e/be695f79-b3d1-4269-97d4-7da515149066.jpg?1680999919",
+    "normal": "https://cards.scryfall.io/normal/front/b/e/be695f79-b3d1-4269-97d4-7da515149066.jpg?1680999919",
+    "large": "https://cards.scryfall.io/large/front/b/e/be695f79-b3d1-4269-97d4-7da515149066.jpg?1680999919",
+    "png": "https://cards.scryfall.io/png/front/b/e/be695f79-b3d1-4269-97d4-7da515149066.png?1680999919",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/e/be695f79-b3d1-4269-97d4-7da515149066.jpg?1680999919",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/e/be695f79-b3d1-4269-97d4-7da515149066.jpg?1680999919"
+  },
+  "mana_cost": "{5}{U}{U} // {1}{U}",
+  "cmc": 7,
+  "type_line": "Creature — Serpent Dragon // Instant — Adventure",
+  "power": "6",
+  "toughness": "6",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Sword Coast Serpent",
+      "mana_cost": "{5}{U}{U}",
+      "type_line": "Creature — Serpent Dragon",
+      "oracle_text": "This creature can't be blocked as long as you've cast a noncreature spell this turn.",
+      "power": "6",
+      "toughness": "6",
+      "artist": "Caio Monteiro",
+      "artist_id": "d5053eb6-af72-47a0-b6e8-023cc3b9aefb",
+      "illustration_id": "98021829-0b0c-46af-95f7-8da3adb6416d"
+    },
+    {
+      "object": "card_face",
+      "name": "Capsizing Wave",
+      "mana_cost": "{1}{U}",
+      "type_line": "Instant — Adventure",
+      "oracle_text": "Return target creature to its owner's hand. (Then exile this card. You may cast the creature later from exile.)",
+      "artist": "Caio Monteiro",
+      "artist_id": "d5053eb6-af72-47a0-b6e8-023cc3b9aefb"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "fcf4c7fb-7859-4c11-8552-6817f5119d2e",
+      "component": "combo_piece",
+      "name": "On an Adventure",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/fcf4c7fb-7859-4c11-8552-6817f5119d2e"
+    },
+    {
+      "object": "related_card",
+      "id": "be695f79-b3d1-4269-97d4-7da515149066",
+      "component": "combo_piece",
+      "name": "Sword Coast Serpent // Capsizing Wave",
+      "type_line": "Creature — Serpent Dragon // Instant — Adventure",
+      "uri": "https://api.scryfall.com/cards/be695f79-b3d1-4269-97d4-7da515149066"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "35528ede-7870-4598-a2ee-7f3d6464a74b",
+  "set": "hbg",
+  "set_name": "Alchemy Horizons: Baldur's Gate",
+  "set_type": "alchemy",
+  "set_uri": "https://api.scryfall.com/sets/35528ede-7870-4598-a2ee-7f3d6464a74b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahbg&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/hbg?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/be695f79-b3d1-4269-97d4-7da515149066/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad60e14b4-f750-40cc-85b5-17c87ae8a584&unique=prints",
+  "collector_number": "134",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Caio Monteiro",
+  "artist_ids": [
+    "d5053eb6-af72-47a0-b6e8-023cc3b9aefb"
+  ],
+  "illustration_id": "98021829-0b0c-46af-95f7-8da3adb6416d",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 4898,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574348&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSword%2BCoast%2BSerpent%2B%252F%252F%2BCapsizing%2BWave",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSword%2BCoast%2BSerpent%2B%252F%252F%2BCapsizing%2BWave",
+    "edhrec": "https://edhrec.com/route/?cc=Sword+Coast+Serpent"
+  }
+}

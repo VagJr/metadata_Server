@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "4442330b-23cf-410b-9e2b-7bd2f234a6e3",
+  "oracle_id": "7ebde396-6672-491a-a6ce-1de49b12379b",
+  "multiverse_ids": [
+    547699
+  ],
+  "arena_id": 74022,
+  "name": "Destined // Lead",
+  "lang": "en",
+  "released_at": "2020-08-13",
+  "uri": "https://api.scryfall.com/cards/4442330b-23cf-410b-9e2b-7bd2f234a6e3",
+  "scryfall_uri": "https://scryfall.com/card/akr/232/destined-lead?utm_source=api",
+  "layout": "split",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/4/4442330b-23cf-410b-9e2b-7bd2f234a6e3.jpg?1671337656",
+    "normal": "https://cards.scryfall.io/normal/front/4/4/4442330b-23cf-410b-9e2b-7bd2f234a6e3.jpg?1671337656",
+    "large": "https://cards.scryfall.io/large/front/4/4/4442330b-23cf-410b-9e2b-7bd2f234a6e3.jpg?1671337656",
+    "png": "https://cards.scryfall.io/png/front/4/4/4442330b-23cf-410b-9e2b-7bd2f234a6e3.png?1671337656",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/4/4442330b-23cf-410b-9e2b-7bd2f234a6e3.jpg?1671337656",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/4/4442330b-23cf-410b-9e2b-7bd2f234a6e3.jpg?1671337656"
+  },
+  "mana_cost": "{1}{B} // {3}{G}",
+  "cmc": 6,
+  "type_line": "Instant // Sorcery",
+  "colors": [
+    "B",
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [
+    "Aftermath"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Destined",
+      "mana_cost": "{1}{B}",
+      "type_line": "Instant",
+      "oracle_text": "Target creature gets +1/+0 and gains indestructible until end of turn.",
+      "artist": "Magali Villeneuve",
+      "artist_id": "9e6a55ae-be4d-4c23-a2a5-135737ffd879",
+      "illustration_id": "2ca519df-4f1c-4896-8251-469dccea92b2"
+    },
+    {
+      "object": "card_face",
+      "name": "Lead",
+      "mana_cost": "{3}{G}",
+      "type_line": "Sorcery",
+      "oracle_text": "Aftermath (Cast this spell only from your graveyard. Then exile it.)\nAll creatures able to block target creature this turn do so.",
+      "artist": "Magali Villeneuve",
+      "artist_id": "9e6a55ae-be4d-4c23-a2a5-135737ffd879"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "915dabb1-b82a-432d-939d-d9b128e65582",
+  "set": "akr",
+  "set_name": "Amonkhet Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/915dabb1-b82a-432d-939d-d9b128e65582",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aakr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/akr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4442330b-23cf-410b-9e2b-7bd2f234a6e3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7ebde396-6672-491a-a6ce-1de49b12379b&unique=prints",
+  "collector_number": "232",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Magali Villeneuve",
+  "artist_ids": [
+    "9e6a55ae-be4d-4c23-a2a5-135737ffd879"
+  ],
+  "illustration_id": "2ca519df-4f1c-4896-8251-469dccea92b2",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 16357,
+  "penny_rank": 11017,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547699&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDestined%2B%252F%252F%2BLead",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDestined%2B%252F%252F%2BLead",
+    "edhrec": "https://edhrec.com/route/?cc=Destined+%2F%2F+Lead"
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "object": "card",
+  "id": "af0c39f4-350f-45b1-8ae8-dde21b745409",
+  "oracle_id": "7a9fa906-b43e-4d98-b134-5936d3085851",
+  "multiverse_ids": [],
+  "tcgplayer_id": 492953,
+  "name": "Polukranos Reborn // Polukranos, Engine of Ruin",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/af0c39f4-350f-45b1-8ae8-dde21b745409",
+  "scryfall_uri": "https://scryfall.com/card/pmom/200s/polukranos-reborn-polukranos-engine-of-ruin?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Hydra // Legendary Creature — Phyrexian Hydra",
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [
+    "Lifelink",
+    "Reach",
+    "Transform"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Polukranos Reborn",
+      "mana_cost": "{G}{G}{G}",
+      "type_line": "Legendary Creature — Hydra",
+      "oracle_text": "Reach\n{6}{W/P}: Transform Polukranos Reborn. Activate only as a sorcery. ({W/P} can be paid with either {W} or 2 life.)",
+      "colors": [
+        "G"
+      ],
+      "power": "4",
+      "toughness": "5",
+      "flavor_text": "Freed from the Underworld, the World Eater resumed his endless feast with reckless enthusiasm.",
+      "artist": "David Auden Nash",
+      "artist_id": "092827e0-03f2-4e73-852e-d95eba0fef20",
+      "illustration_id": "500e9feb-686e-45fd-a465-ee3d72e5b44c",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/a/f/af0c39f4-350f-45b1-8ae8-dde21b745409.jpg?1682598935",
+        "normal": "https://cards.scryfall.io/normal/front/a/f/af0c39f4-350f-45b1-8ae8-dde21b745409.jpg?1682598935",
+        "large": "https://cards.scryfall.io/large/front/a/f/af0c39f4-350f-45b1-8ae8-dde21b745409.jpg?1682598935",
+        "png": "https://cards.scryfall.io/png/front/a/f/af0c39f4-350f-45b1-8ae8-dde21b745409.png?1682598935",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/a/f/af0c39f4-350f-45b1-8ae8-dde21b745409.jpg?1682598935",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/a/f/af0c39f4-350f-45b1-8ae8-dde21b745409.jpg?1682598935"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Polukranos, Engine of Ruin",
+      "mana_cost": "",
+      "type_line": "Legendary Creature — Phyrexian Hydra",
+      "oracle_text": "Reach, lifelink\nWhenever Polukranos or another nontoken Hydra you control dies, create a 3/3 green and white Phyrexian Hydra creature token with reach and a 3/3 green and white Phyrexian Hydra creature token with lifelink.",
+      "colors": [
+        "G",
+        "W"
+      ],
+      "color_indicator": [
+        "G",
+        "W"
+      ],
+      "power": "6",
+      "toughness": "6",
+      "artist": "David Auden Nash",
+      "artist_id": "092827e0-03f2-4e73-852e-d95eba0fef20",
+      "illustration_id": "b3478496-8908-4ac0-97f1-0f5bf5c720d4",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/a/f/af0c39f4-350f-45b1-8ae8-dde21b745409.jpg?1682598935",
+        "normal": "https://cards.scryfall.io/normal/back/a/f/af0c39f4-350f-45b1-8ae8-dde21b745409.jpg?1682598935",
+        "large": "https://cards.scryfall.io/large/back/a/f/af0c39f4-350f-45b1-8ae8-dde21b745409.jpg?1682598935",
+        "png": "https://cards.scryfall.io/png/back/a/f/af0c39f4-350f-45b1-8ae8-dde21b745409.png?1682598935",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/a/f/af0c39f4-350f-45b1-8ae8-dde21b745409.jpg?1682598935",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/a/f/af0c39f4-350f-45b1-8ae8-dde21b745409.jpg?1682598935"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "2bff78d9-7c4c-4b3b-a485-5328e985315b",
+      "component": "token",
+      "name": "Phyrexian Hydra",
+      "type_line": "Token Creature — Phyrexian Hydra",
+      "uri": "https://api.scryfall.com/cards/2bff78d9-7c4c-4b3b-a485-5328e985315b"
+    },
+    {
+      "object": "related_card",
+      "id": "a1bb0ec0-729e-4dcb-bab4-9f31c1056ab3",
+      "component": "token",
+      "name": "Phyrexian Hydra",
+      "type_line": "Token Creature — Phyrexian Hydra",
+      "uri": "https://api.scryfall.com/cards/a1bb0ec0-729e-4dcb-bab4-9f31c1056ab3"
+    },
+    {
+      "object": "related_card",
+      "id": "af0c39f4-350f-45b1-8ae8-dde21b745409",
+      "component": "combo_piece",
+      "name": "Polukranos Reborn // Polukranos, Engine of Ruin",
+      "type_line": "Legendary Creature — Hydra // Legendary Creature — Phyrexian Hydra",
+      "uri": "https://api.scryfall.com/cards/af0c39f4-350f-45b1-8ae8-dde21b745409"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4af147e4-cf99-4f32-a77e-d116412f469a",
+  "set": "pmom",
+  "set_name": "March of the Machine Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/4af147e4-cf99-4f32-a77e-d116412f469a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apmom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pmom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/af0c39f4-350f-45b1-8ae8-dde21b745409/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a9fa906-b43e-4d98-b134-5936d3085851&unique=prints",
+  "collector_number": "200s",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "David Auden Nash",
+  "artist_ids": [
+    "092827e0-03f2-4e73-852e-d95eba0fef20"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 11626,
+  "penny_rank": 1144,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.04",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPolukranos%2BReborn%2B%252F%252F%2BPolukranos%252C%2BEngine%2Bof%2BRuin",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPolukranos%2BReborn%2B%252F%252F%2BPolukranos%252C%2BEngine%2Bof%2BRuin",
+    "edhrec": "https://edhrec.com/route/?cc=Polukranos+Reborn"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F492953%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Polukranos+Reborn&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Polukranos+Reborn&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

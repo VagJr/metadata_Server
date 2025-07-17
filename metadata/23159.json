@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "3677165d-be78-4011-92dd-8f1bc31302c1",
+  "oracle_id": "7fd61a18-6e4f-40c5-aa00-3d101ec1ec82",
+  "multiverse_ids": [
+    676030
+  ],
+  "mtgo_id": 130937,
+  "tcgplayer_id": 579070,
+  "cardmarket_id": 788792,
+  "name": "Stitcher's Supplier",
+  "lang": "en",
+  "released_at": "2024-09-27",
+  "uri": "https://api.scryfall.com/cards/3677165d-be78-4011-92dd-8f1bc31302c1",
+  "scryfall_uri": "https://scryfall.com/card/dsc/157/stitchers-supplier?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/6/3677165d-be78-4011-92dd-8f1bc31302c1.jpg?1726284914",
+    "normal": "https://cards.scryfall.io/normal/front/3/6/3677165d-be78-4011-92dd-8f1bc31302c1.jpg?1726284914",
+    "large": "https://cards.scryfall.io/large/front/3/6/3677165d-be78-4011-92dd-8f1bc31302c1.jpg?1726284914",
+    "png": "https://cards.scryfall.io/png/front/3/6/3677165d-be78-4011-92dd-8f1bc31302c1.png?1726284914",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/6/3677165d-be78-4011-92dd-8f1bc31302c1.jpg?1726284914",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/6/3677165d-be78-4011-92dd-8f1bc31302c1.jpg?1726284914"
+  },
+  "mana_cost": "{B}",
+  "cmc": 1,
+  "type_line": "Creature — Zombie",
+  "oracle_text": "When this creature enters or dies, mill three cards. (Put the top three cards of your library into your graveyard.)",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4c822528-83c3-42c7-8708-dd1d37166819",
+  "set": "dsc",
+  "set_name": "Duskmourn: House of Horror Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/4c822528-83c3-42c7-8708-dd1d37166819",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adsc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dsc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3677165d-be78-4011-92dd-8f1bc31302c1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7fd61a18-6e4f-40c5-aa00-3d101ec1ec82&unique=prints",
+  "collector_number": "157",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "No part goes to waste.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Pete Venters",
+  "artist_ids": [
+    "d54c4a1a-c0c5-4834-84db-125d341f3ad8"
+  ],
+  "illustration_id": "81f461e7-fc9d-4401-a478-91bd7bb7b934",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 766,
+  "prices": {
+    "usd": "0.32",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.63",
+    "eur_foil": null,
+    "tix": "0.37"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=676030&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DStitcher%2527s%2BSupplier",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DStitcher%2527s%2BSupplier",
+    "edhrec": "https://edhrec.com/route/?cc=Stitcher%27s+Supplier"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F579070%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=788792&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/130937?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

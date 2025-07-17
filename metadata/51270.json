@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "7943423b-52aa-46f1-a44d-e284375f23c0",
+  "oracle_id": "14c2c818-0ce2-4809-a5ff-ee4a6253defa",
+  "multiverse_ids": [
+    562488
+  ],
+  "mtgo_id": 99905,
+  "tcgplayer_id": 270135,
+  "cardmarket_id": 652562,
+  "name": "Oskar, Rubbish Reclaimer",
+  "lang": "en",
+  "released_at": "2022-04-29",
+  "uri": "https://api.scryfall.com/cards/7943423b-52aa-46f1-a44d-e284375f23c0",
+  "scryfall_uri": "https://scryfall.com/card/ncc/177/oskar-rubbish-reclaimer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/9/7943423b-52aa-46f1-a44d-e284375f23c0.jpg?1673483486",
+    "normal": "https://cards.scryfall.io/normal/front/7/9/7943423b-52aa-46f1-a44d-e284375f23c0.jpg?1673483486",
+    "large": "https://cards.scryfall.io/large/front/7/9/7943423b-52aa-46f1-a44d-e284375f23c0.jpg?1673483486",
+    "png": "https://cards.scryfall.io/png/front/7/9/7943423b-52aa-46f1-a44d-e284375f23c0.png?1673483486",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/9/7943423b-52aa-46f1-a44d-e284375f23c0.jpg?1673483486",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/9/7943423b-52aa-46f1-a44d-e284375f23c0.jpg?1673483486"
+  },
+  "mana_cost": "{3}{U}{B}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Human Wizard",
+  "oracle_text": "This spell costs {1} less to cast for each different mana value among cards in your graveyard.\nWhenever you discard a nonland card, you may cast it from your graveyard.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "B",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c51de34b-d4d6-4179-a432-573744ded119",
+  "set": "ncc",
+  "set_name": "New Capenna Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/c51de34b-d4d6-4179-a432-573744ded119",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ancc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ncc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7943423b-52aa-46f1-a44d-e284375f23c0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A14c2c818-0ce2-4809-a5ff-ee4a6253defa&unique=prints",
+  "collector_number": "177",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Leonardo Santanna",
+  "artist_ids": [
+    "f1f8e6d8-8fb3-472a-a32f-a4b1225bd054"
+  ],
+  "illustration_id": "5ba8617e-df39-4998-bd54-70acba68e682",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 9324,
+  "prices": {
+    "usd": "2.02",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.68",
+    "eur_foil": null,
+    "tix": "1.50"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=562488&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOskar%252C%2BRubbish%2BReclaimer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOskar%252C%2BRubbish%2BReclaimer",
+    "edhrec": "https://edhrec.com/route/?cc=Oskar%2C+Rubbish+Reclaimer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F270135%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=652562&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/99905?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

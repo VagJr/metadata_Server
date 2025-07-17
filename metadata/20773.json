@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "30ff756c-0d65-44a9-8a43-bd0011f92383",
+  "oracle_id": "61bbf710-4eb4-4e11-be6e-700a0c6a41ee",
+  "multiverse_ids": [
+    624901
+  ],
+  "mtgo_id": 113845,
+  "tcgplayer_id": 506826,
+  "cardmarket_id": 723081,
+  "name": "Narci, Fable Singer",
+  "lang": "en",
+  "released_at": "2023-08-04",
+  "uri": "https://api.scryfall.com/cards/30ff756c-0d65-44a9-8a43-bd0011f92383",
+  "scryfall_uri": "https://scryfall.com/card/cmm/775/narci-fable-singer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/0/30ff756c-0d65-44a9-8a43-bd0011f92383.jpg?1690003592",
+    "normal": "https://cards.scryfall.io/normal/front/3/0/30ff756c-0d65-44a9-8a43-bd0011f92383.jpg?1690003592",
+    "large": "https://cards.scryfall.io/large/front/3/0/30ff756c-0d65-44a9-8a43-bd0011f92383.jpg?1690003592",
+    "png": "https://cards.scryfall.io/png/front/3/0/30ff756c-0d65-44a9-8a43-bd0011f92383.png?1690003592",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/0/30ff756c-0d65-44a9-8a43-bd0011f92383.jpg?1690003592",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/0/30ff756c-0d65-44a9-8a43-bd0011f92383.jpg?1690003592"
+  },
+  "mana_cost": "{1}{W}{B}{G}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Human Bard",
+  "oracle_text": "Lifelink\nWhenever you sacrifice an enchantment, draw a card.\nWhenever the final chapter ability of a Saga you control resolves, each opponent loses X life and you gain X life, where X is that Saga's mana value.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "B",
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "W"
+  ],
+  "keywords": [
+    "Lifelink"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set": "cmm",
+  "set_name": "Commander Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/30ff756c-0d65-44a9-8a43-bd0011f92383/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A61bbf710-4eb4-4e11-be6e-700a0c6a41ee&unique=prints",
+  "collector_number": "775",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Miranda Meeks",
+  "artist_ids": [
+    "6c9ca5a9-5ac6-4478-9606-075fd10a8f01"
+  ],
+  "illustration_id": "0fbb1834-f751-4b5b-acdf-834322d0630c",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 4602,
+  "preview": {
+    "source": "The Command Zone",
+    "source_uri": "https://www.youtube.com/watch?v=WARcYHfIbeg",
+    "previewed_at": "2023-07-20"
+  },
+  "prices": {
+    "usd": "19.74",
+    "usd_foil": "24.50",
+    "usd_etched": null,
+    "eur": "12.44",
+    "eur_foil": "18.45",
+    "tix": "11.93"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=624901&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNarci%252C%2BFable%2BSinger",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNarci%252C%2BFable%2BSinger",
+    "edhrec": "https://edhrec.com/route/?cc=Narci%2C+Fable+Singer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F506826%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=723081&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/113845?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

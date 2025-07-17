@@ -1,0 +1,138 @@
+{
+  "object": "card",
+  "id": "6200ac79-b166-43d0-9a0b-5b547625ed57",
+  "oracle_id": "304c194f-fa0b-42e5-93ca-8c587181d33c",
+  "multiverse_ids": [
+    571571
+  ],
+  "mtgo_id": 101960,
+  "tcgplayer_id": 276646,
+  "cardmarket_id": 665784,
+  "name": "Karador, Ghost Chieftain",
+  "lang": "en",
+  "released_at": "2022-07-08",
+  "uri": "https://api.scryfall.com/cards/6200ac79-b166-43d0-9a0b-5b547625ed57",
+  "scryfall_uri": "https://scryfall.com/card/2x2/238/karador-ghost-chieftain?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/2/6200ac79-b166-43d0-9a0b-5b547625ed57.jpg?1673148837",
+    "normal": "https://cards.scryfall.io/normal/front/6/2/6200ac79-b166-43d0-9a0b-5b547625ed57.jpg?1673148837",
+    "large": "https://cards.scryfall.io/large/front/6/2/6200ac79-b166-43d0-9a0b-5b547625ed57.jpg?1673148837",
+    "png": "https://cards.scryfall.io/png/front/6/2/6200ac79-b166-43d0-9a0b-5b547625ed57.png?1673148837",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/2/6200ac79-b166-43d0-9a0b-5b547625ed57.jpg?1673148837",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/2/6200ac79-b166-43d0-9a0b-5b547625ed57.jpg?1673148837"
+  },
+  "mana_cost": "{5}{W}{B}{G}",
+  "cmc": 8,
+  "type_line": "Legendary Creature — Centaur Spirit",
+  "oracle_text": "This spell costs {1} less to cast for each creature card in your graveyard.\nOnce during each of your turns, you may cast a creature spell from your graveyard.",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5a645837-b050-449f-ac90-1e7ccbf45031",
+  "set": "2x2",
+  "set_name": "Double Masters 2022",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/5a645837-b050-449f-ac90-1e7ccbf45031",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A2x2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/2x2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6200ac79-b166-43d0-9a0b-5b547625ed57/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A304c194f-fa0b-42e5-93ca-8c587181d33c&unique=prints",
+  "collector_number": "238",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "\"Death tried to uncrown me. But now I return, king of a greater realm.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Todd Lockwood",
+  "artist_ids": [
+    "d0b9f3cc-13fb-42b6-bc43-b034728e5c7b"
+  ],
+  "illustration_id": "e0e67458-dc54-4289-b75a-25d47923b1c6",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 8871,
+  "penny_rank": 4413,
+  "preview": {
+    "source": "BIG MAGIC",
+    "source_uri": "https://twitter.com/MtgBigmagic/status/1539171530181328897",
+    "previewed_at": "2022-06-21"
+  },
+  "prices": {
+    "usd": "0.33",
+    "usd_foil": "0.63",
+    "usd_etched": null,
+    "eur": "0.53",
+    "eur_foil": "0.93",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=571571&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKarador%252C%2BGhost%2BChieftain",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKarador%252C%2BGhost%2BChieftain",
+    "edhrec": "https://edhrec.com/route/?cc=Karador%2C+Ghost+Chieftain"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F276646%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=665784&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/101960?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "object": "card",
+  "id": "76425962-bdc9-4ea7-9c96-dd21a1dd5644",
+  "oracle_id": "a1ea2cba-f184-4a27-9971-3a56b0a0e390",
+  "multiverse_ids": [],
+  "mtgo_id": 90342,
+  "name": "Mascot Exhibition",
+  "lang": "en",
+  "released_at": "2021-05-01",
+  "uri": "https://api.scryfall.com/cards/76425962-bdc9-4ea7-9c96-dd21a1dd5644",
+  "scryfall_uri": "https://scryfall.com/card/prm/90342/mascot-exhibition?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/6/76425962-bdc9-4ea7-9c96-dd21a1dd5644.jpg?1681081538",
+    "normal": "https://cards.scryfall.io/normal/front/7/6/76425962-bdc9-4ea7-9c96-dd21a1dd5644.jpg?1681081538",
+    "large": "https://cards.scryfall.io/large/front/7/6/76425962-bdc9-4ea7-9c96-dd21a1dd5644.jpg?1681081538",
+    "png": "https://cards.scryfall.io/png/front/7/6/76425962-bdc9-4ea7-9c96-dd21a1dd5644.png?1681081538",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/6/76425962-bdc9-4ea7-9c96-dd21a1dd5644.jpg?1681081538",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/6/76425962-bdc9-4ea7-9c96-dd21a1dd5644.jpg?1681081538"
+  },
+  "mana_cost": "{7}",
+  "cmc": 7,
+  "type_line": "Sorcery — Lesson",
+  "oracle_text": "Create a 2/1 white and black Inkling creature token with flying, a 3/2 red and white Spirit creature token, and a 4/4 blue and red Elemental creature token.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "072cd10b-98d3-452e-bf8d-13a75cc3d72e",
+      "component": "token",
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/072cd10b-98d3-452e-bf8d-13a75cc3d72e"
+    },
+    {
+      "object": "related_card",
+      "id": "76425962-bdc9-4ea7-9c96-dd21a1dd5644",
+      "component": "combo_piece",
+      "name": "Mascot Exhibition",
+      "type_line": "Sorcery — Lesson",
+      "uri": "https://api.scryfall.com/cards/76425962-bdc9-4ea7-9c96-dd21a1dd5644"
+    },
+    {
+      "object": "related_card",
+      "id": "7b19a41d-95c1-4cd8-89fc-4ec89ab10884",
+      "component": "token",
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "uri": "https://api.scryfall.com/cards/7b19a41d-95c1-4cd8-89fc-4ec89ab10884"
+    },
+    {
+      "object": "related_card",
+      "id": "550b47b9-661d-469e-a4de-f3c59606c839",
+      "component": "token",
+      "name": "Inkling",
+      "type_line": "Token Creature — Inkling",
+      "uri": "https://api.scryfall.com/cards/550b47b9-661d-469e-a4de-f3c59606c839"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/76425962-bdc9-4ea7-9c96-dd21a1dd5644/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa1ea2cba-f184-4a27-9971-3a56b0a0e390&unique=prints",
+  "collector_number": "90342",
+  "digital": true,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Randy Vargas",
+  "artist_ids": [
+    "d20672ca-0555-4238-a984-fd171d36b247"
+  ],
+  "illustration_id": "0ecc7d66-96ca-4869-bb40-2145ef475d96",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "lesson"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 17527,
+  "penny_rank": 12609,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.10"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMascot%2BExhibition",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMascot%2BExhibition",
+    "edhrec": "https://edhrec.com/route/?cc=Mascot+Exhibition"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DMascot%2BExhibition%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mascot+Exhibition&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/90342?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

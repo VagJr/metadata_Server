@@ -1,0 +1,148 @@
+{
+  "object": "card",
+  "id": "87cc2855-6b14-44dd-a398-7dc2bbae081f",
+  "oracle_id": "7359e82b-db79-488d-a1d4-75a00f12a4cf",
+  "multiverse_ids": [
+    522303
+  ],
+  "mtgo_id": 90835,
+  "tcgplayer_id": 240060,
+  "cardmarket_id": 566554,
+  "name": "Kaldra Compleat",
+  "lang": "en",
+  "released_at": "2021-06-18",
+  "uri": "https://api.scryfall.com/cards/87cc2855-6b14-44dd-a398-7dc2bbae081f",
+  "scryfall_uri": "https://scryfall.com/card/mh2/227/kaldra-compleat?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/7/87cc2855-6b14-44dd-a398-7dc2bbae081f.jpg?1626099096",
+    "normal": "https://cards.scryfall.io/normal/front/8/7/87cc2855-6b14-44dd-a398-7dc2bbae081f.jpg?1626099096",
+    "large": "https://cards.scryfall.io/large/front/8/7/87cc2855-6b14-44dd-a398-7dc2bbae081f.jpg?1626099096",
+    "png": "https://cards.scryfall.io/png/front/8/7/87cc2855-6b14-44dd-a398-7dc2bbae081f.png?1626099096",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/7/87cc2855-6b14-44dd-a398-7dc2bbae081f.jpg?1626099096",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/7/87cc2855-6b14-44dd-a398-7dc2bbae081f.jpg?1626099096"
+  },
+  "mana_cost": "{7}",
+  "cmc": 7,
+  "type_line": "Legendary Artifact — Equipment",
+  "oracle_text": "Living weapon\nIndestructible\nEquipped creature gets +5/+5 and has first strike, trample, indestructible, haste, and \"Whenever this creature deals combat damage to a creature, exile that creature.\"\nEquip {7}",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Indestructible",
+    "Equip",
+    "Living weapon"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a5a0ae99-d84a-4f27-bed8-889747c78529",
+      "component": "combo_piece",
+      "name": "Kaldra Compleat",
+      "type_line": "Legendary Artifact — Equipment",
+      "uri": "https://api.scryfall.com/cards/a5a0ae99-d84a-4f27-bed8-889747c78529"
+    },
+    {
+      "object": "related_card",
+      "id": "b53e0681-603e-4180-bc86-3dadf214e61a",
+      "component": "token",
+      "name": "Phyrexian Germ",
+      "type_line": "Token Creature — Phyrexian Germ",
+      "uri": "https://api.scryfall.com/cards/b53e0681-603e-4180-bc86-3dadf214e61a"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c1c7eb8c-f205-40ab-a609-767cb296544e",
+  "set": "mh2",
+  "set_name": "Modern Horizons 2",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/c1c7eb8c-f205-40ab-a609-767cb296544e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/87cc2855-6b14-44dd-a398-7dc2bbae081f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7359e82b-db79-488d-a1d4-75a00f12a4cf&unique=prints",
+  "collector_number": "227",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Vincent Proce",
+  "artist_ids": [
+    "d82b1138-76d3-49f7-9d8c-bc2e2d3e0b0a"
+  ],
+  "illustration_id": "1abad493-139e-4f6d-b519-d488d493daa6",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1395,
+  "preview": {
+    "source": "INSTINCT3",
+    "source_uri": "https://twitter.com/I3Agency/status/1398229728352518144",
+    "previewed_at": "2021-05-28"
+  },
+  "prices": {
+    "usd": "6.31",
+    "usd_foil": "14.86",
+    "usd_etched": null,
+    "eur": "3.73",
+    "eur_foil": "7.38",
+    "tix": "0.42"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522303&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKaldra%2BCompleat",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKaldra%2BCompleat",
+    "edhrec": "https://edhrec.com/route/?cc=Kaldra+Compleat"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F240060%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=566554&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/90835?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

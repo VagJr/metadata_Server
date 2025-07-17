@@ -1,0 +1,118 @@
+{
+  "object": "card",
+  "id": "e5594689-0f32-4592-859b-c746f3464fc6",
+  "oracle_id": "342daae1-f7f0-4bce-94bc-e9bdce53e48e",
+  "multiverse_ids": [],
+  "tcgplayer_id": 203632,
+  "cardmarket_id": 418396,
+  "name": "Dark Dabbling",
+  "lang": "en",
+  "released_at": "2019-11-07",
+  "uri": "https://api.scryfall.com/cards/e5594689-0f32-4592-859b-c746f3464fc6",
+  "scryfall_uri": "https://scryfall.com/card/plst/ORI-89/dark-dabbling?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/5/e5594689-0f32-4592-859b-c746f3464fc6.jpg?1573509272",
+    "normal": "https://cards.scryfall.io/normal/front/e/5/e5594689-0f32-4592-859b-c746f3464fc6.jpg?1573509272",
+    "large": "https://cards.scryfall.io/large/front/e/5/e5594689-0f32-4592-859b-c746f3464fc6.jpg?1573509272",
+    "png": "https://cards.scryfall.io/png/front/e/5/e5594689-0f32-4592-859b-c746f3464fc6.png?1573509272",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/5/e5594689-0f32-4592-859b-c746f3464fc6.jpg?1573509272",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/5/e5594689-0f32-4592-859b-c746f3464fc6.jpg?1573509272"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3,
+  "type_line": "Instant",
+  "oracle_text": "Regenerate target creature. Draw a card. (The next time the creature would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)\nSpell mastery — If there are two or more instant and/or sorcery cards in your graveyard, also regenerate each other creature you control.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Spell mastery"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e5594689-0f32-4592-859b-c746f3464fc6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A342daae1-f7f0-4bce-94bc-e9bdce53e48e&unique=prints",
+  "collector_number": "ORI-89",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Bastien L. Deharme",
+  "artist_ids": [
+    "798f63ec-41ad-474e-9708-df08193345c6"
+  ],
+  "illustration_id": "7268c1dd-c40d-4493-8b96-38e4a4b09b7e",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 12041,
+  "penny_rank": 10053,
+  "prices": {
+    "usd": "0.12",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDark%2BDabbling",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDark%2BDabbling",
+    "edhrec": "https://edhrec.com/route/?cc=Dark+Dabbling"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F203632%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=418396&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dark+Dabbling&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

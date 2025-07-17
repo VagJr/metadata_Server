@@ -1,0 +1,164 @@
+{
+  "object": "card",
+  "id": "72e3e4dd-6480-4e1c-b4bb-1db601968547",
+  "oracle_id": "12c71296-1243-49e6-a196-8b016a7b635c",
+  "multiverse_ids": [],
+  "tcgplayer_id": 514294,
+  "name": "Scalding Viper // Steam Clean",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/72e3e4dd-6480-4e1c-b4bb-1db601968547",
+  "scryfall_uri": "https://scryfall.com/card/pwoe/235p/scalding-viper-steam-clean?utm_source=api",
+  "layout": "adventure",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/2/72e3e4dd-6480-4e1c-b4bb-1db601968547.jpg?1694308213",
+    "normal": "https://cards.scryfall.io/normal/front/7/2/72e3e4dd-6480-4e1c-b4bb-1db601968547.jpg?1694308213",
+    "large": "https://cards.scryfall.io/large/front/7/2/72e3e4dd-6480-4e1c-b4bb-1db601968547.jpg?1694308213",
+    "png": "https://cards.scryfall.io/png/front/7/2/72e3e4dd-6480-4e1c-b4bb-1db601968547.png?1694308213",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/2/72e3e4dd-6480-4e1c-b4bb-1db601968547.jpg?1694308213",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/2/72e3e4dd-6480-4e1c-b4bb-1db601968547.jpg?1694308213"
+  },
+  "mana_cost": "{1}{R} // {1}{U}",
+  "cmc": 2,
+  "type_line": "Creature — Elemental Snake // Sorcery — Adventure",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Scalding Viper",
+      "mana_cost": "{1}{R}",
+      "type_line": "Creature — Elemental Snake",
+      "oracle_text": "Whenever an opponent casts a spell with mana value 3 or less, this creature deals 1 damage to that player.",
+      "power": "2",
+      "toughness": "1",
+      "artist": "Andrew Mar",
+      "artist_id": "adad79bf-cd52-456a-b170-740ed8bff0fc",
+      "illustration_id": "dd6bc633-cbe2-4134-8643-e912e0069a4a"
+    },
+    {
+      "object": "card_face",
+      "name": "Steam Clean",
+      "mana_cost": "{1}{U}",
+      "type_line": "Sorcery — Adventure",
+      "oracle_text": "Return target nonland permanent to its owner's hand. (Then exile this card. You may cast the creature later from exile.)",
+      "artist": "Andrew Mar",
+      "artist_id": "adad79bf-cd52-456a-b170-740ed8bff0fc"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "b679c01e-ae66-45ff-ba40-0ae6ddb275a4",
+      "component": "combo_piece",
+      "name": "Scalding Viper // Steam Clean",
+      "type_line": "Creature — Elemental Snake // Sorcery — Adventure",
+      "uri": "https://api.scryfall.com/cards/b679c01e-ae66-45ff-ba40-0ae6ddb275a4"
+    },
+    {
+      "object": "related_card",
+      "id": "fcf4c7fb-7859-4c11-8552-6817f5119d2e",
+      "component": "combo_piece",
+      "name": "On an Adventure",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/fcf4c7fb-7859-4c11-8552-6817f5119d2e"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "909bf1bb-3277-41d6-af0f-293df1203099",
+  "set": "pwoe",
+  "set_name": "Wilds of Eldraine Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/909bf1bb-3277-41d6-af0f-293df1203099",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwoe&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwoe?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/72e3e4dd-6480-4e1c-b4bb-1db601968547/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A12c71296-1243-49e6-a196-8b016a7b635c&unique=prints",
+  "collector_number": "235p",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Andrew Mar",
+  "artist_ids": [
+    "adad79bf-cd52-456a-b170-740ed8bff0fc"
+  ],
+  "illustration_id": "dd6bc633-cbe2-4134-8643-e912e0069a4a",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 5348,
+  "penny_rank": 2193,
+  "prices": {
+    "usd": "0.36",
+    "usd_foil": "0.49",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DScalding%2BViper%2B%252F%252F%2BSteam%2BClean",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DScalding%2BViper%2B%252F%252F%2BSteam%2BClean",
+    "edhrec": "https://edhrec.com/route/?cc=Scalding+Viper"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F514294%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Scalding+Viper&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Scalding+Viper&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

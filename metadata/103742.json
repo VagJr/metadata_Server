@@ -1,0 +1,178 @@
+{
+  "object": "card",
+  "id": "f54b25e1-193a-41fb-9d24-3147cb381dbe",
+  "oracle_id": "3ca07da2-29a1-40ce-a7f3-4838e95ca1d9",
+  "multiverse_ids": [
+    632242
+  ],
+  "mtgo_id": 116044,
+  "tcgplayer_id": 513353,
+  "cardmarket_id": 730321,
+  "name": "Heartflame Duelist // Heartflame Slash",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/f54b25e1-193a-41fb-9d24-3147cb381dbe",
+  "scryfall_uri": "https://scryfall.com/card/woe/290/heartflame-duelist-heartflame-slash?utm_source=api",
+  "layout": "adventure",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/5/f54b25e1-193a-41fb-9d24-3147cb381dbe.jpg?1692940317",
+    "normal": "https://cards.scryfall.io/normal/front/f/5/f54b25e1-193a-41fb-9d24-3147cb381dbe.jpg?1692940317",
+    "large": "https://cards.scryfall.io/large/front/f/5/f54b25e1-193a-41fb-9d24-3147cb381dbe.jpg?1692940317",
+    "png": "https://cards.scryfall.io/png/front/f/5/f54b25e1-193a-41fb-9d24-3147cb381dbe.png?1692940317",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/5/f54b25e1-193a-41fb-9d24-3147cb381dbe.jpg?1692940317",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/5/f54b25e1-193a-41fb-9d24-3147cb381dbe.jpg?1692940317"
+  },
+  "mana_cost": "{1}{W} // {2}{R}",
+  "cmc": 2,
+  "type_line": "Creature — Human Knight // Instant — Adventure",
+  "power": "3",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "R",
+    "W"
+  ],
+  "keywords": [],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Heartflame Duelist",
+      "mana_cost": "{1}{W}",
+      "type_line": "Creature — Human Knight",
+      "oracle_text": "Instant and sorcery spells you control have lifelink.",
+      "power": "3",
+      "toughness": "1",
+      "artist": "Allen Williams",
+      "artist_id": "8a56d854-b424-45ec-9262-e993a382a961",
+      "illustration_id": "fc97715d-1210-4859-979f-59fc23822446"
+    },
+    {
+      "object": "card_face",
+      "name": "Heartflame Slash",
+      "mana_cost": "{2}{R}",
+      "type_line": "Instant — Adventure",
+      "oracle_text": "Heartflame Slash deals 3 damage to any target. (Then exile this card. You may cast the creature later from exile.)",
+      "artist": "Allen Williams",
+      "artist_id": "8a56d854-b424-45ec-9262-e993a382a961"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "f54b25e1-193a-41fb-9d24-3147cb381dbe",
+      "component": "combo_piece",
+      "name": "Heartflame Duelist // Heartflame Slash",
+      "type_line": "Creature — Human Knight // Instant — Adventure",
+      "uri": "https://api.scryfall.com/cards/f54b25e1-193a-41fb-9d24-3147cb381dbe"
+    },
+    {
+      "object": "related_card",
+      "id": "fcf4c7fb-7859-4c11-8552-6817f5119d2e",
+      "component": "combo_piece",
+      "name": "On an Adventure",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/fcf4c7fb-7859-4c11-8552-6817f5119d2e"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "79139661-13ee-43c4-8bad-a8c069f1a1df",
+  "set": "woe",
+  "set_name": "Wilds of Eldraine",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/79139661-13ee-43c4-8bad-a8c069f1a1df",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awoe&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/woe?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f54b25e1-193a-41fb-9d24-3147cb381dbe/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3ca07da2-29a1-40ce-a7f3-4838e95ca1d9&unique=prints",
+  "collector_number": "290",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Allen Williams",
+  "artist_ids": [
+    "8a56d854-b424-45ec-9262-e993a382a961"
+  ],
+  "illustration_id": "fc97715d-1210-4859-979f-59fc23822446",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 9186,
+  "penny_rank": 1712,
+  "preview": {
+    "source": "Ken Yukuhiro",
+    "source_uri": "https://twitter.com/death_snow/status/1693606374549397911",
+    "previewed_at": "2023-08-21"
+  },
+  "prices": {
+    "usd": "0.22",
+    "usd_foil": "0.25",
+    "usd_etched": null,
+    "eur": "0.15",
+    "eur_foil": "0.35",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=632242&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHeartflame%2BDuelist%2B%252F%252F%2BHeartflame%2BSlash",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHeartflame%2BDuelist%2B%252F%252F%2BHeartflame%2BSlash",
+    "edhrec": "https://edhrec.com/route/?cc=Heartflame+Duelist"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F513353%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=730321&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/116044?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

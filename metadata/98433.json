@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "e896487d-1115-4b83-9457-f441783aeef1",
+  "oracle_id": "9d6a9a37-a245-4503-baeb-9488553798ab",
+  "multiverse_ids": [],
+  "mtgo_id": 105702,
+  "name": "Gixian Puppeteer",
+  "lang": "en",
+  "released_at": "2023-02-06",
+  "uri": "https://api.scryfall.com/cards/e896487d-1115-4b83-9457-f441783aeef1",
+  "scryfall_uri": "https://scryfall.com/card/prm/105702/gixian-puppeteer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/8/e896487d-1115-4b83-9457-f441783aeef1.jpg?1681141174",
+    "normal": "https://cards.scryfall.io/normal/front/e/8/e896487d-1115-4b83-9457-f441783aeef1.jpg?1681141174",
+    "large": "https://cards.scryfall.io/large/front/e/8/e896487d-1115-4b83-9457-f441783aeef1.jpg?1681141174",
+    "png": "https://cards.scryfall.io/png/front/e/8/e896487d-1115-4b83-9457-f441783aeef1.png?1681141174",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/8/e896487d-1115-4b83-9457-f441783aeef1.jpg?1681141174",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/8/e896487d-1115-4b83-9457-f441783aeef1.jpg?1681141174"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4,
+  "type_line": "Creature — Phyrexian Warlock",
+  "oracle_text": "Whenever you draw your second card each turn, each opponent loses 2 life and you gain 2 life.\nWhen this creature dies, return another target creature card with mana value 3 or less from your graveyard to the battlefield.",
+  "power": "4",
+  "toughness": "3",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e896487d-1115-4b83-9457-f441783aeef1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9d6a9a37-a245-4503-baeb-9488553798ab&unique=prints",
+  "collector_number": "105702",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Bastien L. Deharme",
+  "artist_ids": [
+    "798f63ec-41ad-474e-9708-df08193345c6"
+  ],
+  "illustration_id": "0137a960-3ed5-4c07-bc01-61e82322b1fd",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3163,
+  "penny_rank": 5983,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.37"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGixian%2BPuppeteer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGixian%2BPuppeteer",
+    "edhrec": "https://edhrec.com/route/?cc=Gixian+Puppeteer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DGixian%2BPuppeteer%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gixian+Puppeteer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/105702?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

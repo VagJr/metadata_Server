@@ -1,0 +1,168 @@
+{
+  "object": "card",
+  "id": "7d95f911-91c3-41ee-a709-c579c723eede",
+  "oracle_id": "e4719557-d94e-490f-8a56-c1867a01d2ef",
+  "multiverse_ids": [],
+  "tcgplayer_id": 630984,
+  "cardmarket_id": 824351,
+  "name": "Cecil, Dark Knight // Cecil, Redeemed Paladin",
+  "lang": "en",
+  "released_at": "2025-06-13",
+  "uri": "https://api.scryfall.com/cards/7d95f911-91c3-41ee-a709-c579c723eede",
+  "scryfall_uri": "https://scryfall.com/card/fin/525/cecil-dark-knight-cecil-redeemed-paladin?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 1,
+  "type_line": "Legendary Creature — Human Knight // Legendary Creature — Human Knight",
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [
+    "Lifelink",
+    "Protect",
+    "Transform",
+    "Darkness",
+    "Deathtouch"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Cecil, Dark Knight",
+      "mana_cost": "{B}",
+      "type_line": "Legendary Creature — Human Knight",
+      "oracle_text": "Deathtouch\nDarkness — Whenever Cecil deals damage, you lose that much life. Then if your life total is less than or equal to half your starting life total, untap Cecil and transform it.",
+      "colors": [
+        "B"
+      ],
+      "power": "2",
+      "toughness": "3",
+      "artist": "Misei Ito",
+      "artist_id": "527892b4-5984-4536-baf4-d5ea9617c249",
+      "illustration_id": "43cc83fd-f443-49ce-8fe3-a15e05e88921",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/7/d/7d95f911-91c3-41ee-a709-c579c723eede.jpg?1749585159",
+        "normal": "https://cards.scryfall.io/normal/front/7/d/7d95f911-91c3-41ee-a709-c579c723eede.jpg?1749585159",
+        "large": "https://cards.scryfall.io/large/front/7/d/7d95f911-91c3-41ee-a709-c579c723eede.jpg?1749585159",
+        "png": "https://cards.scryfall.io/png/front/7/d/7d95f911-91c3-41ee-a709-c579c723eede.png?1749585159",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/7/d/7d95f911-91c3-41ee-a709-c579c723eede.jpg?1749585159",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/7/d/7d95f911-91c3-41ee-a709-c579c723eede.jpg?1749585159"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Cecil, Redeemed Paladin",
+      "mana_cost": "",
+      "type_line": "Legendary Creature — Human Knight",
+      "oracle_text": "Lifelink\nProtect — Whenever Cecil attacks, other attacking creatures gain indestructible until end of turn.",
+      "colors": [
+        "W"
+      ],
+      "color_indicator": [
+        "W"
+      ],
+      "power": "4",
+      "toughness": "4",
+      "artist": "Misei Ito",
+      "artist_id": "527892b4-5984-4536-baf4-d5ea9617c249",
+      "illustration_id": "578cf64b-0e30-4b3a-b24b-ecc51469a77e",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/7/d/7d95f911-91c3-41ee-a709-c579c723eede.jpg?1749585159",
+        "normal": "https://cards.scryfall.io/normal/back/7/d/7d95f911-91c3-41ee-a709-c579c723eede.jpg?1749585159",
+        "large": "https://cards.scryfall.io/large/back/7/d/7d95f911-91c3-41ee-a709-c579c723eede.jpg?1749585159",
+        "png": "https://cards.scryfall.io/png/back/7/d/7d95f911-91c3-41ee-a709-c579c723eede.png?1749585159",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/7/d/7d95f911-91c3-41ee-a709-c579c723eede.jpg?1749585159",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/7/d/7d95f911-91c3-41ee-a709-c579c723eede.jpg?1749585159"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7beb4b7-e1ff-4d35-ab07-5700f17ea1ea",
+  "set": "fin",
+  "set_name": "Final Fantasy",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/d7beb4b7-e1ff-4d35-ab07-5700f17ea1ea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afin&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fin?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7d95f911-91c3-41ee-a709-c579c723eede/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae4719557-d94e-490f-8a56-c1867a01d2ef&unique=prints",
+  "collector_number": "525",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Misei Ito",
+  "artist_ids": [
+    "527892b4-5984-4536-baf4-d5ea9617c249"
+  ],
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "triangle",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "ffiv",
+    "surgefoil",
+    "boosterfun"
+  ],
+  "edhrec_rank": 13976,
+  "prices": {
+    "usd": null,
+    "usd_foil": "33.80",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "32.70",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCecil%252C%2BDark%2BKnight%2B%252F%252F%2BCecil%252C%2BRedeemed%2BPaladin",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCecil%252C%2BDark%2BKnight%2B%252F%252F%2BCecil%252C%2BRedeemed%2BPaladin",
+    "edhrec": "https://edhrec.com/route/?cc=Cecil%2C+Dark+Knight"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F630984%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=824351&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cecil%2C+Dark+Knight&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

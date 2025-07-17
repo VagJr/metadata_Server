@@ -1,0 +1,148 @@
+{
+  "object": "card",
+  "id": "6265bf1d-07a8-4f84-a39f-ee02d9921771",
+  "oracle_id": "d4424585-9564-4ec2-8267-3f5438e1f29e",
+  "multiverse_ids": [],
+  "tcgplayer_id": 518971,
+  "name": "Gallifrey Falls // No More",
+  "lang": "en",
+  "released_at": "2023-10-13",
+  "uri": "https://api.scryfall.com/cards/6265bf1d-07a8-4f84-a39f-ee02d9921771",
+  "scryfall_uri": "https://scryfall.com/card/who/736/gallifrey-falls-no-more?utm_source=api",
+  "layout": "split",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/2/6265bf1d-07a8-4f84-a39f-ee02d9921771.jpg?1709906986",
+    "normal": "https://cards.scryfall.io/normal/front/6/2/6265bf1d-07a8-4f84-a39f-ee02d9921771.jpg?1709906986",
+    "large": "https://cards.scryfall.io/large/front/6/2/6265bf1d-07a8-4f84-a39f-ee02d9921771.jpg?1709906986",
+    "png": "https://cards.scryfall.io/png/front/6/2/6265bf1d-07a8-4f84-a39f-ee02d9921771.png?1709906986",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/2/6265bf1d-07a8-4f84-a39f-ee02d9921771.jpg?1709906986",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/2/6265bf1d-07a8-4f84-a39f-ee02d9921771.jpg?1709906986"
+  },
+  "mana_cost": "{4}{R}{R} // {2}{W}",
+  "cmc": 9,
+  "type_line": "Instant // Instant",
+  "colors": [
+    "R",
+    "W"
+  ],
+  "color_identity": [
+    "R",
+    "W"
+  ],
+  "keywords": [
+    "Fuse"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Gallifrey Falls",
+      "mana_cost": "{4}{R}{R}",
+      "type_line": "Instant",
+      "oracle_text": "Gallifrey Falls deals 4 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead.\nFuse (You may cast one or both halves of this card from your hand.)",
+      "artist": "John Di Giovanni",
+      "artist_id": "dc7630d7-41e3-4fef-8630-058d1ba39d37",
+      "illustration_id": "83c07c95-78af-485c-8295-dc8afbdfd056"
+    },
+    {
+      "object": "card_face",
+      "name": "No More",
+      "mana_cost": "{2}{W}",
+      "type_line": "Instant",
+      "oracle_text": "Any number of target creatures you control phase out.\nFuse (You may cast one or both halves of this card from your hand.)",
+      "artist": "John Di Giovanni",
+      "artist_id": "dc7630d7-41e3-4fef-8630-058d1ba39d37"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "efdfdd99-cee7-4c11-a5e9-03d60f88bdd6",
+  "set": "who",
+  "set_name": "Doctor Who",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/efdfdd99-cee7-4c11-a5e9-03d60f88bdd6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awho&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/who?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6265bf1d-07a8-4f84-a39f-ee02d9921771/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad4424585-9564-4ec2-8267-3f5438e1f29e&unique=prints",
+  "collector_number": "736",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "John Di Giovanni",
+  "artist_ids": [
+    "dc7630d7-41e3-4fef-8630-058d1ba39d37"
+  ],
+  "illustration_id": "83c07c95-78af-485c-8295-dc8afbdfd056",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "surgefoil",
+    "boosterfun"
+  ],
+  "edhrec_rank": 8170,
+  "preview": {
+    "source": "IGN",
+    "source_uri": "https://www.ign.com/articles/doctor-who-magic-the-gathering-commander-spoilers-reveals-dont-blink-weeping-angels",
+    "previewed_at": "2023-10-02"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "7.99",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGallifrey%2BFalls%2B%252F%252F%2BNo%2BMore",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGallifrey%2BFalls%2B%252F%252F%2BNo%2BMore",
+    "edhrec": "https://edhrec.com/route/?cc=Gallifrey+Falls+%2F%2F+No+More"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F518971%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gallifrey+Falls+%2F%2F+No+More&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Gallifrey+Falls+%2F%2F+No+More&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

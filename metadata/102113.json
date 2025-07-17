@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "f160f304-64a2-4211-afa6-65acb5b686f7",
+  "oracle_id": "3c8d4999-e18b-48d8-8ed9-f2feaa38300d",
+  "multiverse_ids": [
+    489884
+  ],
+  "mtgo_id": 82456,
+  "tcgplayer_id": 218936,
+  "cardmarket_id": 486064,
+  "name": "Merciless Eviction",
+  "lang": "en",
+  "released_at": "2020-08-07",
+  "uri": "https://api.scryfall.com/cards/f160f304-64a2-4211-afa6-65acb5b686f7",
+  "scryfall_uri": "https://scryfall.com/card/2xm/211/merciless-eviction?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/1/f160f304-64a2-4211-afa6-65acb5b686f7.jpg?1599708232",
+    "normal": "https://cards.scryfall.io/normal/front/f/1/f160f304-64a2-4211-afa6-65acb5b686f7.jpg?1599708232",
+    "large": "https://cards.scryfall.io/large/front/f/1/f160f304-64a2-4211-afa6-65acb5b686f7.jpg?1599708232",
+    "png": "https://cards.scryfall.io/png/front/f/1/f160f304-64a2-4211-afa6-65acb5b686f7.png?1599708232",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/1/f160f304-64a2-4211-afa6-65acb5b686f7.jpg?1599708232",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/1/f160f304-64a2-4211-afa6-65acb5b686f7.jpg?1599708232"
+  },
+  "mana_cost": "{4}{W}{B}",
+  "cmc": 6,
+  "type_line": "Sorcery",
+  "oracle_text": "Choose one —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all planeswalkers.",
+  "colors": [
+    "B",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "372dafe8-b5d1-4b81-998f-3ae96b59498a",
+  "set": "2xm",
+  "set_name": "Double Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/372dafe8-b5d1-4b81-998f-3ae96b59498a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A2xm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/2xm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f160f304-64a2-4211-afa6-65acb5b686f7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3c8d4999-e18b-48d8-8ed9-f2feaa38300d&unique=prints",
+  "collector_number": "211",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Richard Wright",
+  "artist_ids": [
+    "7b1b0ce9-2c58-4321-a2a7-cdc94feae082"
+  ],
+  "illustration_id": "845c2339-fc42-4184-a220-4899c5186bf8",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2114,
+  "penny_rank": 3674,
+  "preview": {
+    "source": "Shouta Yasooka",
+    "source_uri": "https://twitter.com/yaya3_/status/1288150507370901504",
+    "previewed_at": "2020-07-28"
+  },
+  "prices": {
+    "usd": "1.51",
+    "usd_foil": "2.42",
+    "usd_etched": null,
+    "eur": "0.81",
+    "eur_foil": "2.07",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489884&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMerciless%2BEviction",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMerciless%2BEviction",
+    "edhrec": "https://edhrec.com/route/?cc=Merciless+Eviction"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F218936%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=486064&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/82456?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

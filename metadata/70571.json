@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "a6954371-0733-444a-af1e-38199ca45e42",
+  "oracle_id": "e5fcc5d7-6a60-4a5b-9d02-6c30041a95b9",
+  "multiverse_ids": [],
+  "mtgo_id": 104146,
+  "mtgo_foil_id": 104147,
+  "tcgplayer_id": 456811,
+  "cardmarket_id": 689187,
+  "name": "Talisman of Unity",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/a6954371-0733-444a-af1e-38199ca45e42",
+  "scryfall_uri": "https://scryfall.com/card/scd/284/talisman-of-unity?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/6/a6954371-0733-444a-af1e-38199ca45e42.jpg?1674676306",
+    "normal": "https://cards.scryfall.io/normal/front/a/6/a6954371-0733-444a-af1e-38199ca45e42.jpg?1674676306",
+    "large": "https://cards.scryfall.io/large/front/a/6/a6954371-0733-444a-af1e-38199ca45e42.jpg?1674676306",
+    "png": "https://cards.scryfall.io/png/front/a/6/a6954371-0733-444a-af1e-38199ca45e42.png?1674676306",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/6/a6954371-0733-444a-af1e-38199ca45e42.jpg?1674676306",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/6/a6954371-0733-444a-af1e-38199ca45e42.jpg?1674676306"
+  },
+  "mana_cost": "{2}",
+  "cmc": 2,
+  "type_line": "Artifact",
+  "oracle_text": "{T}: Add {C}.\n{T}: Add {G} or {W}. This artifact deals 1 damage to you.",
+  "colors": [],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "C",
+    "G",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set": "scd",
+  "set_name": "Starter Commander Decks",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ascd&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/scd?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a6954371-0733-444a-af1e-38199ca45e42/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae5fcc5d7-6a60-4a5b-9d02-6c30041a95b9&unique=prints",
+  "collector_number": "284",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mike Dringenberg",
+  "artist_ids": [
+    "a1407afa-0f54-43f8-938b-88b268074f91"
+  ],
+  "illustration_id": "ec920093-f947-4b54-b97b-bf580ff9356e",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 902,
+  "penny_rank": 3985,
+  "prices": {
+    "usd": "0.52",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.35",
+    "eur_foil": null,
+    "tix": "0.34"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTalisman%2Bof%2BUnity",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTalisman%2Bof%2BUnity",
+    "edhrec": "https://edhrec.com/route/?cc=Talisman+of+Unity"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F456811%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=689187&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/104146?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "object": "card",
+  "id": "44c6a273-9307-432a-96f5-3e536da70f95",
+  "oracle_id": "0e26b429-0469-474a-818a-2d4696c38a05",
+  "multiverse_ids": [
+    619456
+  ],
+  "mtgo_id": 111628,
+  "tcgplayer_id": 488266,
+  "cardmarket_id": 701766,
+  "name": "Samwise the Stouthearted",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/44c6a273-9307-432a-96f5-3e536da70f95",
+  "scryfall_uri": "https://scryfall.com/card/ltr/306/samwise-the-stouthearted?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/4/44c6a273-9307-432a-96f5-3e536da70f95.jpg?1686970930",
+    "normal": "https://cards.scryfall.io/normal/front/4/4/44c6a273-9307-432a-96f5-3e536da70f95.jpg?1686970930",
+    "large": "https://cards.scryfall.io/large/front/4/4/44c6a273-9307-432a-96f5-3e536da70f95.jpg?1686970930",
+    "png": "https://cards.scryfall.io/png/front/4/4/44c6a273-9307-432a-96f5-3e536da70f95.png?1686970930",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/4/44c6a273-9307-432a-96f5-3e536da70f95.jpg?1686970930",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/4/44c6a273-9307-432a-96f5-3e536da70f95.jpg?1686970930"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Halfling Peasant",
+  "oracle_text": "Flash\nWhen Samwise enters, choose up to one target permanent card in your graveyard that was put there from the battlefield this turn. Return it to your hand. Then the Ring tempts you.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flash"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "fbc88c94-adf6-4699-a11e-24ebd16aac0c",
+      "component": "combo_piece",
+      "name": "Samwise the Stouthearted",
+      "type_line": "Legendary Creature — Halfling Peasant",
+      "uri": "https://api.scryfall.com/cards/fbc88c94-adf6-4699-a11e-24ebd16aac0c"
+    },
+    {
+      "object": "related_card",
+      "id": "7215460e-8c06-47d0-94e5-d1832d0218af",
+      "component": "combo_piece",
+      "name": "The Ring // The Ring Tempts You",
+      "type_line": "Emblem // Card",
+      "uri": "https://api.scryfall.com/cards/7215460e-8c06-47d0-94e5-d1832d0218af"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "08078706-ac5d-439b-8f01-894d38751367",
+  "set": "ltr",
+  "set_name": "The Lord of the Rings: Tales of Middle-earth",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/08078706-ac5d-439b-8f01-894d38751367",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/44c6a273-9307-432a-96f5-3e536da70f95/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0e26b429-0469-474a-818a-2d4696c38a05&unique=prints",
+  "collector_number": "306",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Marko Manev",
+  "artist_ids": [
+    "56df08cb-1e7d-415b-96c6-e8106742bfdc"
+  ],
+  "illustration_id": "68071571-8717-4a5f-8be4-6784809364c9",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "showcase"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 3824,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/news/announcements/a-first-look-at-the-lord-of-the-rings-tales-of-middle-earth",
+    "previewed_at": "2023-03-14"
+  },
+  "prices": {
+    "usd": "0.14",
+    "usd_foil": "0.23",
+    "usd_etched": null,
+    "eur": "0.11",
+    "eur_foil": "0.35",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=619456&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSamwise%2Bthe%2BStouthearted",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSamwise%2Bthe%2BStouthearted",
+    "edhrec": "https://edhrec.com/route/?cc=Samwise+the+Stouthearted"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F488266%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=701766&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/111628?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "object": "card",
+  "id": "e6c24160-448e-4814-8434-96d5a7d2f5ec",
+  "oracle_id": "80f8a64e-b22e-413e-a143-f1943be3a574",
+  "multiverse_ids": [
+    547858
+  ],
+  "arena_id": 75630,
+  "name": "Ice Over",
+  "lang": "en",
+  "released_at": "2020-11-12",
+  "uri": "https://api.scryfall.com/cards/e6c24160-448e-4814-8434-96d5a7d2f5ec",
+  "scryfall_uri": "https://scryfall.com/card/klr/52/ice-over?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/6/e6c24160-448e-4814-8434-96d5a7d2f5ec.jpg?1605327090",
+    "normal": "https://cards.scryfall.io/normal/front/e/6/e6c24160-448e-4814-8434-96d5a7d2f5ec.jpg?1605327090",
+    "large": "https://cards.scryfall.io/large/front/e/6/e6c24160-448e-4814-8434-96d5a7d2f5ec.jpg?1605327090",
+    "png": "https://cards.scryfall.io/png/front/e/6/e6c24160-448e-4814-8434-96d5a7d2f5ec.png?1605327090",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/6/e6c24160-448e-4814-8434-96d5a7d2f5ec.jpg?1605327090",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/6/e6c24160-448e-4814-8434-96d5a7d2f5ec.jpg?1605327090"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant artifact or creature\nEnchanted permanent doesn't untap during its controller's untap step.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cff93939-c724-4ed0-9367-e1277d39ba70",
+  "set": "klr",
+  "set_name": "Kaladesh Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cff93939-c724-4ed0-9367-e1277d39ba70",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aklr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/klr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e6c24160-448e-4814-8434-96d5a7d2f5ec/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A80f8a64e-b22e-413e-a143-f1943be3a574&unique=prints",
+  "collector_number": "52",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Sidharth Chaturvedi",
+  "artist_ids": [
+    "55e6d846-2f73-4fba-9b88-441686bb8dcb"
+  ],
+  "illustration_id": "6b2c7ea6-1207-4c81-a600-58b1ef7b1b6f",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 20552,
+  "penny_rank": 12560,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547858&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DIce%2BOver",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DIce%2BOver",
+    "edhrec": "https://edhrec.com/route/?cc=Ice+Over"
+  }
+}

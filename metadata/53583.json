@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "7eee78d3-c65f-4454-bd3c-1c55388422f5",
+  "oracle_id": "7517cd91-44aa-47aa-8ec3-a14be2023aa4",
+  "multiverse_ids": [],
+  "name": "Vampire",
+  "lang": "en",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/7eee78d3-c65f-4454-bd3c-1c55388422f5",
+  "scryfall_uri": "https://scryfall.com/card/tvow/16/vampire?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/e/7eee78d3-c65f-4454-bd3c-1c55388422f5.jpg?1675457545",
+    "normal": "https://cards.scryfall.io/normal/front/7/e/7eee78d3-c65f-4454-bd3c-1c55388422f5.jpg?1675457545",
+    "large": "https://cards.scryfall.io/large/front/7/e/7eee78d3-c65f-4454-bd3c-1c55388422f5.jpg?1675457545",
+    "png": "https://cards.scryfall.io/png/front/7/e/7eee78d3-c65f-4454-bd3c-1c55388422f5.png?1675457545",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/e/7eee78d3-c65f-4454-bd3c-1c55388422f5.jpg?1675457545",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/e/7eee78d3-c65f-4454-bd3c-1c55388422f5.jpg?1675457545"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Vampire",
+  "oracle_text": "Lifelink",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [
+    "Lifelink"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "3dd488b6-40c0-47c4-9bed-c071f7b2f508",
+      "component": "combo_piece",
+      "name": "Glass-Cast Heart",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/3dd488b6-40c0-47c4-9bed-c071f7b2f508"
+    },
+    {
+      "object": "related_card",
+      "id": "7eee78d3-c65f-4454-bd3c-1c55388422f5",
+      "component": "token",
+      "name": "Vampire",
+      "type_line": "Token Creature — Vampire",
+      "uri": "https://api.scryfall.com/cards/7eee78d3-c65f-4454-bd3c-1c55388422f5"
+    },
+    {
+      "object": "related_card",
+      "id": "78f57a41-e9a6-4f71-92a0-46c4534c8fca",
+      "component": "combo_piece",
+      "name": "Edgar, Charmed Groom // Edgar Markov's Coffin",
+      "type_line": "Legendary Creature — Vampire Noble // Legendary Artifact",
+      "uri": "https://api.scryfall.com/cards/78f57a41-e9a6-4f71-92a0-46c4534c8fca"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "381f2eb8-544e-409c-a8c5-7171cd78edea",
+  "set": "tvow",
+  "set_name": "Innistrad: Crimson Vow Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/381f2eb8-544e-409c-a8c5-7171cd78edea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atvow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tvow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7eee78d3-c65f-4454-bd3c-1c55388422f5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7517cd91-44aa-47aa-8ec3-a14be2023aa4&unique=prints",
+  "collector_number": "16",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Zoltan Boros",
+  "artist_ids": [
+    "1885e6cb-c827-4896-994e-3d0a027d602f"
+  ],
+  "illustration_id": "d81a6a39-d7ba-4a4a-a061-a1e90fbbe52e",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVampire",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVampire",
+    "edhrec": "https://edhrec.com/route/?cc=Vampire"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DVampire%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Vampire&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Vampire&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

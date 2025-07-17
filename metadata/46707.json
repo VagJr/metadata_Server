@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "6e6ab4b6-49a8-4c02-a230-74a29f535f8c",
+  "oracle_id": "c1eb530c-dd36-40ae-8617-6bb6969565e1",
+  "multiverse_ids": [
+    692477
+  ],
+  "mtgo_id": 137431,
+  "tcgplayer_id": 615212,
+  "cardmarket_id": 808016,
+  "name": "Cultivator's Caravan",
+  "lang": "en",
+  "released_at": "2025-02-14",
+  "uri": "https://api.scryfall.com/cards/6e6ab4b6-49a8-4c02-a230-74a29f535f8c",
+  "scryfall_uri": "https://scryfall.com/card/drc/127/cultivators-caravan?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/e/6e6ab4b6-49a8-4c02-a230-74a29f535f8c.jpg?1738355941",
+    "normal": "https://cards.scryfall.io/normal/front/6/e/6e6ab4b6-49a8-4c02-a230-74a29f535f8c.jpg?1738355941",
+    "large": "https://cards.scryfall.io/large/front/6/e/6e6ab4b6-49a8-4c02-a230-74a29f535f8c.jpg?1738355941",
+    "png": "https://cards.scryfall.io/png/front/6/e/6e6ab4b6-49a8-4c02-a230-74a29f535f8c.png?1738355941",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/e/6e6ab4b6-49a8-4c02-a230-74a29f535f8c.jpg?1738355941",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/e/6e6ab4b6-49a8-4c02-a230-74a29f535f8c.jpg?1738355941"
+  },
+  "mana_cost": "{3}",
+  "cmc": 3,
+  "type_line": "Artifact — Vehicle",
+  "oracle_text": "{T}: Add one mana of any color.\nCrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",
+  "power": "5",
+  "toughness": "5",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Crew"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d33ef7a4-41bb-4f16-bad3-b3ee13c257e6",
+  "set": "drc",
+  "set_name": "Aetherdrift Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d33ef7a4-41bb-4f16-bad3-b3ee13c257e6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/drc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6e6ab4b6-49a8-4c02-a230-74a29f535f8c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac1eb530c-dd36-40ae-8617-6bb6969565e1&unique=prints",
+  "collector_number": "127",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mark Zug",
+  "artist_ids": [
+    "48e2b98c-5467-4671-bd42-4c3746115117"
+  ],
+  "illustration_id": "0ae01c73-0434-463a-8916-8c4d3e736423",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2385,
+  "penny_rank": 4877,
+  "preview": {
+    "source": "The Command Zone",
+    "source_uri": "https://www.youtube.com/watch?v=km1f1W0Tl6k",
+    "previewed_at": "2025-01-23"
+  },
+  "prices": {
+    "usd": "0.14",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.23",
+    "eur_foil": null,
+    "tix": "0.06"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=692477&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCultivator%2527s%2BCaravan",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCultivator%2527s%2BCaravan",
+    "edhrec": "https://edhrec.com/route/?cc=Cultivator%27s+Caravan"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F615212%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=808016&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/137431?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

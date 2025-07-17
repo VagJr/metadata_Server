@@ -1,0 +1,138 @@
+{
+  "object": "card",
+  "id": "363a562f-95bc-45fa-961d-50d98ed7b401",
+  "oracle_id": "178b3fdf-dbee-4245-a811-b21ff8a24f66",
+  "multiverse_ids": [
+    615849
+  ],
+  "tcgplayer_id": 495736,
+  "cardmarket_id": 710589,
+  "name": "Samut, Vizier of Naktamun",
+  "lang": "en",
+  "released_at": "2023-05-12",
+  "uri": "https://api.scryfall.com/cards/363a562f-95bc-45fa-961d-50d98ed7b401",
+  "scryfall_uri": "https://scryfall.com/card/mat/224/samut-vizier-of-naktamun?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/6/363a562f-95bc-45fa-961d-50d98ed7b401.jpg?1693946083",
+    "normal": "https://cards.scryfall.io/normal/front/3/6/363a562f-95bc-45fa-961d-50d98ed7b401.jpg?1693946083",
+    "large": "https://cards.scryfall.io/large/front/3/6/363a562f-95bc-45fa-961d-50d98ed7b401.jpg?1693946083",
+    "png": "https://cards.scryfall.io/png/front/3/6/363a562f-95bc-45fa-961d-50d98ed7b401.png?1693946083",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/6/363a562f-95bc-45fa-961d-50d98ed7b401.jpg?1693946083",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/6/363a562f-95bc-45fa-961d-50d98ed7b401.jpg?1693946083"
+  },
+  "mana_cost": "{1}{R}{G}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Human Warrior Cleric",
+  "oracle_text": "First strike, vigilance, haste\nWhenever a creature you control deals combat damage to a player, if that creature entered this turn, draw a card.",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [
+    "Vigilance",
+    "First strike",
+    "Haste"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "6727e43d-31b6-45b0-ae05-7a811ba72f70",
+  "set": "mat",
+  "set_name": "March of the Machine: The Aftermath",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/6727e43d-31b6-45b0-ae05-7a811ba72f70",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amat&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mat?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/363a562f-95bc-45fa-961d-50d98ed7b401/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A178b3fdf-dbee-4245-a811-b21ff8a24f66&unique=prints",
+  "collector_number": "224",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daniel Ljunggren",
+  "artist_ids": [
+    "0fbd4798-76eb-46d5-a5d4-1e3a25870e34"
+  ],
+  "illustration_id": "24603d8c-32ea-403c-95d2-32c90d091d06",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "halofoil",
+    "boosterfun"
+  ],
+  "edhrec_rank": 5070,
+  "penny_rank": 2364,
+  "prices": {
+    "usd": null,
+    "usd_foil": "7.11",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "10.41",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=615849&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSamut%252C%2BVizier%2Bof%2BNaktamun",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSamut%252C%2BVizier%2Bof%2BNaktamun",
+    "edhrec": "https://edhrec.com/route/?cc=Samut%2C+Vizier+of+Naktamun"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F495736%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=710589&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Samut%2C+Vizier+of+Naktamun&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

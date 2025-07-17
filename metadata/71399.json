@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "a87c8ed6-f83d-4aca-abc5-8749067b7517",
+  "oracle_id": "2ed1879a-83b8-48df-a6d2-fe28e912b4c5",
+  "multiverse_ids": [],
+  "tcgplayer_id": 593210,
+  "name": "Slagstorm",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/a87c8ed6-f83d-4aca-abc5-8749067b7517",
+  "scryfall_uri": "https://scryfall.com/card/pfdn/207s/slagstorm?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/8/a87c8ed6-f83d-4aca-abc5-8749067b7517.jpg?1731966128",
+    "normal": "https://cards.scryfall.io/normal/front/a/8/a87c8ed6-f83d-4aca-abc5-8749067b7517.jpg?1731966128",
+    "large": "https://cards.scryfall.io/large/front/a/8/a87c8ed6-f83d-4aca-abc5-8749067b7517.jpg?1731966128",
+    "png": "https://cards.scryfall.io/png/front/a/8/a87c8ed6-f83d-4aca-abc5-8749067b7517.png?1731966128",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/8/a87c8ed6-f83d-4aca-abc5-8749067b7517.jpg?1731966128",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/8/a87c8ed6-f83d-4aca-abc5-8749067b7517.jpg?1731966128"
+  },
+  "mana_cost": "{1}{R}{R}",
+  "cmc": 3,
+  "type_line": "Sorcery",
+  "oracle_text": "Choose one —\n• Slagstorm deals 3 damage to each creature.\n• Slagstorm deals 3 damage to each player.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9cfdcd69-25f3-44cf-99e0-1f0ab0d61c20",
+  "set": "pfdn",
+  "set_name": "Foundations Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/9cfdcd69-25f3-44cf-99e0-1f0ab0d61c20",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apfdn&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pfdn?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a87c8ed6-f83d-4aca-abc5-8749067b7517/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2ed1879a-83b8-48df-a6d2-fe28e912b4c5&unique=prints",
+  "collector_number": "207s",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"As long as we have the will to fight, we are never without weapons.\"\n—Koth of the Hammer",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dan Murayama Scott",
+  "artist_ids": [
+    "f852fa13-137e-40f2-bbc1-0f01df09c0e0"
+  ],
+  "illustration_id": "218856da-b078-4d42-aa99-83971c0fbfc9",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 7321,
+  "penny_rank": 876,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.44",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSlagstorm",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSlagstorm",
+    "edhrec": "https://edhrec.com/route/?cc=Slagstorm"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F593210%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Slagstorm&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Slagstorm&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

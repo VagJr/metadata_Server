@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "4190f2d1-e7e5-4cf7-8227-c2690568d159",
+  "oracle_id": "705a1985-ed39-4a4b-812e-a677170b596e",
+  "multiverse_ids": [
+    601386
+  ],
+  "mtgo_id": 107319,
+  "tcgplayer_id": 465066,
+  "cardmarket_id": 688852,
+  "name": "Dragon Whelp",
+  "lang": "en",
+  "released_at": "2023-01-13",
+  "uri": "https://api.scryfall.com/cards/4190f2d1-e7e5-4cf7-8227-c2690568d159",
+  "scryfall_uri": "https://scryfall.com/card/dmr/317/dragon-whelp?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/1/4190f2d1-e7e5-4cf7-8227-c2690568d159.jpg?1675201891",
+    "normal": "https://cards.scryfall.io/normal/front/4/1/4190f2d1-e7e5-4cf7-8227-c2690568d159.jpg?1675201891",
+    "large": "https://cards.scryfall.io/large/front/4/1/4190f2d1-e7e5-4cf7-8227-c2690568d159.jpg?1675201891",
+    "png": "https://cards.scryfall.io/png/front/4/1/4190f2d1-e7e5-4cf7-8227-c2690568d159.png?1675201891",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/1/4190f2d1-e7e5-4cf7-8227-c2690568d159.jpg?1675201891",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/1/4190f2d1-e7e5-4cf7-8227-c2690568d159.jpg?1675201891"
+  },
+  "mana_cost": "{2}{R}{R}",
+  "cmc": 4,
+  "type_line": "Creature — Dragon",
+  "oracle_text": "Flying\n{R}: This creature gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice this creature at the beginning of the next end step.",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "ca4c2884-e539-4b7f-980d-5d6a50220f2a",
+  "set": "dmr",
+  "set_name": "Dominaria Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/ca4c2884-e539-4b7f-980d-5d6a50220f2a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dmr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4190f2d1-e7e5-4cf7-8227-c2690568d159/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A705a1985-ed39-4a4b-812e-a677170b596e&unique=prints",
+  "collector_number": "317",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jokubas Uogintas",
+  "artist_ids": [
+    "2c14303e-97a3-45fa-9bd8-59e5332a65f9"
+  ],
+  "illustration_id": "771d2c34-a39e-48fe-a8c1-30f8dfc979e8",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 16808,
+  "penny_rank": 14511,
+  "prices": {
+    "usd": "0.03",
+    "usd_foil": "0.15",
+    "usd_etched": null,
+    "eur": "0.13",
+    "eur_foil": "0.85",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=601386&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDragon%2BWhelp",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDragon%2BWhelp",
+    "edhrec": "https://edhrec.com/route/?cc=Dragon+Whelp"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F465066%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=688852&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/107319?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

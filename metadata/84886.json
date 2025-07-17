@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "c8797316-6bcd-4fcc-9f05-ca6e572a2427",
+  "oracle_id": "25eaa977-ca85-4f8d-8be5-9297a3edb14f",
+  "multiverse_ids": [],
+  "tcgplayer_id": 214193,
+  "cardmarket_id": 461174,
+  "name": "Gyruda, Doom of Depths",
+  "lang": "en",
+  "released_at": "2020-04-24",
+  "uri": "https://api.scryfall.com/cards/c8797316-6bcd-4fcc-9f05-ca6e572a2427",
+  "scryfall_uri": "https://scryfall.com/card/piko/221s/gyruda-doom-of-depths?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/8/c8797316-6bcd-4fcc-9f05-ca6e572a2427.jpg?1681424447",
+    "normal": "https://cards.scryfall.io/normal/front/c/8/c8797316-6bcd-4fcc-9f05-ca6e572a2427.jpg?1681424447",
+    "large": "https://cards.scryfall.io/large/front/c/8/c8797316-6bcd-4fcc-9f05-ca6e572a2427.jpg?1681424447",
+    "png": "https://cards.scryfall.io/png/front/c/8/c8797316-6bcd-4fcc-9f05-ca6e572a2427.png?1681424447",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/8/c8797316-6bcd-4fcc-9f05-ca6e572a2427.jpg?1681424447",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/8/c8797316-6bcd-4fcc-9f05-ca6e572a2427.jpg?1681424447"
+  },
+  "mana_cost": "{4}{U/B}{U/B}",
+  "cmc": 6,
+  "type_line": "Legendary Creature — Demon Kraken",
+  "oracle_text": "Companion — Your starting deck contains only cards with even mana values. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)\nWhen Gyruda enters, each player mills four cards. Put a creature card with an even mana value from among the milled cards onto the battlefield under your control.",
+  "power": "6",
+  "toughness": "6",
+  "colors": [
+    "B",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [
+    "Companion",
+    "Mill"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "0e5fad97-b777-437a-b015-44428c42bf46",
+  "set": "piko",
+  "set_name": "Ikoria: Lair of Behemoths Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/0e5fad97-b777-437a-b015-44428c42bf46",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apiko&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/piko?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c8797316-6bcd-4fcc-9f05-ca6e572a2427/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A25eaa977-ca85-4f8d-8be5-9297a3edb14f&unique=prints",
+  "collector_number": "221s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tyler Jacobson",
+  "artist_ids": [
+    "522af130-8db4-4b4b-950c-6e2b246339cf"
+  ],
+  "illustration_id": "d258b6a9-b886-4a6e-ac6b-77465f3d7cf5",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "companion"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 3771,
+  "penny_rank": 1509,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.46",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "1.24",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGyruda%252C%2BDoom%2Bof%2BDepths",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGyruda%252C%2BDoom%2Bof%2BDepths",
+    "edhrec": "https://edhrec.com/route/?cc=Gyruda%2C+Doom+of+Depths"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F214193%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=461174&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Gyruda%2C+Doom+of+Depths&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

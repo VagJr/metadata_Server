@@ -1,0 +1,117 @@
+{
+  "object": "card",
+  "id": "5bd20c1f-b1cc-400d-b501-219767a3cc98",
+  "oracle_id": "7f77a84e-5a4b-4834-aefa-3cecc175ae8e",
+  "multiverse_ids": [],
+  "mtgo_id": 82878,
+  "name": "Jace, the Mind Sculptor",
+  "lang": "en",
+  "released_at": "2020-08-30",
+  "uri": "https://api.scryfall.com/cards/5bd20c1f-b1cc-400d-b501-219767a3cc98",
+  "scryfall_uri": "https://scryfall.com/card/prm/82878/jace-the-mind-sculptor?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/b/5bd20c1f-b1cc-400d-b501-219767a3cc98.jpg?1630634706",
+    "normal": "https://cards.scryfall.io/normal/front/5/b/5bd20c1f-b1cc-400d-b501-219767a3cc98.jpg?1630634706",
+    "large": "https://cards.scryfall.io/large/front/5/b/5bd20c1f-b1cc-400d-b501-219767a3cc98.jpg?1630634706",
+    "png": "https://cards.scryfall.io/png/front/5/b/5bd20c1f-b1cc-400d-b501-219767a3cc98.png?1630634706",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/b/5bd20c1f-b1cc-400d-b501-219767a3cc98.jpg?1630634706",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/b/5bd20c1f-b1cc-400d-b501-219767a3cc98.jpg?1630634706"
+  },
+  "mana_cost": "{2}{U}{U}",
+  "cmc": 4,
+  "type_line": "Legendary Planeswalker — Jace",
+  "oracle_text": "+2: Look at the top card of target player's library. You may put that card on the bottom of that player's library.\n0: Draw three cards, then put two cards from your hand on top of your library in any order.\n−1: Return target creature to its owner's hand.\n−12: Exile all cards from target player's library, then that player shuffles their hand into their library.",
+  "loyalty": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5bd20c1f-b1cc-400d-b501-219767a3cc98/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7f77a84e-5a4b-4834-aefa-3cecc175ae8e&unique=prints",
+  "collector_number": "82878",
+  "digital": true,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason Chan",
+  "artist_ids": [
+    "8062d5a9-51b6-4822-933f-fa9e9dba8416"
+  ],
+  "illustration_id": "b0ab416a-c7a8-4531-8e6a-00a167db4f76",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3116,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "2.53"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJace%252C%2Bthe%2BMind%2BSculptor",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJace%252C%2Bthe%2BMind%2BSculptor",
+    "edhrec": "https://edhrec.com/route/?cc=Jace%2C+the+Mind+Sculptor"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DJace%252C%2Bthe%2BMind%2BSculptor%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Jace%2C+the+Mind+Sculptor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/82878?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

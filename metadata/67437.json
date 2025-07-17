@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "9f586064-5983-4d2b-8f8c-edaddd29c133",
+  "oracle_id": "7e81853c-d0c0-40bc-80fc-13a5964878b2",
+  "multiverse_ids": [],
+  "mtgo_id": 95401,
+  "name": "Ascendant Packleader",
+  "lang": "en",
+  "released_at": "2022-04-18",
+  "uri": "https://api.scryfall.com/cards/9f586064-5983-4d2b-8f8c-edaddd29c133",
+  "scryfall_uri": "https://scryfall.com/card/prm/95401/ascendant-packleader?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/f/9f586064-5983-4d2b-8f8c-edaddd29c133.jpg?1681084168",
+    "normal": "https://cards.scryfall.io/normal/front/9/f/9f586064-5983-4d2b-8f8c-edaddd29c133.jpg?1681084168",
+    "large": "https://cards.scryfall.io/large/front/9/f/9f586064-5983-4d2b-8f8c-edaddd29c133.jpg?1681084168",
+    "png": "https://cards.scryfall.io/png/front/9/f/9f586064-5983-4d2b-8f8c-edaddd29c133.png?1681084168",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/f/9f586064-5983-4d2b-8f8c-edaddd29c133.jpg?1681084168",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/f/9f586064-5983-4d2b-8f8c-edaddd29c133.jpg?1681084168"
+  },
+  "mana_cost": "{G}",
+  "cmc": 1,
+  "type_line": "Creature — Wolf",
+  "oracle_text": "This creature enters with a +1/+1 counter on it if you control a permanent with mana value 4 or greater.\nWhenever you cast a spell with mana value 4 or greater, put a +1/+1 counter on this creature.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9f586064-5983-4d2b-8f8c-edaddd29c133/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7e81853c-d0c0-40bc-80fc-13a5964878b2&unique=prints",
+  "collector_number": "95401",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alessandra Pisano",
+  "artist_ids": [
+    "15869690-bf3c-4498-a577-409a6bde5c83"
+  ],
+  "illustration_id": "3834adef-0646-4727-81a0-f6b067cfed42",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 7539,
+  "penny_rank": 4329,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.10"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAscendant%2BPackleader",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAscendant%2BPackleader",
+    "edhrec": "https://edhrec.com/route/?cc=Ascendant+Packleader"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DAscendant%2BPackleader%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ascendant+Packleader&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/95401?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

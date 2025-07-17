@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "b734cb11-2024-411f-9885-dafda14bb431",
+  "oracle_id": "53f7c868-b03e-4fc2-8dcf-a75bbfa3272b",
+  "multiverse_ids": [],
+  "mtgo_id": 99577,
+  "arena_id": 77568,
+  "tcgplayer_id": 235249,
+  "tcgplayer_etched_id": 235248,
+  "cardmarket_id": 557101,
+  "name": "Dark Ritual",
+  "printed_name": "暗黒の儀式",
+  "lang": "ja",
+  "released_at": "2021-04-23",
+  "uri": "https://api.scryfall.com/cards/b734cb11-2024-411f-9885-dafda14bb431",
+  "scryfall_uri": "https://scryfall.com/card/sta/89/ja/%E6%9A%97%E9%BB%92%E3%81%AE%E5%84%80%E5%BC%8F-(dark-ritual)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/7/b734cb11-2024-411f-9885-dafda14bb431.jpg?1638112430",
+    "normal": "https://cards.scryfall.io/normal/front/b/7/b734cb11-2024-411f-9885-dafda14bb431.jpg?1638112430",
+    "large": "https://cards.scryfall.io/large/front/b/7/b734cb11-2024-411f-9885-dafda14bb431.jpg?1638112430",
+    "png": "https://cards.scryfall.io/png/front/b/7/b734cb11-2024-411f-9885-dafda14bb431.png?1638112430",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/7/b734cb11-2024-411f-9885-dafda14bb431.jpg?1638112430",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/7/b734cb11-2024-411f-9885-dafda14bb431.jpg?1638112430"
+  },
+  "mana_cost": "{B}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "printed_type_line": "インスタント",
+  "oracle_text": "Add {B}{B}{B}.",
+  "printed_text": "{B}{B}{B}を加える。",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "banned",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "banned",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil",
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5064a720-907f-4cb6-a425-766dc1dd7374",
+  "set": "sta",
+  "set_name": "Strixhaven Mystical Archive",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/5064a720-907f-4cb6-a425-766dc1dd7374",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asta&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sta?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b734cb11-2024-411f-9885-dafda14bb431/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A53f7c868-b03e-4fc2-8dcf-a75bbfa3272b&unique=prints",
+  "collector_number": "89",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "「奴らは私の方法を信用していない。しかし成果が必要なとき、奴らが探すの誰だと思う？」\n——リム＝トゥールの決まり文句",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Rien.",
+  "artist_ids": [
+    "7055788b-462f-4abe-a6d5-dc2a169218cb"
+  ],
+  "illustration_id": "4e1299ae-4a33-4fe9-bc57-44435a7dce7b",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 39,
+  "penny_rank": 28,
+  "prices": {
+    "usd": "26.35",
+    "usd_foil": "43.50",
+    "usd_etched": "33.38",
+    "eur": "25.51",
+    "eur_foil": "47.26",
+    "tix": "4.62"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDark%2BRitual",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDark%2BRitual",
+    "edhrec": "https://edhrec.com/route/?cc=Dark+Ritual"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F235249%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=557101&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/99577?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

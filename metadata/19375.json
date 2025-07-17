@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "2d9d4f2e-5a41-410d-b1c3-47e4aca07177",
+  "oracle_id": "74b7fe23-5d3a-4092-8d78-7c0eba8f6f73",
+  "multiverse_ids": [],
+  "tcgplayer_id": 449170,
+  "name": "Tropical Island",
+  "lang": "en",
+  "released_at": "2022-11-28",
+  "uri": "https://api.scryfall.com/cards/2d9d4f2e-5a41-410d-b1c3-47e4aca07177",
+  "scryfall_uri": "https://scryfall.com/card/30a/279/tropical-island?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/d/2d9d4f2e-5a41-410d-b1c3-47e4aca07177.jpg?1664926763",
+    "normal": "https://cards.scryfall.io/normal/front/2/d/2d9d4f2e-5a41-410d-b1c3-47e4aca07177.jpg?1664926763",
+    "large": "https://cards.scryfall.io/large/front/2/d/2d9d4f2e-5a41-410d-b1c3-47e4aca07177.jpg?1664926763",
+    "png": "https://cards.scryfall.io/png/front/2/d/2d9d4f2e-5a41-410d-b1c3-47e4aca07177.png?1664926763",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/d/2d9d4f2e-5a41-410d-b1c3-47e4aca07177.jpg?1664926763",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/d/2d9d4f2e-5a41-410d-b1c3-47e4aca07177.jpg?1664926763"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land — Forest Island",
+  "oracle_text": "({T}: Add {G} or {U}.)",
+  "colors": [],
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "G",
+    "U"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "40cc6b1c-8f3d-4128-97ac-33381868ddd2",
+      "component": "combo_piece",
+      "name": "Shoreline Scout",
+      "type_line": "Creature — Merfolk Scout",
+      "uri": "https://api.scryfall.com/cards/40cc6b1c-8f3d-4128-97ac-33381868ddd2"
+    },
+    {
+      "object": "related_card",
+      "id": "7ac0058d-52aa-4a77-a4a4-0fd9e4d069bb",
+      "component": "combo_piece",
+      "name": "Tropical Island",
+      "type_line": "Land — Forest Island",
+      "uri": "https://api.scryfall.com/cards/7ac0058d-52aa-4a77-a4a4-0fd9e4d069bb"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": true,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c3cddb17-44d9-4abd-8d19-666f6c5171fe",
+  "set": "30a",
+  "set_name": "30th Anniversary Edition",
+  "set_type": "memorabilia",
+  "set_uri": "https://api.scryfall.com/sets/c3cddb17-44d9-4abd-8d19-666f6c5171fe",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A30a&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/30a?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2d9d4f2e-5a41-410d-b1c3-47e4aca07177/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A74b7fe23-5d3a-4092-8d78-7c0eba8f6f73&unique=prints",
+  "collector_number": "279",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "049a6229-ace9-4363-816a-60cb8773e95d",
+  "artist": "Jesper Myrfors",
+  "artist_ids": [
+    "c011318e-8503-48c1-a990-46e50aff48a0"
+  ],
+  "illustration_id": "1064e64b-a67e-4bff-893a-a091e8acb052",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 375,
+  "prices": {
+    "usd": "201.15",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTropical%2BIsland",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTropical%2BIsland",
+    "edhrec": "https://edhrec.com/route/?cc=Tropical+Island"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F449170%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tropical+Island&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tropical+Island&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

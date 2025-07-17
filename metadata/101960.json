@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "f0fdf879-bb69-4cce-bb50-ad4a98de5606",
+  "oracle_id": "ba7a46f1-c2a5-42d3-93eb-4dcea7186e5e",
+  "multiverse_ids": [
+    574476
+  ],
+  "arena_id": 81860,
+  "name": "Navigation Orb",
+  "lang": "en",
+  "released_at": "2022-07-07",
+  "uri": "https://api.scryfall.com/cards/f0fdf879-bb69-4cce-bb50-ad4a98de5606",
+  "scryfall_uri": "https://scryfall.com/card/hbg/262/navigation-orb?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/0/f0fdf879-bb69-4cce-bb50-ad4a98de5606.jpg?1681000878",
+    "normal": "https://cards.scryfall.io/normal/front/f/0/f0fdf879-bb69-4cce-bb50-ad4a98de5606.jpg?1681000878",
+    "large": "https://cards.scryfall.io/large/front/f/0/f0fdf879-bb69-4cce-bb50-ad4a98de5606.jpg?1681000878",
+    "png": "https://cards.scryfall.io/png/front/f/0/f0fdf879-bb69-4cce-bb50-ad4a98de5606.png?1681000878",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/0/f0fdf879-bb69-4cce-bb50-ad4a98de5606.jpg?1681000878",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/0/f0fdf879-bb69-4cce-bb50-ad4a98de5606.jpg?1681000878"
+  },
+  "mana_cost": "{3}",
+  "cmc": 3,
+  "type_line": "Artifact",
+  "oracle_text": "{2}, {T}, Sacrifice this artifact: Search your library for up to two basic land cards and/or Gate cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "5078488d-517d-4926-b4f5-fe078f9bcd36",
+      "component": "combo_piece",
+      "name": "A-Navigation Orb",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/5078488d-517d-4926-b4f5-fe078f9bcd36"
+    },
+    {
+      "object": "related_card",
+      "id": "f0fdf879-bb69-4cce-bb50-ad4a98de5606",
+      "component": "combo_piece",
+      "name": "Navigation Orb",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/f0fdf879-bb69-4cce-bb50-ad4a98de5606"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "35528ede-7870-4598-a2ee-7f3d6464a74b",
+  "set": "hbg",
+  "set_name": "Alchemy Horizons: Baldur's Gate",
+  "set_type": "alchemy",
+  "set_uri": "https://api.scryfall.com/sets/35528ede-7870-4598-a2ee-7f3d6464a74b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahbg&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/hbg?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f0fdf879-bb69-4cce-bb50-ad4a98de5606/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aba7a46f1-c2a5-42d3-93eb-4dcea7186e5e&unique=prints",
+  "collector_number": "262",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Robin Olausson",
+  "artist_ids": [
+    "adb9ad6d-6173-454b-8b50-a102b182548b"
+  ],
+  "illustration_id": "7294183f-3cfc-4654-9c9c-036d27404cfc",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3250,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574476&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNavigation%2BOrb",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNavigation%2BOrb",
+    "edhrec": "https://edhrec.com/route/?cc=Navigation+Orb"
+  }
+}

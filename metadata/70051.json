@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "a54a6fb4-9519-444a-ab44-33d4905beb23",
+  "oracle_id": "47aabd9d-0f68-490a-a2ae-5cd9ef689be6",
+  "multiverse_ids": [],
+  "tcgplayer_id": 243619,
+  "cardmarket_id": 571962,
+  "name": "Raven Familiar",
+  "lang": "en",
+  "released_at": "2021-07-23",
+  "uri": "https://api.scryfall.com/cards/a54a6fb4-9519-444a-ab44-33d4905beb23",
+  "scryfall_uri": "https://scryfall.com/card/plst/C13-55/raven-familiar?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/5/a54a6fb4-9519-444a-ab44-33d4905beb23.jpg?1626117452",
+    "normal": "https://cards.scryfall.io/normal/front/a/5/a54a6fb4-9519-444a-ab44-33d4905beb23.jpg?1626117452",
+    "large": "https://cards.scryfall.io/large/front/a/5/a54a6fb4-9519-444a-ab44-33d4905beb23.jpg?1626117452",
+    "png": "https://cards.scryfall.io/png/front/a/5/a54a6fb4-9519-444a-ab44-33d4905beb23.png?1626117452",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/5/a54a6fb4-9519-444a-ab44-33d4905beb23.jpg?1626117452",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/5/a54a6fb4-9519-444a-ab44-33d4905beb23.jpg?1626117452"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Creature — Bird",
+  "oracle_text": "Flying\nEcho {2}{U} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen this creature enters, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.",
+  "power": "1",
+  "toughness": "2",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Echo",
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a54a6fb4-9519-444a-ab44-33d4905beb23/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A47aabd9d-0f68-490a-a2ae-5cd9ef689be6&unique=prints",
+  "collector_number": "C13-55",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "John Avon",
+  "artist_ids": [
+    "798f3932-30e0-4420-aa3f-db4d613f89ca"
+  ],
+  "illustration_id": "22e6af8e-ea2c-4c4f-a75f-b09b66016b1b",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 20675,
+  "penny_rank": 5614,
+  "prices": {
+    "usd": "0.06",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.11",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRaven%2BFamiliar",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRaven%2BFamiliar",
+    "edhrec": "https://edhrec.com/route/?cc=Raven+Familiar"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F243619%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=571962&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Raven+Familiar&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "c8bbc692-8d2e-4487-bd19-1a5c78fd3d53",
+  "oracle_id": "ab655810-f67e-4576-9174-35b16f5e3235",
+  "multiverse_ids": [],
+  "tcgplayer_id": 205492,
+  "cardmarket_id": 427451,
+  "name": "Saheeli, Sublime Artificer",
+  "lang": "en",
+  "released_at": "2020-02-18",
+  "uri": "https://api.scryfall.com/cards/c8bbc692-8d2e-4487-bd19-1a5c78fd3d53",
+  "scryfall_uri": "https://scryfall.com/card/sld/534/saheeli-sublime-artificer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/8/c8bbc692-8d2e-4487-bd19-1a5c78fd3d53.jpg?1584332874",
+    "normal": "https://cards.scryfall.io/normal/front/c/8/c8bbc692-8d2e-4487-bd19-1a5c78fd3d53.jpg?1584332874",
+    "large": "https://cards.scryfall.io/large/front/c/8/c8bbc692-8d2e-4487-bd19-1a5c78fd3d53.jpg?1584332874",
+    "png": "https://cards.scryfall.io/png/front/c/8/c8bbc692-8d2e-4487-bd19-1a5c78fd3d53.png?1584332874",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/8/c8bbc692-8d2e-4487-bd19-1a5c78fd3d53.jpg?1584332874",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/8/c8bbc692-8d2e-4487-bd19-1a5c78fd3d53.jpg?1584332874"
+  },
+  "mana_cost": "{1}{U/R}{U/R}",
+  "cmc": 3,
+  "type_line": "Legendary Planeswalker — Saheeli",
+  "oracle_text": "Whenever you cast a noncreature spell, create a 1/1 colorless Servo artifact creature token.\n−2: Target artifact you control becomes a copy of another target artifact or creature you control until end of turn, except it's an artifact in addition to its other types.",
+  "loyalty": "5",
+  "colors": [
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "5662d0a5-3222-4ab9-9e15-f06477730b75",
+      "component": "combo_piece",
+      "name": "Saheeli, Sublime Artificer",
+      "type_line": "Legendary Planeswalker — Saheeli",
+      "uri": "https://api.scryfall.com/cards/5662d0a5-3222-4ab9-9e15-f06477730b75"
+    },
+    {
+      "object": "related_card",
+      "id": "57890ef7-9006-47b9-9f8b-42b665123607",
+      "component": "token",
+      "name": "Servo",
+      "type_line": "Token Artifact Creature — Servo",
+      "uri": "https://api.scryfall.com/cards/57890ef7-9006-47b9-9f8b-42b665123607"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c8bbc692-8d2e-4487-bd19-1a5c78fd3d53/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aab655810-f67e-4576-9174-35b16f5e3235&unique=prints",
+  "collector_number": "534",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wesley Burt",
+  "artist_ids": [
+    "b98c9d94-8bdb-49af-871d-7bac92274535"
+  ],
+  "illustration_id": "8243cc93-ce62-438f-97d4-ea54832965a8",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "sldbonus"
+  ],
+  "edhrec_rank": 1776,
+  "penny_rank": 562,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.02",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "1.69",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSaheeli%252C%2BSublime%2BArtificer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSaheeli%252C%2BSublime%2BArtificer",
+    "edhrec": "https://edhrec.com/route/?cc=Saheeli%2C+Sublime+Artificer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F205492%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=427451&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Saheeli%2C+Sublime+Artificer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

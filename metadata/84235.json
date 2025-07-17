@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "c6e84b05-15fe-4335-a5fd-a26d1905f313",
+  "oracle_id": "46c404c3-636a-4945-a61c-62f013a9c50f",
+  "multiverse_ids": [
+    667207
+  ],
+  "mtgo_id": 127882,
+  "tcgplayer_etched_id": 556033,
+  "name": "Towering Viewpoint",
+  "lang": "en",
+  "released_at": "2024-07-05",
+  "uri": "https://api.scryfall.com/cards/c6e84b05-15fe-4335-a5fd-a26d1905f313",
+  "scryfall_uri": "https://scryfall.com/card/acr/263/towering-viewpoint?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/6/c6e84b05-15fe-4335-a5fd-a26d1905f313.jpg?1721425526",
+    "normal": "https://cards.scryfall.io/normal/front/c/6/c6e84b05-15fe-4335-a5fd-a26d1905f313.jpg?1721425526",
+    "large": "https://cards.scryfall.io/large/front/c/6/c6e84b05-15fe-4335-a5fd-a26d1905f313.jpg?1721425526",
+    "png": "https://cards.scryfall.io/png/front/c/6/c6e84b05-15fe-4335-a5fd-a26d1905f313.png?1721425526",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/6/c6e84b05-15fe-4335-a5fd-a26d1905f313.jpg?1721425526",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/6/c6e84b05-15fe-4335-a5fd-a26d1905f313.jpg?1721425526"
+  },
+  "mana_cost": "{2}",
+  "cmc": 2,
+  "type_line": "Artifact Creature — Wall",
+  "oracle_text": "Defender, reach\nLeap of Faith — {3}: Target creature gains flying until end of turn.",
+  "power": "0",
+  "toughness": "4",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Reach",
+    "Leap of Faith",
+    "Defender"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": false,
+  "finishes": [
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "54b67b0b-cd3f-4e0d-ac25-fef5d966409b",
+  "set": "acr",
+  "set_name": "Assassin's Creed",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/54b67b0b-cd3f-4e0d-ac25-fef5d966409b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aacr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/acr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c6e84b05-15fe-4335-a5fd-a26d1905f313/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A46c404c3-636a-4945-a61c-62f013a9c50f&unique=prints",
+  "collector_number": "263",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "The leap of faith is a sacred rite of the Assassins—it strengthens their resolve and purges fear from their hearts.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lixin Yin",
+  "artist_ids": [
+    "25645c87-71be-400b-8522-618a52c37454"
+  ],
+  "illustration_id": "64a70270-8f3f-468f-bc85-e3d4f7346838",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted",
+    "etched"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 8452,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": "0.73",
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=667207&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTowering%2BViewpoint",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTowering%2BViewpoint",
+    "edhrec": "https://edhrec.com/route/?cc=Towering+Viewpoint"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DTowering%2BViewpoint%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Towering+Viewpoint&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/127882?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

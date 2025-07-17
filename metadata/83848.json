@@ -1,0 +1,176 @@
+{
+  "object": "card",
+  "id": "c604e263-11cf-46ee-8d26-b2ef833d44f6",
+  "oracle_id": "acfc3e07-757f-4ccf-a65e-bee07ce87f40",
+  "multiverse_ids": [],
+  "tcgplayer_id": 231551,
+  "cardmarket_id": 535927,
+  "name": "Halvar, God of Battle // Sword of the Realms",
+  "lang": "en",
+  "released_at": "2021-02-05",
+  "uri": "https://api.scryfall.com/cards/c604e263-11cf-46ee-8d26-b2ef833d44f6",
+  "scryfall_uri": "https://scryfall.com/card/pkhm/15s/halvar-god-of-battle-sword-of-the-realms?utm_source=api",
+  "layout": "modal_dfc",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 4,
+  "type_line": "Legendary Creature — God // Legendary Artifact — Equipment",
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Equip"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Halvar, God of Battle",
+      "mana_cost": "{2}{W}{W}",
+      "type_line": "Legendary Creature — God",
+      "oracle_text": "Creatures you control that are enchanted or equipped have double strike.\nAt the beginning of each combat, you may attach target Aura or Equipment attached to a creature you control to target creature you control.",
+      "colors": [
+        "W"
+      ],
+      "power": "4",
+      "toughness": "4",
+      "artist": "Lie Setiawan",
+      "artist_id": "6f771d3f-310e-4aa4-841f-5ba4ba9f025a",
+      "illustration_id": "a57ddc45-4a21-447f-a2f8-ddc93407b12a",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/c/6/c604e263-11cf-46ee-8d26-b2ef833d44f6.jpg?1628382975",
+        "normal": "https://cards.scryfall.io/normal/front/c/6/c604e263-11cf-46ee-8d26-b2ef833d44f6.jpg?1628382975",
+        "large": "https://cards.scryfall.io/large/front/c/6/c604e263-11cf-46ee-8d26-b2ef833d44f6.jpg?1628382975",
+        "png": "https://cards.scryfall.io/png/front/c/6/c604e263-11cf-46ee-8d26-b2ef833d44f6.png?1628382975",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/c/6/c604e263-11cf-46ee-8d26-b2ef833d44f6.jpg?1628382975",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/c/6/c604e263-11cf-46ee-8d26-b2ef833d44f6.jpg?1628382975"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Sword of the Realms",
+      "mana_cost": "{1}{W}",
+      "type_line": "Legendary Artifact — Equipment",
+      "oracle_text": "Equipped creature gets +2/+0 and has vigilance.\nWhenever equipped creature dies, return it to its owner's hand.\nEquip {1}{W}",
+      "colors": [
+        "W"
+      ],
+      "flavor_text": "It cuts through the Cosmos itself, carving new Omenpaths between the realms.",
+      "artist": "Lie Setiawan",
+      "artist_id": "6f771d3f-310e-4aa4-841f-5ba4ba9f025a",
+      "illustration_id": "140e740b-72b7-49fa-a407-7c41a9245124",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/c/6/c604e263-11cf-46ee-8d26-b2ef833d44f6.jpg?1628382975",
+        "normal": "https://cards.scryfall.io/normal/back/c/6/c604e263-11cf-46ee-8d26-b2ef833d44f6.jpg?1628382975",
+        "large": "https://cards.scryfall.io/large/back/c/6/c604e263-11cf-46ee-8d26-b2ef833d44f6.jpg?1628382975",
+        "png": "https://cards.scryfall.io/png/back/c/6/c604e263-11cf-46ee-8d26-b2ef833d44f6.png?1628382975",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/c/6/c604e263-11cf-46ee-8d26-b2ef833d44f6.jpg?1628382975",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/c/6/c604e263-11cf-46ee-8d26-b2ef833d44f6.jpg?1628382975"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "3ce46100-461d-424e-afa4-7a0bb7d0a822",
+      "component": "combo_piece",
+      "name": "Forging the Tyrite Sword",
+      "type_line": "Enchantment — Saga",
+      "uri": "https://api.scryfall.com/cards/3ce46100-461d-424e-afa4-7a0bb7d0a822"
+    },
+    {
+      "object": "related_card",
+      "id": "c604e263-11cf-46ee-8d26-b2ef833d44f6",
+      "component": "combo_piece",
+      "name": "Halvar, God of Battle // Sword of the Realms",
+      "type_line": "Legendary Creature — God // Legendary Artifact — Equipment",
+      "uri": "https://api.scryfall.com/cards/c604e263-11cf-46ee-8d26-b2ef833d44f6"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d7b6bf0-0ded-49a0-8c0e-b1ae2bfba77c",
+  "set": "pkhm",
+  "set_name": "Kaldheim Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/4d7b6bf0-0ded-49a0-8c0e-b1ae2bfba77c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apkhm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pkhm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c604e263-11cf-46ee-8d26-b2ef833d44f6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aacfc3e07-757f-4ccf-a65e-bee07ce87f40&unique=prints",
+  "collector_number": "15s",
+  "digital": false,
+  "rarity": "mythic",
+  "artist": "Lie Setiawan",
+  "artist_ids": [
+    "6f771d3f-310e-4aa4-841f-5ba4ba9f025a"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 2204,
+  "penny_rank": 7616,
+  "prices": {
+    "usd": null,
+    "usd_foil": "25.01",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "16.67",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHalvar%252C%2BGod%2Bof%2BBattle%2B%252F%252F%2BSword%2Bof%2Bthe%2BRealms",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHalvar%252C%2BGod%2Bof%2BBattle%2B%252F%252F%2BSword%2Bof%2Bthe%2BRealms",
+    "edhrec": "https://edhrec.com/route/?cc=Halvar%2C+God+of+Battle"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F231551%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=535927&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Halvar%2C+God+of+Battle&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

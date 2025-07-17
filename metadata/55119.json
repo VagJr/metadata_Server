@@ -1,0 +1,156 @@
+{
+  "object": "card",
+  "id": "82849769-ee1b-4f70-935c-9cb97772ade1",
+  "oracle_id": "c11fef0f-972d-4756-9902-fd3e3af00707",
+  "multiverse_ids": [
+    649399
+  ],
+  "mtgo_id": 121342,
+  "tcgplayer_id": 533422,
+  "name": "Culvert Ambusher",
+  "lang": "en",
+  "released_at": "2024-02-09",
+  "uri": "https://api.scryfall.com/cards/82849769-ee1b-4f70-935c-9cb97772ade1",
+  "scryfall_uri": "https://scryfall.com/card/mkm/351/culvert-ambusher?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/2/82849769-ee1b-4f70-935c-9cb97772ade1.jpg?1706242607",
+    "normal": "https://cards.scryfall.io/normal/front/8/2/82849769-ee1b-4f70-935c-9cb97772ade1.jpg?1706242607",
+    "large": "https://cards.scryfall.io/large/front/8/2/82849769-ee1b-4f70-935c-9cb97772ade1.jpg?1706242607",
+    "png": "https://cards.scryfall.io/png/front/8/2/82849769-ee1b-4f70-935c-9cb97772ade1.png?1706242607",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/2/82849769-ee1b-4f70-935c-9cb97772ade1.jpg?1706242607",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/2/82849769-ee1b-4f70-935c-9cb97772ade1.jpg?1706242607"
+  },
+  "mana_cost": "{3}{G}{G}",
+  "cmc": 5,
+  "type_line": "Creature — Wurm Horror",
+  "oracle_text": "When this creature enters or is turned face up, target creature blocks this turn if able.\nDisguise {4}{G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",
+  "power": "4",
+  "toughness": "5",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Disguise"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "241b3b6d-a25f-4a43-b5d6-1d1079e7e498",
+      "component": "combo_piece",
+      "name": "A Mysterious Creature",
+      "type_line": "Creature",
+      "uri": "https://api.scryfall.com/cards/241b3b6d-a25f-4a43-b5d6-1d1079e7e498"
+    },
+    {
+      "object": "related_card",
+      "id": "82849769-ee1b-4f70-935c-9cb97772ade1",
+      "component": "combo_piece",
+      "name": "Culvert Ambusher",
+      "type_line": "Creature — Wurm Horror",
+      "uri": "https://api.scryfall.com/cards/82849769-ee1b-4f70-935c-9cb97772ade1"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+  "set": "mkm",
+  "set_name": "Murders at Karlov Manor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/82849769-ee1b-4f70-935c-9cb97772ade1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac11fef0f-972d-4756-9902-fd3e3af00707&unique=prints",
+  "collector_number": "351",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "JUST LET THE GOLGARI DEAL WITH IT.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alex Stone",
+  "artist_ids": [
+    "fe11c66b-bf9e-4417-815c-81c5caf924b3"
+  ],
+  "illustration_id": "e9cd0ff9-9875-456a-83b2-8cb9b9f8b9a7",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "dossier",
+    "boosterfun"
+  ],
+  "edhrec_rank": 20176,
+  "preview": {
+    "source": "Lords of Limited",
+    "source_uri": "https://twitter.com/lordsoflimited/status/1747647094523891766",
+    "previewed_at": "2024-01-17"
+  },
+  "prices": {
+    "usd": "0.04",
+    "usd_foil": "0.09",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=649399&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCulvert%2BAmbusher",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCulvert%2BAmbusher",
+    "edhrec": "https://edhrec.com/route/?cc=Culvert+Ambusher"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F533422%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Culvert+Ambusher&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/121342?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

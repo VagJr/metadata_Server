@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "de5ababf-a0b7-4f5d-b31a-b7c86e1822a2",
+  "oracle_id": "64b4e91f-83a4-4b3f-87d4-8c48907e628d",
+  "multiverse_ids": [],
+  "mtgo_id": 109388,
+  "arena_id": 85536,
+  "tcgplayer_etched_id": 491880,
+  "name": "Tymaret, Chosen from Death",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/de5ababf-a0b7-4f5d-b31a-b7c86e1822a2",
+  "scryfall_uri": "https://scryfall.com/card/mul/83/tymaret-chosen-from-death?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/e/de5ababf-a0b7-4f5d-b31a-b7c86e1822a2.jpg?1682201243",
+    "normal": "https://cards.scryfall.io/normal/front/d/e/de5ababf-a0b7-4f5d-b31a-b7c86e1822a2.jpg?1682201243",
+    "large": "https://cards.scryfall.io/large/front/d/e/de5ababf-a0b7-4f5d-b31a-b7c86e1822a2.jpg?1682201243",
+    "png": "https://cards.scryfall.io/png/front/d/e/de5ababf-a0b7-4f5d-b31a-b7c86e1822a2.png?1682201243",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/e/de5ababf-a0b7-4f5d-b31a-b7c86e1822a2.jpg?1682201243",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/e/de5ababf-a0b7-4f5d-b31a-b7c86e1822a2.jpg?1682201243"
+  },
+  "mana_cost": "{B}{B}",
+  "cmc": 2,
+  "type_line": "Legendary Enchantment Creature — Demigod",
+  "oracle_text": "Tymaret's toughness is equal to your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)\n{1}{B}: Exile up to two target cards from graveyards. You gain 1 life for each creature card exiled this way.",
+  "power": "2",
+  "toughness": "*",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": false,
+  "finishes": [
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a3f8daea-b24e-4e5c-a4d9-ec8910e9078a",
+  "set": "mul",
+  "set_name": "Multiverse Legends",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/a3f8daea-b24e-4e5c-a4d9-ec8910e9078a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amul&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mul?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/de5ababf-a0b7-4f5d-b31a-b7c86e1822a2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A64b4e91f-83a4-4b3f-87d4-8c48907e628d&unique=prints",
+  "collector_number": "83",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chase Stone",
+  "artist_ids": [
+    "2d753f61-5f5b-468e-97ea-8e0fdd347340"
+  ],
+  "illustration_id": "6dbbbf9c-491b-4755-ae36-8e52ed06b463",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted",
+    "enchantment",
+    "etched"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 8473,
+  "penny_rank": 1047,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": "0.14",
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTymaret%252C%2BChosen%2Bfrom%2BDeath",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTymaret%252C%2BChosen%2Bfrom%2BDeath",
+    "edhrec": "https://edhrec.com/route/?cc=Tymaret%2C+Chosen+from+Death"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DTymaret%252C%2BChosen%2Bfrom%2BDeath%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tymaret%2C+Chosen+from+Death&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/109388?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

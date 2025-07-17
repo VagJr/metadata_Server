@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "e75f64d0-587d-4873-be15-75e48e71b862",
+  "oracle_id": "2b80faaf-92fd-4fa0-a3f6-8bb263e7ff1d",
+  "multiverse_ids": [
+    247358
+  ],
+  "mtgo_id": 40462,
+  "mtgo_foil_id": 40782,
+  "tcgplayer_id": 47288,
+  "cardmarket_id": 247150,
+  "name": "Akroma, Angel of Fury",
+  "lang": "en",
+  "released_at": "2011-06-17",
+  "uri": "https://api.scryfall.com/cards/e75f64d0-587d-4873-be15-75e48e71b862",
+  "scryfall_uri": "https://scryfall.com/card/cmd/108/akroma-angel-of-fury?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/7/e75f64d0-587d-4873-be15-75e48e71b862.jpg?1592713451",
+    "normal": "https://cards.scryfall.io/normal/front/e/7/e75f64d0-587d-4873-be15-75e48e71b862.jpg?1592713451",
+    "large": "https://cards.scryfall.io/large/front/e/7/e75f64d0-587d-4873-be15-75e48e71b862.jpg?1592713451",
+    "png": "https://cards.scryfall.io/png/front/e/7/e75f64d0-587d-4873-be15-75e48e71b862.png?1592713451",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/7/e75f64d0-587d-4873-be15-75e48e71b862.jpg?1592713451",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/7/e75f64d0-587d-4873-be15-75e48e71b862.jpg?1592713451"
+  },
+  "mana_cost": "{5}{R}{R}{R}",
+  "cmc": 8,
+  "type_line": "Legendary Creature — Angel",
+  "oracle_text": "This spell can't be countered.\nFlying, trample, protection from white and from blue\n{R}: Akroma gets +1/+0 until end of turn.\nMorph {3}{R}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+  "power": "6",
+  "toughness": "6",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flying",
+    "Morph",
+    "Protection",
+    "Trample"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e75f64d0-587d-4873-be15-75e48e71b862",
+      "component": "combo_piece",
+      "name": "Akroma, Angel of Fury",
+      "type_line": "Legendary Creature — Angel",
+      "uri": "https://api.scryfall.com/cards/e75f64d0-587d-4873-be15-75e48e71b862"
+    },
+    {
+      "object": "related_card",
+      "id": "e9375cbe-93c0-41a5-a6e3-fb4416f54a69",
+      "component": "combo_piece",
+      "name": "Morph",
+      "type_line": "Creature",
+      "uri": "https://api.scryfall.com/cards/e9375cbe-93c0-41a5-a6e3-fb4416f54a69"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "84ff1a64-4e69-4ed2-8c08-26206e3b97a0",
+  "set": "cmd",
+  "set_name": "Commander 2011",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/84ff1a64-4e69-4ed2-8c08-26206e3b97a0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmd&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmd?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e75f64d0-587d-4873-be15-75e48e71b862/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2b80faaf-92fd-4fa0-a3f6-8bb263e7ff1d&unique=prints",
+  "collector_number": "108",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daren Bader",
+  "artist_ids": [
+    "7da1a585-c875-45e4-b322-5da9e8e1f651"
+  ],
+  "illustration_id": "e514f7b9-bc51-4f46-a777-1cea10491447",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 6177,
+  "penny_rank": 3634,
+  "prices": {
+    "usd": "0.76",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.79",
+    "eur_foil": null,
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247358&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAkroma%252C%2BAngel%2Bof%2BFury",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAkroma%252C%2BAngel%2Bof%2BFury",
+    "edhrec": "https://edhrec.com/route/?cc=Akroma%2C+Angel+of+Fury"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F47288%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=247150&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/40462?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

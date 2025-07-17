@@ -1,0 +1,118 @@
+{
+  "object": "card",
+  "id": "2451a493-9f08-4c80-b57d-551cbe436af7",
+  "oracle_id": "68c0c04e-b0d5-4721-83bf-bf18e8b7e680",
+  "multiverse_ids": [],
+  "tcgplayer_id": 109877,
+  "cardmarket_id": 15213,
+  "name": "Scavenging Ghoul",
+  "printed_name": "Goule nécrophage",
+  "lang": "fr",
+  "released_at": "1994-04-11",
+  "uri": "https://api.scryfall.com/cards/2451a493-9f08-4c80-b57d-551cbe436af7",
+  "scryfall_uri": "https://scryfall.com/card/fbb/128/fr/goule-n%C3%A9crophage-(scavenging-ghoul)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/4/2451a493-9f08-4c80-b57d-551cbe436af7.jpg?1539998081",
+    "normal": "https://cards.scryfall.io/normal/front/2/4/2451a493-9f08-4c80-b57d-551cbe436af7.jpg?1539998081",
+    "large": "https://cards.scryfall.io/large/front/2/4/2451a493-9f08-4c80-b57d-551cbe436af7.jpg?1539998081",
+    "png": "https://cards.scryfall.io/png/front/2/4/2451a493-9f08-4c80-b57d-551cbe436af7.png?1539998081",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/4/2451a493-9f08-4c80-b57d-551cbe436af7.jpg?1539998081",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/4/2451a493-9f08-4c80-b57d-551cbe436af7.jpg?1539998081"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4,
+  "type_line": "Creature — Zombie",
+  "oracle_text": "At the beginning of each end step, put a corpse counter on this creature for each creature that died this turn.\nRemove a corpse counter from this creature: Regenerate this creature.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "60648044-9f6a-4961-81af-47a0a94dfac9",
+  "set": "fbb",
+  "set_name": "Foreign Black Border",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/60648044-9f6a-4961-81af-47a0a94dfac9",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afbb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fbb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2451a493-9f08-4c80-b57d-551cbe436af7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A68c0c04e-b0d5-4721-83bf-bf18e8b7e680&unique=prints",
+  "collector_number": "128",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jeff A. Menges",
+  "artist_ids": [
+    "14a1de4b-1237-4e7b-8868-b71e87c9a46e"
+  ],
+  "illustration_id": "72276832-e87c-4211-b320-718132fac97d",
+  "border_color": "black",
+  "frame": "1993",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 28137,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.31",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DScavenging%2BGhoul",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DScavenging%2BGhoul",
+    "edhrec": "https://edhrec.com/route/?cc=Scavenging+Ghoul"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F109877%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=15213&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Scavenging+Ghoul&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

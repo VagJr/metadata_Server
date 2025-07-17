@@ -1,0 +1,117 @@
+{
+  "object": "card",
+  "id": "fa08a961-cd6a-403e-a098-1e7f716262bb",
+  "oracle_id": "a3fb7228-e76b-4e96-a40e-20b5fed75685",
+  "multiverse_ids": [],
+  "tcgplayer_id": 279321,
+  "cardmarket_id": 658253,
+  "name": "Mountain",
+  "lang": "en",
+  "released_at": "2022-04-05",
+  "uri": "https://api.scryfall.com/cards/fa08a961-cd6a-403e-a098-1e7f716262bb",
+  "scryfall_uri": "https://scryfall.com/card/sld/387/mountain?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/a/fa08a961-cd6a-403e-a098-1e7f716262bb.jpg?1650293624",
+    "normal": "https://cards.scryfall.io/normal/front/f/a/fa08a961-cd6a-403e-a098-1e7f716262bb.jpg?1650293624",
+    "large": "https://cards.scryfall.io/large/front/f/a/fa08a961-cd6a-403e-a098-1e7f716262bb.jpg?1650293624",
+    "png": "https://cards.scryfall.io/png/front/f/a/fa08a961-cd6a-403e-a098-1e7f716262bb.png?1650293624",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/a/fa08a961-cd6a-403e-a098-1e7f716262bb.jpg?1650293624",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/a/fa08a961-cd6a-403e-a098-1e7f716262bb.jpg?1650293624"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Basic Land — Mountain",
+  "oracle_text": "({T}: Add {R}.)",
+  "colors": [],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "R"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/fa08a961-cd6a-403e-a098-1e7f716262bb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3fb7228-e76b-4e96-a40e-20b5fed75685&unique=prints",
+  "collector_number": "387",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jeanne D'Angelo",
+  "artist_ids": [
+    "5a252c75-0176-4be3-a8b5-05c08b3bef4e"
+  ],
+  "illustration_id": "331c7c10-2957-42ca-8edd-efd5993f24f5",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": "6.55",
+    "usd_foil": "6.14",
+    "usd_etched": null,
+    "eur": "4.74",
+    "eur_foil": "4.73",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMountain",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMountain",
+    "edhrec": "https://edhrec.com/route/?cc=Mountain"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F279321%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=658253&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mountain&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

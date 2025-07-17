@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "ea3d30fc-b1a1-45cc-a89a-d2593bf22031",
+  "oracle_id": "08becc07-28bc-4a2f-a6b0-28a2998d2f50",
+  "multiverse_ids": [],
+  "tcgplayer_id": 579973,
+  "cardmarket_id": 791238,
+  "name": "Windfall",
+  "flavor_name": "Slimer's Feast",
+  "lang": "en",
+  "released_at": "2024-09-30",
+  "uri": "https://api.scryfall.com/cards/ea3d30fc-b1a1-45cc-a89a-d2593bf22031",
+  "scryfall_uri": "https://scryfall.com/card/sld/1775/windfall?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/a/ea3d30fc-b1a1-45cc-a89a-d2593bf22031.jpg?1727567489",
+    "normal": "https://cards.scryfall.io/normal/front/e/a/ea3d30fc-b1a1-45cc-a89a-d2593bf22031.jpg?1727567489",
+    "large": "https://cards.scryfall.io/large/front/e/a/ea3d30fc-b1a1-45cc-a89a-d2593bf22031.jpg?1727567489",
+    "png": "https://cards.scryfall.io/png/front/e/a/ea3d30fc-b1a1-45cc-a89a-d2593bf22031.png?1727567489",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/a/ea3d30fc-b1a1-45cc-a89a-d2593bf22031.jpg?1727567489",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/a/ea3d30fc-b1a1-45cc-a89a-d2593bf22031.jpg?1727567489"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Sorcery",
+  "oracle_text": "Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "banned",
+    "pauper": "not_legal",
+    "vintage": "restricted",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "banned",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ea3d30fc-b1a1-45cc-a89a-d2593bf22031/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A08becc07-28bc-4a2f-a6b0-28a2998d2f50&unique=prints",
+  "collector_number": "1775",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Sir, what you had there is what we refer to as a focused, non-terminal repeating phantasm, or a class-five full-roaming vapor. Real nasty one, too!\"\n—Dr. Raymond Stantz",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Simon Dominic",
+  "artist_ids": [
+    "b0e80135-db5a-4b88-a0bc-815a0e94faa1"
+  ],
+  "illustration_id": "929db91c-cc93-4bb3-83c9-fdc77fca55db",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 137,
+  "prices": {
+    "usd": "11.62",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "9.92",
+    "eur_foil": "10.73",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWindfall",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWindfall",
+    "edhrec": "https://edhrec.com/route/?cc=Windfall"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F579973%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=791238&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Windfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

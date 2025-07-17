@@ -1,0 +1,151 @@
+{
+  "object": "card",
+  "id": "5deefe63-0d42-4983-9871-3b58e8547d07",
+  "oracle_id": "b9225046-03aa-4729-89fa-32c049407229",
+  "multiverse_ids": [
+    636274
+  ],
+  "mtgo_id": 119744,
+  "tcgplayer_id": 518050,
+  "cardmarket_id": 738212,
+  "name": "Shadow Summoning",
+  "lang": "en",
+  "released_at": "2023-11-03",
+  "uri": "https://api.scryfall.com/cards/5deefe63-0d42-4983-9871-3b58e8547d07",
+  "scryfall_uri": "https://scryfall.com/card/ltr/677/shadow-summoning?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/d/5deefe63-0d42-4983-9871-3b58e8547d07.jpg?1695448603",
+    "normal": "https://cards.scryfall.io/normal/front/5/d/5deefe63-0d42-4983-9871-3b58e8547d07.jpg?1695448603",
+    "large": "https://cards.scryfall.io/large/front/5/d/5deefe63-0d42-4983-9871-3b58e8547d07.jpg?1695448603",
+    "png": "https://cards.scryfall.io/png/front/5/d/5deefe63-0d42-4983-9871-3b58e8547d07.png?1695448603",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/d/5deefe63-0d42-4983-9871-3b58e8547d07.jpg?1695448603",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/d/5deefe63-0d42-4983-9871-3b58e8547d07.jpg?1695448603"
+  },
+  "mana_cost": "{W}{B}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "oracle_text": "Create two tapped 1/1 white Spirit creature tokens with flying.",
+  "colors": [
+    "B",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "5deefe63-0d42-4983-9871-3b58e8547d07",
+      "component": "combo_piece",
+      "name": "Shadow Summoning",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/5deefe63-0d42-4983-9871-3b58e8547d07"
+    },
+    {
+      "object": "related_card",
+      "id": "b53ee2f0-afbd-491f-b3b8-c9997f175199",
+      "component": "token",
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/b53ee2f0-afbd-491f-b3b8-c9997f175199"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "08078706-ac5d-439b-8f01-894d38751367",
+  "set": "ltr",
+  "set_name": "The Lord of the Rings: Tales of Middle-earth",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/08078706-ac5d-439b-8f01-894d38751367",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5deefe63-0d42-4983-9871-3b58e8547d07/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab9225046-03aa-4729-89fa-32c049407229&unique=prints",
+  "collector_number": "677",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Whose shall the horn be? Who shall call them from the grey twilight, the forgotten people? The heir of him to whom the oath they swore.\"\n—Malbeth the Seer",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Campbell White",
+  "artist_ids": [
+    "d281eab4-463a-4ba8-9039-8943737960a0"
+  ],
+  "illustration_id": "9a14f77c-d931-4e29-9c4e-cb804d54e2f6",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "silverfoil",
+    "scroll",
+    "boosterfun"
+  ],
+  "edhrec_rank": 9728,
+  "prices": {
+    "usd": "0.12",
+    "usd_foil": "0.17",
+    "usd_etched": null,
+    "eur": "0.14",
+    "eur_foil": null,
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=636274&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DShadow%2BSummoning",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DShadow%2BSummoning",
+    "edhrec": "https://edhrec.com/route/?cc=Shadow+Summoning"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F518050%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=738212&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/119744?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

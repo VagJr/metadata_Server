@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "308e9006-d072-46f4-befd-6a8d37f48582",
+  "oracle_id": "0c016ccc-a341-4b76-87ba-69c639d2746d",
+  "multiverse_ids": [],
+  "arena_id": 76988,
+  "name": "Dragon's Rage Channeler",
+  "lang": "en",
+  "released_at": "2021-08-26",
+  "uri": "https://api.scryfall.com/cards/308e9006-d072-46f4-befd-6a8d37f48582",
+  "scryfall_uri": "https://scryfall.com/card/j21/438/dragons-rage-channeler?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/0/308e9006-d072-46f4-befd-6a8d37f48582.jpg?1630248864",
+    "normal": "https://cards.scryfall.io/normal/front/3/0/308e9006-d072-46f4-befd-6a8d37f48582.jpg?1630248864",
+    "large": "https://cards.scryfall.io/large/front/3/0/308e9006-d072-46f4-befd-6a8d37f48582.jpg?1630248864",
+    "png": "https://cards.scryfall.io/png/front/3/0/308e9006-d072-46f4-befd-6a8d37f48582.png?1630248864",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/0/308e9006-d072-46f4-befd-6a8d37f48582.jpg?1630248864",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/0/308e9006-d072-46f4-befd-6a8d37f48582.jpg?1630248864"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1,
+  "type_line": "Creature — Human Shaman",
+  "oracle_text": "Whenever you cast a noncreature spell, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)\nDelirium — As long as there are four or more card types among cards in your graveyard, this creature gets +2/+2, has flying, and attacks each combat if able.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Delirium",
+    "Surveil"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "308e9006-d072-46f4-befd-6a8d37f48582",
+      "component": "combo_piece",
+      "name": "Dragon's Rage Channeler",
+      "type_line": "Creature — Human Shaman",
+      "uri": "https://api.scryfall.com/cards/308e9006-d072-46f4-befd-6a8d37f48582"
+    },
+    {
+      "object": "related_card",
+      "id": "ae8024ce-12c9-4139-934d-fb230103daa1",
+      "component": "combo_piece",
+      "name": "A-Dragon's Rage Channeler",
+      "type_line": "Creature — Human Shaman",
+      "uri": "https://api.scryfall.com/cards/ae8024ce-12c9-4139-934d-fb230103daa1"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e1cc23bd-379b-4f2c-a4e0-83fc1e7be023",
+  "set": "j21",
+  "set_name": "Jumpstart: Historic Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/e1cc23bd-379b-4f2c-a4e0-83fc1e7be023",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj21&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j21?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/308e9006-d072-46f4-befd-6a8d37f48582/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0c016ccc-a341-4b76-87ba-69c639d2746d&unique=prints",
+  "collector_number": "438",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Martina Fačková",
+  "artist_ids": [
+    "6338124e-8e53-498d-8bf9-93a55db2f61c"
+  ],
+  "illustration_id": "6e71208a-d9a4-40c3-994a-dd8d7fb6a90e",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1882,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDragon%2527s%2BRage%2BChanneler",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDragon%2527s%2BRage%2BChanneler",
+    "edhrec": "https://edhrec.com/route/?cc=Dragon%27s+Rage+Channeler"
+  }
+}

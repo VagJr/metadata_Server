@@ -1,0 +1,113 @@
+{
+  "object": "card",
+  "id": "5b1280e5-d1b7-4785-af20-9725357bda38",
+  "oracle_id": "a3fb7228-e76b-4e96-a40e-20b5fed75685",
+  "multiverse_ids": [
+    574220
+  ],
+  "arena_id": 82473,
+  "name": "Mountain",
+  "lang": "en",
+  "released_at": "2022-07-07",
+  "uri": "https://api.scryfall.com/cards/5b1280e5-d1b7-4785-af20-9725357bda38",
+  "scryfall_uri": "https://scryfall.com/card/hbg/302/mountain?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/b/5b1280e5-d1b7-4785-af20-9725357bda38.jpg?1681001015",
+    "normal": "https://cards.scryfall.io/normal/front/5/b/5b1280e5-d1b7-4785-af20-9725357bda38.jpg?1681001015",
+    "large": "https://cards.scryfall.io/large/front/5/b/5b1280e5-d1b7-4785-af20-9725357bda38.jpg?1681001015",
+    "png": "https://cards.scryfall.io/png/front/5/b/5b1280e5-d1b7-4785-af20-9725357bda38.png?1681001015",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/b/5b1280e5-d1b7-4785-af20-9725357bda38.jpg?1681001015",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/b/5b1280e5-d1b7-4785-af20-9725357bda38.jpg?1681001015"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Basic Land — Mountain",
+  "oracle_text": "({T}: Add {R}.)",
+  "colors": [],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "R"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "35528ede-7870-4598-a2ee-7f3d6464a74b",
+  "set": "hbg",
+  "set_name": "Alchemy Horizons: Baldur's Gate",
+  "set_type": "alchemy",
+  "set_uri": "https://api.scryfall.com/sets/35528ede-7870-4598-a2ee-7f3d6464a74b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahbg&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/hbg?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5b1280e5-d1b7-4785-af20-9725357bda38/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3fb7228-e76b-4e96-a40e-20b5fed75685&unique=prints",
+  "collector_number": "302",
+  "digital": true,
+  "rarity": "common",
+  "flavor_text": "Lord Jannath sent you to secure the mine from gnoll raiders, but so far you haven't seen any gnolls . . . or, for that matter, any miners.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lucas Graciano",
+  "artist_ids": [
+    "ce98f39c-7cdd-47e6-a520-6c50443bb4c2"
+  ],
+  "illustration_id": "5961d3bd-a091-40cb-93cf-8575e484da16",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574220&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMountain",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMountain",
+    "edhrec": "https://edhrec.com/route/?cc=Mountain"
+  }
+}

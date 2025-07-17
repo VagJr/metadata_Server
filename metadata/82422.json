@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "c2a3b565-2880-48f1-bbfe-1eeafcb76c2b",
+  "oracle_id": "cf32524e-0df9-4af8-9371-84feeb0a86c6",
+  "multiverse_ids": [
+    526704
+  ],
+  "tcgplayer_id": 239497,
+  "cardmarket_id": 565931,
+  "name": "Fractured Sanity",
+  "lang": "en",
+  "released_at": "2021-06-18",
+  "uri": "https://api.scryfall.com/cards/c2a3b565-2880-48f1-bbfe-1eeafcb76c2b",
+  "scryfall_uri": "https://scryfall.com/card/mh2/336/fractured-sanity?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/2/c2a3b565-2880-48f1-bbfe-1eeafcb76c2b.jpg?1626101309",
+    "normal": "https://cards.scryfall.io/normal/front/c/2/c2a3b565-2880-48f1-bbfe-1eeafcb76c2b.jpg?1626101309",
+    "large": "https://cards.scryfall.io/large/front/c/2/c2a3b565-2880-48f1-bbfe-1eeafcb76c2b.jpg?1626101309",
+    "png": "https://cards.scryfall.io/png/front/c/2/c2a3b565-2880-48f1-bbfe-1eeafcb76c2b.png?1626101309",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/2/c2a3b565-2880-48f1-bbfe-1eeafcb76c2b.jpg?1626101309",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/2/c2a3b565-2880-48f1-bbfe-1eeafcb76c2b.jpg?1626101309"
+  },
+  "mana_cost": "{U}{U}{U}",
+  "cmc": 3,
+  "type_line": "Sorcery",
+  "oracle_text": "Each opponent mills fourteen cards.\nCycling {1}{U} ({1}{U}, Discard this card: Draw a card.)\nWhen you cycle this card, each opponent mills four cards.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Mill",
+    "Cycling"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c1c7eb8c-f205-40ab-a609-767cb296544e",
+  "set": "mh2",
+  "set_name": "Modern Horizons 2",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/c1c7eb8c-f205-40ab-a609-767cb296544e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c2a3b565-2880-48f1-bbfe-1eeafcb76c2b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acf32524e-0df9-4af8-9371-84feeb0a86c6&unique=prints",
+  "collector_number": "336",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Action: We'd like an epic, abstract illustration of a fantastical moon (not the real-life earth moon), which has cracked open.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Drew Tucker",
+  "artist_ids": [
+    "22eef389-7b21-4dda-95dc-4c9a0f1bf4dd"
+  ],
+  "illustration_id": "2cc1a053-3600-4719-a375-bec051a7f7a9",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 1884,
+  "preview": {
+    "source": "Ma Noah",
+    "source_uri": "https://twitter.com/manoah_mtg/status/1396847564352233479",
+    "previewed_at": "2021-05-24"
+  },
+  "prices": {
+    "usd": "1.58",
+    "usd_foil": "4.76",
+    "usd_etched": null,
+    "eur": "0.92",
+    "eur_foil": "1.92",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=526704&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFractured%2BSanity",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFractured%2BSanity",
+    "edhrec": "https://edhrec.com/route/?cc=Fractured+Sanity"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F239497%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=565931&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Fractured+Sanity&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

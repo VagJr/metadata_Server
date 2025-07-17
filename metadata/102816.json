@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "f312dd75-8308-4283-9ddd-f5648af2bed0",
+  "oracle_id": "37df5ade-6a21-4b0c-89f8-e2e917589a8d",
+  "multiverse_ids": [],
+  "tcgplayer_id": 501343,
+  "name": "Dawn of a New Age",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/f312dd75-8308-4283-9ddd-f5648af2bed0",
+  "scryfall_uri": "https://scryfall.com/card/pltr/5s/dawn-of-a-new-age?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/3/f312dd75-8308-4283-9ddd-f5648af2bed0.jpg?1687888172",
+    "normal": "https://cards.scryfall.io/normal/front/f/3/f312dd75-8308-4283-9ddd-f5648af2bed0.jpg?1687888172",
+    "large": "https://cards.scryfall.io/large/front/f/3/f312dd75-8308-4283-9ddd-f5648af2bed0.jpg?1687888172",
+    "png": "https://cards.scryfall.io/png/front/f/3/f312dd75-8308-4283-9ddd-f5648af2bed0.png?1687888172",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/3/f312dd75-8308-4283-9ddd-f5648af2bed0.jpg?1687888172",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/3/f312dd75-8308-4283-9ddd-f5648af2bed0.jpg?1687888172"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Enchantment",
+  "oracle_text": "This enchantment enters with a hope counter on it for each creature you control.\nAt the beginning of your end step, remove a hope counter from this enchantment. If you do, draw a card. Then if this enchantment has no hope counters on it, sacrifice it and you gain 4 life.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "1012754e-18e5-4a76-b9a3-24c55eaab1c5",
+  "set": "pltr",
+  "set_name": "Tales of Middle-earth Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/1012754e-18e5-4a76-b9a3-24c55eaab1c5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apltr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pltr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f312dd75-8308-4283-9ddd-f5648af2bed0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A37df5ade-6a21-4b0c-89f8-e2e917589a8d&unique=prints",
+  "collector_number": "5s",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Anato Finnstark",
+  "artist_ids": [
+    "05d233e7-4958-4f79-83e6-f9bf8b6ff78e"
+  ],
+  "illustration_id": "3595a946-81ac-41be-88fb-6afd0f771f4e",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 3209,
+  "penny_rank": 4920,
+  "prices": {
+    "usd": null,
+    "usd_foil": "7.55",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDawn%2Bof%2Ba%2BNew%2BAge",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDawn%2Bof%2Ba%2BNew%2BAge",
+    "edhrec": "https://edhrec.com/route/?cc=Dawn+of+a+New+Age"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F501343%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dawn+of+a+New+Age&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dawn+of+a+New+Age&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

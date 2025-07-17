@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "10be9a82-4008-45ae-a739-fdee95e39619",
+  "oracle_id": "b4b724bb-4c1c-4002-8eb8-bc8dd3f88e62",
+  "multiverse_ids": [],
+  "tcgplayer_id": 267846,
+  "cardmarket_id": 663201,
+  "name": "Shadow of Doubt",
+  "lang": "en",
+  "released_at": "2022-02-18",
+  "uri": "https://api.scryfall.com/cards/10be9a82-4008-45ae-a739-fdee95e39619",
+  "scryfall_uri": "https://scryfall.com/card/sld/414/shadow-of-doubt?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/0/10be9a82-4008-45ae-a739-fdee95e39619.jpg?1711892785",
+    "normal": "https://cards.scryfall.io/normal/front/1/0/10be9a82-4008-45ae-a739-fdee95e39619.jpg?1711892785",
+    "large": "https://cards.scryfall.io/large/front/1/0/10be9a82-4008-45ae-a739-fdee95e39619.jpg?1711892785",
+    "png": "https://cards.scryfall.io/png/front/1/0/10be9a82-4008-45ae-a739-fdee95e39619.png?1711892785",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/0/10be9a82-4008-45ae-a739-fdee95e39619.jpg?1711892785",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/0/10be9a82-4008-45ae-a739-fdee95e39619.jpg?1711892785"
+  },
+  "mana_cost": "{U/B}{U/B}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "({U/B} can be paid with either {U} or {B}.)\nPlayers can't search libraries this turn.\nDraw a card.",
+  "colors": [
+    "B",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/10be9a82-4008-45ae-a739-fdee95e39619/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab4b724bb-4c1c-4002-8eb8-bc8dd3f88e62&unique=prints",
+  "collector_number": "414",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Kaito followed the clues his sister gave him, only to find his friend dead at the hands of a monster.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Rorubei",
+  "artist_ids": [
+    "42e7262b-6320-4007-a6b4-dd4ba4bd2b67"
+  ],
+  "illustration_id": "a9ec3dba-c090-42d0-93a6-f5d740c18973",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 16350,
+  "penny_rank": 8694,
+  "prices": {
+    "usd": "1.74",
+    "usd_foil": "1.84",
+    "usd_etched": null,
+    "eur": "2.52",
+    "eur_foil": "3.20",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DShadow%2Bof%2BDoubt",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DShadow%2Bof%2BDoubt",
+    "edhrec": "https://edhrec.com/route/?cc=Shadow+of+Doubt"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F267846%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=663201&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Shadow+of+Doubt&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "object": "card",
+  "id": "cbe6ef85-b8aa-46aa-8641-2cd502048cd7",
+  "oracle_id": "faa01ed1-ccfa-4e58-951f-cd81f9068027",
+  "multiverse_ids": [],
+  "tcgplayer_id": 250077,
+  "cardmarket_id": 576017,
+  "name": "Mortify",
+  "lang": "en",
+  "released_at": "2021-09-25",
+  "uri": "https://api.scryfall.com/cards/cbe6ef85-b8aa-46aa-8641-2cd502048cd7",
+  "scryfall_uri": "https://scryfall.com/card/plst/P07-3/mortify?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/b/cbe6ef85-b8aa-46aa-8641-2cd502048cd7.jpg?1640542952",
+    "normal": "https://cards.scryfall.io/normal/front/c/b/cbe6ef85-b8aa-46aa-8641-2cd502048cd7.jpg?1640542952",
+    "large": "https://cards.scryfall.io/large/front/c/b/cbe6ef85-b8aa-46aa-8641-2cd502048cd7.jpg?1640542952",
+    "png": "https://cards.scryfall.io/png/front/c/b/cbe6ef85-b8aa-46aa-8641-2cd502048cd7.png?1640542952",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/b/cbe6ef85-b8aa-46aa-8641-2cd502048cd7.jpg?1640542952",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/b/cbe6ef85-b8aa-46aa-8641-2cd502048cd7.jpg?1640542952"
+  },
+  "mana_cost": "{1}{W}{B}",
+  "cmc": 3,
+  "type_line": "Instant",
+  "oracle_text": "Destroy target creature or enchantment.",
+  "colors": [
+    "B",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/cbe6ef85-b8aa-46aa-8641-2cd502048cd7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afaa01ed1-ccfa-4e58-951f-cd81f9068027&unique=prints",
+  "collector_number": "P07-3",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Brian Snõddy",
+  "artist_ids": [
+    "770b4e16-de76-49ed-949f-84e6d2e06d25"
+  ],
+  "illustration_id": "90183e9b-146e-4db3-9f0b-c12e79fdfae1",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": true,
+  "textless": true,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 504,
+  "penny_rank": 2959,
+  "prices": {
+    "usd": "0.71",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.75",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMortify",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMortify",
+    "edhrec": "https://edhrec.com/route/?cc=Mortify"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F250077%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=576017&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mortify&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

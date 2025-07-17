@@ -1,0 +1,118 @@
+{
+  "object": "card",
+  "id": "1d9afb86-2e2a-4273-b1f4-f13e41b4aefa",
+  "oracle_id": "b27bc09a-ebea-498c-87f2-753852569a73",
+  "multiverse_ids": [],
+  "tcgplayer_id": 583447,
+  "name": "Sparksmith",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/1d9afb86-2e2a-4273-b1f4-f13e41b4aefa",
+  "scryfall_uri": "https://scryfall.com/card/plst/ONS-235/sparksmith?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/d/1d9afb86-2e2a-4273-b1f4-f13e41b4aefa.jpg?1723441225",
+    "normal": "https://cards.scryfall.io/normal/front/1/d/1d9afb86-2e2a-4273-b1f4-f13e41b4aefa.jpg?1723441225",
+    "large": "https://cards.scryfall.io/large/front/1/d/1d9afb86-2e2a-4273-b1f4-f13e41b4aefa.jpg?1723441225",
+    "png": "https://cards.scryfall.io/png/front/1/d/1d9afb86-2e2a-4273-b1f4-f13e41b4aefa.png?1723441225",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/d/1d9afb86-2e2a-4273-b1f4-f13e41b4aefa.jpg?1723441225",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/d/1d9afb86-2e2a-4273-b1f4-f13e41b4aefa.jpg?1723441225"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Creature — Goblin",
+  "oracle_text": "{T}: This creature deals X damage to target creature and X damage to you, where X is the number of Goblins on the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1d9afb86-2e2a-4273-b1f4-f13e41b4aefa/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab27bc09a-ebea-498c-87f2-753852569a73&unique=prints",
+  "collector_number": "ONS-235",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"If it didn't hurt, how would I know it worked?\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jim Nelson",
+  "artist_ids": [
+    "aa9f64d1-29e1-4c82-877e-44c18183f40b"
+  ],
+  "illustration_id": "178cf6bf-5376-4d39-9906-3f1960a937d4",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 17985,
+  "penny_rank": 3344,
+  "prices": {
+    "usd": "0.11",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSparksmith",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSparksmith",
+    "edhrec": "https://edhrec.com/route/?cc=Sparksmith"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F583447%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sparksmith&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sparksmith&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

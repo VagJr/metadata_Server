@@ -1,0 +1,188 @@
+{
+  "object": "card",
+  "id": "038c2d23-50d0-4590-87f9-f4099832da06",
+  "oracle_id": "f227ce07-7e96-4a36-ab7c-9be6e777d649",
+  "multiverse_ids": [],
+  "mtgo_id": 94060,
+  "name": "Arlinn, the Pack's Hope // Arlinn, the Moon's Fury",
+  "lang": "en",
+  "released_at": "2021-12-13",
+  "uri": "https://api.scryfall.com/cards/038c2d23-50d0-4590-87f9-f4099832da06",
+  "scryfall_uri": "https://scryfall.com/card/prm/94060/arlinn-the-packs-hope-arlinn-the-moons-fury?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 4,
+  "type_line": "Legendary Planeswalker — Arlinn // Legendary Planeswalker — Arlinn",
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [
+    "Daybound",
+    "Nightbound"
+  ],
+  "produced_mana": [
+    "G",
+    "R"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Arlinn, the Pack's Hope",
+      "mana_cost": "{2}{R}{G}",
+      "type_line": "Legendary Planeswalker — Arlinn",
+      "oracle_text": "Daybound (If a player casts no spells during their own turn, it becomes night next turn.)\n+1: Until your next turn, you may cast creature spells as though they had flash, and each creature you control enters with an additional +1/+1 counter on it.\n−3: Create two 2/2 green Wolf creature tokens.",
+      "colors": [
+        "G",
+        "R"
+      ],
+      "loyalty": "4",
+      "artist": "Eric Deschamps",
+      "artist_id": "37970e22-9cee-44c1-af44-5ee27cf26b76",
+      "illustration_id": "c9839c57-1d9f-4c28-936a-14417a2df183",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/0/3/038c2d23-50d0-4590-87f9-f4099832da06.jpg?1681083560",
+        "normal": "https://cards.scryfall.io/normal/front/0/3/038c2d23-50d0-4590-87f9-f4099832da06.jpg?1681083560",
+        "large": "https://cards.scryfall.io/large/front/0/3/038c2d23-50d0-4590-87f9-f4099832da06.jpg?1681083560",
+        "png": "https://cards.scryfall.io/png/front/0/3/038c2d23-50d0-4590-87f9-f4099832da06.png?1681083560",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/0/3/038c2d23-50d0-4590-87f9-f4099832da06.jpg?1681083560",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/0/3/038c2d23-50d0-4590-87f9-f4099832da06.jpg?1681083560"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Arlinn, the Moon's Fury",
+      "mana_cost": "",
+      "type_line": "Legendary Planeswalker — Arlinn",
+      "oracle_text": "Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)\n+2: Add {R}{G}.\n0: Until end of turn, Arlinn becomes a 5/5 Werewolf creature with trample, indestructible, and haste.",
+      "colors": [
+        "G",
+        "R"
+      ],
+      "color_indicator": [
+        "G",
+        "R"
+      ],
+      "loyalty": "4",
+      "artist": "Eric Deschamps",
+      "artist_id": "37970e22-9cee-44c1-af44-5ee27cf26b76",
+      "illustration_id": "437908d7-7518-4b5b-aae1-c948497485fa",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/0/3/038c2d23-50d0-4590-87f9-f4099832da06.jpg?1681083560",
+        "normal": "https://cards.scryfall.io/normal/back/0/3/038c2d23-50d0-4590-87f9-f4099832da06.jpg?1681083560",
+        "large": "https://cards.scryfall.io/large/back/0/3/038c2d23-50d0-4590-87f9-f4099832da06.jpg?1681083560",
+        "png": "https://cards.scryfall.io/png/back/0/3/038c2d23-50d0-4590-87f9-f4099832da06.png?1681083560",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/0/3/038c2d23-50d0-4590-87f9-f4099832da06.jpg?1681083560",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/0/3/038c2d23-50d0-4590-87f9-f4099832da06.jpg?1681083560"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "dc26e13b-7a0f-4e7f-8593-4f22234f4517",
+      "component": "combo_piece",
+      "name": "Day // Night",
+      "type_line": "Card // Card",
+      "uri": "https://api.scryfall.com/cards/dc26e13b-7a0f-4e7f-8593-4f22234f4517"
+    },
+    {
+      "object": "related_card",
+      "id": "89b89a55-3ea2-4186-b946-06831bc16169",
+      "component": "token",
+      "name": "Wolf",
+      "type_line": "Token Creature — Wolf",
+      "uri": "https://api.scryfall.com/cards/89b89a55-3ea2-4186-b946-06831bc16169"
+    },
+    {
+      "object": "related_card",
+      "id": "038c2d23-50d0-4590-87f9-f4099832da06",
+      "component": "combo_piece",
+      "name": "Arlinn, the Pack's Hope // Arlinn, the Moon's Fury",
+      "type_line": "Legendary Planeswalker — Arlinn // Legendary Planeswalker — Arlinn",
+      "uri": "https://api.scryfall.com/cards/038c2d23-50d0-4590-87f9-f4099832da06"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/038c2d23-50d0-4590-87f9-f4099832da06/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af227ce07-7e96-4a36-ab7c-9be6e777d649&unique=prints",
+  "collector_number": "94060",
+  "digital": true,
+  "rarity": "mythic",
+  "artist": "Eric Deschamps",
+  "artist_ids": [
+    "37970e22-9cee-44c1-af44-5ee27cf26b76"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 7239,
+  "penny_rank": 3708,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.29"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DArlinn%252C%2Bthe%2BPack%2527s%2BHope%2B%252F%252F%2BArlinn%252C%2Bthe%2BMoon%2527s%2BFury",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DArlinn%252C%2Bthe%2BPack%2527s%2BHope%2B%252F%252F%2BArlinn%252C%2Bthe%2BMoon%2527s%2BFury",
+    "edhrec": "https://edhrec.com/route/?cc=Arlinn%2C+the+Pack%27s+Hope"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DArlinn%252C%2Bthe%2BPack%2527s%2BHope%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Arlinn%2C+the+Pack%27s+Hope&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/94060?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

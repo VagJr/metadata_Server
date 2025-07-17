@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "004a67ce-60ef-4cc2-9f4d-f30e3029d80a",
+  "oracle_id": "46ce3698-e4e6-44e9-8b99-2b12a703e91e",
+  "multiverse_ids": [
+    670525
+  ],
+  "mtgo_id": 129057,
+  "tcgplayer_id": 559485,
+  "cardmarket_id": 778554,
+  "name": "Keen-Eyed Curator",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/004a67ce-60ef-4cc2-9f4d-f30e3029d80a",
+  "scryfall_uri": "https://scryfall.com/card/blb/322/keen-eyed-curator?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/0/004a67ce-60ef-4cc2-9f4d-f30e3029d80a.jpg?1721427720",
+    "normal": "https://cards.scryfall.io/normal/front/0/0/004a67ce-60ef-4cc2-9f4d-f30e3029d80a.jpg?1721427720",
+    "large": "https://cards.scryfall.io/large/front/0/0/004a67ce-60ef-4cc2-9f4d-f30e3029d80a.jpg?1721427720",
+    "png": "https://cards.scryfall.io/png/front/0/0/004a67ce-60ef-4cc2-9f4d-f30e3029d80a.png?1721427720",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/0/004a67ce-60ef-4cc2-9f4d-f30e3029d80a.jpg?1721427720",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/0/004a67ce-60ef-4cc2-9f4d-f30e3029d80a.jpg?1721427720"
+  },
+  "mana_cost": "{G}{G}",
+  "cmc": 2,
+  "type_line": "Creature — Raccoon Scout",
+  "oracle_text": "As long as there are four or more card types among cards exiled with this creature, it gets +4/+4 and has trample.\n{1}: Exile target card from a graveyard.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a2f58272-bba6-439d-871e-7a46686ac018",
+  "set": "blb",
+  "set_name": "Bloomburrow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/a2f58272-bba6-439d-871e-7a46686ac018",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/blb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/004a67ce-60ef-4cc2-9f4d-f30e3029d80a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A46ce3698-e4e6-44e9-8b99-2b12a703e91e&unique=prints",
+  "collector_number": "322",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mariah Tekulve",
+  "artist_ids": [
+    "1014b405-f81d-4f37-97df-e04ef62eacf4"
+  ],
+  "illustration_id": "c4f62ed7-5d79-4752-9096-04b976d51365",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 10376,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2024-07-16"
+  },
+  "prices": {
+    "usd": "1.01",
+    "usd_foil": "1.21",
+    "usd_etched": null,
+    "eur": "1.87",
+    "eur_foil": "2.65",
+    "tix": "0.91"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=670525&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKeen-Eyed%2BCurator",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKeen-Eyed%2BCurator",
+    "edhrec": "https://edhrec.com/route/?cc=Keen-Eyed+Curator"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F559485%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=778554&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/129057?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

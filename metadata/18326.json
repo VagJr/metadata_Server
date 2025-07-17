@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "2b141f71-63b3-45ac-b93a-01a68be5d2b6",
+  "oracle_id": "2e7a9ea9-f76c-4c12-950f-c613fa16cfa8",
+  "multiverse_ids": [],
+  "tcgplayer_id": 617976,
+  "cardmarket_id": 810746,
+  "name": "Captain Sisay",
+  "lang": "en",
+  "released_at": "2025-02-10",
+  "uri": "https://api.scryfall.com/cards/2b141f71-63b3-45ac-b93a-01a68be5d2b6",
+  "scryfall_uri": "https://scryfall.com/card/sld/1913/captain-sisay?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/b/2b141f71-63b3-45ac-b93a-01a68be5d2b6.jpg?1743952214",
+    "normal": "https://cards.scryfall.io/normal/front/2/b/2b141f71-63b3-45ac-b93a-01a68be5d2b6.jpg?1743952214",
+    "large": "https://cards.scryfall.io/large/front/2/b/2b141f71-63b3-45ac-b93a-01a68be5d2b6.jpg?1743952214",
+    "png": "https://cards.scryfall.io/png/front/2/b/2b141f71-63b3-45ac-b93a-01a68be5d2b6.png?1743952214",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/b/2b141f71-63b3-45ac-b93a-01a68be5d2b6.jpg?1743952214",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/b/2b141f71-63b3-45ac-b93a-01a68be5d2b6.jpg?1743952214"
+  },
+  "mana_cost": "{2}{G}{W}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Human Soldier",
+  "oracle_text": "{T}: Search your library for a legendary card, reveal that card, put it into your hand, then shuffle.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2b141f71-63b3-45ac-b93a-01a68be5d2b6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2e7a9ea9-f76c-4c12-950f-c613fa16cfa8&unique=prints",
+  "collector_number": "1913",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "Sisay leads and the world follows.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tsubonari",
+  "artist_ids": [
+    "187d26d3-0e88-4a2f-ae35-af368fad2997"
+  ],
+  "illustration_id": "b1b2664a-708c-4ed8-80f6-e72c67ea3743",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4899,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/news/announcements/secret-lair-winter-superdrop-2025",
+    "previewed_at": "2025-02-09"
+  },
+  "prices": {
+    "usd": "15.53",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "14.75",
+    "eur_foil": "14.98",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCaptain%2BSisay",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCaptain%2BSisay",
+    "edhrec": "https://edhrec.com/route/?cc=Captain+Sisay"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F617976%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=810746&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Captain+Sisay&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "f25a585e-4f8c-4ed3-8cd3-624c6e3da1d6",
+  "oracle_id": "219cf182-0942-4569-91e9-9bc9bb1d06d0",
+  "multiverse_ids": [],
+  "mtgo_id": 95912,
+  "tcgplayer_id": 255807,
+  "cardmarket_id": 585275,
+  "name": "Blood Petal Celebrant",
+  "lang": "en",
+  "released_at": "2022-01-28",
+  "uri": "https://api.scryfall.com/cards/f25a585e-4f8c-4ed3-8cd3-624c6e3da1d6",
+  "scryfall_uri": "https://scryfall.com/card/dbl/413/blood-petal-celebrant?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/2/f25a585e-4f8c-4ed3-8cd3-624c6e3da1d6.jpg?1673162775",
+    "normal": "https://cards.scryfall.io/normal/front/f/2/f25a585e-4f8c-4ed3-8cd3-624c6e3da1d6.jpg?1673162775",
+    "large": "https://cards.scryfall.io/large/front/f/2/f25a585e-4f8c-4ed3-8cd3-624c6e3da1d6.jpg?1673162775",
+    "png": "https://cards.scryfall.io/png/front/f/2/f25a585e-4f8c-4ed3-8cd3-624c6e3da1d6.png?1673162775",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/2/f25a585e-4f8c-4ed3-8cd3-624c6e3da1d6.jpg?1673162775",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/2/f25a585e-4f8c-4ed3-8cd3-624c6e3da1d6.jpg?1673162775"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Creature — Vampire",
+  "oracle_text": "This creature has first strike as long as it's attacking.\nWhen this creature dies, create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\")",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "92a3afe7-bd9f-43f9-adc3-4819e60dc7a5",
+      "component": "token",
+      "name": "Blood",
+      "type_line": "Token Artifact — Blood",
+      "uri": "https://api.scryfall.com/cards/92a3afe7-bd9f-43f9-adc3-4819e60dc7a5"
+    },
+    {
+      "object": "related_card",
+      "id": "f25a585e-4f8c-4ed3-8cd3-624c6e3da1d6",
+      "component": "combo_piece",
+      "name": "Blood Petal Celebrant",
+      "type_line": "Creature — Vampire",
+      "uri": "https://api.scryfall.com/cards/f25a585e-4f8c-4ed3-8cd3-624c6e3da1d6"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set": "dbl",
+  "set_name": "Innistrad: Double Feature",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adbl&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dbl?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f25a585e-4f8c-4ed3-8cd3-624c6e3da1d6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A219cf182-0942-4569-91e9-9bc9bb1d06d0&unique=prints",
+  "collector_number": "413",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Fajareka Setiawan",
+  "artist_ids": [
+    "0cc534e0-be18-4cb1-8521-50fabd0dac6f"
+  ],
+  "illustration_id": "b9c46285-b1f0-491a-8c2d-14200dc0a662",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 13197,
+  "penny_rank": 12387,
+  "prices": {
+    "usd": "0.06",
+    "usd_foil": "0.30",
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.37",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlood%2BPetal%2BCelebrant",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlood%2BPetal%2BCelebrant",
+    "edhrec": "https://edhrec.com/route/?cc=Blood+Petal+Celebrant"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F255807%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=585275&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/95912?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

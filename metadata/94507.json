@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "df04f130-e9ea-4f5f-82d0-63d3f74d8234",
+  "oracle_id": "67dbc5dd-6d05-43e7-83f7-70e10eb54807",
+  "multiverse_ids": [],
+  "tcgplayer_id": 189013,
+  "cardmarket_id": 372771,
+  "name": "Sarkhan the Masterless",
+  "printed_name": "主無き者、サルカン",
+  "lang": "ja",
+  "released_at": "2019-05-03",
+  "uri": "https://api.scryfall.com/cards/df04f130-e9ea-4f5f-82d0-63d3f74d8234",
+  "scryfall_uri": "https://scryfall.com/card/war/143%E2%98%85/ja/%E4%B8%BB%E7%84%A1%E3%81%8D%E8%80%85%E3%80%81%E3%82%B5%E3%83%AB%E3%82%AB%E3%83%B3-(sarkhan-the-masterless)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/f/df04f130-e9ea-4f5f-82d0-63d3f74d8234.jpg?1580443683",
+    "normal": "https://cards.scryfall.io/normal/front/d/f/df04f130-e9ea-4f5f-82d0-63d3f74d8234.jpg?1580443683",
+    "large": "https://cards.scryfall.io/large/front/d/f/df04f130-e9ea-4f5f-82d0-63d3f74d8234.jpg?1580443683",
+    "png": "https://cards.scryfall.io/png/front/d/f/df04f130-e9ea-4f5f-82d0-63d3f74d8234.png?1580443683",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/f/df04f130-e9ea-4f5f-82d0-63d3f74d8234.jpg?1580443683",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/f/df04f130-e9ea-4f5f-82d0-63d3f74d8234.jpg?1580443683"
+  },
+  "mana_cost": "{3}{R}{R}",
+  "cmc": 5,
+  "type_line": "Legendary Planeswalker — Sarkhan",
+  "printed_type_line": "伝説のプレインズウォーカー — サルカン",
+  "oracle_text": "Whenever a creature attacks you or a planeswalker you control, each Dragon you control deals 1 damage to that creature.\n+1: Until end of turn, each planeswalker you control becomes a 4/4 red Dragon creature and gains flying.\n−3: Create a 4/4 red Dragon creature token with flying.",
+  "printed_text": "クリーチャーが１体、あなたかあなたがコントロールしているプレインズウォーカーを攻撃するたび、あなたがコントロールしている各ドラゴンはそのクリーチャーに１点のダメージを与える。\n+1：ターン終了時まで、あなたがコントロールしている各プレインズウォーカーは赤の４/４のドラゴン・クリーチャーになり飛行を得る。\n-3：飛行を持つ赤の４/４のドラゴン・クリーチャー・トークンを１体生成する。",
+  "loyalty": "5",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "df04f130-e9ea-4f5f-82d0-63d3f74d8234",
+      "component": "combo_piece",
+      "name": "Sarkhan the Masterless",
+      "type_line": "Legendary Planeswalker — Sarkhan",
+      "uri": "https://api.scryfall.com/cards/df04f130-e9ea-4f5f-82d0-63d3f74d8234"
+    },
+    {
+      "object": "related_card",
+      "id": "3a3cda49-3e96-47da-89ad-b961a889b8b5",
+      "component": "token",
+      "name": "Dragon",
+      "type_line": "Token Creature — Dragon",
+      "uri": "https://api.scryfall.com/cards/3a3cda49-3e96-47da-89ad-b961a889b8b5"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "ee044f0b-e101-4ead-8d0e-aa510aad4277",
+  "set": "war",
+  "set_name": "War of the Spark",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/ee044f0b-e101-4ead-8d0e-aa510aad4277",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awar&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/war?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/df04f130-e9ea-4f5f-82d0-63d3f74d8234/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A67dbc5dd-6d05-43e7-83f7-70e10eb54807&unique=prints",
+  "collector_number": "143★",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lack",
+  "artist_ids": [
+    "f6e22ff4-f8d1-40f1-96c7-d334cf5f9ce7"
+  ],
+  "illustration_id": "b3a2fda2-70a9-4d66-92d5-7a1990532cfa",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "jpwalker"
+  ],
+  "edhrec_rank": 4029,
+  "penny_rank": 1303,
+  "prices": {
+    "usd": "1.28",
+    "usd_foil": "12.08",
+    "usd_etched": null,
+    "eur": "1.18",
+    "eur_foil": "15.64",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSarkhan%2Bthe%2BMasterless",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSarkhan%2Bthe%2BMasterless",
+    "edhrec": "https://edhrec.com/route/?cc=Sarkhan+the+Masterless"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F189013%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=372771&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sarkhan+the+Masterless&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

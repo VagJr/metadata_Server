@@ -1,0 +1,161 @@
+{
+  "object": "card",
+  "id": "9a6cb130-6d2f-44ba-a390-79dd4e919864",
+  "oracle_id": "6469c7fd-6c0f-4233-8c38-4742ddcf3c3f",
+  "multiverse_ids": [],
+  "mtgo_id": 95754,
+  "tcgplayer_id": 255409,
+  "cardmarket_id": 585392,
+  "name": "Soulcipher Board // Cipherbound Spirit",
+  "lang": "en",
+  "released_at": "2022-01-28",
+  "uri": "https://api.scryfall.com/cards/9a6cb130-6d2f-44ba-a390-79dd4e919864",
+  "scryfall_uri": "https://scryfall.com/card/dbl/346/soulcipher-board-cipherbound-spirit?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 2,
+  "type_line": "Artifact // Creature — Spirit",
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying",
+    "Transform"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Soulcipher Board",
+      "mana_cost": "{1}{U}",
+      "type_line": "Artifact",
+      "oracle_text": "This artifact enters with three omen counters on it.\n{1}{U}, {T}: Look at the top two cards of your library. Put one of them into your graveyard.\nWhenever a creature card is put into your graveyard from anywhere, remove an omen counter from this artifact. Then if it has no omen counters on it, transform it.",
+      "colors": [
+        "U"
+      ],
+      "artist": "Caio Monteiro",
+      "artist_id": "d5053eb6-af72-47a0-b6e8-023cc3b9aefb",
+      "illustration_id": "145de3db-6945-4f8d-a87e-d9476947e84c",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/9/a/9a6cb130-6d2f-44ba-a390-79dd4e919864.jpg?1673162098",
+        "normal": "https://cards.scryfall.io/normal/front/9/a/9a6cb130-6d2f-44ba-a390-79dd4e919864.jpg?1673162098",
+        "large": "https://cards.scryfall.io/large/front/9/a/9a6cb130-6d2f-44ba-a390-79dd4e919864.jpg?1673162098",
+        "png": "https://cards.scryfall.io/png/front/9/a/9a6cb130-6d2f-44ba-a390-79dd4e919864.png?1673162098",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/9/a/9a6cb130-6d2f-44ba-a390-79dd4e919864.jpg?1673162098",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/9/a/9a6cb130-6d2f-44ba-a390-79dd4e919864.jpg?1673162098"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Cipherbound Spirit",
+      "mana_cost": "",
+      "type_line": "Creature — Spirit",
+      "oracle_text": "Flying\nThis creature can block only creatures with flying.\n{3}{U}: Draw two cards, then discard a card.",
+      "colors": [
+        "U"
+      ],
+      "color_indicator": [
+        "U"
+      ],
+      "power": "3",
+      "toughness": "2",
+      "flavor_text": "Rather than consort with demons, the Quietus Cult seeks wisdom from the dead.",
+      "artist": "Caio Monteiro",
+      "artist_id": "d5053eb6-af72-47a0-b6e8-023cc3b9aefb",
+      "illustration_id": "b50eefad-3b97-4ad6-8128-48fd6e52ea9f",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/9/a/9a6cb130-6d2f-44ba-a390-79dd4e919864.jpg?1673162098",
+        "normal": "https://cards.scryfall.io/normal/back/9/a/9a6cb130-6d2f-44ba-a390-79dd4e919864.jpg?1673162098",
+        "large": "https://cards.scryfall.io/large/back/9/a/9a6cb130-6d2f-44ba-a390-79dd4e919864.jpg?1673162098",
+        "png": "https://cards.scryfall.io/png/back/9/a/9a6cb130-6d2f-44ba-a390-79dd4e919864.png?1673162098",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/9/a/9a6cb130-6d2f-44ba-a390-79dd4e919864.jpg?1673162098",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/9/a/9a6cb130-6d2f-44ba-a390-79dd4e919864.jpg?1673162098"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set": "dbl",
+  "set_name": "Innistrad: Double Feature",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adbl&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dbl?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9a6cb130-6d2f-44ba-a390-79dd4e919864/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6469c7fd-6c0f-4233-8c38-4742ddcf3c3f&unique=prints",
+  "collector_number": "346",
+  "digital": false,
+  "rarity": "uncommon",
+  "artist": "Caio Monteiro",
+  "artist_ids": [
+    "d5053eb6-af72-47a0-b6e8-023cc3b9aefb"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted",
+    "sunmoondfc"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 21185,
+  "penny_rank": 15139,
+  "prices": {
+    "usd": "0.06",
+    "usd_foil": "0.14",
+    "usd_etched": null,
+    "eur": "0.11",
+    "eur_foil": "0.07",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSoulcipher%2BBoard%2B%252F%252F%2BCipherbound%2BSpirit",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSoulcipher%2BBoard%2B%252F%252F%2BCipherbound%2BSpirit",
+    "edhrec": "https://edhrec.com/route/?cc=Soulcipher+Board"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F255409%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=585392&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/95754?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

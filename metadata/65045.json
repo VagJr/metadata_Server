@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "99c3decf-4a32-45ff-b7f6-ea2d52387c89",
+  "oracle_id": "a3fb7228-e76b-4e96-a40e-20b5fed75685",
+  "multiverse_ids": [
+    489653
+  ],
+  "arena_id": 72589,
+  "tcgplayer_id": 216366,
+  "cardmarket_id": 474069,
+  "name": "Mountain",
+  "lang": "en",
+  "released_at": "2020-07-17",
+  "uri": "https://api.scryfall.com/cards/99c3decf-4a32-45ff-b7f6-ea2d52387c89",
+  "scryfall_uri": "https://scryfall.com/card/jmp/69/mountain?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/9/99c3decf-4a32-45ff-b7f6-ea2d52387c89.jpg?1600695371",
+    "normal": "https://cards.scryfall.io/normal/front/9/9/99c3decf-4a32-45ff-b7f6-ea2d52387c89.jpg?1600695371",
+    "large": "https://cards.scryfall.io/large/front/9/9/99c3decf-4a32-45ff-b7f6-ea2d52387c89.jpg?1600695371",
+    "png": "https://cards.scryfall.io/png/front/9/9/99c3decf-4a32-45ff-b7f6-ea2d52387c89.png?1600695371",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/9/99c3decf-4a32-45ff-b7f6-ea2d52387c89.jpg?1600695371",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/9/99c3decf-4a32-45ff-b7f6-ea2d52387c89.jpg?1600695371"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Basic Land — Mountain",
+  "oracle_text": "({T}: Add {R}.)",
+  "colors": [],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "R"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena",
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "0f6ccf25-a627-4263-86df-5757137f1696",
+  "set": "jmp",
+  "set_name": "Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/0f6ccf25-a627-4263-86df-5757137f1696",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ajmp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/jmp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/99c3decf-4a32-45ff-b7f6-ea2d52387c89/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3fb7228-e76b-4e96-a40e-20b5fed75685&unique=prints",
+  "collector_number": "69",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Adam Paquette",
+  "artist_ids": [
+    "89023dad-e6c0-41e0-83fb-eb2bfbbdc3f2"
+  ],
+  "illustration_id": "1eae052e-b4ba-47c2-9c05-a2d406410abe",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "preview": {
+    "source": "Minotaur Guy",
+    "source_uri": "https://www.reddit.com/r/magicTCG/comments/hc0rf5/jmp_minotaur_theme_reveal/",
+    "previewed_at": "2020-06-19"
+  },
+  "prices": {
+    "usd": "0.13",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.15",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489653&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMountain",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMountain",
+    "edhrec": "https://edhrec.com/route/?cc=Mountain"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F216366%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=474069&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mountain&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

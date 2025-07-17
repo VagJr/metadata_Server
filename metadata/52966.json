@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "7d676054-fdd0-44a8-b723-0aac048e6e28",
+  "oracle_id": "da268892-b190-4eee-9a2b-b0b9bb763033",
+  "multiverse_ids": [],
+  "tcgplayer_id": 519024,
+  "name": "Sarah Jane Smith",
+  "lang": "en",
+  "released_at": "2023-10-13",
+  "uri": "https://api.scryfall.com/cards/7d676054-fdd0-44a8-b723-0aac048e6e28",
+  "scryfall_uri": "https://scryfall.com/card/who/611/sarah-jane-smith?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/d/7d676054-fdd0-44a8-b723-0aac048e6e28.jpg?1696637838",
+    "normal": "https://cards.scryfall.io/normal/front/7/d/7d676054-fdd0-44a8-b723-0aac048e6e28.jpg?1696637838",
+    "large": "https://cards.scryfall.io/large/front/7/d/7d676054-fdd0-44a8-b723-0aac048e6e28.jpg?1696637838",
+    "png": "https://cards.scryfall.io/png/front/7/d/7d676054-fdd0-44a8-b723-0aac048e6e28.png?1696637838",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/d/7d676054-fdd0-44a8-b723-0aac048e6e28.jpg?1696637838",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/d/7d676054-fdd0-44a8-b723-0aac048e6e28.jpg?1696637838"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Human Detective",
+  "oracle_text": "Whenever you cast a historic spell, investigate. This ability triggers only once each turn. (Artifacts, legendaries, and Sagas are historic. To investigate, create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nDoctor's companion (You can have two commanders if the other is the Doctor.)",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Investigate",
+    "Doctor's companion"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "1145be5c-62f5-43ef-8dea-3a1e85ad9b72",
+      "component": "token",
+      "name": "Clue",
+      "type_line": "Token Artifact — Clue",
+      "uri": "https://api.scryfall.com/cards/1145be5c-62f5-43ef-8dea-3a1e85ad9b72"
+    },
+    {
+      "object": "related_card",
+      "id": "ba416ffc-dea7-4272-b391-c66540031366",
+      "component": "combo_piece",
+      "name": "Sarah Jane Smith",
+      "type_line": "Legendary Creature — Human Detective",
+      "uri": "https://api.scryfall.com/cards/ba416ffc-dea7-4272-b391-c66540031366"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "efdfdd99-cee7-4c11-a5e9-03d60f88bdd6",
+  "set": "who",
+  "set_name": "Doctor Who",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/efdfdd99-cee7-4c11-a5e9-03d60f88bdd6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awho&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/who?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7d676054-fdd0-44a8-b723-0aac048e6e28/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ada268892-b190-4eee-9a2b-b0b9bb763033&unique=prints",
+  "collector_number": "611",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Fajareka Setiawan",
+  "artist_ids": [
+    "0cc534e0-be18-4cb1-8521-50fabd0dac6f"
+  ],
+  "illustration_id": "4544351e-5255-439c-8cf9-d348de151e6b",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "surgefoil",
+    "boosterfun"
+  ],
+  "edhrec_rank": 7636,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.16",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSarah%2BJane%2BSmith",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSarah%2BJane%2BSmith",
+    "edhrec": "https://edhrec.com/route/?cc=Sarah+Jane+Smith"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F519024%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sarah+Jane+Smith&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sarah+Jane+Smith&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

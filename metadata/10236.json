@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "17eed02c-e2af-4642-b411-1b20494109a7",
+  "oracle_id": "7aacfc42-be6c-46a8-b474-f43a1b6b2ef8",
+  "multiverse_ids": [
+    446011
+  ],
+  "mtgo_id": 68814,
+  "tcgplayer_id": 167797,
+  "cardmarket_id": 358643,
+  "name": "Zndrsplt's Judgment",
+  "lang": "en",
+  "released_at": "2018-06-08",
+  "uri": "https://api.scryfall.com/cards/17eed02c-e2af-4642-b411-1b20494109a7",
+  "scryfall_uri": "https://scryfall.com/card/bbd/43/zndrsplts-judgment?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/7/17eed02c-e2af-4642-b411-1b20494109a7.jpg?1562899779",
+    "normal": "https://cards.scryfall.io/normal/front/1/7/17eed02c-e2af-4642-b411-1b20494109a7.jpg?1562899779",
+    "large": "https://cards.scryfall.io/large/front/1/7/17eed02c-e2af-4642-b411-1b20494109a7.jpg?1562899779",
+    "png": "https://cards.scryfall.io/png/front/1/7/17eed02c-e2af-4642-b411-1b20494109a7.png?1562899779",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/7/17eed02c-e2af-4642-b411-1b20494109a7.jpg?1562899779",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/7/17eed02c-e2af-4642-b411-1b20494109a7.jpg?1562899779"
+  },
+  "mana_cost": "{4}{U}",
+  "cmc": 5,
+  "type_line": "Sorcery",
+  "oracle_text": "For each player, choose friend or foe. Each friend creates a token that's a copy of a creature they control. Each foe returns a creature they control to its owner's hand.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "17eed02c-e2af-4642-b411-1b20494109a7",
+      "component": "combo_piece",
+      "name": "Zndrsplt's Judgment",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/17eed02c-e2af-4642-b411-1b20494109a7"
+    },
+    {
+      "object": "related_card",
+      "id": "09d6521e-438a-4d16-992f-f2ab27b26ce4",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/09d6521e-438a-4d16-992f-f2ab27b26ce4"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "95f97fbc-58ef-4645-982e-43e2db6f1124",
+  "set": "bbd",
+  "set_name": "Battlebond",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/95f97fbc-58ef-4645-982e-43e2db6f1124",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abbd&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/bbd?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/17eed02c-e2af-4642-b411-1b20494109a7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7aacfc42-be6c-46a8-b474-f43a1b6b2ef8&unique=prints",
+  "collector_number": "43",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Zndrsplt retired from officiating when she teamed up with Okaun, but she still knows the penalties better than anyone else.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Bayard Wu",
+  "artist_ids": [
+    "b089963c-610a-4d50-9206-d64b7caedef1"
+  ],
+  "illustration_id": "b98a0fd2-0511-4c03-904b-dcce97dbc7e0",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 12326,
+  "penny_rank": 17135,
+  "prices": {
+    "usd": "0.22",
+    "usd_foil": "1.31",
+    "usd_etched": null,
+    "eur": "0.19",
+    "eur_foil": "0.91",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446011&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DZndrsplt%2527s%2BJudgment",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DZndrsplt%2527s%2BJudgment",
+    "edhrec": "https://edhrec.com/route/?cc=Zndrsplt%27s+Judgment"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F167797%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=358643&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/68814?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

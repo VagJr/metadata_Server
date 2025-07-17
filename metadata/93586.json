@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "dcf4fb19-db45-4dd6-9479-6fa065e86cb7",
+  "oracle_id": "b5516bc9-ec8d-4323-8748-96c49d7d0622",
+  "multiverse_ids": [],
+  "mtgo_id": 103728,
+  "mtgo_foil_id": 103729,
+  "tcgplayer_id": 456948,
+  "cardmarket_id": 688970,
+  "name": "Deadly Tempest",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/dcf4fb19-db45-4dd6-9479-6fa065e86cb7",
+  "scryfall_uri": "https://scryfall.com/card/scd/75/deadly-tempest?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/c/dcf4fb19-db45-4dd6-9479-6fa065e86cb7.jpg?1674674630",
+    "normal": "https://cards.scryfall.io/normal/front/d/c/dcf4fb19-db45-4dd6-9479-6fa065e86cb7.jpg?1674674630",
+    "large": "https://cards.scryfall.io/large/front/d/c/dcf4fb19-db45-4dd6-9479-6fa065e86cb7.jpg?1674674630",
+    "png": "https://cards.scryfall.io/png/front/d/c/dcf4fb19-db45-4dd6-9479-6fa065e86cb7.png?1674674630",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/c/dcf4fb19-db45-4dd6-9479-6fa065e86cb7.jpg?1674674630",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/c/dcf4fb19-db45-4dd6-9479-6fa065e86cb7.jpg?1674674630"
+  },
+  "mana_cost": "{4}{B}{B}",
+  "cmc": 6,
+  "type_line": "Sorcery",
+  "oracle_text": "Destroy all creatures. Each player loses life equal to the number of creatures they controlled that were destroyed this way.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set": "scd",
+  "set_name": "Starter Commander Decks",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ascd&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/scd?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/dcf4fb19-db45-4dd6-9479-6fa065e86cb7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab5516bc9-ec8d-4323-8748-96c49d7d0622&unique=prints",
+  "collector_number": "75",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "When the winds blow out of the abyss, death is the only harvest.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Cliff Childs",
+  "artist_ids": [
+    "ed6f7e03-20ba-4c73-bdda-4a4928480721"
+  ],
+  "illustration_id": "df1f8a60-871f-416a-a12a-7cf7cdad0181",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2725,
+  "prices": {
+    "usd": "0.63",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.78",
+    "eur_foil": null,
+    "tix": "3.29"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDeadly%2BTempest",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDeadly%2BTempest",
+    "edhrec": "https://edhrec.com/route/?cc=Deadly+Tempest"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F456948%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=688970&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/103728?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

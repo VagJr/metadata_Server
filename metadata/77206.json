@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "b64940bb-c92f-4c2f-aef6-927cdc070b13",
+  "oracle_id": "34f83b7a-45a7-40a8-abcb-31d7aae4cea1",
+  "multiverse_ids": [
+    495637
+  ],
+  "tcgplayer_id": 221924,
+  "cardmarket_id": 495409,
+  "name": "Roiling Vortex",
+  "lang": "en",
+  "released_at": "2020-09-25",
+  "uri": "https://api.scryfall.com/cards/b64940bb-c92f-4c2f-aef6-927cdc070b13",
+  "scryfall_uri": "https://scryfall.com/card/znr/352/roiling-vortex?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/6/b64940bb-c92f-4c2f-aef6-927cdc070b13.jpg?1608942797",
+    "normal": "https://cards.scryfall.io/normal/front/b/6/b64940bb-c92f-4c2f-aef6-927cdc070b13.jpg?1608942797",
+    "large": "https://cards.scryfall.io/large/front/b/6/b64940bb-c92f-4c2f-aef6-927cdc070b13.jpg?1608942797",
+    "png": "https://cards.scryfall.io/png/front/b/6/b64940bb-c92f-4c2f-aef6-927cdc070b13.png?1608942797",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/6/b64940bb-c92f-4c2f-aef6-927cdc070b13.jpg?1608942797",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/6/b64940bb-c92f-4c2f-aef6-927cdc070b13.jpg?1608942797"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Enchantment",
+  "oracle_text": "At the beginning of each player's upkeep, this enchantment deals 1 damage to them.\nWhenever a player casts a spell, if no mana was spent to cast that spell, this enchantment deals 5 damage to that player.\n{R}: Your opponents can't gain life this turn.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "f4e01fa7-b254-42dd-849f-69b58027a8c4",
+  "set": "znr",
+  "set_name": "Zendikar Rising",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/f4e01fa7-b254-42dd-849f-69b58027a8c4",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aznr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/znr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b64940bb-c92f-4c2f-aef6-927cdc070b13/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A34f83b7a-45a7-40a8-abcb-31d7aae4cea1&unique=prints",
+  "collector_number": "352",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Campbell White",
+  "artist_ids": [
+    "d281eab4-463a-4ba8-9039-8943737960a0"
+  ],
+  "illustration_id": "96982055-33f0-459b-844b-cced3d160524",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 2256,
+  "preview": {
+    "source": "Eric Froehlich",
+    "source_uri": "https://twitter.com/efropoker/status/1301274040527515649",
+    "previewed_at": "2020-09-02"
+  },
+  "prices": {
+    "usd": "2.55",
+    "usd_foil": "2.38",
+    "usd_etched": null,
+    "eur": "3.92",
+    "eur_foil": "5.44",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495637&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRoiling%2BVortex",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRoiling%2BVortex",
+    "edhrec": "https://edhrec.com/route/?cc=Roiling+Vortex"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F221924%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=495409&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Roiling+Vortex&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "23795291-5acc-465f-aa02-95ead947ced8",
+  "oracle_id": "6987d5d4-0ef6-4326-a590-678ac160fe56",
+  "multiverse_ids": [],
+  "tcgplayer_id": 203593,
+  "cardmarket_id": 418201,
+  "name": "Bartizan Bats",
+  "lang": "en",
+  "released_at": "2019-11-07",
+  "uri": "https://api.scryfall.com/cards/23795291-5acc-465f-aa02-95ead947ced8",
+  "scryfall_uri": "https://scryfall.com/card/plst/GRN-62/bartizan-bats?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/3/23795291-5acc-465f-aa02-95ead947ced8.jpg?1573508980",
+    "normal": "https://cards.scryfall.io/normal/front/2/3/23795291-5acc-465f-aa02-95ead947ced8.jpg?1573508980",
+    "large": "https://cards.scryfall.io/large/front/2/3/23795291-5acc-465f-aa02-95ead947ced8.jpg?1573508980",
+    "png": "https://cards.scryfall.io/png/front/2/3/23795291-5acc-465f-aa02-95ead947ced8.png?1573508980",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/3/23795291-5acc-465f-aa02-95ead947ced8.jpg?1573508980",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/3/23795291-5acc-465f-aa02-95ead947ced8.jpg?1573508980"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4,
+  "type_line": "Creature — Bat",
+  "oracle_text": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
+  "power": "3",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/23795291-5acc-465f-aa02-95ead947ced8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6987d5d4-0ef6-4326-a590-678ac160fe56&unique=prints",
+  "collector_number": "GRN-62",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Bats are welcome to eat thousands of my pets. I have multitudes more that will ultimately eat the bats.\"\n—Izoni",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nils Hamm",
+  "artist_ids": [
+    "c540d1fc-1500-457f-93cf-d6069ee66546"
+  ],
+  "illustration_id": "d9562806-3b20-4084-8f7f-0340cfcdaeda",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 23715,
+  "prices": {
+    "usd": "0.03",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.09",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBartizan%2BBats",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBartizan%2BBats",
+    "edhrec": "https://edhrec.com/route/?cc=Bartizan+Bats"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F203593%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=418201&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bartizan+Bats&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

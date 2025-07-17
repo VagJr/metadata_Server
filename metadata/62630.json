@@ -1,0 +1,118 @@
+{
+  "object": "card",
+  "id": "94386005-eaf0-443f-b68e-7fd64c282919",
+  "oracle_id": "e4fb97b5-0d4a-4c9a-bd51-42ff723b5854",
+  "multiverse_ids": [],
+  "mtgo_id": 93940,
+  "name": "Grafted Identity",
+  "lang": "en",
+  "released_at": "2022-04-18",
+  "uri": "https://api.scryfall.com/cards/94386005-eaf0-443f-b68e-7fd64c282919",
+  "scryfall_uri": "https://scryfall.com/card/prm/93940/grafted-identity?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/4/94386005-eaf0-443f-b68e-7fd64c282919.jpg?1681083237",
+    "normal": "https://cards.scryfall.io/normal/front/9/4/94386005-eaf0-443f-b68e-7fd64c282919.jpg?1681083237",
+    "large": "https://cards.scryfall.io/large/front/9/4/94386005-eaf0-443f-b68e-7fd64c282919.jpg?1681083237",
+    "png": "https://cards.scryfall.io/png/front/9/4/94386005-eaf0-443f-b68e-7fd64c282919.png?1681083237",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/4/94386005-eaf0-443f-b68e-7fd64c282919.jpg?1681083237",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/4/94386005-eaf0-443f-b68e-7fd64c282919.jpg?1681083237"
+  },
+  "mana_cost": "{2}{U}{U}",
+  "cmc": 4,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "As an additional cost to cast this spell, sacrifice a creature.\nEnchant creature\nYou control enchanted creature.\nEnchanted creature gets +1/+1.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/94386005-eaf0-443f-b68e-7fd64c282919/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae4fb97b5-0d4a-4c9a-bd51-42ff723b5854&unique=prints",
+  "collector_number": "93940",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Manuel Castañón",
+  "artist_ids": [
+    "35f11eeb-36ff-4059-bb70-d1274f5bd858"
+  ],
+  "illustration_id": "276639b4-8d44-40c8-9b9c-5a9b8cae2a95",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 16375,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGrafted%2BIdentity",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGrafted%2BIdentity",
+    "edhrec": "https://edhrec.com/route/?cc=Grafted+Identity"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DGrafted%2BIdentity%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Grafted+Identity&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/93940?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

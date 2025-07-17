@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "78b8829d-7ac3-4563-8c3e-959c660dbe32",
+  "oracle_id": "a3fb7228-e76b-4e96-a40e-20b5fed75685",
+  "multiverse_ids": [],
+  "tcgplayer_id": 519056,
+  "name": "Mountain",
+  "lang": "en",
+  "released_at": "2023-10-13",
+  "uri": "https://api.scryfall.com/cards/78b8829d-7ac3-4563-8c3e-959c660dbe32",
+  "scryfall_uri": "https://scryfall.com/card/who/1163/mountain?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/8/78b8829d-7ac3-4563-8c3e-959c660dbe32.jpg?1696638684",
+    "normal": "https://cards.scryfall.io/normal/front/7/8/78b8829d-7ac3-4563-8c3e-959c660dbe32.jpg?1696638684",
+    "large": "https://cards.scryfall.io/large/front/7/8/78b8829d-7ac3-4563-8c3e-959c660dbe32.jpg?1696638684",
+    "png": "https://cards.scryfall.io/png/front/7/8/78b8829d-7ac3-4563-8c3e-959c660dbe32.png?1696638684",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/8/78b8829d-7ac3-4563-8c3e-959c660dbe32.jpg?1696638684",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/8/78b8829d-7ac3-4563-8c3e-959c660dbe32.jpg?1696638684"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Basic Land — Mountain",
+  "oracle_text": "({T}: Add {R}.)",
+  "colors": [],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "R"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "efdfdd99-cee7-4c11-a5e9-03d60f88bdd6",
+  "set": "who",
+  "set_name": "Doctor Who",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/efdfdd99-cee7-4c11-a5e9-03d60f88bdd6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awho&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/who?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/78b8829d-7ac3-4563-8c3e-959c660dbe32/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3fb7228-e76b-4e96-a40e-20b5fed75685&unique=prints",
+  "collector_number": "1163",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Svetlin Velinov",
+  "artist_ids": [
+    "ffd063ae-c097-4f26-b2e6-b1e2137708bc"
+  ],
+  "illustration_id": "9ef0ac3e-dc8f-4193-9ba5-b96c68b93635",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "surgefoil",
+    "boosterfun"
+  ],
+  "prices": {
+    "usd": null,
+    "usd_foil": "2.00",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMountain",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMountain",
+    "edhrec": "https://edhrec.com/route/?cc=Mountain"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F519056%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mountain&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mountain&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

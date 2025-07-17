@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "05712bcb-eb67-4e84-a640-7e507675756a",
+  "oracle_id": "a3fb7228-e76b-4e96-a40e-20b5fed75685",
+  "multiverse_ids": [
+    485279
+  ],
+  "tcgplayer_id": 213823,
+  "cardmarket_id": 464479,
+  "name": "Mountain",
+  "printed_name": "山",
+  "lang": "ja",
+  "released_at": "2020-07-31",
+  "uri": "https://api.scryfall.com/cards/05712bcb-eb67-4e84-a640-7e507675756a",
+  "scryfall_uri": "https://scryfall.com/card/sld/66/ja/%E5%B1%B1-(mountain)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/5/05712bcb-eb67-4e84-a640-7e507675756a.jpg?1666888831",
+    "normal": "https://cards.scryfall.io/normal/front/0/5/05712bcb-eb67-4e84-a640-7e507675756a.jpg?1666888831",
+    "large": "https://cards.scryfall.io/large/front/0/5/05712bcb-eb67-4e84-a640-7e507675756a.jpg?1666888831",
+    "png": "https://cards.scryfall.io/png/front/0/5/05712bcb-eb67-4e84-a640-7e507675756a.png?1666888831",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/5/05712bcb-eb67-4e84-a640-7e507675756a.jpg?1666888831",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/5/05712bcb-eb67-4e84-a640-7e507675756a.jpg?1666888831"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Basic Land — Mountain",
+  "printed_type_line": "基本土地 — 山",
+  "oracle_text": "({T}: Add {R}.)",
+  "colors": [],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "R"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/05712bcb-eb67-4e84-a640-7e507675756a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3fb7228-e76b-4e96-a40e-20b5fed75685&unique=prints",
+  "collector_number": "66",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Grzegorz Rutkowski",
+  "artist_ids": [
+    "b5f49d0d-8056-48e3-b614-090e656b4f9c"
+  ],
+  "illustration_id": "7c36ba45-a86a-4760-b654-fae1b83b6fe8",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/news/announcing-secret-lair-drop-series-godzilla-lands-2020-04-24",
+    "previewed_at": "2020-04-24"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "14.58",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "11.77",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485279&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMountain",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMountain",
+    "edhrec": "https://edhrec.com/route/?cc=Mountain"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F213823%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=464479&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mountain&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

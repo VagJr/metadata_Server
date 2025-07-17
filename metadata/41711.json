@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "626eacad-6ea5-410a-9a3f-af97b5e52ff0",
+  "oracle_id": "7a0168c5-e258-4c50-96aa-95deb2198e6f",
+  "multiverse_ids": [
+    544478
+  ],
+  "arena_id": 79144,
+  "tcgplayer_id": 253496,
+  "cardmarket_id": 582480,
+  "name": "Reclusive Taxidermist",
+  "flavor_name": "Quincey Harker",
+  "lang": "en",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/626eacad-6ea5-410a-9a3f-af97b5e52ff0",
+  "scryfall_uri": "https://scryfall.com/card/vow/340/reclusive-taxidermist?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/2/626eacad-6ea5-410a-9a3f-af97b5e52ff0.jpg?1645228885",
+    "normal": "https://cards.scryfall.io/normal/front/6/2/626eacad-6ea5-410a-9a3f-af97b5e52ff0.jpg?1645228885",
+    "large": "https://cards.scryfall.io/large/front/6/2/626eacad-6ea5-410a-9a3f-af97b5e52ff0.jpg?1645228885",
+    "png": "https://cards.scryfall.io/png/front/6/2/626eacad-6ea5-410a-9a3f-af97b5e52ff0.png?1645228885",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/2/626eacad-6ea5-410a-9a3f-af97b5e52ff0.jpg?1645228885",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/2/626eacad-6ea5-410a-9a3f-af97b5e52ff0.jpg?1645228885"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2,
+  "type_line": "Creature — Human Druid",
+  "oracle_text": "This creature gets +3/+2 as long as there are four or more creature cards in your graveyard.\n{T}: Add one mana of any color.",
+  "power": "1",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/vow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/626eacad-6ea5-410a-9a3f-af97b5e52ff0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a0168c5-e258-4c50-96aa-95deb2198e6f&unique=prints",
+  "collector_number": "340",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "We want no proofs; we ask none to believe us! This boy will some day know what a brave and gallant woman his mother is.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tomasz Jedruszek",
+  "artist_ids": [
+    "bba69285-2445-4a4b-a847-59397be972ea"
+  ],
+  "illustration_id": "40b56f2e-0c66-4d7a-af67-537399f2546f",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "draculaseries",
+    "boosterfun"
+  ],
+  "edhrec_rank": 11331,
+  "penny_rank": 7891,
+  "preview": {
+    "source": "Dicebreaker",
+    "source_uri": "https://www.dicebreaker.com/games/magic-the-gathering-innistrad-crimson-vow/news/magic-the-gathering-innistrad-crimson-vow-card-reveal-reclusive-taxidermist-quincey-harker",
+    "previewed_at": "2021-11-03"
+  },
+  "prices": {
+    "usd": "0.14",
+    "usd_foil": "0.17",
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.20",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=544478&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DReclusive%2BTaxidermist",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DReclusive%2BTaxidermist",
+    "edhrec": "https://edhrec.com/route/?cc=Reclusive+Taxidermist"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F253496%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=582480&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Reclusive+Taxidermist&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

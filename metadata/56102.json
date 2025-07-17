@@ -1,0 +1,325 @@
+{
+  "object": "card",
+  "id": "84da9c36-5d9c-4e29-b6cc-c5c10e490f2e",
+  "oracle_id": "c39cd31f-c4a2-4ca8-b4f9-b2e6289743bc",
+  "multiverse_ids": [],
+  "name": "Insect",
+  "lang": "en",
+  "released_at": "2020-09-25",
+  "uri": "https://api.scryfall.com/cards/84da9c36-5d9c-4e29-b6cc-c5c10e490f2e",
+  "scryfall_uri": "https://scryfall.com/card/tznr/7/insect?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/4/84da9c36-5d9c-4e29-b6cc-c5c10e490f2e.jpg?1604194822",
+    "normal": "https://cards.scryfall.io/normal/front/8/4/84da9c36-5d9c-4e29-b6cc-c5c10e490f2e.jpg?1604194822",
+    "large": "https://cards.scryfall.io/large/front/8/4/84da9c36-5d9c-4e29-b6cc-c5c10e490f2e.jpg?1604194822",
+    "png": "https://cards.scryfall.io/png/front/8/4/84da9c36-5d9c-4e29-b6cc-c5c10e490f2e.png?1604194822",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/4/84da9c36-5d9c-4e29-b6cc-c5c10e490f2e.jpg?1604194822",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/4/84da9c36-5d9c-4e29-b6cc-c5c10e490f2e.jpg?1604194822"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Insect",
+  "oracle_text": "",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "54e4017b-51b1-47b0-90a6-47d680bac963",
+      "component": "combo_piece",
+      "name": "Living Hive",
+      "type_line": "Creature — Elemental Insect",
+      "uri": "https://api.scryfall.com/cards/54e4017b-51b1-47b0-90a6-47d680bac963"
+    },
+    {
+      "object": "related_card",
+      "id": "ea55b4fc-366f-4906-9eaa-9085f6a22612",
+      "component": "combo_piece",
+      "name": "Wirewood Hivemaster",
+      "type_line": "Creature — Elf",
+      "uri": "https://api.scryfall.com/cards/ea55b4fc-366f-4906-9eaa-9085f6a22612"
+    },
+    {
+      "object": "related_card",
+      "id": "214ef641-b08c-42d0-94a5-3054fa7fcebc",
+      "component": "combo_piece",
+      "name": "Iridescent Hornbeetle",
+      "type_line": "Creature — Insect",
+      "uri": "https://api.scryfall.com/cards/214ef641-b08c-42d0-94a5-3054fa7fcebc"
+    },
+    {
+      "object": "related_card",
+      "id": "6c107fd7-2e8b-4004-8064-f8d42e8dc7c0",
+      "component": "combo_piece",
+      "name": "Vilespawn Spider",
+      "type_line": "Creature — Spider",
+      "uri": "https://api.scryfall.com/cards/6c107fd7-2e8b-4004-8064-f8d42e8dc7c0"
+    },
+    {
+      "object": "related_card",
+      "id": "096fc185-39d1-4976-b6f6-fc5a118dd611",
+      "component": "combo_piece",
+      "name": "Aatchik, Emerald Radian",
+      "type_line": "Legendary Creature — Insect Druid",
+      "uri": "https://api.scryfall.com/cards/096fc185-39d1-4976-b6f6-fc5a118dd611"
+    },
+    {
+      "object": "related_card",
+      "id": "565438a2-3b2f-4bfa-9af0-69fbcbcef99d",
+      "component": "combo_piece",
+      "name": "Ant Queen",
+      "type_line": "Creature — Insect",
+      "uri": "https://api.scryfall.com/cards/565438a2-3b2f-4bfa-9af0-69fbcbcef99d"
+    },
+    {
+      "object": "related_card",
+      "id": "5bc629de-18a3-4780-9df6-28ee54a34b81",
+      "component": "combo_piece",
+      "name": "Beacon of Creation",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/5bc629de-18a3-4780-9df6-28ee54a34b81"
+    },
+    {
+      "object": "related_card",
+      "id": "78b93669-f0fb-48b6-b23d-b297dd394350",
+      "component": "combo_piece",
+      "name": "Symbiotic Beast",
+      "type_line": "Creature — Insect Beast",
+      "uri": "https://api.scryfall.com/cards/78b93669-f0fb-48b6-b23d-b297dd394350"
+    },
+    {
+      "object": "related_card",
+      "id": "e1abae21-ed8f-4e21-b227-f721b840c11f",
+      "component": "combo_piece",
+      "name": "Vitality Charm",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/e1abae21-ed8f-4e21-b227-f721b840c11f"
+    },
+    {
+      "object": "related_card",
+      "id": "f9fc7bf3-fa3f-450a-875e-05a022794181",
+      "component": "combo_piece",
+      "name": "Infested Roothold",
+      "type_line": "Creature — Wall",
+      "uri": "https://api.scryfall.com/cards/f9fc7bf3-fa3f-450a-875e-05a022794181"
+    },
+    {
+      "object": "related_card",
+      "id": "f5b2afc5-16f6-4fed-90de-6ca0051392e2",
+      "component": "combo_piece",
+      "name": "Springheart Nantuko",
+      "type_line": "Enchantment Creature — Insect Monk",
+      "uri": "https://api.scryfall.com/cards/f5b2afc5-16f6-4fed-90de-6ca0051392e2"
+    },
+    {
+      "object": "related_card",
+      "id": "2bda3765-c56f-4b27-83f8-d01e16265328",
+      "component": "combo_piece",
+      "name": "Old Rutstein",
+      "type_line": "Legendary Creature — Human Peasant",
+      "uri": "https://api.scryfall.com/cards/2bda3765-c56f-4b27-83f8-d01e16265328"
+    },
+    {
+      "object": "related_card",
+      "id": "6d60bde4-5418-483f-9a75-17cf61927749",
+      "component": "combo_piece",
+      "name": "Crawling Sensation",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/6d60bde4-5418-483f-9a75-17cf61927749"
+    },
+    {
+      "object": "related_card",
+      "id": "e0671bd0-5d81-4c15-869c-1c61d66fa767",
+      "component": "combo_piece",
+      "name": "Symbiotic Wurm",
+      "type_line": "Creature — Wurm",
+      "uri": "https://api.scryfall.com/cards/e0671bd0-5d81-4c15-869c-1c61d66fa767"
+    },
+    {
+      "object": "related_card",
+      "id": "58f0a2f9-5c5e-4477-ae7e-a52cf5778962",
+      "component": "combo_piece",
+      "name": "Saber Ants",
+      "type_line": "Creature — Insect",
+      "uri": "https://api.scryfall.com/cards/58f0a2f9-5c5e-4477-ae7e-a52cf5778962"
+    },
+    {
+      "object": "related_card",
+      "id": "3a404d9b-02dd-45bc-b3eb-bc28452da22e",
+      "component": "combo_piece",
+      "name": "Crawling Infestation",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/3a404d9b-02dd-45bc-b3eb-bc28452da22e"
+    },
+    {
+      "object": "related_card",
+      "id": "efb56f91-cb6c-4ce1-89d2-35036ed0c3f1",
+      "component": "combo_piece",
+      "name": "Scute Swarm",
+      "type_line": "Creature — Insect",
+      "uri": "https://api.scryfall.com/cards/efb56f91-cb6c-4ce1-89d2-35036ed0c3f1"
+    },
+    {
+      "object": "related_card",
+      "id": "ffc29f3a-bf26-4db4-ac8e-48be4862dd11",
+      "component": "combo_piece",
+      "name": "Broodhatch Nantuko",
+      "type_line": "Creature — Insect Druid",
+      "uri": "https://api.scryfall.com/cards/ffc29f3a-bf26-4db4-ac8e-48be4862dd11"
+    },
+    {
+      "object": "related_card",
+      "id": "451f317f-f587-4187-9e02-6ac5d7ae9cd8",
+      "component": "combo_piece",
+      "name": "One Dozen Eyes",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/451f317f-f587-4187-9e02-6ac5d7ae9cd8"
+    },
+    {
+      "object": "related_card",
+      "id": "e7e246b5-9c21-45d1-951b-ab5a47b4e7e4",
+      "component": "combo_piece",
+      "name": "Infestation Expert // Infested Werewolf",
+      "type_line": "Creature — Human Werewolf // Creature — Werewolf",
+      "uri": "https://api.scryfall.com/cards/e7e246b5-9c21-45d1-951b-ab5a47b4e7e4"
+    },
+    {
+      "object": "related_card",
+      "id": "f2c652fb-1ddc-41d3-bcae-29758bfc43eb",
+      "component": "combo_piece",
+      "name": "Hiveheart Shaman",
+      "type_line": "Creature — Human Shaman",
+      "uri": "https://api.scryfall.com/cards/f2c652fb-1ddc-41d3-bcae-29758bfc43eb"
+    },
+    {
+      "object": "related_card",
+      "id": "84da9c36-5d9c-4e29-b6cc-c5c10e490f2e",
+      "component": "token",
+      "name": "Insect",
+      "type_line": "Token Creature — Insect",
+      "uri": "https://api.scryfall.com/cards/84da9c36-5d9c-4e29-b6cc-c5c10e490f2e"
+    },
+    {
+      "object": "related_card",
+      "id": "8e552d26-d203-4040-ba11-d01d65f038a4",
+      "component": "combo_piece",
+      "name": "Symbiotic Elf",
+      "type_line": "Creature — Elf",
+      "uri": "https://api.scryfall.com/cards/8e552d26-d203-4040-ba11-d01d65f038a4"
+    },
+    {
+      "object": "related_card",
+      "id": "7ebddcdb-9bcb-4355-9bcf-232608fb678e",
+      "component": "combo_piece",
+      "name": "Dragonlair Spider",
+      "type_line": "Creature — Spider",
+      "uri": "https://api.scryfall.com/cards/7ebddcdb-9bcb-4355-9bcf-232608fb678e"
+    },
+    {
+      "object": "related_card",
+      "id": "56ab0aa1-a289-4e7e-9272-36f8635a4bbf",
+      "component": "combo_piece",
+      "name": "Swarm Shambler",
+      "type_line": "Creature — Fungus Beast",
+      "uri": "https://api.scryfall.com/cards/56ab0aa1-a289-4e7e-9272-36f8635a4bbf"
+    },
+    {
+      "object": "related_card",
+      "id": "7058dadd-e2ca-4fef-9689-6cfa69e878c7",
+      "component": "combo_piece",
+      "name": "It of the Horrid Swarm",
+      "type_line": "Creature — Eldrazi Insect",
+      "uri": "https://api.scryfall.com/cards/7058dadd-e2ca-4fef-9689-6cfa69e878c7"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "ee023dc4-fe71-4224-be95-7c889d771ee1",
+  "set": "tznr",
+  "set_name": "Zendikar Rising Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/ee023dc4-fe71-4224-be95-7c889d771ee1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atznr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tznr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/84da9c36-5d9c-4e29-b6cc-c5c10e490f2e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac39cd31f-c4a2-4ca8-b4f9-b2e6289743bc&unique=prints",
+  "collector_number": "7",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jakub Kasper",
+  "artist_ids": [
+    "36901417-ce61-4636-8b77-6db14a9cb68a"
+  ],
+  "illustration_id": "1b548537-3e57-41b3-8dc1-a494e5ac84a9",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DInsect",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DInsect",
+    "edhrec": "https://edhrec.com/route/?cc=Insect"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DInsect%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Insect&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Insect&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

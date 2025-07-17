@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "26fbf2d5-193a-49cc-ad62-4776c10dc731",
+  "oracle_id": "c71b2325-bde6-4364-a93b-8477ffeb25d8",
+  "multiverse_ids": [],
+  "tcgplayer_id": 284536,
+  "name": "Toxrill, the Corrosive",
+  "lang": "en",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/26fbf2d5-193a-49cc-ad62-4776c10dc731",
+  "scryfall_uri": "https://scryfall.com/card/pvow/132p/toxrill-the-corrosive?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/6/26fbf2d5-193a-49cc-ad62-4776c10dc731.jpg?1666017501",
+    "normal": "https://cards.scryfall.io/normal/front/2/6/26fbf2d5-193a-49cc-ad62-4776c10dc731.jpg?1666017501",
+    "large": "https://cards.scryfall.io/large/front/2/6/26fbf2d5-193a-49cc-ad62-4776c10dc731.jpg?1666017501",
+    "png": "https://cards.scryfall.io/png/front/2/6/26fbf2d5-193a-49cc-ad62-4776c10dc731.png?1666017501",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/6/26fbf2d5-193a-49cc-ad62-4776c10dc731.jpg?1666017501",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/6/26fbf2d5-193a-49cc-ad62-4776c10dc731.jpg?1666017501"
+  },
+  "mana_cost": "{5}{B}{B}",
+  "cmc": 7,
+  "type_line": "Legendary Creature — Slug Horror",
+  "oracle_text": "At the beginning of each end step, put a slime counter on each creature you don't control.\nCreatures you don't control get -1/-1 for each slime counter on them.\nWhenever a creature you don't control with a slime counter on it dies, create a 1/1 black Slug creature token.\n{U}{B}, Sacrifice a Slug: Draw a card.",
+  "power": "7",
+  "toughness": "7",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "b3da9e97-5a84-47b2-ad2b-3c8010b7792e",
+      "component": "combo_piece",
+      "name": "Toxrill, the Corrosive",
+      "type_line": "Legendary Creature — Slug Horror",
+      "uri": "https://api.scryfall.com/cards/b3da9e97-5a84-47b2-ad2b-3c8010b7792e"
+    },
+    {
+      "object": "related_card",
+      "id": "6e2ae34f-4558-46e0-95c5-e00d813fa355",
+      "component": "token",
+      "name": "Slug",
+      "type_line": "Token Creature — Slug",
+      "uri": "https://api.scryfall.com/cards/6e2ae34f-4558-46e0-95c5-e00d813fa355"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5636218c-a0d2-45ee-9552-dbc54e8a91a3",
+  "set": "pvow",
+  "set_name": "Innistrad: Crimson Vow Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/5636218c-a0d2-45ee-9552-dbc54e8a91a3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apvow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pvow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/26fbf2d5-193a-49cc-ad62-4776c10dc731/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac71b2325-bde6-4364-a93b-8477ffeb25d8&unique=prints",
+  "collector_number": "132p",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Simon Dominic",
+  "artist_ids": [
+    "b0e80135-db5a-4b88-a0bc-815a0e94faa1"
+  ],
+  "illustration_id": "f5895959-f9f0-4611-ac80-981c0f2e28a2",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 2083,
+  "prices": {
+    "usd": "19.13",
+    "usd_foil": "29.43",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DToxrill%252C%2Bthe%2BCorrosive",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DToxrill%252C%2Bthe%2BCorrosive",
+    "edhrec": "https://edhrec.com/route/?cc=Toxrill%2C+the+Corrosive"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F284536%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Toxrill%2C+the+Corrosive&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Toxrill%2C+the+Corrosive&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

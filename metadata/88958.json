@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "d1d675e0-0e79-4f90-b3d7-d4bfaedd4719",
+  "oracle_id": "579cbd92-797f-4cdf-91ed-fca7a523eae5",
+  "multiverse_ids": [
+    598920
+  ],
+  "mtgo_id": 107581,
+  "tcgplayer_id": 457530,
+  "cardmarket_id": 688680,
+  "name": "Deep Analysis",
+  "lang": "en",
+  "released_at": "2023-01-13",
+  "uri": "https://api.scryfall.com/cards/d1d675e0-0e79-4f90-b3d7-d4bfaedd4719",
+  "scryfall_uri": "https://scryfall.com/card/dmr/46/deep-analysis?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/1/d1d675e0-0e79-4f90-b3d7-d4bfaedd4719.jpg?1675199234",
+    "normal": "https://cards.scryfall.io/normal/front/d/1/d1d675e0-0e79-4f90-b3d7-d4bfaedd4719.jpg?1675199234",
+    "large": "https://cards.scryfall.io/large/front/d/1/d1d675e0-0e79-4f90-b3d7-d4bfaedd4719.jpg?1675199234",
+    "png": "https://cards.scryfall.io/png/front/d/1/d1d675e0-0e79-4f90-b3d7-d4bfaedd4719.png?1675199234",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/1/d1d675e0-0e79-4f90-b3d7-d4bfaedd4719.jpg?1675199234",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/1/d1d675e0-0e79-4f90-b3d7-d4bfaedd4719.jpg?1675199234"
+  },
+  "mana_cost": "{3}{U}",
+  "cmc": 4,
+  "type_line": "Sorcery",
+  "oracle_text": "Target player draws two cards.\nFlashback—{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flashback"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "ca4c2884-e539-4b7f-980d-5d6a50220f2a",
+  "set": "dmr",
+  "set_name": "Dominaria Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/ca4c2884-e539-4b7f-980d-5d6a50220f2a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dmr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d1d675e0-0e79-4f90-b3d7-d4bfaedd4719/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A579cbd92-797f-4cdf-91ed-fca7a523eae5&unique=prints",
+  "collector_number": "46",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"The specimen seems to be broken.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jesper Ejsing",
+  "artist_ids": [
+    "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+  ],
+  "illustration_id": "a71a542c-c07a-4593-8fc3-15ac63dc3e11",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1312,
+  "penny_rank": 589,
+  "prices": {
+    "usd": "0.06",
+    "usd_foil": "0.18",
+    "usd_etched": null,
+    "eur": "0.08",
+    "eur_foil": "0.29",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=598920&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDeep%2BAnalysis",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDeep%2BAnalysis",
+    "edhrec": "https://edhrec.com/route/?cc=Deep+Analysis"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F457530%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=688680&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/107581?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

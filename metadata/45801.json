@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "6c2a6a24-e896-4191-bd67-9ae8d781e089",
+  "oracle_id": "4f66d82a-492f-4638-9f77-190d4a33ad7f",
+  "multiverse_ids": [
+    430233
+  ],
+  "tcgplayer_id": 132075,
+  "cardmarket_id": 297963,
+  "name": "Kirtar's Wrath",
+  "lang": "en",
+  "released_at": "2017-06-09",
+  "uri": "https://api.scryfall.com/cards/6c2a6a24-e896-4191-bd67-9ae8d781e089",
+  "scryfall_uri": "https://scryfall.com/card/cma/14/kirtars-wrath?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/c/6c2a6a24-e896-4191-bd67-9ae8d781e089.jpg?1592672381",
+    "normal": "https://cards.scryfall.io/normal/front/6/c/6c2a6a24-e896-4191-bd67-9ae8d781e089.jpg?1592672381",
+    "large": "https://cards.scryfall.io/large/front/6/c/6c2a6a24-e896-4191-bd67-9ae8d781e089.jpg?1592672381",
+    "png": "https://cards.scryfall.io/png/front/6/c/6c2a6a24-e896-4191-bd67-9ae8d781e089.png?1592672381",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/c/6c2a6a24-e896-4191-bd67-9ae8d781e089.jpg?1592672381",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/c/6c2a6a24-e896-4191-bd67-9ae8d781e089.jpg?1592672381"
+  },
+  "mana_cost": "{4}{W}{W}",
+  "cmc": 6,
+  "type_line": "Sorcery",
+  "oracle_text": "Destroy all creatures. They can't be regenerated.\nThreshold — If seven or more cards are in your graveyard, instead destroy all creatures, then create two 1/1 white Spirit creature tokens with flying. Creatures destroyed this way can't be regenerated.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Threshold"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6c2a6a24-e896-4191-bd67-9ae8d781e089",
+      "component": "combo_piece",
+      "name": "Kirtar's Wrath",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/6c2a6a24-e896-4191-bd67-9ae8d781e089"
+    },
+    {
+      "object": "related_card",
+      "id": "9858cbdb-cf4a-4d72-b1c1-a151f6a3e794",
+      "component": "token",
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/9858cbdb-cf4a-4d72-b1c1-a151f6a3e794"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "fd4d8463-0156-4c60-a40e-778762bb90e4",
+  "set": "cma",
+  "set_name": "Commander Anthology",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/fd4d8463-0156-4c60-a40e-778762bb90e4",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acma&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cma?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6c2a6a24-e896-4191-bd67-9ae8d781e089/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4f66d82a-492f-4638-9f77-190d4a33ad7f&unique=prints",
+  "collector_number": "14",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kev Walker",
+  "artist_ids": [
+    "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+  ],
+  "illustration_id": "fb7593e3-5f8b-4b91-a8bd-3680b71f9193",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 10591,
+  "prices": {
+    "usd": "0.19",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.18",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430233&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKirtar%2527s%2BWrath",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKirtar%2527s%2BWrath",
+    "edhrec": "https://edhrec.com/route/?cc=Kirtar%27s+Wrath"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F132075%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=297963&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kirtar%27s+Wrath&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

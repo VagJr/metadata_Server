@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "66210a3f-010b-4a9b-a08f-97d3ca962b0c",
+  "oracle_id": "03259490-a789-4f96-8c5b-b410425bdd02",
+  "multiverse_ids": [
+    606734
+  ],
+  "arena_id": 86162,
+  "name": "Haunted Dead",
+  "lang": "en",
+  "released_at": "2023-03-21",
+  "uri": "https://api.scryfall.com/cards/66210a3f-010b-4a9b-a08f-97d3ca962b0c",
+  "scryfall_uri": "https://scryfall.com/card/sir/117/haunted-dead?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/6/66210a3f-010b-4a9b-a08f-97d3ca962b0c.jpg?1678945055",
+    "normal": "https://cards.scryfall.io/normal/front/6/6/66210a3f-010b-4a9b-a08f-97d3ca962b0c.jpg?1678945055",
+    "large": "https://cards.scryfall.io/large/front/6/6/66210a3f-010b-4a9b-a08f-97d3ca962b0c.jpg?1678945055",
+    "png": "https://cards.scryfall.io/png/front/6/6/66210a3f-010b-4a9b-a08f-97d3ca962b0c.png?1678945055",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/6/66210a3f-010b-4a9b-a08f-97d3ca962b0c.jpg?1678945055",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/6/66210a3f-010b-4a9b-a08f-97d3ca962b0c.jpg?1678945055"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4,
+  "type_line": "Creature — Zombie",
+  "oracle_text": "When this creature enters, create a 1/1 white Spirit creature token with flying.\n{1}{B}, Discard two cards: Return this card from your graveyard to the battlefield tapped.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "66210a3f-010b-4a9b-a08f-97d3ca962b0c",
+      "component": "combo_piece",
+      "name": "Haunted Dead",
+      "type_line": "Creature — Zombie",
+      "uri": "https://api.scryfall.com/cards/66210a3f-010b-4a9b-a08f-97d3ca962b0c"
+    },
+    {
+      "object": "related_card",
+      "id": "004f2ea4-0477-49b2-ad06-5aac7991103d",
+      "component": "token",
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/004f2ea4-0477-49b2-ad06-5aac7991103d"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c3694ff5-7b12-4f29-8d82-2c9b553ac60e",
+  "set": "sir",
+  "set_name": "Shadows over Innistrad Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/c3694ff5-7b12-4f29-8d82-2c9b553ac60e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asir&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sir?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/66210a3f-010b-4a9b-a08f-97d3ca962b0c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A03259490-a789-4f96-8c5b-b410425bdd02&unique=prints",
+  "collector_number": "117",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lake Hurwitz",
+  "artist_ids": [
+    "3677c64b-55e6-4a0d-a952-bdbb05531220"
+  ],
+  "illustration_id": "c26f7b8b-fb23-4578-b83b-d737fb077140",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 18155,
+  "penny_rank": 623,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=606734&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHaunted%2BDead",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHaunted%2BDead",
+    "edhrec": "https://edhrec.com/route/?cc=Haunted+Dead"
+  }
+}

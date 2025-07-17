@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "b96ef600-a96c-4563-bc4e-157ea62d14d4",
+  "oracle_id": "81ba3a33-0e04-4f68-9a42-1dd717733b57",
+  "multiverse_ids": [],
+  "tcgplayer_id": 563840,
+  "cardmarket_id": 785813,
+  "name": "Lavinia, Azorius Renegade",
+  "lang": "en",
+  "released_at": "2024-08-19",
+  "uri": "https://api.scryfall.com/cards/b96ef600-a96c-4563-bc4e-157ea62d14d4",
+  "scryfall_uri": "https://scryfall.com/card/sld/1685/lavinia-azorius-renegade?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/9/b96ef600-a96c-4563-bc4e-157ea62d14d4.jpg?1723210309",
+    "normal": "https://cards.scryfall.io/normal/front/b/9/b96ef600-a96c-4563-bc4e-157ea62d14d4.jpg?1723210309",
+    "large": "https://cards.scryfall.io/large/front/b/9/b96ef600-a96c-4563-bc4e-157ea62d14d4.jpg?1723210309",
+    "png": "https://cards.scryfall.io/png/front/b/9/b96ef600-a96c-4563-bc4e-157ea62d14d4.png?1723210309",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/9/b96ef600-a96c-4563-bc4e-157ea62d14d4.jpg?1723210309",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/9/b96ef600-a96c-4563-bc4e-157ea62d14d4.jpg?1723210309"
+  },
+  "mana_cost": "{W}{U}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Human Soldier",
+  "oracle_text": "Each opponent can't cast noncreature spells with mana value greater than the number of lands that player controls.\nWhenever an opponent casts a spell, if no mana was spent to cast it, counter that spell.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "U",
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b96ef600-a96c-4563-bc4e-157ea62d14d4/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A81ba3a33-0e04-4f68-9a42-1dd717733b57&unique=prints",
+  "collector_number": "1685",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Justice may be blind, but Lavinia is always watching.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Uta Natsume",
+  "artist_ids": [
+    "03e3512f-03f5-4b26-97ff-ed5d9fb912c9"
+  ],
+  "illustration_id": "ba8687e8-9fe5-4b96-9498-03f5f598f192",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2636,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/news/feature/whats-inside-mystery-booster-2",
+    "previewed_at": "2024-08-09"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.12",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.90",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLavinia%252C%2BAzorius%2BRenegade",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLavinia%252C%2BAzorius%2BRenegade",
+    "edhrec": "https://edhrec.com/route/?cc=Lavinia%2C+Azorius+Renegade"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F563840%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=785813&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lavinia%2C+Azorius+Renegade&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "object": "card",
+  "id": "4ba9aeb8-2a2c-4057-9648-277dce7032ed",
+  "oracle_id": "cb491d8a-2e9f-46fe-9590-44c3b4a25f1b",
+  "multiverse_ids": [
+    574449
+  ],
+  "arena_id": 81833,
+  "name": "Jan Jansen, Chaos Crafter",
+  "lang": "en",
+  "released_at": "2022-07-07",
+  "uri": "https://api.scryfall.com/cards/4ba9aeb8-2a2c-4057-9648-277dce7032ed",
+  "scryfall_uri": "https://scryfall.com/card/hbg/235/jan-jansen-chaos-crafter?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/b/4ba9aeb8-2a2c-4057-9648-277dce7032ed.jpg?1681000677",
+    "normal": "https://cards.scryfall.io/normal/front/4/b/4ba9aeb8-2a2c-4057-9648-277dce7032ed.jpg?1681000677",
+    "large": "https://cards.scryfall.io/large/front/4/b/4ba9aeb8-2a2c-4057-9648-277dce7032ed.jpg?1681000677",
+    "png": "https://cards.scryfall.io/png/front/4/b/4ba9aeb8-2a2c-4057-9648-277dce7032ed.png?1681000677",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/b/4ba9aeb8-2a2c-4057-9648-277dce7032ed.jpg?1681000677",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/b/4ba9aeb8-2a2c-4057-9648-277dce7032ed.jpg?1681000677"
+  },
+  "mana_cost": "{R}{W}{B}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Gnome Artificer",
+  "oracle_text": "Haste\n{T}, Sacrifice an artifact creature: Create two Treasure tokens.\n{T}, Sacrifice a noncreature artifact: Create two 1/1 colorless Construct artifact creature tokens.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "B",
+    "R",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "R",
+    "W"
+  ],
+  "keywords": [
+    "Treasure",
+    "Haste"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "3f695aef-e30a-4289-a9b8-24b5495c344e",
+      "component": "token",
+      "name": "Construct",
+      "type_line": "Token Artifact Creature — Construct",
+      "uri": "https://api.scryfall.com/cards/3f695aef-e30a-4289-a9b8-24b5495c344e"
+    },
+    {
+      "object": "related_card",
+      "id": "73f94f72-a689-41ca-b1af-6004e2a57e9c",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/73f94f72-a689-41ca-b1af-6004e2a57e9c"
+    },
+    {
+      "object": "related_card",
+      "id": "4ba9aeb8-2a2c-4057-9648-277dce7032ed",
+      "component": "combo_piece",
+      "name": "Jan Jansen, Chaos Crafter",
+      "type_line": "Legendary Creature — Gnome Artificer",
+      "uri": "https://api.scryfall.com/cards/4ba9aeb8-2a2c-4057-9648-277dce7032ed"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "35528ede-7870-4598-a2ee-7f3d6464a74b",
+  "set": "hbg",
+  "set_name": "Alchemy Horizons: Baldur's Gate",
+  "set_type": "alchemy",
+  "set_uri": "https://api.scryfall.com/sets/35528ede-7870-4598-a2ee-7f3d6464a74b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahbg&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/hbg?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4ba9aeb8-2a2c-4057-9648-277dce7032ed/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acb491d8a-2e9f-46fe-9590-44c3b4a25f1b&unique=prints",
+  "collector_number": "235",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Vladimir Krisetskiy",
+  "artist_ids": [
+    "6a6d08a4-77eb-4345-9ac4-21248cce900f"
+  ],
+  "illustration_id": "0ee12a61-9ee7-45f5-afda-9cd9a72aec0e",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3670,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574449&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJan%2BJansen%252C%2BChaos%2BCrafter",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJan%2BJansen%252C%2BChaos%2BCrafter",
+    "edhrec": "https://edhrec.com/route/?cc=Jan+Jansen%2C+Chaos+Crafter"
+  }
+}

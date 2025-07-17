@@ -1,0 +1,162 @@
+{
+  "object": "card",
+  "id": "e277f9d2-b809-4edd-aa8f-e28e13a6d349",
+  "oracle_id": "21d90735-5e04-4a8c-a546-ff26d4d5998d",
+  "multiverse_ids": [],
+  "tcgplayer_id": 493196,
+  "name": "Invasion of Ikoria // Zilortha, Apex of Ikoria",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/e277f9d2-b809-4edd-aa8f-e28e13a6d349",
+  "scryfall_uri": "https://scryfall.com/card/pmom/190s/invasion-of-ikoria-zilortha-apex-of-ikoria?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 2,
+  "type_line": "Battle — Siege // Legendary Creature — Dinosaur",
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Reach",
+    "Transform"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Invasion of Ikoria",
+      "mana_cost": "{X}{G}{G}",
+      "type_line": "Battle — Siege",
+      "oracle_text": "(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)\nWhen this Siege enters, search your library and/or graveyard for a non-Human creature card with mana value X or less and put it onto the battlefield. If you search your library this way, shuffle.",
+      "colors": [
+        "G"
+      ],
+      "defense": "6",
+      "artist": "Antonio José Manzanedo",
+      "artist_id": "74986d28-0001-4a78-827c-e490b325d0e3",
+      "illustration_id": "4e5a5dbe-5ae7-47c3-83fe-1e2ef7c255e5",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/e/2/e277f9d2-b809-4edd-aa8f-e28e13a6d349.jpg?1682717262",
+        "normal": "https://cards.scryfall.io/normal/front/e/2/e277f9d2-b809-4edd-aa8f-e28e13a6d349.jpg?1682717262",
+        "large": "https://cards.scryfall.io/large/front/e/2/e277f9d2-b809-4edd-aa8f-e28e13a6d349.jpg?1682717262",
+        "png": "https://cards.scryfall.io/png/front/e/2/e277f9d2-b809-4edd-aa8f-e28e13a6d349.png?1682717262",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/e/2/e277f9d2-b809-4edd-aa8f-e28e13a6d349.jpg?1682717262",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/e/2/e277f9d2-b809-4edd-aa8f-e28e13a6d349.jpg?1682717262"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Zilortha, Apex of Ikoria",
+      "mana_cost": "",
+      "type_line": "Legendary Creature — Dinosaur",
+      "oracle_text": "Reach\nFor each non-Human creature you control, you may have that creature assign its combat damage as though it weren't blocked.",
+      "colors": [
+        "G"
+      ],
+      "color_indicator": [
+        "G"
+      ],
+      "power": "8",
+      "toughness": "8",
+      "flavor_text": "Phyrexia's largest goliaths stormed Ikoria, ready to challenge the world's great monsters. Zilortha was unimpressed.",
+      "artist": "Antonio José Manzanedo",
+      "artist_id": "74986d28-0001-4a78-827c-e490b325d0e3",
+      "illustration_id": "c5e54496-d13e-47be-a71c-68b6ea3f107a",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/e/2/e277f9d2-b809-4edd-aa8f-e28e13a6d349.jpg?1682717262",
+        "normal": "https://cards.scryfall.io/normal/back/e/2/e277f9d2-b809-4edd-aa8f-e28e13a6d349.jpg?1682717262",
+        "large": "https://cards.scryfall.io/large/back/e/2/e277f9d2-b809-4edd-aa8f-e28e13a6d349.jpg?1682717262",
+        "png": "https://cards.scryfall.io/png/back/e/2/e277f9d2-b809-4edd-aa8f-e28e13a6d349.png?1682717262",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/e/2/e277f9d2-b809-4edd-aa8f-e28e13a6d349.jpg?1682717262",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/e/2/e277f9d2-b809-4edd-aa8f-e28e13a6d349.jpg?1682717262"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4af147e4-cf99-4f32-a77e-d116412f469a",
+  "set": "pmom",
+  "set_name": "March of the Machine Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/4af147e4-cf99-4f32-a77e-d116412f469a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apmom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pmom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e277f9d2-b809-4edd-aa8f-e28e13a6d349/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A21d90735-5e04-4a8c-a546-ff26d4d5998d&unique=prints",
+  "collector_number": "190s",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Antonio José Manzanedo",
+  "artist_ids": [
+    "74986d28-0001-4a78-827c-e490b325d0e3"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 907,
+  "penny_rank": 500,
+  "prices": {
+    "usd": null,
+    "usd_foil": "22.06",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DInvasion%2Bof%2BIkoria%2B%252F%252F%2BZilortha%252C%2BApex%2Bof%2BIkoria",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DInvasion%2Bof%2BIkoria%2B%252F%252F%2BZilortha%252C%2BApex%2Bof%2BIkoria",
+    "edhrec": "https://edhrec.com/route/?cc=Invasion+of+Ikoria"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F493196%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Invasion+of+Ikoria&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Invasion+of+Ikoria&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

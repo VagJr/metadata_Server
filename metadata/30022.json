@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "46ff0b33-d153-4b0e-ac48-7e5ed70dea09",
+  "oracle_id": "b9dec104-c636-4770-a7fc-7a3331face15",
+  "multiverse_ids": [
+    485537
+  ],
+  "mtgo_id": 81655,
+  "arena_id": 71996,
+  "tcgplayer_id": 215631,
+  "cardmarket_id": 470204,
+  "name": "Wildwood Scourge",
+  "lang": "en",
+  "released_at": "2020-07-03",
+  "uri": "https://api.scryfall.com/cards/46ff0b33-d153-4b0e-ac48-7e5ed70dea09",
+  "scryfall_uri": "https://scryfall.com/card/m21/214/wildwood-scourge?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/6/46ff0b33-d153-4b0e-ac48-7e5ed70dea09.jpg?1594737329",
+    "normal": "https://cards.scryfall.io/normal/front/4/6/46ff0b33-d153-4b0e-ac48-7e5ed70dea09.jpg?1594737329",
+    "large": "https://cards.scryfall.io/large/front/4/6/46ff0b33-d153-4b0e-ac48-7e5ed70dea09.jpg?1594737329",
+    "png": "https://cards.scryfall.io/png/front/4/6/46ff0b33-d153-4b0e-ac48-7e5ed70dea09.png?1594737329",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/6/46ff0b33-d153-4b0e-ac48-7e5ed70dea09.jpg?1594737329",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/6/46ff0b33-d153-4b0e-ac48-7e5ed70dea09.jpg?1594737329"
+  },
+  "mana_cost": "{X}{G}",
+  "cmc": 1,
+  "type_line": "Creature — Hydra",
+  "oracle_text": "This creature enters with X +1/+1 counters on it.\nWhenever one or more +1/+1 counters are put on another non-Hydra creature you control, put a +1/+1 counter on this creature.",
+  "power": "0",
+  "toughness": "0",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "bc94aba1-7376-4e02-a12d-3a2efb66ab0f",
+  "set": "m21",
+  "set_name": "Core Set 2021",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/bc94aba1-7376-4e02-a12d-3a2efb66ab0f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am21&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/m21?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/46ff0b33-d153-4b0e-ac48-7e5ed70dea09/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab9dec104-c636-4770-a7fc-7a3331face15&unique=prints",
+  "collector_number": "214",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Bryan Sola",
+  "artist_ids": [
+    "e6879299-a28b-48bc-8db1-9cafcf36de09"
+  ],
+  "illustration_id": "807a12de-712b-4858-9908-5f9d17260f1d",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3930,
+  "penny_rank": 5649,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/signpost-selesnya-2020-06-11?p",
+    "previewed_at": "2020-06-11"
+  },
+  "prices": {
+    "usd": "0.08",
+    "usd_foil": "0.25",
+    "usd_etched": null,
+    "eur": "0.11",
+    "eur_foil": "0.29",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485537&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWildwood%2BScourge",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWildwood%2BScourge",
+    "edhrec": "https://edhrec.com/route/?cc=Wildwood+Scourge"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F215631%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=470204&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/81655?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

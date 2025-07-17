@@ -1,0 +1,158 @@
+{
+  "object": "card",
+  "id": "c5214f65-2bab-46e4-aff5-a16cac249b53",
+  "oracle_id": "f9217532-f7cf-4436-b476-72d97a3147dc",
+  "multiverse_ids": [],
+  "tcgplayer_id": 237377,
+  "cardmarket_id": 560572,
+  "name": "Galazeth Prismari",
+  "lang": "en",
+  "released_at": "2021-04-23",
+  "uri": "https://api.scryfall.com/cards/c5214f65-2bab-46e4-aff5-a16cac249b53",
+  "scryfall_uri": "https://scryfall.com/card/pstx/189p/galazeth-prismari?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/5/c5214f65-2bab-46e4-aff5-a16cac249b53.jpg?1628271526",
+    "normal": "https://cards.scryfall.io/normal/front/c/5/c5214f65-2bab-46e4-aff5-a16cac249b53.jpg?1628271526",
+    "large": "https://cards.scryfall.io/large/front/c/5/c5214f65-2bab-46e4-aff5-a16cac249b53.jpg?1628271526",
+    "png": "https://cards.scryfall.io/png/front/c/5/c5214f65-2bab-46e4-aff5-a16cac249b53.png?1628271526",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/5/c5214f65-2bab-46e4-aff5-a16cac249b53.jpg?1628271526",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/5/c5214f65-2bab-46e4-aff5-a16cac249b53.jpg?1628271526"
+  },
+  "mana_cost": "{2}{U}{R}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Elder Dragon",
+  "oracle_text": "Flying\nWhen Galazeth Prismari enters, create a Treasure token.\nArtifacts you control have \"{T}: Add one mana of any color. Spend this mana only to cast an instant or sorcery spell.\"",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [
+    "Flying",
+    "Treasure"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "1a2d027f-8996-4761-a776-47cd428f6779",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/1a2d027f-8996-4761-a776-47cd428f6779"
+    },
+    {
+      "object": "related_card",
+      "id": "c4d9e1a6-6908-44c7-9ace-f7c0a2413ddc",
+      "component": "combo_piece",
+      "name": "Galazeth Prismari",
+      "type_line": "Legendary Creature — Elder Dragon",
+      "uri": "https://api.scryfall.com/cards/c4d9e1a6-6908-44c7-9ace-f7c0a2413ddc"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "bc98232b-a539-4f81-92b5-2efc57d38f53",
+  "set": "pstx",
+  "set_name": "Strixhaven: School of Mages Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/bc98232b-a539-4f81-92b5-2efc57d38f53",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apstx&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pstx?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c5214f65-2bab-46e4-aff5-a16cac249b53/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af9217532-f7cf-4436-b476-72d97a3147dc&unique=prints",
+  "collector_number": "189p",
+  "digital": false,
+  "rarity": "mythic",
+  "watermark": "prismari",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Raymond Swanland",
+  "artist_ids": [
+    "e956bacc-077d-4c12-b6bc-ba798b718af9"
+  ],
+  "illustration_id": "aa707590-6624-4401-b1e2-95678ea776ab",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 5463,
+  "penny_rank": 5764,
+  "prices": {
+    "usd": "3.41",
+    "usd_foil": "3.69",
+    "usd_etched": null,
+    "eur": "11.00",
+    "eur_foil": "6.71",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGalazeth%2BPrismari",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGalazeth%2BPrismari",
+    "edhrec": "https://edhrec.com/route/?cc=Galazeth+Prismari"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F237377%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=560572&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Galazeth+Prismari&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

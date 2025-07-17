@@ -1,0 +1,155 @@
+{
+  "object": "card",
+  "id": "b47b68e6-6ad7-4773-a199-cd88c3d010b1",
+  "oracle_id": "a9ddb3dc-f289-46a1-af17-3a8523a26b0d",
+  "multiverse_ids": [
+    619163
+  ],
+  "mtgo_id": 111744,
+  "tcgplayer_id": 499286,
+  "cardmarket_id": 717785,
+  "name": "The Watcher in the Water",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/b47b68e6-6ad7-4773-a199-cd88c3d010b1",
+  "scryfall_uri": "https://scryfall.com/card/ltr/354/the-watcher-in-the-water?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/4/b47b68e6-6ad7-4773-a199-cd88c3d010b1.jpg?1687899963",
+    "normal": "https://cards.scryfall.io/normal/front/b/4/b47b68e6-6ad7-4773-a199-cd88c3d010b1.jpg?1687899963",
+    "large": "https://cards.scryfall.io/large/front/b/4/b47b68e6-6ad7-4773-a199-cd88c3d010b1.jpg?1687899963",
+    "png": "https://cards.scryfall.io/png/front/b/4/b47b68e6-6ad7-4773-a199-cd88c3d010b1.png?1687899963",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/4/b47b68e6-6ad7-4773-a199-cd88c3d010b1.jpg?1687899963",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/4/b47b68e6-6ad7-4773-a199-cd88c3d010b1.jpg?1687899963"
+  },
+  "mana_cost": "{3}{U}{U}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Kraken",
+  "oracle_text": "The Watcher in the Water enters tapped with nine stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)\nWhenever you draw a card during an opponent's turn, create a 1/1 blue Tentacle creature token.\nWhenever a Tentacle you control dies, untap up to one target Kraken and put a stun counter on up to one target nonland permanent.",
+  "power": "9",
+  "toughness": "9",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "3d9415be-356d-45a5-a62b-a75368629481",
+      "component": "token",
+      "name": "Tentacle",
+      "type_line": "Token Creature — Tentacle",
+      "uri": "https://api.scryfall.com/cards/3d9415be-356d-45a5-a62b-a75368629481"
+    },
+    {
+      "object": "related_card",
+      "id": "f584f9a4-4ef1-463e-8aa3-a21b4f820e2a",
+      "component": "combo_piece",
+      "name": "The Watcher in the Water",
+      "type_line": "Legendary Creature — Kraken",
+      "uri": "https://api.scryfall.com/cards/f584f9a4-4ef1-463e-8aa3-a21b4f820e2a"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "08078706-ac5d-439b-8f01-894d38751367",
+  "set": "ltr",
+  "set_name": "The Lord of the Rings: Tales of Middle-earth",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/08078706-ac5d-439b-8f01-894d38751367",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b47b68e6-6ad7-4773-a199-cd88c3d010b1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa9ddb3dc-f289-46a1-af17-3a8523a26b0d&unique=prints",
+  "collector_number": "354",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Cold",
+  "artist_ids": [
+    "2622d22b-3fd8-4831-9b2b-adc5fac01b85"
+  ],
+  "illustration_id": "369f9543-06ac-4de6-b4cc-ddb0079a7049",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "extendedart"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 5192,
+  "penny_rank": 14173,
+  "preview": {
+    "source": "The Outerhaven",
+    "source_uri": "https://www.theouterhaven.net/2023/06/tales-of-middle-earth-card/",
+    "previewed_at": "2023-06-09"
+  },
+  "prices": {
+    "usd": "4.80",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "3.48",
+    "eur_foil": null,
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=619163&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThe%2BWatcher%2Bin%2Bthe%2BWater",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThe%2BWatcher%2Bin%2Bthe%2BWater",
+    "edhrec": "https://edhrec.com/route/?cc=The+Watcher+in+the+Water"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F499286%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=717785&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/111744?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

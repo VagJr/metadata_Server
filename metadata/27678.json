@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "416a2796-08c7-4370-8bc5-2152877e9034",
+  "oracle_id": "d91ea728-2d69-42cb-bb5d-e2b058f0d7b1",
+  "multiverse_ids": [
+    489442
+  ],
+  "arena_id": 72521,
+  "tcgplayer_id": 216218,
+  "cardmarket_id": 474019,
+  "name": "Arcane Encyclopedia",
+  "lang": "en",
+  "released_at": "2020-07-17",
+  "uri": "https://api.scryfall.com/cards/416a2796-08c7-4370-8bc5-2152877e9034",
+  "scryfall_uri": "https://scryfall.com/card/jmp/459/arcane-encyclopedia?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/1/416a2796-08c7-4370-8bc5-2152877e9034.jpg?1601080581",
+    "normal": "https://cards.scryfall.io/normal/front/4/1/416a2796-08c7-4370-8bc5-2152877e9034.jpg?1601080581",
+    "large": "https://cards.scryfall.io/large/front/4/1/416a2796-08c7-4370-8bc5-2152877e9034.jpg?1601080581",
+    "png": "https://cards.scryfall.io/png/front/4/1/416a2796-08c7-4370-8bc5-2152877e9034.png?1601080581",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/1/416a2796-08c7-4370-8bc5-2152877e9034.jpg?1601080581",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/1/416a2796-08c7-4370-8bc5-2152877e9034.jpg?1601080581"
+  },
+  "mana_cost": "{3}",
+  "cmc": 3,
+  "type_line": "Artifact",
+  "oracle_text": "{3}, {T}: Draw a card.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "0f6ccf25-a627-4263-86df-5757137f1696",
+  "set": "jmp",
+  "set_name": "Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/0f6ccf25-a627-4263-86df-5757137f1696",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ajmp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/jmp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/416a2796-08c7-4370-8bc5-2152877e9034/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad91ea728-2d69-42cb-bb5d-e2b058f0d7b1&unique=prints",
+  "collector_number": "459",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Knowledge itself is neither good nor evil. Just as the wrong book in the wrong hands could doom all existence, the same book in the right hands could save it.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nic Klein",
+  "artist_ids": [
+    "b948d330-3fbd-44cc-b140-02bcc5d46f79"
+  ],
+  "illustration_id": "8a20d7b1-9b7e-4159-be07-57e718799ff2",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 10493,
+  "penny_rank": 6425,
+  "preview": {
+    "source": "Sekappy",
+    "source_uri": "https://sekappy.com/blog/1933",
+    "previewed_at": "2020-06-18"
+  },
+  "prices": {
+    "usd": "0.16",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.14",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489442&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DArcane%2BEncyclopedia",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DArcane%2BEncyclopedia",
+    "edhrec": "https://edhrec.com/route/?cc=Arcane+Encyclopedia"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F216218%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=474019&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Arcane+Encyclopedia&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

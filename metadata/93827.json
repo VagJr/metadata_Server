@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "dd82846e-f119-4b27-a795-7b1ceebab4b0",
+  "oracle_id": "9dbc3530-b278-4c8d-b2cc-a09dfac9d5e5",
+  "multiverse_ids": [
+    532496
+  ],
+  "tcgplayer_id": 243962,
+  "cardmarket_id": 572282,
+  "name": "Reassembling Skeleton",
+  "lang": "en",
+  "released_at": "2021-07-23",
+  "uri": "https://api.scryfall.com/cards/dd82846e-f119-4b27-a795-7b1ceebab4b0",
+  "scryfall_uri": "https://scryfall.com/card/afc/109/reassembling-skeleton?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/d/dd82846e-f119-4b27-a795-7b1ceebab4b0.jpg?1631586805",
+    "normal": "https://cards.scryfall.io/normal/front/d/d/dd82846e-f119-4b27-a795-7b1ceebab4b0.jpg?1631586805",
+    "large": "https://cards.scryfall.io/large/front/d/d/dd82846e-f119-4b27-a795-7b1ceebab4b0.jpg?1631586805",
+    "png": "https://cards.scryfall.io/png/front/d/d/dd82846e-f119-4b27-a795-7b1ceebab4b0.png?1631586805",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/d/dd82846e-f119-4b27-a795-7b1ceebab4b0.jpg?1631586805",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/d/dd82846e-f119-4b27-a795-7b1ceebab4b0.jpg?1631586805"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2,
+  "type_line": "Creature — Skeleton Warrior",
+  "oracle_text": "{1}{B}: Return this card from your graveyard to the battlefield tapped.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "5f52e2aa-59c2-4df2-92ec-15926d61b40f",
+      "component": "combo_piece",
+      "name": "Boneyard Aberration",
+      "type_line": "Creature — Skeleton Dog",
+      "uri": "https://api.scryfall.com/cards/5f52e2aa-59c2-4df2-92ec-15926d61b40f"
+    },
+    {
+      "object": "related_card",
+      "id": "dd82846e-f119-4b27-a795-7b1ceebab4b0",
+      "component": "combo_piece",
+      "name": "Reassembling Skeleton",
+      "type_line": "Creature — Skeleton Warrior",
+      "uri": "https://api.scryfall.com/cards/dd82846e-f119-4b27-a795-7b1ceebab4b0"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "db1b46f9-893c-4623-9465-985ff6e4472c",
+  "set": "afc",
+  "set_name": "Forgotten Realms Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/db1b46f9-893c-4623-9465-985ff6e4472c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aafc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/afc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/dd82846e-f119-4b27-a795-7b1ceebab4b0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9dbc3530-b278-4c8d-b2cc-a09dfac9d5e5&unique=prints",
+  "collector_number": "109",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"They may show up with the wrong thigh bone or mandible, but they always show up.\"\n—Zul Ashur, lich lord",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Austin Hsu",
+  "artist_ids": [
+    "c5e439d8-b3db-4c13-ae93-4e129e3b9478"
+  ],
+  "illustration_id": "360b0e81-f358-486f-990b-2cfb482f1d46",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 745,
+  "penny_rank": 2629,
+  "prices": {
+    "usd": "0.16",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.33",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=532496&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DReassembling%2BSkeleton",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DReassembling%2BSkeleton",
+    "edhrec": "https://edhrec.com/route/?cc=Reassembling+Skeleton"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F243962%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=572282&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Reassembling+Skeleton&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

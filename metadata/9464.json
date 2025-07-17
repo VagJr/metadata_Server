@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "16055a39-484e-490d-9ae8-398cd36f80a9",
+  "oracle_id": "fd541139-de13-4b32-93ba-070ecf711d33",
+  "multiverse_ids": [],
+  "tcgplayer_id": 456645,
+  "cardmarket_id": 688304,
+  "name": "Slimefoot, the Stowaway",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/16055a39-484e-490d-9ae8-398cd36f80a9",
+  "scryfall_uri": "https://scryfall.com/card/sld/1138/slimefoot-the-stowaway?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/6/16055a39-484e-490d-9ae8-398cd36f80a9.jpg?1682693969",
+    "normal": "https://cards.scryfall.io/normal/front/1/6/16055a39-484e-490d-9ae8-398cd36f80a9.jpg?1682693969",
+    "large": "https://cards.scryfall.io/large/front/1/6/16055a39-484e-490d-9ae8-398cd36f80a9.jpg?1682693969",
+    "png": "https://cards.scryfall.io/png/front/1/6/16055a39-484e-490d-9ae8-398cd36f80a9.png?1682693969",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/6/16055a39-484e-490d-9ae8-398cd36f80a9.jpg?1682693969",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/6/16055a39-484e-490d-9ae8-398cd36f80a9.jpg?1682693969"
+  },
+  "mana_cost": "{1}{B}{G}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Fungus",
+  "oracle_text": "Whenever a Saproling you control dies, Slimefoot deals 1 damage to each opponent and you gain 1 life.\n{4}: Create a 1/1 green Saproling creature token.",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "B",
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "5a88aa73-baca-49c2-a6c3-0a1624b6078b",
+      "component": "token",
+      "name": "Saproling",
+      "type_line": "Token Creature — Saproling",
+      "uri": "https://api.scryfall.com/cards/5a88aa73-baca-49c2-a6c3-0a1624b6078b"
+    },
+    {
+      "object": "related_card",
+      "id": "16055a39-484e-490d-9ae8-398cd36f80a9",
+      "component": "combo_piece",
+      "name": "Slimefoot, the Stowaway",
+      "type_line": "Legendary Creature — Fungus",
+      "uri": "https://api.scryfall.com/cards/16055a39-484e-490d-9ae8-398cd36f80a9"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/16055a39-484e-490d-9ae8-398cd36f80a9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afd541139-de13-4b32-93ba-070ecf711d33&unique=prints",
+  "collector_number": "1138",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tripper Dungan",
+  "artist_ids": [
+    "2f1d0412-5fce-41f5-b2fa-592b8fbcd631"
+  ],
+  "illustration_id": "6937c14f-3c53-4bb4-96c1-5a9dd062a943",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "poster"
+  ],
+  "edhrec_rank": 4159,
+  "penny_rank": 3432,
+  "prices": {
+    "usd": "5.76",
+    "usd_foil": "9.52",
+    "usd_etched": null,
+    "eur": "3.69",
+    "eur_foil": "6.00",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSlimefoot%252C%2Bthe%2BStowaway",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSlimefoot%252C%2Bthe%2BStowaway",
+    "edhrec": "https://edhrec.com/route/?cc=Slimefoot%2C+the+Stowaway"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F456645%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=688304&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Slimefoot%2C+the+Stowaway&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

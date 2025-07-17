@@ -1,0 +1,114 @@
+{
+  "object": "card",
+  "id": "c0406a9a-c638-443d-94c6-b9270758ae59",
+  "oracle_id": "00bcbeb5-196a-4a54-ac8d-dec708e68d01",
+  "multiverse_ids": [
+    574302
+  ],
+  "arena_id": 81671,
+  "name": "Devoted Paladin",
+  "lang": "en",
+  "released_at": "2022-07-07",
+  "uri": "https://api.scryfall.com/cards/c0406a9a-c638-443d-94c6-b9270758ae59",
+  "scryfall_uri": "https://scryfall.com/card/hbg/88/devoted-paladin?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/0/c0406a9a-c638-443d-94c6-b9270758ae59.jpg?1680999558",
+    "normal": "https://cards.scryfall.io/normal/front/c/0/c0406a9a-c638-443d-94c6-b9270758ae59.jpg?1680999558",
+    "large": "https://cards.scryfall.io/large/front/c/0/c0406a9a-c638-443d-94c6-b9270758ae59.jpg?1680999558",
+    "png": "https://cards.scryfall.io/png/front/c/0/c0406a9a-c638-443d-94c6-b9270758ae59.png?1680999558",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/0/c0406a9a-c638-443d-94c6-b9270758ae59.jpg?1680999558",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/0/c0406a9a-c638-443d-94c6-b9270758ae59.jpg?1680999558"
+  },
+  "mana_cost": "{4}{W}",
+  "cmc": 5,
+  "type_line": "Creature — Orc Knight",
+  "oracle_text": "Beacon of Hope — When this creature enters, creatures you control get +1/+1 and gain vigilance until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "35528ede-7870-4598-a2ee-7f3d6464a74b",
+  "set": "hbg",
+  "set_name": "Alchemy Horizons: Baldur's Gate",
+  "set_type": "alchemy",
+  "set_uri": "https://api.scryfall.com/sets/35528ede-7870-4598-a2ee-7f3d6464a74b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahbg&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/hbg?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c0406a9a-c638-443d-94c6-b9270758ae59/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A00bcbeb5-196a-4a54-ac8d-dec708e68d01&unique=prints",
+  "collector_number": "88",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rallis",
+  "artist_ids": [
+    "a8e7b854-b15a-421a-b66d-6e68187ae285"
+  ],
+  "illustration_id": "6d80647e-5257-4a4e-a540-bcac890e0496",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 21625,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574302&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDevoted%2BPaladin",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDevoted%2BPaladin",
+    "edhrec": "https://edhrec.com/route/?cc=Devoted+Paladin"
+  }
+}

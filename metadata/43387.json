@@ -1,0 +1,151 @@
+{
+  "object": "card",
+  "id": "665b842f-b40e-4be6-8488-6d646da9ca1e",
+  "oracle_id": "2143f413-7baa-4fd6-a7ca-32f52bfa553f",
+  "multiverse_ids": [],
+  "tcgplayer_id": 237652,
+  "cardmarket_id": 560577,
+  "name": "Shadrix Silverquill",
+  "lang": "en",
+  "released_at": "2021-04-23",
+  "uri": "https://api.scryfall.com/cards/665b842f-b40e-4be6-8488-6d646da9ca1e",
+  "scryfall_uri": "https://scryfall.com/card/pstx/230p/shadrix-silverquill?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/6/665b842f-b40e-4be6-8488-6d646da9ca1e.jpg?1628271106",
+    "normal": "https://cards.scryfall.io/normal/front/6/6/665b842f-b40e-4be6-8488-6d646da9ca1e.jpg?1628271106",
+    "large": "https://cards.scryfall.io/large/front/6/6/665b842f-b40e-4be6-8488-6d646da9ca1e.jpg?1628271106",
+    "png": "https://cards.scryfall.io/png/front/6/6/665b842f-b40e-4be6-8488-6d646da9ca1e.png?1628271106",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/6/665b842f-b40e-4be6-8488-6d646da9ca1e.jpg?1628271106",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/6/665b842f-b40e-4be6-8488-6d646da9ca1e.jpg?1628271106"
+  },
+  "mana_cost": "{3}{W}{B}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Elder Dragon",
+  "oracle_text": "Flying, double strike\nAt the beginning of combat on your turn, you may choose two. Each mode must target a different player.\n• Target player creates a 2/1 white and black Inkling creature token with flying.\n• Target player draws a card and loses 1 life.\n• Target player puts a +1/+1 counter on each creature they control.",
+  "power": "2",
+  "toughness": "5",
+  "colors": [
+    "B",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "Double strike"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "cc172173-1ce7-4100-a398-e235e29e4518",
+      "component": "combo_piece",
+      "name": "Shadrix Silverquill",
+      "type_line": "Legendary Creature — Elder Dragon",
+      "uri": "https://api.scryfall.com/cards/cc172173-1ce7-4100-a398-e235e29e4518"
+    },
+    {
+      "object": "related_card",
+      "id": "c9deae5c-80d4-4701-b425-91853b7ee03b",
+      "component": "token",
+      "name": "Inkling",
+      "type_line": "Token Creature — Inkling",
+      "uri": "https://api.scryfall.com/cards/c9deae5c-80d4-4701-b425-91853b7ee03b"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "bc98232b-a539-4f81-92b5-2efc57d38f53",
+  "set": "pstx",
+  "set_name": "Strixhaven: School of Mages Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/bc98232b-a539-4f81-92b5-2efc57d38f53",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apstx&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pstx?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/665b842f-b40e-4be6-8488-6d646da9ca1e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2143f413-7baa-4fd6-a7ca-32f52bfa553f&unique=prints",
+  "collector_number": "230p",
+  "digital": false,
+  "rarity": "mythic",
+  "watermark": "silverquill",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Raymond Swanland",
+  "artist_ids": [
+    "e956bacc-077d-4c12-b6bc-ba798b718af9"
+  ],
+  "illustration_id": "f8aa1db8-333a-40c9-b756-00aa7091ad3c",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 3359,
+  "penny_rank": 11185,
+  "prices": {
+    "usd": "4.32",
+    "usd_foil": "3.70",
+    "usd_etched": null,
+    "eur": "8.70",
+    "eur_foil": "5.16",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DShadrix%2BSilverquill",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DShadrix%2BSilverquill",
+    "edhrec": "https://edhrec.com/route/?cc=Shadrix+Silverquill"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F237652%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=560577&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Shadrix+Silverquill&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

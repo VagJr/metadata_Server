@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "277c8c56-11a6-4aff-aaee-b9572cc7c6ef",
+  "oracle_id": "ebddf9b8-fd1a-4a6b-bec8-3a63485e36c0",
+  "multiverse_ids": [],
+  "tcgplayer_id": 177063,
+  "name": "Construct",
+  "lang": "en",
+  "released_at": "2018-10-05",
+  "uri": "https://api.scryfall.com/cards/277c8c56-11a6-4aff-aaee-b9572cc7c6ef",
+  "scryfall_uri": "https://scryfall.com/card/tmed/G3/construct?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/7/277c8c56-11a6-4aff-aaee-b9572cc7c6ef.jpg?1543114440",
+    "normal": "https://cards.scryfall.io/normal/front/2/7/277c8c56-11a6-4aff-aaee-b9572cc7c6ef.jpg?1543114440",
+    "large": "https://cards.scryfall.io/large/front/2/7/277c8c56-11a6-4aff-aaee-b9572cc7c6ef.jpg?1543114440",
+    "png": "https://cards.scryfall.io/png/front/2/7/277c8c56-11a6-4aff-aaee-b9572cc7c6ef.png?1543114440",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/7/277c8c56-11a6-4aff-aaee-b9572cc7c6ef.jpg?1543114440",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/7/277c8c56-11a6-4aff-aaee-b9572cc7c6ef.jpg?1543114440"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Artifact Creature — Construct",
+  "oracle_text": "Defender",
+  "power": "1",
+  "toughness": "1",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Defender"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "fc0f2b5a-f9fd-4f58-bc98-201b4c0e8252",
+      "component": "combo_piece",
+      "name": "Flamewright",
+      "type_line": "Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/fc0f2b5a-f9fd-4f58-bc98-201b4c0e8252"
+    },
+    {
+      "object": "related_card",
+      "id": "2b5f4072-47d6-46e2-affb-3affb908124e",
+      "component": "combo_piece",
+      "name": "Sentinel Dispatch",
+      "type_line": "Conspiracy",
+      "uri": "https://api.scryfall.com/cards/2b5f4072-47d6-46e2-affb-3affb908124e"
+    },
+    {
+      "object": "related_card",
+      "id": "260ecd56-a86f-49e7-81e0-919231aa9945",
+      "component": "combo_piece",
+      "name": "Daretti, Ingenious Iconoclast",
+      "type_line": "Legendary Planeswalker — Daretti",
+      "uri": "https://api.scryfall.com/cards/260ecd56-a86f-49e7-81e0-919231aa9945"
+    },
+    {
+      "object": "related_card",
+      "id": "277c8c56-11a6-4aff-aaee-b9572cc7c6ef",
+      "component": "token",
+      "name": "Construct",
+      "type_line": "Token Artifact Creature — Construct",
+      "uri": "https://api.scryfall.com/cards/277c8c56-11a6-4aff-aaee-b9572cc7c6ef"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "3a9213f3-71d0-4e17-a9f4-f85f705f3cbe",
+  "set": "tmed",
+  "set_name": "Mythic Edition Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/3a9213f3-71d0-4e17-a9f4-f85f705f3cbe",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atmed&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tmed?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/277c8c56-11a6-4aff-aaee-b9572cc7c6ef/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aebddf9b8-fd1a-4a6b-bec8-3a63485e36c0&unique=prints",
+  "collector_number": "G3",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Victor Adame Minguez",
+  "artist_ids": [
+    "bd8f7368-5b10-4554-b6b8-d052c6aca89f"
+  ],
+  "illustration_id": "3d2a6a1e-f61a-4b21-abe6-bcfe678103c9",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": "1.46",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DConstruct",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DConstruct",
+    "edhrec": "https://edhrec.com/route/?cc=Construct"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F177063%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Construct&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Construct&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "6b201937-5f2e-48b0-bb33-da09fc0a6f25",
+  "oracle_id": "2ba16e4d-2de7-4906-801a-4ba2b90b5050",
+  "multiverse_ids": [
+    460466
+  ],
+  "tcgplayer_id": 184818,
+  "cardmarket_id": 369837,
+  "name": "Ghost Council of Orzhova",
+  "lang": "en",
+  "released_at": "2019-02-15",
+  "uri": "https://api.scryfall.com/cards/6b201937-5f2e-48b0-bb33-da09fc0a6f25",
+  "scryfall_uri": "https://scryfall.com/card/gk2/40/ghost-council-of-orzhova?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/b/6b201937-5f2e-48b0-bb33-da09fc0a6f25.jpg?1551119417",
+    "normal": "https://cards.scryfall.io/normal/front/6/b/6b201937-5f2e-48b0-bb33-da09fc0a6f25.jpg?1551119417",
+    "large": "https://cards.scryfall.io/large/front/6/b/6b201937-5f2e-48b0-bb33-da09fc0a6f25.jpg?1551119417",
+    "png": "https://cards.scryfall.io/png/front/6/b/6b201937-5f2e-48b0-bb33-da09fc0a6f25.png?1551119417",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/b/6b201937-5f2e-48b0-bb33-da09fc0a6f25.jpg?1551119417",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/b/6b201937-5f2e-48b0-bb33-da09fc0a6f25.jpg?1551119417"
+  },
+  "mana_cost": "{W}{W}{B}{B}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Spirit",
+  "oracle_text": "When Ghost Council of Orzhova enters, target opponent loses 1 life and you gain 1 life.\n{1}, Sacrifice a creature: Exile Ghost Council of Orzhova. Return it to the battlefield under its owner's control at the beginning of the next end step.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "ce193344-b2a8-4b56-8243-c6ba4f6e20ef",
+  "set": "gk2",
+  "set_name": "RNA Guild Kit",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/ce193344-b2a8-4b56-8243-c6ba4f6e20ef",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Agk2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/gk2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6b201937-5f2e-48b0-bb33-da09fc0a6f25/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2ba16e4d-2de7-4906-801a-4ba2b90b5050&unique=prints",
+  "collector_number": "40",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "orzhov",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Greg Staples",
+  "artist_ids": [
+    "93d65564-bf00-447b-8406-e2031f03b6b1"
+  ],
+  "illustration_id": "51a913fb-9464-4c00-953c-7e308a8d90d6",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 17338,
+  "penny_rank": 8133,
+  "prices": {
+    "usd": "0.30",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.20",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460466&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGhost%2BCouncil%2Bof%2BOrzhova",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGhost%2BCouncil%2Bof%2BOrzhova",
+    "edhrec": "https://edhrec.com/route/?cc=Ghost+Council+of+Orzhova"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F184818%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=369837&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ghost+Council+of+Orzhova&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

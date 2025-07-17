@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "bf2b4be1-ad85-47a6-a3e0-3c04ab097c4a",
+  "oracle_id": "d9517c5d-66d0-4178-96fb-a8c04f311ad8",
+  "multiverse_ids": [],
+  "tcgplayer_id": 581255,
+  "name": "Aven Mindcensor",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/bf2b4be1-ad85-47a6-a3e0-3c04ab097c4a",
+  "scryfall_uri": "https://scryfall.com/card/plst/TSR-5/aven-mindcensor?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/f/bf2b4be1-ad85-47a6-a3e0-3c04ab097c4a.jpg?1723444152",
+    "normal": "https://cards.scryfall.io/normal/front/b/f/bf2b4be1-ad85-47a6-a3e0-3c04ab097c4a.jpg?1723444152",
+    "large": "https://cards.scryfall.io/large/front/b/f/bf2b4be1-ad85-47a6-a3e0-3c04ab097c4a.jpg?1723444152",
+    "png": "https://cards.scryfall.io/png/front/b/f/bf2b4be1-ad85-47a6-a3e0-3c04ab097c4a.png?1723444152",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/f/bf2b4be1-ad85-47a6-a3e0-3c04ab097c4a.jpg?1723444152",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/f/bf2b4be1-ad85-47a6-a3e0-3c04ab097c4a.jpg?1723444152"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Creature — Bird Wizard",
+  "oracle_text": "Flash\nFlying\nIf an opponent would search a library, that player searches the top four cards of that library instead.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "Flash"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/bf2b4be1-ad85-47a6-a3e0-3c04ab097c4a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad9517c5d-66d0-4178-96fb-a8c04f311ad8&unique=prints",
+  "collector_number": "TSR-5",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Rebecca Guay",
+  "artist_ids": [
+    "f8f662fa-d597-46a3-afb2-91d6e13243e2"
+  ],
+  "illustration_id": "09d591dc-56f1-4093-8f45-991a6e124c79",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 873,
+  "penny_rank": 4643,
+  "prices": {
+    "usd": "0.47",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAven%2BMindcensor",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAven%2BMindcensor",
+    "edhrec": "https://edhrec.com/route/?cc=Aven+Mindcensor"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F581255%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Aven+Mindcensor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Aven+Mindcensor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

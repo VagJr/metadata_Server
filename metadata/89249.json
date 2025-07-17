@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "d291d064-b191-4ff6-940a-c9cfc4289ff8",
+  "oracle_id": "68adbc52-34dd-47c4-bb1c-0c51033fe7cc",
+  "multiverse_ids": [
+    597514
+  ],
+  "tcgplayer_id": 455360,
+  "cardmarket_id": 686942,
+  "name": "Ruin in Their Wake",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/d291d064-b191-4ff6-940a-c9cfc4289ff8",
+  "scryfall_uri": "https://scryfall.com/card/j22/132/ruin-in-their-wake?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/2/d291d064-b191-4ff6-940a-c9cfc4289ff8.jpg?1675645912",
+    "normal": "https://cards.scryfall.io/normal/front/d/2/d291d064-b191-4ff6-940a-c9cfc4289ff8.jpg?1675645912",
+    "large": "https://cards.scryfall.io/large/front/d/2/d291d064-b191-4ff6-940a-c9cfc4289ff8.jpg?1675645912",
+    "png": "https://cards.scryfall.io/png/front/d/2/d291d064-b191-4ff6-940a-c9cfc4289ff8.png?1675645912",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/2/d291d064-b191-4ff6-940a-c9cfc4289ff8.jpg?1675645912",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/2/d291d064-b191-4ff6-940a-c9cfc4289ff8.jpg?1675645912"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "oracle_text": "Devoid (This card has no color.)\nSearch your library for a basic land card and reveal it. You may put that card onto the battlefield tapped if you control a land named Wastes. Otherwise, put that card into your hand. Then shuffle.",
+  "colors": [],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Devoid"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "247df475-e4ce-4e5e-9317-11892d2211e0",
+  "set": "j22",
+  "set_name": "Jumpstart 2022",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/247df475-e4ce-4e5e-9317-11892d2211e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj22&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j22?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d291d064-b191-4ff6-940a-c9cfc4289ff8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A68adbc52-34dd-47c4-bb1c-0c51033fe7cc&unique=prints",
+  "collector_number": "132",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Armand Baltazar",
+  "artist_ids": [
+    "757039f8-187f-4ace-bfd2-69167bdb6909"
+  ],
+  "illustration_id": "4908e8fe-4cd7-4803-8920-640fd62c77d2",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "devoid"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 20430,
+  "penny_rank": 16621,
+  "prices": {
+    "usd": "0.14",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.17",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=597514&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRuin%2Bin%2BTheir%2BWake",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRuin%2Bin%2BTheir%2BWake",
+    "edhrec": "https://edhrec.com/route/?cc=Ruin+in+Their+Wake"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F455360%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=686942&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ruin+in+Their+Wake&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

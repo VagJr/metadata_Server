@@ -1,0 +1,118 @@
+{
+  "object": "card",
+  "id": "1230d6bb-4236-4797-9316-66442ff8fb56",
+  "oracle_id": "e8d5f31c-7abf-4fbb-977e-8353a97daf7a",
+  "multiverse_ids": [],
+  "tcgplayer_id": 581381,
+  "name": "Mental Note",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/1230d6bb-4236-4797-9316-66442ff8fb56",
+  "scryfall_uri": "https://scryfall.com/card/plst/JUD-46/mental-note?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/2/1230d6bb-4236-4797-9316-66442ff8fb56.jpg?1723437686",
+    "normal": "https://cards.scryfall.io/normal/front/1/2/1230d6bb-4236-4797-9316-66442ff8fb56.jpg?1723437686",
+    "large": "https://cards.scryfall.io/large/front/1/2/1230d6bb-4236-4797-9316-66442ff8fb56.jpg?1723437686",
+    "png": "https://cards.scryfall.io/png/front/1/2/1230d6bb-4236-4797-9316-66442ff8fb56.png?1723437686",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/2/1230d6bb-4236-4797-9316-66442ff8fb56.jpg?1723437686",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/2/1230d6bb-4236-4797-9316-66442ff8fb56.jpg?1723437686"
+  },
+  "mana_cost": "{U}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "oracle_text": "Mill two cards.\nDraw a card.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1230d6bb-4236-4797-9316-66442ff8fb56/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae8d5f31c-7abf-4fbb-977e-8353a97daf7a&unique=prints",
+  "collector_number": "JUD-46",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Some minds are more open than others.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Bradley Williams",
+  "artist_ids": [
+    "24d81dfa-3745-4386-93f8-7e67dddb3c8a"
+  ],
+  "illustration_id": "6d6033ee-2218-46ea-8614-3e8924da6e5c",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 9703,
+  "penny_rank": 270,
+  "prices": {
+    "usd": "4.00",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMental%2BNote",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMental%2BNote",
+    "edhrec": "https://edhrec.com/route/?cc=Mental+Note"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F581381%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mental+Note&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mental+Note&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

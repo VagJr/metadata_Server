@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "e1241a23-f2da-4920-9383-b5994d7160af",
+  "oracle_id": "4235c99b-50de-4190-8938-3ce5ec5c5248",
+  "multiverse_ids": [],
+  "mtgo_id": 103736,
+  "mtgo_foil_id": 103737,
+  "tcgplayer_id": 456824,
+  "cardmarket_id": 688974,
+  "name": "Gravespawn Sovereign",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/e1241a23-f2da-4920-9383-b5994d7160af",
+  "scryfall_uri": "https://scryfall.com/card/scd/79/gravespawn-sovereign?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/1/e1241a23-f2da-4920-9383-b5994d7160af.jpg?1674674666",
+    "normal": "https://cards.scryfall.io/normal/front/e/1/e1241a23-f2da-4920-9383-b5994d7160af.jpg?1674674666",
+    "large": "https://cards.scryfall.io/large/front/e/1/e1241a23-f2da-4920-9383-b5994d7160af.jpg?1674674666",
+    "png": "https://cards.scryfall.io/png/front/e/1/e1241a23-f2da-4920-9383-b5994d7160af.png?1674674666",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/1/e1241a23-f2da-4920-9383-b5994d7160af.jpg?1674674666",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/1/e1241a23-f2da-4920-9383-b5994d7160af.jpg?1674674666"
+  },
+  "mana_cost": "{4}{B}{B}",
+  "cmc": 6,
+  "type_line": "Creature — Zombie",
+  "oracle_text": "Tap five untapped Zombies you control: Put target creature card from a graveyard onto the battlefield under your control.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set": "scd",
+  "set_name": "Starter Commander Decks",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ascd&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/scd?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e1241a23-f2da-4920-9383-b5994d7160af/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4235c99b-50de-4190-8938-3ce5ec5c5248&unique=prints",
+  "collector_number": "79",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "The warlocks never expected their creations to create servants of their own.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Adam Rex",
+  "artist_ids": [
+    "445bd2fb-4a70-4599-87a4-83cf5979fc56"
+  ],
+  "illustration_id": "be903b4a-8b12-446b-a426-59aadf871804",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 6165,
+  "penny_rank": 13097,
+  "prices": {
+    "usd": "0.18",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.20",
+    "eur_foil": null,
+    "tix": "0.37"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGravespawn%2BSovereign",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGravespawn%2BSovereign",
+    "edhrec": "https://edhrec.com/route/?cc=Gravespawn+Sovereign"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F456824%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=688974&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/103736?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

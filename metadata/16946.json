@@ -1,0 +1,209 @@
+{
+  "object": "card",
+  "id": "27ba03b0-feac-4d9c-9877-59c5fe18b230",
+  "oracle_id": "0410f6f6-88f6-48e2-b301-7660c86317a1",
+  "multiverse_ids": [],
+  "name": "Soldier",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/27ba03b0-feac-4d9c-9877-59c5fe18b230",
+  "scryfall_uri": "https://scryfall.com/card/totc/26/soldier?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/7/27ba03b0-feac-4d9c-9877-59c5fe18b230.jpg?1712320183",
+    "normal": "https://cards.scryfall.io/normal/front/2/7/27ba03b0-feac-4d9c-9877-59c5fe18b230.jpg?1712320183",
+    "large": "https://cards.scryfall.io/large/front/2/7/27ba03b0-feac-4d9c-9877-59c5fe18b230.jpg?1712320183",
+    "png": "https://cards.scryfall.io/png/front/2/7/27ba03b0-feac-4d9c-9877-59c5fe18b230.png?1712320183",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/7/27ba03b0-feac-4d9c-9877-59c5fe18b230.jpg?1712320183",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/7/27ba03b0-feac-4d9c-9877-59c5fe18b230.jpg?1712320183"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Artifact Creature — Soldier",
+  "oracle_text": "",
+  "power": "1",
+  "toughness": "1",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "27ba03b0-feac-4d9c-9877-59c5fe18b230",
+      "component": "token",
+      "name": "Soldier",
+      "type_line": "Token Artifact Creature — Soldier",
+      "uri": "https://api.scryfall.com/cards/27ba03b0-feac-4d9c-9877-59c5fe18b230"
+    },
+    {
+      "object": "related_card",
+      "id": "91b0f17e-603a-4840-b2c3-381ec6f102f3",
+      "component": "combo_piece",
+      "name": "Scrapwork Cohort",
+      "type_line": "Artifact Creature — Soldier",
+      "uri": "https://api.scryfall.com/cards/91b0f17e-603a-4840-b2c3-381ec6f102f3"
+    },
+    {
+      "object": "related_card",
+      "id": "640a08b7-dd30-446e-a8a7-2e084bbb9586",
+      "component": "combo_piece",
+      "name": "Mass Production",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/640a08b7-dd30-446e-a8a7-2e084bbb9586"
+    },
+    {
+      "object": "related_card",
+      "id": "eeed3382-ec4e-46e0-8ed0-d6a330ee8696",
+      "component": "combo_piece",
+      "name": "Platoon Dispenser",
+      "type_line": "Artifact Creature — Construct",
+      "uri": "https://api.scryfall.com/cards/eeed3382-ec4e-46e0-8ed0-d6a330ee8696"
+    },
+    {
+      "object": "related_card",
+      "id": "eda82e38-c1d4-4019-8f79-f91602d941b0",
+      "component": "combo_piece",
+      "name": "Mishra's Onslaught",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/eda82e38-c1d4-4019-8f79-f91602d941b0"
+    },
+    {
+      "object": "related_card",
+      "id": "dc6203c5-18c3-4b68-8ba5-9665a0ff3b03",
+      "component": "combo_piece",
+      "name": "Siege Veteran",
+      "type_line": "Creature — Human Soldier",
+      "uri": "https://api.scryfall.com/cards/dc6203c5-18c3-4b68-8ba5-9665a0ff3b03"
+    },
+    {
+      "object": "related_card",
+      "id": "27722c06-72c4-4925-b96d-c5276afd4bee",
+      "component": "combo_piece",
+      "name": "Myrel, Shield of Argive",
+      "type_line": "Legendary Creature — Human Soldier",
+      "uri": "https://api.scryfall.com/cards/27722c06-72c4-4925-b96d-c5276afd4bee"
+    },
+    {
+      "object": "related_card",
+      "id": "7e44b30f-aed6-47af-8b6c-0669c644e46f",
+      "component": "meld_result",
+      "name": "Urza, Planeswalker",
+      "type_line": "Legendary Planeswalker — Urza",
+      "uri": "https://api.scryfall.com/cards/7e44b30f-aed6-47af-8b6c-0669c644e46f"
+    },
+    {
+      "object": "related_card",
+      "id": "dced9a34-33ba-425f-a508-03b344e05d62",
+      "component": "combo_piece",
+      "name": "Skystrike Officer",
+      "type_line": "Creature — Human Soldier",
+      "uri": "https://api.scryfall.com/cards/dced9a34-33ba-425f-a508-03b344e05d62"
+    },
+    {
+      "object": "related_card",
+      "id": "ec94d440-3922-4588-bf7b-d8670f81ef4e",
+      "component": "combo_piece",
+      "name": "Emergency Weld",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/ec94d440-3922-4588-bf7b-d8670f81ef4e"
+    },
+    {
+      "object": "related_card",
+      "id": "f50b0449-8ff7-4549-893b-aeca93720c64",
+      "component": "combo_piece",
+      "name": "Conscripted Infantry",
+      "type_line": "Creature — Human Soldier",
+      "uri": "https://api.scryfall.com/cards/f50b0449-8ff7-4549-893b-aeca93720c64"
+    },
+    {
+      "object": "related_card",
+      "id": "ad56d60b-985e-470f-935b-036084957d2b",
+      "component": "combo_piece",
+      "name": "Third Path Iconoclast",
+      "type_line": "Creature — Human Monk",
+      "uri": "https://api.scryfall.com/cards/ad56d60b-985e-470f-935b-036084957d2b"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e25e9845-1a2f-420d-a9fb-12a15058b50d",
+  "set": "totc",
+  "set_name": "Outlaws of Thunder Junction Commander Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/e25e9845-1a2f-420d-a9fb-12a15058b50d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/totc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/27ba03b0-feac-4d9c-9877-59c5fe18b230/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0410f6f6-88f6-48e2-b301-7660c86317a1&unique=prints",
+  "collector_number": "26",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kev Walker",
+  "artist_ids": [
+    "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+  ],
+  "illustration_id": "536f23ba-1999-4b15-8f9e-d75e53788e27",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSoldier",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSoldier",
+    "edhrec": "https://edhrec.com/route/?cc=Soldier"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSoldier%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Soldier&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Soldier&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

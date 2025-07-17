@@ -1,0 +1,118 @@
+{
+  "object": "card",
+  "id": "aa0827b5-c69c-4f8c-93c3-318701565cc2",
+  "oracle_id": "a4ffe297-5e82-43f9-91a4-7aa3d8dd3b4a",
+  "multiverse_ids": [
+    606721
+  ],
+  "arena_id": 86147,
+  "name": "Crow of Dark Tidings",
+  "lang": "en",
+  "released_at": "2023-03-21",
+  "uri": "https://api.scryfall.com/cards/aa0827b5-c69c-4f8c-93c3-318701565cc2",
+  "scryfall_uri": "https://scryfall.com/card/sir/104/crow-of-dark-tidings?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/a/aa0827b5-c69c-4f8c-93c3-318701565cc2.jpg?1678945031",
+    "normal": "https://cards.scryfall.io/normal/front/a/a/aa0827b5-c69c-4f8c-93c3-318701565cc2.jpg?1678945031",
+    "large": "https://cards.scryfall.io/large/front/a/a/aa0827b5-c69c-4f8c-93c3-318701565cc2.jpg?1678945031",
+    "png": "https://cards.scryfall.io/png/front/a/a/aa0827b5-c69c-4f8c-93c3-318701565cc2.png?1678945031",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/a/aa0827b5-c69c-4f8c-93c3-318701565cc2.jpg?1678945031",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/a/aa0827b5-c69c-4f8c-93c3-318701565cc2.jpg?1678945031"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3,
+  "type_line": "Creature — Zombie Bird",
+  "oracle_text": "Flying\nWhen this creature enters or dies, mill two cards. (Put the top two cards of your library into your graveyard.)",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying",
+    "Mill"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c3694ff5-7b12-4f29-8d82-2c9b553ac60e",
+  "set": "sir",
+  "set_name": "Shadows over Innistrad Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/c3694ff5-7b12-4f29-8d82-2c9b553ac60e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asir&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sir?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/aa0827b5-c69c-4f8c-93c3-318701565cc2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa4ffe297-5e82-43f9-91a4-7aa3d8dd3b4a&unique=prints",
+  "collector_number": "104",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Simon Dominic",
+  "artist_ids": [
+    "b0e80135-db5a-4b88-a0bc-815a0e94faa1"
+  ],
+  "illustration_id": "71b8b8c9-2fa0-40bf-87a5-674ed7ac2d20",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 11681,
+  "penny_rank": 11288,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=606721&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCrow%2Bof%2BDark%2BTidings",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCrow%2Bof%2BDark%2BTidings",
+    "edhrec": "https://edhrec.com/route/?cc=Crow+of+Dark+Tidings"
+  }
+}

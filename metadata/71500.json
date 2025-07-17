@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "a8b75fc9-7045-4a87-b459-8d32f6c5402c",
+  "oracle_id": "1816eede-c5bd-49df-958f-a3af64cb2932",
+  "multiverse_ids": [],
+  "tcgplayer_id": 501870,
+  "cardmarket_id": 720262,
+  "name": "Omnath, Locus of Rage",
+  "lang": "en",
+  "released_at": "2023-08-29",
+  "uri": "https://api.scryfall.com/cards/a8b75fc9-7045-4a87-b459-8d32f6c5402c",
+  "scryfall_uri": "https://scryfall.com/card/sld/1256/omnath-locus-of-rage?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/8/a8b75fc9-7045-4a87-b459-8d32f6c5402c.jpg?1687810886",
+    "normal": "https://cards.scryfall.io/normal/front/a/8/a8b75fc9-7045-4a87-b459-8d32f6c5402c.jpg?1687810886",
+    "large": "https://cards.scryfall.io/large/front/a/8/a8b75fc9-7045-4a87-b459-8d32f6c5402c.jpg?1687810886",
+    "png": "https://cards.scryfall.io/png/front/a/8/a8b75fc9-7045-4a87-b459-8d32f6c5402c.png?1687810886",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/8/a8b75fc9-7045-4a87-b459-8d32f6c5402c.jpg?1687810886",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/8/a8b75fc9-7045-4a87-b459-8d32f6c5402c.jpg?1687810886"
+  },
+  "mana_cost": "{3}{R}{R}{G}{G}",
+  "cmc": 7,
+  "type_line": "Legendary Creature — Elemental",
+  "oracle_text": "Landfall — Whenever a land you control enters, create a 5/5 red and green Elemental creature token.\nWhenever Omnath or another Elemental you control dies, Omnath deals 3 damage to any target.",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [
+    "Landfall"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a8b75fc9-7045-4a87-b459-8d32f6c5402c",
+      "component": "combo_piece",
+      "name": "Omnath, Locus of Rage",
+      "type_line": "Legendary Creature — Elemental",
+      "uri": "https://api.scryfall.com/cards/a8b75fc9-7045-4a87-b459-8d32f6c5402c"
+    },
+    {
+      "object": "related_card",
+      "id": "5e3552f9-1c22-46f7-b606-c8a59950bf75",
+      "component": "token",
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "uri": "https://api.scryfall.com/cards/5e3552f9-1c22-46f7-b606-c8a59950bf75"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a8b75fc9-7045-4a87-b459-8d32f6c5402c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1816eede-c5bd-49df-958f-a3af64cb2932&unique=prints",
+  "collector_number": "1256",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Yu Maeda",
+  "artist_ids": [
+    "7f212c29-72ad-4877-ab51-7e43bc5b9e9a"
+  ],
+  "illustration_id": "0b96103b-2cec-4ec0-aa85-285db871543b",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1388,
+  "penny_rank": 4798,
+  "prices": {
+    "usd": "20.78",
+    "usd_foil": "26.91",
+    "usd_etched": null,
+    "eur": "13.89",
+    "eur_foil": "16.40",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOmnath%252C%2BLocus%2Bof%2BRage",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOmnath%252C%2BLocus%2Bof%2BRage",
+    "edhrec": "https://edhrec.com/route/?cc=Omnath%2C+Locus+of+Rage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F501870%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=720262&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Omnath%2C+Locus+of+Rage&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "bb7a56c4-5f20-4fd0-8f95-44061dec1df8",
+  "oracle_id": "a27445db-33f2-4571-98b5-83206b797484",
+  "multiverse_ids": [
+    482786
+  ],
+  "tcgplayer_id": 212152,
+  "cardmarket_id": 452098,
+  "name": "Shared Animosity",
+  "lang": "en",
+  "released_at": "2020-04-17",
+  "uri": "https://api.scryfall.com/cards/bb7a56c4-5f20-4fd0-8f95-44061dec1df8",
+  "scryfall_uri": "https://scryfall.com/card/c20/158/shared-animosity?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/b/bb7a56c4-5f20-4fd0-8f95-44061dec1df8.jpg?1591320679",
+    "normal": "https://cards.scryfall.io/normal/front/b/b/bb7a56c4-5f20-4fd0-8f95-44061dec1df8.jpg?1591320679",
+    "large": "https://cards.scryfall.io/large/front/b/b/bb7a56c4-5f20-4fd0-8f95-44061dec1df8.jpg?1591320679",
+    "png": "https://cards.scryfall.io/png/front/b/b/bb7a56c4-5f20-4fd0-8f95-44061dec1df8.png?1591320679",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/b/bb7a56c4-5f20-4fd0-8f95-44061dec1df8.jpg?1591320679",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/b/bb7a56c4-5f20-4fd0-8f95-44061dec1df8.jpg?1591320679"
+  },
+  "mana_cost": "{2}{R}",
+  "cmc": 3,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "f60ec786-1f8d-42f7-9abc-0d880fe243f6",
+  "set": "c20",
+  "set_name": "Commander 2020",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/f60ec786-1f8d-42f7-9abc-0d880fe243f6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac20&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/c20?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/bb7a56c4-5f20-4fd0-8f95-44061dec1df8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa27445db-33f2-4571-98b5-83206b797484&unique=prints",
+  "collector_number": "158",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"It is the nature of souls that they burn more brightly together than apart.\"\n—Vessifrus, flamekin demagogue",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chuck Lukacs",
+  "artist_ids": [
+    "2bdf4da7-c66c-4c46-a253-284c856ccfab"
+  ],
+  "illustration_id": "dd2e153f-f6da-4c26-8582-fdc0d6bd2dbd",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 626,
+  "penny_rank": 7713,
+  "preview": {
+    "source": "MTG Muddstah",
+    "source_uri": "https://www.youtube.com/watch?v=wMjcJnz_87A",
+    "previewed_at": "2020-04-04"
+  },
+  "prices": {
+    "usd": "1.02",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.90",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=482786&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DShared%2BAnimosity",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DShared%2BAnimosity",
+    "edhrec": "https://edhrec.com/route/?cc=Shared+Animosity"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F212152%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=452098&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Shared+Animosity&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

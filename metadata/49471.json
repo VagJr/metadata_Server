@@ -1,0 +1,159 @@
+{
+  "object": "card",
+  "id": "74e4f390-c420-44ec-a703-9a9d3ca6ab2e",
+  "oracle_id": "d04b6c2c-50fc-464d-9991-230efec70d2b",
+  "multiverse_ids": [
+    552722
+  ],
+  "arena_id": 79831,
+  "tcgplayer_id": 262565,
+  "cardmarket_id": 607582,
+  "name": "Nashi, Moon Sage's Scion",
+  "lang": "en",
+  "released_at": "2022-02-18",
+  "uri": "https://api.scryfall.com/cards/74e4f390-c420-44ec-a703-9a9d3ca6ab2e",
+  "scryfall_uri": "https://scryfall.com/card/neo/343/nashi-moon-sages-scion?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/4/74e4f390-c420-44ec-a703-9a9d3ca6ab2e.jpg?1654569581",
+    "normal": "https://cards.scryfall.io/normal/front/7/4/74e4f390-c420-44ec-a703-9a9d3ca6ab2e.jpg?1654569581",
+    "large": "https://cards.scryfall.io/large/front/7/4/74e4f390-c420-44ec-a703-9a9d3ca6ab2e.jpg?1654569581",
+    "png": "https://cards.scryfall.io/png/front/7/4/74e4f390-c420-44ec-a703-9a9d3ca6ab2e.png?1654569581",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/4/74e4f390-c420-44ec-a703-9a9d3ca6ab2e.jpg?1654569581",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/4/74e4f390-c420-44ec-a703-9a9d3ca6ab2e.jpg?1654569581"
+  },
+  "mana_cost": "{1}{B}{B}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Rat Ninja",
+  "oracle_text": "Ninjutsu {3}{B} ({3}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Nashi deals combat damage to a player, exile the top card of each player's library. Until end of turn, you may play one of those cards. If you cast a spell this way, pay life equal to its mana value rather than paying its mana cost.",
+  "power": "3",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Ninjutsu"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "2a509120-d075-43cc-9422-35b2bf8183aa",
+      "component": "combo_piece",
+      "name": "Nashi, Moon Sage's Scion",
+      "type_line": "Legendary Creature — Rat Ninja",
+      "uri": "https://api.scryfall.com/cards/2a509120-d075-43cc-9422-35b2bf8183aa"
+    },
+    {
+      "object": "related_card",
+      "id": "a47b49c4-6adb-445b-b0f1-e0391c2f08cf",
+      "component": "combo_piece",
+      "name": "A-Nashi, Moon Sage's Scion",
+      "type_line": "Legendary Creature — Rat Ninja",
+      "uri": "https://api.scryfall.com/cards/a47b49c4-6adb-445b-b0f1-e0391c2f08cf"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "59a2059f-5482-433f-8761-eb2e17859b71",
+  "set": "neo",
+  "set_name": "Kamigawa: Neon Dynasty",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/59a2059f-5482-433f-8761-eb2e17859b71",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aneo&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/neo?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/74e4f390-c420-44ec-a703-9a9d3ca6ab2e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad04b6c2c-50fc-464d-9991-230efec70d2b&unique=prints",
+  "collector_number": "343",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Yoshiya",
+  "artist_ids": [
+    "4803d72e-26fc-4989-8b2b-65e53613d005"
+  ],
+  "illustration_id": "b1b724b0-ff45-499a-b9a6-f76af6fd9bfd",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 1758,
+  "penny_rank": 4471,
+  "preview": {
+    "source": "DimirMTG",
+    "source_uri": "https://twitter.com/DimirUB/status/1488714046518218752",
+    "previewed_at": "2022-02-01"
+  },
+  "prices": {
+    "usd": "3.47",
+    "usd_foil": "5.47",
+    "usd_etched": null,
+    "eur": "3.36",
+    "eur_foil": "4.40",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=552722&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNashi%252C%2BMoon%2BSage%2527s%2BScion",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNashi%252C%2BMoon%2BSage%2527s%2BScion",
+    "edhrec": "https://edhrec.com/route/?cc=Nashi%2C+Moon+Sage%27s+Scion"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F262565%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=607582&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nashi%2C+Moon+Sage%27s+Scion&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

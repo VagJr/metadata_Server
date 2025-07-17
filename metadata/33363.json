@@ -1,0 +1,118 @@
+{
+  "object": "card",
+  "id": "4eed3236-30f9-4e50-8af1-314fc71ec90f",
+  "oracle_id": "4254c048-7207-4ca0-bd20-ebb418d9ed1a",
+  "multiverse_ids": [],
+  "mtgo_id": 92820,
+  "name": "Hurl Through Hell",
+  "lang": "en",
+  "released_at": "2021-10-11",
+  "uri": "https://api.scryfall.com/cards/4eed3236-30f9-4e50-8af1-314fc71ec90f",
+  "scryfall_uri": "https://scryfall.com/card/prm/92820/hurl-through-hell?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/e/4eed3236-30f9-4e50-8af1-314fc71ec90f.jpg?1681086933",
+    "normal": "https://cards.scryfall.io/normal/front/4/e/4eed3236-30f9-4e50-8af1-314fc71ec90f.jpg?1681086933",
+    "large": "https://cards.scryfall.io/large/front/4/e/4eed3236-30f9-4e50-8af1-314fc71ec90f.jpg?1681086933",
+    "png": "https://cards.scryfall.io/png/front/4/e/4eed3236-30f9-4e50-8af1-314fc71ec90f.png?1681086933",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/e/4eed3236-30f9-4e50-8af1-314fc71ec90f.jpg?1681086933",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/e/4eed3236-30f9-4e50-8af1-314fc71ec90f.jpg?1681086933"
+  },
+  "mana_cost": "{2}{B}{R}",
+  "cmc": 4,
+  "type_line": "Instant",
+  "oracle_text": "Exile target creature. Until the end of your next turn, you may cast that card and you may spend mana as though it were mana of any color to cast that spell.",
+  "colors": [
+    "B",
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4eed3236-30f9-4e50-8af1-314fc71ec90f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4254c048-7207-4ca0-bd20-ebb418d9ed1a&unique=prints",
+  "collector_number": "92820",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Olena Richards",
+  "artist_ids": [
+    "fad4282c-49d1-4b5b-be1d-713369fc8bc8"
+  ],
+  "illustration_id": "725836fa-868f-4dd1-b6a9-aa68ab4d7f50",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4814,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "11.87"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHurl%2BThrough%2BHell",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHurl%2BThrough%2BHell",
+    "edhrec": "https://edhrec.com/route/?cc=Hurl+Through+Hell"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DHurl%2BThrough%2BHell%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hurl+Through+Hell&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/92820?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

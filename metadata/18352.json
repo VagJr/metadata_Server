@@ -1,0 +1,118 @@
+{
+  "object": "card",
+  "id": "2b272d40-791f-4c2b-8e0c-785f6f8a42e7",
+  "oracle_id": "339a7418-9a29-4eae-a3c2-ea590d175936",
+  "multiverse_ids": [
+    606688
+  ],
+  "arena_id": 86114,
+  "name": "Imprisoned in the Moon",
+  "lang": "en",
+  "released_at": "2023-03-21",
+  "uri": "https://api.scryfall.com/cards/2b272d40-791f-4c2b-8e0c-785f6f8a42e7",
+  "scryfall_uri": "https://scryfall.com/card/sir/74/imprisoned-in-the-moon?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/b/2b272d40-791f-4c2b-8e0c-785f6f8a42e7.jpg?1678944985",
+    "normal": "https://cards.scryfall.io/normal/front/2/b/2b272d40-791f-4c2b-8e0c-785f6f8a42e7.jpg?1678944985",
+    "large": "https://cards.scryfall.io/large/front/2/b/2b272d40-791f-4c2b-8e0c-785f6f8a42e7.jpg?1678944985",
+    "png": "https://cards.scryfall.io/png/front/2/b/2b272d40-791f-4c2b-8e0c-785f6f8a42e7.png?1678944985",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/b/2b272d40-791f-4c2b-8e0c-785f6f8a42e7.jpg?1678944985",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/b/2b272d40-791f-4c2b-8e0c-785f6f8a42e7.jpg?1678944985"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant creature, land, or planeswalker\nEnchanted permanent is a colorless land with \"{T}: Add {C}\" and loses all other card types and abilities.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c3694ff5-7b12-4f29-8d82-2c9b553ac60e",
+  "set": "sir",
+  "set_name": "Shadows over Innistrad Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/c3694ff5-7b12-4f29-8d82-2c9b553ac60e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asir&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sir?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2b272d40-791f-4c2b-8e0c-785f6f8a42e7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A339a7418-9a29-4eae-a3c2-ea590d175936&unique=prints",
+  "collector_number": "74",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ryan Alexander Lee",
+  "artist_ids": [
+    "f4d194b4-958a-4830-8d87-1a84e0b9ffbc"
+  ],
+  "illustration_id": "72e37375-3bd9-471a-aabe-7321b716d670",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 762,
+  "penny_rank": 6853,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=606688&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DImprisoned%2Bin%2Bthe%2BMoon",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DImprisoned%2Bin%2Bthe%2BMoon",
+    "edhrec": "https://edhrec.com/route/?cc=Imprisoned+in+the+Moon"
+  }
+}

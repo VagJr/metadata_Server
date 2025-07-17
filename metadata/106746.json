@@ -1,0 +1,151 @@
+{
+  "object": "card",
+  "id": "fc676894-59de-4e69-a110-5e4def877c58",
+  "oracle_id": "67afcfef-3f0c-4823-b690-01732f28a005",
+  "multiverse_ids": [
+    636233
+  ],
+  "mtgo_id": 119662,
+  "tcgplayer_id": 526006,
+  "cardmarket_id": 738130,
+  "name": "Revive the Shire",
+  "lang": "en",
+  "released_at": "2023-11-03",
+  "uri": "https://api.scryfall.com/cards/fc676894-59de-4e69-a110-5e4def877c58",
+  "scryfall_uri": "https://scryfall.com/card/ltr/636/revive-the-shire?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/c/fc676894-59de-4e69-a110-5e4def877c58.jpg?1695448344",
+    "normal": "https://cards.scryfall.io/normal/front/f/c/fc676894-59de-4e69-a110-5e4def877c58.jpg?1695448344",
+    "large": "https://cards.scryfall.io/large/front/f/c/fc676894-59de-4e69-a110-5e4def877c58.jpg?1695448344",
+    "png": "https://cards.scryfall.io/png/front/f/c/fc676894-59de-4e69-a110-5e4def877c58.png?1695448344",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/c/fc676894-59de-4e69-a110-5e4def877c58.jpg?1695448344",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/c/fc676894-59de-4e69-a110-5e4def877c58.jpg?1695448344"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "oracle_text": "Return target permanent card from your graveyard to your hand. Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Food"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "fc676894-59de-4e69-a110-5e4def877c58",
+      "component": "combo_piece",
+      "name": "Revive the Shire",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/fc676894-59de-4e69-a110-5e4def877c58"
+    },
+    {
+      "object": "related_card",
+      "id": "4a029bdc-92e3-4d85-8af5-e33429a5f017",
+      "component": "token",
+      "name": "Food",
+      "type_line": "Token Artifact — Food",
+      "uri": "https://api.scryfall.com/cards/4a029bdc-92e3-4d85-8af5-e33429a5f017"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "08078706-ac5d-439b-8f01-894d38751367",
+  "set": "ltr",
+  "set_name": "The Lord of the Rings: Tales of Middle-earth",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/08078706-ac5d-439b-8f01-894d38751367",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/fc676894-59de-4e69-a110-5e4def877c58/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A67afcfef-3f0c-4823-b690-01732f28a005&unique=prints",
+  "collector_number": "636",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "In the Party Field, a beautiful young sapling leaped up: it was indeed a *mallorn*, and it was the wonder of the neighborhood.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Craig Elliott",
+  "artist_ids": [
+    "b376cbb6-e0d5-41e9-bbb2-9fbd40c71147"
+  ],
+  "illustration_id": "a8bcc134-55bf-4082-85c2-848c20b8d0d6",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "silverfoil",
+    "scroll",
+    "boosterfun"
+  ],
+  "edhrec_rank": 2526,
+  "prices": {
+    "usd": "0.37",
+    "usd_foil": "0.48",
+    "usd_etched": null,
+    "eur": "0.42",
+    "eur_foil": null,
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=636233&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRevive%2Bthe%2BShire",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRevive%2Bthe%2BShire",
+    "edhrec": "https://edhrec.com/route/?cc=Revive+the+Shire"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F526006%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=738130&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/119662?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

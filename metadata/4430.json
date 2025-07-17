@@ -1,0 +1,117 @@
+{
+  "object": "card",
+  "id": "0a396152-0b6d-4b5e-8dcd-4d77df0b7ae4",
+  "oracle_id": "f8d227b6-1627-4ea1-b815-887094497abf",
+  "multiverse_ids": [],
+  "tcgplayer_id": 284414,
+  "name": "Probe",
+  "lang": "en",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/0a396152-0b6d-4b5e-8dcd-4d77df0b7ae4",
+  "scryfall_uri": "https://scryfall.com/card/plst/INV-66/probe?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/a/0a396152-0b6d-4b5e-8dcd-4d77df0b7ae4.jpg?1661820371",
+    "normal": "https://cards.scryfall.io/normal/front/0/a/0a396152-0b6d-4b5e-8dcd-4d77df0b7ae4.jpg?1661820371",
+    "large": "https://cards.scryfall.io/large/front/0/a/0a396152-0b6d-4b5e-8dcd-4d77df0b7ae4.jpg?1661820371",
+    "png": "https://cards.scryfall.io/png/front/0/a/0a396152-0b6d-4b5e-8dcd-4d77df0b7ae4.png?1661820371",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/a/0a396152-0b6d-4b5e-8dcd-4d77df0b7ae4.jpg?1661820371",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/a/0a396152-0b6d-4b5e-8dcd-4d77df0b7ae4.jpg?1661820371"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Sorcery",
+  "oracle_text": "Kicker {1}{B} (You may pay an additional {1}{B} as you cast this spell.)\nDraw three cards, then discard two cards. If this spell was kicked, target player discards two cards.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [
+    "Kicker"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0a396152-0b6d-4b5e-8dcd-4d77df0b7ae4/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af8d227b6-1627-4ea1-b815-887094497abf&unique=prints",
+  "collector_number": "INV-66",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Eric Peterson",
+  "artist_ids": [
+    "0fc26d3b-4c0e-41d1-8eb3-286ab55a2328"
+  ],
+  "illustration_id": "d49b632a-208c-479e-8d29-93870696dfff",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 23429,
+  "prices": {
+    "usd": "0.07",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DProbe",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DProbe",
+    "edhrec": "https://edhrec.com/route/?cc=Probe"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F284414%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Probe&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Probe&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

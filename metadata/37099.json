@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "57bec76f-243b-41b6-9e47-17a61f18ae53",
+  "oracle_id": "c2e54e13-dad5-4d01-850f-a1735eea54ae",
+  "multiverse_ids": [
+    526706
+  ],
+  "tcgplayer_id": 239706,
+  "cardmarket_id": 566266,
+  "name": "Mystic Redaction",
+  "lang": "en",
+  "released_at": "2021-06-18",
+  "uri": "https://api.scryfall.com/cards/57bec76f-243b-41b6-9e47-17a61f18ae53",
+  "scryfall_uri": "https://scryfall.com/card/mh2/338/mystic-redaction?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/7/57bec76f-243b-41b6-9e47-17a61f18ae53.jpg?1626101357",
+    "normal": "https://cards.scryfall.io/normal/front/5/7/57bec76f-243b-41b6-9e47-17a61f18ae53.jpg?1626101357",
+    "large": "https://cards.scryfall.io/large/front/5/7/57bec76f-243b-41b6-9e47-17a61f18ae53.jpg?1626101357",
+    "png": "https://cards.scryfall.io/png/front/5/7/57bec76f-243b-41b6-9e47-17a61f18ae53.png?1626101357",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/7/57bec76f-243b-41b6-9e47-17a61f18ae53.jpg?1626101357",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/7/57bec76f-243b-41b6-9e47-17a61f18ae53.jpg?1626101357"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Enchantment",
+  "oracle_text": "At the beginning of your upkeep, scry 1.\nWhenever you discard a card, each opponent mills two cards. (They put the top two cards of their library into their graveyard.)",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Mill",
+    "Scry"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c1c7eb8c-f205-40ab-a609-767cb296544e",
+  "set": "mh2",
+  "set_name": "Modern Horizons 2",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/c1c7eb8c-f205-40ab-a609-767cb296544e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/57bec76f-243b-41b6-9e47-17a61f18ae53/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac2e54e13-dad5-4d01-850f-a1735eea54ae&unique=prints",
+  "collector_number": "338",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Action: Show GLOWING BLUE GLYPHS being TORN out of a GRIMOIRE, leaving BLANK PAGES behind.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Donato Giancola",
+  "artist_ids": [
+    "90332db2-aecb-4d79-917b-95cbeb8d0cb6"
+  ],
+  "illustration_id": "68875d51-9de8-4851-94a7-911f62c9507f",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 11215,
+  "penny_rank": 13971,
+  "preview": {
+    "source": "Zio Garbe",
+    "source_uri": "https://www.youtube.com/watch?v=Ze1nRgVFtTQ",
+    "previewed_at": "2021-05-26"
+  },
+  "prices": {
+    "usd": "0.11",
+    "usd_foil": "0.14",
+    "usd_etched": null,
+    "eur": "0.08",
+    "eur_foil": "0.17",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=526706&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMystic%2BRedaction",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMystic%2BRedaction",
+    "edhrec": "https://edhrec.com/route/?cc=Mystic+Redaction"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F239706%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=566266&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mystic+Redaction&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

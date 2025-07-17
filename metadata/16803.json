@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "2765545b-5e2d-4d4c-b126-93415774a2e9",
+  "oracle_id": "94a844d2-0574-45a7-b347-e0e329767c42",
+  "multiverse_ids": [
+    632399
+  ],
+  "mtgo_id": 115972,
+  "tcgplayer_id": 509556,
+  "cardmarket_id": 728520,
+  "name": "Necropotence",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/2765545b-5e2d-4d4c-b126-93415774a2e9",
+  "scryfall_uri": "https://scryfall.com/card/wot/74/necropotence?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/7/2765545b-5e2d-4d4c-b126-93415774a2e9.jpg?1692933148",
+    "normal": "https://cards.scryfall.io/normal/front/2/7/2765545b-5e2d-4d4c-b126-93415774a2e9.jpg?1692933148",
+    "large": "https://cards.scryfall.io/large/front/2/7/2765545b-5e2d-4d4c-b126-93415774a2e9.jpg?1692933148",
+    "png": "https://cards.scryfall.io/png/front/2/7/2765545b-5e2d-4d4c-b126-93415774a2e9.png?1692933148",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/7/2765545b-5e2d-4d4c-b126-93415774a2e9.jpg?1692933148",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/7/2765545b-5e2d-4d4c-b126-93415774a2e9.jpg?1692933148"
+  },
+  "mana_cost": "{B}{B}{B}",
+  "cmc": 3,
+  "type_line": "Enchantment",
+  "oracle_text": "Skip your draw step.\nWhenever you discard a card, exile that card from your graveyard.\nPay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "banned",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "banned",
+    "pauper": "not_legal",
+    "vintage": "restricted",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "banned",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": true,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d1eba841-452b-4f81-88c9-b32973ac8176",
+  "set": "wot",
+  "set_name": "Wilds of Eldraine: Enchanting Tales",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/d1eba841-452b-4f81-88c9-b32973ac8176",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awot&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/wot?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2765545b-5e2d-4d4c-b126-93415774a2e9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A94a844d2-0574-45a7-b347-e0e329767c42&unique=prints",
+  "collector_number": "74",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kuregure",
+  "artist_ids": [
+    "8fd9e29d-2782-493d-8a3b-acae108e1c19"
+  ],
+  "illustration_id": "7ab50c93-57e6-408d-9225-b24265da1228",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 479,
+  "penny_rank": 43,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/news/announcements/fairy-tale-plane-anime-borderless-confetti-foil-cards-wilds-of-eldraine",
+    "previewed_at": "2023-07-28"
+  },
+  "prices": {
+    "usd": "21.18",
+    "usd_foil": "57.73",
+    "usd_etched": null,
+    "eur": "15.70",
+    "eur_foil": "32.49",
+    "tix": "0.71"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=632399&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNecropotence",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNecropotence",
+    "edhrec": "https://edhrec.com/route/?cc=Necropotence"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F509556%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=728520&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/115972?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

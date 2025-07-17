@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "7d2ef879-e9c1-4eb3-be93-a4c6e4651747",
+  "oracle_id": "9e66f2d6-cc51-4747-914d-2c04e439da2b",
+  "multiverse_ids": [],
+  "tcgplayer_id": 583238,
+  "name": "Scragnoth",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/7d2ef879-e9c1-4eb3-be93-a4c6e4651747",
+  "scryfall_uri": "https://scryfall.com/card/plst/TMP-253/scragnoth?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/d/7d2ef879-e9c1-4eb3-be93-a4c6e4651747.jpg?1723443748",
+    "normal": "https://cards.scryfall.io/normal/front/7/d/7d2ef879-e9c1-4eb3-be93-a4c6e4651747.jpg?1723443748",
+    "large": "https://cards.scryfall.io/large/front/7/d/7d2ef879-e9c1-4eb3-be93-a4c6e4651747.jpg?1723443748",
+    "png": "https://cards.scryfall.io/png/front/7/d/7d2ef879-e9c1-4eb3-be93-a4c6e4651747.png?1723443748",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/d/7d2ef879-e9c1-4eb3-be93-a4c6e4651747.jpg?1723443748",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/d/7d2ef879-e9c1-4eb3-be93-a4c6e4651747.jpg?1723443748"
+  },
+  "mana_cost": "{4}{G}",
+  "cmc": 5,
+  "type_line": "Creature — Beast",
+  "oracle_text": "This spell can't be countered.\nProtection from blue",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Protection"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7d2ef879-e9c1-4eb3-be93-a4c6e4651747/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9e66f2d6-cc51-4747-914d-2c04e439da2b&unique=prints",
+  "collector_number": "TMP-253",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "It possesses no intelligence, only counter-intelligence.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jeff Laubenstein",
+  "artist_ids": [
+    "7c5b6391-2a5a-4b78-b19d-2b181149cb0f"
+  ],
+  "illustration_id": "60f0f407-1b72-487c-a7e1-0621e6b9b947",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 27974,
+  "penny_rank": 12253,
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DScragnoth",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DScragnoth",
+    "edhrec": "https://edhrec.com/route/?cc=Scragnoth"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F583238%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Scragnoth&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Scragnoth&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

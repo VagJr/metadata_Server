@@ -1,0 +1,174 @@
+{
+  "object": "card",
+  "id": "e73d8a84-2c0d-423c-89c7-71de0af9e1ac",
+  "oracle_id": "1080c5b5-6651-4c6a-93e6-099fbe389e26",
+  "multiverse_ids": [
+    473059
+  ],
+  "mtgo_id": 78308,
+  "arena_id": 70244,
+  "tcgplayer_id": 198749,
+  "cardmarket_id": 399979,
+  "name": "Murderous Rider // Swift End",
+  "lang": "en",
+  "released_at": "2019-10-04",
+  "uri": "https://api.scryfall.com/cards/e73d8a84-2c0d-423c-89c7-71de0af9e1ac",
+  "scryfall_uri": "https://scryfall.com/card/eld/97/murderous-rider-swift-end?utm_source=api",
+  "layout": "adventure",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/7/e73d8a84-2c0d-423c-89c7-71de0af9e1ac.jpg?1717678996",
+    "normal": "https://cards.scryfall.io/normal/front/e/7/e73d8a84-2c0d-423c-89c7-71de0af9e1ac.jpg?1717678996",
+    "large": "https://cards.scryfall.io/large/front/e/7/e73d8a84-2c0d-423c-89c7-71de0af9e1ac.jpg?1717678996",
+    "png": "https://cards.scryfall.io/png/front/e/7/e73d8a84-2c0d-423c-89c7-71de0af9e1ac.png?1717678996",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/7/e73d8a84-2c0d-423c-89c7-71de0af9e1ac.jpg?1717678996",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/7/e73d8a84-2c0d-423c-89c7-71de0af9e1ac.jpg?1717678996"
+  },
+  "mana_cost": "{1}{B}{B} // {1}{B}{B}",
+  "cmc": 3,
+  "type_line": "Creature — Zombie Knight // Instant — Adventure",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Lifelink"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Murderous Rider",
+      "mana_cost": "{1}{B}{B}",
+      "type_line": "Creature — Zombie Knight",
+      "oracle_text": "Lifelink\nWhen this creature dies, put it on the bottom of its owner's library.",
+      "power": "2",
+      "toughness": "3",
+      "artist": "Josh Hass",
+      "artist_id": "8fa1fdf0-96d6-46f4-a7ff-b1c0257c3735",
+      "illustration_id": "a97fba85-e4ea-4373-8bdd-6085618953ca"
+    },
+    {
+      "object": "card_face",
+      "name": "Swift End",
+      "mana_cost": "{1}{B}{B}",
+      "type_line": "Instant — Adventure",
+      "oracle_text": "Destroy target creature or planeswalker. You lose 2 life. (Then exile this card. You may cast the creature later from exile.)",
+      "artist": "Josh Hass",
+      "artist_id": "8fa1fdf0-96d6-46f4-a7ff-b1c0257c3735"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "49c98e70-e8fe-4fea-b1d0-e7560780fda9",
+      "component": "combo_piece",
+      "name": "Murderous Rider // Swift End",
+      "type_line": "Creature — Zombie Knight // Instant — Adventure",
+      "uri": "https://api.scryfall.com/cards/49c98e70-e8fe-4fea-b1d0-e7560780fda9"
+    },
+    {
+      "object": "related_card",
+      "id": "a8d50cf9-03e6-467a-aadf-84a24106ffa9",
+      "component": "combo_piece",
+      "name": "On an Adventure",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/a8d50cf9-03e6-467a-aadf-84a24106ffa9"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a90a7b2f-9dd8-4fc7-9f7d-8ea2797ec782",
+  "set": "eld",
+  "set_name": "Throne of Eldraine",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/a90a7b2f-9dd8-4fc7-9f7d-8ea2797ec782",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aeld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/eld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e73d8a84-2c0d-423c-89c7-71de0af9e1ac/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1080c5b5-6651-4c6a-93e6-099fbe389e26&unique=prints",
+  "collector_number": "97",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Josh Hass",
+  "artist_ids": [
+    "8fa1fdf0-96d6-46f4-a7ff-b1c0257c3735"
+  ],
+  "illustration_id": "a97fba85-e4ea-4373-8bdd-6085618953ca",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1315,
+  "penny_rank": 601,
+  "preview": {
+    "source": "Star City Games",
+    "source_uri": "https://twitter.com/StarCityGames/status/1171077240102313988",
+    "previewed_at": "2019-09-09"
+  },
+  "prices": {
+    "usd": "0.41",
+    "usd_foil": "1.06",
+    "usd_etched": null,
+    "eur": "0.48",
+    "eur_foil": "1.49",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMurderous%2BRider%2B%252F%252F%2BSwift%2BEnd",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMurderous%2BRider%2B%252F%252F%2BSwift%2BEnd",
+    "edhrec": "https://edhrec.com/route/?cc=Murderous+Rider"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F198749%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=399979&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/78308?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

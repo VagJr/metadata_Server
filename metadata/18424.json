@@ -1,0 +1,117 @@
+{
+  "object": "card",
+  "id": "2b5483a6-1948-4452-861a-e5b815a57e2a",
+  "oracle_id": "b828251c-86a9-454f-9852-d0876d0f5153",
+  "multiverse_ids": [],
+  "tcgplayer_id": 275216,
+  "cardmarket_id": 662628,
+  "name": "Wizard's Retort",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/2b5483a6-1948-4452-861a-e5b815a57e2a",
+  "scryfall_uri": "https://scryfall.com/card/plst/DOM-75/wizards-retort?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/b/2b5483a6-1948-4452-861a-e5b815a57e2a.jpg?1654713710",
+    "normal": "https://cards.scryfall.io/normal/front/2/b/2b5483a6-1948-4452-861a-e5b815a57e2a.jpg?1654713710",
+    "large": "https://cards.scryfall.io/large/front/2/b/2b5483a6-1948-4452-861a-e5b815a57e2a.jpg?1654713710",
+    "png": "https://cards.scryfall.io/png/front/2/b/2b5483a6-1948-4452-861a-e5b815a57e2a.png?1654713710",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/b/2b5483a6-1948-4452-861a-e5b815a57e2a.jpg?1654713710",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/b/2b5483a6-1948-4452-861a-e5b815a57e2a.jpg?1654713710"
+  },
+  "mana_cost": "{1}{U}{U}",
+  "cmc": 3,
+  "type_line": "Instant",
+  "oracle_text": "This spell costs {1} less to cast if you control a Wizard.\nCounter target spell.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2b5483a6-1948-4452-861a-e5b815a57e2a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab828251c-86a9-454f-9852-d0876d0f5153&unique=prints",
+  "collector_number": "DOM-75",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"The second mage learned to dissipate blasts of lightning. Threat and response: thus did the study of magic progress.\"\n—Naban, dean of iteration",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Grzegorz Rutkowski",
+  "artist_ids": [
+    "b5f49d0d-8056-48e3-b614-090e656b4f9c"
+  ],
+  "illustration_id": "d4fd1dff-401c-43ed-81ec-91b51a04dfef",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 4257,
+  "penny_rank": 3527,
+  "prices": {
+    "usd": "0.26",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.17",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWizard%2527s%2BRetort",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWizard%2527s%2BRetort",
+    "edhrec": "https://edhrec.com/route/?cc=Wizard%27s+Retort"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F275216%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=662628&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wizard%27s+Retort&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

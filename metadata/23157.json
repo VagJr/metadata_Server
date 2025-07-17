@@ -1,0 +1,162 @@
+{
+  "object": "card",
+  "id": "36726ee1-b960-4f85-b648-dd3fe0c38e6f",
+  "oracle_id": "56e05b17-aa1d-483d-857c-4cab4f12aa8a",
+  "multiverse_ids": [
+    692493
+  ],
+  "mtgo_id": 137463,
+  "tcgplayer_id": 615198,
+  "cardmarket_id": 808025,
+  "name": "Triplicate Titan",
+  "lang": "en",
+  "released_at": "2025-02-14",
+  "uri": "https://api.scryfall.com/cards/36726ee1-b960-4f85-b648-dd3fe0c38e6f",
+  "scryfall_uri": "https://scryfall.com/card/drc/143/triplicate-titan?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/6/36726ee1-b960-4f85-b648-dd3fe0c38e6f.jpg?1738355994",
+    "normal": "https://cards.scryfall.io/normal/front/3/6/36726ee1-b960-4f85-b648-dd3fe0c38e6f.jpg?1738355994",
+    "large": "https://cards.scryfall.io/large/front/3/6/36726ee1-b960-4f85-b648-dd3fe0c38e6f.jpg?1738355994",
+    "png": "https://cards.scryfall.io/png/front/3/6/36726ee1-b960-4f85-b648-dd3fe0c38e6f.png?1738355994",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/6/36726ee1-b960-4f85-b648-dd3fe0c38e6f.jpg?1738355994",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/6/36726ee1-b960-4f85-b648-dd3fe0c38e6f.jpg?1738355994"
+  },
+  "mana_cost": "{9}",
+  "cmc": 9,
+  "type_line": "Artifact Creature — Golem",
+  "oracle_text": "Flying, vigilance, trample\nWhen this creature dies, create a 3/3 colorless Golem artifact creature token with flying, a 3/3 colorless Golem artifact creature token with vigilance, and a 3/3 colorless Golem artifact creature token with trample.",
+  "power": "9",
+  "toughness": "9",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Flying",
+    "Vigilance",
+    "Trample"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "f3cf61ad-c9fb-405e-a0a9-0ab147a984b4",
+      "component": "token",
+      "name": "Golem",
+      "type_line": "Token Artifact Creature — Golem",
+      "uri": "https://api.scryfall.com/cards/f3cf61ad-c9fb-405e-a0a9-0ab147a984b4"
+    },
+    {
+      "object": "related_card",
+      "id": "ddd97e96-5757-4226-b3d0-b460406cd58f",
+      "component": "token",
+      "name": "Golem",
+      "type_line": "Token Artifact Creature — Golem",
+      "uri": "https://api.scryfall.com/cards/ddd97e96-5757-4226-b3d0-b460406cd58f"
+    },
+    {
+      "object": "related_card",
+      "id": "a73d4a82-b93f-49df-b1a7-cf4cc71d168a",
+      "component": "token",
+      "name": "Golem",
+      "type_line": "Token Artifact Creature — Golem",
+      "uri": "https://api.scryfall.com/cards/a73d4a82-b93f-49df-b1a7-cf4cc71d168a"
+    },
+    {
+      "object": "related_card",
+      "id": "36726ee1-b960-4f85-b648-dd3fe0c38e6f",
+      "component": "combo_piece",
+      "name": "Triplicate Titan",
+      "type_line": "Artifact Creature — Golem",
+      "uri": "https://api.scryfall.com/cards/36726ee1-b960-4f85-b648-dd3fe0c38e6f"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d33ef7a4-41bb-4f16-bad3-b3ee13c257e6",
+  "set": "drc",
+  "set_name": "Aetherdrift Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d33ef7a4-41bb-4f16-bad3-b3ee13c257e6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/drc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/36726ee1-b960-4f85-b648-dd3fe0c38e6f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A56e05b17-aa1d-483d-857c-4cab4f12aa8a&unique=prints",
+  "collector_number": "143",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Andrew Mar",
+  "artist_ids": [
+    "adad79bf-cd52-456a-b170-740ed8bff0fc"
+  ],
+  "illustration_id": "2d7467b9-e499-49fc-b2bc-044a6e171895",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2165,
+  "preview": {
+    "source": "The Command Zone",
+    "source_uri": "https://www.youtube.com/watch?v=km1f1W0Tl6k",
+    "previewed_at": "2025-01-23"
+  },
+  "prices": {
+    "usd": "0.58",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "1.00",
+    "eur_foil": null,
+    "tix": "1.59"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=692493&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTriplicate%2BTitan",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTriplicate%2BTitan",
+    "edhrec": "https://edhrec.com/route/?cc=Triplicate+Titan"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F615198%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=808025&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/137463?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

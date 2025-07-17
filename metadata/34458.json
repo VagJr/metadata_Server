@@ -1,0 +1,117 @@
+{
+  "object": "card",
+  "id": "519c19c7-9514-47f9-9174-de0df171a03e",
+  "oracle_id": "24108160-e72b-4451-b1b1-b2b3ac3ede85",
+  "multiverse_ids": [],
+  "mtgo_id": 103468,
+  "name": "Threats Undetected",
+  "lang": "en",
+  "released_at": "2022-11-28",
+  "uri": "https://api.scryfall.com/cards/519c19c7-9514-47f9-9174-de0df171a03e",
+  "scryfall_uri": "https://scryfall.com/card/prm/103468/threats-undetected?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/1/519c19c7-9514-47f9-9174-de0df171a03e.jpg?1681137454",
+    "normal": "https://cards.scryfall.io/normal/front/5/1/519c19c7-9514-47f9-9174-de0df171a03e.jpg?1681137454",
+    "large": "https://cards.scryfall.io/large/front/5/1/519c19c7-9514-47f9-9174-de0df171a03e.jpg?1681137454",
+    "png": "https://cards.scryfall.io/png/front/5/1/519c19c7-9514-47f9-9174-de0df171a03e.png?1681137454",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/1/519c19c7-9514-47f9-9174-de0df171a03e.jpg?1681137454",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/1/519c19c7-9514-47f9-9174-de0df171a03e.jpg?1681137454"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Sorcery",
+  "oracle_text": "Search your library for up to four creature cards with different powers and reveal them. An opponent chooses two of those cards. Shuffle the chosen cards into your library and put the rest into your hand.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/519c19c7-9514-47f9-9174-de0df171a03e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A24108160-e72b-4451-b1b1-b2b3ac3ede85&unique=prints",
+  "collector_number": "103468",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Randy Vargas",
+  "artist_ids": [
+    "d20672ca-0555-4238-a984-fd171d36b247"
+  ],
+  "illustration_id": "52d430a0-fbee-4800-b2f2-c65adb95bb4e",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 7127,
+  "penny_rank": 7306,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThreats%2BUndetected",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThreats%2BUndetected",
+    "edhrec": "https://edhrec.com/route/?cc=Threats+Undetected"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DThreats%2BUndetected%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Threats+Undetected&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/103468?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

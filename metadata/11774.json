@@ -1,0 +1,160 @@
+{
+  "object": "card",
+  "id": "1b5fb738-ce58-4309-9068-53d01d1fb45e",
+  "oracle_id": "97652492-7906-4d79-983c-fa1dc1239eba",
+  "multiverse_ids": [],
+  "tcgplayer_id": 492938,
+  "name": "Sheoldred // The True Scriptures",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/1b5fb738-ce58-4309-9068-53d01d1fb45e",
+  "scryfall_uri": "https://scryfall.com/card/pmom/125s/sheoldred-the-true-scriptures?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Phyrexian Praetor // Enchantment — Saga",
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Transform",
+    "Menace",
+    "Mill"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Sheoldred",
+      "mana_cost": "{3}{B}{B}",
+      "type_line": "Legendary Creature — Phyrexian Praetor",
+      "oracle_text": "Menace\nWhen Sheoldred enters, each opponent sacrifices a nontoken creature or planeswalker of their choice.\n{4}{B}: Exile Sheoldred, then return it to the battlefield transformed under its owner's control. Activate only as a sorcery and only if an opponent has eight or more cards in their graveyard.",
+      "colors": [
+        "B"
+      ],
+      "power": "4",
+      "toughness": "5",
+      "artist": "Ryan Pancoast",
+      "artist_id": "89cc9475-dda2-4d13-bf88-54b92867a25c",
+      "illustration_id": "bedfa581-6523-4ca3-ba1a-d9feaf07fe75",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/1/b/1b5fb738-ce58-4309-9068-53d01d1fb45e.jpg?1682599181",
+        "normal": "https://cards.scryfall.io/normal/front/1/b/1b5fb738-ce58-4309-9068-53d01d1fb45e.jpg?1682599181",
+        "large": "https://cards.scryfall.io/large/front/1/b/1b5fb738-ce58-4309-9068-53d01d1fb45e.jpg?1682599181",
+        "png": "https://cards.scryfall.io/png/front/1/b/1b5fb738-ce58-4309-9068-53d01d1fb45e.png?1682599181",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/1/b/1b5fb738-ce58-4309-9068-53d01d1fb45e.jpg?1682599181",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/1/b/1b5fb738-ce58-4309-9068-53d01d1fb45e.jpg?1682599181"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "The True Scriptures",
+      "mana_cost": "",
+      "type_line": "Enchantment — Saga",
+      "oracle_text": "(As this Saga enters and after your draw step, add a lore counter.)\nI — For each opponent, destroy up to one target creature or planeswalker that player controls.\nII — Each opponent discards three cards, then mills three cards.\nIII — Put all creature cards from all graveyards onto the battlefield under your control. Exile this Saga, then return it to the battlefield (front face up).",
+      "colors": [
+        "B"
+      ],
+      "color_indicator": [
+        "B"
+      ],
+      "artist": "Ryan Pancoast",
+      "artist_id": "89cc9475-dda2-4d13-bf88-54b92867a25c",
+      "illustration_id": "bfe179a8-e107-4752-94ea-e195fc52071d",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/1/b/1b5fb738-ce58-4309-9068-53d01d1fb45e.jpg?1682599181",
+        "normal": "https://cards.scryfall.io/normal/back/1/b/1b5fb738-ce58-4309-9068-53d01d1fb45e.jpg?1682599181",
+        "large": "https://cards.scryfall.io/large/back/1/b/1b5fb738-ce58-4309-9068-53d01d1fb45e.jpg?1682599181",
+        "png": "https://cards.scryfall.io/png/back/1/b/1b5fb738-ce58-4309-9068-53d01d1fb45e.png?1682599181",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/1/b/1b5fb738-ce58-4309-9068-53d01d1fb45e.jpg?1682599181",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/1/b/1b5fb738-ce58-4309-9068-53d01d1fb45e.jpg?1682599181"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4af147e4-cf99-4f32-a77e-d116412f469a",
+  "set": "pmom",
+  "set_name": "March of the Machine Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/4af147e4-cf99-4f32-a77e-d116412f469a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apmom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pmom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1b5fb738-ce58-4309-9068-53d01d1fb45e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A97652492-7906-4d79-983c-fa1dc1239eba&unique=prints",
+  "collector_number": "125s",
+  "digital": false,
+  "rarity": "mythic",
+  "artist": "Ryan Pancoast",
+  "artist_ids": [
+    "89cc9475-dda2-4d13-bf88-54b92867a25c"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 1367,
+  "prices": {
+    "usd": null,
+    "usd_foil": "27.60",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSheoldred%2B%252F%252F%2BThe%2BTrue%2BScriptures",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSheoldred%2B%252F%252F%2BThe%2BTrue%2BScriptures",
+    "edhrec": "https://edhrec.com/route/?cc=Sheoldred"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F492938%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sheoldred&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sheoldred&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

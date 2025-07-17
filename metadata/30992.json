@@ -1,0 +1,152 @@
+{
+  "object": "card",
+  "id": "495c0dbf-1671-40f9-809c-98ef6d588512",
+  "oracle_id": "0944ec2e-1dd9-459f-8f1d-667242cf52fe",
+  "multiverse_ids": [
+    489548
+  ],
+  "arena_id": 72420,
+  "tcgplayer_id": 216665,
+  "cardmarket_id": 474744,
+  "name": "Rapacious Dragon",
+  "lang": "en",
+  "released_at": "2020-07-17",
+  "uri": "https://api.scryfall.com/cards/495c0dbf-1671-40f9-809c-98ef6d588512",
+  "scryfall_uri": "https://scryfall.com/card/jmp/358/rapacious-dragon?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/9/495c0dbf-1671-40f9-809c-98ef6d588512.jpg?1601078508",
+    "normal": "https://cards.scryfall.io/normal/front/4/9/495c0dbf-1671-40f9-809c-98ef6d588512.jpg?1601078508",
+    "large": "https://cards.scryfall.io/large/front/4/9/495c0dbf-1671-40f9-809c-98ef6d588512.jpg?1601078508",
+    "png": "https://cards.scryfall.io/png/front/4/9/495c0dbf-1671-40f9-809c-98ef6d588512.png?1601078508",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/9/495c0dbf-1671-40f9-809c-98ef6d588512.jpg?1601078508",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/9/495c0dbf-1671-40f9-809c-98ef6d588512.jpg?1601078508"
+  },
+  "mana_cost": "{4}{R}",
+  "cmc": 5,
+  "type_line": "Creature — Dragon",
+  "oracle_text": "Flying\nWhen this creature enters, create two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flying",
+    "Treasure"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "495c0dbf-1671-40f9-809c-98ef6d588512",
+      "component": "combo_piece",
+      "name": "Rapacious Dragon",
+      "type_line": "Creature — Dragon",
+      "uri": "https://api.scryfall.com/cards/495c0dbf-1671-40f9-809c-98ef6d588512"
+    },
+    {
+      "object": "related_card",
+      "id": "73f94f72-a689-41ca-b1af-6004e2a57e9c",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/73f94f72-a689-41ca-b1af-6004e2a57e9c"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "0f6ccf25-a627-4263-86df-5757137f1696",
+  "set": "jmp",
+  "set_name": "Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/0f6ccf25-a627-4263-86df-5757137f1696",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ajmp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/jmp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/495c0dbf-1671-40f9-809c-98ef6d588512/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0944ec2e-1dd9-459f-8f1d-667242cf52fe&unique=prints",
+  "collector_number": "358",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Surely it won't notice if I take—\"\n—Theria the Sly, last words",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Johan Grenier",
+  "artist_ids": [
+    "465e38b8-7eed-4d22-a6d2-d3603ee0c00b"
+  ],
+  "illustration_id": "ef1d1be7-fb29-4158-ae65-c7c8810dadf7",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3251,
+  "penny_rank": 12225,
+  "prices": {
+    "usd": "0.14",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.11",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489548&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRapacious%2BDragon",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRapacious%2BDragon",
+    "edhrec": "https://edhrec.com/route/?cc=Rapacious+Dragon"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F216665%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=474744&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rapacious+Dragon&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

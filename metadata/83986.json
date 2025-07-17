@@ -1,0 +1,164 @@
+{
+  "object": "card",
+  "id": "c64bb94b-c1a7-4dd3-b2dc-b87d306d62ad",
+  "oracle_id": "5f2b3ea8-99ee-47a4-8a1c-4b27478d524c",
+  "multiverse_ids": [],
+  "mtgo_id": 140911,
+  "tcgplayer_id": 630908,
+  "cardmarket_id": 824252,
+  "name": "Zanarkand, Ancient Metropolis // Lasting Fayth",
+  "lang": "en",
+  "released_at": "2025-06-13",
+  "uri": "https://api.scryfall.com/cards/c64bb94b-c1a7-4dd3-b2dc-b87d306d62ad",
+  "scryfall_uri": "https://scryfall.com/card/fin/314/zanarkand-ancient-metropolis-lasting-fayth?utm_source=api",
+  "layout": "adventure",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/6/c64bb94b-c1a7-4dd3-b2dc-b87d306d62ad.jpg?1748706952",
+    "normal": "https://cards.scryfall.io/normal/front/c/6/c64bb94b-c1a7-4dd3-b2dc-b87d306d62ad.jpg?1748706952",
+    "large": "https://cards.scryfall.io/large/front/c/6/c64bb94b-c1a7-4dd3-b2dc-b87d306d62ad.jpg?1748706952",
+    "png": "https://cards.scryfall.io/png/front/c/6/c64bb94b-c1a7-4dd3-b2dc-b87d306d62ad.png?1748706952",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/6/c64bb94b-c1a7-4dd3-b2dc-b87d306d62ad.jpg?1748706952",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/6/c64bb94b-c1a7-4dd3-b2dc-b87d306d62ad.jpg?1748706952"
+  },
+  "mana_cost": "{4}{G}{G}",
+  "cmc": 0,
+  "type_line": "Land — Town // Sorcery — Adventure",
+  "colors": [],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "G"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Zanarkand, Ancient Metropolis",
+      "mana_cost": "{4}{G}{G}",
+      "type_line": "Land — Town",
+      "oracle_text": "This land enters tapped.\n{T}: Add {G}.",
+      "flavor_text": "A city dead for a thousand years. The end of Yuna's journey.",
+      "artist": "Jonas De Ro",
+      "artist_id": "561ebf9e-8d93-4b57-8156-8826d0c19601",
+      "illustration_id": "e6b2b4bf-af77-4fab-bfe9-31165a44b887"
+    },
+    {
+      "object": "card_face",
+      "name": "Lasting Fayth",
+      "mana_cost": "",
+      "type_line": "Sorcery — Adventure",
+      "oracle_text": "Create a 1/1 colorless Hero creature token. Put a +1/+1 counter on it for each land you control. (Then exile this card. You may play the land later from exile.)",
+      "artist": "Jonas De Ro",
+      "artist_id": "561ebf9e-8d93-4b57-8156-8826d0c19601"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "c64bb94b-c1a7-4dd3-b2dc-b87d306d62ad",
+      "component": "combo_piece",
+      "name": "Zanarkand, Ancient Metropolis // Lasting Fayth",
+      "type_line": "Land — Town // Sorcery — Adventure",
+      "uri": "https://api.scryfall.com/cards/c64bb94b-c1a7-4dd3-b2dc-b87d306d62ad"
+    },
+    {
+      "object": "related_card",
+      "id": "17fa0c1f-6737-487c-9101-0bec2e586795",
+      "component": "token",
+      "name": "Hero",
+      "type_line": "Token Creature — Hero",
+      "uri": "https://api.scryfall.com/cards/17fa0c1f-6737-487c-9101-0bec2e586795"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7beb4b7-e1ff-4d35-ab07-5700f17ea1ea",
+  "set": "fin",
+  "set_name": "Final Fantasy",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/d7beb4b7-e1ff-4d35-ab07-5700f17ea1ea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afin&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fin?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c64bb94b-c1a7-4dd3-b2dc-b87d306d62ad/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5f2b3ea8-99ee-47a4-8a1c-4b27478d524c&unique=prints",
+  "collector_number": "314",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "A city dead for a thousand years. The end of Yuna's journey.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jonas De Ro",
+  "artist_ids": [
+    "561ebf9e-8d93-4b57-8156-8826d0c19601"
+  ],
+  "illustration_id": "e6b2b4bf-af77-4fab-bfe9-31165a44b887",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "ffx",
+    "boosterfun"
+  ],
+  "edhrec_rank": 8675,
+  "prices": {
+    "usd": "2.06",
+    "usd_foil": "4.56",
+    "usd_etched": null,
+    "eur": "1.97",
+    "eur_foil": "2.56",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DZanarkand%252C%2BAncient%2BMetropolis%2B%252F%252F%2BLasting%2BFayth",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DZanarkand%252C%2BAncient%2BMetropolis%2B%252F%252F%2BLasting%2BFayth",
+    "edhrec": "https://edhrec.com/route/?cc=Zanarkand%2C+Ancient+Metropolis"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F630908%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=824252&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/140911?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "b2cb986c-2a8e-4a24-b5d4-4393edc0c347",
+  "oracle_id": "aa95501f-bb59-494a-bcae-b74ca10ad57e",
+  "multiverse_ids": [],
+  "tcgplayer_id": 512070,
+  "name": "Angelic Accord",
+  "lang": "en",
+  "released_at": "2023-08-10",
+  "uri": "https://api.scryfall.com/cards/b2cb986c-2a8e-4a24-b5d4-4393edc0c347",
+  "scryfall_uri": "https://scryfall.com/card/plst/M14-3/angelic-accord?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/2/b2cb986c-2a8e-4a24-b5d4-4393edc0c347.jpg?1693263893",
+    "normal": "https://cards.scryfall.io/normal/front/b/2/b2cb986c-2a8e-4a24-b5d4-4393edc0c347.jpg?1693263893",
+    "large": "https://cards.scryfall.io/large/front/b/2/b2cb986c-2a8e-4a24-b5d4-4393edc0c347.jpg?1693263893",
+    "png": "https://cards.scryfall.io/png/front/b/2/b2cb986c-2a8e-4a24-b5d4-4393edc0c347.png?1693263893",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/2/b2cb986c-2a8e-4a24-b5d4-4393edc0c347.jpg?1693263893",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/2/b2cb986c-2a8e-4a24-b5d4-4393edc0c347.jpg?1693263893"
+  },
+  "mana_cost": "{3}{W}",
+  "cmc": 4,
+  "type_line": "Enchantment",
+  "oracle_text": "At the beginning of each end step, if you gained 4 or more life this turn, create a 4/4 white Angel creature token with flying.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "bb6d0a6a-3007-47fc-a42c-3db311c9c41f",
+      "component": "token",
+      "name": "Angel",
+      "type_line": "Token Creature — Angel",
+      "uri": "https://api.scryfall.com/cards/bb6d0a6a-3007-47fc-a42c-3db311c9c41f"
+    },
+    {
+      "object": "related_card",
+      "id": "b2cb986c-2a8e-4a24-b5d4-4393edc0c347",
+      "component": "combo_piece",
+      "name": "Angelic Accord",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/b2cb986c-2a8e-4a24-b5d4-4393edc0c347"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b2cb986c-2a8e-4a24-b5d4-4393edc0c347/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aaa95501f-bb59-494a-bcae-b74ca10ad57e&unique=prints",
+  "collector_number": "M14-3",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "As demons are drawn to suffering, angels are drawn to acts of benevolence.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Michael C. Hayes",
+  "artist_ids": [
+    "d119119f-9ee1-4cf1-a01f-e90b6a042155"
+  ],
+  "illustration_id": "6274048e-a533-4e47-9cb1-de16e92e8f4b",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3049,
+  "penny_rank": 5552,
+  "prices": {
+    "usd": "2.37",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAngelic%2BAccord",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAngelic%2BAccord",
+    "edhrec": "https://edhrec.com/route/?cc=Angelic+Accord"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F512070%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Angelic+Accord&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Angelic+Accord&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

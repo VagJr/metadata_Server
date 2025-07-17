@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "149425d1-e0d3-4b97-b893-b8a5055e0e7d",
+  "oracle_id": "3ceee5c2-321c-49ec-ba49-1fac7f6ee2cc",
+  "multiverse_ids": [
+    604765
+  ],
+  "mtgo_id": 106021,
+  "tcgplayer_id": 479637,
+  "cardmarket_id": 693849,
+  "name": "Argentum Masticore",
+  "lang": "en",
+  "released_at": "2023-02-03",
+  "uri": "https://api.scryfall.com/cards/149425d1-e0d3-4b97-b893-b8a5055e0e7d",
+  "scryfall_uri": "https://scryfall.com/card/one/393/argentum-masticore?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/4/149425d1-e0d3-4b97-b893-b8a5055e0e7d.jpg?1675957423",
+    "normal": "https://cards.scryfall.io/normal/front/1/4/149425d1-e0d3-4b97-b893-b8a5055e0e7d.jpg?1675957423",
+    "large": "https://cards.scryfall.io/large/front/1/4/149425d1-e0d3-4b97-b893-b8a5055e0e7d.jpg?1675957423",
+    "png": "https://cards.scryfall.io/png/front/1/4/149425d1-e0d3-4b97-b893-b8a5055e0e7d.png?1675957423",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/4/149425d1-e0d3-4b97-b893-b8a5055e0e7d.jpg?1675957423",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/4/149425d1-e0d3-4b97-b893-b8a5055e0e7d.jpg?1675957423"
+  },
+  "mana_cost": "{5}",
+  "cmc": 5,
+  "type_line": "Artifact Creature — Phyrexian Masticore",
+  "oracle_text": "First strike, protection from multicolored\nAt the beginning of your upkeep, sacrifice this creature unless you discard a card. When you discard a card this way, destroy target nonland permanent an opponent controls with mana value less than or equal to the mana value of the discarded card.",
+  "power": "5",
+  "toughness": "5",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "First strike",
+    "Protection"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/149425d1-e0d3-4b97-b893-b8a5055e0e7d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3ceee5c2-321c-49ec-ba49-1fac7f6ee2cc&unique=prints",
+  "collector_number": "393",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Zack Stella",
+  "artist_ids": [
+    "17bc7f55-958b-43f4-bb40-09746d05b3f9"
+  ],
+  "illustration_id": "b52f1203-448b-466e-9565-cce0e1263c77",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 8721,
+  "penny_rank": 2940,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2023-01-26"
+  },
+  "prices": {
+    "usd": "0.26",
+    "usd_foil": "0.29",
+    "usd_etched": null,
+    "eur": "0.30",
+    "eur_foil": "0.39",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=604765&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DArgentum%2BMasticore",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DArgentum%2BMasticore",
+    "edhrec": "https://edhrec.com/route/?cc=Argentum+Masticore"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F479637%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=693849&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106021?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

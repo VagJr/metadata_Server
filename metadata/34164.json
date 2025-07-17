@@ -1,0 +1,148 @@
+{
+  "object": "card",
+  "id": "50e648a6-5f98-4ab8-96eb-9f788b32cb29",
+  "oracle_id": "413fb2db-f1a1-4d22-ac37-a52821d35ca2",
+  "multiverse_ids": [],
+  "tcgplayer_id": 625708,
+  "name": "Dragonback Assault",
+  "lang": "en",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/50e648a6-5f98-4ab8-96eb-9f788b32cb29",
+  "scryfall_uri": "https://scryfall.com/card/ptdm/179p/dragonback-assault?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/0/50e648a6-5f98-4ab8-96eb-9f788b32cb29.jpg?1744666502",
+    "normal": "https://cards.scryfall.io/normal/front/5/0/50e648a6-5f98-4ab8-96eb-9f788b32cb29.jpg?1744666502",
+    "large": "https://cards.scryfall.io/large/front/5/0/50e648a6-5f98-4ab8-96eb-9f788b32cb29.jpg?1744666502",
+    "png": "https://cards.scryfall.io/png/front/5/0/50e648a6-5f98-4ab8-96eb-9f788b32cb29.png?1744666502",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/0/50e648a6-5f98-4ab8-96eb-9f788b32cb29.jpg?1744666502",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/0/50e648a6-5f98-4ab8-96eb-9f788b32cb29.jpg?1744666502"
+  },
+  "mana_cost": "{3}{G}{U}{R}",
+  "cmc": 6,
+  "type_line": "Enchantment",
+  "oracle_text": "When this enchantment enters, it deals 3 damage to each creature and each planeswalker.\nLandfall — Whenever a land you control enters, create a 4/4 red Dragon creature token with flying.",
+  "colors": [
+    "G",
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "G",
+    "R",
+    "U"
+  ],
+  "keywords": [
+    "Landfall"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "f7d67da5-5b8e-4a12-b1e3-4d62a7239336",
+      "component": "combo_piece",
+      "name": "Dragonback Assault",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/f7d67da5-5b8e-4a12-b1e3-4d62a7239336"
+    },
+    {
+      "object": "related_card",
+      "id": "434c2965-82b8-4e89-bf45-a8fc093f9a21",
+      "component": "token",
+      "name": "Dragon",
+      "type_line": "Token Creature — Dragon",
+      "uri": "https://api.scryfall.com/cards/434c2965-82b8-4e89-bf45-a8fc093f9a21"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "f17bfc1b-a0dc-45df-9585-84d8d433124f",
+  "set": "ptdm",
+  "set_name": "Tarkir: Dragonstorm Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/f17bfc1b-a0dc-45df-9585-84d8d433124f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aptdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ptdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/50e648a6-5f98-4ab8-96eb-9f788b32cb29/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A413fb2db-f1a1-4d22-ac37-a52821d35ca2&unique=prints",
+  "collector_number": "179p",
+  "digital": false,
+  "rarity": "mythic",
+  "watermark": "temur",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ryan Pancoast",
+  "artist_ids": [
+    "89cc9475-dda2-4d13-bf88-54b92867a25c"
+  ],
+  "illustration_id": "4244a749-8a70-433a-80f2-127ab4c56f46",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "enchantment"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 8899,
+  "prices": {
+    "usd": "4.65",
+    "usd_foil": "10.67",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDragonback%2BAssault",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDragonback%2BAssault",
+    "edhrec": "https://edhrec.com/route/?cc=Dragonback+Assault"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F625708%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dragonback+Assault&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dragonback+Assault&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

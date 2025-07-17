@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "4b51445b-1590-4072-9712-5ca344b25e3e",
+  "oracle_id": "e2487868-f386-438e-a73f-b494f6d35fac",
+  "multiverse_ids": [
+    678431
+  ],
+  "mtgo_id": 133202,
+  "tcgplayer_id": 591819,
+  "cardmarket_id": 797380,
+  "name": "Genesis Wave",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/4b51445b-1590-4072-9712-5ca344b25e3e",
+  "scryfall_uri": "https://scryfall.com/card/fdn/334/genesis-wave?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/b/4b51445b-1590-4072-9712-5ca344b25e3e.jpg?1730489849",
+    "normal": "https://cards.scryfall.io/normal/front/4/b/4b51445b-1590-4072-9712-5ca344b25e3e.jpg?1730489849",
+    "large": "https://cards.scryfall.io/large/front/4/b/4b51445b-1590-4072-9712-5ca344b25e3e.jpg?1730489849",
+    "png": "https://cards.scryfall.io/png/front/4/b/4b51445b-1590-4072-9712-5ca344b25e3e.png?1730489849",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/b/4b51445b-1590-4072-9712-5ca344b25e3e.jpg?1730489849",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/b/4b51445b-1590-4072-9712-5ca344b25e3e.jpg?1730489849"
+  },
+  "mana_cost": "{X}{G}{G}{G}",
+  "cmc": 3,
+  "type_line": "Sorcery",
+  "oracle_text": "Reveal the top X cards of your library. You may put any number of permanent cards with mana value X or less from among them onto the battlefield. Then put all cards revealed this way that weren't put onto the battlefield into your graveyard.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set": "fdn",
+  "set_name": "Foundations",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afdn&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fdn?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4b51445b-1590-4072-9712-5ca344b25e3e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae2487868-f386-438e-a73f-b494f6d35fac&unique=prints",
+  "collector_number": "334",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Liiga Smilshkalne",
+  "artist_ids": [
+    "5a50ced2-b301-4195-8af4-f7e1bae07d28"
+  ],
+  "illustration_id": "419bea98-c0b6-4cb9-8ec0-322754dee9cf",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 1413,
+  "penny_rank": 2592,
+  "preview": {
+    "source": "Nerdist",
+    "source_uri": "https://nerdist.com/article/new-cards-from-magic-the-gathering-foundations-set-drake-hatcher-and-genesis-wave-exclusive-reveal/",
+    "previewed_at": "2024-10-30"
+  },
+  "prices": {
+    "usd": "1.30",
+    "usd_foil": "4.05",
+    "usd_etched": null,
+    "eur": "0.78",
+    "eur_foil": "2.34",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=678431&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGenesis%2BWave",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGenesis%2BWave",
+    "edhrec": "https://edhrec.com/route/?cc=Genesis+Wave"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F591819%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=797380&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/133202?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

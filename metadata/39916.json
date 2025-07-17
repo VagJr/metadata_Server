@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "5e31b79e-5f58-4af8-bd9c-c2c5e475c6e1",
+  "oracle_id": "9fa66e03-7b20-43f6-8c53-1ce18169c382",
+  "multiverse_ids": [
+    539120
+  ],
+  "tcgplayer_id": 248831,
+  "cardmarket_id": 575499,
+  "name": "Cleaver Skaab",
+  "lang": "en",
+  "released_at": "2021-09-24",
+  "uri": "https://api.scryfall.com/cards/5e31b79e-5f58-4af8-bd9c-c2c5e475c6e1",
+  "scryfall_uri": "https://scryfall.com/card/mic/49/cleaver-skaab?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/e/5e31b79e-5f58-4af8-bd9c-c2c5e475c6e1.jpg?1641686184",
+    "normal": "https://cards.scryfall.io/normal/front/5/e/5e31b79e-5f58-4af8-bd9c-c2c5e475c6e1.jpg?1641686184",
+    "large": "https://cards.scryfall.io/large/front/5/e/5e31b79e-5f58-4af8-bd9c-c2c5e475c6e1.jpg?1641686184",
+    "png": "https://cards.scryfall.io/png/front/5/e/5e31b79e-5f58-4af8-bd9c-c2c5e475c6e1.png?1641686184",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/e/5e31b79e-5f58-4af8-bd9c-c2c5e475c6e1.jpg?1641686184",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/e/5e31b79e-5f58-4af8-bd9c-c2c5e475c6e1.jpg?1641686184"
+  },
+  "mana_cost": "{3}{U}",
+  "cmc": 4,
+  "type_line": "Creature — Zombie Horror",
+  "oracle_text": "{3}, {T}, Sacrifice another Zombie: Create two tokens that are copies of the sacrificed creature.",
+  "power": "2",
+  "toughness": "4",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "09d6521e-438a-4d16-992f-f2ab27b26ce4",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/09d6521e-438a-4d16-992f-f2ab27b26ce4"
+    },
+    {
+      "object": "related_card",
+      "id": "5e31b79e-5f58-4af8-bd9c-c2c5e475c6e1",
+      "component": "combo_piece",
+      "name": "Cleaver Skaab",
+      "type_line": "Creature — Zombie Horror",
+      "uri": "https://api.scryfall.com/cards/5e31b79e-5f58-4af8-bd9c-c2c5e475c6e1"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "7f9a4deb-715e-47d2-afac-3843ef92f39b",
+  "set": "mic",
+  "set_name": "Midnight Hunt Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/7f9a4deb-715e-47d2-afac-3843ef92f39b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amic&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mic?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5e31b79e-5f58-4af8-bd9c-c2c5e475c6e1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9fa66e03-7b20-43f6-8c53-1ce18169c382&unique=prints",
+  "collector_number": "49",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Johann Bodin",
+  "artist_ids": [
+    "d92e2dd9-9ef6-43f6-81f8-df87f9066983"
+  ],
+  "illustration_id": "12925265-0929-4725-b93c-510aa437a70c",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 3503,
+  "prices": {
+    "usd": "5.43",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "7.26",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=539120&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCleaver%2BSkaab",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCleaver%2BSkaab",
+    "edhrec": "https://edhrec.com/route/?cc=Cleaver+Skaab"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F248831%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=575499&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cleaver+Skaab&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

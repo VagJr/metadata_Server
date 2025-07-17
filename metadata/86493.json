@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "cc377b42-7bd3-407a-98ec-40ff5606a883",
+  "oracle_id": "237fd4cb-7551-4f6e-98e1-3471fe7caea5",
+  "multiverse_ids": [],
+  "name": "Samurai",
+  "lang": "ja",
+  "released_at": "2023-01-27",
+  "uri": "https://api.scryfall.com/cards/cc377b42-7bd3-407a-98ec-40ff5606a883",
+  "scryfall_uri": "https://scryfall.com/card/wone/6/ja/samurai?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/c/cc377b42-7bd3-407a-98ec-40ff5606a883.jpg?1675604925",
+    "normal": "https://cards.scryfall.io/normal/front/c/c/cc377b42-7bd3-407a-98ec-40ff5606a883.jpg?1675604925",
+    "large": "https://cards.scryfall.io/large/front/c/c/cc377b42-7bd3-407a-98ec-40ff5606a883.jpg?1675604925",
+    "png": "https://cards.scryfall.io/png/front/c/c/cc377b42-7bd3-407a-98ec-40ff5606a883.png?1675604925",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/c/cc377b42-7bd3-407a-98ec-40ff5606a883.jpg?1675604925",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/c/cc377b42-7bd3-407a-98ec-40ff5606a883.jpg?1675604925"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Samurai",
+  "oracle_text": "Double strike",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Double strike"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "812159ca-6645-49dc-874b-dfb574d7ca09",
+      "component": "combo_piece",
+      "name": "The Eternal Wanderer",
+      "type_line": "Legendary Planeswalker",
+      "uri": "https://api.scryfall.com/cards/812159ca-6645-49dc-874b-dfb574d7ca09"
+    },
+    {
+      "object": "related_card",
+      "id": "cc377b42-7bd3-407a-98ec-40ff5606a883",
+      "component": "token",
+      "name": "Samurai",
+      "type_line": "Token Creature — Samurai",
+      "uri": "https://api.scryfall.com/cards/cc377b42-7bd3-407a-98ec-40ff5606a883"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "59fd7824-7248-420f-95bf-5c23bfbad276",
+  "set": "wone",
+  "set_name": "ONE Japanese Promo Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/59fd7824-7248-420f-95bf-5c23bfbad276",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/wone?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/cc377b42-7bd3-407a-98ec-40ff5606a883/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A237fd4cb-7551-4f6e-98e1-3471fe7caea5&unique=prints",
+  "collector_number": "6",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ryo Kamei",
+  "artist_ids": [
+    "2cc6be0b-2866-47ab-8978-69d83eaca42b"
+  ],
+  "illustration_id": "cfbdbc8b-af9e-4b22-a898-5779d9f0912d",
+  "border_color": "borderless",
+  "frame": "2015",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "plastic"
+  ],
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSamurai",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSamurai",
+    "edhrec": "https://edhrec.com/route/?cc=Samurai"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSamurai%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Samurai&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Samurai&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

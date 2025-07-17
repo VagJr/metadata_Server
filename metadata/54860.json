@@ -1,0 +1,138 @@
+{
+  "object": "card",
+  "id": "81df4f6c-fa65-43cd-bad1-4f255d75d1aa",
+  "oracle_id": "48981194-6465-4900-8cea-206f8ab5d00e",
+  "multiverse_ids": [
+    592735
+  ],
+  "tcgplayer_id": 455196,
+  "cardmarket_id": 686619,
+  "name": "Feed the Pack",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/81df4f6c-fa65-43cd-bad1-4f255d75d1aa",
+  "scryfall_uri": "https://scryfall.com/card/j22/657/feed-the-pack?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/1/81df4f6c-fa65-43cd-bad1-4f255d75d1aa.jpg?1675651453",
+    "normal": "https://cards.scryfall.io/normal/front/8/1/81df4f6c-fa65-43cd-bad1-4f255d75d1aa.jpg?1675651453",
+    "large": "https://cards.scryfall.io/large/front/8/1/81df4f6c-fa65-43cd-bad1-4f255d75d1aa.jpg?1675651453",
+    "png": "https://cards.scryfall.io/png/front/8/1/81df4f6c-fa65-43cd-bad1-4f255d75d1aa.png?1675651453",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/1/81df4f6c-fa65-43cd-bad1-4f255d75d1aa.jpg?1675651453",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/1/81df4f6c-fa65-43cd-bad1-4f255d75d1aa.jpg?1675651453"
+  },
+  "mana_cost": "{5}{G}",
+  "cmc": 6,
+  "type_line": "Enchantment",
+  "oracle_text": "At the beginning of your end step, you may sacrifice a nontoken creature. If you do, create X 2/2 green Wolf creature tokens, where X is the sacrificed creature's toughness.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "81df4f6c-fa65-43cd-bad1-4f255d75d1aa",
+      "component": "combo_piece",
+      "name": "Feed the Pack",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/81df4f6c-fa65-43cd-bad1-4f255d75d1aa"
+    },
+    {
+      "object": "related_card",
+      "id": "89b89a55-3ea2-4186-b946-06831bc16169",
+      "component": "token",
+      "name": "Wolf",
+      "type_line": "Token Creature — Wolf",
+      "uri": "https://api.scryfall.com/cards/89b89a55-3ea2-4186-b946-06831bc16169"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "247df475-e4ce-4e5e-9317-11892d2211e0",
+  "set": "j22",
+  "set_name": "Jumpstart 2022",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/247df475-e4ce-4e5e-9317-11892d2211e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj22&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j22?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/81df4f6c-fa65-43cd-bad1-4f255d75d1aa/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A48981194-6465-4900-8cea-206f8ab5d00e&unique=prints",
+  "collector_number": "657",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steve Prescott",
+  "artist_ids": [
+    "a1139fb8-41f5-4a9e-9a74-f662e1a23b35"
+  ],
+  "illustration_id": "95e53c0c-d2a4-43e5-96ef-481e24fd04c2",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 9478,
+  "penny_rank": 11668,
+  "prices": {
+    "usd": "0.40",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.40",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=592735&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFeed%2Bthe%2BPack",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFeed%2Bthe%2BPack",
+    "edhrec": "https://edhrec.com/route/?cc=Feed+the+Pack"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F455196%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=686619&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Feed+the+Pack&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

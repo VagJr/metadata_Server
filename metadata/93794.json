@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "dd6f3105-50d3-4067-a823-7603b75d8c8f",
+  "oracle_id": "591edddc-3736-44cf-9719-117c24ff3980",
+  "multiverse_ids": [],
+  "tcgplayer_id": 270619,
+  "cardmarket_id": 659267,
+  "name": "Make an Example",
+  "lang": "en",
+  "released_at": "2022-04-29",
+  "uri": "https://api.scryfall.com/cards/dd6f3105-50d3-4067-a823-7603b75d8c8f",
+  "scryfall_uri": "https://scryfall.com/card/pncc/37p/make-an-example?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/d/dd6f3105-50d3-4067-a823-7603b75d8c8f.jpg?1675618037",
+    "normal": "https://cards.scryfall.io/normal/front/d/d/dd6f3105-50d3-4067-a823-7603b75d8c8f.jpg?1675618037",
+    "large": "https://cards.scryfall.io/large/front/d/d/dd6f3105-50d3-4067-a823-7603b75d8c8f.jpg?1675618037",
+    "png": "https://cards.scryfall.io/png/front/d/d/dd6f3105-50d3-4067-a823-7603b75d8c8f.png?1675618037",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/d/dd6f3105-50d3-4067-a823-7603b75d8c8f.jpg?1675618037",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/d/dd6f3105-50d3-4067-a823-7603b75d8c8f.jpg?1675618037"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4,
+  "type_line": "Sorcery",
+  "oracle_text": "Each opponent separates the creatures they control into two piles. For each opponent, you choose one of their piles. Each opponent sacrifices the creatures in their chosen pile. (Piles can be empty.)",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8f92ac22-a208-41a8-b77c-ceffbeb6a255",
+  "set": "pncc",
+  "set_name": "New Capenna Commander Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/8f92ac22-a208-41a8-b77c-ceffbeb6a255",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apncc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pncc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/dd6f3105-50d3-4067-a823-7603b75d8c8f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A591edddc-3736-44cf-9719-117c24ff3980&unique=prints",
+  "collector_number": "37p",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "As the Adversary's influence grew, the conflicts between families escalated.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Igor Grechanyi",
+  "artist_ids": [
+    "b7937915-08e0-41c5-a025-2f08619731fa"
+  ],
+  "illustration_id": "ff879b3e-3b91-4d0d-923c-1a185643b5d1",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 4861,
+  "prices": {
+    "usd": null,
+    "usd_foil": "14.74",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "4.32",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMake%2Ban%2BExample",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMake%2Ban%2BExample",
+    "edhrec": "https://edhrec.com/route/?cc=Make+an+Example"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F270619%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=659267&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Make+an+Example&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

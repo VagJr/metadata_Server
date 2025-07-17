@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "8dc7ea40-f45d-4550-82f5-ded841d8746d",
+  "oracle_id": "0cc5aaa1-07bf-4872-ac72-303cef9fb143",
+  "multiverse_ids": [
+    632469
+  ],
+  "mtgo_id": 115906,
+  "arena_id": 87079,
+  "tcgplayer_id": 513400,
+  "cardmarket_id": 730290,
+  "name": "Dragon Mantle",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/8dc7ea40-f45d-4550-82f5-ded841d8746d",
+  "scryfall_uri": "https://scryfall.com/card/wot/41/dragon-mantle?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/d/8dc7ea40-f45d-4550-82f5-ded841d8746d.jpg?1692934665",
+    "normal": "https://cards.scryfall.io/normal/front/8/d/8dc7ea40-f45d-4550-82f5-ded841d8746d.jpg?1692934665",
+    "large": "https://cards.scryfall.io/large/front/8/d/8dc7ea40-f45d-4550-82f5-ded841d8746d.jpg?1692934665",
+    "png": "https://cards.scryfall.io/png/front/8/d/8dc7ea40-f45d-4550-82f5-ded841d8746d.png?1692934665",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/d/8dc7ea40-f45d-4550-82f5-ded841d8746d.jpg?1692934665",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/d/8dc7ea40-f45d-4550-82f5-ded841d8746d.jpg?1692934665"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant creature\nWhen this Aura enters, draw a card.\nEnchanted creature has \"{R}: This creature gets +1/+0 until end of turn.\"",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d1eba841-452b-4f81-88c9-b32973ac8176",
+  "set": "wot",
+  "set_name": "Wilds of Eldraine: Enchanting Tales",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/d1eba841-452b-4f81-88c9-b32973ac8176",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awot&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/wot?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8dc7ea40-f45d-4550-82f5-ded841d8746d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0cc5aaa1-07bf-4872-ac72-303cef9fb143&unique=prints",
+  "collector_number": "41",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"With reckless courage, Cade embraced the flame.\nHe vowed they wouldn't dare forget his name.\"\n—\"The Night of Dragonfire\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Harry Conway",
+  "artist_ids": [
+    "dcbdd839-90c5-4a9d-a9af-8fb4d6cd8928"
+  ],
+  "illustration_id": "c192d5d0-349d-47e2-9403-32dd3d80d092",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 5174,
+  "penny_rank": 6431,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/1905659212",
+    "previewed_at": "2023-08-22"
+  },
+  "prices": {
+    "usd": "0.11",
+    "usd_foil": "0.19",
+    "usd_etched": null,
+    "eur": "0.06",
+    "eur_foil": "0.21",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=632469&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDragon%2BMantle",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDragon%2BMantle",
+    "edhrec": "https://edhrec.com/route/?cc=Dragon+Mantle"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F513400%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=730290&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/115906?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "a5264ca3-755d-4219-a15c-4985fb2a76f1",
+  "oracle_id": "bd004c9d-771e-4e63-a97d-a2259c096af8",
+  "multiverse_ids": [],
+  "tcgplayer_id": 274551,
+  "cardmarket_id": 662227,
+  "name": "Morphic Pool",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/a5264ca3-755d-4219-a15c-4985fb2a76f1",
+  "scryfall_uri": "https://scryfall.com/card/pclb/357s/morphic-pool?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/5/a5264ca3-755d-4219-a15c-4985fb2a76f1.jpg?1687998160",
+    "normal": "https://cards.scryfall.io/normal/front/a/5/a5264ca3-755d-4219-a15c-4985fb2a76f1.jpg?1687998160",
+    "large": "https://cards.scryfall.io/large/front/a/5/a5264ca3-755d-4219-a15c-4985fb2a76f1.jpg?1687998160",
+    "png": "https://cards.scryfall.io/png/front/a/5/a5264ca3-755d-4219-a15c-4985fb2a76f1.png?1687998160",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/5/a5264ca3-755d-4219-a15c-4985fb2a76f1.jpg?1687998160",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/5/a5264ca3-755d-4219-a15c-4985fb2a76f1.jpg?1687998160"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {U} or {B}.",
+  "colors": [],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "U"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a6254b2a-0154-459a-936e-5967018d823b",
+  "set": "pclb",
+  "set_name": "Battle for Baldur's Gate Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/a6254b2a-0154-459a-936e-5967018d823b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pclb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a5264ca3-755d-4219-a15c-4985fb2a76f1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abd004c9d-771e-4e63-a97d-a2259c096af8&unique=prints",
+  "collector_number": "357s",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "No one really knows how deep the waters go beneath Undercity, nor what amorphous horrors lurk within.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Ostrowski",
+  "artist_ids": [
+    "b5f1bd34-abee-40c9-99f7-a6ee089fb30b"
+  ],
+  "illustration_id": "2baf26ab-d012-41e3-a130-a20b85ec9104",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 133,
+  "prices": {
+    "usd": null,
+    "usd_foil": "15.96",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "19.08",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMorphic%2BPool",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMorphic%2BPool",
+    "edhrec": "https://edhrec.com/route/?cc=Morphic+Pool"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F274551%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=662227&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Morphic+Pool&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

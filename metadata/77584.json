@@ -1,0 +1,118 @@
+{
+  "object": "card",
+  "id": "b720a1bf-d4e5-4291-863d-b4a1c143dabb",
+  "oracle_id": "b0b6be0c-41cf-4757-9f0e-87227b6ba6b3",
+  "multiverse_ids": [],
+  "arena_id": 70140,
+  "name": "Ghalta, Primal Hunger",
+  "lang": "en",
+  "released_at": "2019-02-14",
+  "uri": "https://api.scryfall.com/cards/b720a1bf-d4e5-4291-863d-b4a1c143dabb",
+  "scryfall_uri": "https://scryfall.com/card/pana/7/ghalta-primal-hunger?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/7/b720a1bf-d4e5-4291-863d-b4a1c143dabb.jpg?1595622862",
+    "normal": "https://cards.scryfall.io/normal/front/b/7/b720a1bf-d4e5-4291-863d-b4a1c143dabb.jpg?1595622862",
+    "large": "https://cards.scryfall.io/large/front/b/7/b720a1bf-d4e5-4291-863d-b4a1c143dabb.jpg?1595622862",
+    "png": "https://cards.scryfall.io/png/front/b/7/b720a1bf-d4e5-4291-863d-b4a1c143dabb.png?1595622862",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/7/b720a1bf-d4e5-4291-863d-b4a1c143dabb.jpg?1595622862",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/7/b720a1bf-d4e5-4291-863d-b4a1c143dabb.jpg?1595622862"
+  },
+  "mana_cost": "{10}{G}{G}",
+  "cmc": 12,
+  "type_line": "Legendary Creature — Elder Dinosaur",
+  "oracle_text": "This spell costs {X} less to cast, where X is the total power of creatures you control.\nTrample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",
+  "power": "12",
+  "toughness": "12",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Trample"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8ff0b4b8-2b1b-4283-a35c-6edd5bbcf373",
+  "set": "pana",
+  "set_name": "MTG Arena Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/8ff0b4b8-2b1b-4283-a35c-6edd5bbcf373",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apana&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pana?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b720a1bf-d4e5-4291-863d-b4a1c143dabb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab0b6be0c-41cf-4757-9f0e-87227b6ba6b3&unique=prints",
+  "collector_number": "7",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Johann Bodin",
+  "artist_ids": [
+    "d92e2dd9-9ef6-43f6-81f8-df87f9066983"
+  ],
+  "illustration_id": "953915d4-73da-48da-a965-6a13b84c308e",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 495,
+  "penny_rank": 1959,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGhalta%252C%2BPrimal%2BHunger",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGhalta%252C%2BPrimal%2BHunger",
+    "edhrec": "https://edhrec.com/route/?cc=Ghalta%2C+Primal+Hunger"
+  }
+}

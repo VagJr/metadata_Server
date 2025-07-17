@@ -1,0 +1,159 @@
+{
+  "object": "card",
+  "id": "3150199e-9e4f-486d-bfb0-fc2a9feb8536",
+  "oracle_id": "7c98626b-ba97-4d1e-9be7-291480ae8d22",
+  "multiverse_ids": [
+    689774
+  ],
+  "mtgo_id": 136939,
+  "tcgplayer_id": 615378,
+  "cardmarket_id": 808464,
+  "name": "Gas Guzzler",
+  "lang": "en",
+  "released_at": "2025-02-14",
+  "uri": "https://api.scryfall.com/cards/3150199e-9e4f-486d-bfb0-fc2a9feb8536",
+  "scryfall_uri": "https://scryfall.com/card/dft/338/gas-guzzler?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/1/3150199e-9e4f-486d-bfb0-fc2a9feb8536.jpg?1738357320",
+    "normal": "https://cards.scryfall.io/normal/front/3/1/3150199e-9e4f-486d-bfb0-fc2a9feb8536.jpg?1738357320",
+    "large": "https://cards.scryfall.io/large/front/3/1/3150199e-9e4f-486d-bfb0-fc2a9feb8536.jpg?1738357320",
+    "png": "https://cards.scryfall.io/png/front/3/1/3150199e-9e4f-486d-bfb0-fc2a9feb8536.png?1738357320",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/1/3150199e-9e4f-486d-bfb0-fc2a9feb8536.jpg?1738357320",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/1/3150199e-9e4f-486d-bfb0-fc2a9feb8536.jpg?1738357320"
+  },
+  "mana_cost": "{B}",
+  "cmc": 1,
+  "type_line": "Creature — Vampire Rogue",
+  "oracle_text": "Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)\nThis creature enters tapped.\nMax speed — {B}, Sacrifice another creature or Vehicle: Draw a card.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Max speed",
+    "Start your engines!"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "48b75e83-2ed5-48c9-881a-da3d77bdef99",
+      "component": "combo_piece",
+      "name": "Gas Guzzler",
+      "type_line": "Creature — Vampire Rogue",
+      "uri": "https://api.scryfall.com/cards/48b75e83-2ed5-48c9-881a-da3d77bdef99"
+    },
+    {
+      "object": "related_card",
+      "id": "82613de6-ed37-48c1-8d2f-d91a3f496794",
+      "component": "combo_piece",
+      "name": "Start Your Engines! // Max Speed",
+      "type_line": "Card // Card",
+      "uri": "https://api.scryfall.com/cards/82613de6-ed37-48c1-8d2f-d91a3f496794"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "23464cc2-a69c-427d-b8a7-08e5d80235d7",
+  "set": "dft",
+  "set_name": "Aetherdrift",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/23464cc2-a69c-427d-b8a7-08e5d80235d7",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adft&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dft?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3150199e-9e4f-486d-bfb0-fc2a9feb8536/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7c98626b-ba97-4d1e-9be7-291480ae8d22&unique=prints",
+  "collector_number": "338",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "License plate: G4S BR34TH.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Sam McKenzie",
+  "artist_ids": [
+    "ea4a41a9-1e03-416d-bd51-5746db9b156a"
+  ],
+  "illustration_id": "1521537f-2821-4a3a-8cb4-ab7f99d1a603",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 12814,
+  "penny_rank": 1899,
+  "preview": {
+    "source": "HamHocks42",
+    "source_uri": "https://bsky.app/profile/hamhocks42.bsky.social/post/3lgpvk6gqys2s",
+    "previewed_at": "2025-01-27"
+  },
+  "prices": {
+    "usd": "0.20",
+    "usd_foil": "0.37",
+    "usd_etched": null,
+    "eur": "0.30",
+    "eur_foil": "0.50",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=689774&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGas%2BGuzzler",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGas%2BGuzzler",
+    "edhrec": "https://edhrec.com/route/?cc=Gas+Guzzler"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F615378%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=808464&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/136939?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

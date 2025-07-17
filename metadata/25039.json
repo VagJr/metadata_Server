@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "3b09bcc8-d9fe-413d-aac9-c29344188303",
+  "oracle_id": "b5641fcf-135e-43e7-a547-344fac61e279",
+  "multiverse_ids": [],
+  "mtgo_id": 90076,
+  "name": "Tivash, Gloom Summoner",
+  "lang": "en",
+  "released_at": "2021-05-01",
+  "uri": "https://api.scryfall.com/cards/3b09bcc8-d9fe-413d-aac9-c29344188303",
+  "scryfall_uri": "https://scryfall.com/card/prm/90076/tivash-gloom-summoner?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/b/3b09bcc8-d9fe-413d-aac9-c29344188303.jpg?1681080354",
+    "normal": "https://cards.scryfall.io/normal/front/3/b/3b09bcc8-d9fe-413d-aac9-c29344188303.jpg?1681080354",
+    "large": "https://cards.scryfall.io/large/front/3/b/3b09bcc8-d9fe-413d-aac9-c29344188303.jpg?1681080354",
+    "png": "https://cards.scryfall.io/png/front/3/b/3b09bcc8-d9fe-413d-aac9-c29344188303.png?1681080354",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/b/3b09bcc8-d9fe-413d-aac9-c29344188303.jpg?1681080354",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/b/3b09bcc8-d9fe-413d-aac9-c29344188303.jpg?1681080354"
+  },
+  "mana_cost": "{4}{B}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Human Warlock",
+  "oracle_text": "Lifelink\nAt the beginning of your end step, if you gained life this turn, you may pay X life, where X is the amount of life you gained this turn. If you do, create an X/X black Demon creature token with flying.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Lifelink"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "2c0e7faf-43cb-4a96-ac3c-9533f957ee28",
+      "component": "token",
+      "name": "Demon",
+      "type_line": "Token Creature — Demon",
+      "uri": "https://api.scryfall.com/cards/2c0e7faf-43cb-4a96-ac3c-9533f957ee28"
+    },
+    {
+      "object": "related_card",
+      "id": "3b09bcc8-d9fe-413d-aac9-c29344188303",
+      "component": "combo_piece",
+      "name": "Tivash, Gloom Summoner",
+      "type_line": "Legendary Creature — Human Warlock",
+      "uri": "https://api.scryfall.com/cards/3b09bcc8-d9fe-413d-aac9-c29344188303"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3b09bcc8-d9fe-413d-aac9-c29344188303/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab5641fcf-135e-43e7-a547-344fac61e279&unique=prints",
+  "collector_number": "90076",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kieran Yanner",
+  "artist_ids": [
+    "aa7e89ed-d294-4633-9057-ce04dacfcfa4"
+  ],
+  "illustration_id": "b3f9b2ed-af0d-4c46-a197-eac32bfa1921",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 9328,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTivash%252C%2BGloom%2BSummoner",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTivash%252C%2BGloom%2BSummoner",
+    "edhrec": "https://edhrec.com/route/?cc=Tivash%2C+Gloom+Summoner"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DTivash%252C%2BGloom%2BSummoner%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tivash%2C+Gloom+Summoner&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/90076?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

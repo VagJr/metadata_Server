@@ -1,0 +1,156 @@
+{
+  "object": "card",
+  "id": "fa25bc75-9bb6-46d9-8de4-a1c1400383f9",
+  "oracle_id": "d1f3d5ca-cb17-400f-8ed9-3b9a4f151b62",
+  "multiverse_ids": [
+    670993
+  ],
+  "mtgo_id": 128205,
+  "tcgplayer_id": 560184,
+  "cardmarket_id": 779644,
+  "name": "Steelburr Champion",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/fa25bc75-9bb6-46d9-8de4-a1c1400383f9",
+  "scryfall_uri": "https://scryfall.com/card/blc/48/steelburr-champion?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/a/fa25bc75-9bb6-46d9-8de4-a1c1400383f9.jpg?1726442281",
+    "normal": "https://cards.scryfall.io/normal/front/f/a/fa25bc75-9bb6-46d9-8de4-a1c1400383f9.jpg?1726442281",
+    "large": "https://cards.scryfall.io/large/front/f/a/fa25bc75-9bb6-46d9-8de4-a1c1400383f9.jpg?1726442281",
+    "png": "https://cards.scryfall.io/png/front/f/a/fa25bc75-9bb6-46d9-8de4-a1c1400383f9.png?1726442281",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/a/fa25bc75-9bb6-46d9-8de4-a1c1400383f9.jpg?1726442281",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/a/fa25bc75-9bb6-46d9-8de4-a1c1400383f9.jpg?1726442281"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Creature — Mouse Soldier",
+  "oracle_text": "Offspring {1}{W} (You may pay an additional {1}{W} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)\nVigilance\nWhenever an opponent casts a noncreature spell, put a +1/+1 counter on this creature.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Offspring",
+    "Vigilance"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "fa25bc75-9bb6-46d9-8de4-a1c1400383f9",
+      "component": "combo_piece",
+      "name": "Steelburr Champion",
+      "type_line": "Creature — Mouse Soldier",
+      "uri": "https://api.scryfall.com/cards/fa25bc75-9bb6-46d9-8de4-a1c1400383f9"
+    },
+    {
+      "object": "related_card",
+      "id": "e3d40cb6-e227-40bc-9f6f-baa67e4edcec",
+      "component": "token",
+      "name": "Steelburr Champion",
+      "type_line": "Token Creature — Mouse Soldier",
+      "uri": "https://api.scryfall.com/cards/e3d40cb6-e227-40bc-9f6f-baa67e4edcec"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "set": "blc",
+  "set_name": "Bloomburrow Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/blc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/fa25bc75-9bb6-46d9-8de4-a1c1400383f9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad1f3d5ca-cb17-400f-8ed9-3b9a4f151b62&unique=prints",
+  "collector_number": "48",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"The secret to victory is simple. Don't lose.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Josiah \"Jo\" Cameron",
+  "artist_ids": [
+    "2a8b4b91-ddff-4477-ba10-b92bc04a4358"
+  ],
+  "illustration_id": "3fd2e96b-c72b-43e1-a119-fe009777a889",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 7148,
+  "preview": {
+    "source": "MTG Muddstah",
+    "source_uri": "https://www.youtube.com/watch?v=mW9zwQC9sUg",
+    "previewed_at": "2024-07-19"
+  },
+  "prices": {
+    "usd": "0.33",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.53",
+    "eur_foil": null,
+    "tix": "0.65"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=670993&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSteelburr%2BChampion",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSteelburr%2BChampion",
+    "edhrec": "https://edhrec.com/route/?cc=Steelburr+Champion"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560184%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=779644&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/128205?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

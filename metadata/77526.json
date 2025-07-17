@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "b7014c70-7c68-4dcf-9451-175810b2c363",
+  "oracle_id": "e264ffe3-0252-49d6-b990-dbb3654325a5",
+  "multiverse_ids": [
+    534749
+  ],
+  "arena_id": 80876,
+  "name": "Regal Force",
+  "lang": "en",
+  "released_at": "2021-08-26",
+  "uri": "https://api.scryfall.com/cards/b7014c70-7c68-4dcf-9451-175810b2c363",
+  "scryfall_uri": "https://scryfall.com/card/j21/791/regal-force?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/7/b7014c70-7c68-4dcf-9451-175810b2c363.jpg?1630270775",
+    "normal": "https://cards.scryfall.io/normal/front/b/7/b7014c70-7c68-4dcf-9451-175810b2c363.jpg?1630270775",
+    "large": "https://cards.scryfall.io/large/front/b/7/b7014c70-7c68-4dcf-9451-175810b2c363.jpg?1630270775",
+    "png": "https://cards.scryfall.io/png/front/b/7/b7014c70-7c68-4dcf-9451-175810b2c363.png?1630270775",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/7/b7014c70-7c68-4dcf-9451-175810b2c363.jpg?1630270775",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/7/b7014c70-7c68-4dcf-9451-175810b2c363.jpg?1630270775"
+  },
+  "mana_cost": "{4}{G}{G}{G}",
+  "cmc": 7,
+  "type_line": "Creature — Elemental",
+  "oracle_text": "When this creature enters, draw a card for each green creature you control.",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e4148be2-ce02-40a0-aca5-8c646f45ad71",
+      "component": "combo_piece",
+      "name": "Freyalise, Skyshroud Partisan",
+      "type_line": "Legendary Planeswalker — Freyalise",
+      "uri": "https://api.scryfall.com/cards/e4148be2-ce02-40a0-aca5-8c646f45ad71"
+    },
+    {
+      "object": "related_card",
+      "id": "b7014c70-7c68-4dcf-9451-175810b2c363",
+      "component": "combo_piece",
+      "name": "Regal Force",
+      "type_line": "Creature — Elemental",
+      "uri": "https://api.scryfall.com/cards/b7014c70-7c68-4dcf-9451-175810b2c363"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e1cc23bd-379b-4f2c-a4e0-83fc1e7be023",
+  "set": "j21",
+  "set_name": "Jumpstart: Historic Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/e1cc23bd-379b-4f2c-a4e0-83fc1e7be023",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj21&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j21?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b7014c70-7c68-4dcf-9451-175810b2c363/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae264ffe3-0252-49d6-b990-dbb3654325a5&unique=prints",
+  "collector_number": "791",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Brandon Kitkouski",
+  "artist_ids": [
+    "0330b5e8-2cf0-4ecb-8fd7-e20a18bdeb20"
+  ],
+  "illustration_id": "8359ab9c-3904-45a6-a751-017705c21458",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3301,
+  "penny_rank": 2222,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534749&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRegal%2BForce",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRegal%2BForce",
+    "edhrec": "https://edhrec.com/route/?cc=Regal+Force"
+  }
+}

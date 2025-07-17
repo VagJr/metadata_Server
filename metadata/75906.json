@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "b3344d18-e7b6-43ad-ab59-9ceaf49269f7",
+  "oracle_id": "bc71ebf6-2056-41f7-be35-b2e5c34afa99",
+  "multiverse_ids": [
+    624219
+  ],
+  "mtgo_id": 113755,
+  "tcgplayer_id": 503383,
+  "cardmarket_id": 723237,
+  "name": "Plains",
+  "lang": "en",
+  "released_at": "2023-08-04",
+  "uri": "https://api.scryfall.com/cards/b3344d18-e7b6-43ad-ab59-9ceaf49269f7",
+  "scryfall_uri": "https://scryfall.com/card/cmm/438/plains?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/3/b3344d18-e7b6-43ad-ab59-9ceaf49269f7.jpg?1690000078",
+    "normal": "https://cards.scryfall.io/normal/front/b/3/b3344d18-e7b6-43ad-ab59-9ceaf49269f7.jpg?1690000078",
+    "large": "https://cards.scryfall.io/large/front/b/3/b3344d18-e7b6-43ad-ab59-9ceaf49269f7.jpg?1690000078",
+    "png": "https://cards.scryfall.io/png/front/b/3/b3344d18-e7b6-43ad-ab59-9ceaf49269f7.png?1690000078",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/3/b3344d18-e7b6-43ad-ab59-9ceaf49269f7.jpg?1690000078",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/3/b3344d18-e7b6-43ad-ab59-9ceaf49269f7.jpg?1690000078"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Basic Land — Plains",
+  "oracle_text": "({T}: Add {W}.)",
+  "colors": [],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "W"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set": "cmm",
+  "set_name": "Commander Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b3344d18-e7b6-43ad-ab59-9ceaf49269f7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abc71ebf6-2056-41f7-be35-b2e5c34afa99&unique=prints",
+  "collector_number": "438",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Rebecca Guay",
+  "artist_ids": [
+    "f8f662fa-d597-46a3-afb2-91d6e13243e2"
+  ],
+  "illustration_id": "48dfe1ee-3559-41ca-bdad-629a7005199c",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "prices": {
+    "usd": "0.57",
+    "usd_foil": "0.95",
+    "usd_etched": null,
+    "eur": "0.44",
+    "eur_foil": "0.82",
+    "tix": "0.01"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=624219&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPlains",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPlains",
+    "edhrec": "https://edhrec.com/route/?cc=Plains"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F503383%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=723237&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/113755?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

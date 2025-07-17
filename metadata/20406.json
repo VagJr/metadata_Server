@@ -1,0 +1,154 @@
+{
+  "object": "card",
+  "id": "301f6df1-1b97-4a63-8043-8b97147b200b",
+  "oracle_id": "c3df3574-c4da-415f-a56b-807ed8e41d73",
+  "multiverse_ids": [
+    658275
+  ],
+  "mtgo_id": 123539,
+  "tcgplayer_id": 541264,
+  "cardmarket_id": 759020,
+  "name": "Crime // Punishment",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/301f6df1-1b97-4a63-8043-8b97147b200b",
+  "scryfall_uri": "https://scryfall.com/card/otp/75/crime-punishment?utm_source=api",
+  "layout": "split",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/0/301f6df1-1b97-4a63-8043-8b97147b200b.jpg?1736782834",
+    "normal": "https://cards.scryfall.io/normal/front/3/0/301f6df1-1b97-4a63-8043-8b97147b200b.jpg?1736782834",
+    "large": "https://cards.scryfall.io/large/front/3/0/301f6df1-1b97-4a63-8043-8b97147b200b.jpg?1736782834",
+    "png": "https://cards.scryfall.io/png/front/3/0/301f6df1-1b97-4a63-8043-8b97147b200b.png?1736782834",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/0/301f6df1-1b97-4a63-8043-8b97147b200b.jpg?1736782834",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/0/301f6df1-1b97-4a63-8043-8b97147b200b.jpg?1736782834"
+  },
+  "mana_cost": "{3}{W}{B} // {X}{B}{G}",
+  "cmc": 7,
+  "type_line": "Sorcery // Sorcery",
+  "colors": [
+    "B",
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "W"
+  ],
+  "keywords": [],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Crime",
+      "mana_cost": "{3}{W}{B}",
+      "type_line": "Sorcery",
+      "oracle_text": "Put target creature or enchantment card from an opponent's graveyard onto the battlefield under your control.",
+      "artist": "William Tempest",
+      "artist_id": "9bcb8bb4-3399-413a-bf06-962eb970c48d",
+      "illustration_id": "ea1f8fdc-df83-4b0e-8aee-37213570e8c2"
+    },
+    {
+      "object": "card_face",
+      "name": "Punishment",
+      "mana_cost": "{X}{B}{G}",
+      "type_line": "Sorcery",
+      "oracle_text": "Destroy each artifact, creature, and enchantment with mana value X.",
+      "artist": "William Tempest",
+      "artist_id": "9bcb8bb4-3399-413a-bf06-962eb970c48d"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8b51294d-fc54-410c-83b2-0168837ede87",
+  "set": "otp",
+  "set_name": "Breaking News",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/8b51294d-fc54-410c-83b2-0168837ede87",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/301f6df1-1b97-4a63-8043-8b97147b200b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac3df3574-c4da-415f-a56b-807ed8e41d73&unique=prints",
+  "collector_number": "75",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "William Tempest",
+  "artist_ids": [
+    "9bcb8bb4-3399-413a-bf06-962eb970c48d"
+  ],
+  "illustration_id": "ea1f8fdc-df83-4b0e-8aee-37213570e8c2",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "textured",
+    "boosterfun"
+  ],
+  "edhrec_rank": 20928,
+  "penny_rank": 4490,
+  "prices": {
+    "usd": null,
+    "usd_foil": "12.19",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "12.16",
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=658275&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCrime%2B%252F%252F%2BPunishment",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCrime%2B%252F%252F%2BPunishment",
+    "edhrec": "https://edhrec.com/route/?cc=Crime+%2F%2F+Punishment"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F541264%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=759020&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/123539?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

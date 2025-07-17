@@ -1,0 +1,117 @@
+{
+  "object": "card",
+  "id": "6b29dfea-a455-4096-9b78-a02494b8c3f2",
+  "oracle_id": "888e711a-1251-4704-8ef1-b4b98ec54b5a",
+  "multiverse_ids": [],
+  "mtgo_id": 83738,
+  "name": "Nahiri's Lithoforming",
+  "lang": "en",
+  "released_at": "2020-10-30",
+  "uri": "https://api.scryfall.com/cards/6b29dfea-a455-4096-9b78-a02494b8c3f2",
+  "scryfall_uri": "https://scryfall.com/card/prm/83738/nahiris-lithoforming?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/b/6b29dfea-a455-4096-9b78-a02494b8c3f2.jpg?1630635470",
+    "normal": "https://cards.scryfall.io/normal/front/6/b/6b29dfea-a455-4096-9b78-a02494b8c3f2.jpg?1630635470",
+    "large": "https://cards.scryfall.io/large/front/6/b/6b29dfea-a455-4096-9b78-a02494b8c3f2.jpg?1630635470",
+    "png": "https://cards.scryfall.io/png/front/6/b/6b29dfea-a455-4096-9b78-a02494b8c3f2.png?1630635470",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/b/6b29dfea-a455-4096-9b78-a02494b8c3f2.jpg?1630635470",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/b/6b29dfea-a455-4096-9b78-a02494b8c3f2.jpg?1630635470"
+  },
+  "mana_cost": "{X}{R}{R}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "oracle_text": "Sacrifice X lands. For each land sacrificed this way, draw a card. You may play X additional lands this turn. Lands you control enter tapped this turn.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6b29dfea-a455-4096-9b78-a02494b8c3f2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A888e711a-1251-4704-8ef1-b4b98ec54b5a&unique=prints",
+  "collector_number": "83738",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Campbell White",
+  "artist_ids": [
+    "d281eab4-463a-4ba8-9039-8943737960a0"
+  ],
+  "illustration_id": "09576eac-4072-44ec-a5f7-96b821810897",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5231,
+  "penny_rank": 10131,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.36"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNahiri%2527s%2BLithoforming",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNahiri%2527s%2BLithoforming",
+    "edhrec": "https://edhrec.com/route/?cc=Nahiri%27s+Lithoforming"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DNahiri%2527s%2BLithoforming%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nahiri%27s+Lithoforming&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/83738?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

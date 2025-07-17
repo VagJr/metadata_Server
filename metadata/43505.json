@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "66a7933e-9f64-4335-aee8-3a39f81e00f5",
+  "oracle_id": "871c4b27-990a-4947-b962-8a6d0bfd85ad",
+  "multiverse_ids": [],
+  "mtgo_id": 96394,
+  "tcgplayer_id": 255679,
+  "cardmarket_id": 584891,
+  "name": "Unblinking Observer",
+  "lang": "en",
+  "released_at": "2022-01-28",
+  "uri": "https://api.scryfall.com/cards/66a7933e-9f64-4335-aee8-3a39f81e00f5",
+  "scryfall_uri": "https://scryfall.com/card/dbl/82/unblinking-observer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/6/66a7933e-9f64-4335-aee8-3a39f81e00f5.jpg?1673159349",
+    "normal": "https://cards.scryfall.io/normal/front/6/6/66a7933e-9f64-4335-aee8-3a39f81e00f5.jpg?1673159349",
+    "large": "https://cards.scryfall.io/large/front/6/6/66a7933e-9f64-4335-aee8-3a39f81e00f5.jpg?1673159349",
+    "png": "https://cards.scryfall.io/png/front/6/6/66a7933e-9f64-4335-aee8-3a39f81e00f5.png?1673159349",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/6/66a7933e-9f64-4335-aee8-3a39f81e00f5.jpg?1673159349",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/6/66a7933e-9f64-4335-aee8-3a39f81e00f5.jpg?1673159349"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Creature — Homunculus",
+  "oracle_text": "{T}: Add {U}. Spend this mana only to pay a disturb cost or cast an instant or sorcery spell.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "U"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set": "dbl",
+  "set_name": "Innistrad: Double Feature",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adbl&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dbl?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/66a7933e-9f64-4335-aee8-3a39f81e00f5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A871c4b27-990a-4947-b962-8a6d0bfd85ad&unique=prints",
+  "collector_number": "82",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Day 77: The homunculus within the crystal continues to mimic my every movement. I wonder what they are writing?\"\n—Laboratory notes of Yzlkpk",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Filip Burburan",
+  "artist_ids": [
+    "66082c3b-a623-4d34-be51-2475214b85d3"
+  ],
+  "illustration_id": "2cbd0433-efc4-4562-bfe1-7c1229474fd2",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 16852,
+  "prices": {
+    "usd": "0.08",
+    "usd_foil": "0.22",
+    "usd_etched": null,
+    "eur": "0.04",
+    "eur_foil": "0.10",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DUnblinking%2BObserver",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DUnblinking%2BObserver",
+    "edhrec": "https://edhrec.com/route/?cc=Unblinking+Observer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F255679%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=584891&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/96394?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

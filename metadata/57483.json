@@ -1,0 +1,117 @@
+{
+  "object": "card",
+  "id": "880a95a6-e0f1-4522-81c4-63b5a153fb23",
+  "oracle_id": "355bbe9b-59bf-470f-8600-410af4c7fe18",
+  "multiverse_ids": [],
+  "tcgplayer_id": 448988,
+  "name": "Fear",
+  "lang": "en",
+  "released_at": "2022-11-28",
+  "uri": "https://api.scryfall.com/cards/880a95a6-e0f1-4522-81c4-63b5a153fb23",
+  "scryfall_uri": "https://scryfall.com/card/30a/105/fear?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/8/880a95a6-e0f1-4522-81c4-63b5a153fb23.jpg?1664925212",
+    "normal": "https://cards.scryfall.io/normal/front/8/8/880a95a6-e0f1-4522-81c4-63b5a153fb23.jpg?1664925212",
+    "large": "https://cards.scryfall.io/large/front/8/8/880a95a6-e0f1-4522-81c4-63b5a153fb23.jpg?1664925212",
+    "png": "https://cards.scryfall.io/png/front/8/8/880a95a6-e0f1-4522-81c4-63b5a153fb23.png?1664925212",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/8/880a95a6-e0f1-4522-81c4-63b5a153fb23.jpg?1664925212",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/8/880a95a6-e0f1-4522-81c4-63b5a153fb23.jpg?1664925212"
+  },
+  "mana_cost": "{B}{B}",
+  "cmc": 2,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant creature (Target a creature as you cast this. This card enters attached to that creature.)\nEnchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c3cddb17-44d9-4abd-8d19-666f6c5171fe",
+  "set": "30a",
+  "set_name": "30th Anniversary Edition",
+  "set_type": "memorabilia",
+  "set_uri": "https://api.scryfall.com/sets/c3cddb17-44d9-4abd-8d19-666f6c5171fe",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A30a&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/30a?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/880a95a6-e0f1-4522-81c4-63b5a153fb23/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A355bbe9b-59bf-470f-8600-410af4c7fe18&unique=prints",
+  "collector_number": "105",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "049a6229-ace9-4363-816a-60cb8773e95d",
+  "artist": "Mark Poole",
+  "artist_ids": [
+    "bfdeaf09-f915-4058-8e8b-bcac3bc43c33"
+  ],
+  "illustration_id": "190b8aec-3286-4446-91a6-757dc2d7708d",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 15282,
+  "penny_rank": 14580,
+  "prices": {
+    "usd": "0.70",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFear",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFear",
+    "edhrec": "https://edhrec.com/route/?cc=Fear"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F448988%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Fear&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Fear&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

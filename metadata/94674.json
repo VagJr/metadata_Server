@@ -1,0 +1,116 @@
+{
+  "object": "card",
+  "id": "df6af750-838c-4306-b70c-2efe705db2c7",
+  "oracle_id": "8c04663a-1023-49a5-a0b9-78f24a72fb1e",
+  "multiverse_ids": [],
+  "tcgplayer_id": 583099,
+  "name": "Nature's Way",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/df6af750-838c-4306-b70c-2efe705db2c7",
+  "scryfall_uri": "https://scryfall.com/card/plst/KLD-162/natures-way?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/f/df6af750-838c-4306-b70c-2efe705db2c7.jpg?1723437997",
+    "normal": "https://cards.scryfall.io/normal/front/d/f/df6af750-838c-4306-b70c-2efe705db2c7.jpg?1723437997",
+    "large": "https://cards.scryfall.io/large/front/d/f/df6af750-838c-4306-b70c-2efe705db2c7.jpg?1723437997",
+    "png": "https://cards.scryfall.io/png/front/d/f/df6af750-838c-4306-b70c-2efe705db2c7.png?1723437997",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/f/df6af750-838c-4306-b70c-2efe705db2c7.jpg?1723437997",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/f/df6af750-838c-4306-b70c-2efe705db2c7.jpg?1723437997"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "oracle_text": "Target creature you control gains vigilance and trample until end of turn. It deals damage equal to its power to target creature you don't control.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/df6af750-838c-4306-b70c-2efe705db2c7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8c04663a-1023-49a5-a0b9-78f24a72fb1e&unique=prints",
+  "collector_number": "KLD-162",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Many elves incorporate the beauty of nature into their inventions. Very few capture its savagery.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Zack Stella",
+  "artist_ids": [
+    "17bc7f55-958b-43f4-bb40-09746d05b3f9"
+  ],
+  "illustration_id": "1bf880ea-a1f8-4292-823e-ba4b0443e484",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 8493,
+  "penny_rank": 3745,
+  "prices": {
+    "usd": "0.12",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNature%2527s%2BWay",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNature%2527s%2BWay",
+    "edhrec": "https://edhrec.com/route/?cc=Nature%27s+Way"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F583099%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nature%27s+Way&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nature%27s+Way&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

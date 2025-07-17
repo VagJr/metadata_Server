@@ -1,0 +1,111 @@
+{
+  "object": "card",
+  "id": "72c9b7d6-0794-48c1-bc17-4b13e5ec5abb",
+  "oracle_id": "a1e46cc7-47da-4165-8c6b-f1cd2aa79aa5",
+  "multiverse_ids": [],
+  "arena_id": 20367,
+  "name": "Echoing Decay",
+  "lang": "en",
+  "released_at": "2023-07-18",
+  "uri": "https://api.scryfall.com/cards/72c9b7d6-0794-48c1-bc17-4b13e5ec5abb",
+  "scryfall_uri": "https://scryfall.com/card/ha7/7/echoing-decay?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/2/72c9b7d6-0794-48c1-bc17-4b13e5ec5abb.jpg?1689515590",
+    "normal": "https://cards.scryfall.io/normal/front/7/2/72c9b7d6-0794-48c1-bc17-4b13e5ec5abb.jpg?1689515590",
+    "large": "https://cards.scryfall.io/large/front/7/2/72c9b7d6-0794-48c1-bc17-4b13e5ec5abb.jpg?1689515590",
+    "png": "https://cards.scryfall.io/png/front/7/2/72c9b7d6-0794-48c1-bc17-4b13e5ec5abb.png?1689515590",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/2/72c9b7d6-0794-48c1-bc17-4b13e5ec5abb.jpg?1689515590",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/2/72c9b7d6-0794-48c1-bc17-4b13e5ec5abb.jpg?1689515590"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Target creature and all other creatures with the same name as that creature get -2/-2 until end of turn.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "da212dd5-8312-4723-b043-d9e9f2e479f2",
+  "set": "ha7",
+  "set_name": "Historic Anthology 7",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/da212dd5-8312-4723-b043-d9e9f2e479f2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aha7&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ha7?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/72c9b7d6-0794-48c1-bc17-4b13e5ec5abb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa1e46cc7-47da-4165-8c6b-f1cd2aa79aa5&unique=prints",
+  "collector_number": "7",
+  "digital": true,
+  "rarity": "common",
+  "flavor_text": "A single fear unleashes a torrent of nightmares.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Greg Staples",
+  "artist_ids": [
+    "93d65564-bf00-447b-8406-e2031f03b6b1"
+  ],
+  "illustration_id": "19d88316-6cd1-4d2d-b871-19daa5e606da",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 22442,
+  "penny_rank": 4692,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEchoing%2BDecay",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEchoing%2BDecay",
+    "edhrec": "https://edhrec.com/route/?cc=Echoing+Decay"
+  }
+}

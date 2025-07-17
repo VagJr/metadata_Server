@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "55cb1a68-8259-4698-82af-348d6e5625fc",
+  "oracle_id": "b43e9772-6ad4-49c7-9557-b18ee1e4587d",
+  "multiverse_ids": [],
+  "mtgo_id": 105864,
+  "name": "Mishra's Foundry",
+  "lang": "en",
+  "released_at": "2023-02-06",
+  "uri": "https://api.scryfall.com/cards/55cb1a68-8259-4698-82af-348d6e5625fc",
+  "scryfall_uri": "https://scryfall.com/card/prm/105864/mishras-foundry?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/5/55cb1a68-8259-4698-82af-348d6e5625fc.jpg?1682425087",
+    "normal": "https://cards.scryfall.io/normal/front/5/5/55cb1a68-8259-4698-82af-348d6e5625fc.jpg?1682425087",
+    "large": "https://cards.scryfall.io/large/front/5/5/55cb1a68-8259-4698-82af-348d6e5625fc.jpg?1682425087",
+    "png": "https://cards.scryfall.io/png/front/5/5/55cb1a68-8259-4698-82af-348d6e5625fc.png?1682425087",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/5/55cb1a68-8259-4698-82af-348d6e5625fc.jpg?1682425087",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/5/55cb1a68-8259-4698-82af-348d6e5625fc.jpg?1682425087"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "{T}: Add {C}.\n{2}: This land becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.\n{1}, {T}: Target attacking Assembly-Worker gets +2/+2 until end of turn.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "3ab80fcb-be75-40e2-9b25-761492fbe0c1",
+      "component": "combo_piece",
+      "name": "Foundry Groundbreaker",
+      "type_line": "Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/3ab80fcb-be75-40e2-9b25-761492fbe0c1"
+    },
+    {
+      "object": "related_card",
+      "id": "ab8ee059-4b2c-4bf4-b30a-68b73fdc1301",
+      "component": "combo_piece",
+      "name": "Mishra's Foundry",
+      "type_line": "Land",
+      "uri": "https://api.scryfall.com/cards/ab8ee059-4b2c-4bf4-b30a-68b73fdc1301"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/55cb1a68-8259-4698-82af-348d6e5625fc/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab43e9772-6ad4-49c7-9557-b18ee1e4587d&unique=prints",
+  "collector_number": "105864",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Leon Tukker",
+  "artist_ids": [
+    "669b8b90-758d-4f9e-b4f7-98cd6742eb97"
+  ],
+  "illustration_id": "2e2d22ed-921d-46ae-a885-3257dab54711",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 6110,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "3.08"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMishra%2527s%2BFoundry",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMishra%2527s%2BFoundry",
+    "edhrec": "https://edhrec.com/route/?cc=Mishra%27s+Foundry"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DMishra%2527s%2BFoundry%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mishra%27s+Foundry&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/105864?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

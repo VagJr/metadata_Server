@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "17f70737-3d85-4ab2-87eb-7e04cea9cef1",
+  "oracle_id": "92acbbeb-f82b-413b-b243-f7a012f5400c",
+  "multiverse_ids": [],
+  "tcgplayer_id": 217259,
+  "cardmarket_id": 476609,
+  "name": "Necromentia",
+  "lang": "en",
+  "released_at": "2020-07-03",
+  "uri": "https://api.scryfall.com/cards/17f70737-3d85-4ab2-87eb-7e04cea9cef1",
+  "scryfall_uri": "https://scryfall.com/card/pm21/116p/necromentia?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/7/17f70737-3d85-4ab2-87eb-7e04cea9cef1.jpg?1596311819",
+    "normal": "https://cards.scryfall.io/normal/front/1/7/17f70737-3d85-4ab2-87eb-7e04cea9cef1.jpg?1596311819",
+    "large": "https://cards.scryfall.io/large/front/1/7/17f70737-3d85-4ab2-87eb-7e04cea9cef1.jpg?1596311819",
+    "png": "https://cards.scryfall.io/png/front/1/7/17f70737-3d85-4ab2-87eb-7e04cea9cef1.png?1596311819",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/7/17f70737-3d85-4ab2-87eb-7e04cea9cef1.jpg?1596311819",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/7/17f70737-3d85-4ab2-87eb-7e04cea9cef1.jpg?1596311819"
+  },
+  "mana_cost": "{1}{B}{B}",
+  "cmc": 3,
+  "type_line": "Sorcery",
+  "oracle_text": "Choose a card name other than a basic land card name. Search target opponent's graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles, then creates a 2/2 black Zombie creature token for each card exiled from their hand this way.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "1926fd48-902f-4537-816c-12251e58ab43",
+      "component": "combo_piece",
+      "name": "Necromentia",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/1926fd48-902f-4537-816c-12251e58ab43"
+    },
+    {
+      "object": "related_card",
+      "id": "3f170f84-6c36-43e2-91e6-3c7a136944b1",
+      "component": "token",
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "uri": "https://api.scryfall.com/cards/3f170f84-6c36-43e2-91e6-3c7a136944b1"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d4474b31-acac-4d3b-9baa-b596f829070b",
+  "set": "pm21",
+  "set_name": "Core Set 2021 Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/d4474b31-acac-4d3b-9baa-b596f829070b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apm21&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pm21?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/17f70737-3d85-4ab2-87eb-7e04cea9cef1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A92acbbeb-f82b-413b-b243-f7a012f5400c&unique=prints",
+  "collector_number": "116p",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mila Pesic",
+  "artist_ids": [
+    "81c5ec23-220b-4efa-b7df-9e49dd371e8d"
+  ],
+  "illustration_id": "26574026-9328-4564-a246-03bb02513374",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 24230,
+  "prices": {
+    "usd": "0.50",
+    "usd_foil": "0.85",
+    "usd_etched": null,
+    "eur": "0.73",
+    "eur_foil": "2.32",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNecromentia",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNecromentia",
+    "edhrec": "https://edhrec.com/route/?cc=Necromentia"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F217259%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=476609&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Necromentia&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

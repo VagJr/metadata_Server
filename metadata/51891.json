@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "7ac60dfc-040e-4cc1-a967-3c915770fc8e",
+  "oracle_id": "77807103-bcd5-479f-bedd-f5d97aa6d3d2",
+  "multiverse_ids": [],
+  "mtgo_id": 140531,
+  "tcgplayer_id": 631498,
+  "cardmarket_id": 824837,
+  "name": "Forge of Heroes",
+  "lang": "en",
+  "released_at": "2025-06-13",
+  "uri": "https://api.scryfall.com/cards/7ac60dfc-040e-4cc1-a967-3c915770fc8e",
+  "scryfall_uri": "https://scryfall.com/card/fic/395/forge-of-heroes?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/a/7ac60dfc-040e-4cc1-a967-3c915770fc8e.jpg?1748705592",
+    "normal": "https://cards.scryfall.io/normal/front/7/a/7ac60dfc-040e-4cc1-a967-3c915770fc8e.jpg?1748705592",
+    "large": "https://cards.scryfall.io/large/front/7/a/7ac60dfc-040e-4cc1-a967-3c915770fc8e.jpg?1748705592",
+    "png": "https://cards.scryfall.io/png/front/7/a/7ac60dfc-040e-4cc1-a967-3c915770fc8e.png?1748705592",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/a/7ac60dfc-040e-4cc1-a967-3c915770fc8e.jpg?1748705592",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/a/7ac60dfc-040e-4cc1-a967-3c915770fc8e.jpg?1748705592"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "{T}: Add {C}.\n{T}: Choose target commander that entered this turn. Put a +1/+1 counter on it if it's a creature and a loyalty counter on it if it's a planeswalker.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "30659956-4558-4cbf-a65f-34cd00c89579",
+  "set": "fic",
+  "set_name": "Final Fantasy Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/30659956-4558-4cbf-a65f-34cd00c89579",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afic&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fic?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7ac60dfc-040e-4cc1-a967-3c915770fc8e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A77807103-bcd5-479f-bedd-f5d97aa6d3d2&unique=prints",
+  "collector_number": "395",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Makoto Shiki",
+  "artist_ids": [
+    "75596af1-368a-4e95-ad54-4636186a587f"
+  ],
+  "illustration_id": "116e9976-5c15-474c-875c-3557020f72b8",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "surgefoil",
+    "ffx"
+  ],
+  "edhrec_rank": 1843,
+  "prices": {
+    "usd": "0.23",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DForge%2Bof%2BHeroes",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DForge%2Bof%2BHeroes",
+    "edhrec": "https://edhrec.com/route/?cc=Forge+of+Heroes"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F631498%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=824837&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/140531?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

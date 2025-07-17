@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "a4bfcde8-40fe-437d-8390-1ed8486c0d8c",
+  "oracle_id": "1d37b453-f10c-42f2-8390-626a8a8eb27c",
+  "multiverse_ids": [],
+  "tcgplayer_id": 531482,
+  "name": "Sarkhan Unbroken",
+  "lang": "en",
+  "released_at": "2024-02-08",
+  "uri": "https://api.scryfall.com/cards/a4bfcde8-40fe-437d-8390-1ed8486c0d8c",
+  "scryfall_uri": "https://scryfall.com/card/pl24/2/sarkhan-unbroken?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/4/a4bfcde8-40fe-437d-8390-1ed8486c0d8c.jpg?1702912228",
+    "normal": "https://cards.scryfall.io/normal/front/a/4/a4bfcde8-40fe-437d-8390-1ed8486c0d8c.jpg?1702912228",
+    "large": "https://cards.scryfall.io/large/front/a/4/a4bfcde8-40fe-437d-8390-1ed8486c0d8c.jpg?1702912228",
+    "png": "https://cards.scryfall.io/png/front/a/4/a4bfcde8-40fe-437d-8390-1ed8486c0d8c.png?1702912228",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/4/a4bfcde8-40fe-437d-8390-1ed8486c0d8c.jpg?1702912228",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/4/a4bfcde8-40fe-437d-8390-1ed8486c0d8c.jpg?1702912228"
+  },
+  "mana_cost": "{2}{G}{U}{R}",
+  "cmc": 5,
+  "type_line": "Legendary Planeswalker — Sarkhan",
+  "oracle_text": "+1: Draw a card, then add one mana of any color.\n−2: Create a 4/4 red Dragon creature token with flying.\n−8: Search your library for any number of Dragon creature cards, put them onto the battlefield, then shuffle.",
+  "loyalty": "4",
+  "colors": [
+    "G",
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "G",
+    "R",
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a4bfcde8-40fe-437d-8390-1ed8486c0d8c",
+      "component": "combo_piece",
+      "name": "Sarkhan Unbroken",
+      "type_line": "Legendary Planeswalker — Sarkhan",
+      "uri": "https://api.scryfall.com/cards/a4bfcde8-40fe-437d-8390-1ed8486c0d8c"
+    },
+    {
+      "object": "related_card",
+      "id": "e6f0b040-3ce8-4d26-b585-85b6583e5ea3",
+      "component": "token",
+      "name": "Dragon",
+      "type_line": "Token Creature — Dragon",
+      "uri": "https://api.scryfall.com/cards/e6f0b040-3ce8-4d26-b585-85b6583e5ea3"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "f5c8ab78-698b-4967-aebb-3f762d9b6044",
+  "set": "pl24",
+  "set_name": "Year of the Dragon 2024",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/f5c8ab78-698b-4967-aebb-3f762d9b6044",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apl24&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pl24?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a4bfcde8-40fe-437d-8390-1ed8486c0d8c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1d37b453-f10c-42f2-8390-626a8a8eb27c&unique=prints",
+  "collector_number": "2",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Song Qijin",
+  "artist_ids": [
+    "67750cc4-846d-40a2-8d1a-e8085544be07"
+  ],
+  "illustration_id": "c1e9ad45-5e3a-43f2-9a38-261dcc6d42dc",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5160,
+  "penny_rank": 4029,
+  "prices": {
+    "usd": null,
+    "usd_foil": "38.30",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSarkhan%2BUnbroken",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSarkhan%2BUnbroken",
+    "edhrec": "https://edhrec.com/route/?cc=Sarkhan+Unbroken"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F531482%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sarkhan+Unbroken&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sarkhan+Unbroken&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

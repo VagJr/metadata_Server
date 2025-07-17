@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "bf1c0520-8008-412d-83f5-6608cfb7372c",
+  "oracle_id": "d870a93a-8399-4004-9b45-2b49b001f165",
+  "multiverse_ids": [],
+  "tcgplayer_id": 539978,
+  "name": "Luck Bobblehead",
+  "lang": "en",
+  "released_at": "2024-03-08",
+  "uri": "https://api.scryfall.com/cards/bf1c0520-8008-412d-83f5-6608cfb7372c",
+  "scryfall_uri": "https://scryfall.com/card/pip/663/luck-bobblehead?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/f/bf1c0520-8008-412d-83f5-6608cfb7372c.jpg?1708744916",
+    "normal": "https://cards.scryfall.io/normal/front/b/f/bf1c0520-8008-412d-83f5-6608cfb7372c.jpg?1708744916",
+    "large": "https://cards.scryfall.io/large/front/b/f/bf1c0520-8008-412d-83f5-6608cfb7372c.jpg?1708744916",
+    "png": "https://cards.scryfall.io/png/front/b/f/bf1c0520-8008-412d-83f5-6608cfb7372c.png?1708744916",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/f/bf1c0520-8008-412d-83f5-6608cfb7372c.jpg?1708744916",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/f/bf1c0520-8008-412d-83f5-6608cfb7372c.jpg?1708744916"
+  },
+  "mana_cost": "{3}",
+  "cmc": 3,
+  "type_line": "Artifact — Bobblehead",
+  "oracle_text": "{T}: Add one mana of any color.\n{1}, {T}: Roll X six-sided dice, where X is the number of Bobbleheads you control. Create a tapped Treasure token for each even result. If you rolled 6 exactly seven times, you win the game.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Treasure"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "1d74d012-66ca-4a0c-9e90-e31e96730d4d",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/1d74d012-66ca-4a0c-9e90-e31e96730d4d"
+    },
+    {
+      "object": "related_card",
+      "id": "54e26cce-e872-47f4-90b2-0739fa98e97c",
+      "component": "combo_piece",
+      "name": "Luck Bobblehead",
+      "type_line": "Artifact — Bobblehead",
+      "uri": "https://api.scryfall.com/cards/54e26cce-e872-47f4-90b2-0739fa98e97c"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+  "set": "pip",
+  "set_name": "Fallout",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apip&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pip?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/bf1c0520-8008-412d-83f5-6608cfb7372c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad870a93a-8399-4004-9b45-2b49b001f165&unique=prints",
+  "collector_number": "663",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ørjan Ruttenborg Svendsen",
+  "artist_ids": [
+    "91545f60-036d-49ad-b1a8-892833d92376"
+  ],
+  "illustration_id": "86b9e8ad-7f00-45e7-af87-44a7676f40ea",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "surgefoil"
+  ],
+  "edhrec_rank": 4621,
+  "prices": {
+    "usd": null,
+    "usd_foil": "35.11",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLuck%2BBobblehead",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLuck%2BBobblehead",
+    "edhrec": "https://edhrec.com/route/?cc=Luck+Bobblehead"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F539978%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Luck+Bobblehead&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Luck+Bobblehead&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

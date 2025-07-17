@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "7fcd6cc0-91b5-47ca-8f3d-c25cf26b81d7",
+  "oracle_id": "0b768f8f-2213-45b9-bced-8fb1bbb441c3",
+  "multiverse_ids": [],
+  "tcgplayer_id": 205539,
+  "cardmarket_id": 427356,
+  "name": "Tibalt, Rakish Instigator",
+  "lang": "en",
+  "released_at": "2020-02-18",
+  "uri": "https://api.scryfall.com/cards/7fcd6cc0-91b5-47ca-8f3d-c25cf26b81d7",
+  "scryfall_uri": "https://scryfall.com/card/sld/515/tibalt-rakish-instigator?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/f/7fcd6cc0-91b5-47ca-8f3d-c25cf26b81d7.jpg?1585359606",
+    "normal": "https://cards.scryfall.io/normal/front/7/f/7fcd6cc0-91b5-47ca-8f3d-c25cf26b81d7.jpg?1585359606",
+    "large": "https://cards.scryfall.io/large/front/7/f/7fcd6cc0-91b5-47ca-8f3d-c25cf26b81d7.jpg?1585359606",
+    "png": "https://cards.scryfall.io/png/front/7/f/7fcd6cc0-91b5-47ca-8f3d-c25cf26b81d7.png?1585359606",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/f/7fcd6cc0-91b5-47ca-8f3d-c25cf26b81d7.jpg?1585359606",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/f/7fcd6cc0-91b5-47ca-8f3d-c25cf26b81d7.jpg?1585359606"
+  },
+  "mana_cost": "{2}{R}",
+  "cmc": 3,
+  "type_line": "Legendary Planeswalker — Tibalt",
+  "oracle_text": "Your opponents can't gain life.\n−2: Create a 1/1 red Devil creature token with \"When this token dies, it deals 1 damage to any target.\"",
+  "loyalty": "5",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "d7a88466-7f44-4535-a8d5-097ed747454d",
+      "component": "token",
+      "name": "Devil",
+      "type_line": "Token Creature — Devil",
+      "uri": "https://api.scryfall.com/cards/d7a88466-7f44-4535-a8d5-097ed747454d"
+    },
+    {
+      "object": "related_card",
+      "id": "7fcd6cc0-91b5-47ca-8f3d-c25cf26b81d7",
+      "component": "combo_piece",
+      "name": "Tibalt, Rakish Instigator",
+      "type_line": "Legendary Planeswalker — Tibalt",
+      "uri": "https://api.scryfall.com/cards/7fcd6cc0-91b5-47ca-8f3d-c25cf26b81d7"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7fcd6cc0-91b5-47ca-8f3d-c25cf26b81d7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0b768f8f-2213-45b9-bced-8fb1bbb441c3&unique=prints",
+  "collector_number": "515",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chase Stone",
+  "artist_ids": [
+    "2d753f61-5f5b-468e-97ea-8e0fdd347340"
+  ],
+  "illustration_id": "b233ada7-fa55-4aea-b846-283b3e8477e7",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "sldbonus"
+  ],
+  "edhrec_rank": 8900,
+  "penny_rank": 1524,
+  "prices": {
+    "usd": null,
+    "usd_foil": "6.99",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "6.97",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTibalt%252C%2BRakish%2BInstigator",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTibalt%252C%2BRakish%2BInstigator",
+    "edhrec": "https://edhrec.com/route/?cc=Tibalt%2C+Rakish+Instigator"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F205539%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=427356&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tibalt%2C+Rakish+Instigator&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

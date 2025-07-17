@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "bc32b8ed-aebe-4985-a1ce-70ba12395a8e",
+  "oracle_id": "2f959c67-2b0b-4ba8-a8aa-90c25a3806ec",
+  "multiverse_ids": [
+    456516
+  ],
+  "mtgo_id": 70622,
+  "arena_id": 68409,
+  "tcgplayer_id": 175201,
+  "cardmarket_id": 363246,
+  "name": "Angelic Guardian",
+  "lang": "en",
+  "released_at": "2018-11-16",
+  "uri": "https://api.scryfall.com/cards/bc32b8ed-aebe-4985-a1ce-70ba12395a8e",
+  "scryfall_uri": "https://scryfall.com/card/g18/GP1/angelic-guardian?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/c/bc32b8ed-aebe-4985-a1ce-70ba12395a8e.jpg?1680650040",
+    "normal": "https://cards.scryfall.io/normal/front/b/c/bc32b8ed-aebe-4985-a1ce-70ba12395a8e.jpg?1680650040",
+    "large": "https://cards.scryfall.io/large/front/b/c/bc32b8ed-aebe-4985-a1ce-70ba12395a8e.jpg?1680650040",
+    "png": "https://cards.scryfall.io/png/front/b/c/bc32b8ed-aebe-4985-a1ce-70ba12395a8e.png?1680650040",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/c/bc32b8ed-aebe-4985-a1ce-70ba12395a8e.jpg?1680650040",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/c/bc32b8ed-aebe-4985-a1ce-70ba12395a8e.jpg?1680650040"
+  },
+  "mana_cost": "{4}{W}{W}",
+  "cmc": 6,
+  "type_line": "Creature — Angel",
+  "oracle_text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever one or more creatures you control attack, they gain indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy them.)",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "be071312-2af9-4c4a-bcba-b726ee1eabb1",
+  "set": "g18",
+  "set_name": "M19 Gift Pack",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/be071312-2af9-4c4a-bcba-b726ee1eabb1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ag18&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/g18?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/bc32b8ed-aebe-4985-a1ce-70ba12395a8e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2f959c67-2b0b-4ba8-a8aa-90c25a3806ec&unique=prints",
+  "collector_number": "GP1",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"No single arrow can pierce an entire flock.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Sara Winters",
+  "artist_ids": [
+    "56be33dc-a2da-40e9-a4f7-94077dcea31e"
+  ],
+  "illustration_id": "8b683464-494e-4431-bb6d-7ab29c113ef6",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "instore",
+    "giftbox"
+  ],
+  "edhrec_rank": 11796,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.54",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "2.24",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456516&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAngelic%2BGuardian",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAngelic%2BGuardian",
+    "edhrec": "https://edhrec.com/route/?cc=Angelic+Guardian"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F175201%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=363246&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/70622?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

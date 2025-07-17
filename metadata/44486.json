@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "69001c08-2541-47e3-8343-2e5089a9b193",
+  "oracle_id": "d71cd08e-3e84-41ff-b9db-9e343c0af6b4",
+  "multiverse_ids": [
+    512282
+  ],
+  "mtgo_id": 87009,
+  "tcgplayer_id": 233807,
+  "cardmarket_id": 542986,
+  "name": "Remand",
+  "lang": "en",
+  "released_at": "2021-03-19",
+  "uri": "https://api.scryfall.com/cards/69001c08-2541-47e3-8343-2e5089a9b193",
+  "scryfall_uri": "https://scryfall.com/card/tsr/316/remand?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/9/69001c08-2541-47e3-8343-2e5089a9b193.jpg?1619400530",
+    "normal": "https://cards.scryfall.io/normal/front/6/9/69001c08-2541-47e3-8343-2e5089a9b193.jpg?1619400530",
+    "large": "https://cards.scryfall.io/large/front/6/9/69001c08-2541-47e3-8343-2e5089a9b193.jpg?1619400530",
+    "png": "https://cards.scryfall.io/png/front/6/9/69001c08-2541-47e3-8343-2e5089a9b193.png?1619400530",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/9/69001c08-2541-47e3-8343-2e5089a9b193.jpg?1619400530",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/9/69001c08-2541-47e3-8343-2e5089a9b193.jpg?1619400530"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player's graveyard.\nDraw a card.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "11e90d1b-0502-43e6-b056-e24836523c13",
+  "set": "tsr",
+  "set_name": "Time Spiral Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/11e90d1b-0502-43e6-b056-e24836523c13",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atsr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tsr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/69001c08-2541-47e3-8343-2e5089a9b193/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad71cd08e-3e84-41ff-b9db-9e343c0af6b4&unique=prints",
+  "collector_number": "316",
+  "digital": false,
+  "rarity": "special",
+  "flavor_text": "\"Well, at least all of that arm-waving and arcane babbling you did was impressive.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mark A. Nelson",
+  "artist_ids": [
+    "a10f59a4-36fd-4ef3-966b-5570ca118062"
+  ],
+  "illustration_id": "b591d00a-634a-4041-baba-8fca11beecbd",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 4329,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.youtube.com/watch?v=i2ElqOwi3ps",
+    "previewed_at": "2021-02-26"
+  },
+  "prices": {
+    "usd": "0.91",
+    "usd_foil": "23.59",
+    "usd_etched": null,
+    "eur": "1.58",
+    "eur_foil": "34.97",
+    "tix": "0.49"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=512282&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRemand",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRemand",
+    "edhrec": "https://edhrec.com/route/?cc=Remand"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F233807%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=542986&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/87009?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

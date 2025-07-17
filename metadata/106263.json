@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "fb38d4c9-c28f-412a-82a5-4ccefb34c630",
+  "oracle_id": "6ff4ff67-ad08-447f-a112-1a071c1474a4",
+  "multiverse_ids": [],
+  "tcgplayer_id": 194062,
+  "cardmarket_id": 382191,
+  "name": "Hanged Executioner",
+  "lang": "en",
+  "released_at": "2019-07-12",
+  "uri": "https://api.scryfall.com/cards/fb38d4c9-c28f-412a-82a5-4ccefb34c630",
+  "scryfall_uri": "https://scryfall.com/card/pm20/22s/hanged-executioner?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/b/fb38d4c9-c28f-412a-82a5-4ccefb34c630.jpg?1564189107",
+    "normal": "https://cards.scryfall.io/normal/front/f/b/fb38d4c9-c28f-412a-82a5-4ccefb34c630.jpg?1564189107",
+    "large": "https://cards.scryfall.io/large/front/f/b/fb38d4c9-c28f-412a-82a5-4ccefb34c630.jpg?1564189107",
+    "png": "https://cards.scryfall.io/png/front/f/b/fb38d4c9-c28f-412a-82a5-4ccefb34c630.png?1564189107",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/b/fb38d4c9-c28f-412a-82a5-4ccefb34c630.jpg?1564189107",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/b/fb38d4c9-c28f-412a-82a5-4ccefb34c630.jpg?1564189107"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Creature — Spirit",
+  "oracle_text": "Flying\nWhen this creature enters, create a 1/1 white Spirit creature token with flying.\n{3}{W}, Exile this creature: Exile target creature.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "fb38d4c9-c28f-412a-82a5-4ccefb34c630",
+      "component": "combo_piece",
+      "name": "Hanged Executioner",
+      "type_line": "Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/fb38d4c9-c28f-412a-82a5-4ccefb34c630"
+    },
+    {
+      "object": "related_card",
+      "id": "79b17be6-2ee7-4f3b-88df-f298bb058f46",
+      "component": "token",
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/79b17be6-2ee7-4f3b-88df-f298bb058f46"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "bb017236-6da1-4558-a8bd-cf020e964530",
+  "set": "pm20",
+  "set_name": "Core Set 2020 Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/bb017236-6da1-4558-a8bd-cf020e964530",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apm20&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pm20?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/fb38d4c9-c28f-412a-82a5-4ccefb34c630/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6ff4ff67-ad08-447f-a112-1a071c1474a4&unique=prints",
+  "collector_number": "22s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Johann Bodin",
+  "artist_ids": [
+    "d92e2dd9-9ef6-43f6-81f8-df87f9066983"
+  ],
+  "illustration_id": "5a9051f8-875e-449c-a73b-2fa68c88c936",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 5492,
+  "penny_rank": 6908,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.93",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.61",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHanged%2BExecutioner",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHanged%2BExecutioner",
+    "edhrec": "https://edhrec.com/route/?cc=Hanged+Executioner"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F194062%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=382191&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hanged+Executioner&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

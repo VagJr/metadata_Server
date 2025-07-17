@@ -1,0 +1,153 @@
+{
+  "object": "card",
+  "id": "f6365e12-c470-40a2-95b0-827ec4404c38",
+  "oracle_id": "4ea488b2-5ba0-4565-b928-570c8e03b926",
+  "multiverse_ids": [
+    479497
+  ],
+  "tcgplayer_id": 209395,
+  "cardmarket_id": 440253,
+  "name": "Heliod, God of the Sun",
+  "lang": "en",
+  "released_at": "2020-02-14",
+  "uri": "https://api.scryfall.com/cards/f6365e12-c470-40a2-95b0-827ec4404c38",
+  "scryfall_uri": "https://scryfall.com/card/sld/68/heliod-god-of-the-sun?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/6/f6365e12-c470-40a2-95b0-827ec4404c38.jpg?1682713201",
+    "normal": "https://cards.scryfall.io/normal/front/f/6/f6365e12-c470-40a2-95b0-827ec4404c38.jpg?1682713201",
+    "large": "https://cards.scryfall.io/large/front/f/6/f6365e12-c470-40a2-95b0-827ec4404c38.jpg?1682713201",
+    "png": "https://cards.scryfall.io/png/front/f/6/f6365e12-c470-40a2-95b0-827ec4404c38.png?1682713201",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/6/f6365e12-c470-40a2-95b0-827ec4404c38.jpg?1682713201",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/6/f6365e12-c470-40a2-95b0-827ec4404c38.jpg?1682713201"
+  },
+  "mana_cost": "{3}{W}",
+  "cmc": 4,
+  "type_line": "Legendary Enchantment Creature — God",
+  "oracle_text": "Indestructible\nAs long as your devotion to white is less than five, Heliod isn't a creature. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)\nOther creatures you control have vigilance.\n{2}{W}{W}: Create a 2/1 white Cleric enchantment creature token.",
+  "power": "5",
+  "toughness": "6",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Indestructible"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "0a72ad3d-8660-4be4-9f9b-7d2f6b8ee82b",
+      "component": "token",
+      "name": "Cleric",
+      "type_line": "Token Enchantment Creature — Cleric",
+      "uri": "https://api.scryfall.com/cards/0a72ad3d-8660-4be4-9f9b-7d2f6b8ee82b"
+    },
+    {
+      "object": "related_card",
+      "id": "f6365e12-c470-40a2-95b0-827ec4404c38",
+      "component": "combo_piece",
+      "name": "Heliod, God of the Sun",
+      "type_line": "Legendary Enchantment Creature — God",
+      "uri": "https://api.scryfall.com/cards/f6365e12-c470-40a2-95b0-827ec4404c38"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f6365e12-c470-40a2-95b0-827ec4404c38/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4ea488b2-5ba0-4565-b928-570c8e03b926&unique=prints",
+  "collector_number": "68",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason A. Engle",
+  "artist_ids": [
+    "02e2b5de-4341-464c-8fdb-a1adbf873bc0"
+  ],
+  "illustration_id": "d2fe6e71-79b3-4ce3-9402-39784f532e5c",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "enchantment",
+    "legendary",
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3305,
+  "penny_rank": 4093,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/news/announcing-secret-lair-drop-series-theros-stargazing-2020-02-14",
+    "previewed_at": "2020-02-14"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "6.67",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "6.91",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479497&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHeliod%252C%2BGod%2Bof%2Bthe%2BSun",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHeliod%252C%2BGod%2Bof%2Bthe%2BSun",
+    "edhrec": "https://edhrec.com/route/?cc=Heliod%2C+God+of+the+Sun"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F209395%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=440253&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Heliod%2C+God+of+the+Sun&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

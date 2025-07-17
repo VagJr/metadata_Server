@@ -1,0 +1,172 @@
+{
+  "object": "card",
+  "id": "684f8568-390f-426f-ba71-e4be5fdaceee",
+  "oracle_id": "31af78dd-e962-4d9a-b696-f3048be03486",
+  "multiverse_ids": [
+    632236
+  ],
+  "mtgo_id": 116020,
+  "tcgplayer_id": 513889,
+  "cardmarket_id": 730319,
+  "name": "Virtue of Strength // Garenbrig Growth",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/684f8568-390f-426f-ba71-e4be5fdaceee",
+  "scryfall_uri": "https://scryfall.com/card/woe/284/virtue-of-strength-garenbrig-growth?utm_source=api",
+  "layout": "adventure",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/8/684f8568-390f-426f-ba71-e4be5fdaceee.jpg?1692940255",
+    "normal": "https://cards.scryfall.io/normal/front/6/8/684f8568-390f-426f-ba71-e4be5fdaceee.jpg?1692940255",
+    "large": "https://cards.scryfall.io/large/front/6/8/684f8568-390f-426f-ba71-e4be5fdaceee.jpg?1692940255",
+    "png": "https://cards.scryfall.io/png/front/6/8/684f8568-390f-426f-ba71-e4be5fdaceee.png?1692940255",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/8/684f8568-390f-426f-ba71-e4be5fdaceee.jpg?1692940255",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/8/684f8568-390f-426f-ba71-e4be5fdaceee.jpg?1692940255"
+  },
+  "mana_cost": "{5}{G}{G} // {G}",
+  "cmc": 7,
+  "type_line": "Enchantment // Sorcery — Adventure",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Virtue of Strength",
+      "mana_cost": "{5}{G}{G}",
+      "type_line": "Enchantment",
+      "oracle_text": "If you tap a basic land for mana, it produces three times as much of that mana instead.",
+      "artist": "Danny Schwartz",
+      "artist_id": "48e30a4a-5b4d-48e2-9c53-03125085374e",
+      "illustration_id": "bf47447a-795c-49ef-8d7f-3a48dc8dffd1"
+    },
+    {
+      "object": "card_face",
+      "name": "Garenbrig Growth",
+      "mana_cost": "{G}",
+      "type_line": "Sorcery — Adventure",
+      "oracle_text": "Return target creature or land card from your graveyard to your hand. (Then exile this card. You may cast the enchantment later from exile.)",
+      "artist": "Danny Schwartz",
+      "artist_id": "48e30a4a-5b4d-48e2-9c53-03125085374e"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "684f8568-390f-426f-ba71-e4be5fdaceee",
+      "component": "combo_piece",
+      "name": "Virtue of Strength // Garenbrig Growth",
+      "type_line": "Enchantment // Sorcery — Adventure",
+      "uri": "https://api.scryfall.com/cards/684f8568-390f-426f-ba71-e4be5fdaceee"
+    },
+    {
+      "object": "related_card",
+      "id": "fcf4c7fb-7859-4c11-8552-6817f5119d2e",
+      "component": "combo_piece",
+      "name": "On an Adventure",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/fcf4c7fb-7859-4c11-8552-6817f5119d2e"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "79139661-13ee-43c4-8bad-a8c069f1a1df",
+  "set": "woe",
+  "set_name": "Wilds of Eldraine",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/79139661-13ee-43c4-8bad-a8c069f1a1df",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awoe&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/woe?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/684f8568-390f-426f-ba71-e4be5fdaceee/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A31af78dd-e962-4d9a-b696-f3048be03486&unique=prints",
+  "collector_number": "284",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Danny Schwartz",
+  "artist_ids": [
+    "48e30a4a-5b4d-48e2-9c53-03125085374e"
+  ],
+  "illustration_id": "bf47447a-795c-49ef-8d7f-3a48dc8dffd1",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 1738,
+  "preview": {
+    "source": "B. Dave Walters",
+    "source_uri": "https://twitter.com/BDaveWalters/status/1694440799029907823/photo/1",
+    "previewed_at": "2023-08-24"
+  },
+  "prices": {
+    "usd": "2.73",
+    "usd_foil": "4.15",
+    "usd_etched": null,
+    "eur": "4.08",
+    "eur_foil": "5.76",
+    "tix": "0.13"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=632236&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVirtue%2Bof%2BStrength%2B%252F%252F%2BGarenbrig%2BGrowth",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVirtue%2Bof%2BStrength%2B%252F%252F%2BGarenbrig%2BGrowth",
+    "edhrec": "https://edhrec.com/route/?cc=Virtue+of+Strength"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F513889%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=730319&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/116020?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "object": "card",
+  "id": "a51f82d6-d653-4fff-a3f3-27b639f2ea84",
+  "oracle_id": "a5ab7f2d-a434-4342-a178-754bdd0181b6",
+  "multiverse_ids": [],
+  "name": "Soldier",
+  "lang": "ja",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/a51f82d6-d653-4fff-a3f3-27b639f2ea84",
+  "scryfall_uri": "https://scryfall.com/card/wmom/2/ja/soldier?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/5/a51f82d6-d653-4fff-a3f3-27b639f2ea84.jpg?1685566138",
+    "normal": "https://cards.scryfall.io/normal/front/a/5/a51f82d6-d653-4fff-a3f3-27b639f2ea84.jpg?1685566138",
+    "large": "https://cards.scryfall.io/large/front/a/5/a51f82d6-d653-4fff-a3f3-27b639f2ea84.jpg?1685566138",
+    "png": "https://cards.scryfall.io/png/front/a/5/a51f82d6-d653-4fff-a3f3-27b639f2ea84.png?1685566138",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/5/a51f82d6-d653-4fff-a3f3-27b639f2ea84.jpg?1685566138",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/5/a51f82d6-d653-4fff-a3f3-27b639f2ea84.jpg?1685566138"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Soldier",
+  "oracle_text": "Lifelink",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Lifelink"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "7e4f01c0-da80-4e69-978e-0b7959c81628",
+      "component": "combo_piece",
+      "name": "Archangel Elspeth",
+      "type_line": "Legendary Planeswalker — Elspeth",
+      "uri": "https://api.scryfall.com/cards/7e4f01c0-da80-4e69-978e-0b7959c81628"
+    },
+    {
+      "object": "related_card",
+      "id": "9e8cfd35-1363-41aa-8617-e0a824f0c007",
+      "component": "combo_piece",
+      "name": "March of the Multitudes",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/9e8cfd35-1363-41aa-8617-e0a824f0c007"
+    },
+    {
+      "object": "related_card",
+      "id": "e09d5433-2591-478b-8175-486b15001278",
+      "component": "combo_piece",
+      "name": "Merry, Warden of Isengard",
+      "type_line": "Legendary Creature — Halfling Advisor",
+      "uri": "https://api.scryfall.com/cards/e09d5433-2591-478b-8175-486b15001278"
+    },
+    {
+      "object": "related_card",
+      "id": "d895fc1a-980a-407f-b97b-e0b6fdc20900",
+      "component": "combo_piece",
+      "name": "Hunted Witness",
+      "type_line": "Creature — Human",
+      "uri": "https://api.scryfall.com/cards/d895fc1a-980a-407f-b97b-e0b6fdc20900"
+    },
+    {
+      "object": "related_card",
+      "id": "f82d74d0-8493-49e9-b15d-81f8829c94d7",
+      "component": "combo_piece",
+      "name": "Haazda Marshal",
+      "type_line": "Creature — Human Soldier",
+      "uri": "https://api.scryfall.com/cards/f82d74d0-8493-49e9-b15d-81f8829c94d7"
+    },
+    {
+      "object": "related_card",
+      "id": "6c9bf56e-23f0-4835-888d-9e8d17f833fc",
+      "component": "combo_piece",
+      "name": "Ledev Champion",
+      "type_line": "Creature — Elf Knight",
+      "uri": "https://api.scryfall.com/cards/6c9bf56e-23f0-4835-888d-9e8d17f833fc"
+    },
+    {
+      "object": "related_card",
+      "id": "154e1ab4-00e2-487f-a15e-c886120f8915",
+      "component": "combo_piece",
+      "name": "Trostani Discordant",
+      "type_line": "Legendary Creature — Dryad",
+      "uri": "https://api.scryfall.com/cards/154e1ab4-00e2-487f-a15e-c886120f8915"
+    },
+    {
+      "object": "related_card",
+      "id": "a51f82d6-d653-4fff-a3f3-27b639f2ea84",
+      "component": "token",
+      "name": "Soldier",
+      "type_line": "Token Creature — Soldier",
+      "uri": "https://api.scryfall.com/cards/a51f82d6-d653-4fff-a3f3-27b639f2ea84"
+    },
+    {
+      "object": "related_card",
+      "id": "68c36d91-fc6e-4c34-bce0-a63eba3d5f1f",
+      "component": "combo_piece",
+      "name": "Emmara, Soul of the Accord",
+      "type_line": "Legendary Creature — Elf Cleric",
+      "uri": "https://api.scryfall.com/cards/68c36d91-fc6e-4c34-bce0-a63eba3d5f1f"
+    },
+    {
+      "object": "related_card",
+      "id": "c1bb6293-82c7-4f54-b96f-bc0c764439b1",
+      "component": "combo_piece",
+      "name": "Sworn Companions",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/c1bb6293-82c7-4f54-b96f-bc0c764439b1"
+    },
+    {
+      "object": "related_card",
+      "id": "9a1a45aa-8cb4-4b10-989c-be050cb8a509",
+      "component": "combo_piece",
+      "name": "Dawn of Hope",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/9a1a45aa-8cb4-4b10-989c-be050cb8a509"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "19e95cc8-2387-4ea4-9045-19a130effe7f",
+  "set": "wmom",
+  "set_name": "MOM Japanese Promo Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/19e95cc8-2387-4ea4-9045-19a130effe7f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awmom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/wmom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a51f82d6-d653-4fff-a3f3-27b639f2ea84/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa5ab7f2d-a434-4342-a178-754bdd0181b6&unique=prints",
+  "collector_number": "2",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daisuke Izuka",
+  "artist_ids": [
+    "716d25a7-8bb9-45aa-960f-f73ea6886ad4"
+  ],
+  "illustration_id": "21ae3c30-84dc-44d4-921b-b2efd5f43d4e",
+  "border_color": "borderless",
+  "frame": "2015",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "plastic"
+  ],
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSoldier",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSoldier",
+    "edhrec": "https://edhrec.com/route/?cc=Soldier"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSoldier%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Soldier&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Soldier&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

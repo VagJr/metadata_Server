@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "d53e20ee-b43c-45aa-9921-2c6f7ddc27fb",
+  "oracle_id": "02962745-9503-42bb-9a3c-505bf80bab8b",
+  "multiverse_ids": [],
+  "name": "Insect",
+  "lang": "en",
+  "released_at": "2021-09-24",
+  "uri": "https://api.scryfall.com/cards/d53e20ee-b43c-45aa-9921-2c6f7ddc27fb",
+  "scryfall_uri": "https://scryfall.com/card/tmid/9/insect?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/5/d53e20ee-b43c-45aa-9921-2c6f7ddc27fb.jpg?1708345208",
+    "normal": "https://cards.scryfall.io/normal/front/d/5/d53e20ee-b43c-45aa-9921-2c6f7ddc27fb.jpg?1708345208",
+    "large": "https://cards.scryfall.io/large/front/d/5/d53e20ee-b43c-45aa-9921-2c6f7ddc27fb.jpg?1708345208",
+    "png": "https://cards.scryfall.io/png/front/d/5/d53e20ee-b43c-45aa-9921-2c6f7ddc27fb.png?1708345208",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/5/d53e20ee-b43c-45aa-9921-2c6f7ddc27fb.jpg?1708345208",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/5/d53e20ee-b43c-45aa-9921-2c6f7ddc27fb.jpg?1708345208"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Insect",
+  "oracle_text": "",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "d53e20ee-b43c-45aa-9921-2c6f7ddc27fb",
+      "component": "token",
+      "name": "Insect",
+      "type_line": "Token Creature — Insect",
+      "uri": "https://api.scryfall.com/cards/d53e20ee-b43c-45aa-9921-2c6f7ddc27fb"
+    },
+    {
+      "object": "related_card",
+      "id": "7fb63465-4fb4-429c-8ff5-f6527e0a0b16",
+      "component": "combo_piece",
+      "name": "Rise of the Ants",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/7fb63465-4fb4-429c-8ff5-f6527e0a0b16"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "cb7c7eac-c13c-465e-b276-85517f1472d8",
+  "set": "tmid",
+  "set_name": "Innistrad: Midnight Hunt Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/cb7c7eac-c13c-465e-b276-85517f1472d8",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atmid&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tmid?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d53e20ee-b43c-45aa-9921-2c6f7ddc27fb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A02962745-9503-42bb-9a3c-505bf80bab8b&unique=prints",
+  "collector_number": "9",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nicholas Gregory",
+  "artist_ids": [
+    "a1bba8ff-63b4-4786-b1c4-f1bfe5d3ab1c"
+  ],
+  "illustration_id": "a112ee8d-7f18-4f01-b340-9c24605e5fd6",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DInsect",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DInsect",
+    "edhrec": "https://edhrec.com/route/?cc=Insect"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DInsect%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Insect&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Insect&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

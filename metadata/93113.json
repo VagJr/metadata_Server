@@ -1,0 +1,157 @@
+{
+  "object": "card",
+  "id": "dbcdb47f-f23b-4945-bc65-10e28502cc1c",
+  "oracle_id": "24db950b-e4fe-42d0-977b-4957eb8229d9",
+  "multiverse_ids": [],
+  "tcgplayer_id": 583426,
+  "name": "Rimrock Knight // Boulder Rush",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/dbcdb47f-f23b-4945-bc65-10e28502cc1c",
+  "scryfall_uri": "https://scryfall.com/card/plst/ELD-137/rimrock-knight-boulder-rush?utm_source=api",
+  "layout": "adventure",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/b/dbcdb47f-f23b-4945-bc65-10e28502cc1c.jpg?1723435960",
+    "normal": "https://cards.scryfall.io/normal/front/d/b/dbcdb47f-f23b-4945-bc65-10e28502cc1c.jpg?1723435960",
+    "large": "https://cards.scryfall.io/large/front/d/b/dbcdb47f-f23b-4945-bc65-10e28502cc1c.jpg?1723435960",
+    "png": "https://cards.scryfall.io/png/front/d/b/dbcdb47f-f23b-4945-bc65-10e28502cc1c.png?1723435960",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/b/dbcdb47f-f23b-4945-bc65-10e28502cc1c.jpg?1723435960",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/b/dbcdb47f-f23b-4945-bc65-10e28502cc1c.jpg?1723435960"
+  },
+  "mana_cost": "{1}{R} // {R}",
+  "cmc": 2,
+  "type_line": "Creature — Dwarf Knight // Instant — Adventure",
+  "power": "3",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Rimrock Knight",
+      "mana_cost": "{1}{R}",
+      "type_line": "Creature — Dwarf Knight",
+      "oracle_text": "This creature can't block.",
+      "power": "3",
+      "toughness": "1",
+      "artist": "Chris Rallis",
+      "artist_id": "a8e7b854-b15a-421a-b66d-6e68187ae285",
+      "illustration_id": "c82a6d15-3976-4fca-9142-2db874d3ed10"
+    },
+    {
+      "object": "card_face",
+      "name": "Boulder Rush",
+      "mana_cost": "{R}",
+      "type_line": "Instant — Adventure",
+      "oracle_text": "Target creature gets +2/+0 until end of turn. (Then exile this card. You may cast the creature later from exile.)",
+      "artist": "Chris Rallis",
+      "artist_id": "a8e7b854-b15a-421a-b66d-6e68187ae285"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "dbcdb47f-f23b-4945-bc65-10e28502cc1c",
+      "component": "combo_piece",
+      "name": "Rimrock Knight // Boulder Rush",
+      "type_line": "Creature — Dwarf Knight // Instant — Adventure",
+      "uri": "https://api.scryfall.com/cards/dbcdb47f-f23b-4945-bc65-10e28502cc1c"
+    },
+    {
+      "object": "related_card",
+      "id": "fcf4c7fb-7859-4c11-8552-6817f5119d2e",
+      "component": "combo_piece",
+      "name": "On an Adventure",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/fcf4c7fb-7859-4c11-8552-6817f5119d2e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/dbcdb47f-f23b-4945-bc65-10e28502cc1c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A24db950b-e4fe-42d0-977b-4957eb8229d9&unique=prints",
+  "collector_number": "ELD-137",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rallis",
+  "artist_ids": [
+    "a8e7b854-b15a-421a-b66d-6e68187ae285"
+  ],
+  "illustration_id": "c82a6d15-3976-4fca-9142-2db874d3ed10",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 14480,
+  "penny_rank": 4319,
+  "prices": {
+    "usd": "0.12",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRimrock%2BKnight%2B%252F%252F%2BBoulder%2BRush",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRimrock%2BKnight%2B%252F%252F%2BBoulder%2BRush",
+    "edhrec": "https://edhrec.com/route/?cc=Rimrock+Knight"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F583426%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rimrock+Knight&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rimrock+Knight&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

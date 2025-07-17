@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "9bf2b208-79c6-4c4c-bf66-871352ed600f",
+  "oracle_id": "ec2b3779-55f7-4169-aa66-6312fb52721f",
+  "multiverse_ids": [],
+  "arena_id": 73682,
+  "tcgplayer_id": 212690,
+  "cardmarket_id": 454993,
+  "name": "Indatha Triome",
+  "lang": "en",
+  "released_at": "2020-04-24",
+  "uri": "https://api.scryfall.com/cards/9bf2b208-79c6-4c4c-bf66-871352ed600f",
+  "scryfall_uri": "https://scryfall.com/card/iko/309/indatha-triome?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/b/9bf2b208-79c6-4c4c-bf66-871352ed600f.jpg?1604781998",
+    "normal": "https://cards.scryfall.io/normal/front/9/b/9bf2b208-79c6-4c4c-bf66-871352ed600f.jpg?1604781998",
+    "large": "https://cards.scryfall.io/large/front/9/b/9bf2b208-79c6-4c4c-bf66-871352ed600f.jpg?1604781998",
+    "png": "https://cards.scryfall.io/png/front/9/b/9bf2b208-79c6-4c4c-bf66-871352ed600f.png?1604781998",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/b/9bf2b208-79c6-4c4c-bf66-871352ed600f.jpg?1604781998",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/b/9bf2b208-79c6-4c4c-bf66-871352ed600f.jpg?1604781998"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land — Plains Swamp Forest",
+  "oracle_text": "({T}: Add {W}, {B}, or {G}.)\nThis land enters tapped.\nCycling {3} ({3}, Discard this card: Draw a card.)",
+  "colors": [],
+  "color_identity": [
+    "B",
+    "G",
+    "W"
+  ],
+  "keywords": [
+    "Cycling"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "19feda43-15ab-427e-a0e4-148a4bf2b03a",
+  "set": "iko",
+  "set_name": "Ikoria: Lair of Behemoths",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/19feda43-15ab-427e-a0e4-148a4bf2b03a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aiko&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/iko?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9bf2b208-79c6-4c4c-bf66-871352ed600f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aec2b3779-55f7-4169-aa66-6312fb52721f&unique=prints",
+  "collector_number": "309",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Robbie Trevino",
+  "artist_ids": [
+    "34f236c4-d646-4e48-9723-9df5f507754d"
+  ],
+  "illustration_id": "45e09f99-852b-404d-b1c8-3f6ae24bd93d",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 423,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2020-04-09"
+  },
+  "prices": {
+    "usd": "17.39",
+    "usd_foil": "44.25",
+    "usd_etched": null,
+    "eur": "18.73",
+    "eur_foil": "29.97",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DIndatha%2BTriome",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DIndatha%2BTriome",
+    "edhrec": "https://edhrec.com/route/?cc=Indatha+Triome"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F212690%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=454993&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Indatha+Triome&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

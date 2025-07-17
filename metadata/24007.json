@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "387997e8-6f08-4c90-8ae6-3d54dd493f42",
+  "oracle_id": "56773795-bd8b-4ac4-8f2c-a9d6275989bb",
+  "multiverse_ids": [],
+  "tcgplayer_id": 274557,
+  "cardmarket_id": 662202,
+  "name": "Elminster",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/387997e8-6f08-4c90-8ae6-3d54dd493f42",
+  "scryfall_uri": "https://scryfall.com/card/pclb/274s/elminster?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/8/387997e8-6f08-4c90-8ae6-3d54dd493f42.jpg?1675618966",
+    "normal": "https://cards.scryfall.io/normal/front/3/8/387997e8-6f08-4c90-8ae6-3d54dd493f42.jpg?1675618966",
+    "large": "https://cards.scryfall.io/large/front/3/8/387997e8-6f08-4c90-8ae6-3d54dd493f42.jpg?1675618966",
+    "png": "https://cards.scryfall.io/png/front/3/8/387997e8-6f08-4c90-8ae6-3d54dd493f42.png?1675618966",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/8/387997e8-6f08-4c90-8ae6-3d54dd493f42.jpg?1675618966",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/8/387997e8-6f08-4c90-8ae6-3d54dd493f42.jpg?1675618966"
+  },
+  "mana_cost": "{3}{W}{U}",
+  "cmc": 5,
+  "type_line": "Legendary Planeswalker — Elminster",
+  "oracle_text": "Whenever you scry, the next instant or sorcery spell you cast this turn costs {X} less to cast, where X is the number of cards looked at while scrying this way.\n+2: Draw a card, then scry 2.\n−3: Exile the top card of your library. Create a number of 1/1 blue Faerie Dragon creature tokens with flying equal to that card's mana value.\nElminster can be your commander.",
+  "loyalty": "5",
+  "colors": [
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "U",
+    "W"
+  ],
+  "keywords": [
+    "Scry"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6f1eb498-8496-4234-8e87-78dc3f647534",
+      "component": "token",
+      "name": "Faerie Dragon",
+      "type_line": "Token Creature — Faerie Dragon",
+      "uri": "https://api.scryfall.com/cards/6f1eb498-8496-4234-8e87-78dc3f647534"
+    },
+    {
+      "object": "related_card",
+      "id": "387997e8-6f08-4c90-8ae6-3d54dd493f42",
+      "component": "combo_piece",
+      "name": "Elminster",
+      "type_line": "Legendary Planeswalker — Elminster",
+      "uri": "https://api.scryfall.com/cards/387997e8-6f08-4c90-8ae6-3d54dd493f42"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a6254b2a-0154-459a-936e-5967018d823b",
+  "set": "pclb",
+  "set_name": "Battle for Baldur's Gate Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/a6254b2a-0154-459a-936e-5967018d823b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pclb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/387997e8-6f08-4c90-8ae6-3d54dd493f42/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A56773795-bd8b-4ac4-8f2c-a9d6275989bb&unique=prints",
+  "collector_number": "274s",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Viktor Titov",
+  "artist_ids": [
+    "2270c0b0-afb4-42b0-bcb6-25fe4ad6eef2"
+  ],
+  "illustration_id": "6225bc50-f919-44e8-9b05-c05b5ebbf983",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 8965,
+  "prices": {
+    "usd": null,
+    "usd_foil": "4.61",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "5.64",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DElminster",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DElminster",
+    "edhrec": "https://edhrec.com/route/?cc=Elminster"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F274557%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=662202&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Elminster&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "object": "card",
+  "id": "859e34b4-6762-465f-a5c7-24e42e112fbe",
+  "oracle_id": "4f8c4927-46c2-4c18-b5af-c6288dbaff6d",
+  "multiverse_ids": [
+    668866
+  ],
+  "mtgo_id": 129105,
+  "tcgplayer_id": 558624,
+  "cardmarket_id": 778086,
+  "name": "Iridescent Vinelasher",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/859e34b4-6762-465f-a5c7-24e42e112fbe",
+  "scryfall_uri": "https://scryfall.com/card/blb/359/iridescent-vinelasher?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/5/859e34b4-6762-465f-a5c7-24e42e112fbe.jpg?1721427920",
+    "normal": "https://cards.scryfall.io/normal/front/8/5/859e34b4-6762-465f-a5c7-24e42e112fbe.jpg?1721427920",
+    "large": "https://cards.scryfall.io/large/front/8/5/859e34b4-6762-465f-a5c7-24e42e112fbe.jpg?1721427920",
+    "png": "https://cards.scryfall.io/png/front/8/5/859e34b4-6762-465f-a5c7-24e42e112fbe.png?1721427920",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/5/859e34b4-6762-465f-a5c7-24e42e112fbe.jpg?1721427920",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/5/859e34b4-6762-465f-a5c7-24e42e112fbe.jpg?1721427920"
+  },
+  "mana_cost": "{B}",
+  "cmc": 1,
+  "type_line": "Creature — Lizard Assassin",
+  "oracle_text": "Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)\nLandfall — Whenever a land you control enters, this creature deals 1 damage to target opponent.",
+  "power": "1",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Offspring",
+    "Landfall"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "859e34b4-6762-465f-a5c7-24e42e112fbe",
+      "component": "combo_piece",
+      "name": "Iridescent Vinelasher",
+      "type_line": "Creature — Lizard Assassin",
+      "uri": "https://api.scryfall.com/cards/859e34b4-6762-465f-a5c7-24e42e112fbe"
+    },
+    {
+      "object": "related_card",
+      "id": "2f55c677-dc14-4ae3-9518-0d80b528c3fb",
+      "component": "token",
+      "name": "Iridescent Vinelasher",
+      "type_line": "Token Creature — Lizard Assassin",
+      "uri": "https://api.scryfall.com/cards/2f55c677-dc14-4ae3-9518-0d80b528c3fb"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a2f58272-bba6-439d-871e-7a46686ac018",
+  "set": "blb",
+  "set_name": "Bloomburrow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/a2f58272-bba6-439d-871e-7a46686ac018",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/blb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/859e34b4-6762-465f-a5c7-24e42e112fbe/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4f8c4927-46c2-4c18-b5af-c6288dbaff6d&unique=prints",
+  "collector_number": "359",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Aaron Miller",
+  "artist_ids": [
+    "fc021f3d-773a-4706-bbe7-f602324f511f"
+  ],
+  "illustration_id": "1f248876-5e2d-4ac1-bcbc-f780ded3e4bd",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 3684,
+  "preview": {
+    "source": "ChannelFireball",
+    "source_uri": "https://www.channelfireball.com/article/ChannelFireball-s-Exclusive-Bloomburrow-Preview-Card-Iridescent-Vinelasher/c35bfdc7-1bae-41c9-b791-bd665aba17e2/",
+    "previewed_at": "2024-07-10"
+  },
+  "prices": {
+    "usd": "1.02",
+    "usd_foil": "1.75",
+    "usd_etched": null,
+    "eur": "2.24",
+    "eur_foil": "2.74",
+    "tix": "0.30"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=668866&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DIridescent%2BVinelasher",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DIridescent%2BVinelasher",
+    "edhrec": "https://edhrec.com/route/?cc=Iridescent+Vinelasher"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F558624%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=778086&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/129105?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

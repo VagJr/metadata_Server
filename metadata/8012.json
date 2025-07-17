@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "1261acee-a01f-4fd3-a737-fd97dcaa7656",
+  "oracle_id": "c4fe854e-8783-492e-bb2e-9f242ada8a5b",
+  "multiverse_ids": [
+    521632
+  ],
+  "tcgplayer_id": 236627,
+  "cardmarket_id": 559737,
+  "name": "Blight Mound",
+  "lang": "en",
+  "released_at": "2021-04-23",
+  "uri": "https://api.scryfall.com/cards/1261acee-a01f-4fd3-a737-fd97dcaa7656",
+  "scryfall_uri": "https://scryfall.com/card/c21/363/blight-mound?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/2/1261acee-a01f-4fd3-a737-fd97dcaa7656.jpg?1625982484",
+    "normal": "https://cards.scryfall.io/normal/front/1/2/1261acee-a01f-4fd3-a737-fd97dcaa7656.jpg?1625982484",
+    "large": "https://cards.scryfall.io/large/front/1/2/1261acee-a01f-4fd3-a737-fd97dcaa7656.jpg?1625982484",
+    "png": "https://cards.scryfall.io/png/front/1/2/1261acee-a01f-4fd3-a737-fd97dcaa7656.png?1625982484",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/2/1261acee-a01f-4fd3-a737-fd97dcaa7656.jpg?1625982484",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/2/1261acee-a01f-4fd3-a737-fd97dcaa7656.jpg?1625982484"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3,
+  "type_line": "Enchantment",
+  "oracle_text": "Attacking Pests you control get +1/+0 and have menace.\nWhenever a nontoken creature you control dies, create a 1/1 black and green Pest creature token with \"When this token dies, you gain 1 life.\"",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "cf9587a6-7497-4f49-a5d0-a19fdfd969aa",
+      "component": "token",
+      "name": "Pest",
+      "type_line": "Token Creature — Pest",
+      "uri": "https://api.scryfall.com/cards/cf9587a6-7497-4f49-a5d0-a19fdfd969aa"
+    },
+    {
+      "object": "related_card",
+      "id": "1261acee-a01f-4fd3-a737-fd97dcaa7656",
+      "component": "combo_piece",
+      "name": "Blight Mound",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/1261acee-a01f-4fd3-a737-fd97dcaa7656"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "27bf6dbd-a9e1-4904-afa7-d28fc7745c4f",
+  "set": "c21",
+  "set_name": "Commander 2021",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/27bf6dbd-a9e1-4904-afa7-d28fc7745c4f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac21&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/c21?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1261acee-a01f-4fd3-a737-fd97dcaa7656/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac4fe854e-8783-492e-bb2e-9f242ada8a5b&unique=prints",
+  "collector_number": "363",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "witherbloom",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Oriana Menendez",
+  "artist_ids": [
+    "d09f4925-a6b9-48d7-89f7-4db6deab1c7c"
+  ],
+  "illustration_id": "a9480557-b345-4d26-a0fb-0b46d30bf0d8",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 4994,
+  "prices": {
+    "usd": "3.24",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "3.22",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=521632&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlight%2BMound",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlight%2BMound",
+    "edhrec": "https://edhrec.com/route/?cc=Blight+Mound"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F236627%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=559737&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blight+Mound&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

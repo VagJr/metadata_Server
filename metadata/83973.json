@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "c646e923-46ac-459c-96a2-304150785efd",
+  "oracle_id": "d8e1e9ba-708c-4f54-abc3-817004a2f2ac",
+  "multiverse_ids": [],
+  "tcgplayer_id": 616840,
+  "name": "Basri, Tomorrow's Champion",
+  "lang": "en",
+  "released_at": "2025-02-14",
+  "uri": "https://api.scryfall.com/cards/c646e923-46ac-459c-96a2-304150785efd",
+  "scryfall_uri": "https://scryfall.com/card/pdft/3p/basri-tomorrows-champion?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/6/c646e923-46ac-459c-96a2-304150785efd.jpg?1739664811",
+    "normal": "https://cards.scryfall.io/normal/front/c/6/c646e923-46ac-459c-96a2-304150785efd.jpg?1739664811",
+    "large": "https://cards.scryfall.io/large/front/c/6/c646e923-46ac-459c-96a2-304150785efd.jpg?1739664811",
+    "png": "https://cards.scryfall.io/png/front/c/6/c646e923-46ac-459c-96a2-304150785efd.png?1739664811",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/6/c646e923-46ac-459c-96a2-304150785efd.jpg?1739664811",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/6/c646e923-46ac-459c-96a2-304150785efd.jpg?1739664811"
+  },
+  "mana_cost": "{W}",
+  "cmc": 1,
+  "type_line": "Legendary Creature — Human Knight",
+  "oracle_text": "{W}, {T}, Exert Basri: Create a 1/1 white Cat creature token with lifelink. (An exerted creature won't untap during your next untap step.)\nCycling {2}{W} ({2}{W}, Discard this card: Draw a card.)\nWhen you cycle this card, Cats you control gain hexproof and indestructible until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Cycling"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "902fba98-92b7-461b-ac6e-29cb2c4e307f",
+      "component": "token",
+      "name": "Cat",
+      "type_line": "Token Creature — Cat",
+      "uri": "https://api.scryfall.com/cards/902fba98-92b7-461b-ac6e-29cb2c4e307f"
+    },
+    {
+      "object": "related_card",
+      "id": "ada382fb-64f5-427a-813e-c2de972f7f83",
+      "component": "combo_piece",
+      "name": "Basri, Tomorrow's Champion",
+      "type_line": "Legendary Creature — Human Knight",
+      "uri": "https://api.scryfall.com/cards/ada382fb-64f5-427a-813e-c2de972f7f83"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cc05a3a1-fb38-4d6d-b3d3-032e90b49d00",
+  "set": "pdft",
+  "set_name": "Aetherdrift Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/cc05a3a1-fb38-4d6d-b3d3-032e90b49d00",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apdft&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pdft?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c646e923-46ac-459c-96a2-304150785efd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad8e1e9ba-708c-4f54-abc3-817004a2f2ac&unique=prints",
+  "collector_number": "3p",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "desparked",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kai Carpenter",
+  "artist_ids": [
+    "dcd3cf0d-67b7-4b73-8e62-1d318bf6209c"
+  ],
+  "illustration_id": "43497431-62db-4850-b357-97c04580a745",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 14767,
+  "penny_rank": 97,
+  "prices": {
+    "usd": "1.40",
+    "usd_foil": "0.94",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBasri%252C%2BTomorrow%2527s%2BChampion",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBasri%252C%2BTomorrow%2527s%2BChampion",
+    "edhrec": "https://edhrec.com/route/?cc=Basri%2C+Tomorrow%27s+Champion"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F616840%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Basri%2C+Tomorrow%27s+Champion&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Basri%2C+Tomorrow%27s+Champion&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

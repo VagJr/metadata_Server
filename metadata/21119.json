@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "31b6b055-d233-42bb-baf9-9a339d25467c",
+  "oracle_id": "074cbe14-a0c8-4772-955a-b4052333d6ce",
+  "multiverse_ids": [
+    677736
+  ],
+  "mtgo_id": 134012,
+  "tcgplayer_id": 563111,
+  "cardmarket_id": 784062,
+  "name": "Sarkhan, Fireblood",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/31b6b055-d233-42bb-baf9-9a339d25467c",
+  "scryfall_uri": "https://scryfall.com/card/mb2/60/sarkhan-fireblood?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/1/31b6b055-d233-42bb-baf9-9a339d25467c.jpg?1723227151",
+    "normal": "https://cards.scryfall.io/normal/front/3/1/31b6b055-d233-42bb-baf9-9a339d25467c.jpg?1723227151",
+    "large": "https://cards.scryfall.io/large/front/3/1/31b6b055-d233-42bb-baf9-9a339d25467c.jpg?1723227151",
+    "png": "https://cards.scryfall.io/png/front/3/1/31b6b055-d233-42bb-baf9-9a339d25467c.png?1723227151",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/1/31b6b055-d233-42bb-baf9-9a339d25467c.jpg?1723227151",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/1/31b6b055-d233-42bb-baf9-9a339d25467c.jpg?1723227151"
+  },
+  "mana_cost": "{1}{R}{R}",
+  "cmc": 3,
+  "type_line": "Legendary Planeswalker — Sarkhan",
+  "oracle_text": "+1: You may discard a card. If you do, draw a card.\n+1: Add two mana in any combination of colors. Spend this mana only to cast Dragon spells.\n−7: Create four 5/5 red Dragon creature tokens with flying.",
+  "loyalty": "3",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "31b6b055-d233-42bb-baf9-9a339d25467c",
+      "component": "combo_piece",
+      "name": "Sarkhan, Fireblood",
+      "type_line": "Legendary Planeswalker — Sarkhan",
+      "uri": "https://api.scryfall.com/cards/31b6b055-d233-42bb-baf9-9a339d25467c"
+    },
+    {
+      "object": "related_card",
+      "id": "a9f4584c-fd86-4370-a85b-a989d20f3925",
+      "component": "token",
+      "name": "Dragon",
+      "type_line": "Token Creature — Dragon",
+      "uri": "https://api.scryfall.com/cards/a9f4584c-fd86-4370-a85b-a989d20f3925"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "1e6879fe-2f29-4ad7-8d42-7f5bfb469f4a",
+  "set": "mb2",
+  "set_name": "Mystery Booster 2",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/1e6879fe-2f29-4ad7-8d42-7f5bfb469f4a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amb2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mb2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/31b6b055-d233-42bb-baf9-9a339d25467c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A074cbe14-a0c8-4772-955a-b4052333d6ce&unique=prints",
+  "collector_number": "60",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Grzegorz Rutkowski",
+  "artist_ids": [
+    "b5f49d0d-8056-48e3-b614-090e656b4f9c"
+  ],
+  "illustration_id": "c8667338-2732-428c-8bd7-3aa9c404f573",
+  "border_color": "white",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5205,
+  "penny_rank": 3669,
+  "prices": {
+    "usd": "1.16",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "1.88",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=677736&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSarkhan%252C%2BFireblood",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSarkhan%252C%2BFireblood",
+    "edhrec": "https://edhrec.com/route/?cc=Sarkhan%2C+Fireblood"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F563111%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=784062&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/134012?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

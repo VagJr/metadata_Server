@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "fb8484a4-3ee1-4104-b22a-8a2f1401fbdc",
+  "oracle_id": "b272cb56-dcba-479e-9fba-5b31e616a95f",
+  "multiverse_ids": [
+    547690
+  ],
+  "arena_id": 74005,
+  "name": "Trial of Strength",
+  "lang": "en",
+  "released_at": "2020-08-13",
+  "uri": "https://api.scryfall.com/cards/fb8484a4-3ee1-4104-b22a-8a2f1401fbdc",
+  "scryfall_uri": "https://scryfall.com/card/akr/223/trial-of-strength?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/b/fb8484a4-3ee1-4104-b22a-8a2f1401fbdc.jpg?1597078194",
+    "normal": "https://cards.scryfall.io/normal/front/f/b/fb8484a4-3ee1-4104-b22a-8a2f1401fbdc.jpg?1597078194",
+    "large": "https://cards.scryfall.io/large/front/f/b/fb8484a4-3ee1-4104-b22a-8a2f1401fbdc.jpg?1597078194",
+    "png": "https://cards.scryfall.io/png/front/f/b/fb8484a4-3ee1-4104-b22a-8a2f1401fbdc.png?1597078194",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/b/fb8484a4-3ee1-4104-b22a-8a2f1401fbdc.jpg?1597078194",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/b/fb8484a4-3ee1-4104-b22a-8a2f1401fbdc.jpg?1597078194"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Enchantment",
+  "oracle_text": "When this enchantment enters, create a 4/2 green Beast creature token.\nWhen a Cartouche you control enters, return this enchantment to its owner's hand.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "29b7ecd1-c70e-467c-a9ea-99c2668c3405",
+      "component": "token",
+      "name": "Beast",
+      "type_line": "Token Creature — Beast",
+      "uri": "https://api.scryfall.com/cards/29b7ecd1-c70e-467c-a9ea-99c2668c3405"
+    },
+    {
+      "object": "related_card",
+      "id": "fb8484a4-3ee1-4104-b22a-8a2f1401fbdc",
+      "component": "combo_piece",
+      "name": "Trial of Strength",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/fb8484a4-3ee1-4104-b22a-8a2f1401fbdc"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "915dabb1-b82a-432d-939d-d9b128e65582",
+  "set": "akr",
+  "set_name": "Amonkhet Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/915dabb1-b82a-432d-939d-d9b128e65582",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aakr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/akr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/fb8484a4-3ee1-4104-b22a-8a2f1401fbdc/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab272cb56-dcba-479e-9fba-5b31e616a95f&unique=prints",
+  "collector_number": "223",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kieran Yanner",
+  "artist_ids": [
+    "aa7e89ed-d294-4633-9057-ce04dacfcfa4"
+  ],
+  "illustration_id": "b7fdbc67-10c0-4bfa-a4c3-8a5aa5183bb2",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 26387,
+  "penny_rank": 10665,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547690&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTrial%2Bof%2BStrength",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTrial%2Bof%2BStrength",
+    "edhrec": "https://edhrec.com/route/?cc=Trial+of+Strength"
+  }
+}

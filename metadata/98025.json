@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "e7965cc5-70b8-4c43-8f93-a1731e00f52a",
+  "oracle_id": "de672a4b-07eb-4be8-a03f-23dfbb7ac0fa",
+  "multiverse_ids": [],
+  "mtgo_id": 37594,
+  "name": "Ancient Hellkite",
+  "lang": "en",
+  "released_at": "2010-11-04",
+  "uri": "https://api.scryfall.com/cards/e7965cc5-70b8-4c43-8f93-a1731e00f52a",
+  "scryfall_uri": "https://scryfall.com/card/prm/37594/ancient-hellkite?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/7/e7965cc5-70b8-4c43-8f93-a1731e00f52a.jpg?1562548823",
+    "normal": "https://cards.scryfall.io/normal/front/e/7/e7965cc5-70b8-4c43-8f93-a1731e00f52a.jpg?1562548823",
+    "large": "https://cards.scryfall.io/large/front/e/7/e7965cc5-70b8-4c43-8f93-a1731e00f52a.jpg?1562548823",
+    "png": "https://cards.scryfall.io/png/front/e/7/e7965cc5-70b8-4c43-8f93-a1731e00f52a.png?1562548823",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/7/e7965cc5-70b8-4c43-8f93-a1731e00f52a.jpg?1562548823",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/7/e7965cc5-70b8-4c43-8f93-a1731e00f52a.jpg?1562548823"
+  },
+  "mana_cost": "{4}{R}{R}{R}",
+  "cmc": 7,
+  "type_line": "Creature — Dragon",
+  "oracle_text": "Flying\n{R}: This creature deals 1 damage to target creature defending player controls. Activate only if this creature is attacking.",
+  "power": "6",
+  "toughness": "6",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e7965cc5-70b8-4c43-8f93-a1731e00f52a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ade672a4b-07eb-4be8-a03f-23dfbb7ac0fa&unique=prints",
+  "collector_number": "37594",
+  "digital": true,
+  "rarity": "rare",
+  "flavor_text": "When a dragon attacks, there are no bystanders.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wayne Reynolds",
+  "artist_ids": [
+    "afc47cec-3ccc-404e-a8c6-4d83dd504271"
+  ],
+  "illustration_id": "4417a8cd-5236-46fd-9769-bf98430b430e",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 17974,
+  "penny_rank": 15399,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAncient%2BHellkite",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAncient%2BHellkite",
+    "edhrec": "https://edhrec.com/route/?cc=Ancient+Hellkite"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DAncient%2BHellkite%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ancient+Hellkite&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/37594?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

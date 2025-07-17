@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "6e85ad25-7496-4832-b945-e7a39582faaa",
+  "oracle_id": "7060f2c8-fca0-4b7a-bddf-37682f434596",
+  "multiverse_ids": [
+    622740
+  ],
+  "mtgo_id": 115363,
+  "tcgplayer_id": 507172,
+  "cardmarket_id": 723513,
+  "name": "Whirler Rogue",
+  "lang": "en",
+  "released_at": "2023-08-04",
+  "uri": "https://api.scryfall.com/cards/6e85ad25-7496-4832-b945-e7a39582faaa",
+  "scryfall_uri": "https://scryfall.com/card/cmm/132/whirler-rogue?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/e/6e85ad25-7496-4832-b945-e7a39582faaa.jpg?1689996802",
+    "normal": "https://cards.scryfall.io/normal/front/6/e/6e85ad25-7496-4832-b945-e7a39582faaa.jpg?1689996802",
+    "large": "https://cards.scryfall.io/large/front/6/e/6e85ad25-7496-4832-b945-e7a39582faaa.jpg?1689996802",
+    "png": "https://cards.scryfall.io/png/front/6/e/6e85ad25-7496-4832-b945-e7a39582faaa.png?1689996802",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/e/6e85ad25-7496-4832-b945-e7a39582faaa.jpg?1689996802",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/e/6e85ad25-7496-4832-b945-e7a39582faaa.jpg?1689996802"
+  },
+  "mana_cost": "{2}{U}{U}",
+  "cmc": 4,
+  "type_line": "Creature — Human Rogue Artificer",
+  "oracle_text": "When this creature enters, create two 1/1 colorless Thopter artifact creature tokens with flying.\nTap two untapped artifacts you control: Target creature can't be blocked this turn.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6e85ad25-7496-4832-b945-e7a39582faaa",
+      "component": "combo_piece",
+      "name": "Whirler Rogue",
+      "type_line": "Creature — Human Rogue Artificer",
+      "uri": "https://api.scryfall.com/cards/6e85ad25-7496-4832-b945-e7a39582faaa"
+    },
+    {
+      "object": "related_card",
+      "id": "27a94450-ebe4-49c6-b2b0-bf335880f44f",
+      "component": "token",
+      "name": "Thopter",
+      "type_line": "Token Artifact Creature — Thopter",
+      "uri": "https://api.scryfall.com/cards/27a94450-ebe4-49c6-b2b0-bf335880f44f"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set": "cmm",
+  "set_name": "Commander Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6e85ad25-7496-4832-b945-e7a39582faaa/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7060f2c8-fca0-4b7a-bddf-37682f434596&unique=prints",
+  "collector_number": "132",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Winona Nelson",
+  "artist_ids": [
+    "e45fe8d3-75d6-42c9-a2df-e945ad81ea27"
+  ],
+  "illustration_id": "2053511b-0ae3-4ba4-a8a1-3b2218bccdcd",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1756,
+  "penny_rank": 3958,
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": "0.15",
+    "usd_etched": null,
+    "eur": "0.07",
+    "eur_foil": "0.18",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=622740&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWhirler%2BRogue",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWhirler%2BRogue",
+    "edhrec": "https://edhrec.com/route/?cc=Whirler+Rogue"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F507172%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=723513&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/115363?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

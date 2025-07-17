@@ -1,0 +1,183 @@
+{
+  "object": "card",
+  "id": "5c75740e-9688-47e2-91d6-fbf00b3f7fbb",
+  "oracle_id": "58bd02ae-2676-4c9c-b24e-2bd51be8bde7",
+  "multiverse_ids": [],
+  "mtgo_id": 96602,
+  "tcgplayer_id": 255391,
+  "cardmarket_id": 585120,
+  "name": "Bird Admirer // Wing Shredder",
+  "lang": "en",
+  "released_at": "2022-01-28",
+  "uri": "https://api.scryfall.com/cards/5c75740e-9688-47e2-91d6-fbf00b3f7fbb",
+  "scryfall_uri": "https://scryfall.com/card/dbl/169/bird-admirer-wing-shredder?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 3,
+  "type_line": "Creature — Human Archer Werewolf // Creature — Werewolf",
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Reach",
+    "Daybound",
+    "Nightbound"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Bird Admirer",
+      "mana_cost": "{2}{G}",
+      "type_line": "Creature — Human Archer Werewolf",
+      "oracle_text": "Reach\nDaybound (If a player casts no spells during their own turn, it becomes night next turn.)",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "4",
+      "flavor_text": "She won't rest until she's collected specimens of every bird on Innistrad.",
+      "artist": "Slawomir Maniak",
+      "artist_id": "d887bc66-2779-416c-a1ff-d8720242063e",
+      "illustration_id": "9911cf73-2f04-4ab3-a248-305fcd970486",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/5/c/5c75740e-9688-47e2-91d6-fbf00b3f7fbb.jpg?1673160264",
+        "normal": "https://cards.scryfall.io/normal/front/5/c/5c75740e-9688-47e2-91d6-fbf00b3f7fbb.jpg?1673160264",
+        "large": "https://cards.scryfall.io/large/front/5/c/5c75740e-9688-47e2-91d6-fbf00b3f7fbb.jpg?1673160264",
+        "png": "https://cards.scryfall.io/png/front/5/c/5c75740e-9688-47e2-91d6-fbf00b3f7fbb.png?1673160264",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/5/c/5c75740e-9688-47e2-91d6-fbf00b3f7fbb.jpg?1673160264",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/5/c/5c75740e-9688-47e2-91d6-fbf00b3f7fbb.jpg?1673160264"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Wing Shredder",
+      "mana_cost": "",
+      "type_line": "Creature — Werewolf",
+      "oracle_text": "Reach\nNightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)",
+      "colors": [
+        "G"
+      ],
+      "color_indicator": [
+        "G"
+      ],
+      "power": "3",
+      "toughness": "5",
+      "flavor_text": "Her hunger won't be sated until she's tasted every bird on Innistrad.",
+      "artist": "Slawomir Maniak",
+      "artist_id": "d887bc66-2779-416c-a1ff-d8720242063e",
+      "illustration_id": "539dead3-cc9c-4491-9284-24656316a083",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/5/c/5c75740e-9688-47e2-91d6-fbf00b3f7fbb.jpg?1673160264",
+        "normal": "https://cards.scryfall.io/normal/back/5/c/5c75740e-9688-47e2-91d6-fbf00b3f7fbb.jpg?1673160264",
+        "large": "https://cards.scryfall.io/large/back/5/c/5c75740e-9688-47e2-91d6-fbf00b3f7fbb.jpg?1673160264",
+        "png": "https://cards.scryfall.io/png/back/5/c/5c75740e-9688-47e2-91d6-fbf00b3f7fbb.png?1673160264",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/5/c/5c75740e-9688-47e2-91d6-fbf00b3f7fbb.jpg?1673160264",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/5/c/5c75740e-9688-47e2-91d6-fbf00b3f7fbb.jpg?1673160264"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "5c75740e-9688-47e2-91d6-fbf00b3f7fbb",
+      "component": "combo_piece",
+      "name": "Bird Admirer // Wing Shredder",
+      "type_line": "Creature — Human Archer Werewolf // Creature — Werewolf",
+      "uri": "https://api.scryfall.com/cards/5c75740e-9688-47e2-91d6-fbf00b3f7fbb"
+    },
+    {
+      "object": "related_card",
+      "id": "dc26e13b-7a0f-4e7f-8593-4f22234f4517",
+      "component": "combo_piece",
+      "name": "Day // Night",
+      "type_line": "Card // Card",
+      "uri": "https://api.scryfall.com/cards/dc26e13b-7a0f-4e7f-8593-4f22234f4517"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set": "dbl",
+  "set_name": "Innistrad: Double Feature",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adbl&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dbl?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5c75740e-9688-47e2-91d6-fbf00b3f7fbb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A58bd02ae-2676-4c9c-b24e-2bd51be8bde7&unique=prints",
+  "collector_number": "169",
+  "digital": false,
+  "rarity": "common",
+  "artist": "Slawomir Maniak",
+  "artist_ids": [
+    "d887bc66-2779-416c-a1ff-d8720242063e"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted",
+    "sunmoondfc"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 13597,
+  "penny_rank": 9820,
+  "prices": {
+    "usd": "0.10",
+    "usd_foil": "0.39",
+    "usd_etched": null,
+    "eur": "0.04",
+    "eur_foil": "0.17",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBird%2BAdmirer%2B%252F%252F%2BWing%2BShredder",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBird%2BAdmirer%2B%252F%252F%2BWing%2BShredder",
+    "edhrec": "https://edhrec.com/route/?cc=Bird+Admirer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F255391%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=585120&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/96602?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

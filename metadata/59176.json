@@ -1,0 +1,157 @@
+{
+  "object": "card",
+  "id": "8bcf942f-5afd-414e-a50d-00d884fe59da",
+  "multiverse_ids": [],
+  "tcgplayer_id": 517923,
+  "cardmarket_id": 746105,
+  "name": "Zombie Master // Zombie Master",
+  "lang": "en",
+  "released_at": "2023-10-02",
+  "uri": "https://api.scryfall.com/cards/8bcf942f-5afd-414e-a50d-00d884fe59da",
+  "scryfall_uri": "https://scryfall.com/card/sld/1460/zombie-master-zombie-master?utm_source=api",
+  "layout": "reversible_card",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "oracle_id": "5446c92f-ff22-4e9b-a2f6-e64c8560c1e0",
+      "layout": "normal",
+      "name": "Zombie Master",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3,
+      "type_line": "Creature — Zombie",
+      "oracle_text": "Other Zombie creatures have swampwalk. (They can't be blocked as long as defending player controls a Swamp.)\nOther Zombies have \"{B}: Regenerate this permanent.\"",
+      "colors": [
+        "B"
+      ],
+      "power": "2",
+      "toughness": "3",
+      "artist": "Andrea De Dominicis",
+      "artist_id": "d0f5310c-acb8-4df7-b78d-84a4e5fb2a22",
+      "illustration_id": "5e2db4b1-de0c-40fb-93ee-6fd50e437b45",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/8/b/8bcf942f-5afd-414e-a50d-00d884fe59da.jpg?1695522945",
+        "normal": "https://cards.scryfall.io/normal/front/8/b/8bcf942f-5afd-414e-a50d-00d884fe59da.jpg?1695522945",
+        "large": "https://cards.scryfall.io/large/front/8/b/8bcf942f-5afd-414e-a50d-00d884fe59da.jpg?1695522945",
+        "png": "https://cards.scryfall.io/png/front/8/b/8bcf942f-5afd-414e-a50d-00d884fe59da.png?1695522945",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/8/b/8bcf942f-5afd-414e-a50d-00d884fe59da.jpg?1695522945",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/8/b/8bcf942f-5afd-414e-a50d-00d884fe59da.jpg?1695522945"
+      }
+    },
+    {
+      "object": "card_face",
+      "oracle_id": "5446c92f-ff22-4e9b-a2f6-e64c8560c1e0",
+      "layout": "normal",
+      "name": "Zombie Master",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3,
+      "type_line": "Creature — Zombie",
+      "oracle_text": "Other Zombie creatures have swampwalk. (They can't be blocked as long as defending player controls a Swamp.)\nOther Zombies have \"{B}: Regenerate this permanent.\"",
+      "colors": [
+        "B"
+      ],
+      "power": "2",
+      "toughness": "3",
+      "artist": "Scott Okumura",
+      "artist_id": "f4ec7a06-c25b-41f1-8ae3-6c51ac063cdd",
+      "illustration_id": "9c5bfe5c-57d4-4eb4-9cc0-9a17ae3bd4d9",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/8/b/8bcf942f-5afd-414e-a50d-00d884fe59da.jpg?1695522945",
+        "normal": "https://cards.scryfall.io/normal/back/8/b/8bcf942f-5afd-414e-a50d-00d884fe59da.jpg?1695522945",
+        "large": "https://cards.scryfall.io/large/back/8/b/8bcf942f-5afd-414e-a50d-00d884fe59da.jpg?1695522945",
+        "png": "https://cards.scryfall.io/png/back/8/b/8bcf942f-5afd-414e-a50d-00d884fe59da.png?1695522945",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/8/b/8bcf942f-5afd-414e-a50d-00d884fe59da.jpg?1695522945",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/8/b/8bcf942f-5afd-414e-a50d-00d884fe59da.jpg?1695522945"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8bcf942f-5afd-414e-a50d-00d884fe59da/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5446c92f-ff22-4e9b-a2f6-e64c8560c1e0&unique=prints",
+  "collector_number": "1460",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Andrea De Dominicis & Scott Okumura",
+  "artist_ids": [
+    "d0f5310c-acb8-4df7-b78d-84a4e5fb2a22",
+    "f4ec7a06-c25b-41f1-8ae3-6c51ac063cdd"
+  ],
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "fullart"
+  ],
+  "security_stamp": "triangle",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2816,
+  "prices": {
+    "usd": "14.86",
+    "usd_foil": "15.11",
+    "usd_etched": null,
+    "eur": "9.78",
+    "eur_foil": "11.18",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DZombie%2BMaster%2B%252F%252F%2BZombie%2BMaster",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DZombie%2BMaster%2B%252F%252F%2BZombie%2BMaster",
+    "edhrec": "https://edhrec.com/route/?cc=Zombie+Master+%2F%2F+Zombie+Master"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F517923%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=746105&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Zombie+Master+%2F%2F+Zombie+Master&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

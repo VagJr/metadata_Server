@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "c6bdd5f6-65d6-42cb-853c-62f35940200a",
+  "oracle_id": "16f61f69-cdde-4b6c-b855-c74db9038ceb",
+  "multiverse_ids": [],
+  "mtgo_id": 32585,
+  "name": "Azorius Guildmage",
+  "lang": "en",
+  "released_at": "2013-01-11",
+  "uri": "https://api.scryfall.com/cards/c6bdd5f6-65d6-42cb-853c-62f35940200a",
+  "scryfall_uri": "https://scryfall.com/card/prm/32585/azorius-guildmage?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/6/c6bdd5f6-65d6-42cb-853c-62f35940200a.jpg?1562548012",
+    "normal": "https://cards.scryfall.io/normal/front/c/6/c6bdd5f6-65d6-42cb-853c-62f35940200a.jpg?1562548012",
+    "large": "https://cards.scryfall.io/large/front/c/6/c6bdd5f6-65d6-42cb-853c-62f35940200a.jpg?1562548012",
+    "png": "https://cards.scryfall.io/png/front/c/6/c6bdd5f6-65d6-42cb-853c-62f35940200a.png?1562548012",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/6/c6bdd5f6-65d6-42cb-853c-62f35940200a.jpg?1562548012",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/6/c6bdd5f6-65d6-42cb-853c-62f35940200a.jpg?1562548012"
+  },
+  "mana_cost": "{W/U}{W/U}",
+  "cmc": 2,
+  "type_line": "Creature — Vedalken Wizard",
+  "oracle_text": "{2}{W}: Tap target creature.\n{2}{U}: Counter target activated ability. (Mana abilities can't be targeted.)",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "U",
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c6bdd5f6-65d6-42cb-853c-62f35940200a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A16f61f69-cdde-4b6c-b855-c74db9038ceb&unique=prints",
+  "collector_number": "32585",
+  "digital": true,
+  "rarity": "uncommon",
+  "watermark": "azorius",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Christopher Moeller",
+  "artist_ids": [
+    "21e10012-06ae-44f2-b38d-3824dd2e73d4"
+  ],
+  "illustration_id": "1c03e726-e241-4e56-9943-56ec5131a320",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 12406,
+  "penny_rank": 9815,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAzorius%2BGuildmage",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAzorius%2BGuildmage",
+    "edhrec": "https://edhrec.com/route/?cc=Azorius+Guildmage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DAzorius%2BGuildmage%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Azorius+Guildmage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/32585?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "9aaa1834-c8d8-4610-9774-f50932554531",
+  "oracle_id": "4686f776-2055-470c-bd99-7c4bb32902c0",
+  "multiverse_ids": [],
+  "tcgplayer_id": 284537,
+  "name": "Chandra, Dressed to Kill",
+  "lang": "en",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/9aaa1834-c8d8-4610-9774-f50932554531",
+  "scryfall_uri": "https://scryfall.com/card/pvow/149p/chandra-dressed-to-kill?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/a/9aaa1834-c8d8-4610-9774-f50932554531.jpg?1666017381",
+    "normal": "https://cards.scryfall.io/normal/front/9/a/9aaa1834-c8d8-4610-9774-f50932554531.jpg?1666017381",
+    "large": "https://cards.scryfall.io/large/front/9/a/9aaa1834-c8d8-4610-9774-f50932554531.jpg?1666017381",
+    "png": "https://cards.scryfall.io/png/front/9/a/9aaa1834-c8d8-4610-9774-f50932554531.png?1666017381",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/a/9aaa1834-c8d8-4610-9774-f50932554531.jpg?1666017381",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/a/9aaa1834-c8d8-4610-9774-f50932554531.jpg?1666017381"
+  },
+  "mana_cost": "{1}{R}{R}",
+  "cmc": 3,
+  "type_line": "Legendary Planeswalker — Chandra",
+  "oracle_text": "+1: Add {R}. Chandra deals 1 damage to up to one target player or planeswalker.\n+1: Exile the top card of your library. If it's red, you may cast it this turn.\n−7: Exile the top five cards of your library. You may cast red spells from among them this turn. You get an emblem with \"Whenever you cast a red spell, this emblem deals X damage to any target, where X is the amount of mana spent to cast that spell.\"",
+  "loyalty": "3",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "R"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "ed1ace4e-3789-48a2-9a47-c0400389cff3",
+      "component": "combo_piece",
+      "name": "Chandra, Dressed to Kill",
+      "type_line": "Legendary Planeswalker — Chandra",
+      "uri": "https://api.scryfall.com/cards/ed1ace4e-3789-48a2-9a47-c0400389cff3"
+    },
+    {
+      "object": "related_card",
+      "id": "01783a68-4f61-43ff-94ef-eb0eae654cb7",
+      "component": "combo_piece",
+      "name": "Chandra, Dressed to Kill Emblem",
+      "type_line": "Emblem",
+      "uri": "https://api.scryfall.com/cards/01783a68-4f61-43ff-94ef-eb0eae654cb7"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5636218c-a0d2-45ee-9552-dbc54e8a91a3",
+  "set": "pvow",
+  "set_name": "Innistrad: Crimson Vow Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/5636218c-a0d2-45ee-9552-dbc54e8a91a3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apvow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pvow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9aaa1834-c8d8-4610-9774-f50932554531/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4686f776-2055-470c-bd99-7c4bb32902c0&unique=prints",
+  "collector_number": "149p",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Viktor Titov",
+  "artist_ids": [
+    "2270c0b0-afb4-42b0-bcb6-25fe4ad6eef2"
+  ],
+  "illustration_id": "67cfd208-652a-445c-beb6-73fd4a4b2172",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 5739,
+  "prices": {
+    "usd": "1.84",
+    "usd_foil": "4.34",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DChandra%252C%2BDressed%2Bto%2BKill",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DChandra%252C%2BDressed%2Bto%2BKill",
+    "edhrec": "https://edhrec.com/route/?cc=Chandra%2C+Dressed+to+Kill"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F284537%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Chandra%2C+Dressed+to+Kill&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Chandra%2C+Dressed+to+Kill&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

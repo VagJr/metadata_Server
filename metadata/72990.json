@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "ac2a2178-8e1f-4d64-9711-5b7264632200",
+  "oracle_id": "66f9f325-5e8e-4ebf-b5b3-c6410d80f2c5",
+  "multiverse_ids": [
+    509364
+  ],
+  "mtgo_id": 87207,
+  "tcgplayer_id": 232586,
+  "cardmarket_id": 567152,
+  "name": "Gisela, Blade of Goldnight",
+  "lang": "en",
+  "released_at": "2021-02-12",
+  "uri": "https://api.scryfall.com/cards/ac2a2178-8e1f-4d64-9711-5b7264632200",
+  "scryfall_uri": "https://scryfall.com/card/sld/218/gisela-blade-of-goldnight?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/c/ac2a2178-8e1f-4d64-9711-5b7264632200.jpg?1682690883",
+    "normal": "https://cards.scryfall.io/normal/front/a/c/ac2a2178-8e1f-4d64-9711-5b7264632200.jpg?1682690883",
+    "large": "https://cards.scryfall.io/large/front/a/c/ac2a2178-8e1f-4d64-9711-5b7264632200.jpg?1682690883",
+    "png": "https://cards.scryfall.io/png/front/a/c/ac2a2178-8e1f-4d64-9711-5b7264632200.png?1682690883",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/c/ac2a2178-8e1f-4d64-9711-5b7264632200.jpg?1682690883",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/c/ac2a2178-8e1f-4d64-9711-5b7264632200.jpg?1682690883"
+  },
+  "mana_cost": "{4}{R}{W}{W}",
+  "cmc": 7,
+  "type_line": "Legendary Creature — Angel",
+  "oracle_text": "Flying, first strike\nIf a source would deal damage to an opponent or a permanent an opponent controls, that source deals double that damage to that player or permanent instead.\nIf a source would deal damage to you or a permanent you control, prevent half that damage, rounded up.",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "R",
+    "W"
+  ],
+  "color_identity": [
+    "R",
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "First strike"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ac2a2178-8e1f-4d64-9711-5b7264632200/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A66f9f325-5e8e-4ebf-b5b3-c6410d80f2c5&unique=prints",
+  "collector_number": "218",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Brandi Milne",
+  "artist_ids": [
+    "01cc1b83-03de-40a7-aa38-a9d23cf2fe8b"
+  ],
+  "illustration_id": "e6871bb0-5a29-4753-80f9-8397d904e042",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1013,
+  "penny_rank": 3705,
+  "prices": {
+    "usd": "4.62",
+    "usd_foil": "7.31",
+    "usd_etched": null,
+    "eur": "5.54",
+    "eur_foil": "7.57",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=509364&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGisela%252C%2BBlade%2Bof%2BGoldnight",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGisela%252C%2BBlade%2Bof%2BGoldnight",
+    "edhrec": "https://edhrec.com/route/?cc=Gisela%2C+Blade+of+Goldnight"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F232586%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=567152&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/87207?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

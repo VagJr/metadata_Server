@@ -1,0 +1,113 @@
+{
+  "object": "card",
+  "id": "a6c52eca-dd78-492d-a225-0d53f4705e1e",
+  "oracle_id": "f025c1da-734e-4cbb-99d8-9d700d6edbde",
+  "multiverse_ids": [
+    547824
+  ],
+  "arena_id": 75596,
+  "name": "Fragmentize",
+  "lang": "en",
+  "released_at": "2020-11-12",
+  "uri": "https://api.scryfall.com/cards/a6c52eca-dd78-492d-a225-0d53f4705e1e",
+  "scryfall_uri": "https://scryfall.com/card/klr/18/fragmentize?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/6/a6c52eca-dd78-492d-a225-0d53f4705e1e.jpg?1605326579",
+    "normal": "https://cards.scryfall.io/normal/front/a/6/a6c52eca-dd78-492d-a225-0d53f4705e1e.jpg?1605326579",
+    "large": "https://cards.scryfall.io/large/front/a/6/a6c52eca-dd78-492d-a225-0d53f4705e1e.jpg?1605326579",
+    "png": "https://cards.scryfall.io/png/front/a/6/a6c52eca-dd78-492d-a225-0d53f4705e1e.png?1605326579",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/6/a6c52eca-dd78-492d-a225-0d53f4705e1e.jpg?1605326579",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/6/a6c52eca-dd78-492d-a225-0d53f4705e1e.jpg?1605326579"
+  },
+  "mana_cost": "{W}",
+  "cmc": 1,
+  "type_line": "Sorcery",
+  "oracle_text": "Destroy target artifact or enchantment with mana value 4 or less.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cff93939-c724-4ed0-9367-e1277d39ba70",
+  "set": "klr",
+  "set_name": "Kaladesh Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cff93939-c724-4ed0-9367-e1277d39ba70",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aklr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/klr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a6c52eca-dd78-492d-a225-0d53f4705e1e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af025c1da-734e-4cbb-99d8-9d700d6edbde&unique=prints",
+  "collector_number": "18",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason Felix",
+  "artist_ids": [
+    "af42a44c-8ec3-47a7-9047-5d29ddad186d"
+  ],
+  "illustration_id": "2a80091b-4214-4ce5-9fe2-00da0b6f4567",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 11725,
+  "penny_rank": 1472,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547824&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFragmentize",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFragmentize",
+    "edhrec": "https://edhrec.com/route/?cc=Fragmentize"
+  }
+}

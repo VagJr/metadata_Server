@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "6f141feb-f6c3-4232-9a11-43d81cc8076f",
+  "oracle_id": "b3b00911-ece7-4484-bc36-f211ce72b6cc",
+  "multiverse_ids": [],
+  "tcgplayer_id": 565171,
+  "cardmarket_id": 785685,
+  "name": "Stifle",
+  "flavor_name": "Beholder's Sleep Ray",
+  "lang": "en",
+  "released_at": "2024-08-27",
+  "uri": "https://api.scryfall.com/cards/6f141feb-f6c3-4232-9a11-43d81cc8076f",
+  "scryfall_uri": "https://scryfall.com/card/sld/1787/stifle?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/f/6f141feb-f6c3-4232-9a11-43d81cc8076f.jpg?1723671322",
+    "normal": "https://cards.scryfall.io/normal/front/6/f/6f141feb-f6c3-4232-9a11-43d81cc8076f.jpg?1723671322",
+    "large": "https://cards.scryfall.io/large/front/6/f/6f141feb-f6c3-4232-9a11-43d81cc8076f.jpg?1723671322",
+    "png": "https://cards.scryfall.io/png/front/6/f/6f141feb-f6c3-4232-9a11-43d81cc8076f.png?1723671322",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/f/6f141feb-f6c3-4232-9a11-43d81cc8076f.jpg?1723671322",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/f/6f141feb-f6c3-4232-9a11-43d81cc8076f.jpg?1723671322"
+  },
+  "mana_cost": "{U}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "oracle_text": "Counter target activated or triggered ability. (Mana abilities can't be targeted.)",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6f141feb-f6c3-4232-9a11-43d81cc8076f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab3b00911-ece7-4484-bc36-f211ce72b6cc&unique=prints",
+  "collector_number": "1787",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"On a failed save, target creature falls asleep.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Doodleskelly",
+  "artist_ids": [
+    "b1d29a79-9932-4506-b689-fff484fc7ee0"
+  ],
+  "illustration_id": "502c964a-df47-4d52-88e4-368a0279f461",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4572,
+  "preview": {
+    "source": "MMORPG",
+    "source_uri": "https://www.mmorpg.com/previews/exclusive-magic-the-gathering-dandd-death-is-in-the-eye-of-the-beholder-i-secret-lair-cards-revealed-2000132491",
+    "previewed_at": "2024-08-14"
+  },
+  "prices": {
+    "usd": "9.36",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "11.59",
+    "eur_foil": "12.95",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DStifle",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DStifle",
+    "edhrec": "https://edhrec.com/route/?cc=Stifle"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F565171%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=785685&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Stifle&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

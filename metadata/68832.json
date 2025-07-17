@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "a2ac3238-8eb4-4505-854f-fc1c9507a885",
+  "oracle_id": "6f981e70-5828-49ac-8a72-cf1cc09be991",
+  "multiverse_ids": [],
+  "tcgplayer_id": 213929,
+  "cardmarket_id": 461449,
+  "name": "Rielle, the Everwise",
+  "lang": "en",
+  "released_at": "2020-04-24",
+  "uri": "https://api.scryfall.com/cards/a2ac3238-8eb4-4505-854f-fc1c9507a885",
+  "scryfall_uri": "https://scryfall.com/card/piko/203p/rielle-the-everwise?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/2/a2ac3238-8eb4-4505-854f-fc1c9507a885.jpg?1591310989",
+    "normal": "https://cards.scryfall.io/normal/front/a/2/a2ac3238-8eb4-4505-854f-fc1c9507a885.jpg?1591310989",
+    "large": "https://cards.scryfall.io/large/front/a/2/a2ac3238-8eb4-4505-854f-fc1c9507a885.jpg?1591310989",
+    "png": "https://cards.scryfall.io/png/front/a/2/a2ac3238-8eb4-4505-854f-fc1c9507a885.png?1591310989",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/2/a2ac3238-8eb4-4505-854f-fc1c9507a885.jpg?1591310989",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/2/a2ac3238-8eb4-4505-854f-fc1c9507a885.jpg?1591310989"
+  },
+  "mana_cost": "{1}{U}{R}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Human Wizard",
+  "oracle_text": "Rielle gets +1/+0 for each instant and sorcery card in your graveyard.\nWhenever you discard one or more cards for the first time each turn, draw that many cards.",
+  "power": "0",
+  "toughness": "3",
+  "colors": [
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "0e5fad97-b777-437a-b015-44428c42bf46",
+  "set": "piko",
+  "set_name": "Ikoria: Lair of Behemoths Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/0e5fad97-b777-437a-b015-44428c42bf46",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apiko&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/piko?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a2ac3238-8eb4-4505-854f-fc1c9507a885/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6f981e70-5828-49ac-8a72-cf1cc09be991&unique=prints",
+  "collector_number": "203p",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "\"Being all-knowing is a matter of remembering which things it is crucial to forget.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Yongjae Choi",
+  "artist_ids": [
+    "5ab91c3b-a6da-4751-a56e-81d0f61a67ab"
+  ],
+  "illustration_id": "61c848c8-1669-4720-b686-8416c3e6b7e6",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 5687,
+  "penny_rank": 8058,
+  "prices": {
+    "usd": "2.41",
+    "usd_foil": "4.97",
+    "usd_etched": null,
+    "eur": "3.32",
+    "eur_foil": "2.56",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRielle%252C%2Bthe%2BEverwise",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRielle%252C%2Bthe%2BEverwise",
+    "edhrec": "https://edhrec.com/route/?cc=Rielle%2C+the+Everwise"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F213929%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=461449&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rielle%2C+the+Everwise&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

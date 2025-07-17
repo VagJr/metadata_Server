@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "937aba9c-1c5b-49d0-885c-ddcd95bf8aa3",
+  "oracle_id": "cfc5dc9c-6f26-460b-a624-3681b8584eb3",
+  "multiverse_ids": [],
+  "tcgplayer_id": 284535,
+  "cardmarket_id": 673837,
+  "name": "Zur, Eternal Schemer",
+  "lang": "en",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/937aba9c-1c5b-49d0-885c-ddcd95bf8aa3",
+  "scryfall_uri": "https://scryfall.com/card/pdmu/228p/zur-eternal-schemer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/3/937aba9c-1c5b-49d0-885c-ddcd95bf8aa3.jpg?1675619465",
+    "normal": "https://cards.scryfall.io/normal/front/9/3/937aba9c-1c5b-49d0-885c-ddcd95bf8aa3.jpg?1675619465",
+    "large": "https://cards.scryfall.io/large/front/9/3/937aba9c-1c5b-49d0-885c-ddcd95bf8aa3.jpg?1675619465",
+    "png": "https://cards.scryfall.io/png/front/9/3/937aba9c-1c5b-49d0-885c-ddcd95bf8aa3.png?1675619465",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/3/937aba9c-1c5b-49d0-885c-ddcd95bf8aa3.jpg?1675619465",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/3/937aba9c-1c5b-49d0-885c-ddcd95bf8aa3.jpg?1675619465"
+  },
+  "mana_cost": "{W}{U}{B}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Human Wizard",
+  "oracle_text": "Flying\nEnchantment creatures you control have deathtouch, lifelink, and hexproof.\n{1}{W}: Target non-Aura enchantment you control becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value.",
+  "power": "1",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "U",
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "Lifelink"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8d8c82dd-0cc2-43b8-8d1c-7620fc4d98d7",
+  "set": "pdmu",
+  "set_name": "Dominaria United Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/8d8c82dd-0cc2-43b8-8d1c-7620fc4d98d7",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apdmu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pdmu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/937aba9c-1c5b-49d0-885c-ddcd95bf8aa3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acfc5dc9c-6f26-460b-a624-3681b8584eb3&unique=prints",
+  "collector_number": "228p",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jesper Ejsing",
+  "artist_ids": [
+    "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+  ],
+  "illustration_id": "7faaf543-40d5-4655-bbb3-627841c71009",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 3926,
+  "prices": {
+    "usd": "10.78",
+    "usd_foil": "12.02",
+    "usd_etched": null,
+    "eur": "10.41",
+    "eur_foil": "7.50",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DZur%252C%2BEternal%2BSchemer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DZur%252C%2BEternal%2BSchemer",
+    "edhrec": "https://edhrec.com/route/?cc=Zur%2C+Eternal+Schemer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F284535%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=673837&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Zur%2C+Eternal+Schemer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

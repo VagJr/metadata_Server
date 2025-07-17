@@ -1,0 +1,138 @@
+{
+  "object": "card",
+  "id": "03b86f24-de8c-40f5-9486-119a366c42e1",
+  "oracle_id": "20f3bc44-c7fa-4d5a-adb9-2dd1d2d66ffe",
+  "multiverse_ids": [
+    586311
+  ],
+  "tcgplayer_id": 453158,
+  "cardmarket_id": 683370,
+  "name": "Sardian Cliffstomper",
+  "lang": "en",
+  "released_at": "2022-11-18",
+  "uri": "https://api.scryfall.com/cards/03b86f24-de8c-40f5-9486-119a366c42e1",
+  "scryfall_uri": "https://scryfall.com/card/bro/383/sardian-cliffstomper?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/3/03b86f24-de8c-40f5-9486-119a366c42e1.jpg?1674338694",
+    "normal": "https://cards.scryfall.io/normal/front/0/3/03b86f24-de8c-40f5-9486-119a366c42e1.jpg?1674338694",
+    "large": "https://cards.scryfall.io/large/front/0/3/03b86f24-de8c-40f5-9486-119a366c42e1.jpg?1674338694",
+    "png": "https://cards.scryfall.io/png/front/0/3/03b86f24-de8c-40f5-9486-119a366c42e1.png?1674338694",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/3/03b86f24-de8c-40f5-9486-119a366c42e1.jpg?1674338694",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/3/03b86f24-de8c-40f5-9486-119a366c42e1.jpg?1674338694"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Creature — Minotaur Barbarian",
+  "oracle_text": "As long as it's your turn and you control four or more Mountains, this creature gets +X/+0, where X is the number of Mountains you control.",
+  "power": "0",
+  "toughness": "4",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4219a14e-6701-4ddd-a185-21dc054ab19b",
+  "set": "bro",
+  "set_name": "The Brothers' War",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/4219a14e-6701-4ddd-a185-21dc054ab19b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abro&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/bro?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/03b86f24-de8c-40f5-9486-119a366c42e1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A20f3bc44-c7fa-4d5a-adb9-2dd1d2d66ffe&unique=prints",
+  "collector_number": "383",
+  "digital": false,
+  "rarity": "uncommon",
+  "watermark": "planeswalker",
+  "flavor_text": "When Urza betrayed the Sardian dwarves, they called upon the might of their neighbors for aid.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Joseph Weston",
+  "artist_ids": [
+    "50365a81-fa9f-4fcf-aa83-6a57c63ad43e"
+  ],
+  "illustration_id": "a71b24ba-b823-4c58-9599-3fa462bf3be1",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack"
+  ],
+  "edhrec_rank": 13447,
+  "penny_rank": 12721,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.gg/news/play-promos-await-with-the-brothers-war",
+    "previewed_at": "2022-11-01"
+  },
+  "prices": {
+    "usd": "0.17",
+    "usd_foil": "0.34",
+    "usd_etched": null,
+    "eur": "0.17",
+    "eur_foil": "0.26",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=586311&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSardian%2BCliffstomper",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSardian%2BCliffstomper",
+    "edhrec": "https://edhrec.com/route/?cc=Sardian+Cliffstomper"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F453158%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=683370&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sardian+Cliffstomper&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

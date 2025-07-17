@@ -1,0 +1,116 @@
+{
+  "object": "card",
+  "id": "3be03def-6e43-4420-8380-8f4e5cf39500",
+  "oracle_id": "e62f8d69-a559-4f13-a5c9-5fb750b4af2c",
+  "multiverse_ids": [],
+  "tcgplayer_id": 256410,
+  "cardmarket_id": 609872,
+  "name": "Grim Tutor",
+  "lang": "en",
+  "released_at": "2021-11-20",
+  "uri": "https://api.scryfall.com/cards/3be03def-6e43-4420-8380-8f4e5cf39500",
+  "scryfall_uri": "https://scryfall.com/card/sld/365/grim-tutor?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/b/3be03def-6e43-4420-8380-8f4e5cf39500.jpg?1741439442",
+    "normal": "https://cards.scryfall.io/normal/front/3/b/3be03def-6e43-4420-8380-8f4e5cf39500.jpg?1741439442",
+    "large": "https://cards.scryfall.io/large/front/3/b/3be03def-6e43-4420-8380-8f4e5cf39500.jpg?1741439442",
+    "png": "https://cards.scryfall.io/png/front/3/b/3be03def-6e43-4420-8380-8f4e5cf39500.png?1741439442",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/b/3be03def-6e43-4420-8380-8f4e5cf39500.jpg?1741439442",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/b/3be03def-6e43-4420-8380-8f4e5cf39500.jpg?1741439442"
+  },
+  "mana_cost": "{1}{B}{B}",
+  "cmc": 3,
+  "type_line": "Sorcery",
+  "oracle_text": "Search your library for a card, put that card into your hand, then shuffle. You lose 3 life.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3be03def-6e43-4420-8380-8f4e5cf39500/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae62f8d69-a559-4f13-a5c9-5fb750b4af2c&unique=prints",
+  "collector_number": "365",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "nothing is sacred.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "MSCHF",
+  "artist_ids": [
+    "6d831e65-b8be-475f-844d-3cc7049e5834"
+  ],
+  "illustration_id": "212961fb-9825-46e4-9ab9-9b16a7307064",
+  "border_color": "borderless",
+  "frame": "2015",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 635,
+  "prices": {
+    "usd": null,
+    "usd_foil": "25.19",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "20.39",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGrim%2BTutor",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGrim%2BTutor",
+    "edhrec": "https://edhrec.com/route/?cc=Grim+Tutor"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F256410%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=609872&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Grim+Tutor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

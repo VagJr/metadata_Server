@@ -1,0 +1,151 @@
+{
+  "object": "card",
+  "id": "c5261d46-bf8c-4c29-8683-9a4fe4b23b8d",
+  "oracle_id": "498c10c9-253d-4b15-b48c-1509381b17e8",
+  "multiverse_ids": [
+    653156
+  ],
+  "mtgo_id": 132009,
+  "tcgplayer_id": 540945,
+  "cardmarket_id": 758339,
+  "name": "Unexpected Windfall",
+  "lang": "en",
+  "released_at": "2024-03-08",
+  "uri": "https://api.scryfall.com/cards/c5261d46-bf8c-4c29-8683-9a4fe4b23b8d",
+  "scryfall_uri": "https://scryfall.com/card/pip/193/unexpected-windfall?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/5/c5261d46-bf8c-4c29-8683-9a4fe4b23b8d.jpg?1708742975",
+    "normal": "https://cards.scryfall.io/normal/front/c/5/c5261d46-bf8c-4c29-8683-9a4fe4b23b8d.jpg?1708742975",
+    "large": "https://cards.scryfall.io/large/front/c/5/c5261d46-bf8c-4c29-8683-9a4fe4b23b8d.jpg?1708742975",
+    "png": "https://cards.scryfall.io/png/front/c/5/c5261d46-bf8c-4c29-8683-9a4fe4b23b8d.png?1708742975",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/5/c5261d46-bf8c-4c29-8683-9a4fe4b23b8d.jpg?1708742975",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/5/c5261d46-bf8c-4c29-8683-9a4fe4b23b8d.jpg?1708742975"
+  },
+  "mana_cost": "{2}{R}{R}",
+  "cmc": 4,
+  "type_line": "Instant",
+  "oracle_text": "As an additional cost to cast this spell, discard a card.\nDraw two cards and create two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Treasure"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "1d74d012-66ca-4a0c-9e90-e31e96730d4d",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/1d74d012-66ca-4a0c-9e90-e31e96730d4d"
+    },
+    {
+      "object": "related_card",
+      "id": "fae31c29-280f-4459-9a11-6706cfa1fe2c",
+      "component": "combo_piece",
+      "name": "Unexpected Windfall",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/fae31c29-280f-4459-9a11-6706cfa1fe2c"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+  "set": "pip",
+  "set_name": "Fallout",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apip&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pip?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c5261d46-bf8c-4c29-8683-9a4fe4b23b8d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A498c10c9-253d-4b15-b48c-1509381b17e8&unique=prints",
+  "collector_number": "193",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Nice. Coming back later for you. . . .\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Rafater",
+  "artist_ids": [
+    "5157b931-ac23-49b6-a2c4-c4cf4bbc2118"
+  ],
+  "illustration_id": "2698a5a0-2fc8-43ec-8cd2-e2d68d078e6f",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 384,
+  "penny_rank": 3206,
+  "prices": {
+    "usd": "1.10",
+    "usd_foil": "5.32",
+    "usd_etched": null,
+    "eur": "1.50",
+    "eur_foil": "1.81",
+    "tix": "0.21"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=653156&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DUnexpected%2BWindfall",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DUnexpected%2BWindfall",
+    "edhrec": "https://edhrec.com/route/?cc=Unexpected+Windfall"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F540945%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=758339&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/132009?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

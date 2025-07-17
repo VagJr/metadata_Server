@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "af57b2e6-75d8-4508-8f1c-36e1238d3d45",
+  "oracle_id": "74b7fe23-5d3a-4092-8d78-7c0eba8f6f73",
+  "multiverse_ids": [
+    534750
+  ],
+  "arena_id": 80877,
+  "name": "Tropical Island",
+  "lang": "en",
+  "released_at": "2021-08-26",
+  "uri": "https://api.scryfall.com/cards/af57b2e6-75d8-4508-8f1c-36e1238d3d45",
+  "scryfall_uri": "https://scryfall.com/card/j21/792/tropical-island?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/f/af57b2e6-75d8-4508-8f1c-36e1238d3d45.jpg?1630270105",
+    "normal": "https://cards.scryfall.io/normal/front/a/f/af57b2e6-75d8-4508-8f1c-36e1238d3d45.jpg?1630270105",
+    "large": "https://cards.scryfall.io/large/front/a/f/af57b2e6-75d8-4508-8f1c-36e1238d3d45.jpg?1630270105",
+    "png": "https://cards.scryfall.io/png/front/a/f/af57b2e6-75d8-4508-8f1c-36e1238d3d45.png?1630270105",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/f/af57b2e6-75d8-4508-8f1c-36e1238d3d45.jpg?1630270105",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/f/af57b2e6-75d8-4508-8f1c-36e1238d3d45.jpg?1630270105"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land — Forest Island",
+  "oracle_text": "({T}: Add {G} or {U}.)",
+  "colors": [],
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "G",
+    "U"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "40cc6b1c-8f3d-4128-97ac-33381868ddd2",
+      "component": "combo_piece",
+      "name": "Shoreline Scout",
+      "type_line": "Creature — Merfolk Scout",
+      "uri": "https://api.scryfall.com/cards/40cc6b1c-8f3d-4128-97ac-33381868ddd2"
+    },
+    {
+      "object": "related_card",
+      "id": "af57b2e6-75d8-4508-8f1c-36e1238d3d45",
+      "component": "combo_piece",
+      "name": "Tropical Island",
+      "type_line": "Land — Forest Island",
+      "uri": "https://api.scryfall.com/cards/af57b2e6-75d8-4508-8f1c-36e1238d3d45"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": true,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e1cc23bd-379b-4f2c-a4e0-83fc1e7be023",
+  "set": "j21",
+  "set_name": "Jumpstart: Historic Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/e1cc23bd-379b-4f2c-a4e0-83fc1e7be023",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj21&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j21?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/af57b2e6-75d8-4508-8f1c-36e1238d3d45/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A74b7fe23-5d3a-4092-8d78-7c0eba8f6f73&unique=prints",
+  "collector_number": "792",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Franz Vohwinkel",
+  "artist_ids": [
+    "3a243c17-3baa-4b53-9599-645311cd7d3d"
+  ],
+  "illustration_id": "5a843e64-8099-4164-9c22-ce146cb5fcc2",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 375,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534750&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTropical%2BIsland",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTropical%2BIsland",
+    "edhrec": "https://edhrec.com/route/?cc=Tropical+Island"
+  }
+}

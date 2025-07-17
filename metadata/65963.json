@@ -1,0 +1,149 @@
+{
+  "object": "card",
+  "id": "9bf6c444-abf1-4820-be02-7ab83788121d",
+  "oracle_id": "35a17b42-9d3f-49ef-8218-2780c5ef5f08",
+  "multiverse_ids": [
+    636118
+  ],
+  "mtgo_id": 119432,
+  "tcgplayer_id": 526182,
+  "cardmarket_id": 737736,
+  "name": "Soothing of Sméagol",
+  "lang": "en",
+  "released_at": "2023-11-03",
+  "uri": "https://api.scryfall.com/cards/9bf6c444-abf1-4820-be02-7ab83788121d",
+  "scryfall_uri": "https://scryfall.com/card/ltr/521/soothing-of-sm%C3%A9agol?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/b/9bf6c444-abf1-4820-be02-7ab83788121d.jpg?1695448381",
+    "normal": "https://cards.scryfall.io/normal/front/9/b/9bf6c444-abf1-4820-be02-7ab83788121d.jpg?1695448381",
+    "large": "https://cards.scryfall.io/large/front/9/b/9bf6c444-abf1-4820-be02-7ab83788121d.jpg?1695448381",
+    "png": "https://cards.scryfall.io/png/front/9/b/9bf6c444-abf1-4820-be02-7ab83788121d.png?1695448381",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/b/9bf6c444-abf1-4820-be02-7ab83788121d.jpg?1695448381",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/b/9bf6c444-abf1-4820-be02-7ab83788121d.jpg?1695448381"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Return target nontoken creature to its owner's hand. The Ring tempts you.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "9bf6c444-abf1-4820-be02-7ab83788121d",
+      "component": "combo_piece",
+      "name": "Soothing of Sméagol",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/9bf6c444-abf1-4820-be02-7ab83788121d"
+    },
+    {
+      "object": "related_card",
+      "id": "7215460e-8c06-47d0-94e5-d1832d0218af",
+      "component": "combo_piece",
+      "name": "The Ring // The Ring Tempts You",
+      "type_line": "Emblem // Card",
+      "uri": "https://api.scryfall.com/cards/7215460e-8c06-47d0-94e5-d1832d0218af"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "08078706-ac5d-439b-8f01-894d38751367",
+  "set": "ltr",
+  "set_name": "The Lord of the Rings: Tales of Middle-earth",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/08078706-ac5d-439b-8f01-894d38751367",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9bf6c444-abf1-4820-be02-7ab83788121d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A35a17b42-9d3f-49ef-8218-2780c5ef5f08&unique=prints",
+  "collector_number": "521",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Frodo's heart sank. This was too much like trickery, and certainly what he did would seem a treachery to the poor treacherous creature.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lixin Yin",
+  "artist_ids": [
+    "25645c87-71be-400b-8522-618a52c37454"
+  ],
+  "illustration_id": "c3ec09c7-c417-4eec-8d71-da6f95f12e4e",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "silverfoil",
+    "scroll",
+    "boosterfun"
+  ],
+  "edhrec_rank": 5353,
+  "prices": {
+    "usd": "0.31",
+    "usd_foil": "0.39",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.26",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=636118&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSoothing%2Bof%2BSm%25C3%25A9agol",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSoothing%2Bof%2BSm%25C3%25A9agol",
+    "edhrec": "https://edhrec.com/route/?cc=Soothing+of+Sm%C3%A9agol"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F526182%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=737736&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/119432?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

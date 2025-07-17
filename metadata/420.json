@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "00f6934f-2dd1-4715-9b7c-3ec59e8d083e",
+  "oracle_id": "1f544a9f-c238-4858-be19-d6cd7d023dcc",
+  "multiverse_ids": [
+    21128
+  ],
+  "tcgplayer_id": 37590,
+  "cardmarket_id": 14654,
+  "name": "Opportunity",
+  "lang": "en",
+  "released_at": "1999-11-12",
+  "uri": "https://api.scryfall.com/cards/00f6934f-2dd1-4715-9b7c-3ec59e8d083e",
+  "scryfall_uri": "https://scryfall.com/card/brb/47/opportunity?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/0/00f6934f-2dd1-4715-9b7c-3ec59e8d083e.jpg?1562895246",
+    "normal": "https://cards.scryfall.io/normal/front/0/0/00f6934f-2dd1-4715-9b7c-3ec59e8d083e.jpg?1562895246",
+    "large": "https://cards.scryfall.io/large/front/0/0/00f6934f-2dd1-4715-9b7c-3ec59e8d083e.jpg?1562895246",
+    "png": "https://cards.scryfall.io/png/front/0/0/00f6934f-2dd1-4715-9b7c-3ec59e8d083e.png?1562895246",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/0/00f6934f-2dd1-4715-9b7c-3ec59e8d083e.jpg?1562895246",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/0/00f6934f-2dd1-4715-9b7c-3ec59e8d083e.jpg?1562895246"
+  },
+  "mana_cost": "{4}{U}{U}",
+  "cmc": 6,
+  "type_line": "Instant",
+  "oracle_text": "Target player draws four cards.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "81118b2a-b5c8-4fdc-830a-ce5b74eb60b9",
+  "set": "brb",
+  "set_name": "Battle Royale Box Set",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/81118b2a-b5c8-4fdc-830a-ce5b74eb60b9",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abrb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/brb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/00f6934f-2dd1-4715-9b7c-3ec59e8d083e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1f544a9f-c238-4858-be19-d6cd7d023dcc&unique=prints",
+  "collector_number": "47",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"He cocooned himself alone in his workshop for months. When he finally emerged, all broad grins and excited chatter, I knew he'd found his answer.\"\n—Barrin, master wizard",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ron Spears",
+  "artist_ids": [
+    "fce9030b-86bd-4439-b06a-920a1eeb184c"
+  ],
+  "illustration_id": "dfbffc9d-5f34-4b48-8ab5-286b0f108c87",
+  "border_color": "white",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 13031,
+  "penny_rank": 4778,
+  "prices": {
+    "usd": "0.17",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.56",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21128&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOpportunity",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOpportunity",
+    "edhrec": "https://edhrec.com/route/?cc=Opportunity"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F37590%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=14654&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Opportunity&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

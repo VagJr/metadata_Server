@@ -1,0 +1,151 @@
+{
+  "object": "card",
+  "id": "e52caa08-34ae-4c74-83ad-008d17005576",
+  "oracle_id": "d0be5969-0442-4557-a5fc-bee56e1835c2",
+  "multiverse_ids": [
+    668858
+  ],
+  "mtgo_id": 129127,
+  "tcgplayer_id": 558599,
+  "name": "Thundertrap Trainer",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/e52caa08-34ae-4c74-83ad-008d17005576",
+  "scryfall_uri": "https://scryfall.com/card/blb/386/thundertrap-trainer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/5/e52caa08-34ae-4c74-83ad-008d17005576.jpg?1724104649",
+    "normal": "https://cards.scryfall.io/normal/front/e/5/e52caa08-34ae-4c74-83ad-008d17005576.jpg?1724104649",
+    "large": "https://cards.scryfall.io/large/front/e/5/e52caa08-34ae-4c74-83ad-008d17005576.jpg?1724104649",
+    "png": "https://cards.scryfall.io/png/front/e/5/e52caa08-34ae-4c74-83ad-008d17005576.png?1724104649",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/5/e52caa08-34ae-4c74-83ad-008d17005576.jpg?1724104649",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/5/e52caa08-34ae-4c74-83ad-008d17005576.jpg?1724104649"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Creature — Otter Wizard",
+  "oracle_text": "Offspring {4} (You may pay an additional {4} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)\nWhen this creature enters, look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+  "power": "1",
+  "toughness": "2",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Offspring"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e52caa08-34ae-4c74-83ad-008d17005576",
+      "component": "combo_piece",
+      "name": "Thundertrap Trainer",
+      "type_line": "Creature — Otter Wizard",
+      "uri": "https://api.scryfall.com/cards/e52caa08-34ae-4c74-83ad-008d17005576"
+    },
+    {
+      "object": "related_card",
+      "id": "80bcbe35-7764-4c75-b954-cbba11372dec",
+      "component": "token",
+      "name": "Thundertrap Trainer",
+      "type_line": "Token Creature — Otter Wizard",
+      "uri": "https://api.scryfall.com/cards/80bcbe35-7764-4c75-b954-cbba11372dec"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a2f58272-bba6-439d-871e-7a46686ac018",
+  "set": "blb",
+  "set_name": "Bloomburrow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/a2f58272-bba6-439d-871e-7a46686ac018",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/blb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e52caa08-34ae-4c74-83ad-008d17005576/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad0be5969-0442-4557-a5fc-bee56e1835c2&unique=prints",
+  "collector_number": "386",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jesper Ejsing",
+  "artist_ids": [
+    "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+  ],
+  "illustration_id": "436af95d-1b54-4658-938c-b26b4da9e22a",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "bundle"
+  ],
+  "edhrec_rank": 6428,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/products/bloomburrow/card-image-gallery",
+    "previewed_at": "2024-07-09"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.29",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "8.49"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=668858&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThundertrap%2BTrainer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThundertrap%2BTrainer",
+    "edhrec": "https://edhrec.com/route/?cc=Thundertrap+Trainer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F558599%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Thundertrap+Trainer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/129127?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

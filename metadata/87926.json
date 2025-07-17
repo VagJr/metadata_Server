@@ -1,0 +1,138 @@
+{
+  "object": "card",
+  "id": "cf7e8917-8bd1-4899-bc78-7a5815c08057",
+  "oracle_id": "7e6b9b59-cd68-4e3c-827b-38833c92d6eb",
+  "multiverse_ids": [],
+  "mtgo_id": 109418,
+  "arena_id": 85551,
+  "tcgplayer_etched_id": 487108,
+  "name": "Atraxa, Praetors' Voice",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/cf7e8917-8bd1-4899-bc78-7a5815c08057",
+  "scryfall_uri": "https://scryfall.com/card/mul/98/atraxa-praetors-voice?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/f/cf7e8917-8bd1-4899-bc78-7a5815c08057.jpg?1682201393",
+    "normal": "https://cards.scryfall.io/normal/front/c/f/cf7e8917-8bd1-4899-bc78-7a5815c08057.jpg?1682201393",
+    "large": "https://cards.scryfall.io/large/front/c/f/cf7e8917-8bd1-4899-bc78-7a5815c08057.jpg?1682201393",
+    "png": "https://cards.scryfall.io/png/front/c/f/cf7e8917-8bd1-4899-bc78-7a5815c08057.png?1682201393",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/f/cf7e8917-8bd1-4899-bc78-7a5815c08057.jpg?1682201393",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/f/cf7e8917-8bd1-4899-bc78-7a5815c08057.jpg?1682201393"
+  },
+  "mana_cost": "{G}{W}{U}{B}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Phyrexian Angel Horror",
+  "oracle_text": "Flying, vigilance, deathtouch, lifelink\nAt the beginning of your end step, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "G",
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "U",
+    "W"
+  ],
+  "keywords": [
+    "Deathtouch",
+    "Flying",
+    "Lifelink",
+    "Vigilance",
+    "Proliferate"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": false,
+  "finishes": [
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a3f8daea-b24e-4e5c-a4d9-ec8910e9078a",
+  "set": "mul",
+  "set_name": "Multiverse Legends",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/a3f8daea-b24e-4e5c-a4d9-ec8910e9078a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amul&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mul?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/cf7e8917-8bd1-4899-bc78-7a5815c08057/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7e6b9b59-cd68-4e3c-827b-38833c92d6eb&unique=prints",
+  "collector_number": "98",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Victor Adame Minguez",
+  "artist_ids": [
+    "bd8f7368-5b10-4554-b6b8-d052c6aca89f"
+  ],
+  "illustration_id": "aa6efe75-3fa3-42cd-800e-23320b431646",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted",
+    "etched"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2068,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": "28.03",
+    "eur": null,
+    "eur_foil": null,
+    "tix": "1.42"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAtraxa%252C%2BPraetors%2527%2BVoice",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAtraxa%252C%2BPraetors%2527%2BVoice",
+    "edhrec": "https://edhrec.com/route/?cc=Atraxa%2C+Praetors%27+Voice"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DAtraxa%252C%2BPraetors%2527%2BVoice%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Atraxa%2C+Praetors%27+Voice&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/109418?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

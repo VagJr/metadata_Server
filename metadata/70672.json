@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "a6d55b53-ccd2-496a-a969-23fcde8f2210",
+  "oracle_id": "789964f5-79c5-4329-b68f-b15b0d54b0b2",
+  "multiverse_ids": [],
+  "tcgplayer_id": 231619,
+  "cardmarket_id": 535862,
+  "name": "Sarulf, Realm Eater",
+  "lang": "en",
+  "released_at": "2021-02-05",
+  "uri": "https://api.scryfall.com/cards/a6d55b53-ccd2-496a-a969-23fcde8f2210",
+  "scryfall_uri": "https://scryfall.com/card/pkhm/228s/sarulf-realm-eater?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/6/a6d55b53-ccd2-496a-a969-23fcde8f2210.jpg?1628380279",
+    "normal": "https://cards.scryfall.io/normal/front/a/6/a6d55b53-ccd2-496a-a969-23fcde8f2210.jpg?1628380279",
+    "large": "https://cards.scryfall.io/large/front/a/6/a6d55b53-ccd2-496a-a969-23fcde8f2210.jpg?1628380279",
+    "png": "https://cards.scryfall.io/png/front/a/6/a6d55b53-ccd2-496a-a969-23fcde8f2210.png?1628380279",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/6/a6d55b53-ccd2-496a-a969-23fcde8f2210.jpg?1628380279",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/6/a6d55b53-ccd2-496a-a969-23fcde8f2210.jpg?1628380279"
+  },
+  "mana_cost": "{1}{B}{G}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Wolf",
+  "oracle_text": "Whenever a permanent an opponent controls is put into a graveyard from the battlefield, put a +1/+1 counter on Sarulf.\nAt the beginning of your upkeep, if Sarulf has one or more +1/+1 counters on it, you may remove all of them. If you do, exile each other nonland permanent with mana value less than or equal to the number of counters removed this way.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "B",
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d7b6bf0-0ded-49a0-8c0e-b1ae2bfba77c",
+  "set": "pkhm",
+  "set_name": "Kaldheim Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/4d7b6bf0-0ded-49a0-8c0e-b1ae2bfba77c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apkhm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pkhm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a6d55b53-ccd2-496a-a969-23fcde8f2210/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A789964f5-79c5-4329-b68f-b15b0d54b0b2&unique=prints",
+  "collector_number": "228s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rahn",
+  "artist_ids": [
+    "7742047e-0f80-4c0f-a530-d07460165e86"
+  ],
+  "illustration_id": "b852a5b1-ec77-45ee-a4ba-6e7908d74118",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 10941,
+  "penny_rank": 3274,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.20",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.77",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSarulf%252C%2BRealm%2BEater",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSarulf%252C%2BRealm%2BEater",
+    "edhrec": "https://edhrec.com/route/?cc=Sarulf%2C+Realm+Eater"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F231619%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=535862&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sarulf%2C+Realm+Eater&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "03b9e943-9650-434c-a540-35ca7c96365b",
+  "oracle_id": "f633c16d-d943-421c-ad18-af35db9ec9fc",
+  "multiverse_ids": [
+    567647
+  ],
+  "mtgo_id": 101210,
+  "tcgplayer_id": 273795,
+  "cardmarket_id": 662025,
+  "name": "Primeval Bounty",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/03b9e943-9650-434c-a540-35ca7c96365b",
+  "scryfall_uri": "https://scryfall.com/card/clb/830/primeval-bounty?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/3/03b9e943-9650-434c-a540-35ca7c96365b.jpg?1674142326",
+    "normal": "https://cards.scryfall.io/normal/front/0/3/03b9e943-9650-434c-a540-35ca7c96365b.jpg?1674142326",
+    "large": "https://cards.scryfall.io/large/front/0/3/03b9e943-9650-434c-a540-35ca7c96365b.jpg?1674142326",
+    "png": "https://cards.scryfall.io/png/front/0/3/03b9e943-9650-434c-a540-35ca7c96365b.png?1674142326",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/3/03b9e943-9650-434c-a540-35ca7c96365b.jpg?1674142326",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/3/03b9e943-9650-434c-a540-35ca7c96365b.jpg?1674142326"
+  },
+  "mana_cost": "{5}{G}",
+  "cmc": 6,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever you cast a creature spell, create a 3/3 green Beast creature token.\nWhenever you cast a noncreature spell, put three +1/+1 counters on target creature you control.\nLandfall — Whenever a land you control enters, you gain 3 life.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Landfall"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "01e095bd-091c-442f-aa21-0826c40acb6c",
+      "component": "token",
+      "name": "Beast",
+      "type_line": "Token Creature — Beast",
+      "uri": "https://api.scryfall.com/cards/01e095bd-091c-442f-aa21-0826c40acb6c"
+    },
+    {
+      "object": "related_card",
+      "id": "03b9e943-9650-434c-a540-35ca7c96365b",
+      "component": "combo_piece",
+      "name": "Primeval Bounty",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/03b9e943-9650-434c-a540-35ca7c96365b"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set": "clb",
+  "set_name": "Commander Legends: Battle for Baldur's Gate",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/clb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/03b9e943-9650-434c-a540-35ca7c96365b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af633c16d-d943-421c-ad18-af35db9ec9fc&unique=prints",
+  "collector_number": "830",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Christine Choi",
+  "artist_ids": [
+    "b8266529-1ffe-41e7-9969-fcf39f61426b"
+  ],
+  "illustration_id": "10bc4d74-d770-42d6-8a39-ec46458c5f62",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2352,
+  "penny_rank": 3913,
+  "prices": {
+    "usd": "0.48",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.68",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=567647&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPrimeval%2BBounty",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPrimeval%2BBounty",
+    "edhrec": "https://edhrec.com/route/?cc=Primeval+Bounty"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F273795%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=662025&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/101210?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

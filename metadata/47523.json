@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "7052a5cd-81b3-40ef-94e0-7c89e9554e33",
+  "oracle_id": "3d6fa57a-aa53-4b5c-b8af-a7612c823117",
+  "multiverse_ids": [],
+  "mtgo_id": 99601,
+  "arena_id": 77580,
+  "tcgplayer_id": 235483,
+  "tcgplayer_etched_id": 235482,
+  "cardmarket_id": 557111,
+  "name": "Faithless Looting",
+  "printed_name": "信仰無き物あさり",
+  "lang": "ja",
+  "released_at": "2021-04-23",
+  "uri": "https://api.scryfall.com/cards/7052a5cd-81b3-40ef-94e0-7c89e9554e33",
+  "scryfall_uri": "https://scryfall.com/card/sta/101/ja/%E4%BF%A1%E4%BB%B0%E7%84%A1%E3%81%8D%E7%89%A9%E3%81%82%E3%81%95%E3%82%8A-(faithless-looting)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/0/7052a5cd-81b3-40ef-94e0-7c89e9554e33.jpg?1638109414",
+    "normal": "https://cards.scryfall.io/normal/front/7/0/7052a5cd-81b3-40ef-94e0-7c89e9554e33.jpg?1638109414",
+    "large": "https://cards.scryfall.io/large/front/7/0/7052a5cd-81b3-40ef-94e0-7c89e9554e33.jpg?1638109414",
+    "png": "https://cards.scryfall.io/png/front/7/0/7052a5cd-81b3-40ef-94e0-7c89e9554e33.png?1638109414",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/0/7052a5cd-81b3-40ef-94e0-7c89e9554e33.jpg?1638109414",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/0/7052a5cd-81b3-40ef-94e0-7c89e9554e33.jpg?1638109414"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1,
+  "type_line": "Sorcery",
+  "printed_type_line": "ソーサリー",
+  "oracle_text": "Draw two cards, then discard two cards.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "printed_text": "カード２枚を引き、その後カード２枚を捨てる。\nフラッシュバック{2}{R}（あなたはあなたの墓地から、このカードをフラッシュバック・コストで唱えてもよい。その後、これを追放する。）",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flashback"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil",
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5064a720-907f-4cb6-a425-766dc1dd7374",
+  "set": "sta",
+  "set_name": "Strixhaven Mystical Archive",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/5064a720-907f-4cb6-a425-766dc1dd7374",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asta&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sta?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7052a5cd-81b3-40ef-94e0-7c89e9554e33/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3d6fa57a-aa53-4b5c-b8af-a7612c823117&unique=prints",
+  "collector_number": "101",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "「どうやってそれを手に入れたのだ？ いや、気にするな。答えは聞きたくない。」\n—-ロアホールドの学部長、プラーグ",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Shiro Yayoi",
+  "artist_ids": [
+    "6401760a-7a6c-4de1-8276-e92e3def2b44"
+  ],
+  "illustration_id": "ed27a451-d2c6-44b4-9c2e-1e4d9db6b967",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 93,
+  "penny_rank": 45,
+  "prices": {
+    "usd": "10.40",
+    "usd_foil": "34.38",
+    "usd_etched": "13.25",
+    "eur": "12.81",
+    "eur_foil": "23.20",
+    "tix": "6.44"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFaithless%2BLooting",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFaithless%2BLooting",
+    "edhrec": "https://edhrec.com/route/?cc=Faithless+Looting"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F235483%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=557111&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/99601?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

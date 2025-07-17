@@ -1,0 +1,116 @@
+{
+  "object": "card",
+  "id": "cd286c25-8429-4acb-8e62-aa59d59c3208",
+  "oracle_id": "24227761-b50e-4b9e-93a2-e82d053b3e3d",
+  "multiverse_ids": [],
+  "mtgo_id": 36074,
+  "name": "Fling",
+  "lang": "en",
+  "released_at": "2013-01-11",
+  "uri": "https://api.scryfall.com/cards/cd286c25-8429-4acb-8e62-aa59d59c3208",
+  "scryfall_uri": "https://scryfall.com/card/prm/36074/fling?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/d/cd286c25-8429-4acb-8e62-aa59d59c3208.jpg?1562548193",
+    "normal": "https://cards.scryfall.io/normal/front/c/d/cd286c25-8429-4acb-8e62-aa59d59c3208.jpg?1562548193",
+    "large": "https://cards.scryfall.io/large/front/c/d/cd286c25-8429-4acb-8e62-aa59d59c3208.jpg?1562548193",
+    "png": "https://cards.scryfall.io/png/front/c/d/cd286c25-8429-4acb-8e62-aa59d59c3208.png?1562548193",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/d/cd286c25-8429-4acb-8e62-aa59d59c3208.jpg?1562548193",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/d/cd286c25-8429-4acb-8e62-aa59d59c3208.jpg?1562548193"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "As an additional cost to cast this spell, sacrifice a creature.\nFling deals damage equal to the sacrificed creature's power to any target.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/cd286c25-8429-4acb-8e62-aa59d59c3208/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A24227761-b50e-4b9e-93a2-e82d053b3e3d&unique=prints",
+  "collector_number": "36074",
+  "digital": true,
+  "rarity": "common",
+  "flavor_text": "It's raining rats and moggs.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Paolo Parente",
+  "artist_ids": [
+    "d48dd097-720d-476a-8722-6a02854ae28b"
+  ],
+  "illustration_id": "e274d5ba-7b02-49f0-ac69-3330c034201d",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1466,
+  "penny_rank": 2309,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFling",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFling",
+    "edhrec": "https://edhrec.com/route/?cc=Fling"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DFling%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Fling&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/36074?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

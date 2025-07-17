@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "b548551d-756b-496e-a1c0-4fa77707663d",
+  "oracle_id": "a8052556-8962-4130-86a8-6fb7b6a324f7",
+  "multiverse_ids": [
+    684018
+  ],
+  "arena_id": 93334,
+  "tcgplayer_id": 590382,
+  "cardmarket_id": 796958,
+  "name": "Thriving Grove",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/b548551d-756b-496e-a1c0-4fa77707663d",
+  "scryfall_uri": "https://scryfall.com/card/j25/776/thriving-grove?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/5/b548551d-756b-496e-a1c0-4fa77707663d.jpg?1730488569",
+    "normal": "https://cards.scryfall.io/normal/front/b/5/b548551d-756b-496e-a1c0-4fa77707663d.jpg?1730488569",
+    "large": "https://cards.scryfall.io/large/front/b/5/b548551d-756b-496e-a1c0-4fa77707663d.jpg?1730488569",
+    "png": "https://cards.scryfall.io/png/front/b/5/b548551d-756b-496e-a1c0-4fa77707663d.png?1730488569",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/5/b548551d-756b-496e-a1c0-4fa77707663d.jpg?1730488569",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/5/b548551d-756b-496e-a1c0-4fa77707663d.jpg?1730488569"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "This land enters tapped. As it enters, choose a color other than green.\n{T}: Add {G} or one mana of the chosen color.",
+  "colors": [],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9201567c-bab5-4720-aac9-260e6741f115",
+  "set": "j25",
+  "set_name": "Foundations Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/9201567c-bab5-4720-aac9-260e6741f115",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj25&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j25?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b548551d-756b-496e-a1c0-4fa77707663d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa8052556-8962-4130-86a8-6fb7b6a324f7&unique=prints",
+  "collector_number": "776",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Far from human eyes, birds flit between vivid blossoms in a hidden paradise.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ravenna Tran",
+  "artist_ids": [
+    "e24bc1d0-446b-45e0-b215-89f581837aa4"
+  ],
+  "illustration_id": "1923327d-f432-4e93-bdea-f0280263e7f5",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1380,
+  "prices": {
+    "usd": "0.11",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.07",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=684018&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThriving%2BGrove",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThriving%2BGrove",
+    "edhrec": "https://edhrec.com/route/?cc=Thriving+Grove"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F590382%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=796958&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Thriving+Grove&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

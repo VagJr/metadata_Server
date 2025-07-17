@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "7ddd5153-2d16-4a4e-b9bc-f20313d322da",
+  "oracle_id": "c807a96d-edb0-4072-9635-28c918ae5c45",
+  "multiverse_ids": [],
+  "name": "Soldier",
+  "lang": "en",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/7ddd5153-2d16-4a4e-b9bc-f20313d322da",
+  "scryfall_uri": "https://scryfall.com/card/ttdm/5/soldier?utm_source=api",
+  "layout": "token",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/d/7ddd5153-2d16-4a4e-b9bc-f20313d322da.jpg?1743176203",
+    "normal": "https://cards.scryfall.io/normal/front/7/d/7ddd5153-2d16-4a4e-b9bc-f20313d322da.jpg?1743176203",
+    "large": "https://cards.scryfall.io/large/front/7/d/7ddd5153-2d16-4a4e-b9bc-f20313d322da.jpg?1743176203",
+    "png": "https://cards.scryfall.io/png/front/7/d/7ddd5153-2d16-4a4e-b9bc-f20313d322da.png?1743176203",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/d/7ddd5153-2d16-4a4e-b9bc-f20313d322da.jpg?1743176203",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/d/7ddd5153-2d16-4a4e-b9bc-f20313d322da.jpg?1743176203"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Soldier",
+  "oracle_text": "",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "48b73810-3abd-4469-a6f0-993b6fedc315",
+      "component": "combo_piece",
+      "name": "Riling Dawnbreaker // Signaling Roar",
+      "type_line": "Creature — Dragon // Sorcery — Omen",
+      "uri": "https://api.scryfall.com/cards/48b73810-3abd-4469-a6f0-993b6fedc315"
+    },
+    {
+      "object": "related_card",
+      "id": "f717301c-1ae8-44b4-b6e5-d3bdf052f5da",
+      "component": "combo_piece",
+      "name": "Teeming Dragonstorm",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/f717301c-1ae8-44b4-b6e5-d3bdf052f5da"
+    },
+    {
+      "object": "related_card",
+      "id": "7ddd5153-2d16-4a4e-b9bc-f20313d322da",
+      "component": "token",
+      "name": "Soldier",
+      "type_line": "Token Creature — Soldier",
+      "uri": "https://api.scryfall.com/cards/7ddd5153-2d16-4a4e-b9bc-f20313d322da"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "0c9ae251-ec77-4906-b505-02820b7ccedb",
+  "set": "ttdm",
+  "set_name": "Tarkir: Dragonstorm Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/0c9ae251-ec77-4906-b505-02820b7ccedb",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Attdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ttdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7ddd5153-2d16-4a4e-b9bc-f20313d322da/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac807a96d-edb0-4072-9635-28c918ae5c45&unique=prints",
+  "collector_number": "5",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nathaniel Himawan",
+  "artist_ids": [
+    "ae1e4729-d4ec-4d0f-8c71-883fc7358005"
+  ],
+  "illustration_id": "186b87dd-bd15-4652-8fc8-512108e89a2b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSoldier",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSoldier",
+    "edhrec": "https://edhrec.com/route/?cc=Soldier"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSoldier%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Soldier&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Soldier&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

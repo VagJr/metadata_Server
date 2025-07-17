@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "981850b2-3013-4f12-ab13-6410431585f2",
+  "oracle_id": "29d58aa4-9a7e-4052-9b0d-fc282f1be40e",
+  "multiverse_ids": [],
+  "tcgplayer_id": 189032,
+  "cardmarket_id": 372764,
+  "name": "Kaya, Bane of the Dead",
+  "printed_name": "死者の災厄、ケイヤ",
+  "lang": "ja",
+  "released_at": "2019-05-03",
+  "uri": "https://api.scryfall.com/cards/981850b2-3013-4f12-ab13-6410431585f2",
+  "scryfall_uri": "https://scryfall.com/card/war/231%E2%98%85/ja/%E6%AD%BB%E8%80%85%E3%81%AE%E7%81%BD%E5%8E%84%E3%80%81%E3%82%B1%E3%82%A4%E3%83%A4-(kaya-bane-of-the-dead)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/8/981850b2-3013-4f12-ab13-6410431585f2.jpg?1580443798",
+    "normal": "https://cards.scryfall.io/normal/front/9/8/981850b2-3013-4f12-ab13-6410431585f2.jpg?1580443798",
+    "large": "https://cards.scryfall.io/large/front/9/8/981850b2-3013-4f12-ab13-6410431585f2.jpg?1580443798",
+    "png": "https://cards.scryfall.io/png/front/9/8/981850b2-3013-4f12-ab13-6410431585f2.png?1580443798",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/8/981850b2-3013-4f12-ab13-6410431585f2.jpg?1580443798",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/8/981850b2-3013-4f12-ab13-6410431585f2.jpg?1580443798"
+  },
+  "mana_cost": "{3}{W/B}{W/B}{W/B}",
+  "cmc": 6,
+  "type_line": "Legendary Planeswalker — Kaya",
+  "printed_type_line": "伝説のプレインズウォーカー — ケイヤ",
+  "oracle_text": "Your opponents and permanents your opponents control with hexproof can be the targets of spells and abilities you control as though they didn't have hexproof.\n−3: Exile target creature.",
+  "printed_text": "呪禁を持つ、対戦相手と対戦相手がコントロールしているパーマネントは、それらが呪禁を持っていないかのように、あなたがコントロールしている呪文や能力の対象にできる。\n-3：クリーチャー１体を対象とし、それを追放する。",
+  "loyalty": "7",
+  "colors": [
+    "B",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "ee044f0b-e101-4ead-8d0e-aa510aad4277",
+  "set": "war",
+  "set_name": "War of the Spark",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/ee044f0b-e101-4ead-8d0e-aa510aad4277",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awar&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/war?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/981850b2-3013-4f12-ab13-6410431585f2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A29d58aa4-9a7e-4052-9b0d-fc282f1be40e&unique=prints",
+  "collector_number": "231★",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mid",
+  "artist_ids": [
+    "c2451799-d5e2-4bc6-96f1-6d9d06bbe6c2"
+  ],
+  "illustration_id": "b1fecc58-d71c-4813-8b28-4c9187fee850",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "jpwalker"
+  ],
+  "edhrec_rank": 15671,
+  "penny_rank": 6858,
+  "prices": {
+    "usd": "0.37",
+    "usd_foil": "2.49",
+    "usd_etched": null,
+    "eur": "0.53",
+    "eur_foil": "3.35",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKaya%252C%2BBane%2Bof%2Bthe%2BDead",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKaya%252C%2BBane%2Bof%2Bthe%2BDead",
+    "edhrec": "https://edhrec.com/route/?cc=Kaya%2C+Bane+of+the+Dead"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F189032%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=372764&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kaya%2C+Bane+of+the+Dead&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

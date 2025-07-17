@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "4c25261b-6806-4d88-9000-4695d8f482fb",
+  "oracle_id": "bd1ccc6f-d281-413e-889e-1e022c3f2a99",
+  "multiverse_ids": [],
+  "mtgo_id": 99903,
+  "name": "Misfortune Teller",
+  "lang": "en",
+  "released_at": "2024-07-04",
+  "uri": "https://api.scryfall.com/cards/4c25261b-6806-4d88-9000-4695d8f482fb",
+  "scryfall_uri": "https://scryfall.com/card/prm/99903/misfortune-teller?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/c/4c25261b-6806-4d88-9000-4695d8f482fb.jpg?1681136236",
+    "normal": "https://cards.scryfall.io/normal/front/4/c/4c25261b-6806-4d88-9000-4695d8f482fb.jpg?1681136236",
+    "large": "https://cards.scryfall.io/large/front/4/c/4c25261b-6806-4d88-9000-4695d8f482fb.jpg?1681136236",
+    "png": "https://cards.scryfall.io/png/front/4/c/4c25261b-6806-4d88-9000-4695d8f482fb.png?1681136236",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/c/4c25261b-6806-4d88-9000-4695d8f482fb.jpg?1681136236",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/c/4c25261b-6806-4d88-9000-4695d8f482fb.jpg?1681136236"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4,
+  "type_line": "Creature — Human Warlock",
+  "oracle_text": "Deathtouch\nWhenever this creature enters or deals combat damage to a player, exile target card from a graveyard. If it was a creature card, create a 2/2 black Rogue creature token. If it was a land card, create a Treasure token. Otherwise, you gain 3 life.",
+  "power": "3",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Treasure",
+    "Deathtouch"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "73f94f72-a689-41ca-b1af-6004e2a57e9c",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/73f94f72-a689-41ca-b1af-6004e2a57e9c"
+    },
+    {
+      "object": "related_card",
+      "id": "245c0d1e-7bf5-4115-b018-cbeaccdfaf77",
+      "component": "token",
+      "name": "Rogue",
+      "type_line": "Token Creature — Rogue",
+      "uri": "https://api.scryfall.com/cards/245c0d1e-7bf5-4115-b018-cbeaccdfaf77"
+    },
+    {
+      "object": "related_card",
+      "id": "4c25261b-6806-4d88-9000-4695d8f482fb",
+      "component": "combo_piece",
+      "name": "Misfortune Teller",
+      "type_line": "Creature — Human Warlock",
+      "uri": "https://api.scryfall.com/cards/4c25261b-6806-4d88-9000-4695d8f482fb"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4c25261b-6806-4d88-9000-4695d8f482fb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abd1ccc6f-d281-413e-889e-1e022c3f2a99&unique=prints",
+  "collector_number": "99903",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nils Hamm",
+  "artist_ids": [
+    "c540d1fc-1500-457f-93cf-d6069ee66546"
+  ],
+  "illustration_id": "c7ff389e-034e-417a-b0ec-56868e551ca7",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 9774,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.79"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMisfortune%2BTeller",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMisfortune%2BTeller",
+    "edhrec": "https://edhrec.com/route/?cc=Misfortune+Teller"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DMisfortune%2BTeller%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Misfortune+Teller&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/99903?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "object": "card",
+  "id": "4017fd72-5bb4-42f3-baf8-d83c1a4fd34a",
+  "oracle_id": "c7b044c3-3cfa-407e-bf20-2875e8e04b7b",
+  "multiverse_ids": [],
+  "mtgo_id": 78826,
+  "name": "Brazen Borrower // Petty Theft",
+  "lang": "en",
+  "released_at": "2019-10-06",
+  "uri": "https://api.scryfall.com/cards/4017fd72-5bb4-42f3-baf8-d83c1a4fd34a",
+  "scryfall_uri": "https://scryfall.com/card/prm/78826/brazen-borrower-petty-theft?utm_source=api",
+  "layout": "adventure",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/0/4017fd72-5bb4-42f3-baf8-d83c1a4fd34a.jpg?1585973541",
+    "normal": "https://cards.scryfall.io/normal/front/4/0/4017fd72-5bb4-42f3-baf8-d83c1a4fd34a.jpg?1585973541",
+    "large": "https://cards.scryfall.io/large/front/4/0/4017fd72-5bb4-42f3-baf8-d83c1a4fd34a.jpg?1585973541",
+    "png": "https://cards.scryfall.io/png/front/4/0/4017fd72-5bb4-42f3-baf8-d83c1a4fd34a.png?1585973541",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/0/4017fd72-5bb4-42f3-baf8-d83c1a4fd34a.jpg?1585973541",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/0/4017fd72-5bb4-42f3-baf8-d83c1a4fd34a.jpg?1585973541"
+  },
+  "mana_cost": "{1}{U}{U} // {1}{U}",
+  "cmc": 3,
+  "type_line": "Creature — Faerie Rogue // Instant — Adventure",
+  "power": "3",
+  "toughness": "1",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying",
+    "Flash"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Brazen Borrower",
+      "mana_cost": "{1}{U}{U}",
+      "type_line": "Creature — Faerie Rogue",
+      "oracle_text": "Flash\nFlying\nThis creature can block only creatures with flying.",
+      "power": "3",
+      "toughness": "1",
+      "artist": "Iris Compiet",
+      "artist_id": "aa807c8c-d07f-4f09-90d3-b2cbf5b86dbf",
+      "illustration_id": "aeb9d85d-793c-47a8-8f9e-5e04d98b0698"
+    },
+    {
+      "object": "card_face",
+      "name": "Petty Theft",
+      "mana_cost": "{1}{U}",
+      "type_line": "Instant — Adventure",
+      "oracle_text": "Return target nonland permanent an opponent controls to its owner's hand.",
+      "artist": "Iris Compiet",
+      "artist_id": "aa807c8c-d07f-4f09-90d3-b2cbf5b86dbf"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "fcf4c7fb-7859-4c11-8552-6817f5119d2e",
+      "component": "combo_piece",
+      "name": "On an Adventure",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/fcf4c7fb-7859-4c11-8552-6817f5119d2e"
+    },
+    {
+      "object": "related_card",
+      "id": "4017fd72-5bb4-42f3-baf8-d83c1a4fd34a",
+      "component": "combo_piece",
+      "name": "Brazen Borrower // Petty Theft",
+      "type_line": "Creature — Faerie Rogue // Instant — Adventure",
+      "uri": "https://api.scryfall.com/cards/4017fd72-5bb4-42f3-baf8-d83c1a4fd34a"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4017fd72-5bb4-42f3-baf8-d83c1a4fd34a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac7b044c3-3cfa-407e-bf20-2875e8e04b7b&unique=prints",
+  "collector_number": "78826",
+  "digital": true,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Iris Compiet",
+  "artist_ids": [
+    "aa807c8c-d07f-4f09-90d3-b2cbf5b86dbf"
+  ],
+  "illustration_id": "aeb9d85d-793c-47a8-8f9e-5e04d98b0698",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2505,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "7.42"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBrazen%2BBorrower%2B%252F%252F%2BPetty%2BTheft",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBrazen%2BBorrower%2B%252F%252F%2BPetty%2BTheft",
+    "edhrec": "https://edhrec.com/route/?cc=Brazen+Borrower"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBrazen%2BBorrower%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Brazen+Borrower&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/78826?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

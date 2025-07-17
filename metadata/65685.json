@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "9b55b6cb-820c-4782-9f63-e04fe46e02d2",
+  "oracle_id": "b693c3de-2eaf-4850-b405-e79d00adefda",
+  "multiverse_ids": [
+    653210
+  ],
+  "mtgo_id": 132125,
+  "tcgplayer_id": 539963,
+  "cardmarket_id": 758606,
+  "name": "Talisman of Hierarchy",
+  "lang": "en",
+  "released_at": "2024-03-08",
+  "uri": "https://api.scryfall.com/cards/9b55b6cb-820c-4782-9f63-e04fe46e02d2",
+  "scryfall_uri": "https://scryfall.com/card/pip/247/talisman-of-hierarchy?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/b/9b55b6cb-820c-4782-9f63-e04fe46e02d2.jpg?1708743197",
+    "normal": "https://cards.scryfall.io/normal/front/9/b/9b55b6cb-820c-4782-9f63-e04fe46e02d2.jpg?1708743197",
+    "large": "https://cards.scryfall.io/large/front/9/b/9b55b6cb-820c-4782-9f63-e04fe46e02d2.jpg?1708743197",
+    "png": "https://cards.scryfall.io/png/front/9/b/9b55b6cb-820c-4782-9f63-e04fe46e02d2.png?1708743197",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/b/9b55b6cb-820c-4782-9f63-e04fe46e02d2.jpg?1708743197",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/b/9b55b6cb-820c-4782-9f63-e04fe46e02d2.jpg?1708743197"
+  },
+  "mana_cost": "{2}",
+  "cmc": 2,
+  "type_line": "Artifact",
+  "oracle_text": "{T}: Add {C}.\n{T}: Add {W} or {B}. This artifact deals 1 damage to you.",
+  "colors": [],
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "C",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+  "set": "pip",
+  "set_name": "Fallout",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apip&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pip?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9b55b6cb-820c-4782-9f63-e04fe46e02d2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab693c3de-2eaf-4850-b405-e79d00adefda&unique=prints",
+  "collector_number": "247",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "The ghouls of the FMS *Northern Star* seemed interested in moving up in the world of business.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Brian Valeza",
+  "artist_ids": [
+    "bb2a9339-bbe4-445f-9736-3c43379ee076"
+  ],
+  "illustration_id": "acc2b8ee-6406-4aff-840e-30623eba769d",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 144,
+  "penny_rank": 1461,
+  "prices": {
+    "usd": "0.82",
+    "usd_foil": "8.38",
+    "usd_etched": null,
+    "eur": "1.28",
+    "eur_foil": "3.59",
+    "tix": "0.33"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=653210&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTalisman%2Bof%2BHierarchy",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTalisman%2Bof%2BHierarchy",
+    "edhrec": "https://edhrec.com/route/?cc=Talisman+of+Hierarchy"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F539963%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=758606&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/132125?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

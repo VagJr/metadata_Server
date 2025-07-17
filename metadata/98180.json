@@ -1,0 +1,115 @@
+{
+  "object": "card",
+  "id": "e7fb3cd7-cec6-4c93-8de6-1b074320052c",
+  "oracle_id": "a88f3881-4f43-4473-965f-f5c24ae5752f",
+  "multiverse_ids": [
+    548031
+  ],
+  "arena_id": 75802,
+  "name": "Bomat Courier",
+  "lang": "en",
+  "released_at": "2020-11-12",
+  "uri": "https://api.scryfall.com/cards/e7fb3cd7-cec6-4c93-8de6-1b074320052c",
+  "scryfall_uri": "https://scryfall.com/card/klr/225/bomat-courier?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/7/e7fb3cd7-cec6-4c93-8de6-1b074320052c.jpg?1605329515",
+    "normal": "https://cards.scryfall.io/normal/front/e/7/e7fb3cd7-cec6-4c93-8de6-1b074320052c.jpg?1605329515",
+    "large": "https://cards.scryfall.io/large/front/e/7/e7fb3cd7-cec6-4c93-8de6-1b074320052c.jpg?1605329515",
+    "png": "https://cards.scryfall.io/png/front/e/7/e7fb3cd7-cec6-4c93-8de6-1b074320052c.png?1605329515",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/7/e7fb3cd7-cec6-4c93-8de6-1b074320052c.jpg?1605329515",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/7/e7fb3cd7-cec6-4c93-8de6-1b074320052c.jpg?1605329515"
+  },
+  "mana_cost": "{1}",
+  "cmc": 1,
+  "type_line": "Artifact Creature — Construct",
+  "oracle_text": "Haste\nWhenever this creature attacks, exile the top card of your library face down. (You can't look at it.)\n{R}, Discard your hand, Sacrifice this creature: Put all cards exiled with this creature into their owners' hands.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Haste"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cff93939-c724-4ed0-9367-e1277d39ba70",
+  "set": "klr",
+  "set_name": "Kaladesh Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cff93939-c724-4ed0-9367-e1277d39ba70",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aklr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/klr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e7fb3cd7-cec6-4c93-8de6-1b074320052c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa88f3881-4f43-4473-965f-f5c24ae5752f&unique=prints",
+  "collector_number": "225",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Craig J Spearing",
+  "artist_ids": [
+    "b0f15e74-0dd6-4156-959e-c5e30c5cdc52"
+  ],
+  "illustration_id": "0fad0a83-cf22-489a-96f3-56aab37aa9ae",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 11509,
+  "penny_rank": 252,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548031&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBomat%2BCourier",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBomat%2BCourier",
+    "edhrec": "https://edhrec.com/route/?cc=Bomat+Courier"
+  }
+}

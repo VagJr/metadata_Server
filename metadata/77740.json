@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "b77606e5-933f-49c2-a3bc-b02f6a8906b3",
+  "oracle_id": "f6f4c684-2915-4a58-9c4b-487387f7cf73",
+  "multiverse_ids": [],
+  "tcgplayer_id": 210440,
+  "cardmarket_id": 443423,
+  "name": "Rhox",
+  "lang": "en",
+  "released_at": "2020-03-13",
+  "uri": "https://api.scryfall.com/cards/b77606e5-933f-49c2-a3bc-b02f6a8906b3",
+  "scryfall_uri": "https://scryfall.com/card/plst/10E-291/rhox?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/7/b77606e5-933f-49c2-a3bc-b02f6a8906b3.jpg?1583503636",
+    "normal": "https://cards.scryfall.io/normal/front/b/7/b77606e5-933f-49c2-a3bc-b02f6a8906b3.jpg?1583503636",
+    "large": "https://cards.scryfall.io/large/front/b/7/b77606e5-933f-49c2-a3bc-b02f6a8906b3.jpg?1583503636",
+    "png": "https://cards.scryfall.io/png/front/b/7/b77606e5-933f-49c2-a3bc-b02f6a8906b3.png?1583503636",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/7/b77606e5-933f-49c2-a3bc-b02f6a8906b3.jpg?1583503636",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/7/b77606e5-933f-49c2-a3bc-b02f6a8906b3.jpg?1583503636"
+  },
+  "mana_cost": "{4}{G}{G}",
+  "cmc": 6,
+  "type_line": "Creature — Rhino Beast",
+  "oracle_text": "You may have this creature assign its combat damage as though it weren't blocked.\n{2}{G}: Regenerate this creature. (The next time this creature would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b77606e5-933f-49c2-a3bc-b02f6a8906b3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af6f4c684-2915-4a58-9c4b-487387f7cf73&unique=prints",
+  "collector_number": "10E-291",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "It's as solid as the club in its hand—and about as subtle.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mark Zug",
+  "artist_ids": [
+    "48e2b98c-5467-4671-bd42-4c3746115117"
+  ],
+  "illustration_id": "88652d14-abd8-414e-bea8-9705e7cd85ab",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 20185,
+  "penny_rank": 15008,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.25",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.14",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRhox",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRhox",
+    "edhrec": "https://edhrec.com/route/?cc=Rhox"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F210440%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=443423&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rhox&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

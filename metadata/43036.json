@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "658b75a1-c12c-4904-8a65-4eb75d1d32f7",
+  "oracle_id": "775c41fa-2316-43c9-af34-ac9c9b0db7e2",
+  "multiverse_ids": [],
+  "arena_id": 73681,
+  "tcgplayer_id": 212015,
+  "cardmarket_id": 451053,
+  "name": "Vadrok, Apex of Thunder",
+  "lang": "en",
+  "released_at": "2020-04-24",
+  "uri": "https://api.scryfall.com/cards/658b75a1-c12c-4904-8a65-4eb75d1d32f7",
+  "scryfall_uri": "https://scryfall.com/card/iko/308/vadrok-apex-of-thunder?utm_source=api",
+  "layout": "mutate",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/5/658b75a1-c12c-4904-8a65-4eb75d1d32f7.jpg?1591229244",
+    "normal": "https://cards.scryfall.io/normal/front/6/5/658b75a1-c12c-4904-8a65-4eb75d1d32f7.jpg?1591229244",
+    "large": "https://cards.scryfall.io/large/front/6/5/658b75a1-c12c-4904-8a65-4eb75d1d32f7.jpg?1591229244",
+    "png": "https://cards.scryfall.io/png/front/6/5/658b75a1-c12c-4904-8a65-4eb75d1d32f7.png?1591229244",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/5/658b75a1-c12c-4904-8a65-4eb75d1d32f7.jpg?1591229244",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/5/658b75a1-c12c-4904-8a65-4eb75d1d32f7.jpg?1591229244"
+  },
+  "mana_cost": "{U}{R}{W}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Elemental Dinosaur Cat",
+  "oracle_text": "Mutate {1}{W/U}{R}{R} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)\nFlying, first strike\nWhenever this creature mutates, you may cast target noncreature card with mana value 3 or less from your graveyard without paying its mana cost.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "R",
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "R",
+    "U",
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "Mutate",
+    "First strike"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "19feda43-15ab-427e-a0e4-148a4bf2b03a",
+  "set": "iko",
+  "set_name": "Ikoria: Lair of Behemoths",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/19feda43-15ab-427e-a0e4-148a4bf2b03a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aiko&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/iko?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/658b75a1-c12c-4904-8a65-4eb75d1d32f7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A775c41fa-2316-43c9-af34-ac9c9b0db7e2&unique=prints",
+  "collector_number": "308",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tomasz Jedruszek",
+  "artist_ids": [
+    "bba69285-2445-4a4b-a847-59397be972ea"
+  ],
+  "illustration_id": "60e2856b-8b69-41b2-85ac-e1ee9ba3ba17",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 11251,
+  "penny_rank": 8723,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://mtg-jp.com/reading/special/0033913/",
+    "previewed_at": "2020-04-02"
+  },
+  "prices": {
+    "usd": "0.61",
+    "usd_foil": "3.71",
+    "usd_etched": null,
+    "eur": "0.93",
+    "eur_foil": "2.82",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVadrok%252C%2BApex%2Bof%2BThunder",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVadrok%252C%2BApex%2Bof%2BThunder",
+    "edhrec": "https://edhrec.com/route/?cc=Vadrok%2C+Apex+of+Thunder"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F212015%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=451053&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Vadrok%2C+Apex+of+Thunder&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "9d238398-11e5-4764-9951-8fc2e14013da",
+  "oracle_id": "5b5b9390-bb3a-4f71-809a-cfe2a6566b59",
+  "multiverse_ids": [],
+  "tcgplayer_id": 454088,
+  "name": "Sarinth Greatwurm",
+  "lang": "en",
+  "released_at": "2022-11-18",
+  "uri": "https://api.scryfall.com/cards/9d238398-11e5-4764-9951-8fc2e14013da",
+  "scryfall_uri": "https://scryfall.com/card/pbro/220s/sarinth-greatwurm?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/d/9d238398-11e5-4764-9951-8fc2e14013da.jpg?1675620727",
+    "normal": "https://cards.scryfall.io/normal/front/9/d/9d238398-11e5-4764-9951-8fc2e14013da.jpg?1675620727",
+    "large": "https://cards.scryfall.io/large/front/9/d/9d238398-11e5-4764-9951-8fc2e14013da.jpg?1675620727",
+    "png": "https://cards.scryfall.io/png/front/9/d/9d238398-11e5-4764-9951-8fc2e14013da.png?1675620727",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/d/9d238398-11e5-4764-9951-8fc2e14013da.jpg?1675620727",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/d/9d238398-11e5-4764-9951-8fc2e14013da.jpg?1675620727"
+  },
+  "mana_cost": "{4}{R}{G}",
+  "cmc": 6,
+  "type_line": "Creature — Wurm",
+  "oracle_text": "Trample\nWhenever a land enters, create a tapped Powerstone token. (It's an artifact with \"{T}: Add {C}. This mana can't be spent to cast a nonartifact spell.\")",
+  "power": "7",
+  "toughness": "6",
+  "colors": [
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [
+    "Trample"
+  ],
+  "produced_mana": [
+    "C"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "9d238398-11e5-4764-9951-8fc2e14013da",
+      "component": "combo_piece",
+      "name": "Sarinth Greatwurm",
+      "type_line": "Creature — Wurm",
+      "uri": "https://api.scryfall.com/cards/9d238398-11e5-4764-9951-8fc2e14013da"
+    },
+    {
+      "object": "related_card",
+      "id": "d45fe4b6-aeaf-4f84-b660-c7b482ed8512",
+      "component": "token",
+      "name": "Powerstone",
+      "type_line": "Token Artifact — Powerstone",
+      "uri": "https://api.scryfall.com/cards/d45fe4b6-aeaf-4f84-b660-c7b482ed8512"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7e8b0464-6ce5-4184-abc7-3de544eebc6a",
+  "set": "pbro",
+  "set_name": "The Brothers' War Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7e8b0464-6ce5-4184-abc7-3de544eebc6a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apbro&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pbro?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9d238398-11e5-4764-9951-8fc2e14013da/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5b5b9390-bb3a-4f71-809a-cfe2a6566b59&unique=prints",
+  "collector_number": "220s",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "It felt the rumblings of war and uncoiled itself from the depths of the world.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jesper Ejsing",
+  "artist_ids": [
+    "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+  ],
+  "illustration_id": "ad374aaa-7b3f-4d6c-b0d8-158d4155c38d",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 11028,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.44",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSarinth%2BGreatwurm",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSarinth%2BGreatwurm",
+    "edhrec": "https://edhrec.com/route/?cc=Sarinth+Greatwurm"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F454088%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sarinth+Greatwurm&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sarinth+Greatwurm&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

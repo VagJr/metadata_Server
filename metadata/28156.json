@@ -1,0 +1,164 @@
+{
+  "object": "card",
+  "id": "4287bbc3-df6b-453f-8d60-a929be013f30",
+  "oracle_id": "f40e6bbf-1fed-4ec5-869d-18c2dd396d14",
+  "multiverse_ids": [],
+  "tcgplayer_id": 635782,
+  "name": "Vincent Valentine // Galian Beast",
+  "lang": "en",
+  "released_at": "2025-06-13",
+  "uri": "https://api.scryfall.com/cards/4287bbc3-df6b-453f-8d60-a929be013f30",
+  "scryfall_uri": "https://scryfall.com/card/pfin/125s/vincent-valentine-galian-beast?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Assassin // Legendary Creature — Werewolf Beast",
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Lifelink",
+    "Transform",
+    "Trample"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Vincent Valentine",
+      "mana_cost": "{2}{B}{B}",
+      "type_line": "Legendary Creature — Assassin",
+      "oracle_text": "Whenever a creature an opponent controls dies, put a number of +1/+1 counters on Vincent Valentine equal to that creature's power.\nWhenever Vincent Valentine attacks, you may transform it.",
+      "colors": [
+        "B"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "artist": "Norikatsu Miyoshi",
+      "artist_id": "44c57324-1e37-4e91-831a-eba4b29f87ee",
+      "illustration_id": "9731a0bb-f962-442b-af4b-1643fc24505a",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/4/2/4287bbc3-df6b-453f-8d60-a929be013f30.jpg?1750535949",
+        "normal": "https://cards.scryfall.io/normal/front/4/2/4287bbc3-df6b-453f-8d60-a929be013f30.jpg?1750535949",
+        "large": "https://cards.scryfall.io/large/front/4/2/4287bbc3-df6b-453f-8d60-a929be013f30.jpg?1750535949",
+        "png": "https://cards.scryfall.io/png/front/4/2/4287bbc3-df6b-453f-8d60-a929be013f30.png?1750535949",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/4/2/4287bbc3-df6b-453f-8d60-a929be013f30.jpg?1750535949",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/4/2/4287bbc3-df6b-453f-8d60-a929be013f30.jpg?1750535949"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Galian Beast",
+      "mana_cost": "",
+      "type_line": "Legendary Creature — Werewolf Beast",
+      "oracle_text": "Trample, lifelink\nWhen Galian Beast dies, return it to the battlefield tapped (front face up).",
+      "colors": [
+        "B"
+      ],
+      "color_indicator": [
+        "B"
+      ],
+      "power": "3",
+      "toughness": "2",
+      "flavor_text": "\"This body is... the punishment that's been given to me...\"",
+      "artist": "Norikatsu Miyoshi",
+      "artist_id": "44c57324-1e37-4e91-831a-eba4b29f87ee",
+      "illustration_id": "3186c4b0-9a7c-44f1-ada5-3db24231885a",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/4/2/4287bbc3-df6b-453f-8d60-a929be013f30.jpg?1750535949",
+        "normal": "https://cards.scryfall.io/normal/back/4/2/4287bbc3-df6b-453f-8d60-a929be013f30.jpg?1750535949",
+        "large": "https://cards.scryfall.io/large/back/4/2/4287bbc3-df6b-453f-8d60-a929be013f30.jpg?1750535949",
+        "png": "https://cards.scryfall.io/png/back/4/2/4287bbc3-df6b-453f-8d60-a929be013f30.png?1750535949",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/4/2/4287bbc3-df6b-453f-8d60-a929be013f30.jpg?1750535949",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/4/2/4287bbc3-df6b-453f-8d60-a929be013f30.jpg?1750535949"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "ff405aba-0309-4694-a6d5-e657024f7ad0",
+  "set": "pfin",
+  "set_name": "Final Fantasy Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/ff405aba-0309-4694-a6d5-e657024f7ad0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apfin&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pfin?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4287bbc3-df6b-453f-8d60-a929be013f30/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af40e6bbf-1fed-4ec5-869d-18c2dd396d14&unique=prints",
+  "collector_number": "125s",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Norikatsu Miyoshi",
+  "artist_ids": [
+    "44c57324-1e37-4e91-831a-eba4b29f87ee"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 8551,
+  "penny_rank": 3536,
+  "prices": {
+    "usd": null,
+    "usd_foil": "10.92",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVincent%2BValentine%2B%252F%252F%2BGalian%2BBeast",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVincent%2BValentine%2B%252F%252F%2BGalian%2BBeast",
+    "edhrec": "https://edhrec.com/route/?cc=Vincent+Valentine"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F635782%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Vincent+Valentine&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Vincent+Valentine&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "object": "card",
+  "id": "d6a322c5-aa4c-4a99-a3ca-48c1353104f0",
+  "oracle_id": "0673f4e0-66ff-458c-b4ba-eb067e560cce",
+  "multiverse_ids": [
+    435383
+  ],
+  "mtgo_id": 65474,
+  "mtgo_foil_id": 65475,
+  "arena_id": 66423,
+  "tcgplayer_id": 144964,
+  "cardmarket_id": 301385,
+  "name": "Regisaur Alpha",
+  "lang": "en",
+  "released_at": "2017-09-29",
+  "uri": "https://api.scryfall.com/cards/d6a322c5-aa4c-4a99-a3ca-48c1353104f0",
+  "scryfall_uri": "https://scryfall.com/card/xln/227/regisaur-alpha?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/6/d6a322c5-aa4c-4a99-a3ca-48c1353104f0.jpg?1562564727",
+    "normal": "https://cards.scryfall.io/normal/front/d/6/d6a322c5-aa4c-4a99-a3ca-48c1353104f0.jpg?1562564727",
+    "large": "https://cards.scryfall.io/large/front/d/6/d6a322c5-aa4c-4a99-a3ca-48c1353104f0.jpg?1562564727",
+    "png": "https://cards.scryfall.io/png/front/d/6/d6a322c5-aa4c-4a99-a3ca-48c1353104f0.png?1562564727",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/6/d6a322c5-aa4c-4a99-a3ca-48c1353104f0.jpg?1562564727",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/6/d6a322c5-aa4c-4a99-a3ca-48c1353104f0.jpg?1562564727"
+  },
+  "mana_cost": "{3}{R}{G}",
+  "cmc": 5,
+  "type_line": "Creature — Dinosaur",
+  "oracle_text": "Other Dinosaurs you control have haste.\nWhen this creature enters, create a 3/3 green Dinosaur creature token with trample.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "d6a322c5-aa4c-4a99-a3ca-48c1353104f0",
+      "component": "combo_piece",
+      "name": "Regisaur Alpha",
+      "type_line": "Creature — Dinosaur",
+      "uri": "https://api.scryfall.com/cards/d6a322c5-aa4c-4a99-a3ca-48c1353104f0"
+    },
+    {
+      "object": "related_card",
+      "id": "1ccee594-e1e6-4a82-bc17-93bcdeb36198",
+      "component": "token",
+      "name": "Dinosaur",
+      "type_line": "Token Creature — Dinosaur",
+      "uri": "https://api.scryfall.com/cards/1ccee594-e1e6-4a82-bc17-93bcdeb36198"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "fe0dad85-54bc-4151-9200-d68da84dd0f2",
+  "set": "xln",
+  "set_name": "Ixalan",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/fe0dad85-54bc-4151-9200-d68da84dd0f2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Axln&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/xln?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d6a322c5-aa4c-4a99-a3ca-48c1353104f0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0673f4e0-66ff-458c-b4ba-eb067e560cce&unique=prints",
+  "collector_number": "227",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Seeing a pack of these monsters hunt together, I'm at a loss to imagine the size of their prey.\"\n—Adrian Adanto of Lujio",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jonathan Kuo",
+  "artist_ids": [
+    "babb75bd-4c75-4b13-ad61-c34597ab79ff"
+  ],
+  "illustration_id": "5905040a-0b03-497a-9f9a-114e972736de",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2029,
+  "penny_rank": 5076,
+  "prices": {
+    "usd": "0.75",
+    "usd_foil": "3.87",
+    "usd_etched": null,
+    "eur": "0.98",
+    "eur_foil": "2.57",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435383&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRegisaur%2BAlpha",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRegisaur%2BAlpha",
+    "edhrec": "https://edhrec.com/route/?cc=Regisaur+Alpha"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F144964%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=301385&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/65474?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

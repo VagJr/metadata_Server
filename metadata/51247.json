@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "7931a072-b688-4a0b-a32e-9a2082738745",
+  "oracle_id": "3127ae9b-a7a7-43ec-89d7-688f8445b33d",
+  "multiverse_ids": [
+    632481
+  ],
+  "mtgo_id": 115930,
+  "arena_id": 87091,
+  "tcgplayer_id": 512544,
+  "cardmarket_id": 728390,
+  "name": "Garruk's Uprising",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/7931a072-b688-4a0b-a32e-9a2082738745",
+  "scryfall_uri": "https://scryfall.com/card/wot/53/garruks-uprising?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/9/7931a072-b688-4a0b-a32e-9a2082738745.jpg?1692932816",
+    "normal": "https://cards.scryfall.io/normal/front/7/9/7931a072-b688-4a0b-a32e-9a2082738745.jpg?1692932816",
+    "large": "https://cards.scryfall.io/large/front/7/9/7931a072-b688-4a0b-a32e-9a2082738745.jpg?1692932816",
+    "png": "https://cards.scryfall.io/png/front/7/9/7931a072-b688-4a0b-a32e-9a2082738745.png?1692932816",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/9/7931a072-b688-4a0b-a32e-9a2082738745.jpg?1692932816",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/9/7931a072-b688-4a0b-a32e-9a2082738745.jpg?1692932816"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Enchantment",
+  "oracle_text": "When this enchantment enters, if you control a creature with power 4 or greater, draw a card.\nCreatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)\nWhenever a creature you control with power 4 or greater enters, draw a card.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d1eba841-452b-4f81-88c9-b32973ac8176",
+  "set": "wot",
+  "set_name": "Wilds of Eldraine: Enchanting Tales",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/d1eba841-452b-4f81-88c9-b32973ac8176",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awot&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/wot?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7931a072-b688-4a0b-a32e-9a2082738745/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3127ae9b-a7a7-43ec-89d7-688f8445b33d&unique=prints",
+  "collector_number": "53",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Harry Conway",
+  "artist_ids": [
+    "dcbdd839-90c5-4a9d-a9af-8fb4d6cd8928"
+  ],
+  "illustration_id": "39fadd7c-428b-4148-9354-46a7d173a05b",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 104,
+  "penny_rank": 3066,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2023-08-15"
+  },
+  "prices": {
+    "usd": "0.55",
+    "usd_foil": "0.87",
+    "usd_etched": null,
+    "eur": "0.54",
+    "eur_foil": "1.14",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=632481&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGarruk%2527s%2BUprising",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGarruk%2527s%2BUprising",
+    "edhrec": "https://edhrec.com/route/?cc=Garruk%27s+Uprising"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F512544%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=728390&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/115930?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

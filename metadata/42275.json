@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "63ccf6ae-cfdd-472a-848d-48caa710c741",
+  "oracle_id": "767c896d-4ff6-4cd4-b3a4-80179e84e1cd",
+  "multiverse_ids": [],
+  "tcgplayer_id": 480191,
+  "name": "Virulent Sliver",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/63ccf6ae-cfdd-472a-848d-48caa710c741",
+  "scryfall_uri": "https://scryfall.com/card/plst/FUT-155/virulent-sliver?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/3/63ccf6ae-cfdd-472a-848d-48caa710c741.jpg?1674047301",
+    "normal": "https://cards.scryfall.io/normal/front/6/3/63ccf6ae-cfdd-472a-848d-48caa710c741.jpg?1674047301",
+    "large": "https://cards.scryfall.io/large/front/6/3/63ccf6ae-cfdd-472a-848d-48caa710c741.jpg?1674047301",
+    "png": "https://cards.scryfall.io/png/front/6/3/63ccf6ae-cfdd-472a-848d-48caa710c741.png?1674047301",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/3/63ccf6ae-cfdd-472a-848d-48caa710c741.jpg?1674047301",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/3/63ccf6ae-cfdd-472a-848d-48caa710c741.jpg?1674047301"
+  },
+  "mana_cost": "{G}",
+  "cmc": 1,
+  "type_line": "Creature — Sliver",
+  "oracle_text": "All Sliver creatures have poisonous 1. (Whenever a Sliver deals combat damage to a player, that player gets a poison counter. A player with ten or more poison counters loses the game.)",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "7afb0ba4-9a1b-4cd5-8d0f-2f697c6d3ab1",
+      "component": "combo_piece",
+      "name": "Poison Counter",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/7afb0ba4-9a1b-4cd5-8d0f-2f697c6d3ab1"
+    },
+    {
+      "object": "related_card",
+      "id": "63ccf6ae-cfdd-472a-848d-48caa710c741",
+      "component": "combo_piece",
+      "name": "Virulent Sliver",
+      "type_line": "Creature — Sliver",
+      "uri": "https://api.scryfall.com/cards/63ccf6ae-cfdd-472a-848d-48caa710c741"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/63ccf6ae-cfdd-472a-848d-48caa710c741/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A767c896d-4ff6-4cd4-b3a4-80179e84e1cd&unique=prints",
+  "collector_number": "FUT-155",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Franz Vohwinkel",
+  "artist_ids": [
+    "3a243c17-3baa-4b53-9599-645311cd7d3d"
+  ],
+  "illustration_id": "093a05c9-c0a5-406e-b636-e2a1c0f15e14",
+  "border_color": "black",
+  "frame": "future",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 5971,
+  "penny_rank": 5391,
+  "prices": {
+    "usd": "0.89",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVirulent%2BSliver",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVirulent%2BSliver",
+    "edhrec": "https://edhrec.com/route/?cc=Virulent+Sliver"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F480191%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Virulent+Sliver&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Virulent+Sliver&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

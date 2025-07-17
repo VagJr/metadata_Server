@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "29dfaa49-013b-4760-ba1c-48f6b5a10393",
+  "oracle_id": "e3c4c27d-f263-4c69-a4fe-2928136ff68b",
+  "multiverse_ids": [],
+  "mtgo_id": 36294,
+  "name": "Force of Nature",
+  "lang": "en",
+  "released_at": "2014-10-17",
+  "uri": "https://api.scryfall.com/cards/29dfaa49-013b-4760-ba1c-48f6b5a10393",
+  "scryfall_uri": "https://scryfall.com/card/prm/36294/force-of-nature?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/9/29dfaa49-013b-4760-ba1c-48f6b5a10393.jpg?1562543687",
+    "normal": "https://cards.scryfall.io/normal/front/2/9/29dfaa49-013b-4760-ba1c-48f6b5a10393.jpg?1562543687",
+    "large": "https://cards.scryfall.io/large/front/2/9/29dfaa49-013b-4760-ba1c-48f6b5a10393.jpg?1562543687",
+    "png": "https://cards.scryfall.io/png/front/2/9/29dfaa49-013b-4760-ba1c-48f6b5a10393.png?1562543687",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/9/29dfaa49-013b-4760-ba1c-48f6b5a10393.jpg?1562543687",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/9/29dfaa49-013b-4760-ba1c-48f6b5a10393.jpg?1562543687"
+  },
+  "mana_cost": "{2}{G}{G}{G}{G}",
+  "cmc": 6,
+  "type_line": "Creature — Elemental",
+  "oracle_text": "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nAt the beginning of your upkeep, this creature deals 8 damage to you unless you pay {G}{G}{G}{G}.",
+  "power": "8",
+  "toughness": "8",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Trample"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/29dfaa49-013b-4760-ba1c-48f6b5a10393/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae3c4c27d-f263-4c69-a4fe-2928136ff68b&unique=prints",
+  "collector_number": "36294",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Greg Staples",
+  "artist_ids": [
+    "93d65564-bf00-447b-8406-e2031f03b6b1"
+  ],
+  "illustration_id": "355404c7-93f2-4632-a7c4-6031e223e919",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 25089,
+  "penny_rank": 10302,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DForce%2Bof%2BNature",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DForce%2Bof%2BNature",
+    "edhrec": "https://edhrec.com/route/?cc=Force+of+Nature"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DForce%2Bof%2BNature%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Force+of+Nature&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/36294?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

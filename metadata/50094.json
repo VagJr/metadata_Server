@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "766c7781-d94e-482d-98f0-9b135ec5b8ae",
+  "oracle_id": "2d3e6549-6cc6-434f-a189-ba3b55e64c34",
+  "multiverse_ids": [
+    500911
+  ],
+  "mtgo_id": 85674,
+  "tcgplayer_id": 227345,
+  "cardmarket_id": 514664,
+  "name": "Rampaging Baloths",
+  "lang": "en",
+  "released_at": "2020-11-20",
+  "uri": "https://api.scryfall.com/cards/766c7781-d94e-482d-98f0-9b135ec5b8ae",
+  "scryfall_uri": "https://scryfall.com/card/cmr/431/rampaging-baloths?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/6/766c7781-d94e-482d-98f0-9b135ec5b8ae.jpg?1608917493",
+    "normal": "https://cards.scryfall.io/normal/front/7/6/766c7781-d94e-482d-98f0-9b135ec5b8ae.jpg?1608917493",
+    "large": "https://cards.scryfall.io/large/front/7/6/766c7781-d94e-482d-98f0-9b135ec5b8ae.jpg?1608917493",
+    "png": "https://cards.scryfall.io/png/front/7/6/766c7781-d94e-482d-98f0-9b135ec5b8ae.png?1608917493",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/6/766c7781-d94e-482d-98f0-9b135ec5b8ae.jpg?1608917493",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/6/766c7781-d94e-482d-98f0-9b135ec5b8ae.jpg?1608917493"
+  },
+  "mana_cost": "{4}{G}{G}",
+  "cmc": 6,
+  "type_line": "Creature — Beast",
+  "oracle_text": "Trample\nLandfall — Whenever a land you control enters, you may create a 4/4 green Beast creature token.",
+  "power": "6",
+  "toughness": "6",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Trample",
+    "Landfall"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "766c7781-d94e-482d-98f0-9b135ec5b8ae",
+      "component": "combo_piece",
+      "name": "Rampaging Baloths",
+      "type_line": "Creature — Beast",
+      "uri": "https://api.scryfall.com/cards/766c7781-d94e-482d-98f0-9b135ec5b8ae"
+    },
+    {
+      "object": "related_card",
+      "id": "50d90039-6e75-4c76-893d-cd1686a36be9",
+      "component": "token",
+      "name": "Beast",
+      "type_line": "Token Creature — Beast",
+      "uri": "https://api.scryfall.com/cards/50d90039-6e75-4c76-893d-cd1686a36be9"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "39de6fbf-1f11-48d0-8f04-f0407f6a0732",
+  "set": "cmr",
+  "set_name": "Commander Legends",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/39de6fbf-1f11-48d0-8f04-f0407f6a0732",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/766c7781-d94e-482d-98f0-9b135ec5b8ae/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2d3e6549-6cc6-434f-a189-ba3b55e64c34&unique=prints",
+  "collector_number": "431",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"When the land is angry, so are they.\"\n—Nissa Revane",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steve Prescott",
+  "artist_ids": [
+    "a1139fb8-41f5-4a9e-9a74-f662e1a23b35"
+  ],
+  "illustration_id": "44a1164a-9999-4d90-b093-0cee6d6d9e91",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 367,
+  "penny_rank": 5381,
+  "prices": {
+    "usd": "0.56",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.45",
+    "eur_foil": null,
+    "tix": "0.18"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=500911&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRampaging%2BBaloths",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRampaging%2BBaloths",
+    "edhrec": "https://edhrec.com/route/?cc=Rampaging+Baloths"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F227345%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=514664&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/85674?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

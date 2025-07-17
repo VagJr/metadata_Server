@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "d034ce4a-f07c-42e8-8f3e-6673dd7f0d6f",
+  "oracle_id": "1b301478-b14f-4ef8-94e6-9647d582eabe",
+  "multiverse_ids": [],
+  "mtgo_id": 102363,
+  "name": "Golgari Rot Farm",
+  "lang": "en",
+  "released_at": "2022-09-26",
+  "uri": "https://api.scryfall.com/cards/d034ce4a-f07c-42e8-8f3e-6673dd7f0d6f",
+  "scryfall_uri": "https://scryfall.com/card/prm/102363/golgari-rot-farm?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/0/d034ce4a-f07c-42e8-8f3e-6673dd7f0d6f.jpg?1681137015",
+    "normal": "https://cards.scryfall.io/normal/front/d/0/d034ce4a-f07c-42e8-8f3e-6673dd7f0d6f.jpg?1681137015",
+    "large": "https://cards.scryfall.io/large/front/d/0/d034ce4a-f07c-42e8-8f3e-6673dd7f0d6f.jpg?1681137015",
+    "png": "https://cards.scryfall.io/png/front/d/0/d034ce4a-f07c-42e8-8f3e-6673dd7f0d6f.png?1681137015",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/0/d034ce4a-f07c-42e8-8f3e-6673dd7f0d6f.jpg?1681137015",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/0/d034ce4a-f07c-42e8-8f3e-6673dd7f0d6f.jpg?1681137015"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {B}{G}.",
+  "colors": [],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d034ce4a-f07c-42e8-8f3e-6673dd7f0d6f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1b301478-b14f-4ef8-94e6-9647d582eabe&unique=prints",
+  "collector_number": "102363",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Donato Giancola",
+  "artist_ids": [
+    "90332db2-aecb-4d79-917b-95cbeb8d0cb6"
+  ],
+  "illustration_id": "5eff4630-11fa-4644-bf0c-53de0bc6787d",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 282,
+  "penny_rank": 1945,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "1.14"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGolgari%2BRot%2BFarm",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGolgari%2BRot%2BFarm",
+    "edhrec": "https://edhrec.com/route/?cc=Golgari+Rot+Farm"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DGolgari%2BRot%2BFarm%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Golgari+Rot+Farm&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/102363?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

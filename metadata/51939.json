@@ -1,0 +1,117 @@
+{
+  "object": "card",
+  "id": "7ae626a7-76ec-48da-b644-d4184e1e1f4c",
+  "oracle_id": "9c2b262b-53c0-41a1-8f1a-0c336453d4bf",
+  "multiverse_ids": [],
+  "mtgo_id": 35822,
+  "name": "Comet Storm",
+  "lang": "en",
+  "released_at": "2010-11-04",
+  "uri": "https://api.scryfall.com/cards/7ae626a7-76ec-48da-b644-d4184e1e1f4c",
+  "scryfall_uri": "https://scryfall.com/card/prm/35822/comet-storm?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/a/7ae626a7-76ec-48da-b644-d4184e1e1f4c.jpg?1562545874",
+    "normal": "https://cards.scryfall.io/normal/front/7/a/7ae626a7-76ec-48da-b644-d4184e1e1f4c.jpg?1562545874",
+    "large": "https://cards.scryfall.io/large/front/7/a/7ae626a7-76ec-48da-b644-d4184e1e1f4c.jpg?1562545874",
+    "png": "https://cards.scryfall.io/png/front/7/a/7ae626a7-76ec-48da-b644-d4184e1e1f4c.png?1562545874",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/a/7ae626a7-76ec-48da-b644-d4184e1e1f4c.jpg?1562545874",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/a/7ae626a7-76ec-48da-b644-d4184e1e1f4c.jpg?1562545874"
+  },
+  "mana_cost": "{X}{R}{R}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Multikicker {1} (You may pay an additional {1} any number of times as you cast this spell.)\nChoose any target, then choose another target for each time this spell was kicked. Comet Storm deals X damage to each of them.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Multikicker"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7ae626a7-76ec-48da-b644-d4184e1e1f4c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9c2b262b-53c0-41a1-8f1a-0c336453d4bf&unique=prints",
+  "collector_number": "35822",
+  "digital": true,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tomasz Jedruszek",
+  "artist_ids": [
+    "bba69285-2445-4a4b-a847-59397be972ea"
+  ],
+  "illustration_id": "4bd808a6-ac28-4e80-8cac-c024f0c02298",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1390,
+  "penny_rank": 8604,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DComet%2BStorm",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DComet%2BStorm",
+    "edhrec": "https://edhrec.com/route/?cc=Comet+Storm"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DComet%2BStorm%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Comet+Storm&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/35822?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

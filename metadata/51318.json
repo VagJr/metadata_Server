@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "79631e0a-b962-48f1-98fa-d871b2862866",
+  "oracle_id": "59d22de5-e310-44d7-89cf-ef3529e40cef",
+  "multiverse_ids": [],
+  "tcgplayer_id": 231813,
+  "cardmarket_id": 562320,
+  "name": "Barkchannel Pathway // Tidechannel Pathway",
+  "lang": "en",
+  "released_at": "2021-03-05",
+  "uri": "https://api.scryfall.com/cards/79631e0a-b962-48f1-98fa-d871b2862866",
+  "scryfall_uri": "https://scryfall.com/card/slu/11/barkchannel-pathway-tidechannel-pathway?utm_source=api",
+  "layout": "modal_dfc",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 0,
+  "type_line": "Land // Land",
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "G",
+    "U"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Barkchannel Pathway",
+      "mana_cost": "",
+      "type_line": "Land",
+      "oracle_text": "{T}: Add {G}.",
+      "colors": [],
+      "artist": "Johannes Voss",
+      "artist_id": "3593dd7e-c547-4a32-81cd-7da725f60118",
+      "illustration_id": "a3c66626-1b90-456a-894f-570bb8015987",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/7/9/79631e0a-b962-48f1-98fa-d871b2862866.jpg?1681084579",
+        "normal": "https://cards.scryfall.io/normal/front/7/9/79631e0a-b962-48f1-98fa-d871b2862866.jpg?1681084579",
+        "large": "https://cards.scryfall.io/large/front/7/9/79631e0a-b962-48f1-98fa-d871b2862866.jpg?1681084579",
+        "png": "https://cards.scryfall.io/png/front/7/9/79631e0a-b962-48f1-98fa-d871b2862866.png?1681084579",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/7/9/79631e0a-b962-48f1-98fa-d871b2862866.jpg?1681084579",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/7/9/79631e0a-b962-48f1-98fa-d871b2862866.jpg?1681084579"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Tidechannel Pathway",
+      "mana_cost": "",
+      "type_line": "Land",
+      "oracle_text": "{T}: Add {U}.",
+      "colors": [],
+      "artist": "Johannes Voss",
+      "artist_id": "3593dd7e-c547-4a32-81cd-7da725f60118",
+      "illustration_id": "e0818a1a-1260-4be1-9d79-6172c92f208f",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/7/9/79631e0a-b962-48f1-98fa-d871b2862866.jpg?1681084579",
+        "normal": "https://cards.scryfall.io/normal/back/7/9/79631e0a-b962-48f1-98fa-d871b2862866.jpg?1681084579",
+        "large": "https://cards.scryfall.io/large/back/7/9/79631e0a-b962-48f1-98fa-d871b2862866.jpg?1681084579",
+        "png": "https://cards.scryfall.io/png/back/7/9/79631e0a-b962-48f1-98fa-d871b2862866.png?1681084579",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/7/9/79631e0a-b962-48f1-98fa-d871b2862866.jpg?1681084579",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/7/9/79631e0a-b962-48f1-98fa-d871b2862866.jpg?1681084579"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "6333fd9a-d48e-497f-83fd-30609018e5cb",
+  "set": "slu",
+  "set_name": "Secret Lair: Ultimate Edition",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/6333fd9a-d48e-497f-83fd-30609018e5cb",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aslu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/slu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/79631e0a-b962-48f1-98fa-d871b2862866/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A59d22de5-e310-44d7-89cf-ef3529e40cef&unique=prints",
+  "collector_number": "11",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Johannes Voss",
+  "artist_ids": [
+    "3593dd7e-c547-4a32-81cd-7da725f60118"
+  ],
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 866,
+  "prices": {
+    "usd": null,
+    "usd_foil": "7.13",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "6.36",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBarkchannel%2BPathway%2B%252F%252F%2BTidechannel%2BPathway",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBarkchannel%2BPathway%2B%252F%252F%2BTidechannel%2BPathway",
+    "edhrec": "https://edhrec.com/route/?cc=Barkchannel+Pathway"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F231813%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=562320&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Barkchannel+Pathway&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

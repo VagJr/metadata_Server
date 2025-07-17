@@ -1,0 +1,150 @@
+{
+  "object": "card",
+  "id": "fda223e4-ebe7-4841-823b-845702940c62",
+  "oracle_id": "3979067a-9c68-443d-a85f-d9f07be880b9",
+  "multiverse_ids": [],
+  "tcgplayer_id": 492906,
+  "name": "Monastery Mentor",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/fda223e4-ebe7-4841-823b-845702940c62",
+  "scryfall_uri": "https://scryfall.com/card/pmom/28s/monastery-mentor?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/d/fda223e4-ebe7-4841-823b-845702940c62.jpg?1682599414",
+    "normal": "https://cards.scryfall.io/normal/front/f/d/fda223e4-ebe7-4841-823b-845702940c62.jpg?1682599414",
+    "large": "https://cards.scryfall.io/large/front/f/d/fda223e4-ebe7-4841-823b-845702940c62.jpg?1682599414",
+    "png": "https://cards.scryfall.io/png/front/f/d/fda223e4-ebe7-4841-823b-845702940c62.png?1682599414",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/d/fda223e4-ebe7-4841-823b-845702940c62.jpg?1682599414",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/d/fda223e4-ebe7-4841-823b-845702940c62.jpg?1682599414"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Creature — Human Monk",
+  "oracle_text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever you cast a noncreature spell, create a 1/1 white Monk creature token with prowess.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Prowess"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "fda223e4-ebe7-4841-823b-845702940c62",
+      "component": "combo_piece",
+      "name": "Monastery Mentor",
+      "type_line": "Creature — Human Monk",
+      "uri": "https://api.scryfall.com/cards/fda223e4-ebe7-4841-823b-845702940c62"
+    },
+    {
+      "object": "related_card",
+      "id": "03a02803-4579-4af4-b4f7-3e3fb61199ec",
+      "component": "combo_piece",
+      "name": "Lam, Storm Crane Elder",
+      "type_line": "Legendary Creature — Human Monk",
+      "uri": "https://api.scryfall.com/cards/03a02803-4579-4af4-b4f7-3e3fb61199ec"
+    },
+    {
+      "object": "related_card",
+      "id": "d27b3b91-8bef-4d3c-84ef-5015ca9e472c",
+      "component": "token",
+      "name": "Monk",
+      "type_line": "Token Creature — Monk",
+      "uri": "https://api.scryfall.com/cards/d27b3b91-8bef-4d3c-84ef-5015ca9e472c"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "restricted",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4af147e4-cf99-4f32-a77e-d116412f469a",
+  "set": "pmom",
+  "set_name": "March of the Machine Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/4af147e4-cf99-4f32-a77e-d116412f469a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apmom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pmom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/fda223e4-ebe7-4841-823b-845702940c62/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3979067a-9c68-443d-a85f-d9f07be880b9&unique=prints",
+  "collector_number": "28s",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "\"One path. Many feet.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Brian Valeza",
+  "artist_ids": [
+    "bb2a9339-bbe4-445f-9736-3c43379ee076"
+  ],
+  "illustration_id": "80f6df2d-9421-4a6e-9d7a-4b998cd3ca3f",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 1590,
+  "prices": {
+    "usd": null,
+    "usd_foil": "3.51",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMonastery%2BMentor",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMonastery%2BMentor",
+    "edhrec": "https://edhrec.com/route/?cc=Monastery+Mentor"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F492906%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Monastery+Mentor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Monastery+Mentor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

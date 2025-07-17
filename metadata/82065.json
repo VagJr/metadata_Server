@@ -1,0 +1,148 @@
+{
+  "object": "card",
+  "id": "c1bda37b-7702-462e-8851-af6917b78ee1",
+  "oracle_id": "0895c9b7-ae7d-4bb3-af17-3b75deb50a25",
+  "multiverse_ids": [
+    582521
+  ],
+  "mtgo_id": 108398,
+  "tcgplayer_id": 285835,
+  "cardmarket_id": 674662,
+  "name": "Command Tower",
+  "lang": "en",
+  "released_at": "2022-10-07",
+  "uri": "https://api.scryfall.com/cards/c1bda37b-7702-462e-8851-af6917b78ee1",
+  "scryfall_uri": "https://scryfall.com/card/40k/272/command-tower?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/1/c1bda37b-7702-462e-8851-af6917b78ee1.jpg?1677541897",
+    "normal": "https://cards.scryfall.io/normal/front/c/1/c1bda37b-7702-462e-8851-af6917b78ee1.jpg?1677541897",
+    "large": "https://cards.scryfall.io/large/front/c/1/c1bda37b-7702-462e-8851-af6917b78ee1.jpg?1677541897",
+    "png": "https://cards.scryfall.io/png/front/c/1/c1bda37b-7702-462e-8851-af6917b78ee1.png?1677541897",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/1/c1bda37b-7702-462e-8851-af6917b78ee1.jpg?1677541897",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/1/c1bda37b-7702-462e-8851-af6917b78ee1.jpg?1677541897"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "{T}: Add one mana of any color in your commander's color identity.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "288135e8-2081-4c69-8e27-5c7e2a6dfbfa",
+      "component": "combo_piece",
+      "name": "Command Tower",
+      "type_line": "Land",
+      "uri": "https://api.scryfall.com/cards/288135e8-2081-4c69-8e27-5c7e2a6dfbfa"
+    },
+    {
+      "object": "related_card",
+      "id": "ad03209f-568a-40f5-8470-a083080e6831",
+      "component": "combo_piece",
+      "name": "Tower Winder",
+      "type_line": "Creature — Snake",
+      "uri": "https://api.scryfall.com/cards/ad03209f-568a-40f5-8470-a083080e6831"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "f35f5dd8-5b95-4f52-bbe7-1c62909a8d08",
+  "set": "40k",
+  "set_name": "Warhammer 40,000 Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/f35f5dd8-5b95-4f52-bbe7-1c62909a8d08",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A40k&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/40k?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c1bda37b-7702-462e-8851-af6917b78ee1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0895c9b7-ae7d-4bb3-af17-3b75deb50a25&unique=prints",
+  "collector_number": "272",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"The war will be decided here, where the planet's defences are strongest.\"\n—Marneus Calgar",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Games Workshop",
+  "artist_ids": [
+    "9456da4e-410b-4932-8bf3-a69a2da3cdc9"
+  ],
+  "illustration_id": "d3f66159-8309-4fac-9bbd-dfaa7c60e341",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/1589046772",
+    "previewed_at": "2022-09-12"
+  },
+  "prices": {
+    "usd": "0.38",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.44",
+    "eur_foil": null,
+    "tix": "0.08"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=582521&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCommand%2BTower",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCommand%2BTower",
+    "edhrec": "https://edhrec.com/route/?cc=Command+Tower"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F285835%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=674662&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/108398?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

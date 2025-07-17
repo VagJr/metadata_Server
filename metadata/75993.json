@@ -1,0 +1,115 @@
+{
+  "object": "card",
+  "id": "b365a7d7-f2ba-4b76-8c99-790f43e6bba2",
+  "oracle_id": "081bfd50-a436-463b-9d2c-5bc8a32b387c",
+  "multiverse_ids": [],
+  "arena_id": 76213,
+  "name": "Silverbluff Bridge",
+  "lang": "en",
+  "released_at": "2022-07-28",
+  "uri": "https://api.scryfall.com/cards/b365a7d7-f2ba-4b76-8c99-790f43e6bba2",
+  "scryfall_uri": "https://scryfall.com/card/ha6/17/silverbluff-bridge?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/3/b365a7d7-f2ba-4b76-8c99-790f43e6bba2.jpg?1679617442",
+    "normal": "https://cards.scryfall.io/normal/front/b/3/b365a7d7-f2ba-4b76-8c99-790f43e6bba2.jpg?1679617442",
+    "large": "https://cards.scryfall.io/large/front/b/3/b365a7d7-f2ba-4b76-8c99-790f43e6bba2.jpg?1679617442",
+    "png": "https://cards.scryfall.io/png/front/b/3/b365a7d7-f2ba-4b76-8c99-790f43e6bba2.png?1679617442",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/3/b365a7d7-f2ba-4b76-8c99-790f43e6bba2.jpg?1679617442",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/3/b365a7d7-f2ba-4b76-8c99-790f43e6bba2.jpg?1679617442"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Artifact Land",
+  "oracle_text": "This land enters tapped.\nIndestructible\n{T}: Add {U} or {R}.",
+  "colors": [],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [
+    "Indestructible"
+  ],
+  "produced_mana": [
+    "R",
+    "U"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "14717ba4-0497-4257-ae2f-2e0115230d4e",
+  "set": "ha6",
+  "set_name": "Historic Anthology 6",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/14717ba4-0497-4257-ae2f-2e0115230d4e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aha6&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ha6?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b365a7d7-f2ba-4b76-8c99-790f43e6bba2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A081bfd50-a436-463b-9d2c-5bc8a32b387c&unique=prints",
+  "collector_number": "17",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Joseph Meehan",
+  "artist_ids": [
+    "6befd6d5-7f8d-4b7c-87e3-5511391a3359"
+  ],
+  "illustration_id": "25ea0e65-e625-4a20-941b-e8d76a4eae56",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1233,
+  "penny_rank": 141,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSilverbluff%2BBridge",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSilverbluff%2BBridge",
+    "edhrec": "https://edhrec.com/route/?cc=Silverbluff+Bridge"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "object": "card",
+  "id": "458a8212-5dd6-4e63-8d1c-b3e8fa4e0a89",
+  "oracle_id": "09c68fb5-2000-4bb8-b03b-94b093e50bca",
+  "multiverse_ids": [
+    547635
+  ],
+  "arena_id": 73948,
+  "name": "Nimble-Blade Khenra",
+  "lang": "en",
+  "released_at": "2020-08-13",
+  "uri": "https://api.scryfall.com/cards/458a8212-5dd6-4e63-8d1c-b3e8fa4e0a89",
+  "scryfall_uri": "https://scryfall.com/card/akr/168/nimble-blade-khenra?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/5/458a8212-5dd6-4e63-8d1c-b3e8fa4e0a89.jpg?1597250492",
+    "normal": "https://cards.scryfall.io/normal/front/4/5/458a8212-5dd6-4e63-8d1c-b3e8fa4e0a89.jpg?1597250492",
+    "large": "https://cards.scryfall.io/large/front/4/5/458a8212-5dd6-4e63-8d1c-b3e8fa4e0a89.jpg?1597250492",
+    "png": "https://cards.scryfall.io/png/front/4/5/458a8212-5dd6-4e63-8d1c-b3e8fa4e0a89.png?1597250492",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/5/458a8212-5dd6-4e63-8d1c-b3e8fa4e0a89.jpg?1597250492",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/5/458a8212-5dd6-4e63-8d1c-b3e8fa4e0a89.jpg?1597250492"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Creature — Jackal Warrior",
+  "oracle_text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",
+  "power": "1",
+  "toughness": "3",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Prowess"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "915dabb1-b82a-432d-939d-d9b128e65582",
+  "set": "akr",
+  "set_name": "Amonkhet Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/915dabb1-b82a-432d-939d-d9b128e65582",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aakr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/akr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/458a8212-5dd6-4e63-8d1c-b3e8fa4e0a89/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A09c68fb5-2000-4bb8-b03b-94b093e50bca&unique=prints",
+  "collector_number": "168",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tomasz Jedruszek",
+  "artist_ids": [
+    "bba69285-2445-4a4b-a847-59397be972ea"
+  ],
+  "illustration_id": "8a43372e-d18e-4956-af7d-9bd5e1e779f2",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 23456,
+  "penny_rank": 9542,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547635&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNimble-Blade%2BKhenra",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNimble-Blade%2BKhenra",
+    "edhrec": "https://edhrec.com/route/?cc=Nimble-Blade+Khenra"
+  }
+}

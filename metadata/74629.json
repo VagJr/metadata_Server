@@ -1,0 +1,495 @@
+{
+  "object": "card",
+  "id": "b00c8945-ffde-4026-a730-ba1ff20eedc1",
+  "oracle_id": "7c934091-1bc7-4458-acef-fdac62ec3df1",
+  "multiverse_ids": [],
+  "name": "The Monarch",
+  "lang": "ja",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/b00c8945-ffde-4026-a730-ba1ff20eedc1",
+  "scryfall_uri": "https://scryfall.com/card/wwoe/6/ja/the-monarch?utm_source=api",
+  "layout": "token",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/0/b00c8945-ffde-4026-a730-ba1ff20eedc1.jpg?1742799449",
+    "normal": "https://cards.scryfall.io/normal/front/b/0/b00c8945-ffde-4026-a730-ba1ff20eedc1.jpg?1742799449",
+    "large": "https://cards.scryfall.io/large/front/b/0/b00c8945-ffde-4026-a730-ba1ff20eedc1.jpg?1742799449",
+    "png": "https://cards.scryfall.io/png/front/b/0/b00c8945-ffde-4026-a730-ba1ff20eedc1.png?1742799449",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/0/b00c8945-ffde-4026-a730-ba1ff20eedc1.jpg?1742799449",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/0/b00c8945-ffde-4026-a730-ba1ff20eedc1.jpg?1742799449"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Card",
+  "oracle_text": "At the beginning of your end step, draw a card.\nWhenever a creature deals combat damage to you, its controller becomes the monarch.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "ec8835de-f348-4995-9519-6b94f41c9b2f",
+      "component": "combo_piece",
+      "name": "Custodi Lich",
+      "type_line": "Creature — Zombie Cleric",
+      "uri": "https://api.scryfall.com/cards/ec8835de-f348-4995-9519-6b94f41c9b2f"
+    },
+    {
+      "object": "related_card",
+      "id": "de746255-a23a-4883-8a0d-43a59460506b",
+      "component": "combo_piece",
+      "name": "Court of Ire",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/de746255-a23a-4883-8a0d-43a59460506b"
+    },
+    {
+      "object": "related_card",
+      "id": "7263ebb1-0b5f-4320-8908-29fd9b4eb7fe",
+      "component": "combo_piece",
+      "name": "Palace Jailer",
+      "type_line": "Creature — Human Soldier",
+      "uri": "https://api.scryfall.com/cards/7263ebb1-0b5f-4320-8908-29fd9b4eb7fe"
+    },
+    {
+      "object": "related_card",
+      "id": "4b9b1437-bb05-4038-b96f-f94e805fd9af",
+      "component": "combo_piece",
+      "name": "Court of Garenbrig",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/4b9b1437-bb05-4038-b96f-f94e805fd9af"
+    },
+    {
+      "object": "related_card",
+      "id": "e345da65-9562-43d3-967d-e2d727c23c7c",
+      "component": "combo_piece",
+      "name": "Keeper of Keys",
+      "type_line": "Creature — Human Rogue Mutant",
+      "uri": "https://api.scryfall.com/cards/e345da65-9562-43d3-967d-e2d727c23c7c"
+    },
+    {
+      "object": "related_card",
+      "id": "ffd07c2c-24f2-4e75-b050-4a817fe2da58",
+      "component": "combo_piece",
+      "name": "Entourage of Trest",
+      "type_line": "Creature — Elf Soldier",
+      "uri": "https://api.scryfall.com/cards/ffd07c2c-24f2-4e75-b050-4a817fe2da58"
+    },
+    {
+      "object": "related_card",
+      "id": "d2344367-83bf-4af5-8260-365c314ebd99",
+      "component": "combo_piece",
+      "name": "Court of Cunning",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/d2344367-83bf-4af5-8260-365c314ebd99"
+    },
+    {
+      "object": "related_card",
+      "id": "997e8e66-c135-499e-8aed-1898f3fbd2c4",
+      "component": "combo_piece",
+      "name": "Forth Eorlingas!",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/997e8e66-c135-499e-8aed-1898f3fbd2c4"
+    },
+    {
+      "object": "related_card",
+      "id": "defba348-b689-460e-8769-bcb2dcab329e",
+      "component": "combo_piece",
+      "name": "Regal Sliver",
+      "type_line": "Creature — Sliver",
+      "uri": "https://api.scryfall.com/cards/defba348-b689-460e-8769-bcb2dcab329e"
+    },
+    {
+      "object": "related_card",
+      "id": "8d4bed6f-ae46-407f-b703-9608cdf4a6c4",
+      "component": "combo_piece",
+      "name": "Oath of Eorl",
+      "type_line": "Enchantment — Saga",
+      "uri": "https://api.scryfall.com/cards/8d4bed6f-ae46-407f-b703-9608cdf4a6c4"
+    },
+    {
+      "object": "related_card",
+      "id": "a3d9889e-4957-49c0-8959-0da9623fb59a",
+      "component": "combo_piece",
+      "name": "Champions of Minas Tirith",
+      "type_line": "Creature — Human Soldier",
+      "uri": "https://api.scryfall.com/cards/a3d9889e-4957-49c0-8959-0da9623fb59a"
+    },
+    {
+      "object": "related_card",
+      "id": "650ede44-d937-44b6-8b9d-4314499f4264",
+      "component": "combo_piece",
+      "name": "Faramir, Steward of Gondor",
+      "type_line": "Legendary Creature — Human Noble",
+      "uri": "https://api.scryfall.com/cards/650ede44-d937-44b6-8b9d-4314499f4264"
+    },
+    {
+      "object": "related_card",
+      "id": "07508205-8e0b-4a4b-9738-1054e7181165",
+      "component": "combo_piece",
+      "name": "Emberwilde Captain",
+      "type_line": "Creature — Djinn Pirate",
+      "uri": "https://api.scryfall.com/cards/07508205-8e0b-4a4b-9738-1054e7181165"
+    },
+    {
+      "object": "related_card",
+      "id": "e5ab03e2-8ffc-47cb-a1e7-a21bf070682b",
+      "component": "combo_piece",
+      "name": "Éomer, King of Rohan",
+      "type_line": "Legendary Creature — Human Noble",
+      "uri": "https://api.scryfall.com/cards/e5ab03e2-8ffc-47cb-a1e7-a21bf070682b"
+    },
+    {
+      "object": "related_card",
+      "id": "d3f36c7d-7b8a-427a-9143-075f85ae0c77",
+      "component": "combo_piece",
+      "name": "Court of Locthwain",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/d3f36c7d-7b8a-427a-9143-075f85ae0c77"
+    },
+    {
+      "object": "related_card",
+      "id": "d4a7ed0a-7298-4d10-a789-f6f1fb613463",
+      "component": "combo_piece",
+      "name": "Archon of Coronation",
+      "type_line": "Creature — Archon",
+      "uri": "https://api.scryfall.com/cards/d4a7ed0a-7298-4d10-a789-f6f1fb613463"
+    },
+    {
+      "object": "related_card",
+      "id": "0d798eee-a453-4198-aae6-318ea07b9d13",
+      "component": "combo_piece",
+      "name": "Court of Ambition",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/0d798eee-a453-4198-aae6-318ea07b9d13"
+    },
+    {
+      "object": "related_card",
+      "id": "820aa4ad-b724-4cfb-9859-7d925878d63a",
+      "component": "combo_piece",
+      "name": "Denethor, Stone Seer",
+      "type_line": "Legendary Creature — Human Noble",
+      "uri": "https://api.scryfall.com/cards/820aa4ad-b724-4cfb-9859-7d925878d63a"
+    },
+    {
+      "object": "related_card",
+      "id": "c59234af-0af9-41bc-ac83-3249381cd428",
+      "component": "combo_piece",
+      "name": "Regal Behemoth",
+      "type_line": "Creature — Dinosaur",
+      "uri": "https://api.scryfall.com/cards/c59234af-0af9-41bc-ac83-3249381cd428"
+    },
+    {
+      "object": "related_card",
+      "id": "b00c8945-ffde-4026-a730-ba1ff20eedc1",
+      "component": "combo_piece",
+      "name": "The Monarch",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/b00c8945-ffde-4026-a730-ba1ff20eedc1"
+    },
+    {
+      "object": "related_card",
+      "id": "381600e6-55c6-4f8e-941c-b59609409d96",
+      "component": "combo_piece",
+      "name": "Court of Embereth",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/381600e6-55c6-4f8e-941c-b59609409d96"
+    },
+    {
+      "object": "related_card",
+      "id": "55dfe92b-820a-4c3d-9d43-884f33b6c8c1",
+      "component": "combo_piece",
+      "name": "Throne of the High City",
+      "type_line": "Land",
+      "uri": "https://api.scryfall.com/cards/55dfe92b-820a-4c3d-9d43-884f33b6c8c1"
+    },
+    {
+      "object": "related_card",
+      "id": "108b1825-e4be-4d84-8f44-047ad7e10b27",
+      "component": "combo_piece",
+      "name": "Knights of the Black Rose",
+      "type_line": "Creature — Human Knight",
+      "uri": "https://api.scryfall.com/cards/108b1825-e4be-4d84-8f44-047ad7e10b27"
+    },
+    {
+      "object": "related_card",
+      "id": "d74591e1-0650-46ea-9963-cf91db0fdc2c",
+      "component": "combo_piece",
+      "name": "Archivist of Gondor",
+      "type_line": "Creature — Human Advisor",
+      "uri": "https://api.scryfall.com/cards/d74591e1-0650-46ea-9963-cf91db0fdc2c"
+    },
+    {
+      "object": "related_card",
+      "id": "3fe83c5a-d1b8-4dc3-aa68-bb9560dc4862",
+      "component": "combo_piece",
+      "name": "Thorn of the Black Rose",
+      "type_line": "Creature — Human Assassin",
+      "uri": "https://api.scryfall.com/cards/3fe83c5a-d1b8-4dc3-aa68-bb9560dc4862"
+    },
+    {
+      "object": "related_card",
+      "id": "a23ea77b-085f-4d85-a016-12d7ad5d2047",
+      "component": "combo_piece",
+      "name": "Court of Vantress",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/a23ea77b-085f-4d85-a016-12d7ad5d2047"
+    },
+    {
+      "object": "related_card",
+      "id": "c111dfa0-f284-4215-8e8d-ba09a8992a44",
+      "component": "combo_piece",
+      "name": "Azure Fleet Admiral",
+      "type_line": "Creature — Human Pirate",
+      "uri": "https://api.scryfall.com/cards/c111dfa0-f284-4215-8e8d-ba09a8992a44"
+    },
+    {
+      "object": "related_card",
+      "id": "ba804b0a-54b0-4d64-9422-f1cf51f8b460",
+      "component": "combo_piece",
+      "name": "Jared Carthalion, True Heir",
+      "type_line": "Legendary Creature — Human Warrior",
+      "uri": "https://api.scryfall.com/cards/ba804b0a-54b0-4d64-9422-f1cf51f8b460"
+    },
+    {
+      "object": "related_card",
+      "id": "4ccb8f3d-fd90-4876-8d24-6b4f9f1401ae",
+      "component": "combo_piece",
+      "name": "Throne Warden",
+      "type_line": "Creature — Human Soldier",
+      "uri": "https://api.scryfall.com/cards/4ccb8f3d-fd90-4876-8d24-6b4f9f1401ae"
+    },
+    {
+      "object": "related_card",
+      "id": "021d99f7-d7a1-463f-8e29-ed16eceda951",
+      "component": "combo_piece",
+      "name": "Dawnglade Regent",
+      "type_line": "Creature — Elk",
+      "uri": "https://api.scryfall.com/cards/021d99f7-d7a1-463f-8e29-ed16eceda951"
+    },
+    {
+      "object": "related_card",
+      "id": "886e8d28-dfb5-4a07-8477-f64cfba00958",
+      "component": "combo_piece",
+      "name": "Court of Ardenvale",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/886e8d28-dfb5-4a07-8477-f64cfba00958"
+    },
+    {
+      "object": "related_card",
+      "id": "d66f6307-4528-4823-8c96-94bcbcc653c5",
+      "component": "combo_piece",
+      "name": "Aragorn, King of Gondor",
+      "type_line": "Legendary Creature — Human Noble",
+      "uri": "https://api.scryfall.com/cards/d66f6307-4528-4823-8c96-94bcbcc653c5"
+    },
+    {
+      "object": "related_card",
+      "id": "1014dba7-7aaa-48b5-9410-408ca12e8b70",
+      "component": "combo_piece",
+      "name": "Fealty to the Realm",
+      "type_line": "Enchantment — Aura",
+      "uri": "https://api.scryfall.com/cards/1014dba7-7aaa-48b5-9410-408ca12e8b70"
+    },
+    {
+      "object": "related_card",
+      "id": "5284f330-d04a-4a04-adfe-4da0a99184a3",
+      "component": "combo_piece",
+      "name": "Skyline Despot",
+      "type_line": "Creature — Dragon",
+      "uri": "https://api.scryfall.com/cards/5284f330-d04a-4a04-adfe-4da0a99184a3"
+    },
+    {
+      "object": "related_card",
+      "id": "a866eeff-e94d-4677-a4fa-ed5de69475e8",
+      "component": "combo_piece",
+      "name": "Feast of Succession",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/a866eeff-e94d-4677-a4fa-ed5de69475e8"
+    },
+    {
+      "object": "related_card",
+      "id": "82fcfebe-1eac-4eb8-9910-903fc1a51642",
+      "component": "combo_piece",
+      "name": "Paliano",
+      "type_line": "Plane — Fiora",
+      "uri": "https://api.scryfall.com/cards/82fcfebe-1eac-4eb8-9910-903fc1a51642"
+    },
+    {
+      "object": "related_card",
+      "id": "65722a31-aa1a-4303-a2ed-55980abc5bd5",
+      "component": "combo_piece",
+      "name": "Staunch Throneguard",
+      "type_line": "Artifact Creature — Construct",
+      "uri": "https://api.scryfall.com/cards/65722a31-aa1a-4303-a2ed-55980abc5bd5"
+    },
+    {
+      "object": "related_card",
+      "id": "cf08ba77-6c4c-4827-9ee7-d273e3c662ef",
+      "component": "combo_piece",
+      "name": "Palace Sentinels",
+      "type_line": "Creature — Human Soldier",
+      "uri": "https://api.scryfall.com/cards/cf08ba77-6c4c-4827-9ee7-d273e3c662ef"
+    },
+    {
+      "object": "related_card",
+      "id": "d3e50b16-6f64-4162-97b6-4d4f42c4bbb3",
+      "component": "combo_piece",
+      "name": "Crimson Fleet Commodore",
+      "type_line": "Creature — Ogre Pirate",
+      "uri": "https://api.scryfall.com/cards/d3e50b16-6f64-4162-97b6-4d4f42c4bbb3"
+    },
+    {
+      "object": "related_card",
+      "id": "8f915ea2-a9b4-4c84-aee0-55668434d879",
+      "component": "combo_piece",
+      "name": "Queen Marchesa",
+      "type_line": "Legendary Creature — Human Assassin",
+      "uri": "https://api.scryfall.com/cards/8f915ea2-a9b4-4c84-aee0-55668434d879"
+    },
+    {
+      "object": "related_card",
+      "id": "9971e0ae-0e8f-4826-b9d8-05b5646da7e7",
+      "component": "combo_piece",
+      "name": "Marchesa's Decree",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/9971e0ae-0e8f-4826-b9d8-05b5646da7e7"
+    },
+    {
+      "object": "related_card",
+      "id": "976d25d0-cb62-49cc-a2b1-9087477aa3ca",
+      "component": "combo_piece",
+      "name": "Court of Bounty",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/976d25d0-cb62-49cc-a2b1-9087477aa3ca"
+    },
+    {
+      "object": "related_card",
+      "id": "4d5d1eff-67e7-4287-9c77-6475d0da721f",
+      "component": "combo_piece",
+      "name": "Fall from Favor",
+      "type_line": "Enchantment — Aura",
+      "uri": "https://api.scryfall.com/cards/4d5d1eff-67e7-4287-9c77-6475d0da721f"
+    },
+    {
+      "object": "related_card",
+      "id": "7818d499-b524-4384-a945-ccc2c0ee7c4e",
+      "component": "combo_piece",
+      "name": "Canal Courier",
+      "type_line": "Creature — Human Rogue",
+      "uri": "https://api.scryfall.com/cards/7818d499-b524-4384-a945-ccc2c0ee7c4e"
+    },
+    {
+      "object": "related_card",
+      "id": "5052d9d9-a5aa-483a-8571-3bffe158f571",
+      "component": "combo_piece",
+      "name": "Protector of the Crown",
+      "type_line": "Creature — Giant Soldier",
+      "uri": "https://api.scryfall.com/cards/5052d9d9-a5aa-483a-8571-3bffe158f571"
+    },
+    {
+      "object": "related_card",
+      "id": "930ebc04-3bec-4070-8cc0-7958b6898eaf",
+      "component": "combo_piece",
+      "name": "Court of Grace",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/930ebc04-3bec-4070-8cc0-7958b6898eaf"
+    },
+    {
+      "object": "related_card",
+      "id": "8fee9b83-3986-40c2-a550-34b7c4bec778",
+      "component": "combo_piece",
+      "name": "Crown of Gondor",
+      "type_line": "Legendary Artifact — Equipment",
+      "uri": "https://api.scryfall.com/cards/8fee9b83-3986-40c2-a550-34b7c4bec778"
+    },
+    {
+      "object": "related_card",
+      "id": "b2968417-9e80-4e6d-bc31-bb015fcab289",
+      "component": "combo_piece",
+      "name": "Crown-Hunter Hireling",
+      "type_line": "Creature — Ogre Mercenary",
+      "uri": "https://api.scryfall.com/cards/b2968417-9e80-4e6d-bc31-bb015fcab289"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4cd014a3-abf0-4192-9d55-d96d9c5c7eca",
+  "set": "wwoe",
+  "set_name": "WOE Japanese Promo Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/4cd014a3-abf0-4192-9d55-d96d9c5c7eca",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awwoe&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/wwoe?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b00c8945-ffde-4026-a730-ba1ff20eedc1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7c934091-1bc7-4458-acef-fdac62ec3df1&unique=prints",
+  "collector_number": "6",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mike Bierek",
+  "artist_ids": [
+    "e5f52ef5-1a2e-4128-90b0-ccc71cd47ea7"
+  ],
+  "illustration_id": "0881c5b8-95ca-4939-bf9c-56b81d2f2158",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThe%2BMonarch",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThe%2BMonarch",
+    "edhrec": "https://edhrec.com/route/?cc=The+Monarch"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DThe%2BMonarch%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=The+Monarch&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=The+Monarch&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

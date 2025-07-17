@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "5eb23cf5-f046-4310-853b-e5995693f2dd",
+  "oracle_id": "e30d9e08-cf88-4e2d-95e1-7144d8fea5c7",
+  "multiverse_ids": [
+    667168
+  ],
+  "mtgo_id": 127804,
+  "tcgplayer_etched_id": 555855,
+  "name": "Adéwalé, Breaker of Chains",
+  "lang": "en",
+  "released_at": "2024-07-05",
+  "uri": "https://api.scryfall.com/cards/5eb23cf5-f046-4310-853b-e5995693f2dd",
+  "scryfall_uri": "https://scryfall.com/card/acr/224/ad%C3%A9wal%C3%A9-breaker-of-chains?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/e/5eb23cf5-f046-4310-853b-e5995693f2dd.jpg?1721425329",
+    "normal": "https://cards.scryfall.io/normal/front/5/e/5eb23cf5-f046-4310-853b-e5995693f2dd.jpg?1721425329",
+    "large": "https://cards.scryfall.io/large/front/5/e/5eb23cf5-f046-4310-853b-e5995693f2dd.jpg?1721425329",
+    "png": "https://cards.scryfall.io/png/front/5/e/5eb23cf5-f046-4310-853b-e5995693f2dd.png?1721425329",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/e/5eb23cf5-f046-4310-853b-e5995693f2dd.jpg?1721425329",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/e/5eb23cf5-f046-4310-853b-e5995693f2dd.jpg?1721425329"
+  },
+  "mana_cost": "{1}{U}{B}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Human Assassin Pirate",
+  "oracle_text": "When Adéwalé enters, reveal the top six cards of your library. Put an Assassin, Pirate, or Vehicle card from among them into your hand and the rest on the bottom of your library in a random order.\nWhenever a Vehicle you control deals combat damage to a player, you may return this card from your graveyard to your hand.",
+  "power": "4",
+  "toughness": "1",
+  "colors": [
+    "B",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": false,
+  "finishes": [
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "54b67b0b-cd3f-4e0d-ac25-fef5d966409b",
+  "set": "acr",
+  "set_name": "Assassin's Creed",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/54b67b0b-cd3f-4e0d-ac25-fef5d966409b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aacr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/acr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5eb23cf5-f046-4310-853b-e5995693f2dd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae30d9e08-cf88-4e2d-95e1-7144d8fea5c7&unique=prints",
+  "collector_number": "224",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Justyna Dura",
+  "artist_ids": [
+    "d2340aef-8ca9-4e0d-864c-6a4e8d5e350a"
+  ],
+  "illustration_id": "07ae0832-bc6e-430b-a8c7-8e2090d804a5",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted",
+    "etched"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 6467,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": "0.67",
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=667168&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAd%25C3%25A9wal%25C3%25A9%252C%2BBreaker%2Bof%2BChains",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAd%25C3%25A9wal%25C3%25A9%252C%2BBreaker%2Bof%2BChains",
+    "edhrec": "https://edhrec.com/route/?cc=Ad%C3%A9wal%C3%A9%2C+Breaker+of+Chains"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DAd%25C3%25A9wal%25C3%25A9%252C%2BBreaker%2Bof%2BChains%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ad%C3%A9wal%C3%A9%2C+Breaker+of+Chains&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/127804?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

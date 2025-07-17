@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "20842e77-5707-4eff-ac82-336eecaa1d96",
+  "oracle_id": "43355ac4-bf8c-48f6-a322-fafbc9d132d1",
+  "multiverse_ids": [
+    582651
+  ],
+  "tcgplayer_id": 448593,
+  "name": "Talrand's Invocation",
+  "lang": "en",
+  "released_at": "2022-10-14",
+  "uri": "https://api.scryfall.com/cards/20842e77-5707-4eff-ac82-336eecaa1d96",
+  "scryfall_uri": "https://scryfall.com/card/gn3/41/talrands-invocation?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/0/20842e77-5707-4eff-ac82-336eecaa1d96.jpg?1673301571",
+    "normal": "https://cards.scryfall.io/normal/front/2/0/20842e77-5707-4eff-ac82-336eecaa1d96.jpg?1673301571",
+    "large": "https://cards.scryfall.io/large/front/2/0/20842e77-5707-4eff-ac82-336eecaa1d96.jpg?1673301571",
+    "png": "https://cards.scryfall.io/png/front/2/0/20842e77-5707-4eff-ac82-336eecaa1d96.png?1673301571",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/0/20842e77-5707-4eff-ac82-336eecaa1d96.jpg?1673301571",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/0/20842e77-5707-4eff-ac82-336eecaa1d96.jpg?1673301571"
+  },
+  "mana_cost": "{2}{U}{U}",
+  "cmc": 4,
+  "type_line": "Sorcery",
+  "oracle_text": "Create two 2/2 blue Drake creature tokens with flying.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "20842e77-5707-4eff-ac82-336eecaa1d96",
+      "component": "combo_piece",
+      "name": "Talrand's Invocation",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/20842e77-5707-4eff-ac82-336eecaa1d96"
+    },
+    {
+      "object": "related_card",
+      "id": "a5c325d9-6cfc-4e41-b73d-4a45454d9fad",
+      "component": "token",
+      "name": "Drake",
+      "type_line": "Token Creature — Drake",
+      "uri": "https://api.scryfall.com/cards/a5c325d9-6cfc-4e41-b73d-4a45454d9fad"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "fe88ea3a-0e2c-44b9-9210-35bfdec1e288",
+  "set": "gn3",
+  "set_name": "Game Night: Free-for-All",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/fe88ea3a-0e2c-44b9-9210-35bfdec1e288",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Agn3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/gn3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/20842e77-5707-4eff-ac82-336eecaa1d96/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A43355ac4-bf8c-48f6-a322-fafbc9d132d1&unique=prints",
+  "collector_number": "41",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "After Talrand conquered the depths of Shandalar, his ambitions drove him skyward, joined by servants whose drive and curiosity equaled his own.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Svetlin Velinov",
+  "artist_ids": [
+    "ffd063ae-c097-4f26-b2e6-b1e2137708bc"
+  ],
+  "illustration_id": "ab2fc4ce-8a63-47dd-bb9d-a9e0c8cbf069",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 13746,
+  "penny_rank": 10913,
+  "prices": {
+    "usd": "0.13",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=582651&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTalrand%2527s%2BInvocation",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTalrand%2527s%2BInvocation",
+    "edhrec": "https://edhrec.com/route/?cc=Talrand%27s+Invocation"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F448593%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Talrand%27s+Invocation&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Talrand%27s+Invocation&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

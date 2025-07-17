@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "c9d54def-823f-4997-b0eb-6c5e44de77bd",
+  "oracle_id": "8ce49358-21b3-4b5c-ad8c-a07ac256dee4",
+  "multiverse_ids": [],
+  "name": "Eldrazi",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/c9d54def-823f-4997-b0eb-6c5e44de77bd",
+  "scryfall_uri": "https://scryfall.com/card/tmoc/1/eldrazi?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/9/c9d54def-823f-4997-b0eb-6c5e44de77bd.jpg?1682210822",
+    "normal": "https://cards.scryfall.io/normal/front/c/9/c9d54def-823f-4997-b0eb-6c5e44de77bd.jpg?1682210822",
+    "large": "https://cards.scryfall.io/large/front/c/9/c9d54def-823f-4997-b0eb-6c5e44de77bd.jpg?1682210822",
+    "png": "https://cards.scryfall.io/png/front/c/9/c9d54def-823f-4997-b0eb-6c5e44de77bd.png?1682210822",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/9/c9d54def-823f-4997-b0eb-6c5e44de77bd.jpg?1682210822",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/9/c9d54def-823f-4997-b0eb-6c5e44de77bd.jpg?1682210822"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Eldrazi",
+  "oracle_text": "Annihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent.)",
+  "power": "7",
+  "toughness": "7",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Annihilator"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "2588d0a3-0e63-4976-8fcc-cd6bc52b61aa",
+      "component": "combo_piece",
+      "name": "Hedron Fields of Agadeem",
+      "type_line": "Plane — Zendikar",
+      "uri": "https://api.scryfall.com/cards/2588d0a3-0e63-4976-8fcc-cd6bc52b61aa"
+    },
+    {
+      "object": "related_card",
+      "id": "c9d54def-823f-4997-b0eb-6c5e44de77bd",
+      "component": "token",
+      "name": "Eldrazi",
+      "type_line": "Token Creature — Eldrazi",
+      "uri": "https://api.scryfall.com/cards/c9d54def-823f-4997-b0eb-6c5e44de77bd"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "f61d6546-a7e4-438b-99ce-58a483a4fd9a",
+  "set": "tmoc",
+  "set_name": "March of the Machine Commander Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/f61d6546-a7e4-438b-99ce-58a483a4fd9a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atmoc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tmoc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c9d54def-823f-4997-b0eb-6c5e44de77bd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8ce49358-21b3-4b5c-ad8c-a07ac256dee4&unique=prints",
+  "collector_number": "1",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Vincent Proce",
+  "artist_ids": [
+    "d82b1138-76d3-49f7-9d8c-bc2e2d3e0b0a"
+  ],
+  "illustration_id": "d3134f05-d9c3-4ad6-a6d1-662617bef52a",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEldrazi",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEldrazi",
+    "edhrec": "https://edhrec.com/route/?cc=Eldrazi"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DEldrazi%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Eldrazi&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Eldrazi&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

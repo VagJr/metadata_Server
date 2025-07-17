@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "43261927-7655-474b-ac61-dfef9e63f428",
+  "oracle_id": "a15b83df-91b7-49f0-9bec-5776a3dac8bd",
+  "multiverse_ids": [],
+  "tcgplayer_id": 189015,
+  "cardmarket_id": 372749,
+  "name": "Arlinn, Voice of the Pack",
+  "printed_name": "群れの声、アーリン",
+  "lang": "ja",
+  "released_at": "2019-05-03",
+  "uri": "https://api.scryfall.com/cards/43261927-7655-474b-ac61-dfef9e63f428",
+  "scryfall_uri": "https://scryfall.com/card/war/150%E2%98%85/ja/%E7%BE%A4%E3%82%8C%E3%81%AE%E5%A3%B0%E3%80%81%E3%82%A2%E3%83%BC%E3%83%AA%E3%83%B3-(arlinn-voice-of-the-pack)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/3/43261927-7655-474b-ac61-dfef9e63f428.jpg?1580443700",
+    "normal": "https://cards.scryfall.io/normal/front/4/3/43261927-7655-474b-ac61-dfef9e63f428.jpg?1580443700",
+    "large": "https://cards.scryfall.io/large/front/4/3/43261927-7655-474b-ac61-dfef9e63f428.jpg?1580443700",
+    "png": "https://cards.scryfall.io/png/front/4/3/43261927-7655-474b-ac61-dfef9e63f428.png?1580443700",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/3/43261927-7655-474b-ac61-dfef9e63f428.jpg?1580443700",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/3/43261927-7655-474b-ac61-dfef9e63f428.jpg?1580443700"
+  },
+  "mana_cost": "{4}{G}{G}",
+  "cmc": 6,
+  "type_line": "Legendary Planeswalker — Arlinn",
+  "printed_type_line": "伝説のプレインズウォーカー — アーリン",
+  "oracle_text": "Each creature you control that's a Wolf or a Werewolf enters with an additional +1/+1 counter on it.\n−2: Create a 2/2 green Wolf creature token.",
+  "printed_text": "あなたがコントロールしていて狼か狼男である各クリーチャーは、それぞれ＋１/＋１カウンターが追加で１個置かれた状態で戦場に出る。\n-2：緑の２/２の狼・クリーチャー・トークンを１体生成する。",
+  "loyalty": "7",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "ee044f0b-e101-4ead-8d0e-aa510aad4277",
+  "set": "war",
+  "set_name": "War of the Spark",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/ee044f0b-e101-4ead-8d0e-aa510aad4277",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awar&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/war?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/43261927-7655-474b-ac61-dfef9e63f428/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa15b83df-91b7-49f0-9bec-5776a3dac8bd&unique=prints",
+  "collector_number": "150★",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "D-suzuki",
+  "artist_ids": [
+    "a79b6552-8456-4b2a-8f7a-95688787996e"
+  ],
+  "illustration_id": "3e10c542-f87b-41bc-a918-8e7c3c01ce05",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "jpwalker"
+  ],
+  "edhrec_rank": 10620,
+  "penny_rank": 9150,
+  "prices": {
+    "usd": "0.38",
+    "usd_foil": "4.49",
+    "usd_etched": null,
+    "eur": "0.58",
+    "eur_foil": "4.70",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DArlinn%252C%2BVoice%2Bof%2Bthe%2BPack",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DArlinn%252C%2BVoice%2Bof%2Bthe%2BPack",
+    "edhrec": "https://edhrec.com/route/?cc=Arlinn%2C+Voice+of+the+Pack"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F189015%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=372749&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Arlinn%2C+Voice+of+the+Pack&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

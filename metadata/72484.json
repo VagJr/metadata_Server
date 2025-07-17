@@ -1,0 +1,183 @@
+{
+  "object": "card",
+  "id": "aafe47a8-0223-4c0b-b6ce-e25446a07c96",
+  "oracle_id": "0c0845c3-f4b5-444e-8f42-da0c7dbf2841",
+  "multiverse_ids": [
+    544470,
+    544471
+  ],
+  "arena_id": 79136,
+  "tcgplayer_id": 253439,
+  "cardmarket_id": 582246,
+  "name": "Henrika Domnathi // Henrika, Infernal Seer",
+  "lang": "en",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/aafe47a8-0223-4c0b-b6ce-e25446a07c96",
+  "scryfall_uri": "https://scryfall.com/card/vow/335/henrika-domnathi-henrika-infernal-seer?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Vampire // Legendary Creature — Vampire",
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Deathtouch",
+    "Flying",
+    "Lifelink",
+    "Transform"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Henrika Domnathi",
+      "flavor_name": "The Three Weird Sisters",
+      "mana_cost": "{2}{B}{B}",
+      "type_line": "Legendary Creature — Vampire",
+      "oracle_text": "Flying\nAt the beginning of combat on your turn, choose one that hasn't been chosen —\n• Each player sacrifices a creature of their choice.\n• You draw a card and you lose 1 life.\n• Transform Henrika.",
+      "colors": [
+        "B"
+      ],
+      "power": "1",
+      "toughness": "3",
+      "artist": "Nils Hamm",
+      "artist_id": "c540d1fc-1500-457f-93cf-d6069ee66546",
+      "illustration_id": "7ea5f6c8-7bf9-4a90-97c8-34aa0db567c9",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/a/a/aafe47a8-0223-4c0b-b6ce-e25446a07c96.jpg?1645065945",
+        "normal": "https://cards.scryfall.io/normal/front/a/a/aafe47a8-0223-4c0b-b6ce-e25446a07c96.jpg?1645065945",
+        "large": "https://cards.scryfall.io/large/front/a/a/aafe47a8-0223-4c0b-b6ce-e25446a07c96.jpg?1645065945",
+        "png": "https://cards.scryfall.io/png/front/a/a/aafe47a8-0223-4c0b-b6ce-e25446a07c96.png?1645065945",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/a/a/aafe47a8-0223-4c0b-b6ce-e25446a07c96.jpg?1645065945",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/a/a/aafe47a8-0223-4c0b-b6ce-e25446a07c96.jpg?1645065945"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Henrika, Infernal Seer",
+      "flavor_name": "Fiends of Darkest Night",
+      "mana_cost": "",
+      "type_line": "Legendary Creature — Vampire",
+      "oracle_text": "Flying, deathtouch, lifelink\n{1}{B}{B}: Each creature you control with flying, deathtouch, and/or lifelink gets +1/+0 until end of turn.",
+      "colors": [
+        "B"
+      ],
+      "color_indicator": [
+        "B"
+      ],
+      "power": "3",
+      "toughness": "4",
+      "flavor_text": "Nothing can be more dreadful than those awful women, who were—who are—waiting to suck my blood.",
+      "artist": "Nils Hamm",
+      "artist_id": "c540d1fc-1500-457f-93cf-d6069ee66546",
+      "illustration_id": "cde48b4e-13a5-4c2d-af2c-9973513ffd5d",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/a/a/aafe47a8-0223-4c0b-b6ce-e25446a07c96.jpg?1645065945",
+        "normal": "https://cards.scryfall.io/normal/back/a/a/aafe47a8-0223-4c0b-b6ce-e25446a07c96.jpg?1645065945",
+        "large": "https://cards.scryfall.io/large/back/a/a/aafe47a8-0223-4c0b-b6ce-e25446a07c96.jpg?1645065945",
+        "png": "https://cards.scryfall.io/png/back/a/a/aafe47a8-0223-4c0b-b6ce-e25446a07c96.png?1645065945",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/a/a/aafe47a8-0223-4c0b-b6ce-e25446a07c96.jpg?1645065945",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/a/a/aafe47a8-0223-4c0b-b6ce-e25446a07c96.jpg?1645065945"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/vow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/aafe47a8-0223-4c0b-b6ce-e25446a07c96/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0c0845c3-f4b5-444e-8f42-da0c7dbf2841&unique=prints",
+  "collector_number": "335",
+  "digital": false,
+  "rarity": "mythic",
+  "artist": "Nils Hamm",
+  "artist_ids": [
+    "c540d1fc-1500-457f-93cf-d6069ee66546"
+  ],
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "sunmoondfc",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "draculaseries",
+    "boosterfun"
+  ],
+  "edhrec_rank": 6315,
+  "penny_rank": 2664,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/henrika-domnathi-2021-11-02",
+    "previewed_at": "2021-11-02"
+  },
+  "prices": {
+    "usd": "4.54",
+    "usd_foil": "5.24",
+    "usd_etched": null,
+    "eur": "3.94",
+    "eur_foil": "4.42",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=544470&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHenrika%2BDomnathi%2B%252F%252F%2BHenrika%252C%2BInfernal%2BSeer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHenrika%2BDomnathi%2B%252F%252F%2BHenrika%252C%2BInfernal%2BSeer",
+    "edhrec": "https://edhrec.com/route/?cc=Henrika+Domnathi"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F253439%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=582246&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Henrika+Domnathi&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

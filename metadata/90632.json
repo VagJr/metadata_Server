@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "d5f1045c-b9a4-4e9e-b101-ef4c4de94cc2",
+  "oracle_id": "dbb6b7f0-33fd-4530-a621-114148fb3929",
+  "multiverse_ids": [
+    547984
+  ],
+  "arena_id": 75756,
+  "name": "Riparian Tiger",
+  "lang": "en",
+  "released_at": "2020-11-12",
+  "uri": "https://api.scryfall.com/cards/d5f1045c-b9a4-4e9e-b101-ef4c4de94cc2",
+  "scryfall_uri": "https://scryfall.com/card/klr/178/riparian-tiger?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/5/d5f1045c-b9a4-4e9e-b101-ef4c4de94cc2.jpg?1605328930",
+    "normal": "https://cards.scryfall.io/normal/front/d/5/d5f1045c-b9a4-4e9e-b101-ef4c4de94cc2.jpg?1605328930",
+    "large": "https://cards.scryfall.io/large/front/d/5/d5f1045c-b9a4-4e9e-b101-ef4c4de94cc2.jpg?1605328930",
+    "png": "https://cards.scryfall.io/png/front/d/5/d5f1045c-b9a4-4e9e-b101-ef4c4de94cc2.png?1605328930",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/5/d5f1045c-b9a4-4e9e-b101-ef4c4de94cc2.jpg?1605328930",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/5/d5f1045c-b9a4-4e9e-b101-ef4c4de94cc2.jpg?1605328930"
+  },
+  "mana_cost": "{3}{G}{G}",
+  "cmc": 5,
+  "type_line": "Creature — Cat",
+  "oracle_text": "Trample\nWhen this creature enters, you get {E}{E} (two energy counters).\nWhenever this creature attacks, you may pay {E}{E}. If you do, it gets +2/+2 until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Trample"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6a2c1fa5-deed-48ba-afe4-6c8ea8d9135e",
+      "component": "combo_piece",
+      "name": "Energy Reserve",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/6a2c1fa5-deed-48ba-afe4-6c8ea8d9135e"
+    },
+    {
+      "object": "related_card",
+      "id": "d5f1045c-b9a4-4e9e-b101-ef4c4de94cc2",
+      "component": "combo_piece",
+      "name": "Riparian Tiger",
+      "type_line": "Creature — Cat",
+      "uri": "https://api.scryfall.com/cards/d5f1045c-b9a4-4e9e-b101-ef4c4de94cc2"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cff93939-c724-4ed0-9367-e1277d39ba70",
+  "set": "klr",
+  "set_name": "Kaladesh Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cff93939-c724-4ed0-9367-e1277d39ba70",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aklr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/klr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d5f1045c-b9a4-4e9e-b101-ef4c4de94cc2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adbb6b7f0-33fd-4530-a621-114148fb3929&unique=prints",
+  "collector_number": "178",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Igor Kieryluk",
+  "artist_ids": [
+    "9c3e9d17-509f-485c-9360-46d897ce716b"
+  ],
+  "illustration_id": "66d01412-8798-4c78-bc3b-802eb0088cc6",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 24354,
+  "penny_rank": 15015,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547984&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRiparian%2BTiger",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRiparian%2BTiger",
+    "edhrec": "https://edhrec.com/route/?cc=Riparian+Tiger"
+  }
+}

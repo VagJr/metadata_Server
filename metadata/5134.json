@@ -1,0 +1,271 @@
+{
+  "object": "card",
+  "id": "0bca66ee-c1d5-4c05-b263-c433de60c366",
+  "oracle_id": "40c64f08-ab2f-4933-8e0e-d1a1c729008f",
+  "multiverse_ids": [],
+  "tcgplayer_id": 450010,
+  "name": "Angel",
+  "lang": "ja",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/0bca66ee-c1d5-4c05-b263-c433de60c366",
+  "scryfall_uri": "https://scryfall.com/card/wdmu/1/ja/angel?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/b/0bca66ee-c1d5-4c05-b263-c433de60c366.jpg?1695596120",
+    "normal": "https://cards.scryfall.io/normal/front/0/b/0bca66ee-c1d5-4c05-b263-c433de60c366.jpg?1695596120",
+    "large": "https://cards.scryfall.io/large/front/0/b/0bca66ee-c1d5-4c05-b263-c433de60c366.jpg?1695596120",
+    "png": "https://cards.scryfall.io/png/front/0/b/0bca66ee-c1d5-4c05-b263-c433de60c366.png?1695596120",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/b/0bca66ee-c1d5-4c05-b263-c433de60c366.jpg?1695596120",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/b/0bca66ee-c1d5-4c05-b263-c433de60c366.jpg?1695596120"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Angel",
+  "oracle_text": "Flying",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a9c6e72e-f629-48f7-b0f8-86a17ef3a074",
+      "component": "combo_piece",
+      "name": "Empyrial Storm",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/a9c6e72e-f629-48f7-b0f8-86a17ef3a074"
+    },
+    {
+      "object": "related_card",
+      "id": "cf3a9936-76a3-4d12-81aa-099ab767dbe9",
+      "component": "combo_piece",
+      "name": "Seraphic Greatsword",
+      "type_line": "Artifact — Equipment",
+      "uri": "https://api.scryfall.com/cards/cf3a9936-76a3-4d12-81aa-099ab767dbe9"
+    },
+    {
+      "object": "related_card",
+      "id": "b2423120-a587-4898-b01c-1f184e050990",
+      "component": "combo_piece",
+      "name": "Angelic Favor",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/b2423120-a587-4898-b01c-1f184e050990"
+    },
+    {
+      "object": "related_card",
+      "id": "e7933e5b-7145-40ad-9f75-fb7d283e320a",
+      "component": "combo_piece",
+      "name": "Saint Traft and Rem Karolus",
+      "type_line": "Legendary Creature — Spirit Human",
+      "uri": "https://api.scryfall.com/cards/e7933e5b-7145-40ad-9f75-fb7d283e320a"
+    },
+    {
+      "object": "related_card",
+      "id": "48a1a675-4685-4c6e-9c4e-abca66e4526a",
+      "component": "combo_piece",
+      "name": "Sigil of the Empty Throne",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/48a1a675-4685-4c6e-9c4e-abca66e4526a"
+    },
+    {
+      "object": "related_card",
+      "id": "0bca66ee-c1d5-4c05-b263-c433de60c366",
+      "component": "token",
+      "name": "Angel",
+      "type_line": "Token Creature — Angel",
+      "uri": "https://api.scryfall.com/cards/0bca66ee-c1d5-4c05-b263-c433de60c366"
+    },
+    {
+      "object": "related_card",
+      "id": "58840047-da50-484b-afda-a74204050a8c",
+      "component": "combo_piece",
+      "name": "Geist of Saint Traft",
+      "type_line": "Legendary Creature — Spirit Cleric",
+      "uri": "https://api.scryfall.com/cards/58840047-da50-484b-afda-a74204050a8c"
+    },
+    {
+      "object": "related_card",
+      "id": "0d14437e-bebc-421c-bce5-14d3cf8fcd6d",
+      "component": "combo_piece",
+      "name": "Urbis Protector",
+      "type_line": "Creature — Human Cleric",
+      "uri": "https://api.scryfall.com/cards/0d14437e-bebc-421c-bce5-14d3cf8fcd6d"
+    },
+    {
+      "object": "related_card",
+      "id": "35600ba4-b502-45e1-ad71-c50b01bce472",
+      "component": "combo_piece",
+      "name": "Angelic Ascension",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/35600ba4-b502-45e1-ad71-c50b01bce472"
+    },
+    {
+      "object": "related_card",
+      "id": "cd6c3a9a-3508-4be4-bcee-ff1cfc97b055",
+      "component": "combo_piece",
+      "name": "Decree of Justice",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/cd6c3a9a-3508-4be4-bcee-ff1cfc97b055"
+    },
+    {
+      "object": "related_card",
+      "id": "a8b72bba-3a62-42f6-981a-ca1542914732",
+      "component": "combo_piece",
+      "name": "Luminarch Ascension",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/a8b72bba-3a62-42f6-981a-ca1542914732"
+    },
+    {
+      "object": "related_card",
+      "id": "c309624e-9117-4106-9f5f-7fc6a6bff322",
+      "component": "combo_piece",
+      "name": "Descend upon the Sinful",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/c309624e-9117-4106-9f5f-7fc6a6bff322"
+    },
+    {
+      "object": "related_card",
+      "id": "85a6080e-719b-47c1-adf0-a562e0269611",
+      "component": "combo_piece",
+      "name": "Angelic Accord",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/85a6080e-719b-47c1-adf0-a562e0269611"
+    },
+    {
+      "object": "related_card",
+      "id": "2fa93a5f-b68e-445a-9285-03f627f99d8b",
+      "component": "combo_piece",
+      "name": "Entreat the Angels",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/2fa93a5f-b68e-445a-9285-03f627f99d8b"
+    },
+    {
+      "object": "related_card",
+      "id": "a92f1b98-9609-4b6f-a5e4-59c78e280748",
+      "component": "combo_piece",
+      "name": "Invocation of Saint Traft",
+      "type_line": "Enchantment — Aura",
+      "uri": "https://api.scryfall.com/cards/a92f1b98-9609-4b6f-a5e4-59c78e280748"
+    },
+    {
+      "object": "related_card",
+      "id": "36fbd26c-8c5e-4d2b-9c7b-3580168849fe",
+      "component": "combo_piece",
+      "name": "Moonsilver Spear",
+      "type_line": "Artifact — Equipment",
+      "uri": "https://api.scryfall.com/cards/36fbd26c-8c5e-4d2b-9c7b-3580168849fe"
+    },
+    {
+      "object": "related_card",
+      "id": "8d63d532-9b9f-4037-8d8c-e838b8d956a4",
+      "component": "combo_piece",
+      "name": "Speaker of the Heavens",
+      "type_line": "Creature — Human Cleric",
+      "uri": "https://api.scryfall.com/cards/8d63d532-9b9f-4037-8d8c-e838b8d956a4"
+    },
+    {
+      "object": "related_card",
+      "id": "930ebc04-3bec-4070-8cc0-7958b6898eaf",
+      "component": "combo_piece",
+      "name": "Court of Grace",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/930ebc04-3bec-4070-8cc0-7958b6898eaf"
+    },
+    {
+      "object": "related_card",
+      "id": "78f0497f-371d-4784-8628-fa8fa8e51664",
+      "component": "combo_piece",
+      "name": "Devout Invocation",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/78f0497f-371d-4784-8628-fa8fa8e51664"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "b2bb7a14-16a2-4311-ab64-631a0252730c",
+  "set": "wdmu",
+  "set_name": "DMU Japanese Promo Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/b2bb7a14-16a2-4311-ab64-631a0252730c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awdmu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/wdmu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0bca66ee-c1d5-4c05-b263-c433de60c366/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A40c64f08-ab2f-4933-8e0e-d1a1c729008f&unique=prints",
+  "collector_number": "1",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "KERA",
+  "artist_ids": [
+    "3ebf18d9-0f82-4ee9-b153-e211a09be2db"
+  ],
+  "illustration_id": "65d30042-68d6-4f22-aefc-fbd2b2445c6d",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": "29.48",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAngel",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAngel",
+    "edhrec": "https://edhrec.com/route/?cc=Angel"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F450010%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Angel&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Angel&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

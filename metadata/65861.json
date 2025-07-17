@@ -1,0 +1,117 @@
+{
+  "object": "card",
+  "id": "9bb7870f-361b-4782-bdb1-78410dc3c745",
+  "oracle_id": "d72031e1-c8cf-4e57-b15b-6a5eaacff1e2",
+  "multiverse_ids": [
+    606950
+  ],
+  "arena_id": 86633,
+  "name": "Selhoff Occultist",
+  "lang": "en",
+  "released_at": "2023-03-21",
+  "uri": "https://api.scryfall.com/cards/9bb7870f-361b-4782-bdb1-78410dc3c745",
+  "scryfall_uri": "https://scryfall.com/card/sis/21/selhoff-occultist?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/b/9bb7870f-361b-4782-bdb1-78410dc3c745.jpg?1679614777",
+    "normal": "https://cards.scryfall.io/normal/front/9/b/9bb7870f-361b-4782-bdb1-78410dc3c745.jpg?1679614777",
+    "large": "https://cards.scryfall.io/large/front/9/b/9bb7870f-361b-4782-bdb1-78410dc3c745.jpg?1679614777",
+    "png": "https://cards.scryfall.io/png/front/9/b/9bb7870f-361b-4782-bdb1-78410dc3c745.png?1679614777",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/b/9bb7870f-361b-4782-bdb1-78410dc3c745.jpg?1679614777",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/b/9bb7870f-361b-4782-bdb1-78410dc3c745.jpg?1679614777"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Creature — Human Rogue",
+  "oracle_text": "Whenever this creature or another creature dies, target player mills a card.",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5b046a48-760d-4192-a8e8-8725c9052a6e",
+  "set": "sis",
+  "set_name": "Shadows of the Past",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/5b046a48-760d-4192-a8e8-8725c9052a6e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asis&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sis?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9bb7870f-361b-4782-bdb1-78410dc3c745/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad72031e1-c8cf-4e57-b15b-6a5eaacff1e2&unique=prints",
+  "collector_number": "21",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Igor Kieryluk",
+  "artist_ids": [
+    "9c3e9d17-509f-485c-9360-46d897ce716b"
+  ],
+  "illustration_id": "8800ebca-ac61-44c0-92ed-adedad863d48",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 18493,
+  "penny_rank": 16687,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=606950&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSelhoff%2BOccultist",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSelhoff%2BOccultist",
+    "edhrec": "https://edhrec.com/route/?cc=Selhoff+Occultist"
+  }
+}

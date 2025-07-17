@@ -1,0 +1,150 @@
+{
+  "object": "card",
+  "id": "c1475050-a377-45b3-b319-a36e716afdd8",
+  "oracle_id": "f63c2438-27d4-449a-828f-f0a2ea86ff16",
+  "multiverse_ids": [],
+  "mtgo_id": 85982,
+  "name": "Court of Grace",
+  "lang": "en",
+  "released_at": "2020-12-15",
+  "uri": "https://api.scryfall.com/cards/c1475050-a377-45b3-b319-a36e716afdd8",
+  "scryfall_uri": "https://scryfall.com/card/prm/85982/court-of-grace?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/1/c1475050-a377-45b3-b319-a36e716afdd8.jpg?1630637008",
+    "normal": "https://cards.scryfall.io/normal/front/c/1/c1475050-a377-45b3-b319-a36e716afdd8.jpg?1630637008",
+    "large": "https://cards.scryfall.io/large/front/c/1/c1475050-a377-45b3-b319-a36e716afdd8.jpg?1630637008",
+    "png": "https://cards.scryfall.io/png/front/c/1/c1475050-a377-45b3-b319-a36e716afdd8.png?1630637008",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/1/c1475050-a377-45b3-b319-a36e716afdd8.jpg?1630637008",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/1/c1475050-a377-45b3-b319-a36e716afdd8.jpg?1630637008"
+  },
+  "mana_cost": "{2}{W}{W}",
+  "cmc": 4,
+  "type_line": "Enchantment",
+  "oracle_text": "When this enchantment enters, you become the monarch.\nAt the beginning of your upkeep, create a 1/1 white Spirit creature token with flying. If you're the monarch, create a 4/4 white Angel creature token with flying instead.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "bb6d0a6a-3007-47fc-a42c-3db311c9c41f",
+      "component": "token",
+      "name": "Angel",
+      "type_line": "Token Creature — Angel",
+      "uri": "https://api.scryfall.com/cards/bb6d0a6a-3007-47fc-a42c-3db311c9c41f"
+    },
+    {
+      "object": "related_card",
+      "id": "66f569e1-5a37-4801-be01-9c5d44a82427",
+      "component": "combo_piece",
+      "name": "The Monarch",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/66f569e1-5a37-4801-be01-9c5d44a82427"
+    },
+    {
+      "object": "related_card",
+      "id": "004f2ea4-0477-49b2-ad06-5aac7991103d",
+      "component": "token",
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/004f2ea4-0477-49b2-ad06-5aac7991103d"
+    },
+    {
+      "object": "related_card",
+      "id": "c1475050-a377-45b3-b319-a36e716afdd8",
+      "component": "combo_piece",
+      "name": "Court of Grace",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/c1475050-a377-45b3-b319-a36e716afdd8"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c1475050-a377-45b3-b319-a36e716afdd8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af63c2438-27d4-449a-828f-f0a2ea86ff16&unique=prints",
+  "collector_number": "85982",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Denman Rooke",
+  "artist_ids": [
+    "5eedbc4b-34a3-4ca5-b3f5-9ac2f6b6adf7"
+  ],
+  "illustration_id": "37ef8107-4b0f-4635-9faf-d23239620764",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1268,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "4.80"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCourt%2Bof%2BGrace",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCourt%2Bof%2BGrace",
+    "edhrec": "https://edhrec.com/route/?cc=Court+of+Grace"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DCourt%2Bof%2BGrace%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Court+of+Grace&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/85982?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "object": "card",
+  "id": "df083031-acc0-49fd-aab8-8d799c1b530e",
+  "oracle_id": "dbba75f5-2404-4bd5-982b-f6c4effa5316",
+  "multiverse_ids": [],
+  "arena_id": 51307,
+  "name": "Ethereal Armor",
+  "lang": "en",
+  "released_at": "2022-12-13",
+  "uri": "https://api.scryfall.com/cards/df083031-acc0-49fd-aab8-8d799c1b530e",
+  "scryfall_uri": "https://scryfall.com/card/ea2/7/ethereal-armor?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/f/df083031-acc0-49fd-aab8-8d799c1b530e.jpg?1679616576",
+    "normal": "https://cards.scryfall.io/normal/front/d/f/df083031-acc0-49fd-aab8-8d799c1b530e.jpg?1679616576",
+    "large": "https://cards.scryfall.io/large/front/d/f/df083031-acc0-49fd-aab8-8d799c1b530e.jpg?1679616576",
+    "png": "https://cards.scryfall.io/png/front/d/f/df083031-acc0-49fd-aab8-8d799c1b530e.png?1679616576",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/f/df083031-acc0-49fd-aab8-8d799c1b530e.jpg?1679616576",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/f/df083031-acc0-49fd-aab8-8d799c1b530e.jpg?1679616576"
+  },
+  "mana_cost": "{W}",
+  "cmc": 1,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant creature\nEnchanted creature gets +1/+1 for each enchantment you control and has first strike.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c1dd276e-baf6-4f3c-ba8f-3c1bd0cdefb8",
+  "set": "ea2",
+  "set_name": "Explorer Anthology 2",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/c1dd276e-baf6-4f3c-ba8f-3c1bd0cdefb8",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aea2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ea2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/df083031-acc0-49fd-aab8-8d799c1b530e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adbba75f5-2404-4bd5-982b-f6c4effa5316&unique=prints",
+  "collector_number": "7",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daarken",
+  "artist_ids": [
+    "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+  ],
+  "illustration_id": "c6c7678b-e428-4537-9b6f-59b35834d68e",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 954,
+  "penny_rank": 832,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEthereal%2BArmor",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEthereal%2BArmor",
+    "edhrec": "https://edhrec.com/route/?cc=Ethereal+Armor"
+  }
+}

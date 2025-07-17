@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "729f662d-e6b3-41ae-aed8-ef1c27b793d9",
+  "oracle_id": "0a5e3748-2e58-4e53-9653-8af4e21cf223",
+  "multiverse_ids": [
+    532491
+  ],
+  "tcgplayer_id": 243869,
+  "cardmarket_id": 572277,
+  "name": "Ogre Slumlord",
+  "lang": "en",
+  "released_at": "2021-07-23",
+  "uri": "https://api.scryfall.com/cards/729f662d-e6b3-41ae-aed8-ef1c27b793d9",
+  "scryfall_uri": "https://scryfall.com/card/afc/104/ogre-slumlord?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/2/729f662d-e6b3-41ae-aed8-ef1c27b793d9.jpg?1631586703",
+    "normal": "https://cards.scryfall.io/normal/front/7/2/729f662d-e6b3-41ae-aed8-ef1c27b793d9.jpg?1631586703",
+    "large": "https://cards.scryfall.io/large/front/7/2/729f662d-e6b3-41ae-aed8-ef1c27b793d9.jpg?1631586703",
+    "png": "https://cards.scryfall.io/png/front/7/2/729f662d-e6b3-41ae-aed8-ef1c27b793d9.png?1631586703",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/2/729f662d-e6b3-41ae-aed8-ef1c27b793d9.jpg?1631586703",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/2/729f662d-e6b3-41ae-aed8-ef1c27b793d9.jpg?1631586703"
+  },
+  "mana_cost": "{3}{B}{B}",
+  "cmc": 5,
+  "type_line": "Creature — Ogre Rogue",
+  "oracle_text": "Whenever another nontoken creature dies, you may create a 1/1 black Rat creature token.\nRats you control have deathtouch.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "729f662d-e6b3-41ae-aed8-ef1c27b793d9",
+      "component": "combo_piece",
+      "name": "Ogre Slumlord",
+      "type_line": "Creature — Ogre Rogue",
+      "uri": "https://api.scryfall.com/cards/729f662d-e6b3-41ae-aed8-ef1c27b793d9"
+    },
+    {
+      "object": "related_card",
+      "id": "209d3f3e-a41e-4d9b-a9bd-50d11e89b5ea",
+      "component": "token",
+      "name": "Rat",
+      "type_line": "Token Creature — Rat",
+      "uri": "https://api.scryfall.com/cards/209d3f3e-a41e-4d9b-a9bd-50d11e89b5ea"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "db1b46f9-893c-4623-9465-985ff6e4472c",
+  "set": "afc",
+  "set_name": "Forgotten Realms Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/db1b46f9-893c-4623-9465-985ff6e4472c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aafc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/afc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/729f662d-e6b3-41ae-aed8-ef1c27b793d9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0a5e3748-2e58-4e53-9653-8af4e21cf223&unique=prints",
+  "collector_number": "104",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"His tenement is filled with the most vile, disgusting vermin. It's infested with rats, too.\"\n—Branko One-Ear",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Trevor Claxton",
+  "artist_ids": [
+    "35d39e75-5d6c-4318-9136-38cdfff34a05"
+  ],
+  "illustration_id": "86dd4c2c-7df3-434e-8caf-a269cdbd7dbd",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1656,
+  "penny_rank": 10137,
+  "prices": {
+    "usd": "0.27",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.26",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=532491&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOgre%2BSlumlord",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOgre%2BSlumlord",
+    "edhrec": "https://edhrec.com/route/?cc=Ogre+Slumlord"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F243869%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=572277&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ogre+Slumlord&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

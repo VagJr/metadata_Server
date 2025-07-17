@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "3e897af5-d450-4a7c-a02a-543914c2c680",
+  "oracle_id": "800c258a-cfc4-4a54-a667-065ea8dea69e",
+  "multiverse_ids": [],
+  "tcgplayer_id": 203343,
+  "cardmarket_id": 422956,
+  "name": "Lightning Helix",
+  "lang": "en",
+  "released_at": "2019-11-07",
+  "uri": "https://api.scryfall.com/cards/3e897af5-d450-4a7c-a02a-543914c2c680",
+  "scryfall_uri": "https://scryfall.com/card/plst/GK1-90/lightning-helix?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/e/3e897af5-d450-4a7c-a02a-543914c2c680.jpg?1705805230",
+    "normal": "https://cards.scryfall.io/normal/front/3/e/3e897af5-d450-4a7c-a02a-543914c2c680.jpg?1705805230",
+    "large": "https://cards.scryfall.io/large/front/3/e/3e897af5-d450-4a7c-a02a-543914c2c680.jpg?1705805230",
+    "png": "https://cards.scryfall.io/png/front/3/e/3e897af5-d450-4a7c-a02a-543914c2c680.png?1705805230",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/e/3e897af5-d450-4a7c-a02a-543914c2c680.jpg?1705805230",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/e/3e897af5-d450-4a7c-a02a-543914c2c680.jpg?1705805230"
+  },
+  "mana_cost": "{R}{W}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Lightning Helix deals 3 damage to any target and you gain 3 life.",
+  "colors": [
+    "R",
+    "W"
+  ],
+  "color_identity": [
+    "R",
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3e897af5-d450-4a7c-a02a-543914c2c680/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A800c258a-cfc4-4a54-a667-065ea8dea69e&unique=prints",
+  "collector_number": "GK1-90",
+  "digital": false,
+  "rarity": "uncommon",
+  "watermark": "boros",
+  "flavor_text": "Though less well-known than its army of soldiers, the Boros Legion's mage-priests are as respected by the innocent as they are hated by the ghosts of the guilty.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kev Walker",
+  "artist_ids": [
+    "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+  ],
+  "illustration_id": "ee1b237c-4840-4616-b5fa-5887445c509f",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3836,
+  "penny_rank": 288,
+  "prices": {
+    "usd": "0.32",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.30",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLightning%2BHelix",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLightning%2BHelix",
+    "edhrec": "https://edhrec.com/route/?cc=Lightning+Helix"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F203343%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=422956&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lightning+Helix&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

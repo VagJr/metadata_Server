@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "a9817714-70b2-4e36-ae56-14052a9c12a1",
+  "oracle_id": "21338b71-37f5-4121-9b84-565025ebcd17",
+  "multiverse_ids": [],
+  "tcgplayer_id": 536890,
+  "cardmarket_id": 755273,
+  "name": "Black Market",
+  "lang": "en",
+  "released_at": "2024-02-05",
+  "uri": "https://api.scryfall.com/cards/a9817714-70b2-4e36-ae56-14052a9c12a1",
+  "scryfall_uri": "https://scryfall.com/card/sld/1577/black-market?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/9/a9817714-70b2-4e36-ae56-14052a9c12a1.jpg?1719004675",
+    "normal": "https://cards.scryfall.io/normal/front/a/9/a9817714-70b2-4e36-ae56-14052a9c12a1.jpg?1719004675",
+    "large": "https://cards.scryfall.io/large/front/a/9/a9817714-70b2-4e36-ae56-14052a9c12a1.jpg?1719004675",
+    "png": "https://cards.scryfall.io/png/front/a/9/a9817714-70b2-4e36-ae56-14052a9c12a1.png?1719004675",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/9/a9817714-70b2-4e36-ae56-14052a9c12a1.jpg?1719004675",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/9/a9817714-70b2-4e36-ae56-14052a9c12a1.jpg?1719004675"
+  },
+  "mana_cost": "{3}{B}{B}",
+  "cmc": 5,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever a creature dies, put a charge counter on this enchantment.\nAt the beginning of your first main phase, add {B} for each charge counter on this enchantment.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a9817714-70b2-4e36-ae56-14052a9c12a1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A21338b71-37f5-4121-9b84-565025ebcd17&unique=prints",
+  "collector_number": "1577",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Josh Newton & Scott Okumura",
+  "artist_ids": [
+    "0a37dc19-786c-44ed-954b-0a5967a16bdb",
+    "f4ec7a06-c25b-41f1-8ae3-6c51ac063cdd"
+  ],
+  "illustration_id": "6ebbfc00-b0ec-4b1d-9b16-cdbd09de8cbe",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 618,
+  "prices": {
+    "usd": "12.48",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "8.02",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlack%2BMarket",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlack%2BMarket",
+    "edhrec": "https://edhrec.com/route/?cc=Black+Market"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F536890%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=755273&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Black+Market&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

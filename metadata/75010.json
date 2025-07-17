@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "b0ec7b76-4e97-4f47-b7af-ef9c2435b20e",
+  "oracle_id": "f3c40943-1d7c-4ea2-b34f-8df8b6775701",
+  "multiverse_ids": [
+    488284
+  ],
+  "tcgplayer_id": 215729,
+  "cardmarket_id": 471284,
+  "name": "Animal Sanctuary",
+  "lang": "en",
+  "released_at": "2020-07-03",
+  "uri": "https://api.scryfall.com/cards/b0ec7b76-4e97-4f47-b7af-ef9c2435b20e",
+  "scryfall_uri": "https://scryfall.com/card/m21/385/animal-sanctuary?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/0/b0ec7b76-4e97-4f47-b7af-ef9c2435b20e.jpg?1615019693",
+    "normal": "https://cards.scryfall.io/normal/front/b/0/b0ec7b76-4e97-4f47-b7af-ef9c2435b20e.jpg?1615019693",
+    "large": "https://cards.scryfall.io/large/front/b/0/b0ec7b76-4e97-4f47-b7af-ef9c2435b20e.jpg?1615019693",
+    "png": "https://cards.scryfall.io/png/front/b/0/b0ec7b76-4e97-4f47-b7af-ef9c2435b20e.png?1615019693",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/0/b0ec7b76-4e97-4f47-b7af-ef9c2435b20e.jpg?1615019693",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/0/b0ec7b76-4e97-4f47-b7af-ef9c2435b20e.jpg?1615019693"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "{T}: Add {C}.\n{2}, {T}: Put a +1/+1 counter on target Bird, Cat, Dog, Goat, Ox, or Snake.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "bc94aba1-7376-4e02-a12d-3a2efb66ab0f",
+  "set": "m21",
+  "set_name": "Core Set 2021",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/bc94aba1-7376-4e02-a12d-3a2efb66ab0f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am21&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/m21?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b0ec7b76-4e97-4f47-b7af-ef9c2435b20e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af3c40943-1d7c-4ea2-b34f-8df8b6775701&unique=prints",
+  "collector_number": "385",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alayna Danner",
+  "artist_ids": [
+    "bb677b1a-ce51-4888-83d6-5a94de461ff9"
+  ],
+  "illustration_id": "a2080ddd-cb1d-4b32-aed5-382269eca8b2",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 3269,
+  "penny_rank": 5553,
+  "preview": {
+    "source": "Alayna Danner",
+    "source_uri": "https://twitter.com/windrune/status/1271501076588490752",
+    "previewed_at": "2020-06-16"
+  },
+  "prices": {
+    "usd": "4.65",
+    "usd_foil": "5.56",
+    "usd_etched": null,
+    "eur": "2.42",
+    "eur_foil": "3.92",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488284&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAnimal%2BSanctuary",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAnimal%2BSanctuary",
+    "edhrec": "https://edhrec.com/route/?cc=Animal+Sanctuary"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F215729%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=471284&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Animal+Sanctuary&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

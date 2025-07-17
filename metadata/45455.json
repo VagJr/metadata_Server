@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "6b429f7a-da0c-4570-87ed-9945a657fe11",
+  "oracle_id": "36f68aa3-9955-46f1-bc87-497f16ef5222",
+  "multiverse_ids": [
+    671325
+  ],
+  "mtgo_id": 128873,
+  "tcgplayer_id": 559800,
+  "cardmarket_id": 778970,
+  "name": "Wizard Class",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/6b429f7a-da0c-4570-87ed-9945a657fe11",
+  "scryfall_uri": "https://scryfall.com/card/blc/112/wizard-class?utm_source=api",
+  "layout": "class",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/b/6b429f7a-da0c-4570-87ed-9945a657fe11.jpg?1721694564",
+    "normal": "https://cards.scryfall.io/normal/front/6/b/6b429f7a-da0c-4570-87ed-9945a657fe11.jpg?1721694564",
+    "large": "https://cards.scryfall.io/large/front/6/b/6b429f7a-da0c-4570-87ed-9945a657fe11.jpg?1721694564",
+    "png": "https://cards.scryfall.io/png/front/6/b/6b429f7a-da0c-4570-87ed-9945a657fe11.png?1721694564",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/b/6b429f7a-da0c-4570-87ed-9945a657fe11.jpg?1721694564",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/b/6b429f7a-da0c-4570-87ed-9945a657fe11.jpg?1721694564"
+  },
+  "mana_cost": "{U}",
+  "cmc": 1,
+  "type_line": "Enchantment — Class",
+  "oracle_text": "(Gain the next level as a sorcery to add its ability.)\nYou have no maximum hand size.\n{2}{U}: Level 2\nWhen this Class becomes level 2, draw two cards.\n{4}{U}: Level 3\nWhenever you draw a card, put a +1/+1 counter on target creature you control.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6b429f7a-da0c-4570-87ed-9945a657fe11",
+      "component": "combo_piece",
+      "name": "Wizard Class",
+      "type_line": "Enchantment — Class",
+      "uri": "https://api.scryfall.com/cards/6b429f7a-da0c-4570-87ed-9945a657fe11"
+    },
+    {
+      "object": "related_card",
+      "id": "ab73fa2c-b89f-4f1c-b8bf-f00c024a00bd",
+      "component": "combo_piece",
+      "name": "A-Wizard Class",
+      "type_line": "Enchantment — Class",
+      "uri": "https://api.scryfall.com/cards/ab73fa2c-b89f-4f1c-b8bf-f00c024a00bd"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "set": "blc",
+  "set_name": "Bloomburrow Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/blc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6b429f7a-da0c-4570-87ed-9945a657fe11/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A36f68aa3-9955-46f1-bc87-497f16ef5222&unique=prints",
+  "collector_number": "112",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Milivoj Ćeran",
+  "artist_ids": [
+    "1eced451-4da5-42bc-b49d-70c41246581f"
+  ],
+  "illustration_id": "88dcfbff-5f64-4701-8456-4dce8ff20c8c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 680,
+  "penny_rank": 7182,
+  "preview": {
+    "source": "MTG Muddstah",
+    "source_uri": "https://www.youtube.com/watch?v=mW9zwQC9sUg",
+    "previewed_at": "2024-07-18"
+  },
+  "prices": {
+    "usd": "1.60",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "2.23",
+    "eur_foil": null,
+    "tix": "0.16"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=671325&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWizard%2BClass",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWizard%2BClass",
+    "edhrec": "https://edhrec.com/route/?cc=Wizard+Class"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F559800%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=778970&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/128873?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

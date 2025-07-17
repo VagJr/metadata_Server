@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "f511bfe7-b107-4ec5-b363-f718c19d9579",
+  "oracle_id": "63a19c7c-49d7-4b75-aac8-d0ff36c45fb8",
+  "multiverse_ids": [
+    661065
+  ],
+  "mtgo_id": 125847,
+  "tcgplayer_id": 552707,
+  "cardmarket_id": 771913,
+  "name": "Sowing Mycospawn",
+  "lang": "en",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/f511bfe7-b107-4ec5-b363-f718c19d9579",
+  "scryfall_uri": "https://scryfall.com/card/mh3/340/sowing-mycospawn?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/5/f511bfe7-b107-4ec5-b363-f718c19d9579.jpg?1740308402",
+    "normal": "https://cards.scryfall.io/normal/front/f/5/f511bfe7-b107-4ec5-b363-f718c19d9579.jpg?1740308402",
+    "large": "https://cards.scryfall.io/large/front/f/5/f511bfe7-b107-4ec5-b363-f718c19d9579.jpg?1740308402",
+    "png": "https://cards.scryfall.io/png/front/f/5/f511bfe7-b107-4ec5-b363-f718c19d9579.png?1740308402",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/5/f511bfe7-b107-4ec5-b363-f718c19d9579.jpg?1740308402",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/5/f511bfe7-b107-4ec5-b363-f718c19d9579.jpg?1740308402"
+  },
+  "mana_cost": "{3}{G}",
+  "cmc": 4,
+  "type_line": "Creature — Eldrazi Fungus",
+  "oracle_text": "Devoid (This card has no color.)\nKicker {1}{C} (You may pay an additional {1}{C} as you cast this spell.)\nWhen you cast this spell, search your library for a land card, put it onto the battlefield, then shuffle.\nWhen you cast this spell, if it was kicked, exile target land.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Devoid",
+    "Kicker"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "banned",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f511bfe7-b107-4ec5-b363-f718c19d9579/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A63a19c7c-49d7-4b75-aac8-d0ff36c45fb8&unique=prints",
+  "collector_number": "340",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nils Hamm",
+  "artist_ids": [
+    "c540d1fc-1500-457f-93cf-d6069ee66546"
+  ],
+  "illustration_id": "3804b385-f55b-49a0-b3fd-a743142d5a4e",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3177,
+  "preview": {
+    "source": "sensitivejoy",
+    "source_uri": "https://x.com/ItsSensitiveJoy/status/1793689886937186707",
+    "previewed_at": "2024-05-23"
+  },
+  "prices": {
+    "usd": "3.63",
+    "usd_foil": "14.39",
+    "usd_etched": null,
+    "eur": "4.51",
+    "eur_foil": "8.69",
+    "tix": "0.66"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=661065&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSowing%2BMycospawn",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSowing%2BMycospawn",
+    "edhrec": "https://edhrec.com/route/?cc=Sowing+Mycospawn"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F552707%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=771913&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/125847?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

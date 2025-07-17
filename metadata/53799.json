@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "7f6252e7-aa4f-4d7b-a655-6564c5c124e6",
+  "oracle_id": "4c1c3a0a-5782-4b7d-8b9c-61eea913166d",
+  "multiverse_ids": [
+    488269
+  ],
+  "tcgplayer_id": 215621,
+  "cardmarket_id": 470254,
+  "name": "Transmogrify",
+  "lang": "en",
+  "released_at": "2020-07-03",
+  "uri": "https://api.scryfall.com/cards/7f6252e7-aa4f-4d7b-a655-6564c5c124e6",
+  "scryfall_uri": "https://scryfall.com/card/m21/370/transmogrify?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/f/7f6252e7-aa4f-4d7b-a655-6564c5c124e6.jpg?1595185309",
+    "normal": "https://cards.scryfall.io/normal/front/7/f/7f6252e7-aa4f-4d7b-a655-6564c5c124e6.jpg?1595185309",
+    "large": "https://cards.scryfall.io/large/front/7/f/7f6252e7-aa4f-4d7b-a655-6564c5c124e6.jpg?1595185309",
+    "png": "https://cards.scryfall.io/png/front/7/f/7f6252e7-aa4f-4d7b-a655-6564c5c124e6.png?1595185309",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/f/7f6252e7-aa4f-4d7b-a655-6564c5c124e6.jpg?1595185309",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/f/7f6252e7-aa4f-4d7b-a655-6564c5c124e6.jpg?1595185309"
+  },
+  "mana_cost": "{3}{R}",
+  "cmc": 4,
+  "type_line": "Sorcery",
+  "oracle_text": "Exile target creature. That creature's controller reveals cards from the top of their library until they reveal a creature card. That player puts that card onto the battlefield, then shuffles the rest into their library.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "bc94aba1-7376-4e02-a12d-3a2efb66ab0f",
+  "set": "m21",
+  "set_name": "Core Set 2021",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/bc94aba1-7376-4e02-a12d-3a2efb66ab0f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am21&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/m21?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7f6252e7-aa4f-4d7b-a655-6564c5c124e6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4c1c3a0a-5782-4b7d-8b9c-61eea913166d&unique=prints",
+  "collector_number": "370",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Craig J Spearing",
+  "artist_ids": [
+    "b0f15e74-0dd6-4156-959e-c5e30c5cdc52"
+  ],
+  "illustration_id": "58308104-bbed-4e1f-aaf4-f72b9fe0bf22",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 9557,
+  "penny_rank": 4120,
+  "preview": {
+    "source": "TCGplayer",
+    "source_uri": "https://infinite.tcgplayer.com/article/Transmogrify/f8862d1a-c50a-4934-988a-b92af317f4de/",
+    "previewed_at": "2020-06-11"
+  },
+  "prices": {
+    "usd": "1.07",
+    "usd_foil": "1.16",
+    "usd_etched": null,
+    "eur": "2.16",
+    "eur_foil": "2.52",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488269&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTransmogrify",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTransmogrify",
+    "edhrec": "https://edhrec.com/route/?cc=Transmogrify"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F215621%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=470254&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Transmogrify&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

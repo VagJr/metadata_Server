@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "e35d8d96-5d5c-4549-87df-458fc43e4444",
+  "oracle_id": "131096a3-2d53-4ec2-96d3-fcb58e698a13",
+  "multiverse_ids": [],
+  "tcgplayer_id": 560449,
+  "cardmarket_id": 781323,
+  "name": "Vraska, Golgari Queen",
+  "lang": "en",
+  "released_at": "2024-07-29",
+  "uri": "https://api.scryfall.com/cards/e35d8d96-5d5c-4549-87df-458fc43e4444",
+  "scryfall_uri": "https://scryfall.com/card/sld/1702/vraska-golgari-queen?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/3/e35d8d96-5d5c-4549-87df-458fc43e4444.jpg?1722024731",
+    "normal": "https://cards.scryfall.io/normal/front/e/3/e35d8d96-5d5c-4549-87df-458fc43e4444.jpg?1722024731",
+    "large": "https://cards.scryfall.io/large/front/e/3/e35d8d96-5d5c-4549-87df-458fc43e4444.jpg?1722024731",
+    "png": "https://cards.scryfall.io/png/front/e/3/e35d8d96-5d5c-4549-87df-458fc43e4444.png?1722024731",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/3/e35d8d96-5d5c-4549-87df-458fc43e4444.jpg?1722024731",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/3/e35d8d96-5d5c-4549-87df-458fc43e4444.jpg?1722024731"
+  },
+  "mana_cost": "{2}{B}{G}",
+  "cmc": 4,
+  "type_line": "Legendary Planeswalker — Vraska",
+  "oracle_text": "+2: You may sacrifice another permanent. If you do, you gain 1 life and draw a card.\n−3: Destroy target nonland permanent with mana value 3 or less.\n−9: You get an emblem with \"Whenever a creature you control deals combat damage to a player, that player loses the game.\"",
+  "loyalty": "4",
+  "colors": [
+    "B",
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e35d8d96-5d5c-4549-87df-458fc43e4444",
+      "component": "combo_piece",
+      "name": "Vraska, Golgari Queen",
+      "type_line": "Legendary Planeswalker — Vraska",
+      "uri": "https://api.scryfall.com/cards/e35d8d96-5d5c-4549-87df-458fc43e4444"
+    },
+    {
+      "object": "related_card",
+      "id": "d81478ee-1ddf-44f5-98a0-df6d4eecad7e",
+      "component": "combo_piece",
+      "name": "Vraska, Golgari Queen Emblem",
+      "type_line": "Emblem — Vraska",
+      "uri": "https://api.scryfall.com/cards/d81478ee-1ddf-44f5-98a0-df6d4eecad7e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e35d8d96-5d5c-4549-87df-458fc43e4444/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A131096a3-2d53-4ec2-96d3-fcb58e698a13&unique=prints",
+  "collector_number": "1702",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dmitry Burmak",
+  "artist_ids": [
+    "9872f5c0-274a-48ce-a9ad-6f0d5654e29c"
+  ],
+  "illustration_id": "ba03720a-6a37-4ea5-85ff-6a7f92809db1",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3283,
+  "penny_rank": 752,
+  "prices": {
+    "usd": "10.24",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "7.42",
+    "eur_foil": "7.63",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVraska%252C%2BGolgari%2BQueen",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVraska%252C%2BGolgari%2BQueen",
+    "edhrec": "https://edhrec.com/route/?cc=Vraska%2C+Golgari+Queen"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560449%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=781323&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Vraska%2C+Golgari+Queen&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

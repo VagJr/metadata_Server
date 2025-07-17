@@ -1,0 +1,152 @@
+{
+  "object": "card",
+  "id": "3c919f25-a57b-4671-ba30-de98262f8d7a",
+  "oracle_id": "2aac0ddc-1005-4049-a337-fe86e092b461",
+  "multiverse_ids": [
+    615847
+  ],
+  "tcgplayer_id": 495856,
+  "cardmarket_id": 710587,
+  "name": "Rebuild the City",
+  "lang": "en",
+  "released_at": "2023-05-12",
+  "uri": "https://api.scryfall.com/cards/3c919f25-a57b-4671-ba30-de98262f8d7a",
+  "scryfall_uri": "https://scryfall.com/card/mat/222/rebuild-the-city?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/c/3c919f25-a57b-4671-ba30-de98262f8d7a.jpg?1684342419",
+    "normal": "https://cards.scryfall.io/normal/front/3/c/3c919f25-a57b-4671-ba30-de98262f8d7a.jpg?1684342419",
+    "large": "https://cards.scryfall.io/large/front/3/c/3c919f25-a57b-4671-ba30-de98262f8d7a.jpg?1684342419",
+    "png": "https://cards.scryfall.io/png/front/3/c/3c919f25-a57b-4671-ba30-de98262f8d7a.png?1684342419",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/c/3c919f25-a57b-4671-ba30-de98262f8d7a.jpg?1684342419",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/c/3c919f25-a57b-4671-ba30-de98262f8d7a.jpg?1684342419"
+  },
+  "mana_cost": "{3}{B}{R}{G}",
+  "cmc": 6,
+  "type_line": "Sorcery",
+  "oracle_text": "Choose target land. Create three tokens that are copies of it, except they're 3/3 creatures in addition to their other types and they have vigilance and menace. (They're affected by summoning sickness.)",
+  "colors": [
+    "B",
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "3c919f25-a57b-4671-ba30-de98262f8d7a",
+      "component": "combo_piece",
+      "name": "Rebuild the City",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/3c919f25-a57b-4671-ba30-de98262f8d7a"
+    },
+    {
+      "object": "related_card",
+      "id": "09d6521e-438a-4d16-992f-f2ab27b26ce4",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/09d6521e-438a-4d16-992f-f2ab27b26ce4"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "6727e43d-31b6-45b0-ae05-7a811ba72f70",
+  "set": "mat",
+  "set_name": "March of the Machine: The Aftermath",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/6727e43d-31b6-45b0-ae05-7a811ba72f70",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amat&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mat?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3c919f25-a57b-4671-ba30-de98262f8d7a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2aac0ddc-1005-4049-a337-fe86e092b461&unique=prints",
+  "collector_number": "222",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Shawn Pagels",
+  "artist_ids": [
+    "7d241423-e674-410b-aed0-3cd5bddf45c6"
+  ],
+  "illustration_id": "263c4d5f-574a-4621-add9-7e194ecd7e7d",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "halofoil",
+    "boosterfun"
+  ],
+  "edhrec_rank": 13329,
+  "penny_rank": 11443,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.52",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.55",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=615847&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRebuild%2Bthe%2BCity",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRebuild%2Bthe%2BCity",
+    "edhrec": "https://edhrec.com/route/?cc=Rebuild+the+City"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F495856%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=710587&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rebuild+the+City&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "object": "card",
+  "id": "f748393d-5845-45d7-96e9-bbdbb701151f",
+  "oracle_id": "fa8ddc13-5108-4fe9-b3aa-dc28df476f7b",
+  "multiverse_ids": [
+    653154
+  ],
+  "mtgo_id": 132005,
+  "tcgplayer_id": 539571,
+  "cardmarket_id": 757884,
+  "name": "Sticky Fingers",
+  "lang": "en",
+  "released_at": "2024-03-08",
+  "uri": "https://api.scryfall.com/cards/f748393d-5845-45d7-96e9-bbdbb701151f",
+  "scryfall_uri": "https://scryfall.com/card/pip/191/sticky-fingers?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/7/f748393d-5845-45d7-96e9-bbdbb701151f.jpg?1708742967",
+    "normal": "https://cards.scryfall.io/normal/front/f/7/f748393d-5845-45d7-96e9-bbdbb701151f.jpg?1708742967",
+    "large": "https://cards.scryfall.io/large/front/f/7/f748393d-5845-45d7-96e9-bbdbb701151f.jpg?1708742967",
+    "png": "https://cards.scryfall.io/png/front/f/7/f748393d-5845-45d7-96e9-bbdbb701151f.png?1708742967",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/7/f748393d-5845-45d7-96e9-bbdbb701151f.jpg?1708742967",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/7/f748393d-5845-45d7-96e9-bbdbb701151f.jpg?1708742967"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant creature\nEnchanted creature has menace and \"Whenever this creature deals combat damage to a player, create a Treasure token.\" (It can't be blocked except by two or more creatures. The token is an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nWhen enchanted creature dies, draw a card.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Treasure",
+    "Enchant"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "1d74d012-66ca-4a0c-9e90-e31e96730d4d",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/1d74d012-66ca-4a0c-9e90-e31e96730d4d"
+    },
+    {
+      "object": "related_card",
+      "id": "cc46d567-495d-4b55-877f-87a1cef5d01a",
+      "component": "combo_piece",
+      "name": "Sticky Fingers",
+      "type_line": "Enchantment — Aura",
+      "uri": "https://api.scryfall.com/cards/cc46d567-495d-4b55-877f-87a1cef5d01a"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+  "set": "pip",
+  "set_name": "Fallout",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apip&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pip?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f748393d-5845-45d7-96e9-bbdbb701151f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afa8ddc13-5108-4fe9-b3aa-dc28df476f7b&unique=prints",
+  "collector_number": "191",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Elizabeth Peiró",
+  "artist_ids": [
+    "154beecd-b9b8-4795-950c-de8de7434c43"
+  ],
+  "illustration_id": "008fd57a-cb24-4b71-95d8-9c994c268a21",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1576,
+  "penny_rank": 4484,
+  "prices": {
+    "usd": "0.22",
+    "usd_foil": "4.89",
+    "usd_etched": null,
+    "eur": "0.19",
+    "eur_foil": "0.71",
+    "tix": "0.09"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=653154&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSticky%2BFingers",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSticky%2BFingers",
+    "edhrec": "https://edhrec.com/route/?cc=Sticky+Fingers"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F539571%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=757884&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/132005?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

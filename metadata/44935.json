@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "6a01bf1a-5868-4338-bf16-c35437e9bc2f",
+  "oracle_id": "64446130-46d0-4129-a718-ed6a04218100",
+  "multiverse_ids": [
+    456055
+  ],
+  "tcgplayer_id": 177366,
+  "cardmarket_id": 365273,
+  "name": "Darkblast",
+  "lang": "en",
+  "released_at": "2018-11-02",
+  "uri": "https://api.scryfall.com/cards/6a01bf1a-5868-4338-bf16-c35437e9bc2f",
+  "scryfall_uri": "https://scryfall.com/card/gk1/51/darkblast?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/a/6a01bf1a-5868-4338-bf16-c35437e9bc2f.jpg?1541002922",
+    "normal": "https://cards.scryfall.io/normal/front/6/a/6a01bf1a-5868-4338-bf16-c35437e9bc2f.jpg?1541002922",
+    "large": "https://cards.scryfall.io/large/front/6/a/6a01bf1a-5868-4338-bf16-c35437e9bc2f.jpg?1541002922",
+    "png": "https://cards.scryfall.io/png/front/6/a/6a01bf1a-5868-4338-bf16-c35437e9bc2f.png?1541002922",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/a/6a01bf1a-5868-4338-bf16-c35437e9bc2f.jpg?1541002922",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/a/6a01bf1a-5868-4338-bf16-c35437e9bc2f.jpg?1541002922"
+  },
+  "mana_cost": "{B}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "oracle_text": "Target creature gets -1/-1 until end of turn.\nDredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Dredge",
+    "Mill"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "600bdba8-0b12-454f-811c-438e0d9eb9b6",
+  "set": "gk1",
+  "set_name": "GRN Guild Kit",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/600bdba8-0b12-454f-811c-438e0d9eb9b6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Agk1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/gk1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6a01bf1a-5868-4338-bf16-c35437e9bc2f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A64446130-46d0-4129-a718-ed6a04218100&unique=prints",
+  "collector_number": "51",
+  "digital": false,
+  "rarity": "uncommon",
+  "watermark": "golgari",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Randy Gallegos",
+  "artist_ids": [
+    "a5048cc7-438a-4378-98e4-da99b78e1db0"
+  ],
+  "illustration_id": "7a5bef26-8fc9-4f9e-a09e-64069795028c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 9632,
+  "penny_rank": 827,
+  "prices": {
+    "usd": "0.47",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.40",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456055&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDarkblast",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDarkblast",
+    "edhrec": "https://edhrec.com/route/?cc=Darkblast"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F177366%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=365273&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Darkblast&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

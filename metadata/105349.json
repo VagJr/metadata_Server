@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "f9011c3a-c9db-4e92-89d5-29f139017573",
+  "oracle_id": "59925461-99f5-4217-8343-49c9b1ce24c1",
+  "multiverse_ids": [
+    526708
+  ],
+  "tcgplayer_id": 239593,
+  "cardmarket_id": 565944,
+  "name": "Rise and Shine",
+  "lang": "en",
+  "released_at": "2021-06-18",
+  "uri": "https://api.scryfall.com/cards/f9011c3a-c9db-4e92-89d5-29f139017573",
+  "scryfall_uri": "https://scryfall.com/card/mh2/340/rise-and-shine?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/9/f9011c3a-c9db-4e92-89d5-29f139017573.jpg?1626101403",
+    "normal": "https://cards.scryfall.io/normal/front/f/9/f9011c3a-c9db-4e92-89d5-29f139017573.jpg?1626101403",
+    "large": "https://cards.scryfall.io/large/front/f/9/f9011c3a-c9db-4e92-89d5-29f139017573.jpg?1626101403",
+    "png": "https://cards.scryfall.io/png/front/f/9/f9011c3a-c9db-4e92-89d5-29f139017573.png?1626101403",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/9/f9011c3a-c9db-4e92-89d5-29f139017573.jpg?1626101403",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/9/f9011c3a-c9db-4e92-89d5-29f139017573.jpg?1626101403"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "oracle_text": "Target noncreature artifact you control becomes a 0/0 artifact creature. Put four +1/+1 counters on each artifact that became a creature this way.\nOverload {4}{U}{U} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Overload"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c1c7eb8c-f205-40ab-a609-767cb296544e",
+  "set": "mh2",
+  "set_name": "Modern Horizons 2",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/c1c7eb8c-f205-40ab-a609-767cb296544e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f9011c3a-c9db-4e92-89d5-29f139017573/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A59925461-99f5-4217-8343-49c9b1ce24c1&unique=prints",
+  "collector_number": "340",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Mood: \"You can't keep us locked away anymore. To battle!\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Franz Vohwinkel",
+  "artist_ids": [
+    "3a243c17-3baa-4b53-9599-645311cd7d3d"
+  ],
+  "illustration_id": "010027e9-e065-4cbd-bb83-5dea8f6eab21",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 2740,
+  "penny_rank": 1103,
+  "preview": {
+    "source": "The Command Zone",
+    "source_uri": "https://www.youtube.com/watch?v=0B_Rq0Ogdrg",
+    "previewed_at": "2021-05-24"
+  },
+  "prices": {
+    "usd": "0.26",
+    "usd_foil": "0.32",
+    "usd_etched": null,
+    "eur": "0.26",
+    "eur_foil": "0.47",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=526708&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRise%2Band%2BShine",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRise%2Band%2BShine",
+    "edhrec": "https://edhrec.com/route/?cc=Rise+and+Shine"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F239593%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=565944&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rise+and+Shine&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

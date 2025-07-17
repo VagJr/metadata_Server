@@ -1,0 +1,117 @@
+{
+  "object": "card",
+  "id": "370edd7c-22c9-4101-bcf5-5af1b070ef78",
+  "oracle_id": "94cce37a-a752-4cde-a5b5-e8a15f8af52c",
+  "multiverse_ids": [
+    606651
+  ],
+  "arena_id": 86077,
+  "name": "Reaper of Flight Moonsilver",
+  "lang": "en",
+  "released_at": "2023-03-21",
+  "uri": "https://api.scryfall.com/cards/370edd7c-22c9-4101-bcf5-5af1b070ef78",
+  "scryfall_uri": "https://scryfall.com/card/sir/41/reaper-of-flight-moonsilver?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/7/370edd7c-22c9-4101-bcf5-5af1b070ef78.jpg?1678944933",
+    "normal": "https://cards.scryfall.io/normal/front/3/7/370edd7c-22c9-4101-bcf5-5af1b070ef78.jpg?1678944933",
+    "large": "https://cards.scryfall.io/large/front/3/7/370edd7c-22c9-4101-bcf5-5af1b070ef78.jpg?1678944933",
+    "png": "https://cards.scryfall.io/png/front/3/7/370edd7c-22c9-4101-bcf5-5af1b070ef78.png?1678944933",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/7/370edd7c-22c9-4101-bcf5-5af1b070ef78.jpg?1678944933",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/7/370edd7c-22c9-4101-bcf5-5af1b070ef78.jpg?1678944933"
+  },
+  "mana_cost": "{3}{W}{W}",
+  "cmc": 5,
+  "type_line": "Creature — Angel",
+  "oracle_text": "Flying\nDelirium — Sacrifice another creature: This creature gets +2/+1 until end of turn. Activate only if there are four or more card types among cards in your graveyard.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "Delirium"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c3694ff5-7b12-4f29-8d82-2c9b553ac60e",
+  "set": "sir",
+  "set_name": "Shadows over Innistrad Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/c3694ff5-7b12-4f29-8d82-2c9b553ac60e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asir&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sir?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/370edd7c-22c9-4101-bcf5-5af1b070ef78/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A94cce37a-a752-4cde-a5b5-e8a15f8af52c&unique=prints",
+  "collector_number": "41",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Magali Villeneuve",
+  "artist_ids": [
+    "9e6a55ae-be4d-4c23-a2a5-135737ffd879"
+  ],
+  "illustration_id": "9c85e6ed-a82e-4c10-ac26-fe8e00d9c3bf",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 25479,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=606651&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DReaper%2Bof%2BFlight%2BMoonsilver",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DReaper%2Bof%2BFlight%2BMoonsilver",
+    "edhrec": "https://edhrec.com/route/?cc=Reaper+of+Flight+Moonsilver"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "6819c2f5-29a2-46d2-af36-c22b64338807",
+  "oracle_id": "712d7eb4-4044-4852-a5da-57635d3086b0",
+  "multiverse_ids": [],
+  "cardmarket_id": 257651,
+  "name": "Urborg Skeleton",
+  "lang": "zhs",
+  "released_at": "2000-10-02",
+  "uri": "https://api.scryfall.com/cards/6819c2f5-29a2-46d2-af36-c22b64338807",
+  "scryfall_uri": "https://scryfall.com/card/inv/134s/zhs/urborg-skeleton?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/8/6819c2f5-29a2-46d2-af36-c22b64338807.jpg?1689813378",
+    "normal": "https://cards.scryfall.io/normal/front/6/8/6819c2f5-29a2-46d2-af36-c22b64338807.jpg?1689813378",
+    "large": "https://cards.scryfall.io/large/front/6/8/6819c2f5-29a2-46d2-af36-c22b64338807.jpg?1689813378",
+    "png": "https://cards.scryfall.io/png/front/6/8/6819c2f5-29a2-46d2-af36-c22b64338807.png?1689813378",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/8/6819c2f5-29a2-46d2-af36-c22b64338807.jpg?1689813378",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/8/6819c2f5-29a2-46d2-af36-c22b64338807.jpg?1689813378"
+  },
+  "mana_cost": "{B}",
+  "cmc": 1,
+  "type_line": "Creature — Skeleton",
+  "oracle_text": "Kicker {3} (You may pay an additional {3} as you cast this spell.)\n{B}: Regenerate this creature.\nIf this creature was kicked, it enters with a +1/+1 counter on it.",
+  "power": "0",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Kicker"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "b9ae5e02-7726-47ca-b5e4-5ec402b41cd1",
+  "set": "inv",
+  "set_name": "Invasion",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/b9ae5e02-7726-47ca-b5e4-5ec402b41cd1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ainv&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/inv?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6819c2f5-29a2-46d2-af36-c22b64338807/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A712d7eb4-4044-4852-a5da-57635d3086b0&unique=prints",
+  "collector_number": "134s",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tom Wänerstrand",
+  "artist_ids": [
+    "c4e0aa7c-a008-4d71-80ce-d5a1ca0b251b"
+  ],
+  "illustration_id": "a07d5bf5-3469-45e4-bbda-4978427f2e6f",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "schinesealtart"
+  ],
+  "edhrec_rank": 22709,
+  "penny_rank": 17001,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "88.92",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DUrborg%2BSkeleton",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DUrborg%2BSkeleton",
+    "edhrec": "https://edhrec.com/route/?cc=Urborg+Skeleton"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DUrborg%2BSkeleton%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=257651&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Urborg+Skeleton&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

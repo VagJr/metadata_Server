@@ -1,0 +1,159 @@
+{
+  "object": "card",
+  "id": "37fe7919-1282-4155-94f8-545eba19b189",
+  "oracle_id": "b32253d6-5f00-40a8-a7e5-dc4655cd288c",
+  "multiverse_ids": [],
+  "mtgo_id": 96348,
+  "tcgplayer_id": 255363,
+  "cardmarket_id": 585087,
+  "name": "Mysterious Tome // Chilling Chronicle",
+  "lang": "en",
+  "released_at": "2022-01-28",
+  "uri": "https://api.scryfall.com/cards/37fe7919-1282-4155-94f8-545eba19b189",
+  "scryfall_uri": "https://scryfall.com/card/dbl/63/mysterious-tome-chilling-chronicle?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 3,
+  "type_line": "Artifact // Artifact",
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Transform"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Mysterious Tome",
+      "mana_cost": "{2}{U}",
+      "type_line": "Artifact",
+      "oracle_text": "{2}, {T}: Draw a card. Transform this artifact.",
+      "colors": [
+        "U"
+      ],
+      "flavor_text": "The villagers pored through the old storybook, hoping that one of the tales within might hold some clue to saving the fading sun.",
+      "artist": "David Auden Nash",
+      "artist_id": "092827e0-03f2-4e73-852e-d95eba0fef20",
+      "illustration_id": "87edce37-ee5c-48fe-bd5a-533ba1165dc5",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/3/7/37fe7919-1282-4155-94f8-545eba19b189.jpg?1673159147",
+        "normal": "https://cards.scryfall.io/normal/front/3/7/37fe7919-1282-4155-94f8-545eba19b189.jpg?1673159147",
+        "large": "https://cards.scryfall.io/large/front/3/7/37fe7919-1282-4155-94f8-545eba19b189.jpg?1673159147",
+        "png": "https://cards.scryfall.io/png/front/3/7/37fe7919-1282-4155-94f8-545eba19b189.png?1673159147",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/3/7/37fe7919-1282-4155-94f8-545eba19b189.jpg?1673159147",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/3/7/37fe7919-1282-4155-94f8-545eba19b189.jpg?1673159147"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Chilling Chronicle",
+      "mana_cost": "",
+      "type_line": "Artifact",
+      "oracle_text": "{1}, {T}: Tap target nonland permanent. Transform this artifact.",
+      "colors": [
+        "U"
+      ],
+      "color_indicator": [
+        "U"
+      ],
+      "flavor_text": "But every story ended the same way: the countryside was captured in the icy grip of winter and darkened by eternal night.",
+      "artist": "David Auden Nash",
+      "artist_id": "092827e0-03f2-4e73-852e-d95eba0fef20",
+      "illustration_id": "fab4fc7a-f314-4456-a373-45c22646250e",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/3/7/37fe7919-1282-4155-94f8-545eba19b189.jpg?1673159147",
+        "normal": "https://cards.scryfall.io/normal/back/3/7/37fe7919-1282-4155-94f8-545eba19b189.jpg?1673159147",
+        "large": "https://cards.scryfall.io/large/back/3/7/37fe7919-1282-4155-94f8-545eba19b189.jpg?1673159147",
+        "png": "https://cards.scryfall.io/png/back/3/7/37fe7919-1282-4155-94f8-545eba19b189.png?1673159147",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/3/7/37fe7919-1282-4155-94f8-545eba19b189.jpg?1673159147",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/3/7/37fe7919-1282-4155-94f8-545eba19b189.jpg?1673159147"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set": "dbl",
+  "set_name": "Innistrad: Double Feature",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adbl&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dbl?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/37fe7919-1282-4155-94f8-545eba19b189/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab32253d6-5f00-40a8-a7e5-dc4655cd288c&unique=prints",
+  "collector_number": "63",
+  "digital": false,
+  "rarity": "uncommon",
+  "artist": "David Auden Nash",
+  "artist_ids": [
+    "092827e0-03f2-4e73-852e-d95eba0fef20"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted",
+    "sunmoondfc"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 16813,
+  "penny_rank": 8050,
+  "prices": {
+    "usd": "0.19",
+    "usd_foil": "0.21",
+    "usd_etched": null,
+    "eur": "0.17",
+    "eur_foil": "0.04",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMysterious%2BTome%2B%252F%252F%2BChilling%2BChronicle",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMysterious%2BTome%2B%252F%252F%2BChilling%2BChronicle",
+    "edhrec": "https://edhrec.com/route/?cc=Mysterious+Tome"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F255363%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=585087&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/96348?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

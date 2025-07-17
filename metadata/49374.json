@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "74ae3500-700e-41be-97d5-6fc6cc4f5174",
+  "oracle_id": "ef238ba8-acf0-4e62-9abd-5291886a32e8",
+  "multiverse_ids": [],
+  "mtgo_id": 93922,
+  "name": "Triskaidekaphile",
+  "lang": "en",
+  "released_at": "2024-09-30",
+  "uri": "https://api.scryfall.com/cards/74ae3500-700e-41be-97d5-6fc6cc4f5174",
+  "scryfall_uri": "https://scryfall.com/card/prm/93922/triskaidekaphile?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/4/74ae3500-700e-41be-97d5-6fc6cc4f5174.jpg?1681083180",
+    "normal": "https://cards.scryfall.io/normal/front/7/4/74ae3500-700e-41be-97d5-6fc6cc4f5174.jpg?1681083180",
+    "large": "https://cards.scryfall.io/large/front/7/4/74ae3500-700e-41be-97d5-6fc6cc4f5174.jpg?1681083180",
+    "png": "https://cards.scryfall.io/png/front/7/4/74ae3500-700e-41be-97d5-6fc6cc4f5174.png?1681083180",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/4/74ae3500-700e-41be-97d5-6fc6cc4f5174.jpg?1681083180",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/4/74ae3500-700e-41be-97d5-6fc6cc4f5174.jpg?1681083180"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Creature — Human Wizard",
+  "oracle_text": "You have no maximum hand size.\nAt the beginning of your upkeep, if you have exactly thirteen cards in your hand, you win the game.\n{3}{U}: Draw a card.",
+  "power": "1",
+  "toughness": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/74ae3500-700e-41be-97d5-6fc6cc4f5174/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aef238ba8-acf0-4e62-9abd-5291886a32e8&unique=prints",
+  "collector_number": "93922",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Slawomir Maniak",
+  "artist_ids": [
+    "d887bc66-2779-416c-a1ff-d8720242063e"
+  ],
+  "illustration_id": "195549d6-4439-42b1-9da8-787181a25d66",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1355,
+  "penny_rank": 6325,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.13"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTriskaidekaphile",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTriskaidekaphile",
+    "edhrec": "https://edhrec.com/route/?cc=Triskaidekaphile"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DTriskaidekaphile%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Triskaidekaphile&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/93922?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

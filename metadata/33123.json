@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "4e59822e-0ed9-493f-bd6c-3fdc55edc997",
+  "oracle_id": "23db92aa-d4db-49e3-a5bc-7b120e02822f",
+  "multiverse_ids": [],
+  "tcgplayer_id": 501284,
+  "name": "Shagrat, Loot Bearer",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/4e59822e-0ed9-493f-bd6c-3fdc55edc997",
+  "scryfall_uri": "https://scryfall.com/card/pltr/228s/shagrat-loot-bearer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/e/4e59822e-0ed9-493f-bd6c-3fdc55edc997.jpg?1687887461",
+    "normal": "https://cards.scryfall.io/normal/front/4/e/4e59822e-0ed9-493f-bd6c-3fdc55edc997.jpg?1687887461",
+    "large": "https://cards.scryfall.io/large/front/4/e/4e59822e-0ed9-493f-bd6c-3fdc55edc997.jpg?1687887461",
+    "png": "https://cards.scryfall.io/png/front/4/e/4e59822e-0ed9-493f-bd6c-3fdc55edc997.png?1687887461",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/e/4e59822e-0ed9-493f-bd6c-3fdc55edc997.jpg?1687887461",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/e/4e59822e-0ed9-493f-bd6c-3fdc55edc997.jpg?1687887461"
+  },
+  "mana_cost": "{2}{B}{R}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Orc Soldier",
+  "oracle_text": "Whenever Shagrat attacks, attach up to one target Equipment to it. Then amass Orcs X, where X is the number of Equipment attached to Shagrat. (Control of the Equipment doesn't change. To amass Orcs X, put X +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [
+    "Amass"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "4e59822e-0ed9-493f-bd6c-3fdc55edc997",
+      "component": "combo_piece",
+      "name": "Shagrat, Loot Bearer",
+      "type_line": "Legendary Creature — Orc Soldier",
+      "uri": "https://api.scryfall.com/cards/4e59822e-0ed9-493f-bd6c-3fdc55edc997"
+    },
+    {
+      "object": "related_card",
+      "id": "6943f966-fd21-427c-a13f-44727edcaa4b",
+      "component": "token",
+      "name": "Orc Army",
+      "type_line": "Token Creature — Orc Army",
+      "uri": "https://api.scryfall.com/cards/6943f966-fd21-427c-a13f-44727edcaa4b"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "1012754e-18e5-4a76-b9a3-24c55eaab1c5",
+  "set": "pltr",
+  "set_name": "Tales of Middle-earth Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/1012754e-18e5-4a76-b9a3-24c55eaab1c5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apltr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pltr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4e59822e-0ed9-493f-bd6c-3fdc55edc997/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A23db92aa-d4db-49e3-a5bc-7b120e02822f&unique=prints",
+  "collector_number": "228s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tatiana Veryayskaya",
+  "artist_ids": [
+    "9dc3cb79-1f1d-4246-b56e-ce164022a8ae"
+  ],
+  "illustration_id": "2fe88275-ad32-448b-a2ea-b63d179a017a",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 13726,
+  "penny_rank": 12738,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.97",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DShagrat%252C%2BLoot%2BBearer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DShagrat%252C%2BLoot%2BBearer",
+    "edhrec": "https://edhrec.com/route/?cc=Shagrat%2C+Loot+Bearer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F501284%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Shagrat%2C+Loot+Bearer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Shagrat%2C+Loot+Bearer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

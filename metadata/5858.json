@@ -1,0 +1,159 @@
+{
+  "object": "card",
+  "id": "0d6977e9-dd8d-4796-9fee-443a25757e09",
+  "oracle_id": "f2f09757-1931-47c0-a5f0-39280445489d",
+  "multiverse_ids": [
+    621356
+  ],
+  "mtgo_id": 112846,
+  "tcgplayer_id": 499511,
+  "cardmarket_id": 717165,
+  "name": "Gilded Goose",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/0d6977e9-dd8d-4796-9fee-443a25757e09",
+  "scryfall_uri": "https://scryfall.com/card/ltc/246/gilded-goose?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/d/0d6977e9-dd8d-4796-9fee-443a25757e09.jpg?1686966049",
+    "normal": "https://cards.scryfall.io/normal/front/0/d/0d6977e9-dd8d-4796-9fee-443a25757e09.jpg?1686966049",
+    "large": "https://cards.scryfall.io/large/front/0/d/0d6977e9-dd8d-4796-9fee-443a25757e09.jpg?1686966049",
+    "png": "https://cards.scryfall.io/png/front/0/d/0d6977e9-dd8d-4796-9fee-443a25757e09.png?1686966049",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/d/0d6977e9-dd8d-4796-9fee-443a25757e09.jpg?1686966049",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/d/0d6977e9-dd8d-4796-9fee-443a25757e09.jpg?1686966049"
+  },
+  "mana_cost": "{G}",
+  "cmc": 1,
+  "type_line": "Creature — Bird",
+  "oracle_text": "Flying\nWhen this creature enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\n{1}{G}, {T}: Create a Food token.\n{T}, Sacrifice a Food: Add one mana of any color.",
+  "power": "0",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Flying",
+    "Food"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "651be3e2-0d26-4def-98c1-3e526e650fe5",
+      "component": "combo_piece",
+      "name": "A Golden Opportunity",
+      "type_line": "Enchantment — Saga",
+      "uri": "https://api.scryfall.com/cards/651be3e2-0d26-4def-98c1-3e526e650fe5"
+    },
+    {
+      "object": "related_card",
+      "id": "4a029bdc-92e3-4d85-8af5-e33429a5f017",
+      "component": "token",
+      "name": "Food",
+      "type_line": "Token Artifact — Food",
+      "uri": "https://api.scryfall.com/cards/4a029bdc-92e3-4d85-8af5-e33429a5f017"
+    },
+    {
+      "object": "related_card",
+      "id": "0d6977e9-dd8d-4796-9fee-443a25757e09",
+      "component": "combo_piece",
+      "name": "Gilded Goose",
+      "type_line": "Creature — Bird",
+      "uri": "https://api.scryfall.com/cards/0d6977e9-dd8d-4796-9fee-443a25757e09"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set": "ltc",
+  "set_name": "Tales of Middle-earth Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0d6977e9-dd8d-4796-9fee-443a25757e09/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af2f09757-1931-47c0-a5f0-39280445489d&unique=prints",
+  "collector_number": "246",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Valera Lutfullina",
+  "artist_ids": [
+    "76bc57c7-47c6-40c5-8797-8ffcce430ac7"
+  ],
+  "illustration_id": "92587bd5-93d9-4803-8cf4-320a43bcb80c",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 755,
+  "prices": {
+    "usd": "0.61",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "1.11",
+    "eur_foil": null,
+    "tix": "3.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=621356&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGilded%2BGoose",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGilded%2BGoose",
+    "edhrec": "https://edhrec.com/route/?cc=Gilded+Goose"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F499511%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=717165&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/112846?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

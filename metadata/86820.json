@@ -1,0 +1,591 @@
+{
+  "object": "card",
+  "id": "ccfc021b-6bcf-4c5e-a0ea-a5ce379fcbee",
+  "oracle_id": "4465eff4-5851-4721-a248-866c686c2ab8",
+  "multiverse_ids": [],
+  "tcgplayer_id": 528484,
+  "name": "Goblin",
+  "lang": "ja",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/ccfc021b-6bcf-4c5e-a0ea-a5ce379fcbee",
+  "scryfall_uri": "https://scryfall.com/card/wwoe/4/ja/goblin?utm_source=api",
+  "layout": "token",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/c/ccfc021b-6bcf-4c5e-a0ea-a5ce379fcbee.jpg?1727573597",
+    "normal": "https://cards.scryfall.io/normal/front/c/c/ccfc021b-6bcf-4c5e-a0ea-a5ce379fcbee.jpg?1727573597",
+    "large": "https://cards.scryfall.io/large/front/c/c/ccfc021b-6bcf-4c5e-a0ea-a5ce379fcbee.jpg?1727573597",
+    "png": "https://cards.scryfall.io/png/front/c/c/ccfc021b-6bcf-4c5e-a0ea-a5ce379fcbee.png?1727573597",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/c/ccfc021b-6bcf-4c5e-a0ea-a5ce379fcbee.jpg?1727573597",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/c/ccfc021b-6bcf-4c5e-a0ea-a5ce379fcbee.jpg?1727573597"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Goblin",
+  "oracle_text": "",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "9b234b48-2dc7-4915-a6e7-7a5a6268f0c4",
+      "component": "combo_piece",
+      "name": "Goblin Gathering",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/9b234b48-2dc7-4915-a6e7-7a5a6268f0c4"
+    },
+    {
+      "object": "related_card",
+      "id": "94a31098-1cc5-4f07-b0e9-7d41a782ec8f",
+      "component": "combo_piece",
+      "name": "Legion Warboss",
+      "type_line": "Creature — Goblin Soldier",
+      "uri": "https://api.scryfall.com/cards/94a31098-1cc5-4f07-b0e9-7d41a782ec8f"
+    },
+    {
+      "object": "related_card",
+      "id": "47db4e5e-7c6c-454d-9470-520577b29121",
+      "component": "combo_piece",
+      "name": "Squee, Dubious Monarch",
+      "type_line": "Legendary Creature — Goblin Noble",
+      "uri": "https://api.scryfall.com/cards/47db4e5e-7c6c-454d-9470-520577b29121"
+    },
+    {
+      "object": "related_card",
+      "id": "cb0f99b1-7a40-4344-b6f9-418c9c28e626",
+      "component": "combo_piece",
+      "name": "Goblin Goliath",
+      "type_line": "Creature — Goblin Mutant",
+      "uri": "https://api.scryfall.com/cards/cb0f99b1-7a40-4344-b6f9-418c9c28e626"
+    },
+    {
+      "object": "related_card",
+      "id": "254891ef-ecfc-41cd-8f56-001a7af7d277",
+      "component": "combo_piece",
+      "name": "Kathari Bomber",
+      "type_line": "Creature — Bird Shaman",
+      "uri": "https://api.scryfall.com/cards/254891ef-ecfc-41cd-8f56-001a7af7d277"
+    },
+    {
+      "object": "related_card",
+      "id": "759bde5b-fef4-4fda-ad71-18990543dc19",
+      "component": "combo_piece",
+      "name": "Mogg Alarm",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/759bde5b-fef4-4fda-ad71-18990543dc19"
+    },
+    {
+      "object": "related_card",
+      "id": "b1070357-0190-4aaf-b322-fe1e18dce347",
+      "component": "combo_piece",
+      "name": "Goblin Rabblemaster",
+      "type_line": "Creature — Goblin Warrior",
+      "uri": "https://api.scryfall.com/cards/b1070357-0190-4aaf-b322-fe1e18dce347"
+    },
+    {
+      "object": "related_card",
+      "id": "c954042a-982b-4aed-b34f-1a14d8ee8092",
+      "component": "combo_piece",
+      "name": "Goblin Offensive",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/c954042a-982b-4aed-b34f-1a14d8ee8092"
+    },
+    {
+      "object": "related_card",
+      "id": "b69bcbf6-bfe0-425a-95a4-149c986b5395",
+      "component": "combo_piece",
+      "name": "Survey the Wreckage",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/b69bcbf6-bfe0-425a-95a4-149c986b5395"
+    },
+    {
+      "object": "related_card",
+      "id": "d02960eb-e75c-4208-959b-7f366b6f73bd",
+      "component": "combo_piece",
+      "name": "Underfoot Underdogs",
+      "type_line": "Creature — Goblin Warrior",
+      "uri": "https://api.scryfall.com/cards/d02960eb-e75c-4208-959b-7f366b6f73bd"
+    },
+    {
+      "object": "related_card",
+      "id": "7642d725-5f05-41b4-8a27-3584e4ffcc1c",
+      "component": "combo_piece",
+      "name": "Empty the Warrens",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/7642d725-5f05-41b4-8a27-3584e4ffcc1c"
+    },
+    {
+      "object": "related_card",
+      "id": "7ee0c93e-2217-47be-9722-b7fd5c7eaa60",
+      "component": "combo_piece",
+      "name": "Warbreak Trumpeter",
+      "type_line": "Creature — Goblin",
+      "uri": "https://api.scryfall.com/cards/7ee0c93e-2217-47be-9722-b7fd5c7eaa60"
+    },
+    {
+      "object": "related_card",
+      "id": "ccfc021b-6bcf-4c5e-a0ea-a5ce379fcbee",
+      "component": "token",
+      "name": "Goblin",
+      "type_line": "Token Creature — Goblin",
+      "uri": "https://api.scryfall.com/cards/ccfc021b-6bcf-4c5e-a0ea-a5ce379fcbee"
+    },
+    {
+      "object": "related_card",
+      "id": "0066ac81-87d2-4d43-ad9c-7560a5ad731e",
+      "component": "combo_piece",
+      "name": "Goblinslide",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/0066ac81-87d2-4d43-ad9c-7560a5ad731e"
+    },
+    {
+      "object": "related_card",
+      "id": "c7c7a60d-7083-4427-9564-f3ac35575165",
+      "component": "combo_piece",
+      "name": "Goblin Marshal",
+      "type_line": "Creature — Goblin Warrior",
+      "uri": "https://api.scryfall.com/cards/c7c7a60d-7083-4427-9564-f3ac35575165"
+    },
+    {
+      "object": "related_card",
+      "id": "12d06cf2-7ffb-4cae-a18c-6e2c8ed92eb5",
+      "component": "combo_piece",
+      "name": "Sling-Gang Lieutenant",
+      "type_line": "Creature — Goblin",
+      "uri": "https://api.scryfall.com/cards/12d06cf2-7ffb-4cae-a18c-6e2c8ed92eb5"
+    },
+    {
+      "object": "related_card",
+      "id": "2068733f-9701-42e2-a327-f7d0572e2f96",
+      "component": "combo_piece",
+      "name": "Goblin Morningstar",
+      "type_line": "Artifact — Equipment",
+      "uri": "https://api.scryfall.com/cards/2068733f-9701-42e2-a327-f7d0572e2f96"
+    },
+    {
+      "object": "related_card",
+      "id": "ff056acc-c716-4910-861f-245872c19781",
+      "component": "combo_piece",
+      "name": "Windcrag Siege",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/ff056acc-c716-4910-861f-245872c19781"
+    },
+    {
+      "object": "related_card",
+      "id": "4d32aa5b-359e-4d9b-beee-7feac754995f",
+      "component": "combo_piece",
+      "name": "Ib Halfheart, Goblin Tactician",
+      "type_line": "Legendary Creature — Goblin Advisor",
+      "uri": "https://api.scryfall.com/cards/4d32aa5b-359e-4d9b-beee-7feac754995f"
+    },
+    {
+      "object": "related_card",
+      "id": "0e451a77-2d36-46d7-9f29-39300d1c0267",
+      "component": "combo_piece",
+      "name": "Krenko, Mob Boss",
+      "type_line": "Legendary Creature — Goblin Warrior",
+      "uri": "https://api.scryfall.com/cards/0e451a77-2d36-46d7-9f29-39300d1c0267"
+    },
+    {
+      "object": "related_card",
+      "id": "d1ef5ecc-16b0-44f9-ab08-f6315fed6db1",
+      "component": "combo_piece",
+      "name": "Swarming Goblins",
+      "type_line": "Creature — Goblin",
+      "uri": "https://api.scryfall.com/cards/d1ef5ecc-16b0-44f9-ab08-f6315fed6db1"
+    },
+    {
+      "object": "related_card",
+      "id": "f12d9ae2-baaa-444f-8c4a-29bfe1a99e08",
+      "component": "combo_piece",
+      "name": "Rulik Mons, Warren Chief",
+      "type_line": "Legendary Creature — Goblin",
+      "uri": "https://api.scryfall.com/cards/f12d9ae2-baaa-444f-8c4a-29bfe1a99e08"
+    },
+    {
+      "object": "related_card",
+      "id": "cc4907b7-9846-4512-adf9-a758c704854e",
+      "component": "combo_piece",
+      "name": "You See a Pair of Goblins",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/cc4907b7-9846-4512-adf9-a758c704854e"
+    },
+    {
+      "object": "related_card",
+      "id": "e2b6535c-42bd-456d-91a0-03e10f141c9a",
+      "component": "combo_piece",
+      "name": "Goblin Negotiation",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/e2b6535c-42bd-456d-91a0-03e10f141c9a"
+    },
+    {
+      "object": "related_card",
+      "id": "70c4c663-dd6d-426e-83de-e026dd158991",
+      "component": "combo_piece",
+      "name": "Goblin Surprise",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/70c4c663-dd6d-426e-83de-e026dd158991"
+    },
+    {
+      "object": "related_card",
+      "id": "b5570662-ac68-47b7-9fbd-7d783a441768",
+      "component": "combo_piece",
+      "name": "A Killer Among Us",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/b5570662-ac68-47b7-9fbd-7d783a441768"
+    },
+    {
+      "object": "related_card",
+      "id": "3ca8fbf4-0f49-415b-8a96-5b1d810b6f98",
+      "component": "combo_piece",
+      "name": "Mogg War Marshal",
+      "type_line": "Creature — Goblin Warrior",
+      "uri": "https://api.scryfall.com/cards/3ca8fbf4-0f49-415b-8a96-5b1d810b6f98"
+    },
+    {
+      "object": "related_card",
+      "id": "95b9e116-8a04-47e9-a1f3-a38e114bd324",
+      "component": "combo_piece",
+      "name": "Searslicer Goblin",
+      "type_line": "Creature — Goblin Warrior",
+      "uri": "https://api.scryfall.com/cards/95b9e116-8a04-47e9-a1f3-a38e114bd324"
+    },
+    {
+      "object": "related_card",
+      "id": "2b89c895-7dc6-406f-ba12-12605de50214",
+      "component": "combo_piece",
+      "name": "Goblin Instigator",
+      "type_line": "Creature — Goblin Rogue",
+      "uri": "https://api.scryfall.com/cards/2b89c895-7dc6-406f-ba12-12605de50214"
+    },
+    {
+      "object": "related_card",
+      "id": "04079d24-b574-407f-835e-3f55f08e64fc",
+      "component": "combo_piece",
+      "name": "Ainok Strike Leader",
+      "type_line": "Creature — Dog Warrior",
+      "uri": "https://api.scryfall.com/cards/04079d24-b574-407f-835e-3f55f08e64fc"
+    },
+    {
+      "object": "related_card",
+      "id": "38ffa5c0-09c2-4ecb-b046-533053d944a8",
+      "component": "combo_piece",
+      "name": "Ponyback Brigade",
+      "type_line": "Creature — Goblin Warrior",
+      "uri": "https://api.scryfall.com/cards/38ffa5c0-09c2-4ecb-b046-533053d944a8"
+    },
+    {
+      "object": "related_card",
+      "id": "7bbb9976-e450-4342-bf0f-60edffbdbcc2",
+      "component": "combo_piece",
+      "name": "Krenko, Baron of Tin Street",
+      "type_line": "Legendary Creature — Goblin",
+      "uri": "https://api.scryfall.com/cards/7bbb9976-e450-4342-bf0f-60edffbdbcc2"
+    },
+    {
+      "object": "related_card",
+      "id": "2c0397e1-053d-4341-8b4a-4c773b6c5199",
+      "component": "combo_piece",
+      "name": "Jund",
+      "type_line": "Plane — Alara",
+      "uri": "https://api.scryfall.com/cards/2c0397e1-053d-4341-8b4a-4c773b6c5199"
+    },
+    {
+      "object": "related_card",
+      "id": "33f30b46-d69e-4f52-91e2-9cc985240305",
+      "component": "combo_piece",
+      "name": "Goblin Rally",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/33f30b46-d69e-4f52-91e2-9cc985240305"
+    },
+    {
+      "object": "related_card",
+      "id": "c6f07730-1295-4ef4-a018-1048e4872a08",
+      "component": "combo_piece",
+      "name": "Krenko's Command",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/c6f07730-1295-4ef4-a018-1048e4872a08"
+    },
+    {
+      "object": "related_card",
+      "id": "2e751f9b-fe1b-4974-8721-69d5407c40c8",
+      "component": "combo_piece",
+      "name": "Siege-Gang Lieutenant",
+      "type_line": "Creature — Goblin",
+      "uri": "https://api.scryfall.com/cards/2e751f9b-fe1b-4974-8721-69d5407c40c8"
+    },
+    {
+      "object": "related_card",
+      "id": "bd92fa41-ac1f-4422-9412-60e0fffa3a06",
+      "component": "combo_piece",
+      "name": "Hordeling Outburst",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/bd92fa41-ac1f-4422-9412-60e0fffa3a06"
+    },
+    {
+      "object": "related_card",
+      "id": "edc1cc06-c116-49d8-b2d6-d4c25873cb51",
+      "component": "combo_piece",
+      "name": "Mardu Ascendancy",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/edc1cc06-c116-49d8-b2d6-d4c25873cb51"
+    },
+    {
+      "object": "related_card",
+      "id": "7b560834-7f09-4676-8961-f1e42473d5e2",
+      "component": "combo_piece",
+      "name": "Frontline Rush",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/7b560834-7f09-4676-8961-f1e42473d5e2"
+    },
+    {
+      "object": "related_card",
+      "id": "c0c6aaeb-83fa-49a3-8f40-007539feea1e",
+      "component": "combo_piece",
+      "name": "Ardoz, Cobbler of War",
+      "type_line": "Legendary Creature — Goblin Shaman",
+      "uri": "https://api.scryfall.com/cards/c0c6aaeb-83fa-49a3-8f40-007539feea1e"
+    },
+    {
+      "object": "related_card",
+      "id": "0ca078b4-c5bc-4536-b899-76f4b0e9b9f3",
+      "component": "combo_piece",
+      "name": "Pashalik Mons",
+      "type_line": "Legendary Creature — Goblin Warrior",
+      "uri": "https://api.scryfall.com/cards/0ca078b4-c5bc-4536-b899-76f4b0e9b9f3"
+    },
+    {
+      "object": "related_card",
+      "id": "c7c6c353-d0f5-48ef-9717-b89bc5cc50b0",
+      "component": "combo_piece",
+      "name": "Goblin Warrens",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/c7c6c353-d0f5-48ef-9717-b89bc5cc50b0"
+    },
+    {
+      "object": "related_card",
+      "id": "f5d5e0b4-d18e-484f-8a29-3a066c95e288",
+      "component": "combo_piece",
+      "name": "Rasputin, the Oneiromancer",
+      "type_line": "Legendary Creature — Human Wizard",
+      "uri": "https://api.scryfall.com/cards/f5d5e0b4-d18e-484f-8a29-3a066c95e288"
+    },
+    {
+      "object": "related_card",
+      "id": "ef30c2b3-8bbe-4573-a8f3-3c09bf7bd499",
+      "component": "combo_piece",
+      "name": "Neriv, Crackling Vanguard",
+      "type_line": "Legendary Creature — Spirit Dragon",
+      "uri": "https://api.scryfall.com/cards/ef30c2b3-8bbe-4573-a8f3-3c09bf7bd499"
+    },
+    {
+      "object": "related_card",
+      "id": "71a9a9c8-3a03-40b7-908d-546f15393131",
+      "component": "combo_piece",
+      "name": "Howlsquad Heavy",
+      "type_line": "Creature — Goblin Mercenary",
+      "uri": "https://api.scryfall.com/cards/71a9a9c8-3a03-40b7-908d-546f15393131"
+    },
+    {
+      "object": "related_card",
+      "id": "eb75fb86-79cb-42eb-a5d2-6bb41a0cb4b4",
+      "component": "combo_piece",
+      "name": "Mogg Infestation",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/eb75fb86-79cb-42eb-a5d2-6bb41a0cb4b4"
+    },
+    {
+      "object": "related_card",
+      "id": "46437e79-1fc6-4cc1-887e-2a031c1e9769",
+      "component": "combo_piece",
+      "name": "Dragon Fodder",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/46437e79-1fc6-4cc1-887e-2a031c1e9769"
+    },
+    {
+      "object": "related_card",
+      "id": "647b0011-174c-47f3-9856-7a4b561ef354",
+      "component": "combo_piece",
+      "name": "Goblin Assault",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/647b0011-174c-47f3-9856-7a4b561ef354"
+    },
+    {
+      "object": "related_card",
+      "id": "588f9627-e6d1-4130-9bee-a4a7ec57c176",
+      "component": "combo_piece",
+      "name": "General Kreat, the Boltbringer",
+      "type_line": "Legendary Creature — Goblin Soldier",
+      "uri": "https://api.scryfall.com/cards/588f9627-e6d1-4130-9bee-a4a7ec57c176"
+    },
+    {
+      "object": "related_card",
+      "id": "8adce332-f3e7-428b-a865-6fef597970f6",
+      "component": "combo_piece",
+      "name": "Siege-Gang Commander",
+      "type_line": "Creature — Goblin",
+      "uri": "https://api.scryfall.com/cards/8adce332-f3e7-428b-a865-6fef597970f6"
+    },
+    {
+      "object": "related_card",
+      "id": "0eae72cc-9852-447f-8b33-789e2992a422",
+      "component": "combo_piece",
+      "name": "Battle Cry Goblin",
+      "type_line": "Creature — Goblin",
+      "uri": "https://api.scryfall.com/cards/0eae72cc-9852-447f-8b33-789e2992a422"
+    },
+    {
+      "object": "related_card",
+      "id": "ebfd587d-b132-46a6-9f8a-fd69d3aa78d0",
+      "component": "combo_piece",
+      "name": "Krenko, Tin Street Kingpin",
+      "type_line": "Legendary Creature — Goblin",
+      "uri": "https://api.scryfall.com/cards/ebfd587d-b132-46a6-9f8a-fd69d3aa78d0"
+    },
+    {
+      "object": "related_card",
+      "id": "910f3275-5290-4c65-af57-6f09f233f831",
+      "component": "combo_piece",
+      "name": "Hunted Phantasm",
+      "type_line": "Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/910f3275-5290-4c65-af57-6f09f233f831"
+    },
+    {
+      "object": "related_card",
+      "id": "01159660-ea39-4d2e-9f28-4352038b21b3",
+      "component": "combo_piece",
+      "name": "Kuldotha Rebirth",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/01159660-ea39-4d2e-9f28-4352038b21b3"
+    },
+    {
+      "object": "related_card",
+      "id": "85f99d88-475f-46ff-b739-433621713b38",
+      "component": "combo_piece",
+      "name": "Den of the Bugbear",
+      "type_line": "Land",
+      "uri": "https://api.scryfall.com/cards/85f99d88-475f-46ff-b739-433621713b38"
+    },
+    {
+      "object": "related_card",
+      "id": "19366c6c-b456-4c53-8a3c-fb133968606e",
+      "component": "combo_piece",
+      "name": "Beetleback Chief",
+      "type_line": "Creature — Goblin Warrior",
+      "uri": "https://api.scryfall.com/cards/19366c6c-b456-4c53-8a3c-fb133968606e"
+    },
+    {
+      "object": "related_card",
+      "id": "9bdc8472-2271-446b-8fb6-4b92de2aa637",
+      "component": "combo_piece",
+      "name": "Sarpadian Empires, Vol. VII",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/9bdc8472-2271-446b-8fb6-4b92de2aa637"
+    },
+    {
+      "object": "related_card",
+      "id": "c7c1edfd-e5d9-47ca-803f-4da9b8aa3cda",
+      "component": "combo_piece",
+      "name": "Goblin War Party",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/c7c1edfd-e5d9-47ca-803f-4da9b8aa3cda"
+    },
+    {
+      "object": "related_card",
+      "id": "c60c9557-2f95-4f86-afc0-f7b241635e9f",
+      "component": "combo_piece",
+      "name": "Goblin Traprunner",
+      "type_line": "Creature — Goblin",
+      "uri": "https://api.scryfall.com/cards/c60c9557-2f95-4f86-afc0-f7b241635e9f"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4cd014a3-abf0-4192-9d55-d96d9c5c7eca",
+  "set": "wwoe",
+  "set_name": "WOE Japanese Promo Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/4cd014a3-abf0-4192-9d55-d96d9c5c7eca",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awwoe&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/wwoe?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ccfc021b-6bcf-4c5e-a0ea-a5ce379fcbee/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4465eff4-5851-4721-a248-866c686c2ab8&unique=prints",
+  "collector_number": "4",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jim Nelson",
+  "artist_ids": [
+    "aa9f64d1-29e1-4c82-877e-44c18183f40b"
+  ],
+  "illustration_id": "cf19211e-6208-4512-b664-146499d8c45d",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": "29.99",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGoblin",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGoblin",
+    "edhrec": "https://edhrec.com/route/?cc=Goblin"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F528484%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Goblin&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Goblin&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

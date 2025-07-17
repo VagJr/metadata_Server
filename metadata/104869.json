@@ -1,0 +1,157 @@
+{
+  "object": "card",
+  "id": "f7d3315d-2472-4fb5-8aba-611037043cbf",
+  "oracle_id": "ef0f06f1-3991-4897-bf62-d4cab7ec79a0",
+  "multiverse_ids": [
+    664410
+  ],
+  "mtgo_id": 125623,
+  "tcgplayer_id": 552670,
+  "cardmarket_id": 771915,
+  "name": "Galvanic Discharge",
+  "lang": "en",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/f7d3315d-2472-4fb5-8aba-611037043cbf",
+  "scryfall_uri": "https://scryfall.com/card/mh3/417/galvanic-discharge?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/7/f7d3315d-2472-4fb5-8aba-611037043cbf.jpg?1717014903",
+    "normal": "https://cards.scryfall.io/normal/front/f/7/f7d3315d-2472-4fb5-8aba-611037043cbf.jpg?1717014903",
+    "large": "https://cards.scryfall.io/large/front/f/7/f7d3315d-2472-4fb5-8aba-611037043cbf.jpg?1717014903",
+    "png": "https://cards.scryfall.io/png/front/f/7/f7d3315d-2472-4fb5-8aba-611037043cbf.png?1717014903",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/7/f7d3315d-2472-4fb5-8aba-611037043cbf.jpg?1717014903",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/7/f7d3315d-2472-4fb5-8aba-611037043cbf.jpg?1717014903"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "oracle_text": "Choose target creature or planeswalker. You get {E}{E}{E} (three energy counters), then you may pay any amount of {E}. Galvanic Discharge deals that much damage to that permanent.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a0a12717-a9c0-43c7-b6be-02fd435c0053",
+      "component": "combo_piece",
+      "name": "A-Galvanic Discharge",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/a0a12717-a9c0-43c7-b6be-02fd435c0053"
+    },
+    {
+      "object": "related_card",
+      "id": "1c516212-ad39-4396-8e05-ae57f100309f",
+      "component": "combo_piece",
+      "name": "Energy Reserve",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/1c516212-ad39-4396-8e05-ae57f100309f"
+    },
+    {
+      "object": "related_card",
+      "id": "f7d3315d-2472-4fb5-8aba-611037043cbf",
+      "component": "combo_piece",
+      "name": "Galvanic Discharge",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/f7d3315d-2472-4fb5-8aba-611037043cbf"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f7d3315d-2472-4fb5-8aba-611037043cbf/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aef0f06f1-3991-4897-bf62-d4cab7ec79a0&unique=prints",
+  "collector_number": "417",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Zoltan Boros",
+  "artist_ids": [
+    "1885e6cb-c827-4896-994e-3d0a027d602f"
+  ],
+  "illustration_id": "c790b911-40cd-46f9-8e9e-028d0465150a",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 6829,
+  "penny_rank": 37,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/products/modern-horizons-3/card-image-gallery",
+    "previewed_at": "2024-05-23"
+  },
+  "prices": {
+    "usd": "0.38",
+    "usd_foil": "0.43",
+    "usd_etched": null,
+    "eur": "0.70",
+    "eur_foil": "1.30",
+    "tix": "1.82"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=664410&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGalvanic%2BDischarge",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGalvanic%2BDischarge",
+    "edhrec": "https://edhrec.com/route/?cc=Galvanic+Discharge"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F552670%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=771915&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/125623?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

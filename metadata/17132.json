@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "282a9380-01a1-4fc6-bcd4-2c8543a75eba",
+  "oracle_id": "3017ac79-37f1-4cc1-8efd-4add027618a2",
+  "multiverse_ids": [],
+  "tcgplayer_id": 541334,
+  "name": "Ezio Auditore da Firenze",
+  "lang": "en",
+  "released_at": "2024-07-05",
+  "uri": "https://api.scryfall.com/cards/282a9380-01a1-4fc6-bcd4-2c8543a75eba",
+  "scryfall_uri": "https://scryfall.com/card/acr/267/ezio-auditore-da-firenze?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/8/282a9380-01a1-4fc6-bcd4-2c8543a75eba.jpg?1733918015",
+    "normal": "https://cards.scryfall.io/normal/front/2/8/282a9380-01a1-4fc6-bcd4-2c8543a75eba.jpg?1733918015",
+    "large": "https://cards.scryfall.io/large/front/2/8/282a9380-01a1-4fc6-bcd4-2c8543a75eba.jpg?1733918015",
+    "png": "https://cards.scryfall.io/png/front/2/8/282a9380-01a1-4fc6-bcd4-2c8543a75eba.png?1733918015",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/8/282a9380-01a1-4fc6-bcd4-2c8543a75eba.jpg?1733918015",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/8/282a9380-01a1-4fc6-bcd4-2c8543a75eba.jpg?1733918015"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Human Assassin",
+  "oracle_text": "Menace\nAssassin spells you cast have freerunning {B}{B}. (You may cast a spell for its freerunning cost if you dealt combat damage to a player this turn with an Assassin or commander.)\nWhenever Ezio deals combat damage to a player, you may pay {W}{U}{B}{R}{G} if that player has 10 or less life. When you do, that player loses the game.",
+  "power": "3",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "keywords": [
+    "Menace"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "restricted",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "54b67b0b-cd3f-4e0d-ac25-fef5d966409b",
+  "set": "acr",
+  "set_name": "Assassin's Creed",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/54b67b0b-cd3f-4e0d-ac25-fef5d966409b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aacr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/acr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/282a9380-01a1-4fc6-bcd4-2c8543a75eba/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3017ac79-37f1-4cc1-8efd-4add027618a2&unique=prints",
+  "collector_number": "267",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Luisa J. Preissler",
+  "artist_ids": [
+    "3e556986-a304-4251-9ea6-d9d1ad9eb260"
+  ],
+  "illustration_id": "42171712-9dd4-4493-b8f4-180a7da3976b",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "showcase"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "textured",
+    "boosterfun"
+  ],
+  "edhrec_rank": 6783,
+  "penny_rank": 1985,
+  "prices": {
+    "usd": null,
+    "usd_foil": "49.85",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEzio%2BAuditore%2Bda%2BFirenze",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEzio%2BAuditore%2Bda%2BFirenze",
+    "edhrec": "https://edhrec.com/route/?cc=Ezio+Auditore+da+Firenze"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F541334%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ezio+Auditore+da+Firenze&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ezio+Auditore+da+Firenze&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "object": "card",
+  "id": "337393e3-9081-4251-b4ca-afd7ce10dc99",
+  "oracle_id": "fae36da0-bf9c-484f-b2fe-dd8ab2effc5c",
+  "multiverse_ids": [
+    632233
+  ],
+  "mtgo_id": 116008,
+  "tcgplayer_id": 512609,
+  "cardmarket_id": 730316,
+  "name": "Virtue of Persistence // Locthwain Scorn",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/337393e3-9081-4251-b4ca-afd7ce10dc99",
+  "scryfall_uri": "https://scryfall.com/card/woe/281/virtue-of-persistence-locthwain-scorn?utm_source=api",
+  "layout": "adventure",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/3/337393e3-9081-4251-b4ca-afd7ce10dc99.jpg?1692940222",
+    "normal": "https://cards.scryfall.io/normal/front/3/3/337393e3-9081-4251-b4ca-afd7ce10dc99.jpg?1692940222",
+    "large": "https://cards.scryfall.io/large/front/3/3/337393e3-9081-4251-b4ca-afd7ce10dc99.jpg?1692940222",
+    "png": "https://cards.scryfall.io/png/front/3/3/337393e3-9081-4251-b4ca-afd7ce10dc99.png?1692940222",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/3/337393e3-9081-4251-b4ca-afd7ce10dc99.jpg?1692940222",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/3/337393e3-9081-4251-b4ca-afd7ce10dc99.jpg?1692940222"
+  },
+  "mana_cost": "{5}{B}{B} // {1}{B}",
+  "cmc": 7,
+  "type_line": "Enchantment // Sorcery — Adventure",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Virtue of Persistence",
+      "mana_cost": "{5}{B}{B}",
+      "type_line": "Enchantment",
+      "oracle_text": "At the beginning of your upkeep, put target creature card from a graveyard onto the battlefield under your control.",
+      "artist": "Allen Williams",
+      "artist_id": "8a56d854-b424-45ec-9262-e993a382a961",
+      "illustration_id": "9f9ba9ba-d3b3-4f1d-a8b8-5302fe207468"
+    },
+    {
+      "object": "card_face",
+      "name": "Locthwain Scorn",
+      "mana_cost": "{1}{B}",
+      "type_line": "Sorcery — Adventure",
+      "oracle_text": "Target creature gets -3/-3 until end of turn. You gain 2 life.",
+      "artist": "Allen Williams",
+      "artist_id": "8a56d854-b424-45ec-9262-e993a382a961"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "fcf4c7fb-7859-4c11-8552-6817f5119d2e",
+      "component": "combo_piece",
+      "name": "On an Adventure",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/fcf4c7fb-7859-4c11-8552-6817f5119d2e"
+    },
+    {
+      "object": "related_card",
+      "id": "337393e3-9081-4251-b4ca-afd7ce10dc99",
+      "component": "combo_piece",
+      "name": "Virtue of Persistence // Locthwain Scorn",
+      "type_line": "Enchantment // Sorcery — Adventure",
+      "uri": "https://api.scryfall.com/cards/337393e3-9081-4251-b4ca-afd7ce10dc99"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "79139661-13ee-43c4-8bad-a8c069f1a1df",
+  "set": "woe",
+  "set_name": "Wilds of Eldraine",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/79139661-13ee-43c4-8bad-a8c069f1a1df",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awoe&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/woe?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/337393e3-9081-4251-b4ca-afd7ce10dc99/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afae36da0-bf9c-484f-b2fe-dd8ab2effc5c&unique=prints",
+  "collector_number": "281",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Allen Williams",
+  "artist_ids": [
+    "8a56d854-b424-45ec-9262-e993a382a961"
+  ],
+  "illustration_id": "9f9ba9ba-d3b3-4f1d-a8b8-5302fe207468",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 1491,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2023-08-17"
+  },
+  "prices": {
+    "usd": "5.40",
+    "usd_foil": "7.02",
+    "usd_etched": null,
+    "eur": "10.72",
+    "eur_foil": "12.31",
+    "tix": "0.22"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=632233&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVirtue%2Bof%2BPersistence%2B%252F%252F%2BLocthwain%2BScorn",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVirtue%2Bof%2BPersistence%2B%252F%252F%2BLocthwain%2BScorn",
+    "edhrec": "https://edhrec.com/route/?cc=Virtue+of+Persistence"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F512609%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=730316&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/116008?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

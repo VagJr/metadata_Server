@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "8000e566-66dc-48b3-922b-4df620fd2964",
+  "oracle_id": "45f386ba-ad62-4c0e-b6ad-ae02ca8f2bec",
+  "multiverse_ids": [],
+  "mtgo_id": 88284,
+  "name": "Blood on the Snow",
+  "lang": "en",
+  "released_at": "2021-02-28",
+  "uri": "https://api.scryfall.com/cards/8000e566-66dc-48b3-922b-4df620fd2964",
+  "scryfall_uri": "https://scryfall.com/card/prm/88284/blood-on-the-snow?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/0/8000e566-66dc-48b3-922b-4df620fd2964.jpg?1681079596",
+    "normal": "https://cards.scryfall.io/normal/front/8/0/8000e566-66dc-48b3-922b-4df620fd2964.jpg?1681079596",
+    "large": "https://cards.scryfall.io/large/front/8/0/8000e566-66dc-48b3-922b-4df620fd2964.jpg?1681079596",
+    "png": "https://cards.scryfall.io/png/front/8/0/8000e566-66dc-48b3-922b-4df620fd2964.png?1681079596",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/0/8000e566-66dc-48b3-922b-4df620fd2964.jpg?1681079596",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/0/8000e566-66dc-48b3-922b-4df620fd2964.jpg?1681079596"
+  },
+  "mana_cost": "{4}{B}{B}",
+  "cmc": 6,
+  "type_line": "Snow Sorcery",
+  "oracle_text": "Choose one —\n• Destroy all creatures.\n• Destroy all planeswalkers.\nThen return a creature or planeswalker card with mana value X or less from your graveyard to the battlefield, where X is the amount of {S} spent to cast this spell. ({S} is mana from a snow source.)",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8000e566-66dc-48b3-922b-4df620fd2964/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A45f386ba-ad62-4c0e-b6ad-ae02ca8f2bec&unique=prints",
+  "collector_number": "88284",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Martina Fačková",
+  "artist_ids": [
+    "6338124e-8e53-498d-8bf9-93a55db2f61c"
+  ],
+  "illustration_id": "e18fdadd-085a-428b-b86c-0f3e7f54df20",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "snow"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 6162,
+  "penny_rank": 4293,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.10"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlood%2Bon%2Bthe%2BSnow",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlood%2Bon%2Bthe%2BSnow",
+    "edhrec": "https://edhrec.com/route/?cc=Blood+on+the+Snow"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBlood%2Bon%2Bthe%2BSnow%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blood+on+the+Snow&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/88284?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

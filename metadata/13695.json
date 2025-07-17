@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "20336c7d-efff-44ef-942b-24672cbb0c48",
+  "oracle_id": "d1946630-e224-40db-8f0d-388b09622288",
+  "multiverse_ids": [
+    640659
+  ],
+  "mtgo_id": 119126,
+  "tcgplayer_id": 525922,
+  "cardmarket_id": 743714,
+  "name": "Thriving Heath",
+  "lang": "en",
+  "released_at": "2023-11-17",
+  "uri": "https://api.scryfall.com/cards/20336c7d-efff-44ef-942b-24672cbb0c48",
+  "scryfall_uri": "https://scryfall.com/card/lcc/363/thriving-heath?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/0/20336c7d-efff-44ef-942b-24672cbb0c48.jpg?1698988651",
+    "normal": "https://cards.scryfall.io/normal/front/2/0/20336c7d-efff-44ef-942b-24672cbb0c48.jpg?1698988651",
+    "large": "https://cards.scryfall.io/large/front/2/0/20336c7d-efff-44ef-942b-24672cbb0c48.jpg?1698988651",
+    "png": "https://cards.scryfall.io/png/front/2/0/20336c7d-efff-44ef-942b-24672cbb0c48.png?1698988651",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/0/20336c7d-efff-44ef-942b-24672cbb0c48.jpg?1698988651",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/0/20336c7d-efff-44ef-942b-24672cbb0c48.jpg?1698988651"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "This land enters tapped. As it enters, choose a color other than white.\n{T}: Add {W} or one mana of the chosen color.",
+  "colors": [],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d253edc3-5bc7-4cf1-9446-a8540dedffa5",
+  "set": "lcc",
+  "set_name": "The Lost Caverns of Ixalan Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d253edc3-5bc7-4cf1-9446-a8540dedffa5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alcc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/lcc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/20336c7d-efff-44ef-942b-24672cbb0c48/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad1946630-e224-40db-8f0d-388b09622288&unique=prints",
+  "collector_number": "363",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Wildflowers here bloom not with the season but with the ebb and flow of magic.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alayna Danner",
+  "artist_ids": [
+    "bb677b1a-ce51-4888-83d6-5a94de461ff9"
+  ],
+  "illustration_id": "a1053374-9774-4ca6-bb77-1f55ca3c079b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1107,
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.15",
+    "eur_foil": null,
+    "tix": "0.20"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=640659&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThriving%2BHeath",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThriving%2BHeath",
+    "edhrec": "https://edhrec.com/route/?cc=Thriving+Heath"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F525922%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=743714&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/119126?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

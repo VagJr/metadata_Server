@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "4376c2bc-ab3b-45be-8b09-01af6a8e986d",
+  "oracle_id": "695ee4fe-356d-47fb-9442-d171b618151c",
+  "multiverse_ids": [],
+  "tcgplayer_id": 222336,
+  "cardmarket_id": 497765,
+  "name": "Chromanticore",
+  "lang": "en",
+  "released_at": "2020-09-01",
+  "uri": "https://api.scryfall.com/cards/4376c2bc-ab3b-45be-8b09-01af6a8e986d",
+  "scryfall_uri": "https://scryfall.com/card/plst/BNG-144/chromanticore?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/3/4376c2bc-ab3b-45be-8b09-01af6a8e986d.jpg?1599766258",
+    "normal": "https://cards.scryfall.io/normal/front/4/3/4376c2bc-ab3b-45be-8b09-01af6a8e986d.jpg?1599766258",
+    "large": "https://cards.scryfall.io/large/front/4/3/4376c2bc-ab3b-45be-8b09-01af6a8e986d.jpg?1599766258",
+    "png": "https://cards.scryfall.io/png/front/4/3/4376c2bc-ab3b-45be-8b09-01af6a8e986d.png?1599766258",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/3/4376c2bc-ab3b-45be-8b09-01af6a8e986d.jpg?1599766258",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/3/4376c2bc-ab3b-45be-8b09-01af6a8e986d.jpg?1599766258"
+  },
+  "mana_cost": "{W}{U}{B}{R}{G}",
+  "cmc": 5,
+  "type_line": "Enchantment Creature — Manticore",
+  "oracle_text": "Bestow {2}{W}{U}{B}{R}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nFlying, first strike, vigilance, trample, lifelink\nEnchanted creature gets +4/+4 and has flying, first strike, vigilance, trample, and lifelink.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "Lifelink",
+    "Vigilance",
+    "First strike",
+    "Trample",
+    "Bestow"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4376c2bc-ab3b-45be-8b09-01af6a8e986d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A695ee4fe-356d-47fb-9442-d171b618151c&unique=prints",
+  "collector_number": "BNG-144",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Min Yum",
+  "artist_ids": [
+    "9cb65d6f-8851-4d56-9add-9eefa274bd1b"
+  ],
+  "illustration_id": "7c6d7bb2-bf1c-4d92-8885-c01b680ff74b",
+  "border_color": "black",
+  "frame": "2003",
+  "frame_effects": [
+    "enchantment"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 8369,
+  "penny_rank": 5522,
+  "prices": {
+    "usd": "1.59",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "1.33",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DChromanticore",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DChromanticore",
+    "edhrec": "https://edhrec.com/route/?cc=Chromanticore"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F222336%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=497765&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Chromanticore&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

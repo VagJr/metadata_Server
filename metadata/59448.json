@@ -1,0 +1,138 @@
+{
+  "object": "card",
+  "id": "8c89a613-2a48-4953-8e45-9afaebdf84bc",
+  "oracle_id": "3dfb0c0a-b68f-43b9-8475-28d0192fc4ed",
+  "multiverse_ids": [
+    654387
+  ],
+  "mtgo_id": 131547,
+  "tcgplayer_id": 541495,
+  "name": "Gemrazer",
+  "flavor_name": "Toxic Sheepsquatch",
+  "lang": "en",
+  "released_at": "2024-03-08",
+  "uri": "https://api.scryfall.com/cards/8c89a613-2a48-4953-8e45-9afaebdf84bc",
+  "scryfall_uri": "https://scryfall.com/card/pip/351/gemrazer?utm_source=api",
+  "layout": "mutate",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/c/8c89a613-2a48-4953-8e45-9afaebdf84bc.jpg?1708743625",
+    "normal": "https://cards.scryfall.io/normal/front/8/c/8c89a613-2a48-4953-8e45-9afaebdf84bc.jpg?1708743625",
+    "large": "https://cards.scryfall.io/large/front/8/c/8c89a613-2a48-4953-8e45-9afaebdf84bc.jpg?1708743625",
+    "png": "https://cards.scryfall.io/png/front/8/c/8c89a613-2a48-4953-8e45-9afaebdf84bc.png?1708743625",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/c/8c89a613-2a48-4953-8e45-9afaebdf84bc.jpg?1708743625",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/c/8c89a613-2a48-4953-8e45-9afaebdf84bc.jpg?1708743625"
+  },
+  "mana_cost": "{3}{G}",
+  "cmc": 4,
+  "type_line": "Creature — Beast",
+  "oracle_text": "Mutate {1}{G}{G} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)\nReach, trample\nWhenever this creature mutates, destroy target artifact or enchantment an opponent controls.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Reach",
+    "Mutate",
+    "Trample"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+  "set": "pip",
+  "set_name": "Fallout",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apip&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pip?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8c89a613-2a48-4953-8e45-9afaebdf84bc/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3dfb0c0a-b68f-43b9-8475-28d0192fc4ed&unique=prints",
+  "collector_number": "351",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Evan Shipard",
+  "artist_ids": [
+    "eea284ce-9377-49c1-9d96-f34b7d487cdf"
+  ],
+  "illustration_id": "23d54a71-6642-4ac6-864b-ae675cdbc53d",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3193,
+  "penny_rank": 4835,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.youtube.com/watch?v=1_xqwsZkH4w",
+    "previewed_at": "2024-02-23"
+  },
+  "prices": {
+    "usd": "1.67",
+    "usd_foil": "2.39",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.40"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=654387&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGemrazer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGemrazer",
+    "edhrec": "https://edhrec.com/route/?cc=Gemrazer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F541495%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gemrazer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/131547?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

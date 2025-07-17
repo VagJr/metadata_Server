@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "50b87b5c-4197-412b-a079-24f76fcfe058",
+  "oracle_id": "3df11e5c-19aa-441c-a889-6b40eb3fdabf",
+  "multiverse_ids": [
+    562455
+  ],
+  "tcgplayer_id": 270109,
+  "cardmarket_id": 652529,
+  "name": "Xander's Pact",
+  "lang": "en",
+  "released_at": "2022-04-29",
+  "uri": "https://api.scryfall.com/cards/50b87b5c-4197-412b-a079-24f76fcfe058",
+  "scryfall_uri": "https://scryfall.com/card/ncc/144/xanders-pact?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/0/50b87b5c-4197-412b-a079-24f76fcfe058.jpg?1673483132",
+    "normal": "https://cards.scryfall.io/normal/front/5/0/50b87b5c-4197-412b-a079-24f76fcfe058.jpg?1673483132",
+    "large": "https://cards.scryfall.io/large/front/5/0/50b87b5c-4197-412b-a079-24f76fcfe058.jpg?1673483132",
+    "png": "https://cards.scryfall.io/png/front/5/0/50b87b5c-4197-412b-a079-24f76fcfe058.png?1673483132",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/0/50b87b5c-4197-412b-a079-24f76fcfe058.jpg?1673483132",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/0/50b87b5c-4197-412b-a079-24f76fcfe058.jpg?1673483132"
+  },
+  "mana_cost": "{4}{B}{B}",
+  "cmc": 6,
+  "type_line": "Sorcery",
+  "oracle_text": "Casualty 2 (As you cast this spell, you may sacrifice a creature with power 2 or greater. When you do, copy this spell.)\nEach opponent exiles the top card of their library. You may cast spells from among those cards this turn. If you cast a spell this way, pay life equal to that spell's mana value rather than pay its mana cost.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Casualty"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c51de34b-d4d6-4179-a432-573744ded119",
+  "set": "ncc",
+  "set_name": "New Capenna Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/c51de34b-d4d6-4179-a432-573744ded119",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ancc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ncc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/50b87b5c-4197-412b-a079-24f76fcfe058/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3df11e5c-19aa-441c-a889-6b40eb3fdabf&unique=prints",
+  "collector_number": "144",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "maestros",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Helge C. Balzer",
+  "artist_ids": [
+    "0c81268c-9a69-4dd5-b214-9f25e3483578"
+  ],
+  "illustration_id": "3ac12845-1ea1-4117-8b5d-a20bfdb14c16",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 13494,
+  "preview": {
+    "source": "Wargamer",
+    "source_uri": "https://www.wargamer.com/magic-the-gathering/streets-of-new-capenna-commander-deck-maestros-massacre-reveal",
+    "previewed_at": "2022-04-19"
+  },
+  "prices": {
+    "usd": "0.27",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.41",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=562455&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DXander%2527s%2BPact",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DXander%2527s%2BPact",
+    "edhrec": "https://edhrec.com/route/?cc=Xander%27s+Pact"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F270109%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=652529&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Xander%27s+Pact&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

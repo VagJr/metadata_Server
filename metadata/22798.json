@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "359be9e6-0770-43e3-853c-95e5317e9d30",
+  "oracle_id": "d7315b3b-6e5d-4d28-a503-bfae1daf6c43",
+  "multiverse_ids": [],
+  "mtgo_id": 103914,
+  "mtgo_foil_id": 103915,
+  "tcgplayer_id": 456902,
+  "cardmarket_id": 689063,
+  "name": "Verix Bladewing",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/359be9e6-0770-43e3-853c-95e5317e9d30",
+  "scryfall_uri": "https://scryfall.com/card/scd/168/verix-bladewing?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/5/359be9e6-0770-43e3-853c-95e5317e9d30.jpg?1674675406",
+    "normal": "https://cards.scryfall.io/normal/front/3/5/359be9e6-0770-43e3-853c-95e5317e9d30.jpg?1674675406",
+    "large": "https://cards.scryfall.io/large/front/3/5/359be9e6-0770-43e3-853c-95e5317e9d30.jpg?1674675406",
+    "png": "https://cards.scryfall.io/png/front/3/5/359be9e6-0770-43e3-853c-95e5317e9d30.png?1674675406",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/5/359be9e6-0770-43e3-853c-95e5317e9d30.jpg?1674675406",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/5/359be9e6-0770-43e3-853c-95e5317e9d30.jpg?1674675406"
+  },
+  "mana_cost": "{2}{R}{R}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Dragon",
+  "oracle_text": "Kicker {3} (You may pay an additional {3} as you cast this spell.)\nFlying\nWhen Verix enters, if it was kicked, create Karox Bladewing, a legendary 4/4 red Dragon creature token with flying.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Kicker",
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "39afcd77-e006-41a0-98ea-8be39d38a68c",
+      "component": "token",
+      "name": "Karox Bladewing",
+      "type_line": "Token Legendary Creature — Dragon",
+      "uri": "https://api.scryfall.com/cards/39afcd77-e006-41a0-98ea-8be39d38a68c"
+    },
+    {
+      "object": "related_card",
+      "id": "359be9e6-0770-43e3-853c-95e5317e9d30",
+      "component": "combo_piece",
+      "name": "Verix Bladewing",
+      "type_line": "Legendary Creature — Dragon",
+      "uri": "https://api.scryfall.com/cards/359be9e6-0770-43e3-853c-95e5317e9d30"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set": "scd",
+  "set_name": "Starter Commander Decks",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ascd&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/scd?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/359be9e6-0770-43e3-853c-95e5317e9d30/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad7315b3b-6e5d-4d28-a503-bfae1daf6c43&unique=prints",
+  "collector_number": "168",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "XiaoDi Jin",
+  "artist_ids": [
+    "28f8a8a9-c5da-46c7-9cfb-9bb18f3a6309"
+  ],
+  "illustration_id": "6ed96a84-0f6e-42a2-8d77-ce2cbd36d694",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 7407,
+  "penny_rank": 4556,
+  "prices": {
+    "usd": "0.33",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.28",
+    "eur_foil": null,
+    "tix": "0.58"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVerix%2BBladewing",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVerix%2BBladewing",
+    "edhrec": "https://edhrec.com/route/?cc=Verix+Bladewing"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F456902%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=689063&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/103914?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

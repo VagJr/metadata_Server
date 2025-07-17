@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "6bd85a34-c5f8-4d3a-8f12-4bbf42f1f638",
+  "oracle_id": "f509ac02-f22e-4d1a-9fe1-afa96dd7806d",
+  "multiverse_ids": [
+    640473
+  ],
+  "mtgo_id": 118754,
+  "tcgplayer_id": 525939,
+  "cardmarket_id": 743529,
+  "name": "Thieving Skydiver",
+  "lang": "en",
+  "released_at": "2023-11-17",
+  "uri": "https://api.scryfall.com/cards/6bd85a34-c5f8-4d3a-8f12-4bbf42f1f638",
+  "scryfall_uri": "https://scryfall.com/card/lcc/177/thieving-skydiver?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/b/6bd85a34-c5f8-4d3a-8f12-4bbf42f1f638.jpg?1698988201",
+    "normal": "https://cards.scryfall.io/normal/front/6/b/6bd85a34-c5f8-4d3a-8f12-4bbf42f1f638.jpg?1698988201",
+    "large": "https://cards.scryfall.io/large/front/6/b/6bd85a34-c5f8-4d3a-8f12-4bbf42f1f638.jpg?1698988201",
+    "png": "https://cards.scryfall.io/png/front/6/b/6bd85a34-c5f8-4d3a-8f12-4bbf42f1f638.png?1698988201",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/b/6bd85a34-c5f8-4d3a-8f12-4bbf42f1f638.jpg?1698988201",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/b/6bd85a34-c5f8-4d3a-8f12-4bbf42f1f638.jpg?1698988201"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Creature — Merfolk Rogue",
+  "oracle_text": "Kicker {X}. X can't be 0. (You may pay an additional {X} as you cast this spell.)\nFlying\nWhen this creature enters, if it was kicked, gain control of target artifact with mana value X or less. If that artifact is an Equipment, attach it to this creature.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Kicker",
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d253edc3-5bc7-4cf1-9446-a8540dedffa5",
+  "set": "lcc",
+  "set_name": "The Lost Caverns of Ixalan Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d253edc3-5bc7-4cf1-9446-a8540dedffa5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alcc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/lcc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6bd85a34-c5f8-4d3a-8f12-4bbf42f1f638/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af509ac02-f22e-4d1a-9fe1-afa96dd7806d&unique=prints",
+  "collector_number": "177",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kieran Yanner",
+  "artist_ids": [
+    "aa7e89ed-d294-4633-9057-ce04dacfcfa4"
+  ],
+  "illustration_id": "23f4ec60-caf5-45af-ad54-db556f747dbb",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1724,
+  "penny_rank": 2907,
+  "prices": {
+    "usd": "0.17",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.29",
+    "eur_foil": null,
+    "tix": "0.15"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=640473&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThieving%2BSkydiver",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThieving%2BSkydiver",
+    "edhrec": "https://edhrec.com/route/?cc=Thieving+Skydiver"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F525939%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=743529&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/118754?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

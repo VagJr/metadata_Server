@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "a0ef264e-f987-422e-aac1-ae4963c797f5",
+  "oracle_id": "5669ea7c-c4fc-494c-896b-4bce9b494817",
+  "multiverse_ids": [
+    567533
+  ],
+  "tcgplayer_id": 273578,
+  "cardmarket_id": 661793,
+  "name": "Curse of the Swine",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/a0ef264e-f987-422e-aac1-ae4963c797f5",
+  "scryfall_uri": "https://scryfall.com/card/clb/716/curse-of-the-swine?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/0/a0ef264e-f987-422e-aac1-ae4963c797f5.jpg?1674141295",
+    "normal": "https://cards.scryfall.io/normal/front/a/0/a0ef264e-f987-422e-aac1-ae4963c797f5.jpg?1674141295",
+    "large": "https://cards.scryfall.io/large/front/a/0/a0ef264e-f987-422e-aac1-ae4963c797f5.jpg?1674141295",
+    "png": "https://cards.scryfall.io/png/front/a/0/a0ef264e-f987-422e-aac1-ae4963c797f5.png?1674141295",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/0/a0ef264e-f987-422e-aac1-ae4963c797f5.jpg?1674141295",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/0/a0ef264e-f987-422e-aac1-ae4963c797f5.jpg?1674141295"
+  },
+  "mana_cost": "{X}{U}{U}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "oracle_text": "Exile X target creatures. For each creature exiled this way, its controller creates a 2/2 green Boar creature token.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "afb796a0-4eb0-4fc5-bf84-92a71bec4466",
+      "component": "token",
+      "name": "Boar",
+      "type_line": "Token Creature — Boar",
+      "uri": "https://api.scryfall.com/cards/afb796a0-4eb0-4fc5-bf84-92a71bec4466"
+    },
+    {
+      "object": "related_card",
+      "id": "a0ef264e-f987-422e-aac1-ae4963c797f5",
+      "component": "combo_piece",
+      "name": "Curse of the Swine",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/a0ef264e-f987-422e-aac1-ae4963c797f5"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set": "clb",
+  "set_name": "Commander Legends: Battle for Baldur's Gate",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/clb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a0ef264e-f987-422e-aac1-ae4963c797f5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5669ea7c-c4fc-494c-896b-4bce9b494817&unique=prints",
+  "collector_number": "716",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Another imminent battle subsided in busy snuffling and carefree rooting.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "James Ryman",
+  "artist_ids": [
+    "3852bbc9-11c0-4fe3-8722-a06ad7e2bcc5"
+  ],
+  "illustration_id": "0a6d1a68-c309-473c-9481-db2931609c58",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 676,
+  "penny_rank": 8113,
+  "prices": {
+    "usd": "0.25",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.30",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=567533&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCurse%2Bof%2Bthe%2BSwine",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCurse%2Bof%2Bthe%2BSwine",
+    "edhrec": "https://edhrec.com/route/?cc=Curse+of+the+Swine"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F273578%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=661793&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Curse+of+the+Swine&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

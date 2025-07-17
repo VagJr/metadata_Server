@@ -1,0 +1,148 @@
+{
+  "object": "card",
+  "id": "5e95aec6-a342-4f03-b059-fd25a93665a3",
+  "oracle_id": "4566fb92-448e-4b3f-9045-9d74323c35d1",
+  "multiverse_ids": [],
+  "tcgplayer_id": 492856,
+  "name": "Wrenn and Realmbreaker",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/5e95aec6-a342-4f03-b059-fd25a93665a3",
+  "scryfall_uri": "https://scryfall.com/card/pmom/217p/wrenn-and-realmbreaker?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/e/5e95aec6-a342-4f03-b059-fd25a93665a3.jpg?1682598781",
+    "normal": "https://cards.scryfall.io/normal/front/5/e/5e95aec6-a342-4f03-b059-fd25a93665a3.jpg?1682598781",
+    "large": "https://cards.scryfall.io/large/front/5/e/5e95aec6-a342-4f03-b059-fd25a93665a3.jpg?1682598781",
+    "png": "https://cards.scryfall.io/png/front/5/e/5e95aec6-a342-4f03-b059-fd25a93665a3.png?1682598781",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/e/5e95aec6-a342-4f03-b059-fd25a93665a3.jpg?1682598781",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/e/5e95aec6-a342-4f03-b059-fd25a93665a3.jpg?1682598781"
+  },
+  "mana_cost": "{1}{G}{G}",
+  "cmc": 3,
+  "type_line": "Legendary Planeswalker — Wrenn",
+  "oracle_text": "Lands you control have \"{T}: Add one mana of any color.\"\n+1: Up to one target land you control becomes a 3/3 Elemental creature with vigilance, hexproof, and haste until your next turn. It's still a land.\n−2: Mill three cards. You may put a permanent card from among the milled cards into your hand.\n−7: You get an emblem with \"You may play lands and cast permanent spells from your graveyard.\"",
+  "loyalty": "4",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "864a786d-7aac-439d-a37c-36138125053d",
+      "component": "combo_piece",
+      "name": "Wrenn and Realmbreaker",
+      "type_line": "Legendary Planeswalker — Wrenn",
+      "uri": "https://api.scryfall.com/cards/864a786d-7aac-439d-a37c-36138125053d"
+    },
+    {
+      "object": "related_card",
+      "id": "0aa8ebb6-26dc-41eb-ae40-47c8e7b040a6",
+      "component": "combo_piece",
+      "name": "Wrenn and Realmbreaker Emblem",
+      "type_line": "Emblem",
+      "uri": "https://api.scryfall.com/cards/0aa8ebb6-26dc-41eb-ae40-47c8e7b040a6"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4af147e4-cf99-4f32-a77e-d116412f469a",
+  "set": "pmom",
+  "set_name": "March of the Machine Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/4af147e4-cf99-4f32-a77e-d116412f469a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apmom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pmom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5e95aec6-a342-4f03-b059-fd25a93665a3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4566fb92-448e-4b3f-9045-9d74323c35d1&unique=prints",
+  "collector_number": "217p",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Cristi Balanescu",
+  "artist_ids": [
+    "c09ede88-a1b5-4a18-9895-dc8a965d28a5"
+  ],
+  "illustration_id": "02e257d3-0175-4153-a04c-fdddb41234ba",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 2173,
+  "prices": {
+    "usd": "4.29",
+    "usd_foil": "5.13",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWrenn%2Band%2BRealmbreaker",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWrenn%2Band%2BRealmbreaker",
+    "edhrec": "https://edhrec.com/route/?cc=Wrenn+and+Realmbreaker"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F492856%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wrenn+and+Realmbreaker&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wrenn+and+Realmbreaker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

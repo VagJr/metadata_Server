@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "8ef23258-511f-43f8-b84f-bd2256b5c86b",
+  "oracle_id": "ffac1923-99d0-48e6-b1e7-168e5c324a80",
+  "multiverse_ids": [
+    525607
+  ],
+  "mtgo_id": 91125,
+  "tcgplayer_id": 239181,
+  "tcgplayer_etched_id": 239425,
+  "cardmarket_id": 564648,
+  "name": "Brainstone",
+  "lang": "en",
+  "released_at": "2021-06-18",
+  "uri": "https://api.scryfall.com/cards/8ef23258-511f-43f8-b84f-bd2256b5c86b",
+  "scryfall_uri": "https://scryfall.com/card/mh2/426/brainstone?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/e/8ef23258-511f-43f8-b84f-bd2256b5c86b.jpg?1626103568",
+    "normal": "https://cards.scryfall.io/normal/front/8/e/8ef23258-511f-43f8-b84f-bd2256b5c86b.jpg?1626103568",
+    "large": "https://cards.scryfall.io/large/front/8/e/8ef23258-511f-43f8-b84f-bd2256b5c86b.jpg?1626103568",
+    "png": "https://cards.scryfall.io/png/front/8/e/8ef23258-511f-43f8-b84f-bd2256b5c86b.png?1626103568",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/e/8ef23258-511f-43f8-b84f-bd2256b5c86b.jpg?1626103568",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/e/8ef23258-511f-43f8-b84f-bd2256b5c86b.jpg?1626103568"
+  },
+  "mana_cost": "{1}",
+  "cmc": 1,
+  "type_line": "Artifact",
+  "oracle_text": "{2}, {T}, Sacrifice this artifact: Draw three cards, then put two cards from your hand on top of your library in any order.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil",
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c1c7eb8c-f205-40ab-a609-767cb296544e",
+  "set": "mh2",
+  "set_name": "Modern Horizons 2",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/c1c7eb8c-f205-40ab-a609-767cb296544e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8ef23258-511f-43f8-b84f-bd2256b5c86b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Affac1923-99d0-48e6-b1e7-168e5c324a80&unique=prints",
+  "collector_number": "426",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "One day, it might provide a flash of insight that turns the tide of battle. Meanwhile, it looks lovely on an end table.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Drew Tucker",
+  "artist_ids": [
+    "22eef389-7b21-4dda-95dc-4c9a0f1bf4dd"
+  ],
+  "illustration_id": "9b5e15f0-e52c-4960-ba88-230cd146a39d",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 4783,
+  "penny_rank": 2277,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2021-05-07"
+  },
+  "prices": {
+    "usd": "0.12",
+    "usd_foil": "0.25",
+    "usd_etched": "0.49",
+    "eur": "0.20",
+    "eur_foil": "0.45",
+    "tix": "1.32"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=525607&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBrainstone",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBrainstone",
+    "edhrec": "https://edhrec.com/route/?cc=Brainstone"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F239181%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=564648&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/91125?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

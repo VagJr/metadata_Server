@@ -1,0 +1,166 @@
+{
+  "object": "card",
+  "id": "2dc164c8-62ca-4d59-ae1c-ef273fde9d10",
+  "oracle_id": "74868bc0-6081-4f46-a2c6-9521cd5465aa",
+  "multiverse_ids": [
+    670528
+  ],
+  "mtgo_id": 129063,
+  "tcgplayer_id": 558371,
+  "cardmarket_id": 778070,
+  "name": "Tender Wildguide",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/2dc164c8-62ca-4d59-ae1c-ef273fde9d10",
+  "scryfall_uri": "https://scryfall.com/card/blb/325/tender-wildguide?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/d/2dc164c8-62ca-4d59-ae1c-ef273fde9d10.jpg?1721427738",
+    "normal": "https://cards.scryfall.io/normal/front/2/d/2dc164c8-62ca-4d59-ae1c-ef273fde9d10.jpg?1721427738",
+    "large": "https://cards.scryfall.io/large/front/2/d/2dc164c8-62ca-4d59-ae1c-ef273fde9d10.jpg?1721427738",
+    "png": "https://cards.scryfall.io/png/front/2/d/2dc164c8-62ca-4d59-ae1c-ef273fde9d10.png?1721427738",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/d/2dc164c8-62ca-4d59-ae1c-ef273fde9d10.jpg?1721427738",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/d/2dc164c8-62ca-4d59-ae1c-ef273fde9d10.jpg?1721427738"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2,
+  "type_line": "Creature — Possum Druid",
+  "oracle_text": "Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)\n{T}: Add one mana of any color.\n{T}: Put a +1/+1 counter on this creature.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Offspring"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "88fb4e41-7ce4-45ca-b365-fcde289ffe8c",
+      "component": "token",
+      "name": "Tender Wildguide",
+      "type_line": "Token Creature — Possum Druid",
+      "uri": "https://api.scryfall.com/cards/88fb4e41-7ce4-45ca-b365-fcde289ffe8c"
+    },
+    {
+      "object": "related_card",
+      "id": "2dc164c8-62ca-4d59-ae1c-ef273fde9d10",
+      "component": "combo_piece",
+      "name": "Tender Wildguide",
+      "type_line": "Creature — Possum Druid",
+      "uri": "https://api.scryfall.com/cards/2dc164c8-62ca-4d59-ae1c-ef273fde9d10"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a2f58272-bba6-439d-871e-7a46686ac018",
+  "set": "blb",
+  "set_name": "Bloomburrow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/a2f58272-bba6-439d-871e-7a46686ac018",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/blb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2dc164c8-62ca-4d59-ae1c-ef273fde9d10/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A74868bc0-6081-4f46-a2c6-9521cd5465aa&unique=prints",
+  "collector_number": "325",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"The community banded together to revitalize the scorched earth.\"\n—*Wake of the Beasts*",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ellie Livingston",
+  "artist_ids": [
+    "d02ac3a2-394d-4a0a-9b8e-eaf53a11d272"
+  ],
+  "illustration_id": "69099b55-e28f-4821-b68f-88d511fc2e7d",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 5110,
+  "penny_rank": 4182,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/products/bloomburrow/card-image-gallery",
+    "previewed_at": "2024-07-09"
+  },
+  "prices": {
+    "usd": "0.51",
+    "usd_foil": "0.92",
+    "usd_etched": null,
+    "eur": "0.49",
+    "eur_foil": "0.92",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=670528&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTender%2BWildguide",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTender%2BWildguide",
+    "edhrec": "https://edhrec.com/route/?cc=Tender+Wildguide"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F558371%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=778070&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/129063?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

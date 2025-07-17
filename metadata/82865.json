@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "c3b04d8a-f651-4538-bc40-6f2c8e13fb99",
+  "oracle_id": "c68faebc-b2cd-461b-b93e-e1fcd4816810",
+  "multiverse_ids": [
+    559798
+  ],
+  "tcgplayer_id": 269389,
+  "cardmarket_id": 652810,
+  "name": "Midnight Clock",
+  "lang": "en",
+  "released_at": "2022-04-29",
+  "uri": "https://api.scryfall.com/cards/c3b04d8a-f651-4538-bc40-6f2c8e13fb99",
+  "scryfall_uri": "https://scryfall.com/card/ncc/226/midnight-clock?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/3/c3b04d8a-f651-4538-bc40-6f2c8e13fb99.jpg?1673483938",
+    "normal": "https://cards.scryfall.io/normal/front/c/3/c3b04d8a-f651-4538-bc40-6f2c8e13fb99.jpg?1673483938",
+    "large": "https://cards.scryfall.io/large/front/c/3/c3b04d8a-f651-4538-bc40-6f2c8e13fb99.jpg?1673483938",
+    "png": "https://cards.scryfall.io/png/front/c/3/c3b04d8a-f651-4538-bc40-6f2c8e13fb99.png?1673483938",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/3/c3b04d8a-f651-4538-bc40-6f2c8e13fb99.jpg?1673483938",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/3/c3b04d8a-f651-4538-bc40-6f2c8e13fb99.jpg?1673483938"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Artifact",
+  "oracle_text": "{T}: Add {U}.\n{2}{U}: Put an hour counter on this artifact.\nAt the beginning of each upkeep, put an hour counter on this artifact.\nWhen the twelfth hour counter is put on this artifact, shuffle your hand and graveyard into your library, then draw seven cards. Exile this artifact.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "U"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "c3b04d8a-f651-4538-bc40-6f2c8e13fb99",
+      "component": "combo_piece",
+      "name": "Midnight Clock",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/c3b04d8a-f651-4538-bc40-6f2c8e13fb99"
+    },
+    {
+      "object": "related_card",
+      "id": "c153d43d-fb7c-47cd-8796-4a0f6ff53579",
+      "component": "combo_piece",
+      "name": "Rusko, Clockmaker",
+      "type_line": "Legendary Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/c153d43d-fb7c-47cd-8796-4a0f6ff53579"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c51de34b-d4d6-4179-a432-573744ded119",
+  "set": "ncc",
+  "set_name": "New Capenna Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/c51de34b-d4d6-4179-a432-573744ded119",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ancc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ncc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c3b04d8a-f651-4538-bc40-6f2c8e13fb99/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac68faebc-b2cd-461b-b93e-e1fcd4816810&unique=prints",
+  "collector_number": "226",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alexander Forssberg",
+  "artist_ids": [
+    "85908891-3cc7-42b0-9b54-27ed0fe89c53"
+  ],
+  "illustration_id": "7cbc3949-bca2-4029-a74d-7dbc1bf09fb0",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 514,
+  "penny_rank": 817,
+  "prices": {
+    "usd": "0.32",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.21",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=559798&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMidnight%2BClock",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMidnight%2BClock",
+    "edhrec": "https://edhrec.com/route/?cc=Midnight+Clock"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F269389%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=652810&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Midnight+Clock&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

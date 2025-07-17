@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "668232ab-5e58-49f3-804a-c938252ff177",
+  "oracle_id": "674202f0-6832-4392-a118-d513162bcd03",
+  "multiverse_ids": [
+    452895
+  ],
+  "mtgo_id": 69663,
+  "arena_id": 68606,
+  "tcgplayer_id": 176919,
+  "cardmarket_id": 364199,
+  "name": "Sprouting Renewal",
+  "lang": "en",
+  "released_at": "2018-10-05",
+  "uri": "https://api.scryfall.com/cards/668232ab-5e58-49f3-804a-c938252ff177",
+  "scryfall_uri": "https://scryfall.com/card/grn/145/sprouting-renewal?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/6/668232ab-5e58-49f3-804a-c938252ff177.jpg?1572893453",
+    "normal": "https://cards.scryfall.io/normal/front/6/6/668232ab-5e58-49f3-804a-c938252ff177.jpg?1572893453",
+    "large": "https://cards.scryfall.io/large/front/6/6/668232ab-5e58-49f3-804a-c938252ff177.jpg?1572893453",
+    "png": "https://cards.scryfall.io/png/front/6/6/668232ab-5e58-49f3-804a-c938252ff177.png?1572893453",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/6/668232ab-5e58-49f3-804a-c938252ff177.jpg?1572893453",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/6/668232ab-5e58-49f3-804a-c938252ff177.jpg?1572893453"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Sorcery",
+  "oracle_text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nChoose one —\n• Create a 2/2 green and white Elf Knight creature token with vigilance.\n• Destroy target artifact or enchantment.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Convoke"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "668232ab-5e58-49f3-804a-c938252ff177",
+      "component": "combo_piece",
+      "name": "Sprouting Renewal",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/668232ab-5e58-49f3-804a-c938252ff177"
+    },
+    {
+      "object": "related_card",
+      "id": "74506297-41ad-40e5-bb05-175650ff4907",
+      "component": "token",
+      "name": "Elf Knight",
+      "type_line": "Token Creature — Elf Knight",
+      "uri": "https://api.scryfall.com/cards/74506297-41ad-40e5-bb05-175650ff4907"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "597c6d4a-8212-4903-a6af-12c4ae9e13f0",
+  "set": "grn",
+  "set_name": "Guilds of Ravnica",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/597c6d4a-8212-4903-a6af-12c4ae9e13f0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Agrn&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/grn?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/668232ab-5e58-49f3-804a-c938252ff177/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A674202f0-6832-4392-a118-d513162bcd03&unique=prints",
+  "collector_number": "145",
+  "digital": false,
+  "rarity": "uncommon",
+  "watermark": "selesnya",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "James Paick",
+  "artist_ids": [
+    "1a7be0a2-d8ac-45c7-b0a0-eb0886f47b5f"
+  ],
+  "illustration_id": "35fbf394-c5e8-4a02-adb2-b674675f0dd1",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 15878,
+  "penny_rank": 6623,
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": "0.32",
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.17",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452895&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSprouting%2BRenewal",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSprouting%2BRenewal",
+    "edhrec": "https://edhrec.com/route/?cc=Sprouting+Renewal"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F176919%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=364199&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/69663?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

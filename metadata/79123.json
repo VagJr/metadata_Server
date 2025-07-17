@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "babd0a51-97f5-43d6-98db-e668ece3f16c",
+  "oracle_id": "2c63e4e1-89d2-4bc6-a232-94e75c4b1c8a",
+  "multiverse_ids": [],
+  "mtgo_id": 117366,
+  "tcgplayer_id": 517546,
+  "cardmarket_id": 740980,
+  "name": "Mana Crypt",
+  "lang": "en",
+  "released_at": "2023-11-17",
+  "uri": "https://api.scryfall.com/cards/babd0a51-97f5-43d6-98db-e668ece3f16c",
+  "scryfall_uri": "https://scryfall.com/card/spg/17f/mana-crypt?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/a/babd0a51-97f5-43d6-98db-e668ece3f16c.jpg?1698988726",
+    "normal": "https://cards.scryfall.io/normal/front/b/a/babd0a51-97f5-43d6-98db-e668ece3f16c.jpg?1698988726",
+    "large": "https://cards.scryfall.io/large/front/b/a/babd0a51-97f5-43d6-98db-e668ece3f16c.jpg?1698988726",
+    "png": "https://cards.scryfall.io/png/front/b/a/babd0a51-97f5-43d6-98db-e668ece3f16c.png?1698988726",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/a/babd0a51-97f5-43d6-98db-e668ece3f16c.jpg?1698988726",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/a/babd0a51-97f5-43d6-98db-e668ece3f16c.jpg?1698988726"
+  },
+  "mana_cost": "{0}",
+  "cmc": 0,
+  "type_line": "Artifact",
+  "oracle_text": "At the beginning of your upkeep, flip a coin. If you lose the flip, this artifact deals 3 damage to you.\n{T}: Add {C}{C}.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "banned",
+    "pauper": "not_legal",
+    "vintage": "restricted",
+    "penny": "not_legal",
+    "commander": "banned",
+    "oathbreaker": "banned",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "banned",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "banned"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c01003a2-b3e2-4e7f-a26d-2348144c8056",
+  "set": "spg",
+  "set_name": "Special Guests",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/c01003a2-b3e2-4e7f-a26d-2348144c8056",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aspg&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/spg?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/babd0a51-97f5-43d6-98db-e668ece3f16c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2c63e4e1-89d2-4bc6-a232-94e75c4b1c8a&unique=prints",
+  "collector_number": "17f",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "Many of the ancient civilizations beneath Ixalan were destroyed by outside forces. Others tapped into power they found they could not control.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dominik Mayer",
+  "artist_ids": [
+    "c3439c4a-1fee-4e33-9b89-18dac27ac927"
+  ],
+  "illustration_id": "c1f6355b-9148-4710-b534-24417b0ade95",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "neonink"
+  ],
+  "edhrec_rank": 243,
+  "prices": {
+    "usd": null,
+    "usd_foil": "313.85",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "311.40",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMana%2BCrypt",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMana%2BCrypt",
+    "edhrec": "https://edhrec.com/route/?cc=Mana+Crypt"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F517546%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=740980&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/117366?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

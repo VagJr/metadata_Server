@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "33129229-97c4-42f8-891f-8ca891c1ba66",
+  "oracle_id": "2705a288-3b9d-4452-a320-28b86331aa09",
+  "multiverse_ids": [],
+  "mtgo_id": 88208,
+  "name": "Runeforge Champion",
+  "lang": "en",
+  "released_at": "2021-02-28",
+  "uri": "https://api.scryfall.com/cards/33129229-97c4-42f8-891f-8ca891c1ba66",
+  "scryfall_uri": "https://scryfall.com/card/prm/88208/runeforge-champion?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/3/33129229-97c4-42f8-891f-8ca891c1ba66.jpg?1681079408",
+    "normal": "https://cards.scryfall.io/normal/front/3/3/33129229-97c4-42f8-891f-8ca891c1ba66.jpg?1681079408",
+    "large": "https://cards.scryfall.io/large/front/3/3/33129229-97c4-42f8-891f-8ca891c1ba66.jpg?1681079408",
+    "png": "https://cards.scryfall.io/png/front/3/3/33129229-97c4-42f8-891f-8ca891c1ba66.png?1681079408",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/3/33129229-97c4-42f8-891f-8ca891c1ba66.jpg?1681079408",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/3/33129229-97c4-42f8-891f-8ca891c1ba66.jpg?1681079408"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Creature — Dwarf Warrior",
+  "oracle_text": "When this creature enters, you may search your library and/or graveyard for a Rune card, reveal it, and put it into your hand. If you search your library this way, shuffle.\nYou may pay {1} rather than pay the mana cost for Rune spells you cast.",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/33129229-97c4-42f8-891f-8ca891c1ba66/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2705a288-3b9d-4452-a320-28b86331aa09&unique=prints",
+  "collector_number": "88208",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Andrey Kuzinskiy",
+  "artist_ids": [
+    "c04ff0b2-67a1-4238-82f7-6c67de734b56"
+  ],
+  "illustration_id": "66bd82d1-8498-416a-84da-e12a600f3b81",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 22951,
+  "penny_rank": 6409,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRuneforge%2BChampion",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRuneforge%2BChampion",
+    "edhrec": "https://edhrec.com/route/?cc=Runeforge+Champion"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DRuneforge%2BChampion%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Runeforge+Champion&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/88208?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

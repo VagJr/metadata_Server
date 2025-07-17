@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "e5b1b1dc-523c-4fce-baea-6f13971cc03b",
+  "oracle_id": "6bae00e8-06cf-4ac4-a1cc-757e454109fe",
+  "multiverse_ids": [],
+  "tcgplayer_id": 492648,
+  "name": "Ketria Triome",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/e5b1b1dc-523c-4fce-baea-6f13971cc03b",
+  "scryfall_uri": "https://scryfall.com/card/plst/IKO-250/ketria-triome?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/5/e5b1b1dc-523c-4fce-baea-6f13971cc03b.jpg?1681899140",
+    "normal": "https://cards.scryfall.io/normal/front/e/5/e5b1b1dc-523c-4fce-baea-6f13971cc03b.jpg?1681899140",
+    "large": "https://cards.scryfall.io/large/front/e/5/e5b1b1dc-523c-4fce-baea-6f13971cc03b.jpg?1681899140",
+    "png": "https://cards.scryfall.io/png/front/e/5/e5b1b1dc-523c-4fce-baea-6f13971cc03b.png?1681899140",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/5/e5b1b1dc-523c-4fce-baea-6f13971cc03b.jpg?1681899140",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/5/e5b1b1dc-523c-4fce-baea-6f13971cc03b.jpg?1681899140"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land — Forest Island Mountain",
+  "oracle_text": "({T}: Add {G}, {U}, or {R}.)\nThis land enters tapped.\nCycling {3} ({3}, Discard this card: Draw a card.)",
+  "colors": [],
+  "color_identity": [
+    "G",
+    "R",
+    "U"
+  ],
+  "keywords": [
+    "Cycling"
+  ],
+  "produced_mana": [
+    "G",
+    "R",
+    "U"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e5b1b1dc-523c-4fce-baea-6f13971cc03b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6bae00e8-06cf-4ac4-a1cc-757e454109fe&unique=prints",
+  "collector_number": "IKO-250",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Nowhere on Ikoria are monsters more integral to the landscape than Ketria, where the river itself will stand up and roar.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Sam Burley",
+  "artist_ids": [
+    "f89f4b78-cefb-41f7-b7cb-4f4d28de0c4f"
+  ],
+  "illustration_id": "79b30853-3e97-4c18-bd8e-e7f5495c11a1",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 339,
+  "prices": {
+    "usd": "14.73",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKetria%2BTriome",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKetria%2BTriome",
+    "edhrec": "https://edhrec.com/route/?cc=Ketria+Triome"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F492648%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ketria+Triome&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ketria+Triome&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

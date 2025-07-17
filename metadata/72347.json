@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "aab03d01-ec92-473d-b983-18cf5f06ff39",
+  "oracle_id": "24661b81-6bee-4ad8-b3ab-53cb65005c51",
+  "multiverse_ids": [
+    509361
+  ],
+  "mtgo_id": 87201,
+  "tcgplayer_id": 232587,
+  "cardmarket_id": 567153,
+  "name": "Goblin Rabblemaster",
+  "lang": "en",
+  "released_at": "2021-02-12",
+  "uri": "https://api.scryfall.com/cards/aab03d01-ec92-473d-b983-18cf5f06ff39",
+  "scryfall_uri": "https://scryfall.com/card/sld/215/goblin-rabblemaster?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/a/aab03d01-ec92-473d-b983-18cf5f06ff39.jpg?1682690918",
+    "normal": "https://cards.scryfall.io/normal/front/a/a/aab03d01-ec92-473d-b983-18cf5f06ff39.jpg?1682690918",
+    "large": "https://cards.scryfall.io/large/front/a/a/aab03d01-ec92-473d-b983-18cf5f06ff39.jpg?1682690918",
+    "png": "https://cards.scryfall.io/png/front/a/a/aab03d01-ec92-473d-b983-18cf5f06ff39.png?1682690918",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/a/aab03d01-ec92-473d-b983-18cf5f06ff39.jpg?1682690918",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/a/aab03d01-ec92-473d-b983-18cf5f06ff39.jpg?1682690918"
+  },
+  "mana_cost": "{2}{R}",
+  "cmc": 3,
+  "type_line": "Creature — Goblin Warrior",
+  "oracle_text": "Other Goblin creatures you control attack each combat if able.\nAt the beginning of combat on your turn, create a 1/1 red Goblin creature token with haste.\nWhenever this creature attacks, it gets +1/+0 until end of turn for each other attacking Goblin.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "aab03d01-ec92-473d-b983-18cf5f06ff39",
+      "component": "combo_piece",
+      "name": "Goblin Rabblemaster",
+      "type_line": "Creature — Goblin Warrior",
+      "uri": "https://api.scryfall.com/cards/aab03d01-ec92-473d-b983-18cf5f06ff39"
+    },
+    {
+      "object": "related_card",
+      "id": "d99cc0a4-4868-47f3-bd1d-f46b7cb74650",
+      "component": "token",
+      "name": "Goblin",
+      "type_line": "Token Creature — Goblin",
+      "uri": "https://api.scryfall.com/cards/d99cc0a4-4868-47f3-bd1d-f46b7cb74650"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/aab03d01-ec92-473d-b983-18cf5f06ff39/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A24661b81-6bee-4ad8-b3ab-53cb65005c51&unique=prints",
+  "collector_number": "215",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Brandi Milne",
+  "artist_ids": [
+    "01cc1b83-03de-40a7-aa38-a9d23cf2fe8b"
+  ],
+  "illustration_id": "147d54e1-608f-4051-bbd0-ef759115ac06",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3850,
+  "penny_rank": 1829,
+  "prices": {
+    "usd": "6.70",
+    "usd_foil": "7.10",
+    "usd_etched": null,
+    "eur": "6.74",
+    "eur_foil": "9.69",
+    "tix": "0.48"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=509361&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGoblin%2BRabblemaster",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGoblin%2BRabblemaster",
+    "edhrec": "https://edhrec.com/route/?cc=Goblin+Rabblemaster"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F232587%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=567153&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/87201?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

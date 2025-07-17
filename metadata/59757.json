@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "8d477ed5-64e2-46cf-adbd-3607743117ca",
+  "oracle_id": "2038138e-2e52-41e4-90fc-443fa054c5c0",
+  "multiverse_ids": [],
+  "cardmarket_id": 832284,
+  "name": "Shoot the Sheriff",
+  "lang": "en",
+  "released_at": "2025-08-02",
+  "uri": "https://api.scryfall.com/cards/8d477ed5-64e2-46cf-adbd-3607743117ca",
+  "scryfall_uri": "https://scryfall.com/card/slp/43/shoot-the-sheriff?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/d/8d477ed5-64e2-46cf-adbd-3607743117ca.jpg?1751362017",
+    "normal": "https://cards.scryfall.io/normal/front/8/d/8d477ed5-64e2-46cf-adbd-3607743117ca.jpg?1751362017",
+    "large": "https://cards.scryfall.io/large/front/8/d/8d477ed5-64e2-46cf-adbd-3607743117ca.jpg?1751362017",
+    "png": "https://cards.scryfall.io/png/front/8/d/8d477ed5-64e2-46cf-adbd-3607743117ca.png?1751362017",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/d/8d477ed5-64e2-46cf-adbd-3607743117ca.jpg?1751362017",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/d/8d477ed5-64e2-46cf-adbd-3607743117ca.jpg?1751362017"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Destroy target non-outlaw creature. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws. Everyone else is fair game.)",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c325b3f9-51e1-416b-83b1-138f11790dd1",
+  "set": "slp",
+  "set_name": "Secret Lair Showdown",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/c325b3f9-51e1-416b-83b1-138f11790dd1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aslp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/slp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8d477ed5-64e2-46cf-adbd-3607743117ca/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2038138e-2e52-41e4-90fc-443fa054c5c0&unique=prints",
+  "collector_number": "43",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dan Black",
+  "artist_ids": [
+    "a0067a9e-3641-45da-979c-0d5e2b896966"
+  ],
+  "illustration_id": "b6fd8e61-f8fd-497a-a476-06d1056474d8",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "poster"
+  ],
+  "edhrec_rank": 5131,
+  "penny_rank": 103,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "5.00",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DShoot%2Bthe%2BSheriff",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DShoot%2Bthe%2BSheriff",
+    "edhrec": "https://edhrec.com/route/?cc=Shoot+the+Sheriff"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DShoot%2Bthe%2BSheriff%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=832284&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Shoot+the+Sheriff&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

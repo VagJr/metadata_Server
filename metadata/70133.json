@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "a57b0e38-8931-4715-ac13-b3af30b27895",
+  "oracle_id": "afeba4d7-b659-4fb1-84dd-27704fbb2621",
+  "multiverse_ids": [
+    571583
+  ],
+  "mtgo_id": 101984,
+  "tcgplayer_id": 276352,
+  "cardmarket_id": 664243,
+  "name": "Master Biomancer",
+  "lang": "en",
+  "released_at": "2022-07-08",
+  "uri": "https://api.scryfall.com/cards/a57b0e38-8931-4715-ac13-b3af30b27895",
+  "scryfall_uri": "https://scryfall.com/card/2x2/250/master-biomancer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/5/a57b0e38-8931-4715-ac13-b3af30b27895.jpg?1673148936",
+    "normal": "https://cards.scryfall.io/normal/front/a/5/a57b0e38-8931-4715-ac13-b3af30b27895.jpg?1673148936",
+    "large": "https://cards.scryfall.io/large/front/a/5/a57b0e38-8931-4715-ac13-b3af30b27895.jpg?1673148936",
+    "png": "https://cards.scryfall.io/png/front/a/5/a57b0e38-8931-4715-ac13-b3af30b27895.png?1673148936",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/5/a57b0e38-8931-4715-ac13-b3af30b27895.jpg?1673148936",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/5/a57b0e38-8931-4715-ac13-b3af30b27895.jpg?1673148936"
+  },
+  "mana_cost": "{2}{G}{U}",
+  "cmc": 4,
+  "type_line": "Creature — Elf Wizard",
+  "oracle_text": "Each other creature you control enters with a number of additional +1/+1 counters on it equal to this creature's power and as a Mutant in addition to its other types.",
+  "power": "2",
+  "toughness": "4",
+  "colors": [
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5a645837-b050-449f-ac90-1e7ccbf45031",
+  "set": "2x2",
+  "set_name": "Double Masters 2022",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/5a645837-b050-449f-ac90-1e7ccbf45031",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A2x2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/2x2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a57b0e38-8931-4715-ac13-b3af30b27895/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aafeba4d7-b659-4fb1-84dd-27704fbb2621&unique=prints",
+  "collector_number": "250",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Nature is a wonderful engineer but works far too slowly for my tastes.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Willian Murai",
+  "artist_ids": [
+    "5a553c8e-e3b9-40e0-bde5-1db621c53939"
+  ],
+  "illustration_id": "1f6c48f7-6b23-4c7c-a835-30b1cd729c60",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2428,
+  "penny_rank": 13934,
+  "preview": {
+    "source": "The Third Power",
+    "source_uri": "https://www.mtgcast.com/podcasts/the-third-power/posts/the-third-power-episode-84-multitalented-and-multicolor-the-third-power-s-double-masters-2022-preview-episode-f4fc7fefce",
+    "previewed_at": "2022-06-17"
+  },
+  "prices": {
+    "usd": "1.10",
+    "usd_foil": "2.48",
+    "usd_etched": null,
+    "eur": "0.50",
+    "eur_foil": "0.89",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=571583&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMaster%2BBiomancer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMaster%2BBiomancer",
+    "edhrec": "https://edhrec.com/route/?cc=Master+Biomancer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F276352%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=664243&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/101984?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

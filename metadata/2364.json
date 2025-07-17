@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "0579d842-7b36-4b83-bba9-60864104bcae",
+  "oracle_id": "a7ac5d98-805e-4212-be94-333a0c0c44a7",
+  "multiverse_ids": [],
+  "tcgplayer_id": 492002,
+  "name": "Brudiclad, Telchor Engineer",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/0579d842-7b36-4b83-bba9-60864104bcae",
+  "scryfall_uri": "https://scryfall.com/card/mul/166z/brudiclad-telchor-engineer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/5/0579d842-7b36-4b83-bba9-60864104bcae.jpg?1682485010",
+    "normal": "https://cards.scryfall.io/normal/front/0/5/0579d842-7b36-4b83-bba9-60864104bcae.jpg?1682485010",
+    "large": "https://cards.scryfall.io/large/front/0/5/0579d842-7b36-4b83-bba9-60864104bcae.jpg?1682485010",
+    "png": "https://cards.scryfall.io/png/front/0/5/0579d842-7b36-4b83-bba9-60864104bcae.png?1682485010",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/5/0579d842-7b36-4b83-bba9-60864104bcae.jpg?1682485010",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/5/0579d842-7b36-4b83-bba9-60864104bcae.jpg?1682485010"
+  },
+  "mana_cost": "{4}{U}{R}",
+  "cmc": 6,
+  "type_line": "Legendary Artifact Creature — Phyrexian Artificer",
+  "oracle_text": "Creature tokens you control have haste.\nAt the beginning of combat on your turn, create a 2/1 blue Phyrexian Myr artifact creature token. Then you may choose a token you control. If you do, each other token you control becomes a copy of that token.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "0579d842-7b36-4b83-bba9-60864104bcae",
+      "component": "combo_piece",
+      "name": "Brudiclad, Telchor Engineer",
+      "type_line": "Legendary Artifact Creature — Phyrexian Artificer",
+      "uri": "https://api.scryfall.com/cards/0579d842-7b36-4b83-bba9-60864104bcae"
+    },
+    {
+      "object": "related_card",
+      "id": "46e4ef38-0885-4c3d-8851-0a873d9f0a22",
+      "component": "token",
+      "name": "Phyrexian Myr",
+      "type_line": "Token Artifact Creature — Phyrexian Myr",
+      "uri": "https://api.scryfall.com/cards/46e4ef38-0885-4c3d-8851-0a873d9f0a22"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a3f8daea-b24e-4e5c-a4d9-ec8910e9078a",
+  "set": "mul",
+  "set_name": "Multiverse Legends",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/a3f8daea-b24e-4e5c-a4d9-ec8910e9078a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amul&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mul?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0579d842-7b36-4b83-bba9-60864104bcae/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa7ac5d98-805e-4212-be94-333a0c0c44a7&unique=prints",
+  "collector_number": "166z",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "JungShan",
+  "artist_ids": [
+    "7a21e51d-6432-4132-ad64-fa149edb3e08"
+  ],
+  "illustration_id": "04b33896-2c4e-4dd3-b446-491433b9b026",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "serialized",
+    "doublerainbow"
+  ],
+  "edhrec_rank": 1867,
+  "penny_rank": 12921,
+  "prices": {
+    "usd": null,
+    "usd_foil": "194.47",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBrudiclad%252C%2BTelchor%2BEngineer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBrudiclad%252C%2BTelchor%2BEngineer",
+    "edhrec": "https://edhrec.com/route/?cc=Brudiclad%2C+Telchor+Engineer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F492002%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Brudiclad%2C+Telchor+Engineer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Brudiclad%2C+Telchor+Engineer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

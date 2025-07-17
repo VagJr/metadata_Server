@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "16b07c01-bacb-4f3b-9910-c58abae4a54a",
+  "oracle_id": "93ab7462-ceef-4bc7-a9fe-8af8ceb78e1c",
+  "multiverse_ids": [],
+  "mtgo_id": 92818,
+  "name": "Skeletal Swarming",
+  "lang": "en",
+  "released_at": "2021-10-11",
+  "uri": "https://api.scryfall.com/cards/16b07c01-bacb-4f3b-9910-c58abae4a54a",
+  "scryfall_uri": "https://scryfall.com/card/prm/92818/skeletal-swarming?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/6/16b07c01-bacb-4f3b-9910-c58abae4a54a.jpg?1681083002",
+    "normal": "https://cards.scryfall.io/normal/front/1/6/16b07c01-bacb-4f3b-9910-c58abae4a54a.jpg?1681083002",
+    "large": "https://cards.scryfall.io/large/front/1/6/16b07c01-bacb-4f3b-9910-c58abae4a54a.jpg?1681083002",
+    "png": "https://cards.scryfall.io/png/front/1/6/16b07c01-bacb-4f3b-9910-c58abae4a54a.png?1681083002",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/6/16b07c01-bacb-4f3b-9910-c58abae4a54a.jpg?1681083002",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/6/16b07c01-bacb-4f3b-9910-c58abae4a54a.jpg?1681083002"
+  },
+  "mana_cost": "{3}{B}{G}",
+  "cmc": 5,
+  "type_line": "Enchantment",
+  "oracle_text": "Each Skeleton you control has trample, attacks each combat if able, and gets +X/+0, where X is the number of other Skeletons you control.\nAt the beginning of your end step, create a tapped 1/1 black Skeleton creature token. If a creature died this turn, create two of those tokens instead.",
+  "colors": [
+    "B",
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "b63b11cd-4a96-49d5-aee1-b0ff02ef49bb",
+      "component": "token",
+      "name": "Skeleton",
+      "type_line": "Token Creature — Skeleton",
+      "uri": "https://api.scryfall.com/cards/b63b11cd-4a96-49d5-aee1-b0ff02ef49bb"
+    },
+    {
+      "object": "related_card",
+      "id": "16b07c01-bacb-4f3b-9910-c58abae4a54a",
+      "component": "combo_piece",
+      "name": "Skeletal Swarming",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/16b07c01-bacb-4f3b-9910-c58abae4a54a"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/16b07c01-bacb-4f3b-9910-c58abae4a54a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A93ab7462-ceef-4bc7-a9fe-8af8ceb78e1c&unique=prints",
+  "collector_number": "92818",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Svetlin Velinov",
+  "artist_ids": [
+    "ffd063ae-c097-4f26-b2e6-b1e2137708bc"
+  ],
+  "illustration_id": "667200d6-1977-4ef8-8a49-cee54a61386e",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 13782,
+  "penny_rank": 6200,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSkeletal%2BSwarming",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSkeletal%2BSwarming",
+    "edhrec": "https://edhrec.com/route/?cc=Skeletal+Swarming"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSkeletal%2BSwarming%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Skeletal+Swarming&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/92818?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

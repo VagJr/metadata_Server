@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "0dcf26d2-4fe0-41cf-8fb9-cb2c529b109b",
+  "oracle_id": "40d45c02-6416-4e19-8fe3-0ddadf5ba627",
+  "multiverse_ids": [],
+  "tcgplayer_id": 641848,
+  "cardmarket_id": 833884,
+  "name": "Blinkmoth Nexus",
+  "lang": "en",
+  "released_at": "2025-08-01",
+  "uri": "https://api.scryfall.com/cards/0dcf26d2-4fe0-41cf-8fb9-cb2c529b109b",
+  "scryfall_uri": "https://scryfall.com/card/eos/93/blinkmoth-nexus?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/d/0dcf26d2-4fe0-41cf-8fb9-cb2c529b109b.jpg?1751990487",
+    "normal": "https://cards.scryfall.io/normal/front/0/d/0dcf26d2-4fe0-41cf-8fb9-cb2c529b109b.jpg?1751990487",
+    "large": "https://cards.scryfall.io/large/front/0/d/0dcf26d2-4fe0-41cf-8fb9-cb2c529b109b.jpg?1751990487",
+    "png": "https://cards.scryfall.io/png/front/0/d/0dcf26d2-4fe0-41cf-8fb9-cb2c529b109b.png?1751990487",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/d/0dcf26d2-4fe0-41cf-8fb9-cb2c529b109b.jpg?1751990487",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/d/0dcf26d2-4fe0-41cf-8fb9-cb2c529b109b.jpg?1751990487"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "{T}: Add {C}.\n{1}: This land becomes a 1/1 Blinkmoth artifact creature with flying until end of turn. It's still a land.\n{1}, {T}: Target Blinkmoth creature gets +1/+1 until end of turn.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "538306e5-d40a-44c0-b9df-2f6c4b130c9f",
+  "set": "eos",
+  "set_name": "Edge of Eternities: Stellar Sights",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/538306e5-d40a-44c0-b9df-2f6c4b130c9f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aeos&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/eos?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0dcf26d2-4fe0-41cf-8fb9-cb2c529b109b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A40d45c02-6416-4e19-8fe3-0ddadf5ba627&unique=prints",
+  "collector_number": "93",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Calder Moore",
+  "artist_ids": [
+    "af6862b1-2e08-445f-b709-37ef4c00c4db"
+  ],
+  "illustration_id": "d5aad960-4c15-4f93-b663-324bd206e76f",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "galaxyfoil",
+    "boosterfun"
+  ],
+  "edhrec_rank": 3004,
+  "penny_rank": 551,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/products/edge-of-eternities/card-image-gallery",
+    "previewed_at": "2025-07-08"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlinkmoth%2BNexus",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlinkmoth%2BNexus",
+    "edhrec": "https://edhrec.com/route/?cc=Blinkmoth+Nexus"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F641848%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=833884&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blinkmoth+Nexus&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

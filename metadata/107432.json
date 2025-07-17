@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "fe0c1b06-30f2-42bd-bdcb-169fb6bc0b3f",
+  "oracle_id": "e6e6e3d2-f2fb-46a1-8798-13a2f2efe8cc",
+  "multiverse_ids": [],
+  "tcgplayer_id": 635831,
+  "name": "The Wandering Minstrel",
+  "lang": "en",
+  "released_at": "2025-06-13",
+  "uri": "https://api.scryfall.com/cards/fe0c1b06-30f2-42bd-bdcb-169fb6bc0b3f",
+  "scryfall_uri": "https://scryfall.com/card/pfin/249s/the-wandering-minstrel?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/e/fe0c1b06-30f2-42bd-bdcb-169fb6bc0b3f.jpg?1750536385",
+    "normal": "https://cards.scryfall.io/normal/front/f/e/fe0c1b06-30f2-42bd-bdcb-169fb6bc0b3f.jpg?1750536385",
+    "large": "https://cards.scryfall.io/large/front/f/e/fe0c1b06-30f2-42bd-bdcb-169fb6bc0b3f.jpg?1750536385",
+    "png": "https://cards.scryfall.io/png/front/f/e/fe0c1b06-30f2-42bd-bdcb-169fb6bc0b3f.png?1750536385",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/e/fe0c1b06-30f2-42bd-bdcb-169fb6bc0b3f.jpg?1750536385",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/e/fe0c1b06-30f2-42bd-bdcb-169fb6bc0b3f.jpg?1750536385"
+  },
+  "mana_cost": "{G}{U}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Human Bard",
+  "oracle_text": "Lands you control enter untapped.\nThe Minstrel's Ballad — At the beginning of combat on your turn, if you control five or more Towns, create a 2/2 Elemental creature token that's all colors.\n{3}{W}{U}{B}{R}{G}: Other creatures you control get +X/+X until end of turn, where X is the number of Towns you control.",
+  "power": "1",
+  "toughness": "3",
+  "colors": [
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "fe592a5c-5e6e-40ed-8818-f4651bcf2fe8",
+      "component": "token",
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "uri": "https://api.scryfall.com/cards/fe592a5c-5e6e-40ed-8818-f4651bcf2fe8"
+    },
+    {
+      "object": "related_card",
+      "id": "fe0c1b06-30f2-42bd-bdcb-169fb6bc0b3f",
+      "component": "combo_piece",
+      "name": "The Wandering Minstrel",
+      "type_line": "Legendary Creature — Human Bard",
+      "uri": "https://api.scryfall.com/cards/fe0c1b06-30f2-42bd-bdcb-169fb6bc0b3f"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "ff405aba-0309-4694-a6d5-e657024f7ad0",
+  "set": "pfin",
+  "set_name": "Final Fantasy Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/ff405aba-0309-4694-a6d5-e657024f7ad0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apfin&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pfin?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/fe0c1b06-30f2-42bd-bdcb-169fb6bc0b3f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae6e6e3d2-f2fb-46a1-8798-13a2f2efe8cc&unique=prints",
+  "collector_number": "249s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Thanh Tuấn",
+  "artist_ids": [
+    "4092d03e-ede3-4946-bfdc-888fff30cfdf"
+  ],
+  "illustration_id": "69e937a2-2690-4154-999d-ae692f9296c7",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 11283,
+  "prices": {
+    "usd": null,
+    "usd_foil": "8.22",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThe%2BWandering%2BMinstrel",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThe%2BWandering%2BMinstrel",
+    "edhrec": "https://edhrec.com/route/?cc=The+Wandering+Minstrel"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F635831%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=The+Wandering+Minstrel&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=The+Wandering+Minstrel&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "5acf9403-84ab-4a93-85dd-8003c8601fa5",
+  "oracle_id": "6dbef43d-40d3-4894-86a5-d31a5026604e",
+  "multiverse_ids": [
+    681908
+  ],
+  "arena_id": 92989,
+  "tcgplayer_id": 590310,
+  "cardmarket_id": 796510,
+  "name": "Extinguish the Light",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/5acf9403-84ab-4a93-85dd-8003c8601fa5",
+  "scryfall_uri": "https://scryfall.com/card/j25/438/extinguish-the-light?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/a/5acf9403-84ab-4a93-85dd-8003c8601fa5.jpg?1730487277",
+    "normal": "https://cards.scryfall.io/normal/front/5/a/5acf9403-84ab-4a93-85dd-8003c8601fa5.jpg?1730487277",
+    "large": "https://cards.scryfall.io/large/front/5/a/5acf9403-84ab-4a93-85dd-8003c8601fa5.jpg?1730487277",
+    "png": "https://cards.scryfall.io/png/front/5/a/5acf9403-84ab-4a93-85dd-8003c8601fa5.png?1730487277",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/a/5acf9403-84ab-4a93-85dd-8003c8601fa5.jpg?1730487277",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/a/5acf9403-84ab-4a93-85dd-8003c8601fa5.jpg?1730487277"
+  },
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4,
+  "type_line": "Instant",
+  "oracle_text": "Destroy target creature or planeswalker. If its mana value was 3 or less, you gain 3 life.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9201567c-bab5-4720-aac9-260e6741f115",
+  "set": "j25",
+  "set_name": "Foundations Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/9201567c-bab5-4720-aac9-260e6741f115",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj25&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j25?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5acf9403-84ab-4a93-85dd-8003c8601fa5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6dbef43d-40d3-4894-86a5-d31a5026604e&unique=prints",
+  "collector_number": "438",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Jaya did not want to die, but of all the things to die for, Dominaria felt right.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ekaterina Burmak",
+  "artist_ids": [
+    "2a9f3780-fcc8-4ec5-b403-ee1d1370d3b4"
+  ],
+  "illustration_id": "cc33397a-9140-4704-a33c-af1ad271c207",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 18259,
+  "penny_rank": 14571,
+  "prices": {
+    "usd": "0.05",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.10",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=681908&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DExtinguish%2Bthe%2BLight",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DExtinguish%2Bthe%2BLight",
+    "edhrec": "https://edhrec.com/route/?cc=Extinguish+the+Light"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F590310%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=796510&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Extinguish+the+Light&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

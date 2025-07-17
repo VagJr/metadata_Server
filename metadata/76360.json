@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "b441a33a-3459-4d33-b733-7084335a16cd",
+  "oracle_id": "e26bf6a9-b31c-4bc0-b55b-c01f2f69be6b",
+  "multiverse_ids": [],
+  "tcgplayer_id": 516585,
+  "name": "Nicol Bolas",
+  "printed_name": "ニコル・ボーラス",
+  "lang": "ja",
+  "released_at": "2023-09-29",
+  "uri": "https://api.scryfall.com/cards/b441a33a-3459-4d33-b733-7084335a16cd",
+  "scryfall_uri": "https://scryfall.com/card/pmda/1/ja/%E3%83%8B%E3%82%B3%E3%83%AB%E3%83%BB%E3%83%9C%E3%83%BC%E3%83%A9%E3%82%B9-(nicol-bolas)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/4/b441a33a-3459-4d33-b733-7084335a16cd.jpg?1733501507",
+    "normal": "https://cards.scryfall.io/normal/front/b/4/b441a33a-3459-4d33-b733-7084335a16cd.jpg?1733501507",
+    "large": "https://cards.scryfall.io/large/front/b/4/b441a33a-3459-4d33-b733-7084335a16cd.jpg?1733501507",
+    "png": "https://cards.scryfall.io/png/front/b/4/b441a33a-3459-4d33-b733-7084335a16cd.png?1733501507",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/4/b441a33a-3459-4d33-b733-7084335a16cd.jpg?1733501507",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/4/b441a33a-3459-4d33-b733-7084335a16cd.jpg?1733501507"
+  },
+  "mana_cost": "{2}{U}{U}{B}{B}{R}{R}",
+  "cmc": 8,
+  "type_line": "Legendary Creature — Elder Dragon",
+  "printed_type_line": "伝説のクリーチャー — エルダー・ドラゴン",
+  "oracle_text": "Flying\nAt the beginning of your upkeep, sacrifice Nicol Bolas unless you pay {U}{B}{R}.\nWhenever Nicol Bolas deals damage to an opponent, that player discards their hand.",
+  "printed_text": "飛行\nあなたのアップキープの開始時に、あなたが{U}{B}{R}を支払わないかぎり、ニコル・ボーラスを生け贄に捧げる。\nニコル・ボーラスが対戦相手１人にダメージを与えるたび、そのプレイヤーは自分の手札を捨てる。",
+  "power": "7",
+  "toughness": "7",
+  "colors": [
+    "B",
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "R",
+    "U"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "0cd69528-1ce7-46e0-ac5e-fd10f8699d33",
+  "set": "pmda",
+  "set_name": "Magic × Duel Masters Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/0cd69528-1ce7-46e0-ac5e-fd10f8699d33",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apmda&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pmda?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b441a33a-3459-4d33-b733-7084335a16cd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae26bf6a9-b31c-4bc0-b55b-c01f2f69be6b&unique=prints",
+  "collector_number": "1",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "ニコル・ボーラスは手下と犠牲者を区別しない。",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Takayama Toshiaki",
+  "artist_ids": [
+    "a4879110-33bc-4261-8e00-30b897df509b"
+  ],
+  "illustration_id": "97c7d05a-3ee7-4e4b-9421-24b5fe514895",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "fnm"
+  ],
+  "edhrec_rank": 10996,
+  "penny_rank": 8343,
+  "prices": {
+    "usd": null,
+    "usd_foil": "69.79",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNicol%2BBolas",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNicol%2BBolas",
+    "edhrec": "https://edhrec.com/route/?cc=Nicol+Bolas"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F516585%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nicol+Bolas&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nicol+Bolas&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "410e8975-48d3-46cf-b86c-87c5c10480be",
+  "oracle_id": "f5896356-5744-4f7e-a4e5-1cc36dde5958",
+  "multiverse_ids": [],
+  "mtgo_id": 99691,
+  "name": "Jetmir's Garden",
+  "lang": "en",
+  "released_at": "2022-07-18",
+  "uri": "https://api.scryfall.com/cards/410e8975-48d3-46cf-b86c-87c5c10480be",
+  "scryfall_uri": "https://scryfall.com/card/prm/99691/jetmirs-garden?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/1/410e8975-48d3-46cf-b86c-87c5c10480be.jpg?1681135754",
+    "normal": "https://cards.scryfall.io/normal/front/4/1/410e8975-48d3-46cf-b86c-87c5c10480be.jpg?1681135754",
+    "large": "https://cards.scryfall.io/large/front/4/1/410e8975-48d3-46cf-b86c-87c5c10480be.jpg?1681135754",
+    "png": "https://cards.scryfall.io/png/front/4/1/410e8975-48d3-46cf-b86c-87c5c10480be.png?1681135754",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/1/410e8975-48d3-46cf-b86c-87c5c10480be.jpg?1681135754",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/1/410e8975-48d3-46cf-b86c-87c5c10480be.jpg?1681135754"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land — Mountain Forest Plains",
+  "oracle_text": "({T}: Add {R}, {G}, or {W}.)\nThis land enters tapped.\nCycling {3} ({3}, Discard this card: Draw a card.)",
+  "colors": [],
+  "color_identity": [
+    "G",
+    "R",
+    "W"
+  ],
+  "keywords": [
+    "Cycling"
+  ],
+  "produced_mana": [
+    "G",
+    "R",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/410e8975-48d3-46cf-b86c-87c5c10480be/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af5896356-5744-4f7e-a4e5-1cc36dde5958&unique=prints",
+  "collector_number": "99691",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dominik Mayer",
+  "artist_ids": [
+    "c3439c4a-1fee-4e33-9b89-18dac27ac927"
+  ],
+  "illustration_id": "2acbfbf0-6119-49ac-b878-e34c0f1e7047",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 324,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "3.91"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJetmir%2527s%2BGarden",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJetmir%2527s%2BGarden",
+    "edhrec": "https://edhrec.com/route/?cc=Jetmir%27s+Garden"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DJetmir%2527s%2BGarden%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Jetmir%27s+Garden&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/99691?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

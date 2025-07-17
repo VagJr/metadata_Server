@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "7373c825-0d31-4736-88fe-b46adc8251ca",
+  "oracle_id": "12367806-5924-485c-814a-5b67dd79235e",
+  "multiverse_ids": [],
+  "mtgo_id": 103422,
+  "name": "Evolved Sleeper",
+  "lang": "en",
+  "released_at": "2022-11-28",
+  "uri": "https://api.scryfall.com/cards/7373c825-0d31-4736-88fe-b46adc8251ca",
+  "scryfall_uri": "https://scryfall.com/card/prm/103422/evolved-sleeper?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/3/7373c825-0d31-4736-88fe-b46adc8251ca.jpg?1681137253",
+    "normal": "https://cards.scryfall.io/normal/front/7/3/7373c825-0d31-4736-88fe-b46adc8251ca.jpg?1681137253",
+    "large": "https://cards.scryfall.io/large/front/7/3/7373c825-0d31-4736-88fe-b46adc8251ca.jpg?1681137253",
+    "png": "https://cards.scryfall.io/png/front/7/3/7373c825-0d31-4736-88fe-b46adc8251ca.png?1681137253",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/3/7373c825-0d31-4736-88fe-b46adc8251ca.jpg?1681137253",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/3/7373c825-0d31-4736-88fe-b46adc8251ca.jpg?1681137253"
+  },
+  "mana_cost": "{B}",
+  "cmc": 1,
+  "type_line": "Creature — Human",
+  "oracle_text": "{B}: This creature becomes a Human Cleric with base power and toughness 2/2.\n{1}{B}: If this creature is a Cleric, put a deathtouch counter on it and it becomes a Phyrexian Human Cleric with base power and toughness 3/3.\n{1}{B}{B}: If this creature is a Phyrexian, put a +1/+1 counter on it, then you draw a card and you lose 1 life.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7373c825-0d31-4736-88fe-b46adc8251ca/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A12367806-5924-485c-814a-5b67dd79235e&unique=prints",
+  "collector_number": "103422",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason A. Engle",
+  "artist_ids": [
+    "02e2b5de-4341-464c-8fdb-a1adbf873bc0"
+  ],
+  "illustration_id": "93eb16d8-a415-4fb2-9e46-a8341d913829",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 13002,
+  "penny_rank": 1007,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.69"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEvolved%2BSleeper",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEvolved%2BSleeper",
+    "edhrec": "https://edhrec.com/route/?cc=Evolved+Sleeper"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DEvolved%2BSleeper%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Evolved+Sleeper&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/103422?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

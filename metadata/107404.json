@@ -1,0 +1,138 @@
+{
+  "object": "card",
+  "id": "fdfd629b-d14d-4f8a-8392-0330289d6f39",
+  "oracle_id": "13a3e61d-c9ff-447d-9016-09a183b7af1d",
+  "multiverse_ids": [],
+  "tcgplayer_id": 527707,
+  "name": "Tazri, Stalwart Survivor",
+  "lang": "en",
+  "released_at": "2023-11-17",
+  "uri": "https://api.scryfall.com/cards/fdfd629b-d14d-4f8a-8392-0330289d6f39",
+  "scryfall_uri": "https://scryfall.com/card/pmat/6p/tazri-stalwart-survivor?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/d/fdfd629b-d14d-4f8a-8392-0330289d6f39.jpg?1707677108",
+    "normal": "https://cards.scryfall.io/normal/front/f/d/fdfd629b-d14d-4f8a-8392-0330289d6f39.jpg?1707677108",
+    "large": "https://cards.scryfall.io/large/front/f/d/fdfd629b-d14d-4f8a-8392-0330289d6f39.jpg?1707677108",
+    "png": "https://cards.scryfall.io/png/front/f/d/fdfd629b-d14d-4f8a-8392-0330289d6f39.png?1707677108",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/d/fdfd629b-d14d-4f8a-8392-0330289d6f39.jpg?1707677108",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/d/fdfd629b-d14d-4f8a-8392-0330289d6f39.jpg?1707677108"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Human Warrior",
+  "oracle_text": "Each creature you control has \"{T}: Add one mana of any of this creature's colors. Spend this mana only to activate an ability of a creature. Activate only if this creature has another activated ability.\"\n{W}{U}{B}{R}{G}, {T}: Mill five cards. Put all creature cards with activated abilities that aren't mana abilities from among the milled cards into your hand.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "064626d0-7536-42b9-89a8-334c66fd88ae",
+  "set": "pmat",
+  "set_name": "March of the Machine: The Aftermath Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/064626d0-7536-42b9-89a8-334c66fd88ae",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apmat&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pmat?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/fdfd629b-d14d-4f8a-8392-0330289d6f39/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A13a3e61d-c9ff-447d-9016-09a183b7af1d&unique=prints",
+  "collector_number": "6p",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Manuel Castañón",
+  "artist_ids": [
+    "35f11eeb-36ff-4059-bb70-d1274f5bd858"
+  ],
+  "illustration_id": "2bf307b0-25c7-44d0-87a9-cc98a58b229a",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 14892,
+  "prices": {
+    "usd": "0.52",
+    "usd_foil": "0.10",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTazri%252C%2BStalwart%2BSurvivor",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTazri%252C%2BStalwart%2BSurvivor",
+    "edhrec": "https://edhrec.com/route/?cc=Tazri%2C+Stalwart+Survivor"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F527707%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tazri%2C+Stalwart+Survivor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tazri%2C+Stalwart+Survivor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

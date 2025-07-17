@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "5c7cebae-6ba2-4cf1-a442-2c7a4fbc58da",
+  "oracle_id": "9d1f9036-a466-46b6-ab7c-2de487876978",
+  "multiverse_ids": [],
+  "tcgplayer_id": 202877,
+  "cardmarket_id": 415656,
+  "name": "Countless Gears Renegade",
+  "lang": "en",
+  "released_at": "2019-11-07",
+  "uri": "https://api.scryfall.com/cards/5c7cebae-6ba2-4cf1-a442-2c7a4fbc58da",
+  "scryfall_uri": "https://scryfall.com/card/plst/AER-13/countless-gears-renegade?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/c/5c7cebae-6ba2-4cf1-a442-2c7a4fbc58da.jpg?1573505095",
+    "normal": "https://cards.scryfall.io/normal/front/5/c/5c7cebae-6ba2-4cf1-a442-2c7a4fbc58da.jpg?1573505095",
+    "large": "https://cards.scryfall.io/large/front/5/c/5c7cebae-6ba2-4cf1-a442-2c7a4fbc58da.jpg?1573505095",
+    "png": "https://cards.scryfall.io/png/front/5/c/5c7cebae-6ba2-4cf1-a442-2c7a4fbc58da.png?1573505095",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/c/5c7cebae-6ba2-4cf1-a442-2c7a4fbc58da.jpg?1573505095",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/c/5c7cebae-6ba2-4cf1-a442-2c7a4fbc58da.jpg?1573505095"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Creature — Dwarf Artificer",
+  "oracle_text": "Revolt — When this creature enters, if a permanent left the battlefield under your control this turn, create a 1/1 colorless Servo artifact creature token.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Revolt"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "5c7cebae-6ba2-4cf1-a442-2c7a4fbc58da",
+      "component": "combo_piece",
+      "name": "Countless Gears Renegade",
+      "type_line": "Creature — Dwarf Artificer",
+      "uri": "https://api.scryfall.com/cards/5c7cebae-6ba2-4cf1-a442-2c7a4fbc58da"
+    },
+    {
+      "object": "related_card",
+      "id": "57890ef7-9006-47b9-9f8b-42b665123607",
+      "component": "token",
+      "name": "Servo",
+      "type_line": "Token Artifact Creature — Servo",
+      "uri": "https://api.scryfall.com/cards/57890ef7-9006-47b9-9f8b-42b665123607"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5c7cebae-6ba2-4cf1-a442-2c7a4fbc58da/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9d1f9036-a466-46b6-ab7c-2de487876978&unique=prints",
+  "collector_number": "AER-13",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Go forth and cause trouble, my little one!\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dan Murayama Scott",
+  "artist_ids": [
+    "f852fa13-137e-40f2-bbc1-0f01df09c0e0"
+  ],
+  "illustration_id": "e81ca45d-614c-44e3-85aa-d689988a3279",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 23639,
+  "penny_rank": 10730,
+  "prices": {
+    "usd": "0.03",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.04",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCountless%2BGears%2BRenegade",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCountless%2BGears%2BRenegade",
+    "edhrec": "https://edhrec.com/route/?cc=Countless+Gears+Renegade"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F202877%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=415656&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Countless+Gears+Renegade&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

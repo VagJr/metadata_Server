@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "3364dd1b-df21-48a9-9059-f26b992ce7af",
+  "oracle_id": "132ca99a-a3c7-4ed6-b4d0-0edcd7140ca2",
+  "multiverse_ids": [],
+  "mtgo_id": 104010,
+  "mtgo_foil_id": 104011,
+  "tcgplayer_id": 456699,
+  "cardmarket_id": 689119,
+  "name": "Absorb",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/3364dd1b-df21-48a9-9059-f26b992ce7af",
+  "scryfall_uri": "https://scryfall.com/card/scd/216/absorb?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/3/3364dd1b-df21-48a9-9059-f26b992ce7af.jpg?1674675782",
+    "normal": "https://cards.scryfall.io/normal/front/3/3/3364dd1b-df21-48a9-9059-f26b992ce7af.jpg?1674675782",
+    "large": "https://cards.scryfall.io/large/front/3/3/3364dd1b-df21-48a9-9059-f26b992ce7af.jpg?1674675782",
+    "png": "https://cards.scryfall.io/png/front/3/3/3364dd1b-df21-48a9-9059-f26b992ce7af.png?1674675782",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/3/3364dd1b-df21-48a9-9059-f26b992ce7af.jpg?1674675782",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/3/3364dd1b-df21-48a9-9059-f26b992ce7af.jpg?1674675782"
+  },
+  "mana_cost": "{W}{U}{U}",
+  "cmc": 3,
+  "type_line": "Instant",
+  "oracle_text": "Counter target spell. You gain 3 life.",
+  "colors": [
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "U",
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set": "scd",
+  "set_name": "Starter Commander Decks",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ascd&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/scd?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3364dd1b-df21-48a9-9059-f26b992ce7af/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A132ca99a-a3c7-4ed6-b4d0-0edcd7140ca2&unique=prints",
+  "collector_number": "216",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Your presumption is your downfall.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Andrew Goldhawk",
+  "artist_ids": [
+    "f4a65a04-9e2e-4541-8d0e-f34e9517f092"
+  ],
+  "illustration_id": "53d36272-c285-4bd3-9c46-f10d4e575cc7",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4111,
+  "penny_rank": 308,
+  "prices": {
+    "usd": "0.23",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.46",
+    "eur_foil": null,
+    "tix": "1.95"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAbsorb",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAbsorb",
+    "edhrec": "https://edhrec.com/route/?cc=Absorb"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F456699%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=689119&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/104010?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

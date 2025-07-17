@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "a4a514b9-8a67-47aa-8218-8d6fe8040128",
+  "oracle_id": "f5c5f64c-6911-430c-a825-b32b96d39c7d",
+  "multiverse_ids": [
+    489484
+  ],
+  "arena_id": 72356,
+  "tcgplayer_id": 216597,
+  "cardmarket_id": 474519,
+  "name": "Beetleback Chief",
+  "lang": "en",
+  "released_at": "2020-07-17",
+  "uri": "https://api.scryfall.com/cards/a4a514b9-8a67-47aa-8218-8d6fe8040128",
+  "scryfall_uri": "https://scryfall.com/card/jmp/294/beetleback-chief?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/4/a4a514b9-8a67-47aa-8218-8d6fe8040128.jpg?1600733067",
+    "normal": "https://cards.scryfall.io/normal/front/a/4/a4a514b9-8a67-47aa-8218-8d6fe8040128.jpg?1600733067",
+    "large": "https://cards.scryfall.io/large/front/a/4/a4a514b9-8a67-47aa-8218-8d6fe8040128.jpg?1600733067",
+    "png": "https://cards.scryfall.io/png/front/a/4/a4a514b9-8a67-47aa-8218-8d6fe8040128.png?1600733067",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/4/a4a514b9-8a67-47aa-8218-8d6fe8040128.jpg?1600733067",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/4/a4a514b9-8a67-47aa-8218-8d6fe8040128.jpg?1600733067"
+  },
+  "mana_cost": "{2}{R}{R}",
+  "cmc": 4,
+  "type_line": "Creature — Goblin Warrior",
+  "oracle_text": "When this creature enters, create two 1/1 red Goblin creature tokens.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e265ca24-96c0-4654-a8f3-bbffe288970a",
+      "component": "token",
+      "name": "Goblin",
+      "type_line": "Token Creature — Goblin",
+      "uri": "https://api.scryfall.com/cards/e265ca24-96c0-4654-a8f3-bbffe288970a"
+    },
+    {
+      "object": "related_card",
+      "id": "a4a514b9-8a67-47aa-8218-8d6fe8040128",
+      "component": "combo_piece",
+      "name": "Beetleback Chief",
+      "type_line": "Creature — Goblin Warrior",
+      "uri": "https://api.scryfall.com/cards/a4a514b9-8a67-47aa-8218-8d6fe8040128"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "0f6ccf25-a627-4263-86df-5757137f1696",
+  "set": "jmp",
+  "set_name": "Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/0f6ccf25-a627-4263-86df-5757137f1696",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ajmp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/jmp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a4a514b9-8a67-47aa-8218-8d6fe8040128/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af5c5f64c-6911-430c-a825-b32b96d39c7d&unique=prints",
+  "collector_number": "294",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Whether trained, ridden, or eaten, few goblin military innovations have rivaled the bug.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wayne England",
+  "artist_ids": [
+    "62dc90c0-4bc2-4d42-ad76-59cad9243566"
+  ],
+  "illustration_id": "6ecba3ed-0f55-4ab0-a860-30854e0620a7",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3122,
+  "penny_rank": 4060,
+  "prices": {
+    "usd": "0.23",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.24",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489484&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBeetleback%2BChief",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBeetleback%2BChief",
+    "edhrec": "https://edhrec.com/route/?cc=Beetleback+Chief"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F216597%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=474519&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Beetleback+Chief&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "85465be2-7327-4e1f-8a4b-d24dca4f3ada",
+  "oracle_id": "3088ee75-3b51-4cbc-8987-76cb93f416b1",
+  "multiverse_ids": [
+    604998
+  ],
+  "mtgo_id": 105959,
+  "tcgplayer_id": 479628,
+  "cardmarket_id": 694790,
+  "name": "Bladed Ambassador",
+  "lang": "en",
+  "released_at": "2023-02-03",
+  "uri": "https://api.scryfall.com/cards/85465be2-7327-4e1f-8a4b-d24dca4f3ada",
+  "scryfall_uri": "https://scryfall.com/card/one/285/bladed-ambassador?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/5/85465be2-7327-4e1f-8a4b-d24dca4f3ada.jpg?1677100065",
+    "normal": "https://cards.scryfall.io/normal/front/8/5/85465be2-7327-4e1f-8a4b-d24dca4f3ada.jpg?1677100065",
+    "large": "https://cards.scryfall.io/large/front/8/5/85465be2-7327-4e1f-8a4b-d24dca4f3ada.jpg?1677100065",
+    "png": "https://cards.scryfall.io/png/front/8/5/85465be2-7327-4e1f-8a4b-d24dca4f3ada.png?1677100065",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/5/85465be2-7327-4e1f-8a4b-d24dca4f3ada.jpg?1677100065",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/5/85465be2-7327-4e1f-8a4b-d24dca4f3ada.jpg?1677100065"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Creature — Phyrexian Soldier",
+  "oracle_text": "This creature enters with an oil counter on it.\n{1}, Remove an oil counter from this creature: This creature gains indestructible until end of turn.",
+  "power": "3",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/85465be2-7327-4e1f-8a4b-d24dca4f3ada/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3088ee75-3b51-4cbc-8987-76cb93f416b1&unique=prints",
+  "collector_number": "285",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Obedience is the armor that turns any blade.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ravenna Tran",
+  "artist_ids": [
+    "e24bc1d0-446b-45e0-b215-89f581837aa4"
+  ],
+  "illustration_id": "1421c402-69ae-40ab-8694-53e17db1d16a",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 18801,
+  "penny_rank": 10030,
+  "prices": {
+    "usd": "0.04",
+    "usd_foil": "0.06",
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.21",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=604998&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBladed%2BAmbassador",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBladed%2BAmbassador",
+    "edhrec": "https://edhrec.com/route/?cc=Bladed+Ambassador"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F479628%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=694790&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/105959?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

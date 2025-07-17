@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "baedd3a4-f991-44bb-b870-7831bb637444",
+  "oracle_id": "dfc45c58-821c-42f3-ab48-05b912748bdf",
+  "multiverse_ids": [],
+  "tcgplayer_id": 237376,
+  "cardmarket_id": 560539,
+  "name": "Elemental Expressionist",
+  "lang": "en",
+  "released_at": "2021-04-23",
+  "uri": "https://api.scryfall.com/cards/baedd3a4-f991-44bb-b870-7831bb637444",
+  "scryfall_uri": "https://scryfall.com/card/pstx/181p/elemental-expressionist?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/a/baedd3a4-f991-44bb-b870-7831bb637444.jpg?1628271558",
+    "normal": "https://cards.scryfall.io/normal/front/b/a/baedd3a4-f991-44bb-b870-7831bb637444.jpg?1628271558",
+    "large": "https://cards.scryfall.io/large/front/b/a/baedd3a4-f991-44bb-b870-7831bb637444.jpg?1628271558",
+    "png": "https://cards.scryfall.io/png/front/b/a/baedd3a4-f991-44bb-b870-7831bb637444.png?1628271558",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/a/baedd3a4-f991-44bb-b870-7831bb637444.jpg?1628271558",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/a/baedd3a4-f991-44bb-b870-7831bb637444.jpg?1628271558"
+  },
+  "mana_cost": "{U/R}{U/R}{U/R}{U/R}",
+  "cmc": 4,
+  "type_line": "Creature — Orc Wizard",
+  "oracle_text": "Magecraft — Whenever you cast or copy an instant or sorcery spell, choose target creature you control. Until end of turn, it gains \"If this creature would leave the battlefield, exile it instead of putting it anywhere else\" and \"When this creature is put into exile, create a 4/4 blue and red Elemental creature token.\" (Each instance of that ability triggers separately.)",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [
+    "Magecraft"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e842d841-39d5-490f-9136-14818ec6433e",
+      "component": "combo_piece",
+      "name": "Elemental Expressionist",
+      "type_line": "Creature — Orc Wizard",
+      "uri": "https://api.scryfall.com/cards/e842d841-39d5-490f-9136-14818ec6433e"
+    },
+    {
+      "object": "related_card",
+      "id": "3d0b9b88-705e-4df0-8a93-3e240b81355b",
+      "component": "token",
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "uri": "https://api.scryfall.com/cards/3d0b9b88-705e-4df0-8a93-3e240b81355b"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "bc98232b-a539-4f81-92b5-2efc57d38f53",
+  "set": "pstx",
+  "set_name": "Strixhaven: School of Mages Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/bc98232b-a539-4f81-92b5-2efc57d38f53",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apstx&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pstx?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/baedd3a4-f991-44bb-b870-7831bb637444/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adfc45c58-821c-42f3-ab48-05b912748bdf&unique=prints",
+  "collector_number": "181p",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "prismari",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Zack Stella",
+  "artist_ids": [
+    "17bc7f55-958b-43f4-bb40-09746d05b3f9"
+  ],
+  "illustration_id": "4e6e17f6-1a4a-47e0-8060-470f89c8f317",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 20934,
+  "penny_rank": 14536,
+  "prices": {
+    "usd": "0.17",
+    "usd_foil": "0.25",
+    "usd_etched": null,
+    "eur": "0.28",
+    "eur_foil": "0.51",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DElemental%2BExpressionist",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DElemental%2BExpressionist",
+    "edhrec": "https://edhrec.com/route/?cc=Elemental+Expressionist"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F237376%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=560539&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Elemental+Expressionist&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

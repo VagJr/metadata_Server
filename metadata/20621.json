@@ -1,0 +1,191 @@
+{
+  "object": "card",
+  "id": "30a109aa-99d4-4cfe-a9b1-1b40db5b7885",
+  "oracle_id": "44f63ae4-6605-49e2-a862-99c1feb3017a",
+  "multiverse_ids": [],
+  "name": "Detective",
+  "lang": "en",
+  "released_at": "2024-02-09",
+  "uri": "https://api.scryfall.com/cards/30a109aa-99d4-4cfe-a9b1-1b40db5b7885",
+  "scryfall_uri": "https://scryfall.com/card/tmkm/10/detective?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/0/30a109aa-99d4-4cfe-a9b1-1b40db5b7885.jpg?1706238431",
+    "normal": "https://cards.scryfall.io/normal/front/3/0/30a109aa-99d4-4cfe-a9b1-1b40db5b7885.jpg?1706238431",
+    "large": "https://cards.scryfall.io/large/front/3/0/30a109aa-99d4-4cfe-a9b1-1b40db5b7885.jpg?1706238431",
+    "png": "https://cards.scryfall.io/png/front/3/0/30a109aa-99d4-4cfe-a9b1-1b40db5b7885.png?1706238431",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/0/30a109aa-99d4-4cfe-a9b1-1b40db5b7885.jpg?1706238431",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/0/30a109aa-99d4-4cfe-a9b1-1b40db5b7885.jpg?1706238431"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Detective",
+  "oracle_text": "",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "U",
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "b6541b71-d225-474d-9d07-a13415f9f44f",
+      "component": "combo_piece",
+      "name": "Drag the Canal",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/b6541b71-d225-474d-9d07-a13415f9f44f"
+    },
+    {
+      "object": "related_card",
+      "id": "9bf37b66-1f00-4887-924d-35afdea72e83",
+      "component": "combo_piece",
+      "name": "Detective of the Month",
+      "type_line": "Creature — Human Detective",
+      "uri": "https://api.scryfall.com/cards/9bf37b66-1f00-4887-924d-35afdea72e83"
+    },
+    {
+      "object": "related_card",
+      "id": "1548d181-3f83-457a-b2d3-eb88cfb2afda",
+      "component": "combo_piece",
+      "name": "Inside Source",
+      "type_line": "Creature — Human Citizen",
+      "uri": "https://api.scryfall.com/cards/1548d181-3f83-457a-b2d3-eb88cfb2afda"
+    },
+    {
+      "object": "related_card",
+      "id": "37860682-4973-4a0f-a43a-3056037bd2dc",
+      "component": "combo_piece",
+      "name": "Museum Nightwatch",
+      "type_line": "Creature — Centaur Soldier",
+      "uri": "https://api.scryfall.com/cards/37860682-4973-4a0f-a43a-3056037bd2dc"
+    },
+    {
+      "object": "related_card",
+      "id": "8aa13186-db71-45d3-b7a2-dd889d25725c",
+      "component": "combo_piece",
+      "name": "Unyielding Gatekeeper",
+      "type_line": "Creature — Elephant Cleric",
+      "uri": "https://api.scryfall.com/cards/8aa13186-db71-45d3-b7a2-dd889d25725c"
+    },
+    {
+      "object": "related_card",
+      "id": "7d56ebff-67c8-4bc7-a533-ddde4ce0c2af",
+      "component": "combo_piece",
+      "name": "Person of Interest",
+      "type_line": "Creature — Human Rogue",
+      "uri": "https://api.scryfall.com/cards/7d56ebff-67c8-4bc7-a533-ddde4ce0c2af"
+    },
+    {
+      "object": "related_card",
+      "id": "30a109aa-99d4-4cfe-a9b1-1b40db5b7885",
+      "component": "token",
+      "name": "Detective",
+      "type_line": "Token Creature — Detective",
+      "uri": "https://api.scryfall.com/cards/30a109aa-99d4-4cfe-a9b1-1b40db5b7885"
+    },
+    {
+      "object": "related_card",
+      "id": "b3ff56c1-4153-4e15-9ac6-06d93fa2ae50",
+      "component": "combo_piece",
+      "name": "Chalk Outline",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/b3ff56c1-4153-4e15-9ac6-06d93fa2ae50"
+    },
+    {
+      "object": "related_card",
+      "id": "4538d6a8-a24a-40e3-b894-45a30882c92a",
+      "component": "combo_piece",
+      "name": "Felonious Rage",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/4538d6a8-a24a-40e3-b894-45a30882c92a"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4be7158b-d5e6-4558-accc-ed0661f2371b",
+  "set": "tmkm",
+  "set_name": "Murders at Karlov Manor Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/4be7158b-d5e6-4558-accc-ed0661f2371b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atmkm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tmkm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/30a109aa-99d4-4cfe-a9b1-1b40db5b7885/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A44f63ae4-6605-49e2-a862-99c1feb3017a&unique=prints",
+  "collector_number": "10",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Fay Dalton",
+  "artist_ids": [
+    "db096429-0266-4342-8a53-4ad566060216"
+  ],
+  "illustration_id": "504bd9b1-7a1c-47a9-a171-2e02e5521ecf",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDetective",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDetective",
+    "edhrec": "https://edhrec.com/route/?cc=Detective"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DDetective%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Detective&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Detective&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

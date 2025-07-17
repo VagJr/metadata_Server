@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "1ba0c356-ed47-4fd1-a054-444bef004508",
+  "oracle_id": "de1cfa83-2049-48ab-b093-2f120a3ef4f2",
+  "multiverse_ids": [],
+  "mtgo_id": 103974,
+  "mtgo_foil_id": 103975,
+  "tcgplayer_id": 456797,
+  "cardmarket_id": 689101,
+  "name": "Loyal Guardian",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/1ba0c356-ed47-4fd1-a054-444bef004508",
+  "scryfall_uri": "https://scryfall.com/card/scd/198/loyal-guardian?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/b/1ba0c356-ed47-4fd1-a054-444bef004508.jpg?1674675633",
+    "normal": "https://cards.scryfall.io/normal/front/1/b/1ba0c356-ed47-4fd1-a054-444bef004508.jpg?1674675633",
+    "large": "https://cards.scryfall.io/large/front/1/b/1ba0c356-ed47-4fd1-a054-444bef004508.jpg?1674675633",
+    "png": "https://cards.scryfall.io/png/front/1/b/1ba0c356-ed47-4fd1-a054-444bef004508.png?1674675633",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/b/1ba0c356-ed47-4fd1-a054-444bef004508.jpg?1674675633",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/b/1ba0c356-ed47-4fd1-a054-444bef004508.jpg?1674675633"
+  },
+  "mana_cost": "{4}{G}",
+  "cmc": 5,
+  "type_line": "Creature — Rhino",
+  "oracle_text": "Trample\nLieutenant — At the beginning of combat on your turn, if you control your commander, put a +1/+1 counter on each creature you control.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Trample",
+    "Lieutenant"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set": "scd",
+  "set_name": "Starter Commander Decks",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ascd&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/scd?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1ba0c356-ed47-4fd1-a054-444bef004508/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ade1cfa83-2049-48ab-b093-2f120a3ef4f2&unique=prints",
+  "collector_number": "198",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Each scar on its hide is a badge of honor.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Robbie Trevino",
+  "artist_ids": [
+    "34f236c4-d646-4e48-9723-9df5f507754d"
+  ],
+  "illustration_id": "7cd34f52-7a2b-46fe-a3b3-9c1a70b5745b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2247,
+  "prices": {
+    "usd": "0.27",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.35",
+    "eur_foil": null,
+    "tix": "0.32"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLoyal%2BGuardian",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLoyal%2BGuardian",
+    "edhrec": "https://edhrec.com/route/?cc=Loyal+Guardian"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F456797%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=689101&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/103974?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

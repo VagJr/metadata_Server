@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "b8ed2d68-fd97-411f-8a8e-7e100cdb4c0e",
+  "oracle_id": "b693c3de-2eaf-4850-b405-e79d00adefda",
+  "multiverse_ids": [],
+  "tcgplayer_id": 240121,
+  "tcgplayer_etched_id": 240120,
+  "cardmarket_id": 566634,
+  "name": "Talisman of Hierarchy",
+  "lang": "en",
+  "released_at": "2021-06-18",
+  "uri": "https://api.scryfall.com/cards/b8ed2d68-fd97-411f-8a8e-7e100cdb4c0e",
+  "scryfall_uri": "https://scryfall.com/card/h1r/36/talisman-of-hierarchy?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/8/b8ed2d68-fd97-411f-8a8e-7e100cdb4c0e.jpg?1630617120",
+    "normal": "https://cards.scryfall.io/normal/front/b/8/b8ed2d68-fd97-411f-8a8e-7e100cdb4c0e.jpg?1630617120",
+    "large": "https://cards.scryfall.io/large/front/b/8/b8ed2d68-fd97-411f-8a8e-7e100cdb4c0e.jpg?1630617120",
+    "png": "https://cards.scryfall.io/png/front/b/8/b8ed2d68-fd97-411f-8a8e-7e100cdb4c0e.png?1630617120",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/8/b8ed2d68-fd97-411f-8a8e-7e100cdb4c0e.jpg?1630617120",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/8/b8ed2d68-fd97-411f-8a8e-7e100cdb4c0e.jpg?1630617120"
+  },
+  "mana_cost": "{2}",
+  "cmc": 2,
+  "type_line": "Artifact",
+  "oracle_text": "{T}: Add {C}.\n{T}: Add {W} or {B}. This artifact deals 1 damage to you.",
+  "colors": [],
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "C",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil",
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7b3294cf-104e-43fb-8170-add3e78faca7",
+  "set": "h1r",
+  "set_name": "Modern Horizons 1 Timeshifts",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/7b3294cf-104e-43fb-8170-add3e78faca7",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ah1r&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/h1r?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b8ed2d68-fd97-411f-8a8e-7e100cdb4c0e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab693c3de-2eaf-4850-b405-e79d00adefda&unique=prints",
+  "collector_number": "36",
+  "digital": false,
+  "rarity": "uncommon",
+  "watermark": "wotc",
+  "flavor_text": "\"You'll never get to the top if you don't know who's already there.\"\n—Kaya",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lindsey Look",
+  "artist_ids": [
+    "95bc132d-37aa-4063-8ed8-04d489e826cd"
+  ],
+  "illustration_id": "7ea2c899-7964-4f2e-9358-7b2c684f2176",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 144,
+  "penny_rank": 1461,
+  "prices": {
+    "usd": null,
+    "usd_foil": "2.49",
+    "usd_etched": "3.66",
+    "eur": null,
+    "eur_foil": "3.30",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTalisman%2Bof%2BHierarchy",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTalisman%2Bof%2BHierarchy",
+    "edhrec": "https://edhrec.com/route/?cc=Talisman+of+Hierarchy"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F240121%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=566634&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Talisman+of+Hierarchy&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

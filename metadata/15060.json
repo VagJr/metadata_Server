@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "236c3425-17a2-404e-8630-8dbeb9c3981d",
+  "oracle_id": "dabbf796-3b88-499e-8839-06fa36fe01ac",
+  "multiverse_ids": [
+    588720
+  ],
+  "mtgo_id": 105340,
+  "tcgplayer_id": 452144,
+  "cardmarket_id": 682741,
+  "name": "Marionette Master",
+  "lang": "en",
+  "released_at": "2022-11-18",
+  "uri": "https://api.scryfall.com/cards/236c3425-17a2-404e-8630-8dbeb9c3981d",
+  "scryfall_uri": "https://scryfall.com/card/brc/109/marionette-master?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/3/236c3425-17a2-404e-8630-8dbeb9c3981d.jpg?1673300464",
+    "normal": "https://cards.scryfall.io/normal/front/2/3/236c3425-17a2-404e-8630-8dbeb9c3981d.jpg?1673300464",
+    "large": "https://cards.scryfall.io/large/front/2/3/236c3425-17a2-404e-8630-8dbeb9c3981d.jpg?1673300464",
+    "png": "https://cards.scryfall.io/png/front/2/3/236c3425-17a2-404e-8630-8dbeb9c3981d.png?1673300464",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/3/236c3425-17a2-404e-8630-8dbeb9c3981d.jpg?1673300464",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/3/236c3425-17a2-404e-8630-8dbeb9c3981d.jpg?1673300464"
+  },
+  "mana_cost": "{4}{B}{B}",
+  "cmc": 6,
+  "type_line": "Creature — Human Artificer",
+  "oracle_text": "Fabricate 3 (When this creature enters, put three +1/+1 counters on it or create three 1/1 colorless Servo artifact creature tokens.)\nWhenever an artifact you control is put into a graveyard from the battlefield, target opponent loses life equal to this creature's power.",
+  "power": "1",
+  "toughness": "3",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Fabricate"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "8c6e94bc-9d23-44db-a961-677d95dd67d0",
+      "component": "token",
+      "name": "Servo",
+      "type_line": "Token Artifact Creature — Servo",
+      "uri": "https://api.scryfall.com/cards/8c6e94bc-9d23-44db-a961-677d95dd67d0"
+    },
+    {
+      "object": "related_card",
+      "id": "236c3425-17a2-404e-8630-8dbeb9c3981d",
+      "component": "combo_piece",
+      "name": "Marionette Master",
+      "type_line": "Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/236c3425-17a2-404e-8630-8dbeb9c3981d"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "81d56780-1efc-4487-9803-43d634ca13d0",
+  "set": "brc",
+  "set_name": "The Brothers' War Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/81d56780-1efc-4487-9803-43d634ca13d0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abrc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/brc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/236c3425-17a2-404e-8630-8dbeb9c3981d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adabbf796-3b88-499e-8839-06fa36fe01ac&unique=prints",
+  "collector_number": "109",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "James Ryman",
+  "artist_ids": [
+    "3852bbc9-11c0-4fe3-8722-a06ad7e2bcc5"
+  ],
+  "illustration_id": "8cf5f538-3bed-4675-8948-bede848ace67",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1017,
+  "penny_rank": 7010,
+  "prices": {
+    "usd": "1.52",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "2.14",
+    "eur_foil": null,
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=588720&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMarionette%2BMaster",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMarionette%2BMaster",
+    "edhrec": "https://edhrec.com/route/?cc=Marionette+Master"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F452144%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=682741&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/105340?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

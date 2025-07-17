@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "7654eb50-4ac1-4388-aea6-373aa2b361ae",
+  "oracle_id": "a494fcee-6885-434c-aad5-6f83640c4472",
+  "multiverse_ids": [
+    570323
+  ],
+  "tcgplayer_id": 273088,
+  "cardmarket_id": 660667,
+  "name": "Stonespeaker Crystal",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/7654eb50-4ac1-4388-aea6-373aa2b361ae",
+  "scryfall_uri": "https://scryfall.com/card/clb/450/stonespeaker-crystal?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/6/7654eb50-4ac1-4388-aea6-373aa2b361ae.jpg?1674138977",
+    "normal": "https://cards.scryfall.io/normal/front/7/6/7654eb50-4ac1-4388-aea6-373aa2b361ae.jpg?1674138977",
+    "large": "https://cards.scryfall.io/large/front/7/6/7654eb50-4ac1-4388-aea6-373aa2b361ae.jpg?1674138977",
+    "png": "https://cards.scryfall.io/png/front/7/6/7654eb50-4ac1-4388-aea6-373aa2b361ae.png?1674138977",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/6/7654eb50-4ac1-4388-aea6-373aa2b361ae.jpg?1674138977",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/6/7654eb50-4ac1-4388-aea6-373aa2b361ae.jpg?1674138977"
+  },
+  "mana_cost": "{4}",
+  "cmc": 4,
+  "type_line": "Artifact",
+  "oracle_text": "{T}: Add {C}{C}.\n{2}, {T}, Sacrifice this artifact: Exile any number of target players' graveyards. Draw a card.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set": "clb",
+  "set_name": "Commander Legends: Battle for Baldur's Gate",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/clb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7654eb50-4ac1-4388-aea6-373aa2b361ae/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa494fcee-6885-434c-aad5-6f83640c4472&unique=prints",
+  "collector_number": "450",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mark A. Nelson",
+  "artist_ids": [
+    "a10f59a4-36fd-4ef3-966b-5570ca118062"
+  ],
+  "illustration_id": "caea23bb-98bb-42e1-91c5-c18ac7ebc8b5",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 2929,
+  "preview": {
+    "source": "Flork",
+    "source_uri": "https://twitter.com/FlorkOfCows/status/1529471017281675264",
+    "previewed_at": "2022-05-25"
+  },
+  "prices": {
+    "usd": "0.21",
+    "usd_foil": "0.25",
+    "usd_etched": null,
+    "eur": "0.24",
+    "eur_foil": "0.50",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=570323&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DStonespeaker%2BCrystal",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DStonespeaker%2BCrystal",
+    "edhrec": "https://edhrec.com/route/?cc=Stonespeaker+Crystal"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F273088%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=660667&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Stonespeaker+Crystal&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

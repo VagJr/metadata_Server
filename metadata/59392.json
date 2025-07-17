@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "8c6150f2-cc6c-405d-9812-bbbc524ce450",
+  "oracle_id": "14589b6b-1814-46f9-a364-83cc15dacac2",
+  "multiverse_ids": [],
+  "tcgplayer_id": 281397,
+  "cardmarket_id": 687432,
+  "name": "Diabolic Tutor",
+  "lang": "en",
+  "released_at": "2022-07-23",
+  "uri": "https://api.scryfall.com/cards/8c6150f2-cc6c-405d-9812-bbbc524ce450",
+  "scryfall_uri": "https://scryfall.com/card/sld/721/diabolic-tutor?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/c/8c6150f2-cc6c-405d-9812-bbbc524ce450.jpg?1733141218",
+    "normal": "https://cards.scryfall.io/normal/front/8/c/8c6150f2-cc6c-405d-9812-bbbc524ce450.jpg?1733141218",
+    "large": "https://cards.scryfall.io/large/front/8/c/8c6150f2-cc6c-405d-9812-bbbc524ce450.jpg?1733141218",
+    "png": "https://cards.scryfall.io/png/front/8/c/8c6150f2-cc6c-405d-9812-bbbc524ce450.png?1733141218",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/c/8c6150f2-cc6c-405d-9812-bbbc524ce450.jpg?1733141218",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/c/8c6150f2-cc6c-405d-9812-bbbc524ce450.jpg?1733141218"
+  },
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4,
+  "type_line": "Sorcery",
+  "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8c6150f2-cc6c-405d-9812-bbbc524ce450/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A14589b6b-1814-46f9-a364-83cc15dacac2&unique=prints",
+  "collector_number": "721",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Brain Dead",
+  "artist_ids": [
+    "78aa6b27-0b86-42b0-bf0f-672830587f44"
+  ],
+  "illustration_id": "ccd884b7-4304-49e4-ab37-e01c46d7244c",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "sldbonus"
+  ],
+  "edhrec_rank": 422,
+  "penny_rank": 2273,
+  "prices": {
+    "usd": "35.09",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "51.30",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDiabolic%2BTutor",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDiabolic%2BTutor",
+    "edhrec": "https://edhrec.com/route/?cc=Diabolic+Tutor"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F281397%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=687432&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Diabolic+Tutor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

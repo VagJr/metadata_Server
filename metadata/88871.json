@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "d19d87ed-2b5d-4f93-a197-9d0267949e12",
+  "oracle_id": "86c9e08a-397a-4c24-8f4c-48a648889399",
+  "multiverse_ids": [],
+  "arena_id": 75980,
+  "name": "Scour the Desert",
+  "lang": "en",
+  "released_at": "2021-08-26",
+  "uri": "https://api.scryfall.com/cards/d19d87ed-2b5d-4f93-a197-9d0267949e12",
+  "scryfall_uri": "https://scryfall.com/card/j21/122/scour-the-desert?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/1/d19d87ed-2b5d-4f93-a197-9d0267949e12.jpg?1630245612",
+    "normal": "https://cards.scryfall.io/normal/front/d/1/d19d87ed-2b5d-4f93-a197-9d0267949e12.jpg?1630245612",
+    "large": "https://cards.scryfall.io/large/front/d/1/d19d87ed-2b5d-4f93-a197-9d0267949e12.jpg?1630245612",
+    "png": "https://cards.scryfall.io/png/front/d/1/d19d87ed-2b5d-4f93-a197-9d0267949e12.png?1630245612",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/1/d19d87ed-2b5d-4f93-a197-9d0267949e12.jpg?1630245612",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/1/d19d87ed-2b5d-4f93-a197-9d0267949e12.jpg?1630245612"
+  },
+  "mana_cost": "{3}{W}{W}",
+  "cmc": 5,
+  "type_line": "Sorcery",
+  "oracle_text": "Exile target creature card from your graveyard. Create X 1/1 white Bird creature tokens with flying, where X is the exiled card's toughness.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "d19d87ed-2b5d-4f93-a197-9d0267949e12",
+      "component": "combo_piece",
+      "name": "Scour the Desert",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/d19d87ed-2b5d-4f93-a197-9d0267949e12"
+    },
+    {
+      "object": "related_card",
+      "id": "6105623a-ff2c-46bf-8881-e8b899d47d54",
+      "component": "token",
+      "name": "Bird",
+      "type_line": "Token Creature — Bird",
+      "uri": "https://api.scryfall.com/cards/6105623a-ff2c-46bf-8881-e8b899d47d54"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e1cc23bd-379b-4f2c-a4e0-83fc1e7be023",
+  "set": "j21",
+  "set_name": "Jumpstart: Historic Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/e1cc23bd-379b-4f2c-a4e0-83fc1e7be023",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj21&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j21?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d19d87ed-2b5d-4f93-a197-9d0267949e12/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A86c9e08a-397a-4c24-8f4c-48a648889399&unique=prints",
+  "collector_number": "122",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tyler Walpole",
+  "artist_ids": [
+    "70c4c8c7-61a8-44e7-8fb1-161b7f943e7e"
+  ],
+  "illustration_id": "a7bdf1bf-09f7-4eae-9cb3-1c6724b27d3d",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 19144,
+  "penny_rank": 16666,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DScour%2Bthe%2BDesert",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DScour%2Bthe%2BDesert",
+    "edhrec": "https://edhrec.com/route/?cc=Scour+the+Desert"
+  }
+}

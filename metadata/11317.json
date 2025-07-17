@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "1a5f3ba3-8c20-4d94-8c97-0f393132168a",
+  "oracle_id": "3bb518ff-399b-4ce7-b9ad-a1d563dd7792",
+  "multiverse_ids": [],
+  "tcgplayer_id": 202775,
+  "name": "Arch of Orazca",
+  "lang": "en",
+  "released_at": "2023-08-10",
+  "uri": "https://api.scryfall.com/cards/1a5f3ba3-8c20-4d94-8c97-0f393132168a",
+  "scryfall_uri": "https://scryfall.com/card/plst/RIX-185/arch-of-orazca?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/a/1a5f3ba3-8c20-4d94-8c97-0f393132168a.jpg?1693264356",
+    "normal": "https://cards.scryfall.io/normal/front/1/a/1a5f3ba3-8c20-4d94-8c97-0f393132168a.jpg?1693264356",
+    "large": "https://cards.scryfall.io/large/front/1/a/1a5f3ba3-8c20-4d94-8c97-0f393132168a.jpg?1693264356",
+    "png": "https://cards.scryfall.io/png/front/1/a/1a5f3ba3-8c20-4d94-8c97-0f393132168a.png?1693264356",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/a/1a5f3ba3-8c20-4d94-8c97-0f393132168a.jpg?1693264356",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/a/1a5f3ba3-8c20-4d94-8c97-0f393132168a.jpg?1693264356"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)\n{T}: Add {C}.\n{5}, {T}: Draw a card. Activate only if you have the city's blessing.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Ascend"
+  ],
+  "produced_mana": [
+    "C"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "1a5f3ba3-8c20-4d94-8c97-0f393132168a",
+      "component": "combo_piece",
+      "name": "Arch of Orazca",
+      "type_line": "Land",
+      "uri": "https://api.scryfall.com/cards/1a5f3ba3-8c20-4d94-8c97-0f393132168a"
+    },
+    {
+      "object": "related_card",
+      "id": "213a979d-45bf-40dc-bbd1-42230373947d",
+      "component": "combo_piece",
+      "name": "City's Blessing",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/213a979d-45bf-40dc-bbd1-42230373947d"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1a5f3ba3-8c20-4d94-8c97-0f393132168a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3bb518ff-399b-4ce7-b9ad-a1d563dd7792&unique=prints",
+  "collector_number": "RIX-185",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Titus Lunter",
+  "artist_ids": [
+    "b11e6b3a-f4ca-4cf1-8fd7-475696de5f5c"
+  ],
+  "illustration_id": "fabb0079-d54c-461c-96ea-4839792f9c10",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1844,
+  "penny_rank": 349,
+  "prices": {
+    "usd": "0.24",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DArch%2Bof%2BOrazca",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DArch%2Bof%2BOrazca",
+    "edhrec": "https://edhrec.com/route/?cc=Arch+of+Orazca"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F202775%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Arch+of+Orazca&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Arch+of+Orazca&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

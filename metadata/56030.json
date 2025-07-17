@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "84b1a2d9-9b48-4eeb-8971-b1ebe1b0e0cb",
+  "oracle_id": "45c8e860-5ce5-4a1c-aebe-97ddffcb2f74",
+  "multiverse_ids": [],
+  "tcgplayer_id": 210425,
+  "cardmarket_id": 443328,
+  "name": "Nezumi Shortfang // Stabwhisker the Odious",
+  "lang": "en",
+  "released_at": "2020-03-13",
+  "uri": "https://api.scryfall.com/cards/84b1a2d9-9b48-4eeb-8971-b1ebe1b0e0cb",
+  "scryfall_uri": "https://scryfall.com/card/plst/CHK-131/nezumi-shortfang-stabwhisker-the-odious?utm_source=api",
+  "layout": "flip",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/4/84b1a2d9-9b48-4eeb-8971-b1ebe1b0e0cb.jpg?1591401571",
+    "normal": "https://cards.scryfall.io/normal/front/8/4/84b1a2d9-9b48-4eeb-8971-b1ebe1b0e0cb.jpg?1591401571",
+    "large": "https://cards.scryfall.io/large/front/8/4/84b1a2d9-9b48-4eeb-8971-b1ebe1b0e0cb.jpg?1591401571",
+    "png": "https://cards.scryfall.io/png/front/8/4/84b1a2d9-9b48-4eeb-8971-b1ebe1b0e0cb.png?1591401571",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/4/84b1a2d9-9b48-4eeb-8971-b1ebe1b0e0cb.jpg?1591401571",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/4/84b1a2d9-9b48-4eeb-8971-b1ebe1b0e0cb.jpg?1591401571"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2,
+  "type_line": "Creature — Rat Rogue // Legendary Creature — Rat Shaman",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Nezumi Shortfang",
+      "mana_cost": "{1}{B}",
+      "type_line": "Creature — Rat Rogue",
+      "oracle_text": "{1}{B}, {T}: Target opponent discards a card. Then if that player has no cards in hand, flip this creature.",
+      "power": "1",
+      "toughness": "1",
+      "artist": "Daren Bader",
+      "artist_id": "7da1a585-c875-45e4-b322-5da9e8e1f651",
+      "illustration_id": "ba4e7bfd-a164-4abd-885a-4380d2eaca80"
+    },
+    {
+      "object": "card_face",
+      "name": "Stabwhisker the Odious",
+      "mana_cost": "",
+      "type_line": "Legendary Creature — Rat Shaman",
+      "oracle_text": "At the beginning of each opponent's upkeep, that player loses 1 life for each card fewer than three in their hand.",
+      "power": "3",
+      "toughness": "3",
+      "artist": "Daren Bader",
+      "artist_id": "7da1a585-c875-45e4-b322-5da9e8e1f651"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/84b1a2d9-9b48-4eeb-8971-b1ebe1b0e0cb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A45c8e860-5ce5-4a1c-aebe-97ddffcb2f74&unique=prints",
+  "collector_number": "CHK-131",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daren Bader",
+  "artist_ids": [
+    "7da1a585-c875-45e4-b322-5da9e8e1f651"
+  ],
+  "illustration_id": "ba4e7bfd-a164-4abd-885a-4380d2eaca80",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 13795,
+  "penny_rank": 3068,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.76",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.31",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNezumi%2BShortfang%2B%252F%252F%2BStabwhisker%2Bthe%2BOdious",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNezumi%2BShortfang%2B%252F%252F%2BStabwhisker%2Bthe%2BOdious",
+    "edhrec": "https://edhrec.com/route/?cc=Nezumi+Shortfang"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F210425%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=443328&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nezumi+Shortfang&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

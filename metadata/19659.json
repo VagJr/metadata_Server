@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "2e4a0686-cb48-404c-a15a-2ad1c53aa144",
+  "oracle_id": "c4f3a6c6-a123-43ad-9513-d65fbff10d02",
+  "multiverse_ids": [],
+  "tcgplayer_id": 275203,
+  "cardmarket_id": 662659,
+  "name": "Spoils of Adventure",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/2e4a0686-cb48-404c-a15a-2ad1c53aa144",
+  "scryfall_uri": "https://scryfall.com/card/plst/ZNR-237/spoils-of-adventure?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/e/2e4a0686-cb48-404c-a15a-2ad1c53aa144.jpg?1654714654",
+    "normal": "https://cards.scryfall.io/normal/front/2/e/2e4a0686-cb48-404c-a15a-2ad1c53aa144.jpg?1654714654",
+    "large": "https://cards.scryfall.io/large/front/2/e/2e4a0686-cb48-404c-a15a-2ad1c53aa144.jpg?1654714654",
+    "png": "https://cards.scryfall.io/png/front/2/e/2e4a0686-cb48-404c-a15a-2ad1c53aa144.png?1654714654",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/e/2e4a0686-cb48-404c-a15a-2ad1c53aa144.jpg?1654714654",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/e/2e4a0686-cb48-404c-a15a-2ad1c53aa144.jpg?1654714654"
+  },
+  "mana_cost": "{4}{W}{U}",
+  "cmc": 6,
+  "type_line": "Instant",
+  "oracle_text": "This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)\nYou gain 3 life and draw three cards.",
+  "colors": [
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "U",
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2e4a0686-cb48-404c-a15a-2ad1c53aa144/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac4f3a6c6-a123-43ad-9513-d65fbff10d02&unique=prints",
+  "collector_number": "ZNR-237",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Survival itself is no small reward.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Zezhou Chen",
+  "artist_ids": [
+    "810677e5-a502-4c03-b726-78cd808a75d4"
+  ],
+  "illustration_id": "b7fabd30-10be-40f0-b97e-9e387ad9b017",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 13561,
+  "penny_rank": 6067,
+  "prices": {
+    "usd": "0.12",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.08",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSpoils%2Bof%2BAdventure",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSpoils%2Bof%2BAdventure",
+    "edhrec": "https://edhrec.com/route/?cc=Spoils+of+Adventure"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F275203%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=662659&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Spoils+of+Adventure&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

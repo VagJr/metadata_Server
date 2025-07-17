@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "b0161465-f986-4665-933a-18089c24166c",
+  "oracle_id": "e1105d84-86b5-44ef-9efc-d994ee1c35cc",
+  "multiverse_ids": [],
+  "tcgplayer_id": 241459,
+  "cardmarket_id": 568527,
+  "name": "Geyadrone Dihada",
+  "lang": "en",
+  "released_at": "2021-05-06",
+  "uri": "https://api.scryfall.com/cards/b0161465-f986-4665-933a-18089c24166c",
+  "scryfall_uri": "https://scryfall.com/card/pmh2/199s/geyadrone-dihada?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/0/b0161465-f986-4665-933a-18089c24166c.jpg?1669836523",
+    "normal": "https://cards.scryfall.io/normal/front/b/0/b0161465-f986-4665-933a-18089c24166c.jpg?1669836523",
+    "large": "https://cards.scryfall.io/large/front/b/0/b0161465-f986-4665-933a-18089c24166c.jpg?1669836523",
+    "png": "https://cards.scryfall.io/png/front/b/0/b0161465-f986-4665-933a-18089c24166c.png?1669836523",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/0/b0161465-f986-4665-933a-18089c24166c.jpg?1669836523",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/0/b0161465-f986-4665-933a-18089c24166c.jpg?1669836523"
+  },
+  "mana_cost": "{1}{U}{B}{R}",
+  "cmc": 4,
+  "type_line": "Legendary Planeswalker — Dihada",
+  "oracle_text": "Protection from permanents with corruption counters on them\n+1: Each opponent loses 2 life and you gain 2 life. Put a corruption counter on up to one other target creature or planeswalker.\n−3: Gain control of target creature or planeswalker until end of turn. Untap it and put a corruption counter on it. It gains haste until end of turn.\n−7: Gain control of each permanent with a corruption counter on it.",
+  "loyalty": "4",
+  "colors": [
+    "B",
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "R",
+    "U"
+  ],
+  "keywords": [
+    "Protection"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5193f80f-0b66-47b9-86fe-a3fc70763d3a",
+  "set": "pmh2",
+  "set_name": "Modern Horizons 2 Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/5193f80f-0b66-47b9-86fe-a3fc70763d3a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apmh2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pmh2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b0161465-f986-4665-933a-18089c24166c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae1105d84-86b5-44ef-9efc-d994ee1c35cc&unique=prints",
+  "collector_number": "199s",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ekaterina Burmak",
+  "artist_ids": [
+    "2a9f3780-fcc8-4ec5-b403-ee1d1370d3b4"
+  ],
+  "illustration_id": "9e008589-96e5-480c-a822-7ac3e48a9126",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 7778,
+  "penny_rank": 2633,
+  "prices": {
+    "usd": null,
+    "usd_foil": "3.88",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "3.58",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGeyadrone%2BDihada",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGeyadrone%2BDihada",
+    "edhrec": "https://edhrec.com/route/?cc=Geyadrone+Dihada"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F241459%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=568527&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Geyadrone+Dihada&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

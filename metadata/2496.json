@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "05c90b56-6e4b-43d1-886d-a6d78da7a586",
+  "oracle_id": "48090c64-f41a-447b-ad7a-54e3194f759b",
+  "multiverse_ids": [],
+  "arena_id": 94268,
+  "name": "Triplicate Spirits",
+  "lang": "en",
+  "released_at": "2024-12-10",
+  "uri": "https://api.scryfall.com/cards/05c90b56-6e4b-43d1-886d-a6d78da7a586",
+  "scryfall_uri": "https://scryfall.com/card/pio/41/triplicate-spirits?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/5/05c90b56-6e4b-43d1-886d-a6d78da7a586.jpg?1733179145",
+    "normal": "https://cards.scryfall.io/normal/front/0/5/05c90b56-6e4b-43d1-886d-a6d78da7a586.jpg?1733179145",
+    "large": "https://cards.scryfall.io/large/front/0/5/05c90b56-6e4b-43d1-886d-a6d78da7a586.jpg?1733179145",
+    "png": "https://cards.scryfall.io/png/front/0/5/05c90b56-6e4b-43d1-886d-a6d78da7a586.png?1733179145",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/5/05c90b56-6e4b-43d1-886d-a6d78da7a586.jpg?1733179145",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/5/05c90b56-6e4b-43d1-886d-a6d78da7a586.jpg?1733179145"
+  },
+  "mana_cost": "{4}{W}{W}",
+  "cmc": 6,
+  "type_line": "Sorcery",
+  "oracle_text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nCreate three 1/1 white Spirit creature tokens with flying.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Convoke"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "05c90b56-6e4b-43d1-886d-a6d78da7a586",
+      "component": "combo_piece",
+      "name": "Triplicate Spirits",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/05c90b56-6e4b-43d1-886d-a6d78da7a586"
+    },
+    {
+      "object": "related_card",
+      "id": "004f2ea4-0477-49b2-ad06-5aac7991103d",
+      "component": "token",
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/004f2ea4-0477-49b2-ad06-5aac7991103d"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "713c226b-d4d9-46e1-b9c9-a04689d90ff6",
+  "set": "pio",
+  "set_name": "Pioneer Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/713c226b-d4d9-46e1-b9c9-a04689d90ff6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apio&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pio?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/05c90b56-6e4b-43d1-886d-a6d78da7a586/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A48090c64-f41a-447b-ad7a-54e3194f759b&unique=prints",
+  "collector_number": "41",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Izzy",
+  "artist_ids": [
+    "2c3d2473-ff5d-4309-8194-e0b2def2ab65"
+  ],
+  "illustration_id": "fef6a272-7721-4c0e-92ad-6eea29c62162",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 12986,
+  "penny_rank": 4400,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTriplicate%2BSpirits",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTriplicate%2BSpirits",
+    "edhrec": "https://edhrec.com/route/?cc=Triplicate+Spirits"
+  }
+}

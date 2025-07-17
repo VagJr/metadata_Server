@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "06eda212-933c-484e-bbf6-611472a168ea",
+  "oracle_id": "48e6d3d8-2f27-4017-acdd-40bce8cdbc02",
+  "multiverse_ids": [],
+  "tcgplayer_id": 492046,
+  "name": "Giada, Font of Hope",
+  "lang": "ja",
+  "released_at": "2023-04-01",
+  "uri": "https://api.scryfall.com/cards/06eda212-933c-484e-bbf6-611472a168ea",
+  "scryfall_uri": "https://scryfall.com/card/pwcs/2023-2/ja/giada-font-of-hope?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/6/06eda212-933c-484e-bbf6-611472a168ea.jpg?1680218599",
+    "normal": "https://cards.scryfall.io/normal/front/0/6/06eda212-933c-484e-bbf6-611472a168ea.jpg?1680218599",
+    "large": "https://cards.scryfall.io/large/front/0/6/06eda212-933c-484e-bbf6-611472a168ea.jpg?1680218599",
+    "png": "https://cards.scryfall.io/png/front/0/6/06eda212-933c-484e-bbf6-611472a168ea.png?1680218599",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/6/06eda212-933c-484e-bbf6-611472a168ea.jpg?1680218599",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/6/06eda212-933c-484e-bbf6-611472a168ea.jpg?1680218599"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Angel",
+  "oracle_text": "Flying, vigilance\nEach other Angel you control enters with an additional +1/+1 counter on it for each Angel you already control.\n{T}: Add {W}. Spend this mana only to cast an Angel spell.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "Vigilance"
+  ],
+  "produced_mana": [
+    "W"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d08fce7e-36a9-4617-8a14-24eb460bcbaf",
+  "set": "pwcs",
+  "set_name": "Planeswalker Championship Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/d08fce7e-36a9-4617-8a14-24eb460bcbaf",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwcs&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwcs?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/06eda212-933c-484e-bbf6-611472a168ea/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A48e6d3d8-2f27-4017-acdd-40bce8cdbc02&unique=prints",
+  "collector_number": "2023-2",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Umiu Geso",
+  "artist_ids": [
+    "82d81f92-3885-4a0d-8012-8e391a0b9f2e"
+  ],
+  "illustration_id": "f9374be7-f92e-4033-a78e-9dd7b01c86b5",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1694,
+  "penny_rank": 723,
+  "prices": {
+    "usd": null,
+    "usd_foil": "9.21",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGiada%252C%2BFont%2Bof%2BHope",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGiada%252C%2BFont%2Bof%2BHope",
+    "edhrec": "https://edhrec.com/route/?cc=Giada%2C+Font+of+Hope"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F492046%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Giada%2C+Font+of+Hope&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Giada%2C+Font+of+Hope&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

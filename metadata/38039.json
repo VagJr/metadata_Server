@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "59e70558-6698-436f-a203-c5ef9f799104",
+  "oracle_id": "981298e6-ddee-49c0-9377-f47f019b4138",
+  "multiverse_ids": [],
+  "tcgplayer_id": 270663,
+  "name": "Currency Converter",
+  "lang": "en",
+  "released_at": "2022-04-29",
+  "uri": "https://api.scryfall.com/cards/59e70558-6698-436f-a203-c5ef9f799104",
+  "scryfall_uri": "https://scryfall.com/card/pncc/81p/currency-converter?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/9/59e70558-6698-436f-a203-c5ef9f799104.jpg?1675617773",
+    "normal": "https://cards.scryfall.io/normal/front/5/9/59e70558-6698-436f-a203-c5ef9f799104.jpg?1675617773",
+    "large": "https://cards.scryfall.io/large/front/5/9/59e70558-6698-436f-a203-c5ef9f799104.jpg?1675617773",
+    "png": "https://cards.scryfall.io/png/front/5/9/59e70558-6698-436f-a203-c5ef9f799104.png?1675617773",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/9/59e70558-6698-436f-a203-c5ef9f799104.jpg?1675617773",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/9/59e70558-6698-436f-a203-c5ef9f799104.jpg?1675617773"
+  },
+  "mana_cost": "{1}",
+  "cmc": 1,
+  "type_line": "Artifact",
+  "oracle_text": "Whenever you discard a card, you may exile that card from your graveyard.\n{2}, {T}: Draw a card, then discard a card.\n{T}: Put a card exiled with this artifact into your graveyard. If it's a land card, create a Treasure token. If it's a nonland card, create a 2/2 black Rogue creature token.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Treasure"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "73f94f72-a689-41ca-b1af-6004e2a57e9c",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/73f94f72-a689-41ca-b1af-6004e2a57e9c"
+    },
+    {
+      "object": "related_card",
+      "id": "59e70558-6698-436f-a203-c5ef9f799104",
+      "component": "combo_piece",
+      "name": "Currency Converter",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/59e70558-6698-436f-a203-c5ef9f799104"
+    },
+    {
+      "object": "related_card",
+      "id": "245c0d1e-7bf5-4115-b018-cbeaccdfaf77",
+      "component": "token",
+      "name": "Rogue",
+      "type_line": "Token Creature — Rogue",
+      "uri": "https://api.scryfall.com/cards/245c0d1e-7bf5-4115-b018-cbeaccdfaf77"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8f92ac22-a208-41a8-b77c-ceffbeb6a255",
+  "set": "pncc",
+  "set_name": "New Capenna Commander Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/8f92ac22-a208-41a8-b77c-ceffbeb6a255",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apncc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pncc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/59e70558-6698-436f-a203-c5ef9f799104/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A981298e6-ddee-49c0-9377-f47f019b4138&unique=prints",
+  "collector_number": "81p",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Sean Murray",
+  "artist_ids": [
+    "aa53c0ff-b486-4291-bef3-656343547811"
+  ],
+  "illustration_id": "b1524e4c-8d28-42ef-9893-b8fb364efa46",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 3820,
+  "prices": {
+    "usd": null,
+    "usd_foil": "46.34",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCurrency%2BConverter",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCurrency%2BConverter",
+    "edhrec": "https://edhrec.com/route/?cc=Currency+Converter"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F270663%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Currency+Converter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Currency+Converter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

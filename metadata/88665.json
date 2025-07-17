@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "d12d5923-bf31-4b4c-9b42-6aca2bf9bcbd",
+  "oracle_id": "79676f10-9fca-4bca-acc5-6994955142b4",
+  "multiverse_ids": [],
+  "tcgplayer_id": 222359,
+  "cardmarket_id": 497910,
+  "name": "Electrostatic Pummeler",
+  "lang": "en",
+  "released_at": "2020-09-01",
+  "uri": "https://api.scryfall.com/cards/d12d5923-bf31-4b4c-9b42-6aca2bf9bcbd",
+  "scryfall_uri": "https://scryfall.com/card/plst/KLD-210/electrostatic-pummeler?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/1/d12d5923-bf31-4b4c-9b42-6aca2bf9bcbd.jpg?1599767102",
+    "normal": "https://cards.scryfall.io/normal/front/d/1/d12d5923-bf31-4b4c-9b42-6aca2bf9bcbd.jpg?1599767102",
+    "large": "https://cards.scryfall.io/large/front/d/1/d12d5923-bf31-4b4c-9b42-6aca2bf9bcbd.jpg?1599767102",
+    "png": "https://cards.scryfall.io/png/front/d/1/d12d5923-bf31-4b4c-9b42-6aca2bf9bcbd.png?1599767102",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/1/d12d5923-bf31-4b4c-9b42-6aca2bf9bcbd.jpg?1599767102",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/1/d12d5923-bf31-4b4c-9b42-6aca2bf9bcbd.jpg?1599767102"
+  },
+  "mana_cost": "{3}",
+  "cmc": 3,
+  "type_line": "Artifact Creature — Construct",
+  "oracle_text": "When this creature enters, you get {E}{E}{E} (three energy counters).\nPay {E}{E}{E}: This creature gets +X/+X until end of turn, where X is its power.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "d12d5923-bf31-4b4c-9b42-6aca2bf9bcbd",
+      "component": "combo_piece",
+      "name": "Electrostatic Pummeler",
+      "type_line": "Artifact Creature — Construct",
+      "uri": "https://api.scryfall.com/cards/d12d5923-bf31-4b4c-9b42-6aca2bf9bcbd"
+    },
+    {
+      "object": "related_card",
+      "id": "6a2c1fa5-deed-48ba-afe4-6c8ea8d9135e",
+      "component": "combo_piece",
+      "name": "Energy Reserve",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/6a2c1fa5-deed-48ba-afe4-6c8ea8d9135e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d12d5923-bf31-4b4c-9b42-6aca2bf9bcbd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A79676f10-9fca-4bca-acc5-6994955142b4&unique=prints",
+  "collector_number": "KLD-210",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Slawomir Maniak",
+  "artist_ids": [
+    "d887bc66-2779-416c-a1ff-d8720242063e"
+  ],
+  "illustration_id": "f8a488cf-c4f0-4f97-8d62-49f8117a9b3b",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 9669,
+  "penny_rank": 4377,
+  "prices": {
+    "usd": "0.46",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.36",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DElectrostatic%2BPummeler",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DElectrostatic%2BPummeler",
+    "edhrec": "https://edhrec.com/route/?cc=Electrostatic+Pummeler"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F222359%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=497910&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Electrostatic+Pummeler&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

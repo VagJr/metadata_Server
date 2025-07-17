@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "975c4329-418a-4ada-82fa-9286fb61d61a",
+  "oracle_id": "780beda2-0f2c-49f2-a3b5-41a31bfc5f7d",
+  "multiverse_ids": [],
+  "name": "Boar",
+  "lang": "en",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/975c4329-418a-4ada-82fa-9286fb61d61a",
+  "scryfall_uri": "https://scryfall.com/card/tvow/12/boar?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/7/975c4329-418a-4ada-82fa-9286fb61d61a.jpg?1675457514",
+    "normal": "https://cards.scryfall.io/normal/front/9/7/975c4329-418a-4ada-82fa-9286fb61d61a.jpg?1675457514",
+    "large": "https://cards.scryfall.io/large/front/9/7/975c4329-418a-4ada-82fa-9286fb61d61a.jpg?1675457514",
+    "png": "https://cards.scryfall.io/png/front/9/7/975c4329-418a-4ada-82fa-9286fb61d61a.png?1675457514",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/7/975c4329-418a-4ada-82fa-9286fb61d61a.jpg?1675457514",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/7/975c4329-418a-4ada-82fa-9286fb61d61a.jpg?1675457514"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Boar",
+  "oracle_text": "",
+  "power": "3",
+  "toughness": "1",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "975c4329-418a-4ada-82fa-9286fb61d61a",
+      "component": "token",
+      "name": "Boar",
+      "type_line": "Token Creature — Boar",
+      "uri": "https://api.scryfall.com/cards/975c4329-418a-4ada-82fa-9286fb61d61a"
+    },
+    {
+      "object": "related_card",
+      "id": "428e7ae9-f299-4514-a225-ba8bbaa810f7",
+      "component": "combo_piece",
+      "name": "Rural Recruit",
+      "type_line": "Creature — Human Peasant",
+      "uri": "https://api.scryfall.com/cards/428e7ae9-f299-4514-a225-ba8bbaa810f7"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "381f2eb8-544e-409c-a8c5-7171cd78edea",
+  "set": "tvow",
+  "set_name": "Innistrad: Crimson Vow Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/381f2eb8-544e-409c-a8c5-7171cd78edea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atvow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tvow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/975c4329-418a-4ada-82fa-9286fb61d61a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A780beda2-0f2c-49f2-a3b5-41a31bfc5f7d&unique=prints",
+  "collector_number": "12",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nicholas Gregory",
+  "artist_ids": [
+    "a1bba8ff-63b4-4786-b1c4-f1bfe5d3ab1c"
+  ],
+  "illustration_id": "a36f8162-b4c6-4deb-b29a-4e30c65cde7c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBoar",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBoar",
+    "edhrec": "https://edhrec.com/route/?cc=Boar"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBoar%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Boar&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Boar&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

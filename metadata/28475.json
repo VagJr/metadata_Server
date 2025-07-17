@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "43545b96-a509-4670-8246-8cb549015836",
+  "oracle_id": "2edf106d-f504-430e-ad9c-50fc95b0ad9c",
+  "multiverse_ids": [],
+  "tcgplayer_id": 615019,
+  "name": "Bone Picker",
+  "lang": "en",
+  "released_at": "2024-09-30",
+  "uri": "https://api.scryfall.com/cards/43545b96-a509-4670-8246-8cb549015836",
+  "scryfall_uri": "https://scryfall.com/card/plst/AKH-81/bone-picker?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/3/43545b96-a509-4670-8246-8cb549015836.jpg?1740762693",
+    "normal": "https://cards.scryfall.io/normal/front/4/3/43545b96-a509-4670-8246-8cb549015836.jpg?1740762693",
+    "large": "https://cards.scryfall.io/large/front/4/3/43545b96-a509-4670-8246-8cb549015836.jpg?1740762693",
+    "png": "https://cards.scryfall.io/png/front/4/3/43545b96-a509-4670-8246-8cb549015836.png?1740762693",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/3/43545b96-a509-4670-8246-8cb549015836.jpg?1740762693",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/3/43545b96-a509-4670-8246-8cb549015836.jpg?1740762693"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4,
+  "type_line": "Creature — Bird",
+  "oracle_text": "This spell costs {3} less to cast if a creature died this turn.\nFlying, deathtouch",
+  "power": "3",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Deathtouch",
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/43545b96-a509-4670-8246-8cb549015836/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2edf106d-f504-430e-ad9c-50fc95b0ad9c&unique=prints",
+  "collector_number": "AKH-81",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "They are the first to greet dissenters on their journey into exile.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Yeong-Hao Han",
+  "artist_ids": [
+    "f8e7f8d6-6dde-4059-973c-30f1fd1bbe4e"
+  ],
+  "illustration_id": "d962f5ef-bcb3-4b97-8b32-d221c4f8fe6a",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 16368,
+  "penny_rank": 4794,
+  "prices": {
+    "usd": "0.25",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBone%2BPicker",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBone%2BPicker",
+    "edhrec": "https://edhrec.com/route/?cc=Bone+Picker"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F615019%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bone+Picker&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bone+Picker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

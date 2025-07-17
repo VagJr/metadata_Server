@@ -1,0 +1,151 @@
+{
+  "object": "card",
+  "id": "f679da19-5dac-4be6-983d-fee7e80cdb9c",
+  "oracle_id": "00225c40-27ff-410f-a591-5c788c6a2bd6",
+  "multiverse_ids": [
+    681953
+  ],
+  "arena_id": 93034,
+  "tcgplayer_id": 590711,
+  "cardmarket_id": 796637,
+  "name": "Ruthless Knave",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/f679da19-5dac-4be6-983d-fee7e80cdb9c",
+  "scryfall_uri": "https://scryfall.com/card/j25/483/ruthless-knave?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/6/f679da19-5dac-4be6-983d-fee7e80cdb9c.jpg?1730487438",
+    "normal": "https://cards.scryfall.io/normal/front/f/6/f679da19-5dac-4be6-983d-fee7e80cdb9c.jpg?1730487438",
+    "large": "https://cards.scryfall.io/large/front/f/6/f679da19-5dac-4be6-983d-fee7e80cdb9c.jpg?1730487438",
+    "png": "https://cards.scryfall.io/png/front/f/6/f679da19-5dac-4be6-983d-fee7e80cdb9c.png?1730487438",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/6/f679da19-5dac-4be6-983d-fee7e80cdb9c.jpg?1730487438",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/6/f679da19-5dac-4be6-983d-fee7e80cdb9c.jpg?1730487438"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3,
+  "type_line": "Creature — Orc Pirate",
+  "oracle_text": "{2}{B}, Sacrifice a creature: Create two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")\nSacrifice three Treasures: Draw a card.",
+  "power": "3",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Treasure"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "f679da19-5dac-4be6-983d-fee7e80cdb9c",
+      "component": "combo_piece",
+      "name": "Ruthless Knave",
+      "type_line": "Creature — Orc Pirate",
+      "uri": "https://api.scryfall.com/cards/f679da19-5dac-4be6-983d-fee7e80cdb9c"
+    },
+    {
+      "object": "related_card",
+      "id": "21210145-8edd-41f5-9a64-9f0b5be79864",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/21210145-8edd-41f5-9a64-9f0b5be79864"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9201567c-bab5-4720-aac9-260e6741f115",
+  "set": "j25",
+  "set_name": "Foundations Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/9201567c-bab5-4720-aac9-260e6741f115",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj25&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j25?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f679da19-5dac-4be6-983d-fee7e80cdb9c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A00225c40-27ff-410f-a591-5c788c6a2bd6&unique=prints",
+  "collector_number": "483",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"This scum is barely worth the trouble.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Aaron Miller",
+  "artist_ids": [
+    "fc021f3d-773a-4706-bbe7-f602324f511f"
+  ],
+  "illustration_id": "94c232d4-9595-4e7d-a016-bde207f72f01",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 7009,
+  "penny_rank": 9954,
+  "prices": {
+    "usd": "0.14",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.23",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=681953&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRuthless%2BKnave",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRuthless%2BKnave",
+    "edhrec": "https://edhrec.com/route/?cc=Ruthless+Knave"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F590711%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=796637&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ruthless+Knave&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

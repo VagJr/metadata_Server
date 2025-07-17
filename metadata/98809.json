@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "e9798002-aa6e-42a4-9cf0-191f0f6d9453",
+  "oracle_id": "1d05e441-84d4-482f-95a8-7842e776cad2",
+  "multiverse_ids": [],
+  "tcgplayer_id": 243642,
+  "cardmarket_id": 571952,
+  "name": "Hellkite Overlord",
+  "lang": "en",
+  "released_at": "2021-07-23",
+  "uri": "https://api.scryfall.com/cards/e9798002-aa6e-42a4-9cf0-191f0f6d9453",
+  "scryfall_uri": "https://scryfall.com/card/plst/ALA-172/hellkite-overlord?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/9/e9798002-aa6e-42a4-9cf0-191f0f6d9453.jpg?1626118192",
+    "normal": "https://cards.scryfall.io/normal/front/e/9/e9798002-aa6e-42a4-9cf0-191f0f6d9453.jpg?1626118192",
+    "large": "https://cards.scryfall.io/large/front/e/9/e9798002-aa6e-42a4-9cf0-191f0f6d9453.jpg?1626118192",
+    "png": "https://cards.scryfall.io/png/front/e/9/e9798002-aa6e-42a4-9cf0-191f0f6d9453.png?1626118192",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/9/e9798002-aa6e-42a4-9cf0-191f0f6d9453.jpg?1626118192",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/9/e9798002-aa6e-42a4-9cf0-191f0f6d9453.jpg?1626118192"
+  },
+  "mana_cost": "{4}{B}{R}{R}{G}",
+  "cmc": 8,
+  "type_line": "Creature — Dragon",
+  "oracle_text": "Flying, trample, haste\n{R}: This creature gets +1/+0 until end of turn.\n{B}{G}: Regenerate this creature.",
+  "power": "8",
+  "toughness": "8",
+  "colors": [
+    "B",
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "R"
+  ],
+  "keywords": [
+    "Flying",
+    "Haste",
+    "Trample"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e9798002-aa6e-42a4-9cf0-191f0f6d9453",
+      "component": "combo_piece",
+      "name": "Hellkite Overlord",
+      "type_line": "Creature — Dragon",
+      "uri": "https://api.scryfall.com/cards/e9798002-aa6e-42a4-9cf0-191f0f6d9453"
+    },
+    {
+      "object": "related_card",
+      "id": "2d5873e8-ba15-4a24-aab8-91f1f390d821",
+      "component": "combo_piece",
+      "name": "Dragon's Herald",
+      "type_line": "Creature — Goblin Shaman",
+      "uri": "https://api.scryfall.com/cards/2d5873e8-ba15-4a24-aab8-91f1f390d821"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e9798002-aa6e-42a4-9cf0-191f0f6d9453/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1d05e441-84d4-482f-95a8-7842e776cad2&unique=prints",
+  "collector_number": "ALA-172",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "\"The dragon has no pretense of compassion, no false mask of civilization—just hunger, heat, and need.\"\n—Sarkhan Vol",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Justin Sweet",
+  "artist_ids": [
+    "bb15780e-8f96-4823-b258-a7a9fd79b02c"
+  ],
+  "illustration_id": "a51ba40e-c746-43e7-aa00-a83d9957b65c",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 15122,
+  "penny_rank": 3019,
+  "prices": {
+    "usd": "0.55",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.87",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHellkite%2BOverlord",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHellkite%2BOverlord",
+    "edhrec": "https://edhrec.com/route/?cc=Hellkite+Overlord"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F243642%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=571952&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hellkite+Overlord&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

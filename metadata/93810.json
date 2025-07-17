@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "dd76c977-9522-4031-ba4e-c278c8502258",
+  "oracle_id": "8fe7436b-2467-486e-8a2d-7cbf21a65da9",
+  "multiverse_ids": [
+    547697
+  ],
+  "arena_id": 74016,
+  "name": "Consign // Oblivion",
+  "lang": "en",
+  "released_at": "2020-08-13",
+  "uri": "https://api.scryfall.com/cards/dd76c977-9522-4031-ba4e-c278c8502258",
+  "scryfall_uri": "https://scryfall.com/card/akr/230/consign-oblivion?utm_source=api",
+  "layout": "split",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/d/dd76c977-9522-4031-ba4e-c278c8502258.jpg?1671337627",
+    "normal": "https://cards.scryfall.io/normal/front/d/d/dd76c977-9522-4031-ba4e-c278c8502258.jpg?1671337627",
+    "large": "https://cards.scryfall.io/large/front/d/d/dd76c977-9522-4031-ba4e-c278c8502258.jpg?1671337627",
+    "png": "https://cards.scryfall.io/png/front/d/d/dd76c977-9522-4031-ba4e-c278c8502258.png?1671337627",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/d/dd76c977-9522-4031-ba4e-c278c8502258.jpg?1671337627",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/d/dd76c977-9522-4031-ba4e-c278c8502258.jpg?1671337627"
+  },
+  "mana_cost": "{1}{U} // {4}{B}",
+  "cmc": 7,
+  "type_line": "Instant // Sorcery",
+  "colors": [
+    "B",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [
+    "Aftermath"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Consign",
+      "mana_cost": "{1}{U}",
+      "type_line": "Instant",
+      "oracle_text": "Return target nonland permanent to its owner's hand.",
+      "artist": "Sidharth Chaturvedi",
+      "artist_id": "55e6d846-2f73-4fba-9b88-441686bb8dcb",
+      "illustration_id": "dd55b07d-9d98-4518-b729-c336d8b867b3"
+    },
+    {
+      "object": "card_face",
+      "name": "Oblivion",
+      "mana_cost": "{4}{B}",
+      "type_line": "Sorcery",
+      "oracle_text": "Aftermath (Cast this spell only from your graveyard. Then exile it.)\nTarget opponent discards two cards.",
+      "artist": "Sidharth Chaturvedi",
+      "artist_id": "55e6d846-2f73-4fba-9b88-441686bb8dcb"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "915dabb1-b82a-432d-939d-d9b128e65582",
+  "set": "akr",
+  "set_name": "Amonkhet Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/915dabb1-b82a-432d-939d-d9b128e65582",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aakr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/akr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/dd76c977-9522-4031-ba4e-c278c8502258/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8fe7436b-2467-486e-8a2d-7cbf21a65da9&unique=prints",
+  "collector_number": "230",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Sidharth Chaturvedi",
+  "artist_ids": [
+    "55e6d846-2f73-4fba-9b88-441686bb8dcb"
+  ],
+  "illustration_id": "dd55b07d-9d98-4518-b729-c336d8b867b3",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 8247,
+  "penny_rank": 2093,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547697&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DConsign%2B%252F%252F%2BOblivion",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DConsign%2B%252F%252F%2BOblivion",
+    "edhrec": "https://edhrec.com/route/?cc=Consign+%2F%2F+Oblivion"
+  }
+}

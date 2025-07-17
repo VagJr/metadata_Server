@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "e473db8a-ee0e-4753-aaab-76eda5808075",
+  "oracle_id": "ad7d854b-d303-40eb-acd6-03a8023e05e7",
+  "multiverse_ids": [
+    657754
+  ],
+  "mtgo_id": 123581,
+  "arena_id": 90707,
+  "tcgplayer_id": 544727,
+  "cardmarket_id": 764149,
+  "name": "Commandeer",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/e473db8a-ee0e-4753-aaab-76eda5808075",
+  "scryfall_uri": "https://scryfall.com/card/otp/9/commandeer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/4/e473db8a-ee0e-4753-aaab-76eda5808075.jpg?1712353423",
+    "normal": "https://cards.scryfall.io/normal/front/e/4/e473db8a-ee0e-4753-aaab-76eda5808075.jpg?1712353423",
+    "large": "https://cards.scryfall.io/large/front/e/4/e473db8a-ee0e-4753-aaab-76eda5808075.jpg?1712353423",
+    "png": "https://cards.scryfall.io/png/front/e/4/e473db8a-ee0e-4753-aaab-76eda5808075.png?1712353423",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/4/e473db8a-ee0e-4753-aaab-76eda5808075.jpg?1712353423",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/4/e473db8a-ee0e-4753-aaab-76eda5808075.jpg?1712353423"
+  },
+  "mana_cost": "{5}{U}{U}",
+  "cmc": 7,
+  "type_line": "Instant",
+  "oracle_text": "You may exile two blue cards from your hand rather than pay this spell's mana cost.\nGain control of target noncreature spell. You may choose new targets for it. (If that spell is an artifact, enchantment, or planeswalker, the permanent enters under your control.)",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "banned",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8b51294d-fc54-410c-83b2-0168837ede87",
+  "set": "otp",
+  "set_name": "Breaking News",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/8b51294d-fc54-410c-83b2-0168837ede87",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e473db8a-ee0e-4753-aaab-76eda5808075/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aad7d854b-d303-40eb-acd6-03a8023e05e7&unique=prints",
+  "collector_number": "9",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Off the Rails? Serial Train Robber Strikes Again!",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Magnus Jansson",
+  "artist_ids": [
+    "a04ded22-6fe3-46e4-a2a4-5360e2483224"
+  ],
+  "illustration_id": "0ab58e3d-2c99-40e7-9302-e14735f46f8a",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 3199,
+  "penny_rank": 200,
+  "prices": {
+    "usd": "0.65",
+    "usd_foil": "1.56",
+    "usd_etched": null,
+    "eur": "0.85",
+    "eur_foil": "1.99",
+    "tix": "0.22"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=657754&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCommandeer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCommandeer",
+    "edhrec": "https://edhrec.com/route/?cc=Commandeer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544727%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=764149&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/123581?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

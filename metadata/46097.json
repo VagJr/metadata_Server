@@ -1,0 +1,159 @@
+{
+  "object": "card",
+  "id": "6ce4e34d-cf32-48ab-8554-caa0518ab1fb",
+  "oracle_id": "36d8b701-f5dc-42c0-9869-268f8149cbd1",
+  "multiverse_ids": [
+    559193
+  ],
+  "tcgplayer_id": 269010,
+  "cardmarket_id": 652240,
+  "name": "Cabaretti Charm",
+  "lang": "en",
+  "released_at": "2022-04-29",
+  "uri": "https://api.scryfall.com/cards/6ce4e34d-cf32-48ab-8554-caa0518ab1fb",
+  "scryfall_uri": "https://scryfall.com/card/snc/365/cabaretti-charm?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/c/6ce4e34d-cf32-48ab-8554-caa0518ab1fb.jpg?1664416129",
+    "normal": "https://cards.scryfall.io/normal/front/6/c/6ce4e34d-cf32-48ab-8554-caa0518ab1fb.jpg?1664416129",
+    "large": "https://cards.scryfall.io/large/front/6/c/6ce4e34d-cf32-48ab-8554-caa0518ab1fb.jpg?1664416129",
+    "png": "https://cards.scryfall.io/png/front/6/c/6ce4e34d-cf32-48ab-8554-caa0518ab1fb.png?1664416129",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/c/6ce4e34d-cf32-48ab-8554-caa0518ab1fb.jpg?1664416129",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/c/6ce4e34d-cf32-48ab-8554-caa0518ab1fb.jpg?1664416129"
+  },
+  "mana_cost": "{R}{G}{W}",
+  "cmc": 3,
+  "type_line": "Instant",
+  "oracle_text": "Choose one —\n• Cabaretti Charm deals damage equal to the number of creatures you control to target creature or planeswalker.\n• Creatures you control get +1/+1 and gain trample until end of turn.\n• Create two 1/1 green and white Citizen creature tokens.",
+  "colors": [
+    "G",
+    "R",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "R",
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6ce4e34d-cf32-48ab-8554-caa0518ab1fb",
+      "component": "combo_piece",
+      "name": "Cabaretti Charm",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/6ce4e34d-cf32-48ab-8554-caa0518ab1fb"
+    },
+    {
+      "object": "related_card",
+      "id": "94e82413-9736-4013-a39a-5498c1c85bba",
+      "component": "combo_piece",
+      "name": "A-Cabaretti Charm",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/94e82413-9736-4013-a39a-5498c1c85bba"
+    },
+    {
+      "object": "related_card",
+      "id": "3f03e9fe-cb71-498e-bf16-5af6af37a192",
+      "component": "token",
+      "name": "Citizen",
+      "type_line": "Token Creature — Citizen",
+      "uri": "https://api.scryfall.com/cards/3f03e9fe-cb71-498e-bf16-5af6af37a192"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+  "set": "snc",
+  "set_name": "Streets of New Capenna",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6ce4e34d-cf32-48ab-8554-caa0518ab1fb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A36d8b701-f5dc-42c0-9869-268f8149cbd1&unique=prints",
+  "collector_number": "365",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jérémie Solomon",
+  "artist_ids": [
+    "53c2b1ff-9b69-4fa0-99d6-2362b676f249"
+  ],
+  "illustration_id": "fcefaea9-15ff-4335-870a-ea748d5ab999",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "gilded",
+    "boosterfun"
+  ],
+  "edhrec_rank": 5683,
+  "penny_rank": 11591,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.41",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.47",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=559193&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCabaretti%2BCharm",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCabaretti%2BCharm",
+    "edhrec": "https://edhrec.com/route/?cc=Cabaretti+Charm"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F269010%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=652240&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cabaretti+Charm&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

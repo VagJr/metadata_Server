@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "4bdfdb25-cfde-404f-b2f6-74283c8daa03",
+  "oracle_id": "0e488c6c-aae2-450f-b969-7bb5a1b37a66",
+  "multiverse_ids": [],
+  "tcgplayer_id": 271709,
+  "cardmarket_id": 662686,
+  "name": "Persistent Petitioners",
+  "lang": "en",
+  "released_at": "2022-05-05",
+  "uri": "https://api.scryfall.com/cards/4bdfdb25-cfde-404f-b2f6-74283c8daa03",
+  "scryfall_uri": "https://scryfall.com/card/sld/593/persistent-petitioners?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/b/4bdfdb25-cfde-404f-b2f6-74283c8daa03.jpg?1682692856",
+    "normal": "https://cards.scryfall.io/normal/front/4/b/4bdfdb25-cfde-404f-b2f6-74283c8daa03.jpg?1682692856",
+    "large": "https://cards.scryfall.io/large/front/4/b/4bdfdb25-cfde-404f-b2f6-74283c8daa03.jpg?1682692856",
+    "png": "https://cards.scryfall.io/png/front/4/b/4bdfdb25-cfde-404f-b2f6-74283c8daa03.png?1682692856",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/b/4bdfdb25-cfde-404f-b2f6-74283c8daa03.jpg?1682692856",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/b/4bdfdb25-cfde-404f-b2f6-74283c8daa03.jpg?1682692856"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Creature — Human Advisor",
+  "oracle_text": "{1}, {T}: Target player mills a card. (They put the top card of their library into their graveyard.)\nTap four untapped Advisors you control: Target player mills twelve cards.\nA deck can have any number of cards named Persistent Petitioners.",
+  "power": "1",
+  "toughness": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4bdfdb25-cfde-404f-b2f6-74283c8daa03/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0e488c6c-aae2-450f-b969-7bb5a1b37a66&unique=prints",
+  "collector_number": "593",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\". . . we will no longer sit idly by, fearing for our lives! To that end . . .\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Brandi Milne",
+  "artist_ids": [
+    "01cc1b83-03de-40a7-aa38-a9d23cf2fe8b"
+  ],
+  "illustration_id": "530e91a8-9461-45a8-b8e7-4736c8ddbda6",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "sldbonus"
+  ],
+  "edhrec_rank": 9643,
+  "penny_rank": 7346,
+  "prices": {
+    "usd": null,
+    "usd_foil": "38.35",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "8.95",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPersistent%2BPetitioners",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPersistent%2BPetitioners",
+    "edhrec": "https://edhrec.com/route/?cc=Persistent+Petitioners"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F271709%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=662686&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Persistent+Petitioners&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

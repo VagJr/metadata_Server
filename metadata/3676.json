@@ -1,0 +1,117 @@
+{
+  "object": "card",
+  "id": "08784b79-570d-495c-a05e-d5fe3e876a97",
+  "oracle_id": "46779609-4fa7-4fd2-b5b4-7d4d749339e6",
+  "multiverse_ids": [],
+  "arena_id": 55059,
+  "name": "Courser of Kruphix",
+  "lang": "en",
+  "released_at": "2022-12-13",
+  "uri": "https://api.scryfall.com/cards/08784b79-570d-495c-a05e-d5fe3e876a97",
+  "scryfall_uri": "https://scryfall.com/card/ea2/15/courser-of-kruphix?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/8/08784b79-570d-495c-a05e-d5fe3e876a97.jpg?1681728962",
+    "normal": "https://cards.scryfall.io/normal/front/0/8/08784b79-570d-495c-a05e-d5fe3e876a97.jpg?1681728962",
+    "large": "https://cards.scryfall.io/large/front/0/8/08784b79-570d-495c-a05e-d5fe3e876a97.jpg?1681728962",
+    "png": "https://cards.scryfall.io/png/front/0/8/08784b79-570d-495c-a05e-d5fe3e876a97.png?1681728962",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/8/08784b79-570d-495c-a05e-d5fe3e876a97.jpg?1681728962",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/8/08784b79-570d-495c-a05e-d5fe3e876a97.jpg?1681728962"
+  },
+  "mana_cost": "{1}{G}{G}",
+  "cmc": 3,
+  "type_line": "Enchantment Creature — Centaur",
+  "oracle_text": "Play with the top card of your library revealed.\nYou may play lands from the top of your library.\nLandfall — Whenever a land you control enters, you gain 1 life.",
+  "power": "2",
+  "toughness": "4",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Landfall"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c1dd276e-baf6-4f3c-ba8f-3c1bd0cdefb8",
+  "set": "ea2",
+  "set_name": "Explorer Anthology 2",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/c1dd276e-baf6-4f3c-ba8f-3c1bd0cdefb8",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aea2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ea2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/08784b79-570d-495c-a05e-d5fe3e876a97/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A46779609-4fa7-4fd2-b5b4-7d4d749339e6&unique=prints",
+  "collector_number": "15",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Eric Deschamps",
+  "artist_ids": [
+    "37970e22-9cee-44c1-af44-5ee27cf26b76"
+  ],
+  "illustration_id": "9c9cbfac-2ba7-4570-acf2-d0d1dd6b560d",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "enchantment"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 930,
+  "penny_rank": 499,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCourser%2Bof%2BKruphix",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCourser%2Bof%2BKruphix",
+    "edhrec": "https://edhrec.com/route/?cc=Courser+of+Kruphix"
+  }
+}

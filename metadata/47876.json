@@ -1,0 +1,148 @@
+{
+  "object": "card",
+  "id": "71197d52-0685-4f7d-bc1f-bcbab9eb61a0",
+  "oracle_id": "659bc01c-fa60-4d00-bdad-5bca1d2a978f",
+  "multiverse_ids": [],
+  "tcgplayer_id": 625799,
+  "name": "Anafenza, Unyielding Lineage",
+  "lang": "en",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/71197d52-0685-4f7d-bc1f-bcbab9eb61a0",
+  "scryfall_uri": "https://scryfall.com/card/ptdm/2s/anafenza-unyielding-lineage?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/1/71197d52-0685-4f7d-bc1f-bcbab9eb61a0.jpg?1744835493",
+    "normal": "https://cards.scryfall.io/normal/front/7/1/71197d52-0685-4f7d-bc1f-bcbab9eb61a0.jpg?1744835493",
+    "large": "https://cards.scryfall.io/large/front/7/1/71197d52-0685-4f7d-bc1f-bcbab9eb61a0.jpg?1744835493",
+    "png": "https://cards.scryfall.io/png/front/7/1/71197d52-0685-4f7d-bc1f-bcbab9eb61a0.png?1744835493",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/1/71197d52-0685-4f7d-bc1f-bcbab9eb61a0.jpg?1744835493",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/1/71197d52-0685-4f7d-bc1f-bcbab9eb61a0.jpg?1744835493"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Spirit Soldier",
+  "oracle_text": "Flash\nFirst strike\nWhenever another nontoken creature you control dies, Anafenza endures 2. (Put two +1/+1 counters on it or create a 2/2 white Spirit creature token.)",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "First strike",
+    "Flash",
+    "Endure"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "71197d52-0685-4f7d-bc1f-bcbab9eb61a0",
+      "component": "combo_piece",
+      "name": "Anafenza, Unyielding Lineage",
+      "type_line": "Legendary Creature — Spirit Soldier",
+      "uri": "https://api.scryfall.com/cards/71197d52-0685-4f7d-bc1f-bcbab9eb61a0"
+    },
+    {
+      "object": "related_card",
+      "id": "b83a7343-9f5f-4b79-8929-c84011de401c",
+      "component": "token",
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/b83a7343-9f5f-4b79-8929-c84011de401c"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "f17bfc1b-a0dc-45df-9585-84d8d433124f",
+  "set": "ptdm",
+  "set_name": "Tarkir: Dragonstorm Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/f17bfc1b-a0dc-45df-9585-84d8d433124f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aptdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ptdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/71197d52-0685-4f7d-bc1f-bcbab9eb61a0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A659bc01c-fa60-4d00-bdad-5bca1d2a978f&unique=prints",
+  "collector_number": "2s",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "abzan",
+  "flavor_text": "\"La familia y el clan me reclaman y yo siempre respondo a su llamada\".",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Matt Stewart",
+  "artist_ids": [
+    "20871267-2d8a-41d5-b03a-be3d557c5734"
+  ],
+  "illustration_id": "0a5e1f80-862e-40a9-ada2-8e0726cc5eda",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 11047,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.00",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAnafenza%252C%2BUnyielding%2BLineage",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAnafenza%252C%2BUnyielding%2BLineage",
+    "edhrec": "https://edhrec.com/route/?cc=Anafenza%2C+Unyielding+Lineage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F625799%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Anafenza%2C+Unyielding+Lineage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Anafenza%2C+Unyielding+Lineage&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

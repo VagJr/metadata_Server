@@ -1,0 +1,114 @@
+{
+  "object": "card",
+  "id": "11b1dabc-2b2e-4757-aeeb-ac9bdcf8880a",
+  "oracle_id": "dafe63ef-f3d6-45e7-877a-573da92ba85e",
+  "multiverse_ids": [],
+  "tcgplayer_id": 449311,
+  "name": "Pestilence",
+  "lang": "en",
+  "released_at": "2022-11-28",
+  "uri": "https://api.scryfall.com/cards/11b1dabc-2b2e-4757-aeeb-ac9bdcf8880a",
+  "scryfall_uri": "https://scryfall.com/card/30a/414/pestilence?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/1/11b1dabc-2b2e-4757-aeeb-ac9bdcf8880a.jpg?1664927944",
+    "normal": "https://cards.scryfall.io/normal/front/1/1/11b1dabc-2b2e-4757-aeeb-ac9bdcf8880a.jpg?1664927944",
+    "large": "https://cards.scryfall.io/large/front/1/1/11b1dabc-2b2e-4757-aeeb-ac9bdcf8880a.jpg?1664927944",
+    "png": "https://cards.scryfall.io/png/front/1/1/11b1dabc-2b2e-4757-aeeb-ac9bdcf8880a.png?1664927944",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/1/11b1dabc-2b2e-4757-aeeb-ac9bdcf8880a.jpg?1664927944",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/1/11b1dabc-2b2e-4757-aeeb-ac9bdcf8880a.jpg?1664927944"
+  },
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4,
+  "type_line": "Enchantment",
+  "oracle_text": "At the beginning of the end step, if no creatures are on the battlefield, sacrifice this enchantment.\n{B}: This enchantment deals 1 damage to each creature and each player.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c3cddb17-44d9-4abd-8d19-666f6c5171fe",
+  "set": "30a",
+  "set_name": "30th Anniversary Edition",
+  "set_type": "memorabilia",
+  "set_uri": "https://api.scryfall.com/sets/c3cddb17-44d9-4abd-8d19-666f6c5171fe",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A30a&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/30a?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/11b1dabc-2b2e-4757-aeeb-ac9bdcf8880a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adafe63ef-f3d6-45e7-877a-573da92ba85e&unique=prints",
+  "collector_number": "414",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "049a6229-ace9-4363-816a-60cb8773e95d",
+  "artist": "Jesper Myrfors",
+  "artist_ids": [
+    "c011318e-8503-48c1-a990-46e50aff48a0"
+  ],
+  "illustration_id": "dd3f5dbb-9fb4-4ff0-a549-e5a531685f68",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3779,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPestilence",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPestilence",
+    "edhrec": "https://edhrec.com/route/?cc=Pestilence"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F449311%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pestilence&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Pestilence&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

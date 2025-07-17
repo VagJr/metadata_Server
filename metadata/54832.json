@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "81cfc85c-ff43-44e2-8143-2c4a4c768732",
+  "oracle_id": "cf5f4860-e805-46a3-9352-a2c583e33403",
+  "multiverse_ids": [],
+  "tcgplayer_id": 501278,
+  "name": "Storm of Saruman",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/81cfc85c-ff43-44e2-8143-2c4a4c768732",
+  "scryfall_uri": "https://scryfall.com/card/pltr/72s/storm-of-saruman?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/1/81cfc85c-ff43-44e2-8143-2c4a4c768732.jpg?1687888028",
+    "normal": "https://cards.scryfall.io/normal/front/8/1/81cfc85c-ff43-44e2-8143-2c4a4c768732.jpg?1687888028",
+    "large": "https://cards.scryfall.io/large/front/8/1/81cfc85c-ff43-44e2-8143-2c4a4c768732.jpg?1687888028",
+    "png": "https://cards.scryfall.io/png/front/8/1/81cfc85c-ff43-44e2-8143-2c4a4c768732.png?1687888028",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/1/81cfc85c-ff43-44e2-8143-2c4a4c768732.jpg?1687888028",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/1/81cfc85c-ff43-44e2-8143-2c4a4c768732.jpg?1687888028"
+  },
+  "mana_cost": "{4}{U}{U}",
+  "cmc": 6,
+  "type_line": "Enchantment",
+  "oracle_text": "Ward {3}\nWhenever you cast your second spell each turn, copy it, except the copy isn't legendary. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Ward"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "1012754e-18e5-4a76-b9a3-24c55eaab1c5",
+  "set": "pltr",
+  "set_name": "Tales of Middle-earth Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/1012754e-18e5-4a76-b9a3-24c55eaab1c5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apltr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pltr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/81cfc85c-ff43-44e2-8143-2c4a4c768732/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acf5f4860-e805-46a3-9352-a2c583e33403&unique=prints",
+  "collector_number": "72s",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "Isengard had once been filled with fruitful trees, but no green thing grew there in the latter days of Saruman.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lorenzo Lanfranconi",
+  "artist_ids": [
+    "334dd388-1e26-4181-8eca-f9c097e29c5e"
+  ],
+  "illustration_id": "53452901-467c-4d27-bc14-47b1bf79b722",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 2977,
+  "penny_rank": 12783,
+  "prices": {
+    "usd": null,
+    "usd_foil": "14.85",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DStorm%2Bof%2BSaruman",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DStorm%2Bof%2BSaruman",
+    "edhrec": "https://edhrec.com/route/?cc=Storm+of+Saruman"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F501278%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Storm+of+Saruman&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Storm+of+Saruman&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

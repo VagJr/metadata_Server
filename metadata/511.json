@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "0125863c-9f23-4985-b7ee-c53039819ee6",
+  "oracle_id": "11e3f1d3-9d78-4c00-b965-e14407fd5210",
+  "multiverse_ids": [],
+  "mtgo_id": 88338,
+  "name": "Old-Growth Troll",
+  "lang": "en",
+  "released_at": "2021-02-28",
+  "uri": "https://api.scryfall.com/cards/0125863c-9f23-4985-b7ee-c53039819ee6",
+  "scryfall_uri": "https://scryfall.com/card/prm/88338/old-growth-troll?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/1/0125863c-9f23-4985-b7ee-c53039819ee6.jpg?1681079727",
+    "normal": "https://cards.scryfall.io/normal/front/0/1/0125863c-9f23-4985-b7ee-c53039819ee6.jpg?1681079727",
+    "large": "https://cards.scryfall.io/large/front/0/1/0125863c-9f23-4985-b7ee-c53039819ee6.jpg?1681079727",
+    "png": "https://cards.scryfall.io/png/front/0/1/0125863c-9f23-4985-b7ee-c53039819ee6.png?1681079727",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/1/0125863c-9f23-4985-b7ee-c53039819ee6.jpg?1681079727",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/1/0125863c-9f23-4985-b7ee-c53039819ee6.jpg?1681079727"
+  },
+  "mana_cost": "{G}{G}{G}",
+  "cmc": 3,
+  "type_line": "Creature — Troll Warrior",
+  "oracle_text": "Trample\nWhen Old-Growth Troll dies, if it was a creature, return it to the battlefield. It's an Aura enchantment with enchant Forest you control and \"Enchanted Forest has '{T}: Add {G}{G}' and '{1}, {T}, Sacrifice this land: Create a tapped 4/4 green Troll Warrior creature token with trample.'\"",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Trample"
+  ],
+  "produced_mana": [
+    "G"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "0125863c-9f23-4985-b7ee-c53039819ee6",
+      "component": "combo_piece",
+      "name": "Old-Growth Troll",
+      "type_line": "Creature — Troll Warrior",
+      "uri": "https://api.scryfall.com/cards/0125863c-9f23-4985-b7ee-c53039819ee6"
+    },
+    {
+      "object": "related_card",
+      "id": "8869a8cc-d196-417f-bba5-5ed31bae6a18",
+      "component": "token",
+      "name": "Troll Warrior",
+      "type_line": "Token Creature — Troll Warrior",
+      "uri": "https://api.scryfall.com/cards/8869a8cc-d196-417f-bba5-5ed31bae6a18"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0125863c-9f23-4985-b7ee-c53039819ee6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A11e3f1d3-9d78-4c00-b965-e14407fd5210&unique=prints",
+  "collector_number": "88338",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jesper Ejsing",
+  "artist_ids": [
+    "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+  ],
+  "illustration_id": "731268bd-cbef-4d01-974e-688be2835379",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 13579,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "1.42"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOld-Growth%2BTroll",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOld-Growth%2BTroll",
+    "edhrec": "https://edhrec.com/route/?cc=Old-Growth+Troll"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DOld-Growth%2BTroll%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Old-Growth+Troll&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/88338?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

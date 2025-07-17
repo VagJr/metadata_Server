@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "348d4546-3da5-4f78-82f3-9a79d2f9b0d1",
+  "oracle_id": "34428f42-03ac-4795-8286-6cbea796df2b",
+  "multiverse_ids": [],
+  "mtgo_id": 140359,
+  "tcgplayer_id": 631307,
+  "cardmarket_id": 824673,
+  "name": "Incubation Druid",
+  "lang": "en",
+  "released_at": "2025-06-13",
+  "uri": "https://api.scryfall.com/cards/348d4546-3da5-4f78-82f3-9a79d2f9b0d1",
+  "scryfall_uri": "https://scryfall.com/card/fic/309/incubation-druid?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/4/348d4546-3da5-4f78-82f3-9a79d2f9b0d1.jpg?1748705293",
+    "normal": "https://cards.scryfall.io/normal/front/3/4/348d4546-3da5-4f78-82f3-9a79d2f9b0d1.jpg?1748705293",
+    "large": "https://cards.scryfall.io/large/front/3/4/348d4546-3da5-4f78-82f3-9a79d2f9b0d1.jpg?1748705293",
+    "png": "https://cards.scryfall.io/png/front/3/4/348d4546-3da5-4f78-82f3-9a79d2f9b0d1.png?1748705293",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/4/348d4546-3da5-4f78-82f3-9a79d2f9b0d1.jpg?1748705293",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/4/348d4546-3da5-4f78-82f3-9a79d2f9b0d1.jpg?1748705293"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2,
+  "type_line": "Creature — Elf Druid",
+  "oracle_text": "{T}: Add one mana of any type that a land you control could produce. If this creature has a +1/+1 counter on it, add three mana of that type instead.\n{3}{G}{G}: Adapt 3. (If this creature has no +1/+1 counters on it, put three +1/+1 counters on it.)",
+  "power": "0",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Adapt"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "30659956-4558-4cbf-a65f-34cd00c89579",
+  "set": "fic",
+  "set_name": "Final Fantasy Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/30659956-4558-4cbf-a65f-34cd00c89579",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afic&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fic?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/348d4546-3da5-4f78-82f3-9a79d2f9b0d1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A34428f42-03ac-4795-8286-6cbea796df2b&unique=prints",
+  "collector_number": "309",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "IWAO",
+  "artist_ids": [
+    "7dd69a59-517a-431e-a178-f37a9b0dfac5"
+  ],
+  "illustration_id": "32cdd1a2-10a4-4ea1-8a8f-1b8158501d58",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "surgefoil",
+    "ffx"
+  ],
+  "edhrec_rank": 628,
+  "penny_rank": 4096,
+  "prices": {
+    "usd": "0.59",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "1.40",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DIncubation%2BDruid",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DIncubation%2BDruid",
+    "edhrec": "https://edhrec.com/route/?cc=Incubation+Druid"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F631307%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=824673&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/140359?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

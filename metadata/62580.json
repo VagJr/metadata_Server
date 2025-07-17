@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "940f59ff-b72b-4113-8d7c-3d820b2f8549",
+  "oracle_id": "cb905eb0-bb20-41c0-9695-0f5c71972561",
+  "multiverse_ids": [
+    626360
+  ],
+  "mtgo_id": 113355,
+  "tcgplayer_etched_id": 503418,
+  "cardmarket_id": 721809,
+  "name": "Chainer, Dementia Master",
+  "lang": "en",
+  "released_at": "2023-08-04",
+  "uri": "https://api.scryfall.com/cards/940f59ff-b72b-4113-8d7c-3d820b2f8549",
+  "scryfall_uri": "https://scryfall.com/card/cmm/505/chainer-dementia-master?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/4/940f59ff-b72b-4113-8d7c-3d820b2f8549.jpg?1690000737",
+    "normal": "https://cards.scryfall.io/normal/front/9/4/940f59ff-b72b-4113-8d7c-3d820b2f8549.jpg?1690000737",
+    "large": "https://cards.scryfall.io/large/front/9/4/940f59ff-b72b-4113-8d7c-3d820b2f8549.jpg?1690000737",
+    "png": "https://cards.scryfall.io/png/front/9/4/940f59ff-b72b-4113-8d7c-3d820b2f8549.png?1690000737",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/4/940f59ff-b72b-4113-8d7c-3d820b2f8549.jpg?1690000737",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/4/940f59ff-b72b-4113-8d7c-3d820b2f8549.jpg?1690000737"
+  },
+  "mana_cost": "{3}{B}{B}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Human Minion",
+  "oracle_text": "All Nightmares get +1/+1.\n{B}{B}{B}, Pay 3 life: Put target creature card from a graveyard onto the battlefield under your control. That creature is black and is a Nightmare in addition to its other creature types.\nWhen Chainer leaves the battlefield, exile all Nightmares.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": false,
+  "finishes": [
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set": "cmm",
+  "set_name": "Commander Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/940f59ff-b72b-4113-8d7c-3d820b2f8549/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acb905eb0-bb20-41c0-9695-0f5c71972561&unique=prints",
+  "collector_number": "505",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mark Zug",
+  "artist_ids": [
+    "48e2b98c-5467-4671-bd42-4c3746115117"
+  ],
+  "illustration_id": "60d1ddfd-b676-4227-babd-e4a1d60f6c86",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted",
+    "etched"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 4441,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": "0.94",
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.20"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=626360&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DChainer%252C%2BDementia%2BMaster",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DChainer%252C%2BDementia%2BMaster",
+    "edhrec": "https://edhrec.com/route/?cc=Chainer%2C+Dementia+Master"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DChainer%252C%2BDementia%2BMaster%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=721809&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/113355?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

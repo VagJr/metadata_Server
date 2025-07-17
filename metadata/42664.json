@@ -1,0 +1,152 @@
+{
+  "object": "card",
+  "id": "64b0acfa-1a8d-4a94-8972-c9bb235e4897",
+  "oracle_id": "26445dc7-8363-4205-aee8-1cafeb4ba4c0",
+  "multiverse_ids": [
+    611295
+  ],
+  "mtgo_id": 109678,
+  "tcgplayer_id": 484643,
+  "cardmarket_id": 706019,
+  "name": "Omnath, Locus of All",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/64b0acfa-1a8d-4a94-8972-c9bb235e4897",
+  "scryfall_uri": "https://scryfall.com/card/mom/387/omnath-locus-of-all?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/4/64b0acfa-1a8d-4a94-8972-c9bb235e4897.jpg?1687433726",
+    "normal": "https://cards.scryfall.io/normal/front/6/4/64b0acfa-1a8d-4a94-8972-c9bb235e4897.jpg?1687433726",
+    "large": "https://cards.scryfall.io/large/front/6/4/64b0acfa-1a8d-4a94-8972-c9bb235e4897.jpg?1687433726",
+    "png": "https://cards.scryfall.io/png/front/6/4/64b0acfa-1a8d-4a94-8972-c9bb235e4897.png?1687433726",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/4/64b0acfa-1a8d-4a94-8972-c9bb235e4897.jpg?1687433726",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/4/64b0acfa-1a8d-4a94-8972-c9bb235e4897.jpg?1687433726"
+  },
+  "mana_cost": "{W}{U}{B/P}{R}{G}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Phyrexian Elemental",
+  "oracle_text": "If you would lose unspent mana, that mana becomes black instead.\nAt the beginning of your first main phase, look at the top card of your library. You may reveal that card if it has three or more colored mana symbols in its mana cost. If you do, add three mana in any combination of its colors and put it into your hand. If you don't reveal it, put it into your hand.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "392f7315-dc53-40a3-a2cc-5482dbd498b3",
+  "set": "mom",
+  "set_name": "March of the Machine",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/392f7315-dc53-40a3-a2cc-5482dbd498b3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/64b0acfa-1a8d-4a94-8972-c9bb235e4897/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A26445dc7-8363-4205-aee8-1cafeb4ba4c0&unique=prints",
+  "collector_number": "387",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Helge C. Balzer",
+  "artist_ids": [
+    "0c81268c-9a69-4dd5-b214-9f25e3483578"
+  ],
+  "illustration_id": "7fb043c3-2340-4fa2-a52e-8f9f51f100a7",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "buyabox"
+  ],
+  "edhrec_rank": 4502,
+  "penny_rank": 5475,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://twitter.com/wizards_magic/status/1627387723060224000",
+    "previewed_at": "2023-02-19"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.64",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.46",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=611295&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOmnath%252C%2BLocus%2Bof%2BAll",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOmnath%252C%2BLocus%2Bof%2BAll",
+    "edhrec": "https://edhrec.com/route/?cc=Omnath%2C+Locus+of+All"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F484643%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=706019&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/109678?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

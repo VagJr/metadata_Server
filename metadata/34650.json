@@ -1,0 +1,150 @@
+{
+  "object": "card",
+  "id": "5219ed86-eb4e-43f5-9c75-f3b24abe42a5",
+  "oracle_id": "0dd894cb-1968-471c-af08-ea7ec5ce8428",
+  "multiverse_ids": [
+    626367
+  ],
+  "mtgo_id": 113369,
+  "tcgplayer_etched_id": 504610,
+  "cardmarket_id": 721982,
+  "name": "Ghoulcaller Gisa",
+  "lang": "en",
+  "released_at": "2023-08-04",
+  "uri": "https://api.scryfall.com/cards/5219ed86-eb4e-43f5-9c75-f3b24abe42a5",
+  "scryfall_uri": "https://scryfall.com/card/cmm/512/ghoulcaller-gisa?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/2/5219ed86-eb4e-43f5-9c75-f3b24abe42a5.jpg?1690000805",
+    "normal": "https://cards.scryfall.io/normal/front/5/2/5219ed86-eb4e-43f5-9c75-f3b24abe42a5.jpg?1690000805",
+    "large": "https://cards.scryfall.io/large/front/5/2/5219ed86-eb4e-43f5-9c75-f3b24abe42a5.jpg?1690000805",
+    "png": "https://cards.scryfall.io/png/front/5/2/5219ed86-eb4e-43f5-9c75-f3b24abe42a5.png?1690000805",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/2/5219ed86-eb4e-43f5-9c75-f3b24abe42a5.jpg?1690000805",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/2/5219ed86-eb4e-43f5-9c75-f3b24abe42a5.jpg?1690000805"
+  },
+  "mana_cost": "{3}{B}{B}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Human Wizard",
+  "oracle_text": "{B}, {T}, Sacrifice another creature: Create X 2/2 black Zombie creature tokens, where X is the sacrificed creature's power.",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "5219ed86-eb4e-43f5-9c75-f3b24abe42a5",
+      "component": "combo_piece",
+      "name": "Ghoulcaller Gisa",
+      "type_line": "Legendary Creature — Human Wizard",
+      "uri": "https://api.scryfall.com/cards/5219ed86-eb4e-43f5-9c75-f3b24abe42a5"
+    },
+    {
+      "object": "related_card",
+      "id": "4cf9feeb-23c3-4c3b-bc04-f50380d20197",
+      "component": "token",
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "uri": "https://api.scryfall.com/cards/4cf9feeb-23c3-4c3b-bc04-f50380d20197"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": false,
+  "finishes": [
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set": "cmm",
+  "set_name": "Commander Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5219ed86-eb4e-43f5-9c75-f3b24abe42a5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0dd894cb-1968-471c-af08-ea7ec5ce8428&unique=prints",
+  "collector_number": "512",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Geralf, must you always whine? I agreed to nothing. I'll raise ghouls anytime I wish.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Karla Ortiz",
+  "artist_ids": [
+    "286a7773-06e5-465c-8a2a-76dfcb4ad110"
+  ],
+  "illustration_id": "3bf559f0-8cfa-48a1-973c-7a8f3c67d4b0",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted",
+    "etched"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 2228,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": "11.14",
+    "eur": null,
+    "eur_foil": null,
+    "tix": "3.23"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=626367&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGhoulcaller%2BGisa",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGhoulcaller%2BGisa",
+    "edhrec": "https://edhrec.com/route/?cc=Ghoulcaller+Gisa"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DGhoulcaller%2BGisa%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=721982&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/113369?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

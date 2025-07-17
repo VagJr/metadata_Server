@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "81a06f1c-3c81-412d-bb80-dafae71a359d",
+  "oracle_id": "7996222e-68c8-4a5c-9531-c60cdd88ae05",
+  "multiverse_ids": [],
+  "tcgplayer_id": 582648,
+  "name": "Startle",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/81a06f1c-3c81-412d-bb80-dafae71a359d",
+  "scryfall_uri": "https://scryfall.com/card/plst/MID-78/startle?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/1/81a06f1c-3c81-412d-bb80-dafae71a359d.jpg?1723439734",
+    "normal": "https://cards.scryfall.io/normal/front/8/1/81a06f1c-3c81-412d-bb80-dafae71a359d.jpg?1723439734",
+    "large": "https://cards.scryfall.io/large/front/8/1/81a06f1c-3c81-412d-bb80-dafae71a359d.jpg?1723439734",
+    "png": "https://cards.scryfall.io/png/front/8/1/81a06f1c-3c81-412d-bb80-dafae71a359d.png?1723439734",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/1/81a06f1c-3c81-412d-bb80-dafae71a359d.jpg?1723439734",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/1/81a06f1c-3c81-412d-bb80-dafae71a359d.jpg?1723439734"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Target creature gets -2/-0 until end of turn. Create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)\nDraw a card.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "81a06f1c-3c81-412d-bb80-dafae71a359d",
+      "component": "combo_piece",
+      "name": "Startle",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/81a06f1c-3c81-412d-bb80-dafae71a359d"
+    },
+    {
+      "object": "related_card",
+      "id": "64525159-3df4-4a35-a4ee-bd69f62517f2",
+      "component": "token",
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "uri": "https://api.scryfall.com/cards/64525159-3df4-4a35-a4ee-bd69f62517f2"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/81a06f1c-3c81-412d-bb80-dafae71a359d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7996222e-68c8-4a5c-9531-c60cdd88ae05&unique=prints",
+  "collector_number": "MID-78",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Craig J Spearing",
+  "artist_ids": [
+    "b0f15e74-0dd6-4156-959e-c5e30c5cdc52"
+  ],
+  "illustration_id": "6169c038-16e1-4aba-a634-bffbaa26760b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 13137,
+  "penny_rank": 9420,
+  "prices": {
+    "usd": "0.07",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DStartle",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DStartle",
+    "edhrec": "https://edhrec.com/route/?cc=Startle"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F582648%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Startle&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Startle&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

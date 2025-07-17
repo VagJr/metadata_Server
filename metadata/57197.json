@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "875ca80a-3eb8-434c-8114-536caab23211",
+  "oracle_id": "9fb8cd81-403a-4988-8f1c-b8eccf8abd9c",
+  "multiverse_ids": [
+    625412
+  ],
+  "mtgo_id": 114355,
+  "tcgplayer_id": 505812,
+  "cardmarket_id": 722954,
+  "name": "Karn's Bastion",
+  "lang": "en",
+  "released_at": "2023-08-04",
+  "uri": "https://api.scryfall.com/cards/875ca80a-3eb8-434c-8114-536caab23211",
+  "scryfall_uri": "https://scryfall.com/card/cmm/1007/karns-bastion?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/7/875ca80a-3eb8-434c-8114-536caab23211.jpg?1690006228",
+    "normal": "https://cards.scryfall.io/normal/front/8/7/875ca80a-3eb8-434c-8114-536caab23211.jpg?1690006228",
+    "large": "https://cards.scryfall.io/large/front/8/7/875ca80a-3eb8-434c-8114-536caab23211.jpg?1690006228",
+    "png": "https://cards.scryfall.io/png/front/8/7/875ca80a-3eb8-434c-8114-536caab23211.png?1690006228",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/7/875ca80a-3eb8-434c-8114-536caab23211.jpg?1690006228",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/7/875ca80a-3eb8-434c-8114-536caab23211.jpg?1690006228"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "{T}: Add {C}.\n{4}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Proliferate"
+  ],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set": "cmm",
+  "set_name": "Commander Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/875ca80a-3eb8-434c-8114-536caab23211/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9fb8cd81-403a-4988-8f1c-b8eccf8abd9c&unique=prints",
+  "collector_number": "1007",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"I can't protect everyone here. But those I can, I will.\"\n—Karn",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Adam Paquette",
+  "artist_ids": [
+    "89023dad-e6c0-41e0-83fb-eb2bfbbdc3f2"
+  ],
+  "illustration_id": "5e5940e4-b99d-4351-98bd-3de7053d688c",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 214,
+  "penny_rank": 3001,
+  "prices": {
+    "usd": "2.69",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "1.87",
+    "eur_foil": null,
+    "tix": "0.17"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=625412&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKarn%2527s%2BBastion",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKarn%2527s%2BBastion",
+    "edhrec": "https://edhrec.com/route/?cc=Karn%27s+Bastion"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F505812%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=722954&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/114355?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

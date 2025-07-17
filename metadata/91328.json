@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "d7944c86-c578-48fa-b222-7fce3f5d301d",
+  "oracle_id": "2dd32fec-5bc3-4cc0-a9b4-814229a64914",
+  "multiverse_ids": [
+    675079
+  ],
+  "mtgo_id": 129893,
+  "tcgplayer_id": 576884,
+  "cardmarket_id": 788104,
+  "name": "Balustrade Wurm",
+  "lang": "en",
+  "released_at": "2024-09-27",
+  "uri": "https://api.scryfall.com/cards/d7944c86-c578-48fa-b222-7fce3f5d301d",
+  "scryfall_uri": "https://scryfall.com/card/dsk/319/balustrade-wurm?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/7/d7944c86-c578-48fa-b222-7fce3f5d301d.jpg?1726287072",
+    "normal": "https://cards.scryfall.io/normal/front/d/7/d7944c86-c578-48fa-b222-7fce3f5d301d.jpg?1726287072",
+    "large": "https://cards.scryfall.io/large/front/d/7/d7944c86-c578-48fa-b222-7fce3f5d301d.jpg?1726287072",
+    "png": "https://cards.scryfall.io/png/front/d/7/d7944c86-c578-48fa-b222-7fce3f5d301d.png?1726287072",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/7/d7944c86-c578-48fa-b222-7fce3f5d301d.jpg?1726287072",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/7/d7944c86-c578-48fa-b222-7fce3f5d301d.jpg?1726287072"
+  },
+  "mana_cost": "{3}{G}{G}",
+  "cmc": 5,
+  "type_line": "Creature — Wurm",
+  "oracle_text": "This spell can't be countered.\nTrample, haste\nDelirium — {2}{G}{G}: Return this card from your graveyard to the battlefield with a finality counter on it. Activate only if there are four or more card types among cards in your graveyard and only as a sorcery.",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Delirium",
+    "Haste",
+    "Trample"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a111d8a9-b647-48ec-afab-2b78f92173f5",
+  "set": "dsk",
+  "set_name": "Duskmourn: House of Horror",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/a111d8a9-b647-48ec-afab-2b78f92173f5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adsk&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dsk?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d7944c86-c578-48fa-b222-7fce3f5d301d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2dd32fec-5bc3-4cc0-a9b4-814229a64914&unique=prints",
+  "collector_number": "319",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alexis Ziritt",
+  "artist_ids": [
+    "add4cc84-9254-4c0b-8fcd-af4a238bdbd5"
+  ],
+  "illustration_id": "3cb50f06-0bcf-49d2-a86d-22f24087785a",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 13357,
+  "penny_rank": 2933,
+  "preview": {
+    "source": "Gamerbraves",
+    "source_uri": "https://www.gamerbraves.com/upcoming-magic-the-gathering-set-duskmourn-brings-in-balustrade-wurm/",
+    "previewed_at": "2024-09-04"
+  },
+  "prices": {
+    "usd": "0.19",
+    "usd_foil": "0.23",
+    "usd_etched": null,
+    "eur": "0.32",
+    "eur_foil": "0.36",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=675079&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBalustrade%2BWurm",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBalustrade%2BWurm",
+    "edhrec": "https://edhrec.com/route/?cc=Balustrade+Wurm"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F576884%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=788104&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/129893?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

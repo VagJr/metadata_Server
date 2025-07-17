@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "402f8d9d-422a-43c8-903e-9b3e87142bb3",
+  "oracle_id": "0715e860-3b3b-4331-9718-207973e94fee",
+  "multiverse_ids": [
+    629329
+  ],
+  "mtgo_id": 113627,
+  "tcgplayer_id": 507159,
+  "cardmarket_id": 723609,
+  "name": "Tatyova, Benthic Druid",
+  "lang": "en",
+  "released_at": "2023-08-04",
+  "uri": "https://api.scryfall.com/cards/402f8d9d-422a-43c8-903e-9b3e87142bb3",
+  "scryfall_uri": "https://scryfall.com/card/cmm/687/tatyova-benthic-druid?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/0/402f8d9d-422a-43c8-903e-9b3e87142bb3.jpg?1719466627",
+    "normal": "https://cards.scryfall.io/normal/front/4/0/402f8d9d-422a-43c8-903e-9b3e87142bb3.jpg?1719466627",
+    "large": "https://cards.scryfall.io/large/front/4/0/402f8d9d-422a-43c8-903e-9b3e87142bb3.jpg?1719466627",
+    "png": "https://cards.scryfall.io/png/front/4/0/402f8d9d-422a-43c8-903e-9b3e87142bb3.png?1719466627",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/0/402f8d9d-422a-43c8-903e-9b3e87142bb3.jpg?1719466627",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/0/402f8d9d-422a-43c8-903e-9b3e87142bb3.jpg?1719466627"
+  },
+  "mana_cost": "{3}{G}{U}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Merfolk Druid",
+  "oracle_text": "Landfall — Whenever a land you control enters, you gain 1 life and draw a card.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [
+    "Landfall"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set": "cmm",
+  "set_name": "Commander Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/402f8d9d-422a-43c8-903e-9b3e87142bb3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0715e860-3b3b-4331-9718-207973e94fee&unique=prints",
+  "collector_number": "687",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"As Yavimaya yearns to grow beyond its boundaries, so must we spend our lives seeking new horizons.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Boell Oyino",
+  "artist_ids": [
+    "7a2d374d-322d-4331-9acb-93a54779a858"
+  ],
+  "illustration_id": "b945363d-712a-45cf-88ae-8fbc86681d69",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "portrait",
+    "boosterfun"
+  ],
+  "edhrec_rank": 425,
+  "penny_rank": 1828,
+  "prices": {
+    "usd": "0.83",
+    "usd_foil": "3.87",
+    "usd_etched": null,
+    "eur": "0.48",
+    "eur_foil": "2.77",
+    "tix": "0.27"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=629329&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTatyova%252C%2BBenthic%2BDruid",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTatyova%252C%2BBenthic%2BDruid",
+    "edhrec": "https://edhrec.com/route/?cc=Tatyova%2C+Benthic+Druid"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F507159%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=723609&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/113627?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

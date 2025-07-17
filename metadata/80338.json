@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "bdaac375-57ce-432b-b718-b547367faec7",
+  "oracle_id": "744b7e93-c893-4770-a3bb-6a45b7f8e4f7",
+  "multiverse_ids": [
+    631801
+  ],
+  "mtgo_id": 116218,
+  "tcgplayer_id": 514267,
+  "cardmarket_id": 728603,
+  "name": "Expel the Interlopers",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/bdaac375-57ce-432b-b718-b547367faec7",
+  "scryfall_uri": "https://scryfall.com/card/woe/381/expel-the-interlopers?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/d/bdaac375-57ce-432b-b718-b547367faec7.jpg?1712996931",
+    "normal": "https://cards.scryfall.io/normal/front/b/d/bdaac375-57ce-432b-b718-b547367faec7.jpg?1712996931",
+    "large": "https://cards.scryfall.io/large/front/b/d/bdaac375-57ce-432b-b718-b547367faec7.jpg?1712996931",
+    "png": "https://cards.scryfall.io/png/front/b/d/bdaac375-57ce-432b-b718-b547367faec7.png?1712996931",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/d/bdaac375-57ce-432b-b718-b547367faec7.jpg?1712996931",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/d/bdaac375-57ce-432b-b718-b547367faec7.jpg?1712996931"
+  },
+  "mana_cost": "{3}{W}{W}",
+  "cmc": 5,
+  "type_line": "Sorcery",
+  "oracle_text": "Choose a number between 0 and 10. Destroy all creatures with power greater than or equal to the chosen number.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "79139661-13ee-43c4-8bad-a8c069f1a1df",
+  "set": "woe",
+  "set_name": "Wilds of Eldraine",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/79139661-13ee-43c4-8bad-a8c069f1a1df",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awoe&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/woe?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/bdaac375-57ce-432b-b718-b547367faec7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A744b7e93-c893-4770-a3bb-6a45b7f8e4f7&unique=prints",
+  "collector_number": "381",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Awanqi (Angela Wang)",
+  "artist_ids": [
+    "4712ccd4-aed6-44cf-bba0-f4e7e72040f4"
+  ],
+  "illustration_id": "215f58d5-bd04-4c51-93c3-07214b3c32eb",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "buyabox"
+  ],
+  "edhrec_rank": 2833,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2023-08-15"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.29",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.25",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=631801&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DExpel%2Bthe%2BInterlopers",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DExpel%2Bthe%2BInterlopers",
+    "edhrec": "https://edhrec.com/route/?cc=Expel+the+Interlopers"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F514267%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=728603&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/116218?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

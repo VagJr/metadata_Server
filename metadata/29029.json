@@ -1,0 +1,111 @@
+{
+  "object": "card",
+  "id": "449a5550-fc64-4f73-852e-3e450ee98055",
+  "oracle_id": "57f0f55d-4cf9-4a35-96dd-05c24c2a9a4f",
+  "multiverse_ids": [],
+  "arena_id": 68789,
+  "name": "Loxodon Line Breaker",
+  "lang": "en",
+  "released_at": "2018-07-14",
+  "uri": "https://api.scryfall.com/cards/449a5550-fc64-4f73-852e-3e450ee98055",
+  "scryfall_uri": "https://scryfall.com/card/xana/7/loxodon-line-breaker?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/4/449a5550-fc64-4f73-852e-3e450ee98055.jpg?1590010706",
+    "normal": "https://cards.scryfall.io/normal/front/4/4/449a5550-fc64-4f73-852e-3e450ee98055.jpg?1590010706",
+    "large": "https://cards.scryfall.io/large/front/4/4/449a5550-fc64-4f73-852e-3e450ee98055.jpg?1590010706",
+    "png": "https://cards.scryfall.io/png/front/4/4/449a5550-fc64-4f73-852e-3e450ee98055.png?1590010706",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/4/449a5550-fc64-4f73-852e-3e450ee98055.jpg?1590010706",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/4/449a5550-fc64-4f73-852e-3e450ee98055.jpg?1590010706"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Creature — Elephant Soldier",
+  "oracle_text": "",
+  "power": "3",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9e5d6aa8-3fc1-4175-a851-894e42c0e25a",
+  "set": "xana",
+  "set_name": "Arena New Player Experience Extras",
+  "set_type": "memorabilia",
+  "set_uri": "https://api.scryfall.com/sets/9e5d6aa8-3fc1-4175-a851-894e42c0e25a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Axana&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/xana?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/449a5550-fc64-4f73-852e-3e450ee98055/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A57f0f55d-4cf9-4a35-96dd-05c24c2a9a4f&unique=prints",
+  "collector_number": "7",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jesper Ejsing",
+  "artist_ids": [
+    "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+  ],
+  "illustration_id": "697cf5f5-a061-496a-ae9e-76a02c497f90",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 25428,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLoxodon%2BLine%2BBreaker",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLoxodon%2BLine%2BBreaker",
+    "edhrec": "https://edhrec.com/route/?cc=Loxodon+Line+Breaker"
+  }
+}

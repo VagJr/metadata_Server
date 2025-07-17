@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "4677d071-ee53-4be9-88d5-14fafcb59c17",
+  "oracle_id": "5e958212-6a5b-4288-8d31-f1572619d7dc",
+  "multiverse_ids": [],
+  "tcgplayer_id": 221423,
+  "cardmarket_id": 528947,
+  "name": "Liliana, Dreadhorde General",
+  "printed_name": "戦慄衆の将軍、リリアナ",
+  "lang": "ja",
+  "released_at": "2020-04-01",
+  "uri": "https://api.scryfall.com/cards/4677d071-ee53-4be9-88d5-14fafcb59c17",
+  "scryfall_uri": "https://scryfall.com/card/pwcs/2020-3/ja/%E6%88%A6%E6%85%84%E8%A1%86%E3%81%AE%E5%B0%86%E8%BB%8D%E3%80%81%E3%83%AA%E3%83%AA%E3%82%A2%E3%83%8A-(liliana-dreadhorde-general)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/6/4677d071-ee53-4be9-88d5-14fafcb59c17.jpg?1677542150",
+    "normal": "https://cards.scryfall.io/normal/front/4/6/4677d071-ee53-4be9-88d5-14fafcb59c17.jpg?1677542150",
+    "large": "https://cards.scryfall.io/large/front/4/6/4677d071-ee53-4be9-88d5-14fafcb59c17.jpg?1677542150",
+    "png": "https://cards.scryfall.io/png/front/4/6/4677d071-ee53-4be9-88d5-14fafcb59c17.png?1677542150",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/6/4677d071-ee53-4be9-88d5-14fafcb59c17.jpg?1677542150",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/6/4677d071-ee53-4be9-88d5-14fafcb59c17.jpg?1677542150"
+  },
+  "mana_cost": "{4}{B}{B}",
+  "cmc": 6,
+  "type_line": "Legendary Planeswalker — Liliana",
+  "printed_type_line": "伝説のプレインズウォーカー — リリアナ",
+  "oracle_text": "Whenever a creature you control dies, draw a card.\n+1: Create a 2/2 black Zombie creature token.\n−4: Each player sacrifices two creatures of their choice.\n−9: Each opponent chooses a permanent they control of each permanent type and sacrifices the rest.",
+  "printed_text": "あなたがコントロールしているクリーチャーが１体死亡するたび、カードを１枚引く。\n+1：黒の２/２のゾンビ・クリーチャー・トークンを１体生成する。\n-4：各プレイヤーはそれぞれクリーチャー２体を生け贄に捧げる。\n-9：各対戦相手はそれぞれ、パーマネント・タイプ１つにつき、そのタイプであり自分がコントロールしているパーマネント１つを選び、残りを生け贄に捧げる。",
+  "loyalty": "6",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "4677d071-ee53-4be9-88d5-14fafcb59c17",
+      "component": "combo_piece",
+      "name": "Liliana, Dreadhorde General",
+      "type_line": "Legendary Planeswalker — Liliana",
+      "uri": "https://api.scryfall.com/cards/4677d071-ee53-4be9-88d5-14fafcb59c17"
+    },
+    {
+      "object": "related_card",
+      "id": "aaeb36b3-0d12-4326-a81f-06a66f6164e1",
+      "component": "token",
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "uri": "https://api.scryfall.com/cards/aaeb36b3-0d12-4326-a81f-06a66f6164e1"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d08fce7e-36a9-4617-8a14-24eb460bcbaf",
+  "set": "pwcs",
+  "set_name": "Planeswalker Championship Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/d08fce7e-36a9-4617-8a14-24eb460bcbaf",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwcs&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwcs?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4677d071-ee53-4be9-88d5-14fafcb59c17/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5e958212-6a5b-4288-8d31-f1572619d7dc&unique=prints",
+  "collector_number": "2020-3",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rallis",
+  "artist_ids": [
+    "a8e7b854-b15a-421a-b66d-6e68187ae285"
+  ],
+  "illustration_id": "bb7f943a-2d33-48d6-913c-2508cdea16d9",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 742,
+  "penny_rank": 3039,
+  "prices": {
+    "usd": null,
+    "usd_foil": "229.99",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "349.95",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLiliana%252C%2BDreadhorde%2BGeneral",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLiliana%252C%2BDreadhorde%2BGeneral",
+    "edhrec": "https://edhrec.com/route/?cc=Liliana%2C+Dreadhorde+General"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F221423%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=528947&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Liliana%2C+Dreadhorde+General&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

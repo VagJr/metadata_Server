@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "737f2d9a-171d-4b0d-bae3-930aa9c88e95",
+  "oracle_id": "4a83c2fa-f2d2-4b86-8407-4269f127936d",
+  "multiverse_ids": [
+    558244
+  ],
+  "tcgplayer_id": 268593,
+  "cardmarket_id": 651660,
+  "name": "Depopulate",
+  "lang": "en",
+  "released_at": "2022-04-29",
+  "uri": "https://api.scryfall.com/cards/737f2d9a-171d-4b0d-bae3-930aa9c88e95",
+  "scryfall_uri": "https://scryfall.com/card/snc/406/depopulate?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/3/737f2d9a-171d-4b0d-bae3-930aa9c88e95.jpg?1673536751",
+    "normal": "https://cards.scryfall.io/normal/front/7/3/737f2d9a-171d-4b0d-bae3-930aa9c88e95.jpg?1673536751",
+    "large": "https://cards.scryfall.io/large/front/7/3/737f2d9a-171d-4b0d-bae3-930aa9c88e95.jpg?1673536751",
+    "png": "https://cards.scryfall.io/png/front/7/3/737f2d9a-171d-4b0d-bae3-930aa9c88e95.png?1673536751",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/3/737f2d9a-171d-4b0d-bae3-930aa9c88e95.jpg?1673536751",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/3/737f2d9a-171d-4b0d-bae3-930aa9c88e95.jpg?1673536751"
+  },
+  "mana_cost": "{2}{W}{W}",
+  "cmc": 4,
+  "type_line": "Sorcery",
+  "oracle_text": "Each player who controls a multicolored creature draws a card. Then destroy all creatures.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+  "set": "snc",
+  "set_name": "Streets of New Capenna",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/737f2d9a-171d-4b0d-bae3-930aa9c88e95/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4a83c2fa-f2d2-4b86-8407-4269f127936d&unique=prints",
+  "collector_number": "406",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jokubas Uogintas",
+  "artist_ids": [
+    "2c14303e-97a3-45fa-9bd8-59e5332a65f9"
+  ],
+  "illustration_id": "d232c3f5-fadd-4898-9e0f-d8830ec82367",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 8311,
+  "penny_rank": 8405,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/card-image-gallery/streets-of-new-capenna",
+    "previewed_at": "2022-04-11"
+  },
+  "prices": {
+    "usd": "0.32",
+    "usd_foil": "0.35",
+    "usd_etched": null,
+    "eur": "0.44",
+    "eur_foil": "0.51",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=558244&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDepopulate",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDepopulate",
+    "edhrec": "https://edhrec.com/route/?cc=Depopulate"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268593%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=651660&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Depopulate&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

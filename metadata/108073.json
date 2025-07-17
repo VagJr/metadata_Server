@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "ff80f5bc-7cf6-498c-93c7-144999a34fc1",
+  "oracle_id": "0038e74a-b950-47ff-8853-dba6a3b31091",
+  "multiverse_ids": [],
+  "mtgo_id": 62207,
+  "name": "Saheeli's Artistry",
+  "lang": "en",
+  "released_at": "2017-05-31",
+  "uri": "https://api.scryfall.com/cards/ff80f5bc-7cf6-498c-93c7-144999a34fc1",
+  "scryfall_uri": "https://scryfall.com/card/prm/62207/saheelis-artistry?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/f/ff80f5bc-7cf6-498c-93c7-144999a34fc1.jpg?1562549385",
+    "normal": "https://cards.scryfall.io/normal/front/f/f/ff80f5bc-7cf6-498c-93c7-144999a34fc1.jpg?1562549385",
+    "large": "https://cards.scryfall.io/large/front/f/f/ff80f5bc-7cf6-498c-93c7-144999a34fc1.jpg?1562549385",
+    "png": "https://cards.scryfall.io/png/front/f/f/ff80f5bc-7cf6-498c-93c7-144999a34fc1.png?1562549385",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/f/ff80f5bc-7cf6-498c-93c7-144999a34fc1.jpg?1562549385",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/f/ff80f5bc-7cf6-498c-93c7-144999a34fc1.jpg?1562549385"
+  },
+  "mana_cost": "{4}{U}{U}",
+  "cmc": 6,
+  "type_line": "Sorcery",
+  "oracle_text": "Choose one or both —\n• Create a token that's a copy of target artifact.\n• Create a token that's a copy of target creature, except it's an artifact in addition to its other types.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "ff80f5bc-7cf6-498c-93c7-144999a34fc1",
+      "component": "combo_piece",
+      "name": "Saheeli's Artistry",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/ff80f5bc-7cf6-498c-93c7-144999a34fc1"
+    },
+    {
+      "object": "related_card",
+      "id": "09d6521e-438a-4d16-992f-f2ab27b26ce4",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/09d6521e-438a-4d16-992f-f2ab27b26ce4"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ff80f5bc-7cf6-498c-93c7-144999a34fc1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0038e74a-b950-47ff-8853-dba6a3b31091&unique=prints",
+  "collector_number": "62207",
+  "digital": true,
+  "rarity": "rare",
+  "flavor_text": "\"From the first touch, I know exactly what the metal wants to be.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wesley Burt",
+  "artist_ids": [
+    "b98c9d94-8bdb-49af-871d-7bac92274535"
+  ],
+  "illustration_id": "86655476-ab3e-4f5d-8bf7-301a969710bf",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5553,
+  "penny_rank": 12249,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSaheeli%2527s%2BArtistry",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSaheeli%2527s%2BArtistry",
+    "edhrec": "https://edhrec.com/route/?cc=Saheeli%27s+Artistry"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSaheeli%2527s%2BArtistry%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Saheeli%27s+Artistry&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/62207?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

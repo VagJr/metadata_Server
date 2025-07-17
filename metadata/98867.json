@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "e99b2e32-5272-4f66-b05e-a9d32d9e9f8d",
+  "oracle_id": "b392fabc-51f2-4ae4-b21c-1c662e4c6953",
+  "multiverse_ids": [
+    516907
+  ],
+  "tcgplayer_id": 235858,
+  "cardmarket_id": 557619,
+  "name": "Verdant Mastery",
+  "lang": "en",
+  "released_at": "2021-04-23",
+  "uri": "https://api.scryfall.com/cards/e99b2e32-5272-4f66-b05e-a9d32d9e9f8d",
+  "scryfall_uri": "https://scryfall.com/card/stx/320/verdant-mastery?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/9/e99b2e32-5272-4f66-b05e-a9d32d9e9f8d.jpg?1624742130",
+    "normal": "https://cards.scryfall.io/normal/front/e/9/e99b2e32-5272-4f66-b05e-a9d32d9e9f8d.jpg?1624742130",
+    "large": "https://cards.scryfall.io/large/front/e/9/e99b2e32-5272-4f66-b05e-a9d32d9e9f8d.jpg?1624742130",
+    "png": "https://cards.scryfall.io/png/front/e/9/e99b2e32-5272-4f66-b05e-a9d32d9e9f8d.png?1624742130",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/9/e99b2e32-5272-4f66-b05e-a9d32d9e9f8d.jpg?1624742130",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/9/e99b2e32-5272-4f66-b05e-a9d32d9e9f8d.jpg?1624742130"
+  },
+  "mana_cost": "{5}{G}",
+  "cmc": 6,
+  "type_line": "Sorcery",
+  "oracle_text": "You may pay {3}{G} rather than pay this spell's mana cost.\nSearch your library for up to four basic land cards and reveal them. Put one of them onto the battlefield tapped under an opponent's control if the {3}{G} cost was paid. Put two of them onto the battlefield tapped under your control and the rest into your hand. Then shuffle.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
+  "set": "stx",
+  "set_name": "Strixhaven: School of Mages",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/541c3c28-8747-40e5-a231-8e8f33234859",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Astx&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/stx?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e99b2e32-5272-4f66-b05e-a9d32d9e9f8d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab392fabc-51f2-4ae4-b21c-1c662e4c6953&unique=prints",
+  "collector_number": "320",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Cristi Balanescu",
+  "artist_ids": [
+    "c09ede88-a1b5-4a18-9895-dc8a965d28a5"
+  ],
+  "illustration_id": "0cd45e12-04b8-434b-b0c7-211cc602f10a",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 10360,
+  "penny_rank": 11932,
+  "preview": {
+    "source": "Brendan Murphy",
+    "source_uri": "https://twitter.com/brendan905/status/1377092652693397506",
+    "previewed_at": "2021-03-31"
+  },
+  "prices": {
+    "usd": "0.27",
+    "usd_foil": "0.40",
+    "usd_etched": null,
+    "eur": "0.36",
+    "eur_foil": "0.57",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=516907&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVerdant%2BMastery",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVerdant%2BMastery",
+    "edhrec": "https://edhrec.com/route/?cc=Verdant+Mastery"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F235858%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=557619&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Verdant+Mastery&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

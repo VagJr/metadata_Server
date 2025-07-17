@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "e96c986c-684c-4546-a9c9-b6b903bda101",
+  "oracle_id": "e1e489f6-37e5-469e-bca3-0e9d3fc3fa95",
+  "multiverse_ids": [],
+  "tcgplayer_id": 643005,
+  "name": "Virus Beetle",
+  "lang": "en",
+  "released_at": "2025-08-01",
+  "uri": "https://api.scryfall.com/cards/e96c986c-684c-4546-a9c9-b6b903bda101",
+  "scryfall_uri": "https://scryfall.com/card/eoe/124/virus-beetle?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/9/e96c986c-684c-4546-a9c9-b6b903bda101.jpg?1752213122",
+    "normal": "https://cards.scryfall.io/normal/front/e/9/e96c986c-684c-4546-a9c9-b6b903bda101.jpg?1752213122",
+    "large": "https://cards.scryfall.io/large/front/e/9/e96c986c-684c-4546-a9c9-b6b903bda101.jpg?1752213122",
+    "png": "https://cards.scryfall.io/png/front/e/9/e96c986c-684c-4546-a9c9-b6b903bda101.png?1752213122",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/9/e96c986c-684c-4546-a9c9-b6b903bda101.jpg?1752213122",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/9/e96c986c-684c-4546-a9c9-b6b903bda101.jpg?1752213122"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2,
+  "type_line": "Artifact Creature — Insect",
+  "oracle_text": "When this creature enters, each opponent discards a card.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e1fb4a02-3354-44b5-87ac-813828ab251e",
+      "component": "combo_piece",
+      "name": "Swarm Saboteur",
+      "type_line": "Creature — Human Ninja",
+      "uri": "https://api.scryfall.com/cards/e1fb4a02-3354-44b5-87ac-813828ab251e"
+    },
+    {
+      "object": "related_card",
+      "id": "e96c986c-684c-4546-a9c9-b6b903bda101",
+      "component": "combo_piece",
+      "name": "Virus Beetle",
+      "type_line": "Artifact Creature — Insect",
+      "uri": "https://api.scryfall.com/cards/e96c986c-684c-4546-a9c9-b6b903bda101"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "452951cf-378b-4472-b7fe-572fe2af2ac0",
+  "set": "eoe",
+  "set_name": "Edge of Eternities",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/452951cf-378b-4472-b7fe-572fe2af2ac0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aeoe&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/eoe?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e96c986c-684c-4546-a9c9-b6b903bda101/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae1e489f6-37e5-469e-bca3-0e9d3fc3fa95&unique=prints",
+  "collector_number": "124",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "The Eumidian biotechs were delighted when a mutated malware gene devastated their systems. They'd encourage the trait, so long as future clutches could be contained.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Leesha Hannigan",
+  "artist_ids": [
+    "0c5d1acd-714b-4e7a-b7bf-e3450b305337"
+  ],
+  "illustration_id": "f056fcda-c566-466f-9470-03c226e8c22c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4060,
+  "penny_rank": 4228,
+  "preview": {
+    "source": "Limited Resources",
+    "source_uri": "https://www.patreon.com/posts/exclusive-edge-133883154",
+    "previewed_at": "2025-07-11"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVirus%2BBeetle",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVirus%2BBeetle",
+    "edhrec": "https://edhrec.com/route/?cc=Virus+Beetle"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F643005%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Virus+Beetle&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Virus+Beetle&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

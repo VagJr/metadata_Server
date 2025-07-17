@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "38f5e6d2-e4b2-4292-85d6-b14a26c8e909",
+  "oracle_id": "cc2b6e58-2d6f-495e-95f3-9496105c4cba",
+  "multiverse_ids": [
+    227476
+  ],
+  "tcgplayer_id": 107019,
+  "cardmarket_id": 244767,
+  "name": "Jace Beleren",
+  "printed_name": "ジェイス・ベレレン",
+  "lang": "ja",
+  "released_at": "2008-11-07",
+  "uri": "https://api.scryfall.com/cards/38f5e6d2-e4b2-4292-85d6-b14a26c8e909",
+  "scryfall_uri": "https://scryfall.com/card/dd2/1%E2%98%85/ja/%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%BB%E3%83%99%E3%83%AC%E3%83%AC%E3%83%B3-(jace-beleren)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/8/38f5e6d2-e4b2-4292-85d6-b14a26c8e909.jpg?1555971549",
+    "normal": "https://cards.scryfall.io/normal/front/3/8/38f5e6d2-e4b2-4292-85d6-b14a26c8e909.jpg?1555971549",
+    "large": "https://cards.scryfall.io/large/front/3/8/38f5e6d2-e4b2-4292-85d6-b14a26c8e909.jpg?1555971549",
+    "png": "https://cards.scryfall.io/png/front/3/8/38f5e6d2-e4b2-4292-85d6-b14a26c8e909.png?1555971549",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/8/38f5e6d2-e4b2-4292-85d6-b14a26c8e909.jpg?1555971549",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/8/38f5e6d2-e4b2-4292-85d6-b14a26c8e909.jpg?1555971549"
+  },
+  "mana_cost": "{1}{U}{U}",
+  "cmc": 3,
+  "type_line": "Legendary Planeswalker — Jace",
+  "printed_type_line": "プレインズウォーカー — ジェイス",
+  "oracle_text": "+2: Each player draws a card.\n−1: Target player draws a card.\n−10: Target player mills twenty cards.",
+  "printed_text": "+2：各プレイヤーはそれぞれカードを１枚引く。\n-1：プレイヤー１人を対象とする。そのプレイヤーはカードを１枚引く。\n-10：プレイヤー１人を対象とする。そのプレイヤーは、自分のライブラリーの一番上から20枚のカードを自分の墓地に置く。",
+  "loyalty": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7161cc1c-adbd-479c-9125-df4c40b0e3ad",
+  "set": "dd2",
+  "set_name": "Duel Decks: Jace vs. Chandra",
+  "set_type": "duel_deck",
+  "set_uri": "https://api.scryfall.com/sets/7161cc1c-adbd-479c-9125-df4c40b0e3ad",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Add2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dd2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/38f5e6d2-e4b2-4292-85d6-b14a26c8e909/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acc2b6e58-2d6f-495e-95f3-9496105c4cba&unique=prints",
+  "collector_number": "1★",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Yoshino Himori",
+  "artist_ids": [
+    "1294ec24-8fc5-437b-bf54-2a9cb6d41ac2"
+  ],
+  "illustration_id": "05129662-b5f6-49b5-8fc9-56cd83fec5f4",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3070,
+  "penny_rank": 1164,
+  "prices": {
+    "usd": null,
+    "usd_foil": "8.97",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "5.15",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=227476&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJace%2BBeleren",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJace%2BBeleren",
+    "edhrec": "https://edhrec.com/route/?cc=Jace+Beleren"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F107019%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=244767&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jace+Beleren&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

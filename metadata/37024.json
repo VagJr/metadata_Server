@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "57976884-2a67-41c6-bf06-c10b6c3afb4b",
+  "oracle_id": "3e00326d-2bf4-4731-a6cd-1c015f94f553",
+  "multiverse_ids": [
+    595088
+  ],
+  "tcgplayer_id": 455484,
+  "cardmarket_id": 686829,
+  "name": "Anchor to the Aether",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/57976884-2a67-41c6-bf06-c10b6c3afb4b",
+  "scryfall_uri": "https://scryfall.com/card/j22/270/anchor-to-the-aether?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/7/57976884-2a67-41c6-bf06-c10b6c3afb4b.jpg?1675647970",
+    "normal": "https://cards.scryfall.io/normal/front/5/7/57976884-2a67-41c6-bf06-c10b6c3afb4b.jpg?1675647970",
+    "large": "https://cards.scryfall.io/large/front/5/7/57976884-2a67-41c6-bf06-c10b6c3afb4b.jpg?1675647970",
+    "png": "https://cards.scryfall.io/png/front/5/7/57976884-2a67-41c6-bf06-c10b6c3afb4b.png?1675647970",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/7/57976884-2a67-41c6-bf06-c10b6c3afb4b.jpg?1675647970",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/7/57976884-2a67-41c6-bf06-c10b6c3afb4b.jpg?1675647970"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Sorcery",
+  "oracle_text": "Put target creature on top of its owner's library. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Scry"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "247df475-e4ce-4e5e-9317-11892d2211e0",
+  "set": "j22",
+  "set_name": "Jumpstart 2022",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/247df475-e4ce-4e5e-9317-11892d2211e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj22&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j22?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/57976884-2a67-41c6-bf06-c10b6c3afb4b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3e00326d-2bf4-4731-a6cd-1c015f94f553&unique=prints",
+  "collector_number": "270",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Zoltan Boros",
+  "artist_ids": [
+    "1885e6cb-c827-4896-994e-3d0a027d602f"
+  ],
+  "illustration_id": "ca2415bf-c30b-47e8-a2c0-82b0be664f3a",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 19544,
+  "penny_rank": 12360,
+  "prices": {
+    "usd": "0.12",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.08",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=595088&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAnchor%2Bto%2Bthe%2BAether",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAnchor%2Bto%2Bthe%2BAether",
+    "edhrec": "https://edhrec.com/route/?cc=Anchor+to+the+Aether"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F455484%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=686829&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Anchor+to+the+Aether&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "86a4ffbb-9113-4c61-a369-95c1a52cea02",
+  "oracle_id": "fd1b4523-2399-4771-89bf-1d65f5d67056",
+  "multiverse_ids": [],
+  "tcgplayer_id": 199874,
+  "cardmarket_id": 403604,
+  "name": "The Circle of Loyalty",
+  "lang": "en",
+  "released_at": "2019-10-04",
+  "uri": "https://api.scryfall.com/cards/86a4ffbb-9113-4c61-a369-95c1a52cea02",
+  "scryfall_uri": "https://scryfall.com/card/peld/9s/the-circle-of-loyalty?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/6/86a4ffbb-9113-4c61-a369-95c1a52cea02.jpg?1571851307",
+    "normal": "https://cards.scryfall.io/normal/front/8/6/86a4ffbb-9113-4c61-a369-95c1a52cea02.jpg?1571851307",
+    "large": "https://cards.scryfall.io/large/front/8/6/86a4ffbb-9113-4c61-a369-95c1a52cea02.jpg?1571851307",
+    "png": "https://cards.scryfall.io/png/front/8/6/86a4ffbb-9113-4c61-a369-95c1a52cea02.png?1571851307",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/6/86a4ffbb-9113-4c61-a369-95c1a52cea02.jpg?1571851307",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/6/86a4ffbb-9113-4c61-a369-95c1a52cea02.jpg?1571851307"
+  },
+  "mana_cost": "{4}{W}{W}",
+  "cmc": 6,
+  "type_line": "Legendary Artifact",
+  "oracle_text": "Affinity for Knights (This spell costs {1} less to cast for each Knight you control.)\nCreatures you control get +1/+1.\nWhenever you cast a legendary spell, create a 2/2 white Knight creature token with vigilance.\n{3}{W}, {T}: Create a 2/2 white Knight creature token with vigilance.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Affinity"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "703e7ecf-3d73-40c1-8cfe-0758778817cf",
+      "component": "token",
+      "name": "Knight",
+      "type_line": "Token Creature — Knight",
+      "uri": "https://api.scryfall.com/cards/703e7ecf-3d73-40c1-8cfe-0758778817cf"
+    },
+    {
+      "object": "related_card",
+      "id": "86a4ffbb-9113-4c61-a369-95c1a52cea02",
+      "component": "combo_piece",
+      "name": "The Circle of Loyalty",
+      "type_line": "Legendary Artifact",
+      "uri": "https://api.scryfall.com/cards/86a4ffbb-9113-4c61-a369-95c1a52cea02"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5f593578-5079-4988-8e88-a3df186bdc2b",
+  "set": "peld",
+  "set_name": "Throne of Eldraine Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/5f593578-5079-4988-8e88-a3df186bdc2b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apeld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/peld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/86a4ffbb-9113-4c61-a369-95c1a52cea02/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afd1b4523-2399-4771-89bf-1d65f5d67056&unique=prints",
+  "collector_number": "9s",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Bastien L. Deharme",
+  "artist_ids": [
+    "798f63ec-41ad-474e-9708-df08193345c6"
+  ],
+  "illustration_id": "3ad9006e-ed68-4dd0-b332-7c88a5dff85c",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 5700,
+  "penny_rank": 6769,
+  "prices": {
+    "usd": null,
+    "usd_foil": "2.13",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "1.83",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThe%2BCircle%2Bof%2BLoyalty",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThe%2BCircle%2Bof%2BLoyalty",
+    "edhrec": "https://edhrec.com/route/?cc=The+Circle+of+Loyalty"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F199874%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=403604&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=The+Circle+of+Loyalty&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "b705171c-8bff-4394-9d4d-084b13b20159",
+  "oracle_id": "0f264e5b-264e-4e97-9a8d-8ae1d6a286ce",
+  "multiverse_ids": [],
+  "tcgplayer_id": 565177,
+  "cardmarket_id": 785677,
+  "name": "Drown in the Loch",
+  "flavor_name": "Beholder's Fear Ray",
+  "lang": "en",
+  "released_at": "2024-08-27",
+  "uri": "https://api.scryfall.com/cards/b705171c-8bff-4394-9d4d-084b13b20159",
+  "scryfall_uri": "https://scryfall.com/card/sld/1790/drown-in-the-loch?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/7/b705171c-8bff-4394-9d4d-084b13b20159.jpg?1723642605",
+    "normal": "https://cards.scryfall.io/normal/front/b/7/b705171c-8bff-4394-9d4d-084b13b20159.jpg?1723642605",
+    "large": "https://cards.scryfall.io/large/front/b/7/b705171c-8bff-4394-9d4d-084b13b20159.jpg?1723642605",
+    "png": "https://cards.scryfall.io/png/front/b/7/b705171c-8bff-4394-9d4d-084b13b20159.png?1723642605",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/7/b705171c-8bff-4394-9d4d-084b13b20159.jpg?1723642605",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/7/b705171c-8bff-4394-9d4d-084b13b20159.jpg?1723642605"
+  },
+  "mana_cost": "{U}{B}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Choose one —\n• Counter target spell with mana value less than or equal to the number of cards in its controller's graveyard.\n• Destroy target creature with mana value less than or equal to the number of cards in its controller's graveyard.",
+  "colors": [
+    "B",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b705171c-8bff-4394-9d4d-084b13b20159/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0f264e5b-264e-4e97-9a8d-8ae1d6a286ce&unique=prints",
+  "collector_number": "1790",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"On a failed save, target creature becomes frightened.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wojtek Łebski",
+  "artist_ids": [
+    "fbef50a9-d330-438b-a647-f0214eec76a5"
+  ],
+  "illustration_id": "c90605bf-5193-47ff-a306-64b6272ace7a",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1170,
+  "penny_rank": 138,
+  "preview": {
+    "source": "MMORPG",
+    "source_uri": "https://www.mmorpg.com/previews/exclusive-magic-the-gathering-dandd-death-is-in-the-eye-of-the-beholder-i-secret-lair-cards-revealed-2000132491",
+    "previewed_at": "2024-08-14"
+  },
+  "prices": {
+    "usd": "2.38",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "3.15",
+    "eur_foil": "3.70",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDrown%2Bin%2Bthe%2BLoch",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDrown%2Bin%2Bthe%2BLoch",
+    "edhrec": "https://edhrec.com/route/?cc=Drown+in+the+Loch"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F565177%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=785677&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Drown+in+the+Loch&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

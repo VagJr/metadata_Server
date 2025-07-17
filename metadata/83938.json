@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "c634fb14-49a1-4642-9a22-bce99279cb88",
+  "oracle_id": "e4b3e0af-5caa-47c1-b5be-c56a875cbb15",
+  "multiverse_ids": [],
+  "tcgplayer_id": 513603,
+  "cardmarket_id": 730282,
+  "name": "As Foretold",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/c634fb14-49a1-4642-9a22-bce99279cb88",
+  "scryfall_uri": "https://scryfall.com/card/wot/88/as-foretold?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/6/c634fb14-49a1-4642-9a22-bce99279cb88.jpg?1733763703",
+    "normal": "https://cards.scryfall.io/normal/front/c/6/c634fb14-49a1-4642-9a22-bce99279cb88.jpg?1733763703",
+    "large": "https://cards.scryfall.io/large/front/c/6/c634fb14-49a1-4642-9a22-bce99279cb88.jpg?1733763703",
+    "png": "https://cards.scryfall.io/png/front/c/6/c634fb14-49a1-4642-9a22-bce99279cb88.png?1733763703",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/6/c634fb14-49a1-4642-9a22-bce99279cb88.jpg?1733763703",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/6/c634fb14-49a1-4642-9a22-bce99279cb88.jpg?1733763703"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Enchantment",
+  "oracle_text": "At the beginning of your upkeep, put a time counter on this enchantment.\nOnce each turn, you may pay {0} rather than pay the mana cost for a spell you cast with mana value X or less, where X is the number of time counters on this enchantment.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d1eba841-452b-4f81-88c9-b32973ac8176",
+  "set": "wot",
+  "set_name": "Wilds of Eldraine: Enchanting Tales",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/d1eba841-452b-4f81-88c9-b32973ac8176",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awot&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/wot?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c634fb14-49a1-4642-9a22-bce99279cb88/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae4b3e0af-5caa-47c1-b5be-c56a875cbb15&unique=prints",
+  "collector_number": "88",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Yuichi Murakami",
+  "artist_ids": [
+    "6661974f-7c96-47de-9a83-0439a33499e4"
+  ],
+  "illustration_id": "4bd45c43-abbd-44f6-bb72-bbc755a156b0",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "confettifoil",
+    "boosterfun"
+  ],
+  "edhrec_rank": 1552,
+  "penny_rank": 1396,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/1905659212",
+    "previewed_at": "2023-08-24"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "30.64",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "20.13",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAs%2BForetold",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAs%2BForetold",
+    "edhrec": "https://edhrec.com/route/?cc=As+Foretold"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F513603%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=730282&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=As+Foretold&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

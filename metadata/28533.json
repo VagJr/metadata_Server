@@ -1,0 +1,112 @@
+{
+  "object": "card",
+  "id": "43711fbd-88e5-4300-a9d5-67010e7121c0",
+  "oracle_id": "bc71ebf6-2056-41f7-be35-b2e5c34afa99",
+  "multiverse_ids": [
+    548094
+  ],
+  "arena_id": 75873,
+  "name": "Plains",
+  "lang": "en",
+  "released_at": "2020-11-12",
+  "uri": "https://api.scryfall.com/cards/43711fbd-88e5-4300-a9d5-67010e7121c0",
+  "scryfall_uri": "https://scryfall.com/card/klr/289/plains?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/3/43711fbd-88e5-4300-a9d5-67010e7121c0.jpg?1605217490",
+    "normal": "https://cards.scryfall.io/normal/front/4/3/43711fbd-88e5-4300-a9d5-67010e7121c0.jpg?1605217490",
+    "large": "https://cards.scryfall.io/large/front/4/3/43711fbd-88e5-4300-a9d5-67010e7121c0.jpg?1605217490",
+    "png": "https://cards.scryfall.io/png/front/4/3/43711fbd-88e5-4300-a9d5-67010e7121c0.png?1605217490",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/3/43711fbd-88e5-4300-a9d5-67010e7121c0.jpg?1605217490",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/3/43711fbd-88e5-4300-a9d5-67010e7121c0.jpg?1605217490"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Basic Land — Plains",
+  "oracle_text": "({T}: Add {W}.)",
+  "colors": [],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "W"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cff93939-c724-4ed0-9367-e1277d39ba70",
+  "set": "klr",
+  "set_name": "Kaladesh Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cff93939-c724-4ed0-9367-e1277d39ba70",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aklr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/klr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/43711fbd-88e5-4300-a9d5-67010e7121c0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abc71ebf6-2056-41f7-be35-b2e5c34afa99&unique=prints",
+  "collector_number": "289",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "John Avon",
+  "artist_ids": [
+    "798f3932-30e0-4420-aa3f-db4d613f89ca"
+  ],
+  "illustration_id": "2e6a6bf6-ce4b-45f6-a407-69e1f9082c37",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548094&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPlains",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPlains",
+    "edhrec": "https://edhrec.com/route/?cc=Plains"
+  }
+}

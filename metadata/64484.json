@@ -1,0 +1,115 @@
+{
+  "object": "card",
+  "id": "98863d8f-5e03-451d-9f37-440a2a23da40",
+  "oracle_id": "99720c65-be96-4220-8ed4-720660bf6928",
+  "multiverse_ids": [],
+  "arena_id": 76216,
+  "name": "Thornglint Bridge",
+  "lang": "en",
+  "released_at": "2022-07-28",
+  "uri": "https://api.scryfall.com/cards/98863d8f-5e03-451d-9f37-440a2a23da40",
+  "scryfall_uri": "https://scryfall.com/card/ha6/20/thornglint-bridge?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/8/98863d8f-5e03-451d-9f37-440a2a23da40.jpg?1679617471",
+    "normal": "https://cards.scryfall.io/normal/front/9/8/98863d8f-5e03-451d-9f37-440a2a23da40.jpg?1679617471",
+    "large": "https://cards.scryfall.io/large/front/9/8/98863d8f-5e03-451d-9f37-440a2a23da40.jpg?1679617471",
+    "png": "https://cards.scryfall.io/png/front/9/8/98863d8f-5e03-451d-9f37-440a2a23da40.png?1679617471",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/8/98863d8f-5e03-451d-9f37-440a2a23da40.jpg?1679617471",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/8/98863d8f-5e03-451d-9f37-440a2a23da40.jpg?1679617471"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Artifact Land",
+  "oracle_text": "This land enters tapped.\nIndestructible\n{T}: Add {G} or {W}.",
+  "colors": [],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [
+    "Indestructible"
+  ],
+  "produced_mana": [
+    "G",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "14717ba4-0497-4257-ae2f-2e0115230d4e",
+  "set": "ha6",
+  "set_name": "Historic Anthology 6",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/14717ba4-0497-4257-ae2f-2e0115230d4e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aha6&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ha6?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/98863d8f-5e03-451d-9f37-440a2a23da40/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A99720c65-be96-4220-8ed4-720660bf6928&unique=prints",
+  "collector_number": "20",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Randy Gallegos",
+  "artist_ids": [
+    "a5048cc7-438a-4378-98e4-da99b78e1db0"
+  ],
+  "illustration_id": "6db3210a-2473-4c07-9834-df701407f7b4",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4293,
+  "penny_rank": 2168,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThornglint%2BBridge",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThornglint%2BBridge",
+    "edhrec": "https://edhrec.com/route/?cc=Thornglint+Bridge"
+  }
+}

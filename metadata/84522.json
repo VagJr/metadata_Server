@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "c79ab0b7-63e3-4c45-a067-f3a483d0546a",
+  "oracle_id": "195bd8fe-581c-44ed-b7f8-e800df3502ff",
+  "multiverse_ids": [],
+  "tcgplayer_id": 274530,
+  "cardmarket_id": 662204,
+  "name": "Gorion, Wise Mentor",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/c79ab0b7-63e3-4c45-a067-f3a483d0546a",
+  "scryfall_uri": "https://scryfall.com/card/pclb/276s/gorion-wise-mentor?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/7/c79ab0b7-63e3-4c45-a067-f3a483d0546a.jpg?1675618944",
+    "normal": "https://cards.scryfall.io/normal/front/c/7/c79ab0b7-63e3-4c45-a067-f3a483d0546a.jpg?1675618944",
+    "large": "https://cards.scryfall.io/large/front/c/7/c79ab0b7-63e3-4c45-a067-f3a483d0546a.jpg?1675618944",
+    "png": "https://cards.scryfall.io/png/front/c/7/c79ab0b7-63e3-4c45-a067-f3a483d0546a.png?1675618944",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/7/c79ab0b7-63e3-4c45-a067-f3a483d0546a.jpg?1675618944",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/7/c79ab0b7-63e3-4c45-a067-f3a483d0546a.jpg?1675618944"
+  },
+  "mana_cost": "{G}{W}{U}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Human Wizard",
+  "oracle_text": "Vigilance\nWhenever you cast an Adventure spell, you may copy it. You may choose new targets for the copy.",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "G",
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "U",
+    "W"
+  ],
+  "keywords": [
+    "Vigilance"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a6254b2a-0154-459a-936e-5967018d823b",
+  "set": "pclb",
+  "set_name": "Battle for Baldur's Gate Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/a6254b2a-0154-459a-936e-5967018d823b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pclb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c79ab0b7-63e3-4c45-a067-f3a483d0546a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A195bd8fe-581c-44ed-b7f8-e800df3502ff&unique=prints",
+  "collector_number": "276s",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"You are safest in Candlekeep, Abdel, but I cannot keep you from the world forever.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason Kang",
+  "artist_ids": [
+    "064b9176-e325-44f6-a413-2cadb7505851"
+  ],
+  "illustration_id": "81323bed-328e-4a78-ad4a-c0ef91e62951",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 13801,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.29",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.55",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGorion%252C%2BWise%2BMentor",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGorion%252C%2BWise%2BMentor",
+    "edhrec": "https://edhrec.com/route/?cc=Gorion%2C+Wise+Mentor"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F274530%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=662204&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Gorion%2C+Wise+Mentor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

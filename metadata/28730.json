@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "43eb0e85-1c26-4d2c-bdac-6e94717f0762",
+  "oracle_id": "087f9ad7-e74f-40e2-8102-1ed2925d0418",
+  "multiverse_ids": [
+    632440
+  ],
+  "mtgo_id": 115848,
+  "arena_id": 87050,
+  "tcgplayer_id": 512673,
+  "cardmarket_id": 728493,
+  "name": "Rest in Peace",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/43eb0e85-1c26-4d2c-bdac-6e94717f0762",
+  "scryfall_uri": "https://scryfall.com/card/wot/12/rest-in-peace?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/3/43eb0e85-1c26-4d2c-bdac-6e94717f0762.jpg?1692932191",
+    "normal": "https://cards.scryfall.io/normal/front/4/3/43eb0e85-1c26-4d2c-bdac-6e94717f0762.jpg?1692932191",
+    "large": "https://cards.scryfall.io/large/front/4/3/43eb0e85-1c26-4d2c-bdac-6e94717f0762.jpg?1692932191",
+    "png": "https://cards.scryfall.io/png/front/4/3/43eb0e85-1c26-4d2c-bdac-6e94717f0762.png?1692932191",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/3/43eb0e85-1c26-4d2c-bdac-6e94717f0762.jpg?1692932191",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/3/43eb0e85-1c26-4d2c-bdac-6e94717f0762.jpg?1692932191"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Enchantment",
+  "oracle_text": "When this enchantment enters, exile all graveyards.\nIf a card or token would be put into a graveyard from anywhere, exile it instead.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d1eba841-452b-4f81-88c9-b32973ac8176",
+  "set": "wot",
+  "set_name": "Wilds of Eldraine: Enchanting Tales",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/d1eba841-452b-4f81-88c9-b32973ac8176",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awot&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/wot?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/43eb0e85-1c26-4d2c-bdac-6e94717f0762/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A087f9ad7-e74f-40e2-8102-1ed2925d0418&unique=prints",
+  "collector_number": "12",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"The king ordered those lost in sleep be placed in glass gaskets, protected and watched in case they might one day wake.\"\n—*The Wicked Slumber*",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Serena Malyon",
+  "artist_ids": [
+    "d9fee7a6-7c5e-48a5-8639-bba25abc8a06"
+  ],
+  "illustration_id": "2d3581be-f318-40b3-9f57-ac16b29a4b8d",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 2207,
+  "preview": {
+    "source": "Laughing Dragon",
+    "source_uri": "https://twitter.com/LaughingMtg/status/1692089947992306158",
+    "previewed_at": "2023-08-17"
+  },
+  "prices": {
+    "usd": "0.41",
+    "usd_foil": "1.00",
+    "usd_etched": null,
+    "eur": "0.84",
+    "eur_foil": "1.42",
+    "tix": "0.31"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=632440&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRest%2Bin%2BPeace",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRest%2Bin%2BPeace",
+    "edhrec": "https://edhrec.com/route/?cc=Rest+in+Peace"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F512673%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=728493&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/115848?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

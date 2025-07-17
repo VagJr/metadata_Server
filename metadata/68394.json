@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "a1a5905f-4d53-4f7e-8af8-3d802978ec03",
+  "oracle_id": "8b21062e-97b0-4967-96df-30e8309f4fba",
+  "multiverse_ids": [],
+  "tcgplayer_id": 212083,
+  "cardmarket_id": 451228,
+  "name": "Kogla, the Titan Ape",
+  "lang": "en",
+  "released_at": "2020-04-24",
+  "uri": "https://api.scryfall.com/cards/a1a5905f-4d53-4f7e-8af8-3d802978ec03",
+  "scryfall_uri": "https://scryfall.com/card/iko/328/kogla-the-titan-ape?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/1/a1a5905f-4d53-4f7e-8af8-3d802978ec03.jpg?1604782289",
+    "normal": "https://cards.scryfall.io/normal/front/a/1/a1a5905f-4d53-4f7e-8af8-3d802978ec03.jpg?1604782289",
+    "large": "https://cards.scryfall.io/large/front/a/1/a1a5905f-4d53-4f7e-8af8-3d802978ec03.jpg?1604782289",
+    "png": "https://cards.scryfall.io/png/front/a/1/a1a5905f-4d53-4f7e-8af8-3d802978ec03.png?1604782289",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/1/a1a5905f-4d53-4f7e-8af8-3d802978ec03.jpg?1604782289",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/1/a1a5905f-4d53-4f7e-8af8-3d802978ec03.jpg?1604782289"
+  },
+  "mana_cost": "{3}{G}{G}{G}",
+  "cmc": 6,
+  "type_line": "Legendary Creature — Ape",
+  "oracle_text": "When Kogla enters, it fights up to one target creature you don't control.\nWhenever Kogla attacks, destroy target artifact or enchantment defending player controls.\n{1}{G}: Return target Human you control to its owner's hand. Kogla gains indestructible until end of turn.",
+  "power": "7",
+  "toughness": "6",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Fight"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "19feda43-15ab-427e-a0e4-148a4bf2b03a",
+  "set": "iko",
+  "set_name": "Ikoria: Lair of Behemoths",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/19feda43-15ab-427e-a0e4-148a4bf2b03a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aiko&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/iko?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a1a5905f-4d53-4f7e-8af8-3d802978ec03/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8b21062e-97b0-4967-96df-30e8309f4fba&unique=prints",
+  "collector_number": "328",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rahn",
+  "artist_ids": [
+    "7742047e-0f80-4c0f-a530-d07460165e86"
+  ],
+  "illustration_id": "02a67af4-a735-4175-b950-8e81ee097acd",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 1004,
+  "penny_rank": 1552,
+  "prices": {
+    "usd": "3.52",
+    "usd_foil": "11.96",
+    "usd_etched": null,
+    "eur": "6.41",
+    "eur_foil": "8.75",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKogla%252C%2Bthe%2BTitan%2BApe",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKogla%252C%2Bthe%2BTitan%2BApe",
+    "edhrec": "https://edhrec.com/route/?cc=Kogla%2C+the+Titan+Ape"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F212083%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=451228&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kogla%2C+the+Titan+Ape&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "object": "card",
+  "id": "aabe2c58-620a-4caa-880f-326676422fe7",
+  "oracle_id": "490ac985-79b5-438d-a2e7-f47683b29683",
+  "multiverse_ids": [
+    507671,
+    507672
+  ],
+  "arena_id": 75426,
+  "tcgplayer_id": 230291,
+  "cardmarket_id": 530627,
+  "name": "Kolvori, God of Kinship // The Ringhart Crest",
+  "lang": "en",
+  "released_at": "2021-02-05",
+  "uri": "https://api.scryfall.com/cards/aabe2c58-620a-4caa-880f-326676422fe7",
+  "scryfall_uri": "https://scryfall.com/card/khm/318/kolvori-god-of-kinship-the-ringhart-crest?utm_source=api",
+  "layout": "modal_dfc",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 4,
+  "type_line": "Legendary Creature — God // Legendary Artifact",
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "G"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Kolvori, God of Kinship",
+      "mana_cost": "{2}{G}{G}",
+      "type_line": "Legendary Creature — God",
+      "oracle_text": "As long as you control three or more legendary creatures, Kolvori gets +4/+2 and has vigilance.\n{1}{G}, {T}: Look at the top six cards of your library. You may reveal a legendary creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+      "colors": [
+        "G"
+      ],
+      "power": "2",
+      "toughness": "4",
+      "artist": "Dibujante Nocturno",
+      "artist_id": "ed4f7e1b-4139-4e17-a671-442ce49eb775",
+      "illustration_id": "de922da6-3598-426a-937d-628d505243d3",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/a/a/aabe2c58-620a-4caa-880f-326676422fe7.jpg?1631055175",
+        "normal": "https://cards.scryfall.io/normal/front/a/a/aabe2c58-620a-4caa-880f-326676422fe7.jpg?1631055175",
+        "large": "https://cards.scryfall.io/large/front/a/a/aabe2c58-620a-4caa-880f-326676422fe7.jpg?1631055175",
+        "png": "https://cards.scryfall.io/png/front/a/a/aabe2c58-620a-4caa-880f-326676422fe7.png?1631055175",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/a/a/aabe2c58-620a-4caa-880f-326676422fe7.jpg?1631055175",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/a/a/aabe2c58-620a-4caa-880f-326676422fe7.jpg?1631055175"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "The Ringhart Crest",
+      "mana_cost": "{1}{G}",
+      "type_line": "Legendary Artifact",
+      "oracle_text": "As The Ringhart Crest enters, choose a creature type.\n{T}: Add {G}. Spend this mana only to cast a creature spell of the chosen type or a legendary creature spell.",
+      "colors": [
+        "G"
+      ],
+      "artist": "Dibujante Nocturno",
+      "artist_id": "ed4f7e1b-4139-4e17-a671-442ce49eb775",
+      "illustration_id": "f7483d47-9bb7-4d22-83bb-64473bd56fba",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/a/a/aabe2c58-620a-4caa-880f-326676422fe7.jpg?1631055175",
+        "normal": "https://cards.scryfall.io/normal/back/a/a/aabe2c58-620a-4caa-880f-326676422fe7.jpg?1631055175",
+        "large": "https://cards.scryfall.io/large/back/a/a/aabe2c58-620a-4caa-880f-326676422fe7.jpg?1631055175",
+        "png": "https://cards.scryfall.io/png/back/a/a/aabe2c58-620a-4caa-880f-326676422fe7.png?1631055175",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/a/a/aabe2c58-620a-4caa-880f-326676422fe7.jpg?1631055175",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/a/a/aabe2c58-620a-4caa-880f-326676422fe7.jpg?1631055175"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "43057fad-b1c1-437f-bc48-0045bce6d8c9",
+  "set": "khm",
+  "set_name": "Kaldheim",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/43057fad-b1c1-437f-bc48-0045bce6d8c9",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Akhm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/khm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/aabe2c58-620a-4caa-880f-326676422fe7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A490ac985-79b5-438d-a2e7-f47683b29683&unique=prints",
+  "collector_number": "318",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Dibujante Nocturno",
+  "artist_ids": [
+    "ed4f7e1b-4139-4e17-a671-442ce49eb775"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 6751,
+  "penny_rank": 6056,
+  "preview": {
+    "source": "TCGplayer",
+    "source_uri": "https://infinite.tcgplayer.com/article/Kolvori-God-of-Kinship/b6d433c3-6f0b-4b0e-803d-5ea72e901cf1",
+    "previewed_at": "2021-01-11"
+  },
+  "prices": {
+    "usd": "0.29",
+    "usd_foil": "0.50",
+    "usd_etched": null,
+    "eur": "0.24",
+    "eur_foil": "1.25",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=507671&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKolvori%252C%2BGod%2Bof%2BKinship%2B%252F%252F%2BThe%2BRinghart%2BCrest",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKolvori%252C%2BGod%2Bof%2BKinship%2B%252F%252F%2BThe%2BRinghart%2BCrest",
+    "edhrec": "https://edhrec.com/route/?cc=Kolvori%2C+God+of+Kinship"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F230291%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=530627&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kolvori%2C+God+of+Kinship&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "object": "card",
+  "id": "239af309-5f18-4f6b-a7dd-1a2c3c74f8b9",
+  "oracle_id": "73ea32e4-72c5-42ee-8ed5-21dee83d7eec",
+  "multiverse_ids": [],
+  "tcgplayer_id": 492676,
+  "name": "Pulse of the Grid",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/239af309-5f18-4f6b-a7dd-1a2c3c74f8b9",
+  "scryfall_uri": "https://scryfall.com/card/plst/DST-29/pulse-of-the-grid?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/3/239af309-5f18-4f6b-a7dd-1a2c3c74f8b9.jpg?1680826418",
+    "normal": "https://cards.scryfall.io/normal/front/2/3/239af309-5f18-4f6b-a7dd-1a2c3c74f8b9.jpg?1680826418",
+    "large": "https://cards.scryfall.io/large/front/2/3/239af309-5f18-4f6b-a7dd-1a2c3c74f8b9.jpg?1680826418",
+    "png": "https://cards.scryfall.io/png/front/2/3/239af309-5f18-4f6b-a7dd-1a2c3c74f8b9.png?1680826418",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/3/239af309-5f18-4f6b-a7dd-1a2c3c74f8b9.jpg?1680826418",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/3/239af309-5f18-4f6b-a7dd-1a2c3c74f8b9.jpg?1680826418"
+  },
+  "mana_cost": "{1}{U}{U}",
+  "cmc": 3,
+  "type_line": "Instant",
+  "oracle_text": "Draw two cards, then discard a card. Then if an opponent has more cards in hand than you, return Pulse of the Grid to its owner's hand.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/239af309-5f18-4f6b-a7dd-1a2c3c74f8b9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A73ea32e4-72c5-42ee-8ed5-21dee83d7eec&unique=prints",
+  "collector_number": "DST-29",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Before labs or lectures, there was insight.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wayne England",
+  "artist_ids": [
+    "62dc90c0-4bc2-4d42-ad76-59cad9243566"
+  ],
+  "illustration_id": "3d170a92-51f8-40b3-9666-4529e82d0c57",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 14677,
+  "penny_rank": 4354,
+  "prices": {
+    "usd": "0.35",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPulse%2Bof%2Bthe%2BGrid",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPulse%2Bof%2Bthe%2BGrid",
+    "edhrec": "https://edhrec.com/route/?cc=Pulse+of+the+Grid"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F492676%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pulse+of+the+Grid&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Pulse+of+the+Grid&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

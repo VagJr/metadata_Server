@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "daa2b214-2b7f-4092-b290-306209459413",
+  "oracle_id": "d04c6375-25dd-4882-b8b3-a3b0d3081f32",
+  "multiverse_ids": [],
+  "tcgplayer_id": 536674,
+  "name": "Doppelgang",
+  "lang": "en",
+  "released_at": "2024-02-09",
+  "uri": "https://api.scryfall.com/cards/daa2b214-2b7f-4092-b290-306209459413",
+  "scryfall_uri": "https://scryfall.com/card/pmkm/198p/doppelgang?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/a/daa2b214-2b7f-4092-b290-306209459413.jpg?1707510068",
+    "normal": "https://cards.scryfall.io/normal/front/d/a/daa2b214-2b7f-4092-b290-306209459413.jpg?1707510068",
+    "large": "https://cards.scryfall.io/large/front/d/a/daa2b214-2b7f-4092-b290-306209459413.jpg?1707510068",
+    "png": "https://cards.scryfall.io/png/front/d/a/daa2b214-2b7f-4092-b290-306209459413.png?1707510068",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/a/daa2b214-2b7f-4092-b290-306209459413.jpg?1707510068",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/a/daa2b214-2b7f-4092-b290-306209459413.jpg?1707510068"
+  },
+  "mana_cost": "{X}{X}{X}{G}{U}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "oracle_text": "For each of X target permanents, create X tokens that are copies of that permanent.",
+  "colors": [
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "09d6521e-438a-4d16-992f-f2ab27b26ce4",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/09d6521e-438a-4d16-992f-f2ab27b26ce4"
+    },
+    {
+      "object": "related_card",
+      "id": "a999b5ad-668a-4267-a144-461c1eb20482",
+      "component": "combo_piece",
+      "name": "Doppelgang",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/a999b5ad-668a-4267-a144-461c1eb20482"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5226ce19-28b1-462f-89a2-460e994824dd",
+  "set": "pmkm",
+  "set_name": "Murders at Karlov Manor Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/5226ce19-28b1-462f-89a2-460e994824dd",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apmkm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pmkm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/daa2b214-2b7f-4092-b290-306209459413/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad04c6375-25dd-4882-b8b3-a3b0d3081f32&unique=prints",
+  "collector_number": "198p",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Suspect spotted at the Tin Street Market, Yescu Street entrance. And the Oak Street entrance. And somehow also in Lobar Alley!\"\n—Avult of the Foundway Associates",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rallis",
+  "artist_ids": [
+    "a8e7b854-b15a-421a-b66d-6e68187ae285"
+  ],
+  "illustration_id": "dc48f26c-f017-42f5-99b5-01ac37d6c66e",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 3276,
+  "penny_rank": 2141,
+  "prices": {
+    "usd": "1.28",
+    "usd_foil": "1.71",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDoppelgang",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDoppelgang",
+    "edhrec": "https://edhrec.com/route/?cc=Doppelgang"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F536674%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Doppelgang&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Doppelgang&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

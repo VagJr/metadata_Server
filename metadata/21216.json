@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "31fd0855-309f-48a4-bb8f-a3f6fc61d4d6",
+  "oracle_id": "3c43efd6-b1a8-452c-ae20-9a936c3340ab",
+  "multiverse_ids": [],
+  "tcgplayer_id": 244615,
+  "cardmarket_id": 572514,
+  "name": "Treasure Vault",
+  "lang": "en",
+  "released_at": "2021-07-23",
+  "uri": "https://api.scryfall.com/cards/31fd0855-309f-48a4-bb8f-a3f6fc61d4d6",
+  "scryfall_uri": "https://scryfall.com/card/pafr/261s/treasure-vault?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/1/31fd0855-309f-48a4-bb8f-a3f6fc61d4d6.jpg?1627949648",
+    "normal": "https://cards.scryfall.io/normal/front/3/1/31fd0855-309f-48a4-bb8f-a3f6fc61d4d6.jpg?1627949648",
+    "large": "https://cards.scryfall.io/large/front/3/1/31fd0855-309f-48a4-bb8f-a3f6fc61d4d6.jpg?1627949648",
+    "png": "https://cards.scryfall.io/png/front/3/1/31fd0855-309f-48a4-bb8f-a3f6fc61d4d6.png?1627949648",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/1/31fd0855-309f-48a4-bb8f-a3f6fc61d4d6.jpg?1627949648",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/1/31fd0855-309f-48a4-bb8f-a3f6fc61d4d6.jpg?1627949648"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Artifact Land",
+  "oracle_text": "{T}: Add {C}.\n{X}{X}, {T}, Sacrifice this land: Create X Treasure tokens.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Treasure"
+  ],
+  "produced_mana": [
+    "C"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "31fd0855-309f-48a4-bb8f-a3f6fc61d4d6",
+      "component": "combo_piece",
+      "name": "Treasure Vault",
+      "type_line": "Artifact Land",
+      "uri": "https://api.scryfall.com/cards/31fd0855-309f-48a4-bb8f-a3f6fc61d4d6"
+    },
+    {
+      "object": "related_card",
+      "id": "a3a684b7-27e0-4d9e-a064-9e03c6e50c89",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/a3a684b7-27e0-4d9e-a064-9e03c6e50c89"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "983f027f-76f9-462d-8eb5-458dcbf029b4",
+  "set": "pafr",
+  "set_name": "Adventures in the Forgotten Realms Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/983f027f-76f9-462d-8eb5-458dcbf029b4",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apafr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pafr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/31fd0855-309f-48a4-bb8f-a3f6fc61d4d6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3c43efd6-b1a8-452c-ae20-9a936c3340ab&unique=prints",
+  "collector_number": "261s",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "There is wealth enough inside to cause the rise and the ruin of dynasties.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Johannes Voss",
+  "artist_ids": [
+    "3593dd7e-c547-4a32-81cd-7da725f60118"
+  ],
+  "illustration_id": "77be5117-c47d-4aa9-b71c-cd88e0d1ed31",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 532,
+  "prices": {
+    "usd": null,
+    "usd_foil": "5.59",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "6.06",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTreasure%2BVault",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTreasure%2BVault",
+    "edhrec": "https://edhrec.com/route/?cc=Treasure+Vault"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F244615%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=572514&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Treasure+Vault&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "object": "card",
+  "id": "fb073d70-e289-467a-b754-6a6ee7294e45",
+  "oracle_id": "daf6c421-e7f7-4fc6-967c-65f4ab96fcfd",
+  "multiverse_ids": [],
+  "tcgplayer_id": 491920,
+  "name": "Skithiryx, the Blight Dragon",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/fb073d70-e289-467a-b754-6a6ee7294e45",
+  "scryfall_uri": "https://scryfall.com/card/mul/147/skithiryx-the-blight-dragon?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/b/fb073d70-e289-467a-b754-6a6ee7294e45.jpg?1682347699",
+    "normal": "https://cards.scryfall.io/normal/front/f/b/fb073d70-e289-467a-b754-6a6ee7294e45.jpg?1682347699",
+    "large": "https://cards.scryfall.io/large/front/f/b/fb073d70-e289-467a-b754-6a6ee7294e45.jpg?1682347699",
+    "png": "https://cards.scryfall.io/png/front/f/b/fb073d70-e289-467a-b754-6a6ee7294e45.png?1682347699",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/b/fb073d70-e289-467a-b754-6a6ee7294e45.jpg?1682347699",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/b/fb073d70-e289-467a-b754-6a6ee7294e45.jpg?1682347699"
+  },
+  "mana_cost": "{3}{B}{B}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Phyrexian Dragon Skeleton",
+  "oracle_text": "Flying\nInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\n{B}: Skithiryx gains haste until end of turn.\n{B}{B}: Regenerate Skithiryx.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying",
+    "Infect"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "7afb0ba4-9a1b-4cd5-8d0f-2f697c6d3ab1",
+      "component": "combo_piece",
+      "name": "Poison Counter",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/7afb0ba4-9a1b-4cd5-8d0f-2f697c6d3ab1"
+    },
+    {
+      "object": "related_card",
+      "id": "28b3bba9-4140-4a01-a270-8da5aaab1b59",
+      "component": "combo_piece",
+      "name": "Skithiryx, the Blight Dragon",
+      "type_line": "Legendary Creature — Phyrexian Dragon Skeleton",
+      "uri": "https://api.scryfall.com/cards/28b3bba9-4140-4a01-a270-8da5aaab1b59"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a3f8daea-b24e-4e5c-a4d9-ec8910e9078a",
+  "set": "mul",
+  "set_name": "Multiverse Legends",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/a3f8daea-b24e-4e5c-a4d9-ec8910e9078a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amul&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mul?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/fb073d70-e289-467a-b754-6a6ee7294e45/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adaf6c421-e7f7-4fc6-967c-65f4ab96fcfd&unique=prints",
+  "collector_number": "147",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kekai Kotaki",
+  "artist_ids": [
+    "4b771085-c049-4308-930d-ec9665f803a4"
+  ],
+  "illustration_id": "71c6560f-0c3f-4272-80b1-66c8a6117290",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "halofoil"
+  ],
+  "edhrec_rank": 2535,
+  "penny_rank": 5997,
+  "prices": {
+    "usd": null,
+    "usd_foil": "56.93",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSkithiryx%252C%2Bthe%2BBlight%2BDragon",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSkithiryx%252C%2Bthe%2BBlight%2BDragon",
+    "edhrec": "https://edhrec.com/route/?cc=Skithiryx%2C+the+Blight+Dragon"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F491920%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Skithiryx%2C+the+Blight+Dragon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Skithiryx%2C+the+Blight+Dragon&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

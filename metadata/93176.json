@@ -1,0 +1,233 @@
+{
+  "object": "card",
+  "id": "dbf33cc3-254f-4c5c-be22-3a2d96f29b80",
+  "oracle_id": "142c04da-7739-4e43-954b-3cd9b462f6bb",
+  "multiverse_ids": [],
+  "tcgplayer_id": 153066,
+  "name": "Gnome",
+  "lang": "en",
+  "released_at": "2017-12-08",
+  "uri": "https://api.scryfall.com/cards/dbf33cc3-254f-4c5c-be22-3a2d96f29b80",
+  "scryfall_uri": "https://scryfall.com/card/tust/20/gnome?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/b/dbf33cc3-254f-4c5c-be22-3a2d96f29b80.jpg?1684573322",
+    "normal": "https://cards.scryfall.io/normal/front/d/b/dbf33cc3-254f-4c5c-be22-3a2d96f29b80.jpg?1684573322",
+    "large": "https://cards.scryfall.io/large/front/d/b/dbf33cc3-254f-4c5c-be22-3a2d96f29b80.jpg?1684573322",
+    "png": "https://cards.scryfall.io/png/front/d/b/dbf33cc3-254f-4c5c-be22-3a2d96f29b80.png?1684573322",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/b/dbf33cc3-254f-4c5c-be22-3a2d96f29b80.jpg?1684573322",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/b/dbf33cc3-254f-4c5c-be22-3a2d96f29b80.jpg?1684573322"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Artifact Creature — Gnome",
+  "oracle_text": "",
+  "power": "1",
+  "toughness": "1",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6062d62f-2d5d-4082-98d8-e7f967ef25ab",
+      "component": "combo_piece",
+      "name": "Anim Pakal, Thousandth Moon",
+      "type_line": "Legendary Creature — Human Soldier",
+      "uri": "https://api.scryfall.com/cards/6062d62f-2d5d-4082-98d8-e7f967ef25ab"
+    },
+    {
+      "object": "related_card",
+      "id": "dbf33cc3-254f-4c5c-be22-3a2d96f29b80",
+      "component": "token",
+      "name": "Gnome",
+      "type_line": "Token Artifact Creature — Gnome",
+      "uri": "https://api.scryfall.com/cards/dbf33cc3-254f-4c5c-be22-3a2d96f29b80"
+    },
+    {
+      "object": "related_card",
+      "id": "1617d39d-4989-4ac4-8cd0-ac1b4e7312df",
+      "component": "combo_piece",
+      "name": "Oltec Matterweaver",
+      "type_line": "Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/1617d39d-4989-4ac4-8cd0-ac1b4e7312df"
+    },
+    {
+      "object": "related_card",
+      "id": "2dfc9416-06d6-40af-8b3d-62371b3da7c5",
+      "component": "combo_piece",
+      "name": "Very Cryptic Command",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/2dfc9416-06d6-40af-8b3d-62371b3da7c5"
+    },
+    {
+      "object": "related_card",
+      "id": "2c110c56-cf58-4c04-a567-c55928f5d640",
+      "component": "combo_piece",
+      "name": "Gnome-Made Engine",
+      "type_line": "Host Artifact Creature — Construct",
+      "uri": "https://api.scryfall.com/cards/2c110c56-cf58-4c04-a567-c55928f5d640"
+    },
+    {
+      "object": "related_card",
+      "id": "d71f153d-2d07-4a8a-b725-747bb96afe00",
+      "component": "combo_piece",
+      "name": "Metrognome",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/d71f153d-2d07-4a8a-b725-747bb96afe00"
+    },
+    {
+      "object": "related_card",
+      "id": "c4536a7c-8373-4b4a-bba9-c4f9568423db",
+      "component": "combo_piece",
+      "name": "Illustrious Wanderglyph",
+      "type_line": "Artifact Creature — Golem",
+      "uri": "https://api.scryfall.com/cards/c4536a7c-8373-4b4a-bba9-c4f9568423db"
+    },
+    {
+      "object": "related_card",
+      "id": "8aece300-656b-4e0d-a45f-aa7feaff0a4e",
+      "component": "combo_piece",
+      "name": "Clay-Fired Bricks // Cosmium Kiln",
+      "type_line": "Artifact // Artifact",
+      "uri": "https://api.scryfall.com/cards/8aece300-656b-4e0d-a45f-aa7feaff0a4e"
+    },
+    {
+      "object": "related_card",
+      "id": "02d68a38-2e0b-401b-b67d-a55e2af5b18d",
+      "component": "combo_piece",
+      "name": "Oltec Cloud Guard",
+      "type_line": "Creature — Human Soldier",
+      "uri": "https://api.scryfall.com/cards/02d68a38-2e0b-401b-b67d-a55e2af5b18d"
+    },
+    {
+      "object": "related_card",
+      "id": "699d1222-f150-46aa-9004-87b45f07eb42",
+      "component": "combo_piece",
+      "name": "Threefold Thunderhulk",
+      "type_line": "Artifact Creature — Gnome",
+      "uri": "https://api.scryfall.com/cards/699d1222-f150-46aa-9004-87b45f07eb42"
+    },
+    {
+      "object": "related_card",
+      "id": "e6921466-edac-40fc-8f5e-d8b2e766d1dd",
+      "component": "combo_piece",
+      "name": "By Gnome Means",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/e6921466-edac-40fc-8f5e-d8b2e766d1dd"
+    },
+    {
+      "object": "related_card",
+      "id": "291989b2-d87f-4e5a-a159-4d564d1c2c6a",
+      "component": "combo_piece",
+      "name": "Gnomeball Machine",
+      "type_line": "Artifact — Contraption",
+      "uri": "https://api.scryfall.com/cards/291989b2-d87f-4e5a-a159-4d564d1c2c6a"
+    },
+    {
+      "object": "related_card",
+      "id": "8321857e-7977-46dd-8357-d732312e5261",
+      "component": "combo_piece",
+      "name": "Tinker's Tote",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/8321857e-7977-46dd-8357-d732312e5261"
+    },
+    {
+      "object": "related_card",
+      "id": "53b2e955-0106-4c28-8897-bcdafd96195f",
+      "component": "combo_piece",
+      "name": "Tetzin, Gnome Champion // The Golden-Gear Colossus",
+      "type_line": "Legendary Artifact Creature — Gnome // Legendary Artifact Creature — Gnome",
+      "uri": "https://api.scryfall.com/cards/53b2e955-0106-4c28-8897-bcdafd96195f"
+    },
+    {
+      "object": "related_card",
+      "id": "96de0741-9270-4118-bb8e-f3480c75a582",
+      "component": "combo_piece",
+      "name": "Envoy of Okinec Ahau",
+      "type_line": "Creature — Cat Advisor",
+      "uri": "https://api.scryfall.com/cards/96de0741-9270-4118-bb8e-f3480c75a582"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "f494ec08-2e39-4228-bddb-200967e2b109",
+  "set": "tust",
+  "set_name": "Unstable Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/f494ec08-2e39-4228-bddb-200967e2b109",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atust&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tust?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/dbf33cc3-254f-4c5c-be22-3a2d96f29b80/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A142c04da-7739-4e43-954b-3cd9b462f6bb&unique=prints",
+  "collector_number": "20",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dmitry Burmak",
+  "artist_ids": [
+    "9872f5c0-274a-48ce-a9ad-6f0d5654e29c"
+  ],
+  "illustration_id": "57692b2a-de8a-4d44-bb2d-f26396f58630",
+  "border_color": "silver",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.78",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGnome",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGnome",
+    "edhrec": "https://edhrec.com/route/?cc=Gnome"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F153066%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gnome&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Gnome&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "8554c2a8-d3cc-4ae9-a8ae-34815cf299db",
+  "oracle_id": "cde26d69-f3e7-4dd0-a53b-cd0ec812d717",
+  "multiverse_ids": [
+    681556
+  ],
+  "arena_id": 92942,
+  "tcgplayer_id": 589853,
+  "cardmarket_id": 795636,
+  "name": "Leonin Scimitar",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/8554c2a8-d3cc-4ae9-a8ae-34815cf299db",
+  "scryfall_uri": "https://scryfall.com/card/j25/152/leonin-scimitar?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/5/8554c2a8-d3cc-4ae9-a8ae-34815cf299db.jpg?1730486251",
+    "normal": "https://cards.scryfall.io/normal/front/8/5/8554c2a8-d3cc-4ae9-a8ae-34815cf299db.jpg?1730486251",
+    "large": "https://cards.scryfall.io/large/front/8/5/8554c2a8-d3cc-4ae9-a8ae-34815cf299db.jpg?1730486251",
+    "png": "https://cards.scryfall.io/png/front/8/5/8554c2a8-d3cc-4ae9-a8ae-34815cf299db.png?1730486251",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/5/8554c2a8-d3cc-4ae9-a8ae-34815cf299db.jpg?1730486251",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/5/8554c2a8-d3cc-4ae9-a8ae-34815cf299db.jpg?1730486251"
+  },
+  "mana_cost": "{1}",
+  "cmc": 1,
+  "type_line": "Artifact — Equipment",
+  "oracle_text": "Equipped creature gets +1/+1.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Equip"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9201567c-bab5-4720-aac9-260e6741f115",
+  "set": "j25",
+  "set_name": "Foundations Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/9201567c-bab5-4720-aac9-260e6741f115",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj25&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j25?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8554c2a8-d3cc-4ae9-a8ae-34815cf299db/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acde26d69-f3e7-4dd0-a53b-cd0ec812d717&unique=prints",
+  "collector_number": "152",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Our enemies may be more metal than flesh. Good reason to wield a blade that will cut either.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Francisco Miyara",
+  "artist_ids": [
+    "fa64fc53-a243-4a94-a4d2-97625ea24b4f"
+  ],
+  "illustration_id": "dc4d3703-3ac3-44d2-b03b-085fe5675b38",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 18151,
+  "penny_rank": 12588,
+  "prices": {
+    "usd": "0.13",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.16",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=681556&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLeonin%2BScimitar",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLeonin%2BScimitar",
+    "edhrec": "https://edhrec.com/route/?cc=Leonin+Scimitar"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F589853%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=795636&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Leonin+Scimitar&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

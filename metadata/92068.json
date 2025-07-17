@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "d959ee0b-9fb1-4e32-ad45-f04cdd5c678a",
+  "oracle_id": "087c8c0e-a91c-4e3c-8387-9312db01f343",
+  "multiverse_ids": [
+    530838
+  ],
+  "arena_id": 77455,
+  "tcgplayer_id": 243148,
+  "cardmarket_id": 571271,
+  "name": "Hall of Storm Giants",
+  "lang": "en",
+  "released_at": "2021-07-23",
+  "uri": "https://api.scryfall.com/cards/d959ee0b-9fb1-4e32-ad45-f04cdd5c678a",
+  "scryfall_uri": "https://scryfall.com/card/afr/354/hall-of-storm-giants?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/9/d959ee0b-9fb1-4e32-ad45-f04cdd5c678a.jpg?1627777642",
+    "normal": "https://cards.scryfall.io/normal/front/d/9/d959ee0b-9fb1-4e32-ad45-f04cdd5c678a.jpg?1627777642",
+    "large": "https://cards.scryfall.io/large/front/d/9/d959ee0b-9fb1-4e32-ad45-f04cdd5c678a.jpg?1627777642",
+    "png": "https://cards.scryfall.io/png/front/d/9/d959ee0b-9fb1-4e32-ad45-f04cdd5c678a.png?1627777642",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/9/d959ee0b-9fb1-4e32-ad45-f04cdd5c678a.jpg?1627777642",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/9/d959ee0b-9fb1-4e32-ad45-f04cdd5c678a.jpg?1627777642"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "If you control two or more other lands, this land enters tapped.\n{T}: Add {U}.\n{5}{U}: Until end of turn, this land becomes a 7/7 blue Giant creature with ward {3}. It's still a land. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)",
+  "colors": [],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "U"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "e1ef87ba-ba92-4573-817f-543b996d2851",
+  "set": "afr",
+  "set_name": "Adventures in the Forgotten Realms",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/e1ef87ba-ba92-4573-817f-543b996d2851",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aafr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/afr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d959ee0b-9fb1-4e32-ad45-f04cdd5c678a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A087c8c0e-a91c-4e3c-8387-9312db01f343&unique=prints",
+  "collector_number": "354",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alex Stone",
+  "artist_ids": [
+    "fe11c66b-bf9e-4417-815c-81c5caf924b3"
+  ],
+  "illustration_id": "cb66ac59-5f79-44e1-a167-533841aeb4c5",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 4564,
+  "preview": {
+    "source": "cafe.daum.net",
+    "source_uri": "https://m.cafe.daum.net/magin/9Uu6/5298?",
+    "previewed_at": "2021-06-29"
+  },
+  "prices": {
+    "usd": "1.53",
+    "usd_foil": "1.77",
+    "usd_etched": null,
+    "eur": "2.03",
+    "eur_foil": "4.60",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=530838&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHall%2Bof%2BStorm%2BGiants",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHall%2Bof%2BStorm%2BGiants",
+    "edhrec": "https://edhrec.com/route/?cc=Hall+of+Storm+Giants"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F243148%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=571271&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hall+of+Storm+Giants&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

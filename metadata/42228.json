@@ -1,0 +1,189 @@
+{
+  "object": "card",
+  "id": "63b2b7cd-a51d-4e50-b794-a52731196973",
+  "oracle_id": "35754a21-9fba-4370-a254-292918a777ba",
+  "multiverse_ids": [
+    439341,
+    439342
+  ],
+  "mtgo_id": 66447,
+  "tcgplayer_id": 151646,
+  "cardmarket_id": 312690,
+  "name": "Nissa, Vastwood Seer // Nissa, Sage Animist",
+  "lang": "en",
+  "released_at": "2017-11-24",
+  "uri": "https://api.scryfall.com/cards/63b2b7cd-a51d-4e50-b794-a52731196973",
+  "scryfall_uri": "https://scryfall.com/card/v17/15/nissa-vastwood-seer-nissa-sage-animist?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Elf Scout // Legendary Planeswalker — Nissa",
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Transform"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Nissa, Vastwood Seer",
+      "mana_cost": "{2}{G}",
+      "type_line": "Legendary Creature — Elf Scout",
+      "oracle_text": "When Nissa enters, you may search your library for a basic Forest card, reveal it, put it into your hand, then shuffle.\nWhenever a land you control enters, if you control seven or more lands, exile Nissa, then return her to the battlefield transformed under her owner's control.",
+      "colors": [
+        "G"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "artist": "Wesley Burt",
+      "artist_id": "b98c9d94-8bdb-49af-871d-7bac92274535",
+      "illustration_id": "a7c585e9-d1b0-4c1c-953c-ee851f1551cc",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/6/3/63b2b7cd-a51d-4e50-b794-a52731196973.jpg?1562702090",
+        "normal": "https://cards.scryfall.io/normal/front/6/3/63b2b7cd-a51d-4e50-b794-a52731196973.jpg?1562702090",
+        "large": "https://cards.scryfall.io/large/front/6/3/63b2b7cd-a51d-4e50-b794-a52731196973.jpg?1562702090",
+        "png": "https://cards.scryfall.io/png/front/6/3/63b2b7cd-a51d-4e50-b794-a52731196973.png?1562702090",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/6/3/63b2b7cd-a51d-4e50-b794-a52731196973.jpg?1562702090",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/6/3/63b2b7cd-a51d-4e50-b794-a52731196973.jpg?1562702090"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Nissa, Sage Animist",
+      "mana_cost": "",
+      "type_line": "Legendary Planeswalker — Nissa",
+      "oracle_text": "+1: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.\n−2: Create Ashaya, the Awoken World, a legendary 4/4 green Elemental creature token.\n−7: Untap up to six target lands. They become 6/6 Elemental creatures. They're still lands.",
+      "colors": [
+        "G"
+      ],
+      "color_indicator": [
+        "G"
+      ],
+      "loyalty": "3",
+      "artist": "Wesley Burt",
+      "artist_id": "b98c9d94-8bdb-49af-871d-7bac92274535",
+      "illustration_id": "434f4e61-10b0-4d97-b275-73aa109ea9aa",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/6/3/63b2b7cd-a51d-4e50-b794-a52731196973.jpg?1562702090",
+        "normal": "https://cards.scryfall.io/normal/back/6/3/63b2b7cd-a51d-4e50-b794-a52731196973.jpg?1562702090",
+        "large": "https://cards.scryfall.io/large/back/6/3/63b2b7cd-a51d-4e50-b794-a52731196973.jpg?1562702090",
+        "png": "https://cards.scryfall.io/png/back/6/3/63b2b7cd-a51d-4e50-b794-a52731196973.png?1562702090",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/6/3/63b2b7cd-a51d-4e50-b794-a52731196973.jpg?1562702090",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/6/3/63b2b7cd-a51d-4e50-b794-a52731196973.jpg?1562702090"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "2c3775c8-2d3d-47b0-b262-8b86d649c087",
+      "component": "token",
+      "name": "Ashaya, the Awoken World",
+      "type_line": "Token Legendary Creature — Elemental",
+      "uri": "https://api.scryfall.com/cards/2c3775c8-2d3d-47b0-b262-8b86d649c087"
+    },
+    {
+      "object": "related_card",
+      "id": "63b2b7cd-a51d-4e50-b794-a52731196973",
+      "component": "combo_piece",
+      "name": "Nissa, Vastwood Seer // Nissa, Sage Animist",
+      "type_line": "Legendary Creature — Elf Scout // Legendary Planeswalker — Nissa",
+      "uri": "https://api.scryfall.com/cards/63b2b7cd-a51d-4e50-b794-a52731196973"
+    },
+    {
+      "object": "related_card",
+      "id": "f3dcc7b5-c911-44c9-be5a-087298ddb492",
+      "component": "combo_piece",
+      "name": "Magic Origins Checklist",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/f3dcc7b5-c911-44c9-be5a-087298ddb492"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "63c89a12-d115-4084-a4af-fceef40ca02f",
+  "set": "v17",
+  "set_name": "From the Vault: Transform",
+  "set_type": "from_the_vault",
+  "set_uri": "https://api.scryfall.com/sets/63c89a12-d115-4084-a4af-fceef40ca02f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Av17&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/v17?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/63b2b7cd-a51d-4e50-b794-a52731196973/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A35754a21-9fba-4370-a254-292918a777ba&unique=prints",
+  "collector_number": "15",
+  "digital": false,
+  "rarity": "mythic",
+  "artist": "Wesley Burt",
+  "artist_ids": [
+    "b98c9d94-8bdb-49af-871d-7bac92274535"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "originpwdfc"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5159,
+  "penny_rank": 1213,
+  "prices": {
+    "usd": null,
+    "usd_foil": "4.52",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "3.22",
+    "tix": "0.51"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439341&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNissa%252C%2BVastwood%2BSeer%2B%252F%252F%2BNissa%252C%2BSage%2BAnimist",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNissa%252C%2BVastwood%2BSeer%2B%252F%252F%2BNissa%252C%2BSage%2BAnimist",
+    "edhrec": "https://edhrec.com/route/?cc=Nissa%2C+Vastwood+Seer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F151646%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=312690&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/66447?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

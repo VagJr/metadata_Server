@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "9511d81b-efcd-4631-bfc3-4b2641e4593f",
+  "oracle_id": "8e7b079d-9ede-421c-bd2b-f9a5126a8e6f",
+  "multiverse_ids": [],
+  "mtgo_id": 88342,
+  "name": "Esika's Chariot",
+  "lang": "en",
+  "released_at": "2021-02-28",
+  "uri": "https://api.scryfall.com/cards/9511d81b-efcd-4631-bfc3-4b2641e4593f",
+  "scryfall_uri": "https://scryfall.com/card/prm/88342/esikas-chariot?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/5/9511d81b-efcd-4631-bfc3-4b2641e4593f.jpg?1630641699",
+    "normal": "https://cards.scryfall.io/normal/front/9/5/9511d81b-efcd-4631-bfc3-4b2641e4593f.jpg?1630641699",
+    "large": "https://cards.scryfall.io/large/front/9/5/9511d81b-efcd-4631-bfc3-4b2641e4593f.jpg?1630641699",
+    "png": "https://cards.scryfall.io/png/front/9/5/9511d81b-efcd-4631-bfc3-4b2641e4593f.png?1630641699",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/5/9511d81b-efcd-4631-bfc3-4b2641e4593f.jpg?1630641699",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/5/9511d81b-efcd-4631-bfc3-4b2641e4593f.jpg?1630641699"
+  },
+  "mana_cost": "{3}{G}",
+  "cmc": 4,
+  "type_line": "Legendary Artifact — Vehicle",
+  "oracle_text": "When Esika's Chariot enters, create two 2/2 green Cat creature tokens.\nWhenever Esika's Chariot attacks, create a token that's a copy of target token you control.\nCrew 4",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Crew"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "21450a75-26ec-4344-bebc-d55c2cf3fc1c",
+      "component": "token",
+      "name": "Cat",
+      "type_line": "Token Creature — Cat",
+      "uri": "https://api.scryfall.com/cards/21450a75-26ec-4344-bebc-d55c2cf3fc1c"
+    },
+    {
+      "object": "related_card",
+      "id": "09d6521e-438a-4d16-992f-f2ab27b26ce4",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/09d6521e-438a-4d16-992f-f2ab27b26ce4"
+    },
+    {
+      "object": "related_card",
+      "id": "9511d81b-efcd-4631-bfc3-4b2641e4593f",
+      "component": "combo_piece",
+      "name": "Esika's Chariot",
+      "type_line": "Legendary Artifact — Vehicle",
+      "uri": "https://api.scryfall.com/cards/9511d81b-efcd-4631-bfc3-4b2641e4593f"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9511d81b-efcd-4631-bfc3-4b2641e4593f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8e7b079d-9ede-421c-bd2b-f9a5126a8e6f&unique=prints",
+  "collector_number": "88342",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "WolfSkullJack",
+  "artist_ids": [
+    "e3e7e24b-c62f-4eff-acc2-ebd3a85c3d60"
+  ],
+  "illustration_id": "7b1a9034-8147-4888-8239-61b884db1cf7",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2909,
+  "penny_rank": 677,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.79"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEsika%2527s%2BChariot",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEsika%2527s%2BChariot",
+    "edhrec": "https://edhrec.com/route/?cc=Esika%27s+Chariot"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DEsika%2527s%2BChariot%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Esika%27s+Chariot&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/88342?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

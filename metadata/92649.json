@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "dac28cfb-dedc-4dac-8b26-27f963f4d310",
+  "oracle_id": "7b0d9139-b3ad-4065-9b55-aeeda8950bee",
+  "multiverse_ids": [],
+  "tcgplayer_id": 198985,
+  "cardmarket_id": 400034,
+  "name": "Witch's Vengeance",
+  "lang": "en",
+  "released_at": "2019-10-04",
+  "uri": "https://api.scryfall.com/cards/dac28cfb-dedc-4dac-8b26-27f963f4d310",
+  "scryfall_uri": "https://scryfall.com/card/eld/358/witchs-vengeance?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/a/dac28cfb-dedc-4dac-8b26-27f963f4d310.jpg?1571747448",
+    "normal": "https://cards.scryfall.io/normal/front/d/a/dac28cfb-dedc-4dac-8b26-27f963f4d310.jpg?1571747448",
+    "large": "https://cards.scryfall.io/large/front/d/a/dac28cfb-dedc-4dac-8b26-27f963f4d310.jpg?1571747448",
+    "png": "https://cards.scryfall.io/png/front/d/a/dac28cfb-dedc-4dac-8b26-27f963f4d310.png?1571747448",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/a/dac28cfb-dedc-4dac-8b26-27f963f4d310.jpg?1571747448",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/a/dac28cfb-dedc-4dac-8b26-27f963f4d310.jpg?1571747448"
+  },
+  "mana_cost": "{1}{B}{B}",
+  "cmc": 3,
+  "type_line": "Sorcery",
+  "oracle_text": "Creatures of the creature type of your choice get -3/-3 until end of turn.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a90a7b2f-9dd8-4fc7-9f7d-8ea2797ec782",
+  "set": "eld",
+  "set_name": "Throne of Eldraine",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/a90a7b2f-9dd8-4fc7-9f7d-8ea2797ec782",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aeld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/eld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/dac28cfb-dedc-4dac-8b26-27f963f4d310/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7b0d9139-b3ad-4065-9b55-aeeda8950bee&unique=prints",
+  "collector_number": "358",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Titus Lunter",
+  "artist_ids": [
+    "b11e6b3a-f4ca-4cf1-8fd7-475696de5f5c"
+  ],
+  "illustration_id": "b1dd6eae-ff27-4cd2-9623-0fdf2946f1c0",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 19472,
+  "penny_rank": 4290,
+  "preview": {
+    "source": "The Masters of Modern",
+    "source_uri": "https://twitter.com/theMMcast/status/1171115818630828033",
+    "previewed_at": "2019-09-09"
+  },
+  "prices": {
+    "usd": "0.36",
+    "usd_foil": "0.50",
+    "usd_etched": null,
+    "eur": "0.51",
+    "eur_foil": "1.50",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWitch%2527s%2BVengeance",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWitch%2527s%2BVengeance",
+    "edhrec": "https://edhrec.com/route/?cc=Witch%27s+Vengeance"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F198985%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=400034&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Witch%27s+Vengeance&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "object": "card",
+  "id": "38f63648-ef60-43b1-be2a-638185ef266d",
+  "oracle_id": "f6f684f6-0c8a-4676-ba4e-d3e064293128",
+  "multiverse_ids": [
+    538501,
+    538502
+  ],
+  "mtgo_id": 94146,
+  "arena_id": 78725,
+  "tcgplayer_id": 248281,
+  "cardmarket_id": 575101,
+  "name": "Ludevic, Necrogenius // Olag, Ludevic's Hubris",
+  "lang": "en",
+  "released_at": "2021-09-24",
+  "uri": "https://api.scryfall.com/cards/38f63648-ef60-43b1-be2a-638185ef266d",
+  "scryfall_uri": "https://scryfall.com/card/mid/320/ludevic-necrogenius-olag-ludevics-hubris?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Human Wizard // Legendary Creature — Zombie",
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [
+    "Transform",
+    "Mill"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Ludevic, Necrogenius",
+      "mana_cost": "{U}{B}",
+      "type_line": "Legendary Creature — Human Wizard",
+      "oracle_text": "Whenever Ludevic enters or attacks, mill a card.\n{X}{U}{U}{B}{B}, Exile X creature cards from your graveyard: Transform Ludevic. X can't be 0. Activate only as a sorcery.",
+      "colors": [
+        "B",
+        "U"
+      ],
+      "power": "2",
+      "toughness": "3",
+      "artist": "Milivoj Ćeran",
+      "artist_id": "1eced451-4da5-42bc-b49d-70c41246581f",
+      "illustration_id": "a92b5ab0-ff1d-40e0-941c-587f980bfdd9",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/3/8/38f63648-ef60-43b1-be2a-638185ef266d.jpg?1682716997",
+        "normal": "https://cards.scryfall.io/normal/front/3/8/38f63648-ef60-43b1-be2a-638185ef266d.jpg?1682716997",
+        "large": "https://cards.scryfall.io/large/front/3/8/38f63648-ef60-43b1-be2a-638185ef266d.jpg?1682716997",
+        "png": "https://cards.scryfall.io/png/front/3/8/38f63648-ef60-43b1-be2a-638185ef266d.png?1682716997",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/3/8/38f63648-ef60-43b1-be2a-638185ef266d.jpg?1682716997",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/3/8/38f63648-ef60-43b1-be2a-638185ef266d.jpg?1682716997"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Olag, Ludevic's Hubris",
+      "mana_cost": "",
+      "type_line": "Legendary Creature — Zombie",
+      "oracle_text": "As this creature transforms into Olag, Ludevic's Hubris, it becomes a copy of a creature card exiled with it, except its name is Olag, Ludevic's Hubris, it's 4/4, and it's a legendary blue and black Zombie in addition to its other colors and types. Put a number of +1/+1 counters on Olag equal to the number of creature cards exiled with it.",
+      "colors": [
+        "B",
+        "U"
+      ],
+      "color_indicator": [
+        "B",
+        "U"
+      ],
+      "power": "4",
+      "toughness": "4",
+      "artist": "Milivoj Ćeran",
+      "artist_id": "1eced451-4da5-42bc-b49d-70c41246581f",
+      "illustration_id": "40eaf775-6df2-4d5b-ada3-ceeebad6a510",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/3/8/38f63648-ef60-43b1-be2a-638185ef266d.jpg?1682716997",
+        "normal": "https://cards.scryfall.io/normal/back/3/8/38f63648-ef60-43b1-be2a-638185ef266d.jpg?1682716997",
+        "large": "https://cards.scryfall.io/large/back/3/8/38f63648-ef60-43b1-be2a-638185ef266d.jpg?1682716997",
+        "png": "https://cards.scryfall.io/png/back/3/8/38f63648-ef60-43b1-be2a-638185ef266d.png?1682716997",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/3/8/38f63648-ef60-43b1-be2a-638185ef266d.jpg?1682716997",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/3/8/38f63648-ef60-43b1-be2a-638185ef266d.jpg?1682716997"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "44b8eb8f-fa23-401a-98b5-1fbb9871128e",
+  "set": "mid",
+  "set_name": "Innistrad: Midnight Hunt",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/44b8eb8f-fa23-401a-98b5-1fbb9871128e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amid&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mid?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/38f63648-ef60-43b1-be2a-638185ef266d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af6f684f6-0c8a-4676-ba4e-d3e064293128&unique=prints",
+  "collector_number": "320",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Milivoj Ćeran",
+  "artist_ids": [
+    "1eced451-4da5-42bc-b49d-70c41246581f"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary",
+    "sunmoondfc",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 17659,
+  "penny_rank": 9373,
+  "preview": {
+    "source": "Bigweb",
+    "source_uri": "https://mtg.bigweb.co.jp/article/preview/MID",
+    "previewed_at": "2021-09-08"
+  },
+  "prices": {
+    "usd": "0.14",
+    "usd_foil": "0.15",
+    "usd_etched": null,
+    "eur": "0.17",
+    "eur_foil": "0.26",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=538501&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLudevic%252C%2BNecrogenius%2B%252F%252F%2BOlag%252C%2BLudevic%2527s%2BHubris",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLudevic%252C%2BNecrogenius%2B%252F%252F%2BOlag%252C%2BLudevic%2527s%2BHubris",
+    "edhrec": "https://edhrec.com/route/?cc=Ludevic%2C+Necrogenius"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F248281%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=575101&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/94146?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

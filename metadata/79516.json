@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "bbb3e263-e7e9-4834-ae94-20146322a7ec",
+  "oracle_id": "146eb8c8-93d5-4dd5-af7a-46d5acd4a89d",
+  "multiverse_ids": [],
+  "tcgplayer_id": 189587,
+  "cardmarket_id": 373458,
+  "name": "Vivien, Champion of the Wilds",
+  "printed_name": "野獣の擁護者、ビビアン",
+  "lang": "ja",
+  "released_at": "2019-05-03",
+  "uri": "https://api.scryfall.com/cards/bbb3e263-e7e9-4834-ae94-20146322a7ec",
+  "scryfall_uri": "https://scryfall.com/card/pwar/180s%E2%98%85/ja/%E9%87%8E%E7%8D%A3%E3%81%AE%E6%93%81%E8%AD%B7%E8%80%85%E3%80%81%E3%83%93%E3%83%93%E3%82%A2%E3%83%B3-(vivien-champion-of-the-wilds)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/b/bbb3e263-e7e9-4834-ae94-20146322a7ec.jpg?1593867192",
+    "normal": "https://cards.scryfall.io/normal/front/b/b/bbb3e263-e7e9-4834-ae94-20146322a7ec.jpg?1593867192",
+    "large": "https://cards.scryfall.io/large/front/b/b/bbb3e263-e7e9-4834-ae94-20146322a7ec.jpg?1593867192",
+    "png": "https://cards.scryfall.io/png/front/b/b/bbb3e263-e7e9-4834-ae94-20146322a7ec.png?1593867192",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/b/bbb3e263-e7e9-4834-ae94-20146322a7ec.jpg?1593867192",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/b/bbb3e263-e7e9-4834-ae94-20146322a7ec.jpg?1593867192"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Legendary Planeswalker — Vivien",
+  "printed_type_line": "伝説のプレインズウォーカー — ビビアン",
+  "oracle_text": "You may cast creature spells as though they had flash.\n+1: Until your next turn, up to one target creature gains vigilance and reach.\n−2: Look at the top three cards of your library. Exile one face down and put the rest on the bottom of your library in any order. For as long as it remains exiled, you may cast it if it's a creature spell.",
+  "printed_text": "あなたはクリーチャー・呪文を、それが瞬速を持っているかのように唱えてもよい。\n+1：クリーチャー最大１体を対象とする。あなたの次のターンまで、それは警戒と到達を得る。\n-2：あなたのライブラリーの一番上からカードを３枚見る。そのうち１枚を裏向きに追放し、残りをあなたのライブラリーの一番下に望む順番で置く。それが追放され続けているかぎり、あなたはそのカードを見てもよく、それがクリーチャー・カードであるならあなたはそれを唱えてもよい。",
+  "loyalty": "4",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9981777b-983e-4f17-b9b1-fe32cf243e23",
+  "set": "pwar",
+  "set_name": "War of the Spark Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/9981777b-983e-4f17-b9b1-fe32cf243e23",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwar&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwar?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/bbb3e263-e7e9-4834-ae94-20146322a7ec/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A146eb8c8-93d5-4dd5-af7a-46d5acd4a89d&unique=prints",
+  "collector_number": "180s★",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Hisashi Momose",
+  "artist_ids": [
+    "09bc6de8-c99c-406a-9da6-8ece7112e496"
+  ],
+  "illustration_id": "8941a518-7009-4a5b-9cfb-163cd7954d83",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped",
+    "jpwalker"
+  ],
+  "edhrec_rank": 2675,
+  "penny_rank": 2207,
+  "prices": {
+    "usd": null,
+    "usd_foil": "49.95",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "82.93",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVivien%252C%2BChampion%2Bof%2Bthe%2BWilds",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVivien%252C%2BChampion%2Bof%2Bthe%2BWilds",
+    "edhrec": "https://edhrec.com/route/?cc=Vivien%2C+Champion+of+the+Wilds"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F189587%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=373458&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Vivien%2C+Champion+of+the+Wilds&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

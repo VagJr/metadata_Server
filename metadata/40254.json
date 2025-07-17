@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "5ef345fc-e64e-4053-b643-2f8648a5473a",
+  "oracle_id": "6789a170-f2c5-4fc0-8a45-2b2361e67410",
+  "multiverse_ids": [],
+  "tcgplayer_id": 220128,
+  "cardmarket_id": 484449,
+  "name": "Chord of Calling",
+  "lang": "en",
+  "released_at": "2020-08-07",
+  "uri": "https://api.scryfall.com/cards/5ef345fc-e64e-4053-b643-2f8648a5473a",
+  "scryfall_uri": "https://scryfall.com/card/2xm/384/chord-of-calling?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/e/5ef345fc-e64e-4053-b643-2f8648a5473a.jpg?1628076663",
+    "normal": "https://cards.scryfall.io/normal/front/5/e/5ef345fc-e64e-4053-b643-2f8648a5473a.jpg?1628076663",
+    "large": "https://cards.scryfall.io/large/front/5/e/5ef345fc-e64e-4053-b643-2f8648a5473a.jpg?1628076663",
+    "png": "https://cards.scryfall.io/png/front/5/e/5ef345fc-e64e-4053-b643-2f8648a5473a.png?1628076663",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/e/5ef345fc-e64e-4053-b643-2f8648a5473a.jpg?1628076663",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/e/5ef345fc-e64e-4053-b643-2f8648a5473a.jpg?1628076663"
+  },
+  "mana_cost": "{X}{G}{G}{G}",
+  "cmc": 3,
+  "type_line": "Instant",
+  "oracle_text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nSearch your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Convoke"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "372dafe8-b5d1-4b81-998f-3ae96b59498a",
+  "set": "2xm",
+  "set_name": "Double Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/372dafe8-b5d1-4b81-998f-3ae96b59498a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A2xm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/2xm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5ef345fc-e64e-4053-b643-2f8648a5473a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6789a170-f2c5-4fc0-8a45-2b2361e67410&unique=prints",
+  "collector_number": "384",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Scott M. Fischer",
+  "artist_ids": [
+    "23b0cf43-3e43-44c6-8329-96446eca5bce"
+  ],
+  "illustration_id": "dfd802dc-b50a-403c-a9e6-a4ee579ec37e",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "release",
+    "buyabox"
+  ],
+  "edhrec_rank": 517,
+  "preview": {
+    "source": "Levunga",
+    "source_uri": "https://www.twitch.tv/videos/687611013",
+    "previewed_at": "2020-07-22"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "3.75",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "3.52",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DChord%2Bof%2BCalling",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DChord%2Bof%2BCalling",
+    "edhrec": "https://edhrec.com/route/?cc=Chord+of+Calling"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F220128%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=484449&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Chord+of+Calling&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

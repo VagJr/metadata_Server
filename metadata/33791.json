@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "4ff67241-4c6a-436d-893b-ef7760825e68",
+  "oracle_id": "477374dc-042c-48f7-9ebe-99c15d8ae04f",
+  "multiverse_ids": [],
+  "tcgplayer_id": 479313,
+  "cardmarket_id": 694808,
+  "name": "All Will Be One",
+  "lang": "en",
+  "released_at": "2023-02-03",
+  "uri": "https://api.scryfall.com/cards/4ff67241-4c6a-436d-893b-ef7760825e68",
+  "scryfall_uri": "https://scryfall.com/card/one/352/all-will-be-one?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/f/4ff67241-4c6a-436d-893b-ef7760825e68.jpg?1681681820",
+    "normal": "https://cards.scryfall.io/normal/front/4/f/4ff67241-4c6a-436d-893b-ef7760825e68.jpg?1681681820",
+    "large": "https://cards.scryfall.io/large/front/4/f/4ff67241-4c6a-436d-893b-ef7760825e68.jpg?1681681820",
+    "png": "https://cards.scryfall.io/png/front/4/f/4ff67241-4c6a-436d-893b-ef7760825e68.png?1681681820",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/f/4ff67241-4c6a-436d-893b-ef7760825e68.jpg?1681681820",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/f/4ff67241-4c6a-436d-893b-ef7760825e68.jpg?1681681820"
+  },
+  "mana_cost": "{3}{R}{R}",
+  "cmc": 5,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever you put one or more counters on a permanent or player, this enchantment deals that much damage to target opponent, creature an opponent controls, or planeswalker an opponent controls.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4ff67241-4c6a-436d-893b-ef7760825e68/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A477374dc-042c-48f7-9ebe-99c15d8ae04f&unique=prints",
+  "collector_number": "352",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alejandro Mirabal",
+  "artist_ids": [
+    "f77eebc1-2aa4-4cad-a158-aedbdfccbf0c"
+  ],
+  "illustration_id": "42a8abb5-b3a6-45a1-907f-69b2b23b7e04",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "oilslick",
+    "raisedfoil"
+  ],
+  "edhrec_rank": 1432,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/1717173018",
+    "previewed_at": "2023-01-24"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "22.88",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "22.42",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAll%2BWill%2BBe%2BOne",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAll%2BWill%2BBe%2BOne",
+    "edhrec": "https://edhrec.com/route/?cc=All+Will+Be+One"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F479313%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=694808&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=All+Will+Be+One&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

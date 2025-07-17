@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "5288bdcf-c374-457a-901e-ea829dae4c89",
+  "oracle_id": "497d7ab8-07f1-4c8a-a45a-52b9a4d9400f",
+  "multiverse_ids": [],
+  "tcgplayer_id": 234526,
+  "name": "Basri Ket",
+  "printed_name": "バスリ・ケト",
+  "lang": "ja",
+  "released_at": "2021-03-12",
+  "uri": "https://api.scryfall.com/cards/5288bdcf-c374-457a-901e-ea829dae4c89",
+  "scryfall_uri": "https://scryfall.com/card/pwcs/2021-1/ja/%E3%83%90%E3%82%B9%E3%83%AA%E3%83%BB%E3%82%B1%E3%83%88-(basri-ket)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/2/5288bdcf-c374-457a-901e-ea829dae4c89.jpg?1677542193",
+    "normal": "https://cards.scryfall.io/normal/front/5/2/5288bdcf-c374-457a-901e-ea829dae4c89.jpg?1677542193",
+    "large": "https://cards.scryfall.io/large/front/5/2/5288bdcf-c374-457a-901e-ea829dae4c89.jpg?1677542193",
+    "png": "https://cards.scryfall.io/png/front/5/2/5288bdcf-c374-457a-901e-ea829dae4c89.png?1677542193",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/2/5288bdcf-c374-457a-901e-ea829dae4c89.jpg?1677542193",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/2/5288bdcf-c374-457a-901e-ea829dae4c89.jpg?1677542193"
+  },
+  "mana_cost": "{1}{W}{W}",
+  "cmc": 3,
+  "type_line": "Legendary Planeswalker — Basri",
+  "printed_type_line": "伝説のプレインズウォーカー — バスリ",
+  "oracle_text": "+1: Put a +1/+1 counter on up to one target creature. It gains indestructible until end of turn.\n−2: Whenever one or more nontoken creatures attack this turn, create that many 1/1 white Soldier creature tokens that are tapped and attacking.\n−6: You get an emblem with \"At the beginning of combat on your turn, create a 1/1 white Soldier creature token, then put a +1/+1 counter on each creature you control.\"",
+  "printed_text": "+1：クリーチャー最大１体を対象とし、それの上に＋１/＋１カウンターを１個置く。ターン終了時まで、それは破壊不能を得る。\n-2：このターン、トークンでないクリーチャーが１体以上攻撃するたび、その数に等しい数の白の１/１の兵士・クリーチャー・トークンをタップ状態かつ攻撃している状態で生成する。\n-6：あなたは「あなたのターンの戦闘の開始時に、白の１/１の兵士・クリーチャー・トークンを１体生成し、その後あなたがコントロールしている各クリーチャーの上に＋１/＋１カウンターをそれぞれ１個置く。」を持つ紋章を得る。",
+  "loyalty": "3",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d08fce7e-36a9-4617-8a14-24eb460bcbaf",
+  "set": "pwcs",
+  "set_name": "Planeswalker Championship Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/d08fce7e-36a9-4617-8a14-24eb460bcbaf",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwcs&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwcs?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5288bdcf-c374-457a-901e-ea829dae4c89/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A497d7ab8-07f1-4c8a-a45a-52b9a4d9400f&unique=prints",
+  "collector_number": "2021-1",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Takayama Toshiaki",
+  "artist_ids": [
+    "a4879110-33bc-4261-8e00-30b897df509b"
+  ],
+  "illustration_id": "2bd213e5-43c3-44b6-88f4-4a4a44f35e5c",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5330,
+  "penny_rank": 4956,
+  "prices": {
+    "usd": null,
+    "usd_foil": "139.99",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBasri%2BKet",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBasri%2BKet",
+    "edhrec": "https://edhrec.com/route/?cc=Basri+Ket"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F234526%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Basri+Ket&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Basri+Ket&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

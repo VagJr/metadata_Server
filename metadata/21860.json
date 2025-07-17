@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "336977de-7ece-40c1-8257-60bf0ffa32b4",
+  "oracle_id": "ab9e2045-860a-40ab-bec1-0dffced003ef",
+  "multiverse_ids": [
+    606769
+  ],
+  "arena_id": 86198,
+  "name": "Devils' Playground",
+  "lang": "en",
+  "released_at": "2023-03-21",
+  "uri": "https://api.scryfall.com/cards/336977de-7ece-40c1-8257-60bf0ffa32b4",
+  "scryfall_uri": "https://scryfall.com/card/sir/151/devils-playground?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/3/336977de-7ece-40c1-8257-60bf0ffa32b4.jpg?1678945105",
+    "normal": "https://cards.scryfall.io/normal/front/3/3/336977de-7ece-40c1-8257-60bf0ffa32b4.jpg?1678945105",
+    "large": "https://cards.scryfall.io/large/front/3/3/336977de-7ece-40c1-8257-60bf0ffa32b4.jpg?1678945105",
+    "png": "https://cards.scryfall.io/png/front/3/3/336977de-7ece-40c1-8257-60bf0ffa32b4.png?1678945105",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/3/336977de-7ece-40c1-8257-60bf0ffa32b4.jpg?1678945105",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/3/336977de-7ece-40c1-8257-60bf0ffa32b4.jpg?1678945105"
+  },
+  "mana_cost": "{4}{R}{R}",
+  "cmc": 6,
+  "type_line": "Sorcery",
+  "oracle_text": "Create four 1/1 red Devil creature tokens. They have \"When this token dies, it deals 1 damage to any target.\"",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "d7a88466-7f44-4535-a8d5-097ed747454d",
+      "component": "token",
+      "name": "Devil",
+      "type_line": "Token Creature — Devil",
+      "uri": "https://api.scryfall.com/cards/d7a88466-7f44-4535-a8d5-097ed747454d"
+    },
+    {
+      "object": "related_card",
+      "id": "336977de-7ece-40c1-8257-60bf0ffa32b4",
+      "component": "combo_piece",
+      "name": "Devils' Playground",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/336977de-7ece-40c1-8257-60bf0ffa32b4"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c3694ff5-7b12-4f29-8d82-2c9b553ac60e",
+  "set": "sir",
+  "set_name": "Shadows over Innistrad Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/c3694ff5-7b12-4f29-8d82-2c9b553ac60e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asir&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sir?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/336977de-7ece-40c1-8257-60bf0ffa32b4/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aab9e2045-860a-40ab-bec1-0dffced003ef&unique=prints",
+  "collector_number": "151",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wayne England",
+  "artist_ids": [
+    "62dc90c0-4bc2-4d42-ad76-59cad9243566"
+  ],
+  "illustration_id": "6c2a5f9e-a8d0-4f38-bea0-c6aa3f29e75d",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 13271,
+  "penny_rank": 14491,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=606769&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDevils%2527%2BPlayground",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDevils%2527%2BPlayground",
+    "edhrec": "https://edhrec.com/route/?cc=Devils%27+Playground"
+  }
+}

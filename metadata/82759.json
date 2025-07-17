@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "c374ecff-b030-4f11-98db-82484ebd459c",
+  "oracle_id": "c7dd0614-e11e-4b6b-a2cb-9904e457148f",
+  "multiverse_ids": [],
+  "tcgplayer_id": 582389,
+  "name": "Hive Stirrings",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/c374ecff-b030-4f11-98db-82484ebd459c",
+  "scryfall_uri": "https://scryfall.com/card/plst/M14-21/hive-stirrings?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/3/c374ecff-b030-4f11-98db-82484ebd459c.jpg?1723438716",
+    "normal": "https://cards.scryfall.io/normal/front/c/3/c374ecff-b030-4f11-98db-82484ebd459c.jpg?1723438716",
+    "large": "https://cards.scryfall.io/large/front/c/3/c374ecff-b030-4f11-98db-82484ebd459c.jpg?1723438716",
+    "png": "https://cards.scryfall.io/png/front/c/3/c374ecff-b030-4f11-98db-82484ebd459c.png?1723438716",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/3/c374ecff-b030-4f11-98db-82484ebd459c.jpg?1723438716",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/3/c374ecff-b030-4f11-98db-82484ebd459c.jpg?1723438716"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Sorcery",
+  "oracle_text": "Create two 1/1 colorless Sliver creature tokens.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "00f50b09-3253-46a5-8639-5bc90c84b8e1",
+      "component": "token",
+      "name": "Sliver",
+      "type_line": "Token Creature — Sliver",
+      "uri": "https://api.scryfall.com/cards/00f50b09-3253-46a5-8639-5bc90c84b8e1"
+    },
+    {
+      "object": "related_card",
+      "id": "c374ecff-b030-4f11-98db-82484ebd459c",
+      "component": "combo_piece",
+      "name": "Hive Stirrings",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/c374ecff-b030-4f11-98db-82484ebd459c"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c374ecff-b030-4f11-98db-82484ebd459c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac7dd0614-e11e-4b6b-a2cb-9904e457148f&unique=prints",
+  "collector_number": "M14-21",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Sliver young are sorted into clutches according to their potential and their future role. Human scholars can only guess how those are determined.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Maciej Kuciara",
+  "artist_ids": [
+    "f1d0c5e9-747f-4885-a5cd-a2ea42a792ef"
+  ],
+  "illustration_id": "7d515399-c6b3-4f63-b496-fe3e9567e886",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 14742,
+  "penny_rank": 10779,
+  "prices": {
+    "usd": "0.14",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHive%2BStirrings",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHive%2BStirrings",
+    "edhrec": "https://edhrec.com/route/?cc=Hive+Stirrings"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F582389%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hive+Stirrings&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hive+Stirrings&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

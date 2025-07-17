@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "05946b39-0b54-4f63-b521-4d5deb238541",
+  "oracle_id": "12930853-763a-482f-9cd8-1d4e29abbacd",
+  "multiverse_ids": [],
+  "name": "Human Rogue",
+  "lang": "en",
+  "released_at": "2024-07-05",
+  "uri": "https://api.scryfall.com/cards/05946b39-0b54-4f63-b521-4d5deb238541",
+  "scryfall_uri": "https://scryfall.com/card/tacr/3/human-rogue?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/5/05946b39-0b54-4f63-b521-4d5deb238541.jpg?1720341319",
+    "normal": "https://cards.scryfall.io/normal/front/0/5/05946b39-0b54-4f63-b521-4d5deb238541.jpg?1720341319",
+    "large": "https://cards.scryfall.io/large/front/0/5/05946b39-0b54-4f63-b521-4d5deb238541.jpg?1720341319",
+    "png": "https://cards.scryfall.io/png/front/0/5/05946b39-0b54-4f63-b521-4d5deb238541.png?1720341319",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/5/05946b39-0b54-4f63-b521-4d5deb238541.jpg?1720341319",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/5/05946b39-0b54-4f63-b521-4d5deb238541.jpg?1720341319"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Human Rogue",
+  "oracle_text": "",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "05946b39-0b54-4f63-b521-4d5deb238541",
+      "component": "token",
+      "name": "Human Rogue",
+      "type_line": "Token Creature — Human Rogue",
+      "uri": "https://api.scryfall.com/cards/05946b39-0b54-4f63-b521-4d5deb238541"
+    },
+    {
+      "object": "related_card",
+      "id": "2285f6e4-99bd-4f61-9788-0107c119753e",
+      "component": "combo_piece",
+      "name": "Distract the Guards",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/2285f6e4-99bd-4f61-9788-0107c119753e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "40745188-c35f-4f69-89db-1fe5b46b65ba",
+  "set": "tacr",
+  "set_name": "Assassin's Creed Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/40745188-c35f-4f69-89db-1fe5b46b65ba",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atacr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tacr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/05946b39-0b54-4f63-b521-4d5deb238541/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A12930853-763a-482f-9cd8-1d4e29abbacd&unique=prints",
+  "collector_number": "3",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Elizabeth Peiró",
+  "artist_ids": [
+    "154beecd-b9b8-4795-950c-de8de7434c43"
+  ],
+  "illustration_id": "5546d408-4dcf-4513-9801-7a7ac8e4c52a",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHuman%2BRogue",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHuman%2BRogue",
+    "edhrec": "https://edhrec.com/route/?cc=Human+Rogue"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DHuman%2BRogue%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Human+Rogue&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Human+Rogue&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

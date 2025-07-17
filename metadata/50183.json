@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "76a525da-aa38-4359-8eaf-90c70d98024e",
+  "oracle_id": "69aa1ac7-17da-4fc9-a3dc-df8a52841f4a",
+  "multiverse_ids": [],
+  "tcgplayer_id": 256133,
+  "name": "Bone Shredder",
+  "printed_name": "骨砕き",
+  "lang": "ja",
+  "released_at": "2021-08-26",
+  "uri": "https://api.scryfall.com/cards/76a525da-aa38-4359-8eaf-90c70d98024e",
+  "scryfall_uri": "https://scryfall.com/card/pmei/2021-2/ja/%E9%AA%A8%E7%A0%95%E3%81%8D-(bone-shredder)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/6/76a525da-aa38-4359-8eaf-90c70d98024e.jpg?1736927647",
+    "normal": "https://cards.scryfall.io/normal/front/7/6/76a525da-aa38-4359-8eaf-90c70d98024e.jpg?1736927647",
+    "large": "https://cards.scryfall.io/large/front/7/6/76a525da-aa38-4359-8eaf-90c70d98024e.jpg?1736927647",
+    "png": "https://cards.scryfall.io/png/front/7/6/76a525da-aa38-4359-8eaf-90c70d98024e.png?1736927647",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/6/76a525da-aa38-4359-8eaf-90c70d98024e.jpg?1736927647",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/6/76a525da-aa38-4359-8eaf-90c70d98024e.jpg?1736927647"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3,
+  "type_line": "Creature — Phyrexian Minion",
+  "printed_type_line": "クリーチャー — ファイレクシアン・ミニオン",
+  "oracle_text": "Flying\nEcho {2}{B} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen this creature enters, destroy target nonartifact, nonblack creature.",
+  "printed_text": "飛行\nエコー{2}{B}（あなたのアップキープの開始時に、これが直前のあなたのアップキープの開始時よりも後にあなたのコントロール下になっていた場合、あなたがエコー・コストを支払わないかぎり、これを生け贄に捧げる。）\n骨砕きが戦場に出たとき、アーティファクトでも黒でもないクリーチャー１体を対象とする。それを破壊する。",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Echo",
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "80b77354-aa37-420c-a9a2-8a0c66989f23",
+  "set": "pmei",
+  "set_name": "Media and Collaboration Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/80b77354-aa37-420c-a9a2-8a0c66989f23",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apmei&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pmei?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/76a525da-aa38-4359-8eaf-90c70d98024e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A69aa1ac7-17da-4fc9-a3dc-df8a52841f4a&unique=prints",
+  "collector_number": "2021-2",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ron Spencer",
+  "artist_ids": [
+    "dab52c11-0564-4207-a4a1-c1735c946a65"
+  ],
+  "illustration_id": "53905922-f6a4-414f-85d7-3a1164079f22",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "mediainsert"
+  ],
+  "edhrec_rank": 7495,
+  "penny_rank": 5558,
+  "prices": {
+    "usd": null,
+    "usd_foil": "4.58",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBone%2BShredder",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBone%2BShredder",
+    "edhrec": "https://edhrec.com/route/?cc=Bone+Shredder"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F256133%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bone+Shredder&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bone+Shredder&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

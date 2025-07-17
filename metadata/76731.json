@@ -1,0 +1,150 @@
+{
+  "object": "card",
+  "id": "b51c97c8-951a-47d2-bd24-160a49ca8600",
+  "oracle_id": "e11966cd-2ee3-4df4-b099-abf42dcdf0db",
+  "multiverse_ids": [],
+  "mtgo_id": 82812,
+  "name": "Urza's Power Plant",
+  "lang": "en",
+  "released_at": "2020-08-30",
+  "uri": "https://api.scryfall.com/cards/b51c97c8-951a-47d2-bd24-160a49ca8600",
+  "scryfall_uri": "https://scryfall.com/card/prm/82812/urzas-power-plant?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/5/b51c97c8-951a-47d2-bd24-160a49ca8600.jpg?1630634038",
+    "normal": "https://cards.scryfall.io/normal/front/b/5/b51c97c8-951a-47d2-bd24-160a49ca8600.jpg?1630634038",
+    "large": "https://cards.scryfall.io/large/front/b/5/b51c97c8-951a-47d2-bd24-160a49ca8600.jpg?1630634038",
+    "png": "https://cards.scryfall.io/png/front/b/5/b51c97c8-951a-47d2-bd24-160a49ca8600.png?1630634038",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/5/b51c97c8-951a-47d2-bd24-160a49ca8600.jpg?1630634038",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/5/b51c97c8-951a-47d2-bd24-160a49ca8600.jpg?1630634038"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land — Urza's Power-Plant",
+  "oracle_text": "{T}: Add {C}. If you control an Urza's Mine and an Urza's Tower, add {C}{C} instead.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "bfa6bfa2-0aee-4623-a17e-a77898deb16d",
+      "component": "combo_piece",
+      "name": "Urza's Construction Drone",
+      "type_line": "Artifact Creature — Construct",
+      "uri": "https://api.scryfall.com/cards/bfa6bfa2-0aee-4623-a17e-a77898deb16d"
+    },
+    {
+      "object": "related_card",
+      "id": "55cc0214-94e1-41fe-88bc-bb8c420d3175",
+      "component": "combo_piece",
+      "name": "Urza's Tower",
+      "type_line": "Land — Urza's Tower",
+      "uri": "https://api.scryfall.com/cards/55cc0214-94e1-41fe-88bc-bb8c420d3175"
+    },
+    {
+      "object": "related_card",
+      "id": "ac84babc-932d-4252-bc01-3e60760fc9a1",
+      "component": "combo_piece",
+      "name": "Urza's Mine",
+      "type_line": "Land — Urza's Mine",
+      "uri": "https://api.scryfall.com/cards/ac84babc-932d-4252-bc01-3e60760fc9a1"
+    },
+    {
+      "object": "related_card",
+      "id": "b51c97c8-951a-47d2-bd24-160a49ca8600",
+      "component": "combo_piece",
+      "name": "Urza's Power Plant",
+      "type_line": "Land — Urza's Power-Plant",
+      "uri": "https://api.scryfall.com/cards/b51c97c8-951a-47d2-bd24-160a49ca8600"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b51c97c8-951a-47d2-bd24-160a49ca8600/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae11966cd-2ee3-4df4-b099-abf42dcdf0db&unique=prints",
+  "collector_number": "82812",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mark Tedin",
+  "artist_ids": [
+    "9ee9a9cc-c09e-486f-918b-69f80cbc4188"
+  ],
+  "illustration_id": "06c9a019-95fb-407f-b7bc-bf01818cb726",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 786,
+  "penny_rank": 15284,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "3.38"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DUrza%2527s%2BPower%2BPlant",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DUrza%2527s%2BPower%2BPlant",
+    "edhrec": "https://edhrec.com/route/?cc=Urza%27s+Power+Plant"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DUrza%2527s%2BPower%2BPlant%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Urza%27s+Power+Plant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/82812?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

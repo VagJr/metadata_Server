@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "cd5017e7-2da9-48be-8dc3-458a1374b97c",
+  "oracle_id": "713332c1-5bd8-400f-bfff-c1ca0697a043",
+  "multiverse_ids": [],
+  "mtgo_id": 99563,
+  "arena_id": 77561,
+  "tcgplayer_id": 233492,
+  "tcgplayer_etched_id": 233491,
+  "cardmarket_id": 540551,
+  "name": "Opt",
+  "printed_name": "選択",
+  "lang": "ja",
+  "released_at": "2021-04-23",
+  "uri": "https://api.scryfall.com/cards/cd5017e7-2da9-48be-8dc3-458a1374b97c",
+  "scryfall_uri": "https://scryfall.com/card/sta/82/ja/%E9%81%B8%E6%8A%9E-(opt)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/d/cd5017e7-2da9-48be-8dc3-458a1374b97c.jpg?1624494369",
+    "normal": "https://cards.scryfall.io/normal/front/c/d/cd5017e7-2da9-48be-8dc3-458a1374b97c.jpg?1624494369",
+    "large": "https://cards.scryfall.io/large/front/c/d/cd5017e7-2da9-48be-8dc3-458a1374b97c.jpg?1624494369",
+    "png": "https://cards.scryfall.io/png/front/c/d/cd5017e7-2da9-48be-8dc3-458a1374b97c.png?1624494369",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/d/cd5017e7-2da9-48be-8dc3-458a1374b97c.jpg?1624494369",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/d/cd5017e7-2da9-48be-8dc3-458a1374b97c.jpg?1624494369"
+  },
+  "mana_cost": "{U}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "printed_type_line": "インスタント",
+  "oracle_text": "Scry 1. (Look at the top card of your library. You may put that card on the bottom.)\nDraw a card.",
+  "printed_text": "占術１を行う。\nカードを１枚引く。",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Scry"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil",
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5064a720-907f-4cb6-a425-766dc1dd7374",
+  "set": "sta",
+  "set_name": "Strixhaven Mystical Archive",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/5064a720-907f-4cb6-a425-766dc1dd7374",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asta&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sta?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/cd5017e7-2da9-48be-8dc3-458a1374b97c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A713332c1-5bd8-400f-bfff-c1ca0697a043&unique=prints",
+  "collector_number": "82",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "「最もよく叶う願いは、自らの運命を選択したいという願いだ。」",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Rien.",
+  "artist_ids": [
+    "7055788b-462f-4abe-a6d5-dc2a169218cb"
+  ],
+  "illustration_id": "41ce8fec-c409-4708-8c6a-454694525266",
+  "border_color": "borderless",
+  "frame": "2015",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 208,
+  "penny_rank": 60,
+  "prices": {
+    "usd": "2.31",
+    "usd_foil": "3.10",
+    "usd_etched": "3.64",
+    "eur": "2.91",
+    "eur_foil": "3.92",
+    "tix": "4.23"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOpt",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOpt",
+    "edhrec": "https://edhrec.com/route/?cc=Opt"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F233492%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=540551&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/99563?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

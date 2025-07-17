@@ -1,0 +1,164 @@
+{
+  "object": "card",
+  "id": "0d8fa256-3535-4c46-bc3c-dcee457519ab",
+  "oracle_id": "830e3e37-a80c-4b0e-b9af-393ad4ca01d7",
+  "multiverse_ids": [],
+  "mtgo_id": 95592,
+  "tcgplayer_id": 255570,
+  "cardmarket_id": 585378,
+  "name": "Faithbound Judge // Sinner's Judgment",
+  "lang": "en",
+  "released_at": "2022-01-28",
+  "uri": "https://api.scryfall.com/cards/0d8fa256-3535-4c46-bc3c-dcee457519ab",
+  "scryfall_uri": "https://scryfall.com/card/dbl/279/faithbound-judge-sinners-judgment?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 3,
+  "type_line": "Creature — Spirit Soldier // Enchantment — Aura Curse",
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "Vigilance",
+    "Enchant",
+    "Defender",
+    "Disturb"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Faithbound Judge",
+      "mana_cost": "{1}{W}{W}",
+      "type_line": "Creature — Spirit Soldier",
+      "oracle_text": "Defender, flying, vigilance\nAt the beginning of your upkeep, if this creature has two or fewer judgment counters on it, put a judgment counter on it.\nAs long as this creature has three or more judgment counters on it, it can attack as though it didn't have defender.\nDisturb {5}{W}{W}",
+      "colors": [
+        "W"
+      ],
+      "power": "4",
+      "toughness": "4",
+      "artist": "Svetlin Velinov",
+      "artist_id": "ffd063ae-c097-4f26-b2e6-b1e2137708bc",
+      "illustration_id": "69dd527a-6a71-4704-93f4-d172f22f02de",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/0/d/0d8fa256-3535-4c46-bc3c-dcee457519ab.jpg?1673161382",
+        "normal": "https://cards.scryfall.io/normal/front/0/d/0d8fa256-3535-4c46-bc3c-dcee457519ab.jpg?1673161382",
+        "large": "https://cards.scryfall.io/large/front/0/d/0d8fa256-3535-4c46-bc3c-dcee457519ab.jpg?1673161382",
+        "png": "https://cards.scryfall.io/png/front/0/d/0d8fa256-3535-4c46-bc3c-dcee457519ab.png?1673161382",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/0/d/0d8fa256-3535-4c46-bc3c-dcee457519ab.jpg?1673161382",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/0/d/0d8fa256-3535-4c46-bc3c-dcee457519ab.jpg?1673161382"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Sinner's Judgment",
+      "mana_cost": "",
+      "type_line": "Enchantment — Aura Curse",
+      "oracle_text": "Enchant player\nAt the beginning of your upkeep, put a judgment counter on this Aura. Then if there are three or more judgment counters on it, enchanted player loses the game.\nIf Sinner's Judgment would be put into a graveyard from anywhere, exile it instead.",
+      "colors": [
+        "W"
+      ],
+      "color_indicator": [
+        "W"
+      ],
+      "artist": "Svetlin Velinov",
+      "artist_id": "ffd063ae-c097-4f26-b2e6-b1e2137708bc",
+      "illustration_id": "386e0d9b-08bb-4d57-80dc-855f1e172a26",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/0/d/0d8fa256-3535-4c46-bc3c-dcee457519ab.jpg?1673161382",
+        "normal": "https://cards.scryfall.io/normal/back/0/d/0d8fa256-3535-4c46-bc3c-dcee457519ab.jpg?1673161382",
+        "large": "https://cards.scryfall.io/large/back/0/d/0d8fa256-3535-4c46-bc3c-dcee457519ab.jpg?1673161382",
+        "png": "https://cards.scryfall.io/png/back/0/d/0d8fa256-3535-4c46-bc3c-dcee457519ab.png?1673161382",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/0/d/0d8fa256-3535-4c46-bc3c-dcee457519ab.jpg?1673161382",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/0/d/0d8fa256-3535-4c46-bc3c-dcee457519ab.jpg?1673161382"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set": "dbl",
+  "set_name": "Innistrad: Double Feature",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adbl&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dbl?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0d8fa256-3535-4c46-bc3c-dcee457519ab/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A830e3e37-a80c-4b0e-b9af-393ad4ca01d7&unique=prints",
+  "collector_number": "279",
+  "digital": false,
+  "rarity": "mythic",
+  "artist": "Svetlin Velinov",
+  "artist_ids": [
+    "ffd063ae-c097-4f26-b2e6-b1e2137708bc"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted",
+    "sunmoondfc"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 9518,
+  "penny_rank": 9334,
+  "prices": {
+    "usd": "1.27",
+    "usd_foil": "6.49",
+    "usd_etched": null,
+    "eur": "1.39",
+    "eur_foil": "3.98",
+    "tix": "0.83"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFaithbound%2BJudge%2B%252F%252F%2BSinner%2527s%2BJudgment",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFaithbound%2BJudge%2B%252F%252F%2BSinner%2527s%2BJudgment",
+    "edhrec": "https://edhrec.com/route/?cc=Faithbound+Judge"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F255570%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=585378&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/95592?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

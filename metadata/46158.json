@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "6d17cd3c-40a7-4df8-8687-c0eb94637c80",
+  "oracle_id": "b49642f6-20bd-468d-9dac-e578f9ac3091",
+  "multiverse_ids": [
+    658266
+  ],
+  "mtgo_id": 123521,
+  "tcgplayer_id": 544900,
+  "cardmarket_id": 764199,
+  "name": "Leyline Binding",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/6d17cd3c-40a7-4df8-8687-c0eb94637c80",
+  "scryfall_uri": "https://scryfall.com/card/otp/66/leyline-binding?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/d/6d17cd3c-40a7-4df8-8687-c0eb94637c80.jpg?1736782693",
+    "normal": "https://cards.scryfall.io/normal/front/6/d/6d17cd3c-40a7-4df8-8687-c0eb94637c80.jpg?1736782693",
+    "large": "https://cards.scryfall.io/large/front/6/d/6d17cd3c-40a7-4df8-8687-c0eb94637c80.jpg?1736782693",
+    "png": "https://cards.scryfall.io/png/front/6/d/6d17cd3c-40a7-4df8-8687-c0eb94637c80.png?1736782693",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/d/6d17cd3c-40a7-4df8-8687-c0eb94637c80.jpg?1736782693",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/d/6d17cd3c-40a7-4df8-8687-c0eb94637c80.jpg?1736782693"
+  },
+  "mana_cost": "{5}{W}",
+  "cmc": 6,
+  "type_line": "Enchantment",
+  "oracle_text": "Flash\nDomain — This spell costs {1} less to cast for each basic land type among lands you control.\nWhen this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Domain",
+    "Flash"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8b51294d-fc54-410c-83b2-0168837ede87",
+  "set": "otp",
+  "set_name": "Breaking News",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/8b51294d-fc54-410c-83b2-0168837ede87",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6d17cd3c-40a7-4df8-8687-c0eb94637c80/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab49642f6-20bd-468d-9dac-e578f9ac3091&unique=prints",
+  "collector_number": "66",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Yohann Schepacz",
+  "artist_ids": [
+    "c40c8ec8-d8b3-48a5-8de2-a7c96cbded5b"
+  ],
+  "illustration_id": "4c8a3c27-e472-4a6c-aa35-302c8d1ac9fc",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "textured",
+    "boosterfun"
+  ],
+  "edhrec_rank": 9195,
+  "prices": {
+    "usd": null,
+    "usd_foil": "28.92",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "25.23",
+    "tix": "4.50"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=658266&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLeyline%2BBinding",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLeyline%2BBinding",
+    "edhrec": "https://edhrec.com/route/?cc=Leyline+Binding"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544900%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=764199&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/123521?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

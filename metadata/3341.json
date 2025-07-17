@@ -1,0 +1,164 @@
+{
+  "object": "card",
+  "id": "07b9edea-96eb-4146-8922-fbefdb8d57af",
+  "oracle_id": "0761a0e7-d443-4bab-bb15-307c83d4a6a1",
+  "multiverse_ids": [],
+  "mtgo_id": 96262,
+  "tcgplayer_id": 255400,
+  "cardmarket_id": 585075,
+  "name": "Lunarch Veteran // Luminous Phantom",
+  "lang": "en",
+  "released_at": "2022-01-28",
+  "uri": "https://api.scryfall.com/cards/07b9edea-96eb-4146-8922-fbefdb8d57af",
+  "scryfall_uri": "https://scryfall.com/card/dbl/27/lunarch-veteran-luminous-phantom?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 1,
+  "type_line": "Creature — Human Cleric // Creature — Spirit Cleric",
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "Transform",
+    "Disturb"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Lunarch Veteran",
+      "mana_cost": "{W}",
+      "type_line": "Creature — Human Cleric",
+      "oracle_text": "Whenever another creature you control enters, you gain 1 life.\nDisturb {1}{W} (You may cast this card from your graveyard transformed for its disturb cost.)",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "flavor_text": "\"Even in our darkest times, Avacyn's light still guides us.\"",
+      "artist": "Igor Kieryluk",
+      "artist_id": "9c3e9d17-509f-485c-9360-46d897ce716b",
+      "illustration_id": "0b50b75f-e10b-4b3a-9124-6ac5798e6ec6",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/0/7/07b9edea-96eb-4146-8922-fbefdb8d57af.jpg?1673158760",
+        "normal": "https://cards.scryfall.io/normal/front/0/7/07b9edea-96eb-4146-8922-fbefdb8d57af.jpg?1673158760",
+        "large": "https://cards.scryfall.io/large/front/0/7/07b9edea-96eb-4146-8922-fbefdb8d57af.jpg?1673158760",
+        "png": "https://cards.scryfall.io/png/front/0/7/07b9edea-96eb-4146-8922-fbefdb8d57af.png?1673158760",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/0/7/07b9edea-96eb-4146-8922-fbefdb8d57af.jpg?1673158760",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/0/7/07b9edea-96eb-4146-8922-fbefdb8d57af.jpg?1673158760"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Luminous Phantom",
+      "mana_cost": "",
+      "type_line": "Creature — Spirit Cleric",
+      "oracle_text": "Flying\nWhenever another creature you control leaves the battlefield, you gain 1 life.\nIf Luminous Phantom would be put into a graveyard from anywhere, exile it instead.",
+      "colors": [
+        "W"
+      ],
+      "color_indicator": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "artist": "Igor Kieryluk",
+      "artist_id": "9c3e9d17-509f-485c-9360-46d897ce716b",
+      "illustration_id": "6b83fabb-ca99-412f-85c4-4bd73a3e8e63",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/0/7/07b9edea-96eb-4146-8922-fbefdb8d57af.jpg?1673158760",
+        "normal": "https://cards.scryfall.io/normal/back/0/7/07b9edea-96eb-4146-8922-fbefdb8d57af.jpg?1673158760",
+        "large": "https://cards.scryfall.io/large/back/0/7/07b9edea-96eb-4146-8922-fbefdb8d57af.jpg?1673158760",
+        "png": "https://cards.scryfall.io/png/back/0/7/07b9edea-96eb-4146-8922-fbefdb8d57af.png?1673158760",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/0/7/07b9edea-96eb-4146-8922-fbefdb8d57af.jpg?1673158760",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/0/7/07b9edea-96eb-4146-8922-fbefdb8d57af.jpg?1673158760"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set": "dbl",
+  "set_name": "Innistrad: Double Feature",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adbl&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dbl?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/07b9edea-96eb-4146-8922-fbefdb8d57af/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0761a0e7-d443-4bab-bb15-307c83d4a6a1&unique=prints",
+  "collector_number": "27",
+  "digital": false,
+  "rarity": "common",
+  "artist": "Igor Kieryluk",
+  "artist_ids": [
+    "9c3e9d17-509f-485c-9360-46d897ce716b"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted",
+    "sunmoondfc"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3520,
+  "penny_rank": 3266,
+  "prices": {
+    "usd": "0.47",
+    "usd_foil": "9.58",
+    "usd_etched": null,
+    "eur": "0.23",
+    "eur_foil": "2.54",
+    "tix": "0.11"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLunarch%2BVeteran%2B%252F%252F%2BLuminous%2BPhantom",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLunarch%2BVeteran%2B%252F%252F%2BLuminous%2BPhantom",
+    "edhrec": "https://edhrec.com/route/?cc=Lunarch+Veteran"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F255400%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=585075&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/96262?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

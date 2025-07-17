@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "74ab6843-6bdd-439a-b81c-0be83b8d4c52",
+  "oracle_id": "05e9b55e-6329-48ec-b7d7-24c6b9692244",
+  "multiverse_ids": [],
+  "tcgplayer_id": 550761,
+  "cardmarket_id": 770436,
+  "name": "Nicol Bolas, Planeswalker",
+  "lang": "en",
+  "released_at": "2024-05-13",
+  "uri": "https://api.scryfall.com/cards/74ab6843-6bdd-439a-b81c-0be83b8d4c52",
+  "scryfall_uri": "https://scryfall.com/card/sld/1622/nicol-bolas-planeswalker?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/4/74ab6843-6bdd-439a-b81c-0be83b8d4c52.jpg?1715373633",
+    "normal": "https://cards.scryfall.io/normal/front/7/4/74ab6843-6bdd-439a-b81c-0be83b8d4c52.jpg?1715373633",
+    "large": "https://cards.scryfall.io/large/front/7/4/74ab6843-6bdd-439a-b81c-0be83b8d4c52.jpg?1715373633",
+    "png": "https://cards.scryfall.io/png/front/7/4/74ab6843-6bdd-439a-b81c-0be83b8d4c52.png?1715373633",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/4/74ab6843-6bdd-439a-b81c-0be83b8d4c52.jpg?1715373633",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/4/74ab6843-6bdd-439a-b81c-0be83b8d4c52.jpg?1715373633"
+  },
+  "mana_cost": "{4}{U}{B}{B}{R}",
+  "cmc": 8,
+  "type_line": "Legendary Planeswalker — Bolas",
+  "oracle_text": "+3: Destroy target noncreature permanent.\n−2: Gain control of target creature.\n−9: Nicol Bolas deals 7 damage to target player or planeswalker. That player or that planeswalker's controller discards seven cards, then sacrifices seven permanents of their choice.",
+  "loyalty": "5",
+  "colors": [
+    "B",
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "R",
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/74ab6843-6bdd-439a-b81c-0be83b8d4c52/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A05e9b55e-6329-48ec-b7d7-24c6b9692244&unique=prints",
+  "collector_number": "1622",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Aaron J. Riley & Scott Okumura",
+  "artist_ids": [
+    "f21b412c-aef5-4d15-88be-4f40615acde3",
+    "f4ec7a06-c25b-41f1-8ae3-6c51ac063cdd"
+  ],
+  "illustration_id": "419bc9b5-0485-48c1-abc6-9b9182f7eea8",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "rainbowfoil"
+  ],
+  "edhrec_rank": 6536,
+  "penny_rank": 1647,
+  "prices": {
+    "usd": "9.00",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "6.28",
+    "eur_foil": "6.71",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNicol%2BBolas%252C%2BPlaneswalker",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNicol%2BBolas%252C%2BPlaneswalker",
+    "edhrec": "https://edhrec.com/route/?cc=Nicol+Bolas%2C+Planeswalker"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F550761%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=770436&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nicol+Bolas%2C+Planeswalker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

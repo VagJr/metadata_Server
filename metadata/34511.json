@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "51c2ce43-16ae-49bd-8fb3-0aa65eae5b9b",
+  "oracle_id": "6623cb85-fb1e-4561-8b21-0977c25096c2",
+  "multiverse_ids": [],
+  "tcgplayer_id": 231957,
+  "cardmarket_id": 536202,
+  "name": "Tibalt's Trickery",
+  "lang": "en",
+  "released_at": "2021-02-05",
+  "uri": "https://api.scryfall.com/cards/51c2ce43-16ae-49bd-8fb3-0aa65eae5b9b",
+  "scryfall_uri": "https://scryfall.com/card/pkhm/153p/tibalts-trickery?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/1/51c2ce43-16ae-49bd-8fb3-0aa65eae5b9b.jpg?1628381713",
+    "normal": "https://cards.scryfall.io/normal/front/5/1/51c2ce43-16ae-49bd-8fb3-0aa65eae5b9b.jpg?1628381713",
+    "large": "https://cards.scryfall.io/large/front/5/1/51c2ce43-16ae-49bd-8fb3-0aa65eae5b9b.jpg?1628381713",
+    "png": "https://cards.scryfall.io/png/front/5/1/51c2ce43-16ae-49bd-8fb3-0aa65eae5b9b.png?1628381713",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/1/51c2ce43-16ae-49bd-8fb3-0aa65eae5b9b.jpg?1628381713",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/1/51c2ce43-16ae-49bd-8fb3-0aa65eae5b9b.jpg?1628381713"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Counter target spell. Choose 1, 2, or 3 at random. Its controller mills that many cards, then exiles cards from the top of their library until they exile a nonland card with a different name than that spell. They may cast that card without paying its mana cost. Then they put the exiled cards on the bottom of their library in a random order.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "banned",
+    "timeless": "restricted",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "banned",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d7b6bf0-0ded-49a0-8c0e-b1ae2bfba77c",
+  "set": "pkhm",
+  "set_name": "Kaldheim Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/4d7b6bf0-0ded-49a0-8c0e-b1ae2bfba77c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apkhm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pkhm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/51c2ce43-16ae-49bd-8fb3-0aa65eae5b9b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6623cb85-fb1e-4561-8b21-0977c25096c2&unique=prints",
+  "collector_number": "153p",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Anna Podedworna",
+  "artist_ids": [
+    "1874cb2c-f690-475f-a217-c14f11166758"
+  ],
+  "illustration_id": "4e127c34-5626-4489-922f-405ec9502498",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "stamped",
+    "promopack"
+  ],
+  "edhrec_rank": 557,
+  "penny_rank": 1565,
+  "prices": {
+    "usd": "8.43",
+    "usd_foil": "9.14",
+    "usd_etched": null,
+    "eur": "8.18",
+    "eur_foil": "7.97",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTibalt%2527s%2BTrickery",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTibalt%2527s%2BTrickery",
+    "edhrec": "https://edhrec.com/route/?cc=Tibalt%27s+Trickery"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F231957%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=536202&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tibalt%27s+Trickery&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

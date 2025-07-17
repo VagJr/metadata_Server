@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "5698176c-571d-4952-85d6-fbd1b15f2aaa",
+  "oracle_id": "9df2e909-ed13-456a-9636-7398732009a9",
+  "multiverse_ids": [],
+  "tcgplayer_id": 237112,
+  "cardmarket_id": 560885,
+  "name": "Professor Onyx",
+  "lang": "en",
+  "released_at": "2021-04-23",
+  "uri": "https://api.scryfall.com/cards/5698176c-571d-4952-85d6-fbd1b15f2aaa",
+  "scryfall_uri": "https://scryfall.com/card/pstx/83s/professor-onyx?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/6/5698176c-571d-4952-85d6-fbd1b15f2aaa.jpg?1628273747",
+    "normal": "https://cards.scryfall.io/normal/front/5/6/5698176c-571d-4952-85d6-fbd1b15f2aaa.jpg?1628273747",
+    "large": "https://cards.scryfall.io/large/front/5/6/5698176c-571d-4952-85d6-fbd1b15f2aaa.jpg?1628273747",
+    "png": "https://cards.scryfall.io/png/front/5/6/5698176c-571d-4952-85d6-fbd1b15f2aaa.png?1628273747",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/6/5698176c-571d-4952-85d6-fbd1b15f2aaa.jpg?1628273747",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/6/5698176c-571d-4952-85d6-fbd1b15f2aaa.jpg?1628273747"
+  },
+  "mana_cost": "{4}{B}{B}",
+  "cmc": 6,
+  "type_line": "Legendary Planeswalker — Liliana",
+  "oracle_text": "Magecraft — Whenever you cast or copy an instant or sorcery spell, each opponent loses 2 life and you gain 2 life.\n+1: You lose 1 life. Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.\n−3: Each opponent sacrifices a creature with the greatest power among creatures that player controls.\n−8: Each opponent may discard a card. If they don't, they lose 3 life. Repeat this process six more times.",
+  "loyalty": "5",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Magecraft"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "bc98232b-a539-4f81-92b5-2efc57d38f53",
+  "set": "pstx",
+  "set_name": "Strixhaven: School of Mages Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/bc98232b-a539-4f81-92b5-2efc57d38f53",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apstx&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pstx?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5698176c-571d-4952-85d6-fbd1b15f2aaa/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9df2e909-ed13-456a-9636-7398732009a9&unique=prints",
+  "collector_number": "83s",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kieran Yanner",
+  "artist_ids": [
+    "aa7e89ed-d294-4633-9057-ce04dacfcfa4"
+  ],
+  "illustration_id": "0220d4a8-ca08-4446-b316-30275bc3f50f",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 2382,
+  "prices": {
+    "usd": null,
+    "usd_foil": "11.56",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "8.09",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DProfessor%2BOnyx",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DProfessor%2BOnyx",
+    "edhrec": "https://edhrec.com/route/?cc=Professor+Onyx"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F237112%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=560885&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Professor+Onyx&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

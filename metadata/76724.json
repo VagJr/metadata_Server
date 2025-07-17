@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "b519e716-063a-4fba-8831-90aa5a5069e8",
+  "oracle_id": "ab26fbe2-e808-48b9-8d0d-3fbb6c3d554f",
+  "multiverse_ids": [],
+  "tcgplayer_id": 221425,
+  "cardmarket_id": 528937,
+  "name": "Narset, Parter of Veils",
+  "printed_name": "覆いを割く者、ナーセット",
+  "lang": "ja",
+  "released_at": "2020-04-01",
+  "uri": "https://api.scryfall.com/cards/b519e716-063a-4fba-8831-90aa5a5069e8",
+  "scryfall_uri": "https://scryfall.com/card/pwcs/2020-1/ja/%E8%A6%86%E3%81%84%E3%82%92%E5%89%B2%E3%81%8F%E8%80%85%E3%80%81%E3%83%8A%E3%83%BC%E3%82%BB%E3%83%83%E3%83%88-(narset-parter-of-veils)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/5/b519e716-063a-4fba-8831-90aa5a5069e8.jpg?1677542180",
+    "normal": "https://cards.scryfall.io/normal/front/b/5/b519e716-063a-4fba-8831-90aa5a5069e8.jpg?1677542180",
+    "large": "https://cards.scryfall.io/large/front/b/5/b519e716-063a-4fba-8831-90aa5a5069e8.jpg?1677542180",
+    "png": "https://cards.scryfall.io/png/front/b/5/b519e716-063a-4fba-8831-90aa5a5069e8.png?1677542180",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/5/b519e716-063a-4fba-8831-90aa5a5069e8.jpg?1677542180",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/5/b519e716-063a-4fba-8831-90aa5a5069e8.jpg?1677542180"
+  },
+  "mana_cost": "{1}{U}{U}",
+  "cmc": 3,
+  "type_line": "Legendary Planeswalker — Narset",
+  "printed_type_line": "伝説のプレインズウォーカー — ナーセット",
+  "oracle_text": "Each opponent can't draw more than one card each turn.\n−2: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+  "printed_text": "各ターン、各対戦相手はそれぞれ、カードを２枚以上引くことができない。\n-2：あなたのライブラリーの一番上からカードを４枚見る。あなたはその中からクリーチャーでも土地でもないカード１枚を公開してあなたの手札に加えてもよい。残りをあなたのライブラリーの一番下に無作為の順番で置く。",
+  "loyalty": "5",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "restricted",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": true,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d08fce7e-36a9-4617-8a14-24eb460bcbaf",
+  "set": "pwcs",
+  "set_name": "Planeswalker Championship Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/d08fce7e-36a9-4617-8a14-24eb460bcbaf",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwcs&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwcs?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b519e716-063a-4fba-8831-90aa5a5069e8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aab26fbe2-e808-48b9-8d0d-3fbb6c3d554f&unique=prints",
+  "collector_number": "2020-1",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Magali Villeneuve",
+  "artist_ids": [
+    "9e6a55ae-be4d-4c23-a2a5-135737ffd879"
+  ],
+  "illustration_id": "3b17dab7-5e16-4e43-8f38-44b175fa5df2",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 662,
+  "prices": {
+    "usd": null,
+    "usd_foil": "11.75",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "6.60",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNarset%252C%2BParter%2Bof%2BVeils",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNarset%252C%2BParter%2Bof%2BVeils",
+    "edhrec": "https://edhrec.com/route/?cc=Narset%2C+Parter+of+Veils"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F221425%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=528937&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Narset%2C+Parter+of+Veils&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

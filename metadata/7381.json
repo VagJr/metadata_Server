@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "10e9cbf2-99ed-4f70-8744-b9a08a5f5f42",
+  "oracle_id": "9965d9c5-2ebf-4a6c-930e-55c5890979be",
+  "multiverse_ids": [
+    567696
+  ],
+  "tcgplayer_id": 273503,
+  "cardmarket_id": 662074,
+  "name": "Thought Vessel",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/10e9cbf2-99ed-4f70-8744-b9a08a5f5f42",
+  "scryfall_uri": "https://scryfall.com/card/clb/879/thought-vessel?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/0/10e9cbf2-99ed-4f70-8744-b9a08a5f5f42.jpg?1674142776",
+    "normal": "https://cards.scryfall.io/normal/front/1/0/10e9cbf2-99ed-4f70-8744-b9a08a5f5f42.jpg?1674142776",
+    "large": "https://cards.scryfall.io/large/front/1/0/10e9cbf2-99ed-4f70-8744-b9a08a5f5f42.jpg?1674142776",
+    "png": "https://cards.scryfall.io/png/front/1/0/10e9cbf2-99ed-4f70-8744-b9a08a5f5f42.png?1674142776",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/0/10e9cbf2-99ed-4f70-8744-b9a08a5f5f42.jpg?1674142776",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/0/10e9cbf2-99ed-4f70-8744-b9a08a5f5f42.jpg?1674142776"
+  },
+  "mana_cost": "{2}",
+  "cmc": 2,
+  "type_line": "Artifact",
+  "oracle_text": "You have no maximum hand size.\n{T}: Add {C}.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set": "clb",
+  "set_name": "Commander Legends: Battle for Baldur's Gate",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/clb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/10e9cbf2-99ed-4f70-8744-b9a08a5f5f42/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9965d9c5-2ebf-4a6c-930e-55c5890979be&unique=prints",
+  "collector_number": "879",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Infinite possibilities contained in a finite space.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "rk post",
+  "artist_ids": [
+    "81ae0f3f-1d88-4125-9aeb-b15b4c734c82"
+  ],
+  "illustration_id": "b0034ffb-2e2d-40e5-8165-0c8069bc8732",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 22,
+  "penny_rank": 707,
+  "prices": {
+    "usd": "1.58",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "1.62",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=567696&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThought%2BVessel",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThought%2BVessel",
+    "edhrec": "https://edhrec.com/route/?cc=Thought+Vessel"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F273503%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=662074&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Thought+Vessel&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "84bcfb09-ca60-405b-9603-eb3e4b2a8bd0",
+  "oracle_id": "69e5df2f-be1f-4608-a90f-3e2f51e2fea4",
+  "multiverse_ids": [
+    479500
+  ],
+  "tcgplayer_id": 209394,
+  "cardmarket_id": 440268,
+  "name": "Thassa, God of the Sea",
+  "lang": "en",
+  "released_at": "2020-02-14",
+  "uri": "https://api.scryfall.com/cards/84bcfb09-ca60-405b-9603-eb3e4b2a8bd0",
+  "scryfall_uri": "https://scryfall.com/card/sld/71/thassa-god-of-the-sea?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/4/84bcfb09-ca60-405b-9603-eb3e4b2a8bd0.jpg?1682713570",
+    "normal": "https://cards.scryfall.io/normal/front/8/4/84bcfb09-ca60-405b-9603-eb3e4b2a8bd0.jpg?1682713570",
+    "large": "https://cards.scryfall.io/large/front/8/4/84bcfb09-ca60-405b-9603-eb3e4b2a8bd0.jpg?1682713570",
+    "png": "https://cards.scryfall.io/png/front/8/4/84bcfb09-ca60-405b-9603-eb3e4b2a8bd0.png?1682713570",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/4/84bcfb09-ca60-405b-9603-eb3e4b2a8bd0.jpg?1682713570",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/4/84bcfb09-ca60-405b-9603-eb3e4b2a8bd0.jpg?1682713570"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Legendary Enchantment Creature — God",
+  "oracle_text": "Indestructible\nAs long as your devotion to blue is less than five, Thassa isn't a creature. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)\nAt the beginning of your upkeep, scry 1.\n{1}{U}: Target creature you control can't be blocked this turn.",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Indestructible",
+    "Scry"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/84bcfb09-ca60-405b-9603-eb3e4b2a8bd0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A69e5df2f-be1f-4608-a90f-3e2f51e2fea4&unique=prints",
+  "collector_number": "71",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason A. Engle",
+  "artist_ids": [
+    "02e2b5de-4341-464c-8fdb-a1adbf873bc0"
+  ],
+  "illustration_id": "430a9811-cc07-4fed-a312-8ea3dfb4b1d1",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "enchantment",
+    "legendary",
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1863,
+  "penny_rank": 4541,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/news/announcing-secret-lair-drop-series-theros-stargazing-2020-02-14",
+    "previewed_at": "2020-02-14"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "16.54",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "17.34",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479500&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThassa%252C%2BGod%2Bof%2Bthe%2BSea",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThassa%252C%2BGod%2Bof%2Bthe%2BSea",
+    "edhrec": "https://edhrec.com/route/?cc=Thassa%2C+God+of+the+Sea"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F209394%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=440268&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Thassa%2C+God+of+the+Sea&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

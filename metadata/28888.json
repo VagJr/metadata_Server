@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "44494eff-8f41-4c80-8042-169a50c47f27",
+  "oracle_id": "107becb1-f8a3-4777-b39f-a0456c2d580e",
+  "multiverse_ids": [],
+  "tcgplayer_id": 237178,
+  "cardmarket_id": 560915,
+  "name": "Lorehold Command",
+  "lang": "en",
+  "released_at": "2021-04-23",
+  "uri": "https://api.scryfall.com/cards/44494eff-8f41-4c80-8042-169a50c47f27",
+  "scryfall_uri": "https://scryfall.com/card/pstx/199s/lorehold-command?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/4/44494eff-8f41-4c80-8042-169a50c47f27.jpg?1628271510",
+    "normal": "https://cards.scryfall.io/normal/front/4/4/44494eff-8f41-4c80-8042-169a50c47f27.jpg?1628271510",
+    "large": "https://cards.scryfall.io/large/front/4/4/44494eff-8f41-4c80-8042-169a50c47f27.jpg?1628271510",
+    "png": "https://cards.scryfall.io/png/front/4/4/44494eff-8f41-4c80-8042-169a50c47f27.png?1628271510",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/4/44494eff-8f41-4c80-8042-169a50c47f27.jpg?1628271510",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/4/44494eff-8f41-4c80-8042-169a50c47f27.jpg?1628271510"
+  },
+  "mana_cost": "{3}{R}{W}",
+  "cmc": 5,
+  "type_line": "Instant",
+  "oracle_text": "Choose two —\n• Create a 3/2 red and white Spirit creature token.\n• Creatures you control get +1/+0 and gain indestructible and haste until end of turn.\n• Lorehold Command deals 3 damage to any target. Target player gains 3 life.\n• Sacrifice a permanent, then draw two cards.",
+  "colors": [
+    "R",
+    "W"
+  ],
+  "color_identity": [
+    "R",
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "44494eff-8f41-4c80-8042-169a50c47f27",
+      "component": "combo_piece",
+      "name": "Lorehold Command",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/44494eff-8f41-4c80-8042-169a50c47f27"
+    },
+    {
+      "object": "related_card",
+      "id": "f98c0167-7434-4607-87c4-315fa8b6972e",
+      "component": "token",
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/f98c0167-7434-4607-87c4-315fa8b6972e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "bc98232b-a539-4f81-92b5-2efc57d38f53",
+  "set": "pstx",
+  "set_name": "Strixhaven: School of Mages Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/bc98232b-a539-4f81-92b5-2efc57d38f53",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apstx&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pstx?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/44494eff-8f41-4c80-8042-169a50c47f27/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A107becb1-f8a3-4777-b39f-a0456c2d580e&unique=prints",
+  "collector_number": "199s",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "lorehold",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason Rainville",
+  "artist_ids": [
+    "6ed7e669-579b-443d-b223-e5cbcb2a7483"
+  ],
+  "illustration_id": "4009fad3-a87d-4bc5-818a-de00b7c44f5c",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 8968,
+  "penny_rank": 6024,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.89",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.34",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLorehold%2BCommand",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLorehold%2BCommand",
+    "edhrec": "https://edhrec.com/route/?cc=Lorehold+Command"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F237178%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=560915&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lorehold+Command&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

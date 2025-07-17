@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "634950f2-3149-41b5-a93d-81f9f1957801",
+  "oracle_id": "48d14b5c-711a-4f8a-9de5-55415cb7a79a",
+  "multiverse_ids": [],
+  "tcgplayer_id": 512062,
+  "name": "Angel of Finality",
+  "lang": "en",
+  "released_at": "2023-08-10",
+  "uri": "https://api.scryfall.com/cards/634950f2-3149-41b5-a93d-81f9f1957801",
+  "scryfall_uri": "https://scryfall.com/card/sld/1342/angel-of-finality?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/3/634950f2-3149-41b5-a93d-81f9f1957801.jpg?1733247025",
+    "normal": "https://cards.scryfall.io/normal/front/6/3/634950f2-3149-41b5-a93d-81f9f1957801.jpg?1733247025",
+    "large": "https://cards.scryfall.io/large/front/6/3/634950f2-3149-41b5-a93d-81f9f1957801.jpg?1733247025",
+    "png": "https://cards.scryfall.io/png/front/6/3/634950f2-3149-41b5-a93d-81f9f1957801.png?1733247025",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/3/634950f2-3149-41b5-a93d-81f9f1957801.jpg?1733247025",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/3/634950f2-3149-41b5-a93d-81f9f1957801.jpg?1733247025"
+  },
+  "mana_cost": "{3}{W}",
+  "cmc": 4,
+  "type_line": "Creature — Angel",
+  "oracle_text": "Flying\nWhen this creature enters, exile target player's graveyard.",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/634950f2-3149-41b5-a93d-81f9f1957801/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A48d14b5c-711a-4f8a-9de5-55415cb7a79a&unique=prints",
+  "collector_number": "1342",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Better the dead depart utterly than be enslaved.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Howard Lyon",
+  "artist_ids": [
+    "6dd06426-59fe-4b9c-aad5-6da8446a5c3d"
+  ],
+  "illustration_id": "90067653-8227-4384-b9b1-97a14a6d1eaa",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3877,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.95",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAngel%2Bof%2BFinality",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAngel%2Bof%2BFinality",
+    "edhrec": "https://edhrec.com/route/?cc=Angel+of+Finality"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F512062%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Angel+of+Finality&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Angel+of+Finality&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

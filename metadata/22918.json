@@ -1,0 +1,153 @@
+{
+  "object": "card",
+  "id": "35dd4d3f-ac03-4bf0-bae2-ad44f61578a8",
+  "oracle_id": "180881c9-5ae7-4810-a17a-06b5994a48a1",
+  "multiverse_ids": [],
+  "name": "Construct",
+  "lang": "en",
+  "released_at": "2022-11-18",
+  "uri": "https://api.scryfall.com/cards/35dd4d3f-ac03-4bf0-bae2-ad44f61578a8",
+  "scryfall_uri": "https://scryfall.com/card/tbrc/8/construct?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/5/35dd4d3f-ac03-4bf0-bae2-ad44f61578a8.jpg?1675456410",
+    "normal": "https://cards.scryfall.io/normal/front/3/5/35dd4d3f-ac03-4bf0-bae2-ad44f61578a8.jpg?1675456410",
+    "large": "https://cards.scryfall.io/large/front/3/5/35dd4d3f-ac03-4bf0-bae2-ad44f61578a8.jpg?1675456410",
+    "png": "https://cards.scryfall.io/png/front/3/5/35dd4d3f-ac03-4bf0-bae2-ad44f61578a8.png?1675456410",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/5/35dd4d3f-ac03-4bf0-bae2-ad44f61578a8.jpg?1675456410",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/5/35dd4d3f-ac03-4bf0-bae2-ad44f61578a8.jpg?1675456410"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Artifact Creature — Construct",
+  "oracle_text": "",
+  "power": "1",
+  "toughness": "1",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "35dd4d3f-ac03-4bf0-bae2-ad44f61578a8",
+      "component": "token",
+      "name": "Construct",
+      "type_line": "Token Artifact Creature — Construct",
+      "uri": "https://api.scryfall.com/cards/35dd4d3f-ac03-4bf0-bae2-ad44f61578a8"
+    },
+    {
+      "object": "related_card",
+      "id": "34282856-c0f1-4845-bfc8-537466c6a5bb",
+      "component": "combo_piece",
+      "name": "Nimblewright Schematic",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/34282856-c0f1-4845-bfc8-537466c6a5bb"
+    },
+    {
+      "object": "related_card",
+      "id": "c275470f-83d2-4341-9757-a570ec19a181",
+      "component": "combo_piece",
+      "name": "Oni-Cult Anvil",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/c275470f-83d2-4341-9757-a570ec19a181"
+    },
+    {
+      "object": "related_card",
+      "id": "4ba9aeb8-2a2c-4057-9648-277dce7032ed",
+      "component": "combo_piece",
+      "name": "Jan Jansen, Chaos Crafter",
+      "type_line": "Legendary Creature — Gnome Artificer",
+      "uri": "https://api.scryfall.com/cards/4ba9aeb8-2a2c-4057-9648-277dce7032ed"
+    },
+    {
+      "object": "related_card",
+      "id": "fe102126-9aee-4b50-8bc6-1e979132eb3e",
+      "component": "combo_piece",
+      "name": "Myriad Construct",
+      "type_line": "Artifact Creature — Construct",
+      "uri": "https://api.scryfall.com/cards/fe102126-9aee-4b50-8bc6-1e979132eb3e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "32685506-c036-4773-9ccd-2ef50f28b2a1",
+  "set": "tbrc",
+  "set_name": "The Brothers' War Commander Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/32685506-c036-4773-9ccd-2ef50f28b2a1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atbrc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tbrc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/35dd4d3f-ac03-4bf0-bae2-ad44f61578a8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A180881c9-5ae7-4810-a17a-06b5994a48a1&unique=prints",
+  "collector_number": "8",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jakub Kasper",
+  "artist_ids": [
+    "36901417-ce61-4636-8b77-6db14a9cb68a"
+  ],
+  "illustration_id": "dc8ed3c9-3628-47f1-ba07-3f4be9f43c8d",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DConstruct",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DConstruct",
+    "edhrec": "https://edhrec.com/route/?cc=Construct"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DConstruct%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Construct&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Construct&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

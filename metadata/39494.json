@@ -1,0 +1,112 @@
+{
+  "object": "card",
+  "id": "5d2e010f-a29f-4b57-9cd3-5224b08f5322",
+  "oracle_id": "13d600e6-86b4-4813-8f34-75f23717f433",
+  "multiverse_ids": [],
+  "arena_id": 94300,
+  "name": "Scatter to the Winds",
+  "lang": "en",
+  "released_at": "2024-12-10",
+  "uri": "https://api.scryfall.com/cards/5d2e010f-a29f-4b57-9cd3-5224b08f5322",
+  "scryfall_uri": "https://scryfall.com/card/pio/71/scatter-to-the-winds?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/d/5d2e010f-a29f-4b57-9cd3-5224b08f5322.jpg?1733179317",
+    "normal": "https://cards.scryfall.io/normal/front/5/d/5d2e010f-a29f-4b57-9cd3-5224b08f5322.jpg?1733179317",
+    "large": "https://cards.scryfall.io/large/front/5/d/5d2e010f-a29f-4b57-9cd3-5224b08f5322.jpg?1733179317",
+    "png": "https://cards.scryfall.io/png/front/5/d/5d2e010f-a29f-4b57-9cd3-5224b08f5322.png?1733179317",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/d/5d2e010f-a29f-4b57-9cd3-5224b08f5322.jpg?1733179317",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/d/5d2e010f-a29f-4b57-9cd3-5224b08f5322.jpg?1733179317"
+  },
+  "mana_cost": "{1}{U}{U}",
+  "cmc": 3,
+  "type_line": "Instant",
+  "oracle_text": "Counter target spell.\nAwaken 3—{4}{U}{U} (If you cast this spell for {4}{U}{U}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Awaken"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "713c226b-d4d9-46e1-b9c9-a04689d90ff6",
+  "set": "pio",
+  "set_name": "Pioneer Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/713c226b-d4d9-46e1-b9c9-a04689d90ff6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apio&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pio?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5d2e010f-a29f-4b57-9cd3-5224b08f5322/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A13d600e6-86b4-4813-8f34-75f23717f433&unique=prints",
+  "collector_number": "71",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Raymond Swanland",
+  "artist_ids": [
+    "e956bacc-077d-4c12-b6bc-ba798b718af9"
+  ],
+  "illustration_id": "bcc4a438-cb8c-4c2c-b9a5-a3e029dad504",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 14386,
+  "penny_rank": 3838,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DScatter%2Bto%2Bthe%2BWinds",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DScatter%2Bto%2Bthe%2BWinds",
+    "edhrec": "https://edhrec.com/route/?cc=Scatter+to+the+Winds"
+  }
+}

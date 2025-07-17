@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "858428ee-3a9c-4dfc-84c2-751e59df2ed7",
+  "oracle_id": "bf637a60-738f-4206-82f5-49366d0b6e8e",
+  "multiverse_ids": [],
+  "name": "Nightmare",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/858428ee-3a9c-4dfc-84c2-751e59df2ed7",
+  "scryfall_uri": "https://scryfall.com/card/twoe/6/nightmare?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/5/858428ee-3a9c-4dfc-84c2-751e59df2ed7.jpg?1692880636",
+    "normal": "https://cards.scryfall.io/normal/front/8/5/858428ee-3a9c-4dfc-84c2-751e59df2ed7.jpg?1692880636",
+    "large": "https://cards.scryfall.io/large/front/8/5/858428ee-3a9c-4dfc-84c2-751e59df2ed7.jpg?1692880636",
+    "png": "https://cards.scryfall.io/png/front/8/5/858428ee-3a9c-4dfc-84c2-751e59df2ed7.png?1692880636",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/5/858428ee-3a9c-4dfc-84c2-751e59df2ed7.jpg?1692880636",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/5/858428ee-3a9c-4dfc-84c2-751e59df2ed7.jpg?1692880636"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Nightmare",
+  "oracle_text": "At the beginning of combat on your turn, if a card was put into exile this turn, put a +1/+1 counter on this creature.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a3326744-2a89-4f76-bedb-124f55486ac7",
+      "component": "combo_piece",
+      "name": "Ashiok, Wicked Manipulator",
+      "type_line": "Legendary Planeswalker — Ashiok",
+      "uri": "https://api.scryfall.com/cards/a3326744-2a89-4f76-bedb-124f55486ac7"
+    },
+    {
+      "object": "related_card",
+      "id": "858428ee-3a9c-4dfc-84c2-751e59df2ed7",
+      "component": "token",
+      "name": "Nightmare",
+      "type_line": "Token Creature — Nightmare",
+      "uri": "https://api.scryfall.com/cards/858428ee-3a9c-4dfc-84c2-751e59df2ed7"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "273c0661-0af3-4b64-880f-e287799325e9",
+  "set": "twoe",
+  "set_name": "Wilds of Eldraine Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/273c0661-0af3-4b64-880f-e287799325e9",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atwoe&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/twoe?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/858428ee-3a9c-4dfc-84c2-751e59df2ed7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abf637a60-738f-4206-82f5-49366d0b6e8e&unique=prints",
+  "collector_number": "6",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Raymond Swanland",
+  "artist_ids": [
+    "e956bacc-077d-4c12-b6bc-ba798b718af9"
+  ],
+  "illustration_id": "7fb42799-1d7f-4053-a6f1-6779fd1679c0",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNightmare",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNightmare",
+    "edhrec": "https://edhrec.com/route/?cc=Nightmare"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DNightmare%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nightmare&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nightmare&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

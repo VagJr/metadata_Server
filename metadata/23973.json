@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "386b9f57-b75c-4431-9abe-a5cec2a35340",
+  "oracle_id": "78afa295-c9f4-4a81-9f7b-5746a3cf6b31",
+  "multiverse_ids": [
+    611315
+  ],
+  "mtgo_id": 109242,
+  "arena_id": 85001,
+  "tcgplayer_id": 490417,
+  "name": "Inga Rune-Eyes",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/386b9f57-b75c-4431-9abe-a5cec2a35340",
+  "scryfall_uri": "https://scryfall.com/card/mul/10/inga-rune-eyes?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/8/386b9f57-b75c-4431-9abe-a5cec2a35340.jpg?1682720477",
+    "normal": "https://cards.scryfall.io/normal/front/3/8/386b9f57-b75c-4431-9abe-a5cec2a35340.jpg?1682720477",
+    "large": "https://cards.scryfall.io/large/front/3/8/386b9f57-b75c-4431-9abe-a5cec2a35340.jpg?1682720477",
+    "png": "https://cards.scryfall.io/png/front/3/8/386b9f57-b75c-4431-9abe-a5cec2a35340.png?1682720477",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/8/386b9f57-b75c-4431-9abe-a5cec2a35340.jpg?1682720477",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/8/386b9f57-b75c-4431-9abe-a5cec2a35340.jpg?1682720477"
+  },
+  "mana_cost": "{3}{U}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Human Wizard",
+  "oracle_text": "When Inga Rune-Eyes enters, scry 3.\nWhen Inga Rune-Eyes dies, draw three cards if three or more creatures died this turn.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Scry"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a3f8daea-b24e-4e5c-a4d9-ec8910e9078a",
+  "set": "mul",
+  "set_name": "Multiverse Legends",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/a3f8daea-b24e-4e5c-a4d9-ec8910e9078a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amul&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mul?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/386b9f57-b75c-4431-9abe-a5cec2a35340/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A78afa295-c9f4-4a81-9f7b-5746a3cf6b31&unique=prints",
+  "collector_number": "10",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Her fleet bore countless survivors to safety, slipping swiftly through strange currents no Phyrexian could track.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "rishxxv",
+  "artist_ids": [
+    "4d600f5e-853e-4f54-a943-be1275ae3af5"
+  ],
+  "illustration_id": "b587df7e-babe-47f4-9cd6-abcac6a5d3f7",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "showcase",
+    "inverted"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 15105,
+  "penny_rank": 16116,
+  "prices": {
+    "usd": "0.03",
+    "usd_foil": "0.10",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=611315&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DInga%2BRune-Eyes",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DInga%2BRune-Eyes",
+    "edhrec": "https://edhrec.com/route/?cc=Inga+Rune-Eyes"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F490417%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Inga+Rune-Eyes&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/109242?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

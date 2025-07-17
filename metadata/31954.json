@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "4b844764-89d4-43a2-8041-3a9a8b4f2912",
+  "oracle_id": "ae0701c1-7a99-46fe-bcb1-ea33ad2a0fc9",
+  "multiverse_ids": [
+    391878
+  ],
+  "mtgo_id": 55678,
+  "mtgo_foil_id": 55679,
+  "tcgplayer_id": 95317,
+  "cardmarket_id": 271569,
+  "name": "Mastery of the Unseen",
+  "lang": "en",
+  "released_at": "2015-01-23",
+  "uri": "https://api.scryfall.com/cards/4b844764-89d4-43a2-8041-3a9a8b4f2912",
+  "scryfall_uri": "https://scryfall.com/card/frf/19/mastery-of-the-unseen?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/b/4b844764-89d4-43a2-8041-3a9a8b4f2912.jpg?1562824938",
+    "normal": "https://cards.scryfall.io/normal/front/4/b/4b844764-89d4-43a2-8041-3a9a8b4f2912.jpg?1562824938",
+    "large": "https://cards.scryfall.io/large/front/4/b/4b844764-89d4-43a2-8041-3a9a8b4f2912.jpg?1562824938",
+    "png": "https://cards.scryfall.io/png/front/4/b/4b844764-89d4-43a2-8041-3a9a8b4f2912.png?1562824938",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/b/4b844764-89d4-43a2-8041-3a9a8b4f2912.jpg?1562824938",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/b/4b844764-89d4-43a2-8041-3a9a8b4f2912.jpg?1562824938"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever a permanent you control is turned face up, you gain 1 life for each creature you control.\n{3}{W}: Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Manifest"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "4b844764-89d4-43a2-8041-3a9a8b4f2912",
+      "component": "combo_piece",
+      "name": "Mastery of the Unseen",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/4b844764-89d4-43a2-8041-3a9a8b4f2912"
+    },
+    {
+      "object": "related_card",
+      "id": "e9f896d4-34b4-407d-be7e-bf7a69aaf811",
+      "component": "combo_piece",
+      "name": "Manifest",
+      "type_line": "Creature",
+      "uri": "https://api.scryfall.com/cards/e9f896d4-34b4-407d-be7e-bf7a69aaf811"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "7bb5cb2b-081a-4c8c-b7e1-494046e6baa1",
+  "set": "frf",
+  "set_name": "Fate Reforged",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/7bb5cb2b-081a-4c8c-b7e1-494046e6baa1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afrf&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/frf?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4b844764-89d4-43a2-8041-3a9a8b4f2912/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aae0701c1-7a99-46fe-bcb1-ea33ad2a0fc9&unique=prints",
+  "collector_number": "19",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daniel Ljunggren",
+  "artist_ids": [
+    "0fbd4798-76eb-46d5-a5d4-1e3a25870e34"
+  ],
+  "illustration_id": "828fcd3a-a255-4787-8dd6-fb197bcb062f",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 13845,
+  "penny_rank": 3937,
+  "prices": {
+    "usd": "0.13",
+    "usd_foil": "0.52",
+    "usd_etched": null,
+    "eur": "0.13",
+    "eur_foil": "0.46",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391878&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMastery%2Bof%2Bthe%2BUnseen",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMastery%2Bof%2Bthe%2BUnseen",
+    "edhrec": "https://edhrec.com/route/?cc=Mastery+of+the+Unseen"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F95317%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=271569&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/55678?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "e0cb62f0-624a-4b7c-b237-1d3a8ac23eaa",
+  "oracle_id": "9c77eb0a-543a-41db-ba1f-aa0163837ae0",
+  "multiverse_ids": [
+    633285
+  ],
+  "mtgo_id": 117030,
+  "tcgplayer_id": 513651,
+  "cardmarket_id": 730204,
+  "name": "Ajani's Chosen",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/e0cb62f0-624a-4b7c-b237-1d3a8ac23eaa",
+  "scryfall_uri": "https://scryfall.com/card/woc/59/ajanis-chosen?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/0/e0cb62f0-624a-4b7c-b237-1d3a8ac23eaa.jpg?1692934498",
+    "normal": "https://cards.scryfall.io/normal/front/e/0/e0cb62f0-624a-4b7c-b237-1d3a8ac23eaa.jpg?1692934498",
+    "large": "https://cards.scryfall.io/large/front/e/0/e0cb62f0-624a-4b7c-b237-1d3a8ac23eaa.jpg?1692934498",
+    "png": "https://cards.scryfall.io/png/front/e/0/e0cb62f0-624a-4b7c-b237-1d3a8ac23eaa.png?1692934498",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/0/e0cb62f0-624a-4b7c-b237-1d3a8ac23eaa.jpg?1692934498",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/0/e0cb62f0-624a-4b7c-b237-1d3a8ac23eaa.jpg?1692934498"
+  },
+  "mana_cost": "{2}{W}{W}",
+  "cmc": 4,
+  "type_line": "Creature — Cat Soldier",
+  "oracle_text": "Whenever an enchantment you control enters, create a 2/2 white Cat creature token. If that enchantment is an Aura, you may attach it to the token.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "58a18a05-4fa1-467e-9310-e5c6dc797fcf",
+      "component": "token",
+      "name": "Cat",
+      "type_line": "Token Creature — Cat",
+      "uri": "https://api.scryfall.com/cards/58a18a05-4fa1-467e-9310-e5c6dc797fcf"
+    },
+    {
+      "object": "related_card",
+      "id": "e0cb62f0-624a-4b7c-b237-1d3a8ac23eaa",
+      "component": "combo_piece",
+      "name": "Ajani's Chosen",
+      "type_line": "Creature — Cat Soldier",
+      "uri": "https://api.scryfall.com/cards/e0cb62f0-624a-4b7c-b237-1d3a8ac23eaa"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "51c0814a-2db2-4182-9aac-77340e9a540d",
+  "set": "woc",
+  "set_name": "Wilds of Eldraine Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/51c0814a-2db2-4182-9aac-77340e9a540d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awoc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/woc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e0cb62f0-624a-4b7c-b237-1d3a8ac23eaa/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9c77eb0a-543a-41db-ba1f-aa0163837ae0&unique=prints",
+  "collector_number": "59",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"United, our roar will level mountains.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wayne Reynolds",
+  "artist_ids": [
+    "afc47cec-3ccc-404e-a8c6-4d83dd504271"
+  ],
+  "illustration_id": "22b7f526-97d3-4481-bb91-b01ad8fcadbb",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3021,
+  "penny_rank": 9807,
+  "prices": {
+    "usd": "0.72",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.44",
+    "eur_foil": null,
+    "tix": "0.33"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=633285&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAjani%2527s%2BChosen",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAjani%2527s%2BChosen",
+    "edhrec": "https://edhrec.com/route/?cc=Ajani%27s+Chosen"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F513651%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=730204&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/117030?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

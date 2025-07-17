@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "2d0f36c8-8d91-4246-9cb4-c623f6124493",
+  "oracle_id": "2b8afa9f-4236-4c02-a8d5-3c145caecfd6",
+  "multiverse_ids": [],
+  "tcgplayer_id": 629979,
+  "cardmarket_id": 823275,
+  "name": "Rift Bolt",
+  "lang": "en",
+  "released_at": "2025-04-28",
+  "uri": "https://api.scryfall.com/cards/2d0f36c8-8d91-4246-9cb4-c623f6124493",
+  "scryfall_uri": "https://scryfall.com/card/sld/2055/rift-bolt?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/d/2d0f36c8-8d91-4246-9cb4-c623f6124493.jpg?1745849522",
+    "normal": "https://cards.scryfall.io/normal/front/2/d/2d0f36c8-8d91-4246-9cb4-c623f6124493.jpg?1745849522",
+    "large": "https://cards.scryfall.io/large/front/2/d/2d0f36c8-8d91-4246-9cb4-c623f6124493.jpg?1745849522",
+    "png": "https://cards.scryfall.io/png/front/2/d/2d0f36c8-8d91-4246-9cb4-c623f6124493.png?1745849522",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/d/2d0f36c8-8d91-4246-9cb4-c623f6124493.jpg?1745849522",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/d/2d0f36c8-8d91-4246-9cb4-c623f6124493.jpg?1745849522"
+  },
+  "mana_cost": "{2}{R}",
+  "cmc": 3,
+  "type_line": "Sorcery",
+  "oracle_text": "Rift Bolt deals 3 damage to any target.\nSuspend 1—{R} (Rather than cast this card from your hand, you may pay {R} and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Suspend"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2d0f36c8-8d91-4246-9cb4-c623f6124493/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2b8afa9f-4236-4c02-a8d5-3c145caecfd6&unique=prints",
+  "collector_number": "2055",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Be careful when opening any door labeled \"Lightning World.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Deb JJ Lee",
+  "artist_ids": [
+    "c26eee2b-b28a-4983-a7d2-18dc717ecfc1"
+  ],
+  "illustration_id": "15e33226-0ca1-46c6-8793-566dc98843ee",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "raisedfoil"
+  ],
+  "edhrec_rank": 12435,
+  "penny_rank": 373,
+  "prices": {
+    "usd": null,
+    "usd_foil": "7.76",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "8.73",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRift%2BBolt",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRift%2BBolt",
+    "edhrec": "https://edhrec.com/route/?cc=Rift+Bolt"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F629979%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=823275&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rift+Bolt&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

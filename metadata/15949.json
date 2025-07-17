@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "257144fc-a052-42c2-9709-3a17994b498f",
+  "oracle_id": "90edaf33-d0ab-47e0-8f6a-6fba38286e6e",
+  "multiverse_ids": [],
+  "tcgplayer_id": 254690,
+  "name": "Saw It Coming",
+  "printed_name": "襲来の予測",
+  "lang": "ja",
+  "released_at": "2021-10-01",
+  "uri": "https://api.scryfall.com/cards/257144fc-a052-42c2-9709-3a17994b498f",
+  "scryfall_uri": "https://scryfall.com/card/pwcs/2021-4/ja/%E8%A5%B2%E6%9D%A5%E3%81%AE%E4%BA%88%E6%B8%AC-(saw-it-coming)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/5/257144fc-a052-42c2-9709-3a17994b498f.jpg?1677542215",
+    "normal": "https://cards.scryfall.io/normal/front/2/5/257144fc-a052-42c2-9709-3a17994b498f.jpg?1677542215",
+    "large": "https://cards.scryfall.io/large/front/2/5/257144fc-a052-42c2-9709-3a17994b498f.jpg?1677542215",
+    "png": "https://cards.scryfall.io/png/front/2/5/257144fc-a052-42c2-9709-3a17994b498f.png?1677542215",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/5/257144fc-a052-42c2-9709-3a17994b498f.jpg?1677542215",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/5/257144fc-a052-42c2-9709-3a17994b498f.jpg?1677542215"
+  },
+  "mana_cost": "{1}{U}{U}",
+  "cmc": 3,
+  "type_line": "Instant",
+  "printed_type_line": "インスタント",
+  "oracle_text": "Counter target spell.\nForetell {1}{U} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
+  "printed_text": "呪文１つを対象とする。それを打ち消す。\n予顕{1}{U}（あなたのターンの間、あなたは{2}を支払って、あなたの手札からこのカードを裏向きに追放してもよい。後のターンに、これの予顕コストでこれを唱えてもよい。）",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Foretell"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d08fce7e-36a9-4617-8a14-24eb460bcbaf",
+  "set": "pwcs",
+  "set_name": "Planeswalker Championship Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/d08fce7e-36a9-4617-8a14-24eb460bcbaf",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwcs&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwcs?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/257144fc-a052-42c2-9709-3a17994b498f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A90edaf33-d0ab-47e0-8f6a-6fba38286e6e&unique=prints",
+  "collector_number": "2021-4",
+  "digital": false,
+  "rarity": "uncommon",
+  "watermark": "foretell",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Anato Finnstark",
+  "artist_ids": [
+    "05d233e7-4958-4f79-83e6-f9bf8b6ff78e"
+  ],
+  "illustration_id": "1ccf3428-29d9-483d-8680-f997c1d569fd",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2383,
+  "penny_rank": 1747,
+  "prices": {
+    "usd": null,
+    "usd_foil": "8.80",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSaw%2BIt%2BComing",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSaw%2BIt%2BComing",
+    "edhrec": "https://edhrec.com/route/?cc=Saw+It+Coming"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F254690%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Saw+It+Coming&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Saw+It+Coming&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

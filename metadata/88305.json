@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "d0699cbc-b499-44a6-82e1-631491aaaec6",
+  "oracle_id": "6467cbb7-1e4e-482d-a20f-6cb9fc0f1ad1",
+  "multiverse_ids": [
+    479735
+  ],
+  "mtgo_id": 80439,
+  "arena_id": 71282,
+  "tcgplayer_id": 212711,
+  "cardmarket_id": 455388,
+  "name": "Whirlwind of Thought",
+  "lang": "en",
+  "released_at": "2020-04-24",
+  "uri": "https://api.scryfall.com/cards/d0699cbc-b499-44a6-82e1-631491aaaec6",
+  "scryfall_uri": "https://scryfall.com/card/iko/215/whirlwind-of-thought?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/0/d0699cbc-b499-44a6-82e1-631491aaaec6.jpg?1591228308",
+    "normal": "https://cards.scryfall.io/normal/front/d/0/d0699cbc-b499-44a6-82e1-631491aaaec6.jpg?1591228308",
+    "large": "https://cards.scryfall.io/large/front/d/0/d0699cbc-b499-44a6-82e1-631491aaaec6.jpg?1591228308",
+    "png": "https://cards.scryfall.io/png/front/d/0/d0699cbc-b499-44a6-82e1-631491aaaec6.png?1591228308",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/0/d0699cbc-b499-44a6-82e1-631491aaaec6.jpg?1591228308",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/0/d0699cbc-b499-44a6-82e1-631491aaaec6.jpg?1591228308"
+  },
+  "mana_cost": "{1}{U}{R}{W}",
+  "cmc": 4,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever you cast a noncreature spell, draw a card.",
+  "colors": [
+    "R",
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "R",
+    "U",
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "19feda43-15ab-427e-a0e4-148a4bf2b03a",
+  "set": "iko",
+  "set_name": "Ikoria: Lair of Behemoths",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/19feda43-15ab-427e-a0e4-148a4bf2b03a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aiko&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/iko?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d0699cbc-b499-44a6-82e1-631491aaaec6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6467cbb7-1e4e-482d-a20f-6cb9fc0f1ad1&unique=prints",
+  "collector_number": "215",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "As Narset struggled to meditate, tiny dragonlings spiraled around her, conjuring thoughts of ancient clans.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Bram Sels",
+  "artist_ids": [
+    "2e90d3c1-e8ac-45c7-9d5a-63385c1a384d"
+  ],
+  "illustration_id": "c3e85067-abc5-4916-8304-dc7044bacb0a",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1480,
+  "penny_rank": 6365,
+  "preview": {
+    "source": "NGA",
+    "source_uri": "https://ngabbs.com/read.php?tid=21200108",
+    "previewed_at": "2020-04-09"
+  },
+  "prices": {
+    "usd": "0.71",
+    "usd_foil": "1.17",
+    "usd_etched": null,
+    "eur": "0.64",
+    "eur_foil": "1.84",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479735&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWhirlwind%2Bof%2BThought",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWhirlwind%2Bof%2BThought",
+    "edhrec": "https://edhrec.com/route/?cc=Whirlwind+of+Thought"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F212711%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=455388&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/80439?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

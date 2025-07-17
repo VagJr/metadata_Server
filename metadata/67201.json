@@ -1,0 +1,191 @@
+{
+  "object": "card",
+  "id": "9ec6cbb4-7182-48fe-87fe-9ce9f3a51032",
+  "oracle_id": "04eeb9ad-5c59-411b-8809-db8349838588",
+  "multiverse_ids": [],
+  "tcgplayer_id": 496142,
+  "name": "Westvale Abbey // Ormendahl, Profane Prince",
+  "lang": "en",
+  "released_at": "2023-05-08",
+  "uri": "https://api.scryfall.com/cards/9ec6cbb4-7182-48fe-87fe-9ce9f3a51032",
+  "scryfall_uri": "https://scryfall.com/card/sld/1212/westvale-abbey-ormendahl-profane-prince?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 0,
+  "type_line": "Land // Legendary Creature — Demon",
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying",
+    "Lifelink",
+    "Indestructible",
+    "Transform",
+    "Haste"
+  ],
+  "produced_mana": [
+    "C"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Westvale Abbey",
+      "mana_cost": "",
+      "type_line": "Land",
+      "oracle_text": "{T}: Add {C}.\n{5}, {T}, Pay 1 life: Create a 1/1 white and black Human Cleric creature token.\n{5}, {T}, Sacrifice five creatures: Transform this land, then untap it.",
+      "colors": [],
+      "artist": "Nana Qi",
+      "artist_id": "0debd35b-0bdc-4cee-8a11-78193a9c73df",
+      "illustration_id": "888f3b4f-fcdd-40fd-aba4-228ac740e212",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/9/e/9ec6cbb4-7182-48fe-87fe-9ce9f3a51032.jpg?1692649433",
+        "normal": "https://cards.scryfall.io/normal/front/9/e/9ec6cbb4-7182-48fe-87fe-9ce9f3a51032.jpg?1692649433",
+        "large": "https://cards.scryfall.io/large/front/9/e/9ec6cbb4-7182-48fe-87fe-9ce9f3a51032.jpg?1692649433",
+        "png": "https://cards.scryfall.io/png/front/9/e/9ec6cbb4-7182-48fe-87fe-9ce9f3a51032.png?1692649433",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/9/e/9ec6cbb4-7182-48fe-87fe-9ce9f3a51032.jpg?1692649433",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/9/e/9ec6cbb4-7182-48fe-87fe-9ce9f3a51032.jpg?1692649433"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Ormendahl, Profane Prince",
+      "mana_cost": "",
+      "type_line": "Legendary Creature — Demon",
+      "oracle_text": "Flying, lifelink, indestructible, haste",
+      "colors": [
+        "B"
+      ],
+      "color_indicator": [
+        "B"
+      ],
+      "power": "9",
+      "toughness": "7",
+      "flavor_text": "\"I love what I've done with the place.\"",
+      "artist": "GodMachine",
+      "artist_id": "5ad61ffb-a337-4140-bdce-b0a251b135ae",
+      "illustration_id": "77d4a843-0b50-4303-8191-3d4d6133883a",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/9/e/9ec6cbb4-7182-48fe-87fe-9ce9f3a51032.jpg?1692649433",
+        "normal": "https://cards.scryfall.io/normal/back/9/e/9ec6cbb4-7182-48fe-87fe-9ce9f3a51032.jpg?1692649433",
+        "large": "https://cards.scryfall.io/large/back/9/e/9ec6cbb4-7182-48fe-87fe-9ce9f3a51032.jpg?1692649433",
+        "png": "https://cards.scryfall.io/png/back/9/e/9ec6cbb4-7182-48fe-87fe-9ce9f3a51032.png?1692649433",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/9/e/9ec6cbb4-7182-48fe-87fe-9ce9f3a51032.jpg?1692649433",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/9/e/9ec6cbb4-7182-48fe-87fe-9ce9f3a51032.jpg?1692649433"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "9ec6cbb4-7182-48fe-87fe-9ce9f3a51032",
+      "component": "combo_piece",
+      "name": "Westvale Abbey // Ormendahl, Profane Prince",
+      "type_line": "Land // Legendary Creature — Demon",
+      "uri": "https://api.scryfall.com/cards/9ec6cbb4-7182-48fe-87fe-9ce9f3a51032"
+    },
+    {
+      "object": "related_card",
+      "id": "4825c59d-9e27-4a12-ba84-642b8540e573",
+      "component": "combo_piece",
+      "name": "Shadows Over Innistrad Checklist 2",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/4825c59d-9e27-4a12-ba84-642b8540e573"
+    },
+    {
+      "object": "related_card",
+      "id": "7081602e-84a3-45b0-87f6-f0f236a5264e",
+      "component": "token",
+      "name": "Human Cleric",
+      "type_line": "Token Creature — Human Cleric",
+      "uri": "https://api.scryfall.com/cards/7081602e-84a3-45b0-87f6-f0f236a5264e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9ec6cbb4-7182-48fe-87fe-9ce9f3a51032/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A04eeb9ad-5c59-411b-8809-db8349838588&unique=prints",
+  "collector_number": "1212",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Nana Qi & GodMachine",
+  "artist_ids": [
+    "0debd35b-0bdc-4cee-8a11-78193a9c73df",
+    "5ad61ffb-a337-4140-bdce-b0a251b135ae"
+  ],
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "thick"
+  ],
+  "edhrec_rank": 1401,
+  "penny_rank": 992,
+  "prices": {
+    "usd": "6.82",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWestvale%2BAbbey%2B%252F%252F%2BOrmendahl%252C%2BProfane%2BPrince",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWestvale%2BAbbey%2B%252F%252F%2BOrmendahl%252C%2BProfane%2BPrince",
+    "edhrec": "https://edhrec.com/route/?cc=Westvale+Abbey"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F496142%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Westvale+Abbey&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Westvale+Abbey&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "25447654-a6e1-4724-bf33-62eacd35e69e",
+  "oracle_id": "ed85fa82-e4fa-434b-92a8-36b6075708d1",
+  "multiverse_ids": [],
+  "tcgplayer_id": 449462,
+  "name": "Mox Ruby",
+  "lang": "en",
+  "released_at": "2022-11-28",
+  "uri": "https://api.scryfall.com/cards/25447654-a6e1-4724-bf33-62eacd35e69e",
+  "scryfall_uri": "https://scryfall.com/card/30a/558/mox-ruby?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/5/25447654-a6e1-4724-bf33-62eacd35e69e.jpg?1664929387",
+    "normal": "https://cards.scryfall.io/normal/front/2/5/25447654-a6e1-4724-bf33-62eacd35e69e.jpg?1664929387",
+    "large": "https://cards.scryfall.io/large/front/2/5/25447654-a6e1-4724-bf33-62eacd35e69e.jpg?1664929387",
+    "png": "https://cards.scryfall.io/png/front/2/5/25447654-a6e1-4724-bf33-62eacd35e69e.png?1664929387",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/5/25447654-a6e1-4724-bf33-62eacd35e69e.jpg?1664929387",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/5/25447654-a6e1-4724-bf33-62eacd35e69e.jpg?1664929387"
+  },
+  "mana_cost": "{0}",
+  "cmc": 0,
+  "type_line": "Artifact",
+  "oracle_text": "{T}: Add {R}.",
+  "colors": [],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "R"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "186ae115-4bf0-4121-afe6-8ba7a38c7466",
+      "component": "combo_piece",
+      "name": "Ruby Collector",
+      "type_line": "Creature — Human Detective",
+      "uri": "https://api.scryfall.com/cards/186ae115-4bf0-4121-afe6-8ba7a38c7466"
+    },
+    {
+      "object": "related_card",
+      "id": "25447654-a6e1-4724-bf33-62eacd35e69e",
+      "component": "combo_piece",
+      "name": "Mox Ruby",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/25447654-a6e1-4724-bf33-62eacd35e69e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "banned",
+    "pauper": "not_legal",
+    "vintage": "restricted",
+    "penny": "not_legal",
+    "commander": "banned",
+    "oathbreaker": "banned",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "banned",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "banned"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": true,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c3cddb17-44d9-4abd-8d19-666f6c5171fe",
+  "set": "30a",
+  "set_name": "30th Anniversary Edition",
+  "set_type": "memorabilia",
+  "set_uri": "https://api.scryfall.com/sets/c3cddb17-44d9-4abd-8d19-666f6c5171fe",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A30a&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/30a?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/25447654-a6e1-4724-bf33-62eacd35e69e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aed85fa82-e4fa-434b-92a8-36b6075708d1&unique=prints",
+  "collector_number": "558",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "049a6229-ace9-4363-816a-60cb8773e95d",
+  "artist": "Dan Frazier",
+  "artist_ids": [
+    "059bba56-5feb-42e4-8c2e-e2f1e6ba11f9"
+  ],
+  "illustration_id": "017cef61-3dca-4d74-a77d-eed6e7ca5168",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMox%2BRuby",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMox%2BRuby",
+    "edhrec": "https://edhrec.com/route/?cc=Mox+Ruby"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F449462%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mox+Ruby&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mox+Ruby&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

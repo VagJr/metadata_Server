@@ -1,0 +1,152 @@
+{
+  "object": "card",
+  "id": "83052fa8-bfb5-4d09-8235-a0e112ff3b4a",
+  "oracle_id": "9d1c3ec1-00a4-4890-93a3-e3cf137ca7e4",
+  "multiverse_ids": [],
+  "mtgo_id": 96454,
+  "tcgplayer_id": 255552,
+  "cardmarket_id": 584909,
+  "name": "Hobbling Zombie",
+  "lang": "en",
+  "released_at": "2022-01-28",
+  "uri": "https://api.scryfall.com/cards/83052fa8-bfb5-4d09-8235-a0e112ff3b4a",
+  "scryfall_uri": "https://scryfall.com/card/dbl/106/hobbling-zombie?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/3/83052fa8-bfb5-4d09-8235-a0e112ff3b4a.jpg?1673159609",
+    "normal": "https://cards.scryfall.io/normal/front/8/3/83052fa8-bfb5-4d09-8235-a0e112ff3b4a.jpg?1673159609",
+    "large": "https://cards.scryfall.io/large/front/8/3/83052fa8-bfb5-4d09-8235-a0e112ff3b4a.jpg?1673159609",
+    "png": "https://cards.scryfall.io/png/front/8/3/83052fa8-bfb5-4d09-8235-a0e112ff3b4a.png?1673159609",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/3/83052fa8-bfb5-4d09-8235-a0e112ff3b4a.jpg?1673159609",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/3/83052fa8-bfb5-4d09-8235-a0e112ff3b4a.jpg?1673159609"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3,
+  "type_line": "Creature — Zombie",
+  "oracle_text": "Deathtouch\nWhen this creature dies, create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.)",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Deathtouch"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "2fae7302-0439-4b96-88c8-4ecfae322e7b",
+      "component": "combo_piece",
+      "name": "A-Hobbling Zombie",
+      "type_line": "Creature — Zombie",
+      "uri": "https://api.scryfall.com/cards/2fae7302-0439-4b96-88c8-4ecfae322e7b"
+    },
+    {
+      "object": "related_card",
+      "id": "64525159-3df4-4a35-a4ee-bd69f62517f2",
+      "component": "token",
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "uri": "https://api.scryfall.com/cards/64525159-3df4-4a35-a4ee-bd69f62517f2"
+    },
+    {
+      "object": "related_card",
+      "id": "83052fa8-bfb5-4d09-8235-a0e112ff3b4a",
+      "component": "combo_piece",
+      "name": "Hobbling Zombie",
+      "type_line": "Creature — Zombie",
+      "uri": "https://api.scryfall.com/cards/83052fa8-bfb5-4d09-8235-a0e112ff3b4a"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set": "dbl",
+  "set_name": "Innistrad: Double Feature",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adbl&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dbl?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/83052fa8-bfb5-4d09-8235-a0e112ff3b4a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9d1c3ec1-00a4-4890-93a3-e3cf137ca7e4&unique=prints",
+  "collector_number": "106",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"I see someone tried to stop you, my pet. How delightful.\"\n—Ghoulcaller Gisa",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Josh Hass",
+  "artist_ids": [
+    "8fa1fdf0-96d6-46f4-a7ff-b1c0257c3735"
+  ],
+  "illustration_id": "c87f5726-b1ad-48ce-8717-225c35086754",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 14592,
+  "prices": {
+    "usd": "0.14",
+    "usd_foil": "0.71",
+    "usd_etched": null,
+    "eur": "0.15",
+    "eur_foil": "0.31",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHobbling%2BZombie",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHobbling%2BZombie",
+    "edhrec": "https://edhrec.com/route/?cc=Hobbling+Zombie"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F255552%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=584909&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/96454?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

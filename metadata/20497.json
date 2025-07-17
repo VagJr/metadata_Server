@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "3054eba1-238f-4328-8e9f-5148b5c37aac",
+  "oracle_id": "c6f76fa7-095e-4bfe-a38c-5c4531880880",
+  "multiverse_ids": [
+    532469
+  ],
+  "tcgplayer_id": 244020,
+  "cardmarket_id": 572255,
+  "name": "Curse of Verbosity",
+  "lang": "en",
+  "released_at": "2021-07-23",
+  "uri": "https://api.scryfall.com/cards/3054eba1-238f-4328-8e9f-5148b5c37aac",
+  "scryfall_uri": "https://scryfall.com/card/afc/82/curse-of-verbosity?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/0/3054eba1-238f-4328-8e9f-5148b5c37aac.jpg?1631586230",
+    "normal": "https://cards.scryfall.io/normal/front/3/0/3054eba1-238f-4328-8e9f-5148b5c37aac.jpg?1631586230",
+    "large": "https://cards.scryfall.io/large/front/3/0/3054eba1-238f-4328-8e9f-5148b5c37aac.jpg?1631586230",
+    "png": "https://cards.scryfall.io/png/front/3/0/3054eba1-238f-4328-8e9f-5148b5c37aac.png?1631586230",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/0/3054eba1-238f-4328-8e9f-5148b5c37aac.jpg?1631586230",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/0/3054eba1-238f-4328-8e9f-5148b5c37aac.jpg?1631586230"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Enchantment — Aura Curse",
+  "oracle_text": "Enchant player\nWhenever enchanted player is attacked, you draw a card. Each opponent attacking that player does the same.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "db1b46f9-893c-4623-9465-985ff6e4472c",
+  "set": "afc",
+  "set_name": "Forgotten Realms Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/db1b46f9-893c-4623-9465-985ff6e4472c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aafc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/afc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3054eba1-238f-4328-8e9f-5148b5c37aac/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac6f76fa7-095e-4bfe-a38c-5c4531880880&unique=prints",
+  "collector_number": "82",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Idle chatter beckons many an attentive ear.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kieran Yanner",
+  "artist_ids": [
+    "aa7e89ed-d294-4633-9057-ce04dacfcfa4"
+  ],
+  "illustration_id": "bc718c33-121e-424b-87cc-8c0b3926745a",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3279,
+  "prices": {
+    "usd": "1.78",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.33",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=532469&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCurse%2Bof%2BVerbosity",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCurse%2Bof%2BVerbosity",
+    "edhrec": "https://edhrec.com/route/?cc=Curse+of+Verbosity"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F244020%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=572255&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Curse+of+Verbosity&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

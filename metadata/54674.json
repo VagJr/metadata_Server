@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "816954f8-1642-40b8-bbc5-26a5b95f4884",
+  "oracle_id": "64a9a6b4-26b5-4d23-be86-85c54e9c4727",
+  "multiverse_ids": [],
+  "tcgplayer_id": 235239,
+  "cardmarket_id": 557922,
+  "name": "Liliana, the Last Hope",
+  "lang": "en",
+  "released_at": "2021-04-24",
+  "uri": "https://api.scryfall.com/cards/816954f8-1642-40b8-bbc5-26a5b95f4884",
+  "scryfall_uri": "https://scryfall.com/card/plst/EMN-93/liliana-the-last-hope?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/1/816954f8-1642-40b8-bbc5-26a5b95f4884.jpg?1619739378",
+    "normal": "https://cards.scryfall.io/normal/front/8/1/816954f8-1642-40b8-bbc5-26a5b95f4884.jpg?1619739378",
+    "large": "https://cards.scryfall.io/large/front/8/1/816954f8-1642-40b8-bbc5-26a5b95f4884.jpg?1619739378",
+    "png": "https://cards.scryfall.io/png/front/8/1/816954f8-1642-40b8-bbc5-26a5b95f4884.png?1619739378",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/1/816954f8-1642-40b8-bbc5-26a5b95f4884.jpg?1619739378",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/1/816954f8-1642-40b8-bbc5-26a5b95f4884.jpg?1619739378"
+  },
+  "mana_cost": "{1}{B}{B}",
+  "cmc": 3,
+  "type_line": "Legendary Planeswalker — Liliana",
+  "oracle_text": "+1: Up to one target creature gets -2/-1 until your next turn.\n−2: Mill two cards, then you may return a creature card from your graveyard to your hand.\n−7: You get an emblem with \"At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control.\"",
+  "loyalty": "3",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "816954f8-1642-40b8-bbc5-26a5b95f4884",
+      "component": "combo_piece",
+      "name": "Liliana, the Last Hope",
+      "type_line": "Legendary Planeswalker — Liliana",
+      "uri": "https://api.scryfall.com/cards/816954f8-1642-40b8-bbc5-26a5b95f4884"
+    },
+    {
+      "object": "related_card",
+      "id": "fb88493c-293b-4b89-8571-712dcf110df5",
+      "component": "combo_piece",
+      "name": "Liliana, the Last Hope Emblem",
+      "type_line": "Emblem — Liliana",
+      "uri": "https://api.scryfall.com/cards/fb88493c-293b-4b89-8571-712dcf110df5"
+    },
+    {
+      "object": "related_card",
+      "id": "d5edee6d-ab70-48e3-9c9f-b671728448d6",
+      "component": "token",
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "uri": "https://api.scryfall.com/cards/d5edee6d-ab70-48e3-9c9f-b671728448d6"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/816954f8-1642-40b8-bbc5-26a5b95f4884/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A64a9a6b4-26b5-4d23-be86-85c54e9c4727&unique=prints",
+  "collector_number": "EMN-93",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Anna Steinbauer",
+  "artist_ids": [
+    "3516496c-c279-4b56-8239-720683d03ae0"
+  ],
+  "illustration_id": "7d2174c3-3631-4de3-9bf9-2932b24d663f",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 6671,
+  "prices": {
+    "usd": "5.96",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "5.02",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLiliana%252C%2Bthe%2BLast%2BHope",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLiliana%252C%2Bthe%2BLast%2BHope",
+    "edhrec": "https://edhrec.com/route/?cc=Liliana%2C+the+Last+Hope"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F235239%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=557922&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Liliana%2C+the+Last+Hope&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

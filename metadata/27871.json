@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "41dd6f74-a3bb-4d12-9dbe-1d0a4dde85cb",
+  "oracle_id": "9bdc1e63-1cf9-4ddb-a7d5-f2a2eb91bdfd",
+  "multiverse_ids": [
+    661486
+  ],
+  "mtgo_id": 125721,
+  "tcgplayer_id": 552372,
+  "cardmarket_id": 771255,
+  "name": "Pearl-Ear, Imperial Advisor",
+  "lang": "en",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/41dd6f74-a3bb-4d12-9dbe-1d0a4dde85cb",
+  "scryfall_uri": "https://scryfall.com/card/mh3/363/pearl-ear-imperial-advisor?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/1/41dd6f74-a3bb-4d12-9dbe-1d0a4dde85cb.jpg?1719466226",
+    "normal": "https://cards.scryfall.io/normal/front/4/1/41dd6f74-a3bb-4d12-9dbe-1d0a4dde85cb.jpg?1719466226",
+    "large": "https://cards.scryfall.io/large/front/4/1/41dd6f74-a3bb-4d12-9dbe-1d0a4dde85cb.jpg?1719466226",
+    "png": "https://cards.scryfall.io/png/front/4/1/41dd6f74-a3bb-4d12-9dbe-1d0a4dde85cb.png?1719466226",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/1/41dd6f74-a3bb-4d12-9dbe-1d0a4dde85cb.jpg?1719466226",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/1/41dd6f74-a3bb-4d12-9dbe-1d0a4dde85cb.jpg?1719466226"
+  },
+  "mana_cost": "{1}{W}{W}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Fox Advisor",
+  "oracle_text": "Lifelink\nEnchantment spells you cast have affinity for Auras. (They cost {1} less to cast for each Aura you control.)\nWhenever you cast an Aura spell that targets a modified permanent you control, draw a card. (Equipment, Auras you control, and counters are modifications.)",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Lifelink"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/41dd6f74-a3bb-4d12-9dbe-1d0a4dde85cb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9bdc1e63-1cf9-4ddb-a7d5-f2a2eb91bdfd&unique=prints",
+  "collector_number": "363",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"For all his crimes, Lord Konda's greatest legacy is his daughter. I will guide her as I can.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Peter Diamond",
+  "artist_ids": [
+    "4479293e-f8a4-41ad-8941-5d6180d9a02b"
+  ],
+  "illustration_id": "1418a8d0-d5f8-4565-8b9b-edcae781de37",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "portrait",
+    "boosterfun"
+  ],
+  "edhrec_rank": 3085,
+  "penny_rank": 8671,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/news/feature/modern-horizons-3-mechanics",
+    "previewed_at": "2024-05-21"
+  },
+  "prices": {
+    "usd": "0.61",
+    "usd_foil": "0.70",
+    "usd_etched": null,
+    "eur": "0.32",
+    "eur_foil": "0.83",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=661486&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPearl-Ear%252C%2BImperial%2BAdvisor",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPearl-Ear%252C%2BImperial%2BAdvisor",
+    "edhrec": "https://edhrec.com/route/?cc=Pearl-Ear%2C+Imperial+Advisor"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F552372%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=771255&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/125721?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

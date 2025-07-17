@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "4c0b7345-7f42-4264-a7cb-733280326aca",
+  "oracle_id": "1fbb2a7c-8093-4729-b8fe-cf032d99470f",
+  "multiverse_ids": [
+    621277
+  ],
+  "mtgo_id": 112688,
+  "tcgplayer_id": 499502,
+  "cardmarket_id": 717420,
+  "name": "Fell the Mighty",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/4c0b7345-7f42-4264-a7cb-733280326aca",
+  "scryfall_uri": "https://scryfall.com/card/ltc/167/fell-the-mighty?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/c/4c0b7345-7f42-4264-a7cb-733280326aca.jpg?1686965306",
+    "normal": "https://cards.scryfall.io/normal/front/4/c/4c0b7345-7f42-4264-a7cb-733280326aca.jpg?1686965306",
+    "large": "https://cards.scryfall.io/large/front/4/c/4c0b7345-7f42-4264-a7cb-733280326aca.jpg?1686965306",
+    "png": "https://cards.scryfall.io/png/front/4/c/4c0b7345-7f42-4264-a7cb-733280326aca.png?1686965306",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/c/4c0b7345-7f42-4264-a7cb-733280326aca.jpg?1686965306",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/c/4c0b7345-7f42-4264-a7cb-733280326aca.jpg?1686965306"
+  },
+  "mana_cost": "{4}{W}",
+  "cmc": 5,
+  "type_line": "Sorcery",
+  "oracle_text": "Destroy all creatures with power greater than target creature's power.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set": "ltc",
+  "set_name": "Tales of Middle-earth Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4c0b7345-7f42-4264-a7cb-733280326aca/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1fbb2a7c-8093-4729-b8fe-cf032d99470f&unique=prints",
+  "collector_number": "167",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"There we sat high up above the floods and watched the drowning of Isengard.\"\n—Pippin",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alexander Gering",
+  "artist_ids": [
+    "c6e77ba4-e891-4688-bca8-41b3f5f89dc6"
+  ],
+  "illustration_id": "5341afc5-0172-482a-afb0-18ea1341a518",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1277,
+  "penny_rank": 12496,
+  "prices": {
+    "usd": "0.23",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.32",
+    "eur_foil": null,
+    "tix": "0.75"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=621277&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFell%2Bthe%2BMighty",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFell%2Bthe%2BMighty",
+    "edhrec": "https://edhrec.com/route/?cc=Fell+the+Mighty"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F499502%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=717420&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/112688?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

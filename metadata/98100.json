@@ -1,0 +1,117 @@
+{
+  "object": "card",
+  "id": "e7c0f071-a76b-4a37-a4b0-a6c699725cc7",
+  "oracle_id": "b23c1f40-291d-43b3-971d-97ded8b367cb",
+  "multiverse_ids": [],
+  "mtgo_id": 82022,
+  "name": "See the Truth",
+  "lang": "en",
+  "released_at": "2020-07-31",
+  "uri": "https://api.scryfall.com/cards/e7c0f071-a76b-4a37-a4b0-a6c699725cc7",
+  "scryfall_uri": "https://scryfall.com/card/prm/82022/see-the-truth?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/7/e7c0f071-a76b-4a37-a4b0-a6c699725cc7.jpg?1630633861",
+    "normal": "https://cards.scryfall.io/normal/front/e/7/e7c0f071-a76b-4a37-a4b0-a6c699725cc7.jpg?1630633861",
+    "large": "https://cards.scryfall.io/large/front/e/7/e7c0f071-a76b-4a37-a4b0-a6c699725cc7.jpg?1630633861",
+    "png": "https://cards.scryfall.io/png/front/e/7/e7c0f071-a76b-4a37-a4b0-a6c699725cc7.png?1630633861",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/7/e7c0f071-a76b-4a37-a4b0-a6c699725cc7.jpg?1630633861",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/7/e7c0f071-a76b-4a37-a4b0-a6c699725cc7.jpg?1630633861"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "oracle_text": "Look at the top three cards of your library. Put one of those cards into your hand and the rest on the bottom of your library in any order. If this spell was cast from anywhere other than your hand, put each of those cards into your hand instead.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e7c0f071-a76b-4a37-a4b0-a6c699725cc7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab23c1f40-291d-43b3-971d-97ded8b367cb&unique=prints",
+  "collector_number": "82022",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ekaterina Burmak",
+  "artist_ids": [
+    "2a9f3780-fcc8-4ec5-b403-ee1d1370d3b4"
+  ],
+  "illustration_id": "f88bd205-6558-48c2-875f-e918af282a20",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5211,
+  "penny_rank": 1269,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.26"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSee%2Bthe%2BTruth",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSee%2Bthe%2BTruth",
+    "edhrec": "https://edhrec.com/route/?cc=See+the+Truth"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSee%2Bthe%2BTruth%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=See+the+Truth&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/82022?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

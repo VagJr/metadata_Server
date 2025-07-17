@@ -1,0 +1,187 @@
+{
+  "object": "card",
+  "id": "964ba7c1-96ba-43e3-b11b-e0c4ec78d61b",
+  "oracle_id": "196f8f13-d4df-4740-8746-8fed3bc71840",
+  "multiverse_ids": [],
+  "tcgplayer_id": 552358,
+  "cardmarket_id": 772599,
+  "name": "Grist, Voracious Larva // Grist, the Plague Swarm",
+  "lang": "en",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/964ba7c1-96ba-43e3-b11b-e0c4ec78d61b",
+  "scryfall_uri": "https://scryfall.com/card/mh3/472/grist-voracious-larva-grist-the-plague-swarm?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 1,
+  "type_line": "Legendary Creature — Insect // Legendary Planeswalker — Grist",
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [
+    "Transform",
+    "Mill",
+    "Deathtouch"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Grist, Voracious Larva",
+      "mana_cost": "{G}",
+      "type_line": "Legendary Creature — Insect",
+      "oracle_text": "Deathtouch\nWhenever Grist or another creature you control enters, if it entered from your graveyard or you cast it from your graveyard, you may pay {G}. If you do, exile Grist, then return it to the battlefield transformed under its owner's control.",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "2",
+      "artist": "Ron Spencer",
+      "artist_id": "dab52c11-0564-4207-a4a1-c1735c946a65",
+      "illustration_id": "1a51910a-7fec-41ba-ba70-9cc9eb101e76",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/9/6/964ba7c1-96ba-43e3-b11b-e0c4ec78d61b.jpg?1748260418",
+        "normal": "https://cards.scryfall.io/normal/front/9/6/964ba7c1-96ba-43e3-b11b-e0c4ec78d61b.jpg?1748260418",
+        "large": "https://cards.scryfall.io/large/front/9/6/964ba7c1-96ba-43e3-b11b-e0c4ec78d61b.jpg?1748260418",
+        "png": "https://cards.scryfall.io/png/front/9/6/964ba7c1-96ba-43e3-b11b-e0c4ec78d61b.png?1748260418",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/9/6/964ba7c1-96ba-43e3-b11b-e0c4ec78d61b.jpg?1748260418",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/9/6/964ba7c1-96ba-43e3-b11b-e0c4ec78d61b.jpg?1748260418"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Grist, the Plague Swarm",
+      "mana_cost": "",
+      "type_line": "Legendary Planeswalker — Grist",
+      "oracle_text": "+1: Create a 1/1 black and green Insect creature token, then mill two cards. Put a deathtouch counter on the token if a black card was milled this way.\n−2: Destroy target artifact or enchantment.\n−6: For each creature card in your graveyard, create a token that's a copy of it, except it's a 1/1 black and green Insect.",
+      "colors": [
+        "B",
+        "G"
+      ],
+      "color_indicator": [
+        "B",
+        "G"
+      ],
+      "loyalty": "3",
+      "artist": "Ron Spencer",
+      "artist_id": "dab52c11-0564-4207-a4a1-c1735c946a65",
+      "illustration_id": "58c8ff84-077b-4125-bfd8-fb313a8d0263",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/9/6/964ba7c1-96ba-43e3-b11b-e0c4ec78d61b.jpg?1748260418",
+        "normal": "https://cards.scryfall.io/normal/back/9/6/964ba7c1-96ba-43e3-b11b-e0c4ec78d61b.jpg?1748260418",
+        "large": "https://cards.scryfall.io/large/back/9/6/964ba7c1-96ba-43e3-b11b-e0c4ec78d61b.jpg?1748260418",
+        "png": "https://cards.scryfall.io/png/back/9/6/964ba7c1-96ba-43e3-b11b-e0c4ec78d61b.png?1748260418",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/9/6/964ba7c1-96ba-43e3-b11b-e0c4ec78d61b.jpg?1748260418",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/9/6/964ba7c1-96ba-43e3-b11b-e0c4ec78d61b.jpg?1748260418"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "964ba7c1-96ba-43e3-b11b-e0c4ec78d61b",
+      "component": "combo_piece",
+      "name": "Grist, Voracious Larva // Grist, the Plague Swarm",
+      "type_line": "Legendary Creature — Insect // Legendary Planeswalker — Grist",
+      "uri": "https://api.scryfall.com/cards/964ba7c1-96ba-43e3-b11b-e0c4ec78d61b"
+    },
+    {
+      "object": "related_card",
+      "id": "8e85e215-29d0-4ff6-9e42-9ce84b5280cf",
+      "component": "token",
+      "name": "Insect",
+      "type_line": "Token Creature — Insect",
+      "uri": "https://api.scryfall.com/cards/8e85e215-29d0-4ff6-9e42-9ce84b5280cf"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/964ba7c1-96ba-43e3-b11b-e0c4ec78d61b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A196f8f13-d4df-4740-8746-8fed3bc71840&unique=prints",
+  "collector_number": "472",
+  "digital": false,
+  "rarity": "mythic",
+  "artist": "Ron Spencer",
+  "artist_ids": [
+    "dab52c11-0564-4207-a4a1-c1735c946a65"
+  ],
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "textured",
+    "boosterfun"
+  ],
+  "edhrec_rank": 5073,
+  "penny_rank": 303,
+  "prices": {
+    "usd": null,
+    "usd_foil": "11.64",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "9.59",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGrist%252C%2BVoracious%2BLarva%2B%252F%252F%2BGrist%252C%2Bthe%2BPlague%2BSwarm",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGrist%252C%2BVoracious%2BLarva%2B%252F%252F%2BGrist%252C%2Bthe%2BPlague%2BSwarm",
+    "edhrec": "https://edhrec.com/route/?cc=Grist%2C+Voracious+Larva"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F552358%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=772599&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Grist%2C+Voracious+Larva&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

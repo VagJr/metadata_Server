@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "68ac12f5-5198-447e-ac67-fdc4e876571d",
+  "oracle_id": "85b8902f-2515-4ded-b28a-a83334f089f1",
+  "multiverse_ids": [
+    626455
+  ],
+  "mtgo_id": 113545,
+  "tcgplayer_etched_id": 503572,
+  "cardmarket_id": 721997,
+  "name": "Boompile",
+  "lang": "en",
+  "released_at": "2023-08-04",
+  "uri": "https://api.scryfall.com/cards/68ac12f5-5198-447e-ac67-fdc4e876571d",
+  "scryfall_uri": "https://scryfall.com/card/cmm/600/boompile?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/8/68ac12f5-5198-447e-ac67-fdc4e876571d.jpg?1690001757",
+    "normal": "https://cards.scryfall.io/normal/front/6/8/68ac12f5-5198-447e-ac67-fdc4e876571d.jpg?1690001757",
+    "large": "https://cards.scryfall.io/large/front/6/8/68ac12f5-5198-447e-ac67-fdc4e876571d.jpg?1690001757",
+    "png": "https://cards.scryfall.io/png/front/6/8/68ac12f5-5198-447e-ac67-fdc4e876571d.png?1690001757",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/8/68ac12f5-5198-447e-ac67-fdc4e876571d.jpg?1690001757",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/8/68ac12f5-5198-447e-ac67-fdc4e876571d.jpg?1690001757"
+  },
+  "mana_cost": "{4}",
+  "cmc": 4,
+  "type_line": "Artifact",
+  "oracle_text": "{T}: Flip a coin. If you win the flip, destroy all nonland permanents.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": false,
+  "finishes": [
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set": "cmm",
+  "set_name": "Commander Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/68ac12f5-5198-447e-ac67-fdc4e876571d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A85b8902f-2515-4ded-b28a-a83334f089f1&unique=prints",
+  "collector_number": "600",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Fuses? We have more than enough! Now . . . which one was it?\"\n—Flearan One-Eye, goblin engineer",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Filip Burburan",
+  "artist_ids": [
+    "66082c3b-a623-4d34-be51-2475214b85d3"
+  ],
+  "illustration_id": "14345994-2034-4c49-b744-6f8f38747cb9",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted",
+    "etched"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 5853,
+  "penny_rank": 316,
+  "preview": {
+    "source": "Good Luck High Five",
+    "source_uri": "https://www.youtube.com/watch?v=230Dzf6Cr28",
+    "previewed_at": "2023-07-12"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": "6.43",
+    "eur": null,
+    "eur_foil": null,
+    "tix": "1.29"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=626455&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBoompile",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBoompile",
+    "edhrec": "https://edhrec.com/route/?cc=Boompile"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBoompile%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=721997&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/113545?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

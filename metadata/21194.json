@@ -1,0 +1,110 @@
+{
+  "object": "card",
+  "id": "31ecb906-f12f-46b0-982f-869ae89105e4",
+  "oracle_id": "836d074a-8888-42a0-8dce-11ffce00d2f5",
+  "multiverse_ids": [],
+  "arena_id": 94318,
+  "name": "Cruel Revival",
+  "lang": "en",
+  "released_at": "2024-12-10",
+  "uri": "https://api.scryfall.com/cards/31ecb906-f12f-46b0-982f-869ae89105e4",
+  "scryfall_uri": "https://scryfall.com/card/pio/87/cruel-revival?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/1/31ecb906-f12f-46b0-982f-869ae89105e4.jpg?1733179513",
+    "normal": "https://cards.scryfall.io/normal/front/3/1/31ecb906-f12f-46b0-982f-869ae89105e4.jpg?1733179513",
+    "large": "https://cards.scryfall.io/large/front/3/1/31ecb906-f12f-46b0-982f-869ae89105e4.jpg?1733179513",
+    "png": "https://cards.scryfall.io/png/front/3/1/31ecb906-f12f-46b0-982f-869ae89105e4.png?1733179513",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/1/31ecb906-f12f-46b0-982f-869ae89105e4.jpg?1733179513",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/1/31ecb906-f12f-46b0-982f-869ae89105e4.jpg?1733179513"
+  },
+  "mana_cost": "{4}{B}",
+  "cmc": 5,
+  "type_line": "Instant",
+  "oracle_text": "Destroy target non-Zombie creature. It can't be regenerated. Return up to one target Zombie card from your graveyard to your hand.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "713c226b-d4d9-46e1-b9c9-a04689d90ff6",
+  "set": "pio",
+  "set_name": "Pioneer Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/713c226b-d4d9-46e1-b9c9-a04689d90ff6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apio&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pio?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/31ecb906-f12f-46b0-982f-869ae89105e4/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A836d074a-8888-42a0-8dce-11ffce00d2f5&unique=prints",
+  "collector_number": "87",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Miles Johnston",
+  "artist_ids": [
+    "cee61c53-0d1f-4160-b5dc-d554390786ca"
+  ],
+  "illustration_id": "851a48fc-0a0f-47af-b777-a248ee987337",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 13655,
+  "penny_rank": 11617,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCruel%2BRevival",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCruel%2BRevival",
+    "edhrec": "https://edhrec.com/route/?cc=Cruel+Revival"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "object": "card",
+  "id": "6e41777f-6ecb-4079-80ba-a43f0100da4d",
+  "oracle_id": "11765eaf-87a1-48bd-90c1-7a5f21be5918",
+  "multiverse_ids": [],
+  "tcgplayer_id": 546135,
+  "name": "Roxanne, Starfall Savant",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/6e41777f-6ecb-4079-80ba-a43f0100da4d",
+  "scryfall_uri": "https://scryfall.com/card/potj/228s/roxanne-starfall-savant?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/e/6e41777f-6ecb-4079-80ba-a43f0100da4d.jpg?1714000957",
+    "normal": "https://cards.scryfall.io/normal/front/6/e/6e41777f-6ecb-4079-80ba-a43f0100da4d.jpg?1714000957",
+    "large": "https://cards.scryfall.io/large/front/6/e/6e41777f-6ecb-4079-80ba-a43f0100da4d.jpg?1714000957",
+    "png": "https://cards.scryfall.io/png/front/6/e/6e41777f-6ecb-4079-80ba-a43f0100da4d.png?1714000957",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/e/6e41777f-6ecb-4079-80ba-a43f0100da4d.jpg?1714000957",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/e/6e41777f-6ecb-4079-80ba-a43f0100da4d.jpg?1714000957"
+  },
+  "mana_cost": "{3}{R}{G}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Cat Druid",
+  "oracle_text": "Whenever Roxanne enters or attacks, create a tapped colorless artifact token named Meteorite with \"When this token enters, it deals 2 damage to any target\" and \"{T}: Add one mana of any color.\"\nWhenever you tap an artifact token for mana, add one mana of any type that artifact token produced.",
+  "power": "4",
+  "toughness": "3",
+  "colors": [
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6e41777f-6ecb-4079-80ba-a43f0100da4d",
+      "component": "combo_piece",
+      "name": "Roxanne, Starfall Savant",
+      "type_line": "Legendary Creature — Cat Druid",
+      "uri": "https://api.scryfall.com/cards/6e41777f-6ecb-4079-80ba-a43f0100da4d"
+    },
+    {
+      "object": "related_card",
+      "id": "00b41ca9-0bf0-41fc-af65-854e602ee007",
+      "component": "token",
+      "name": "Meteorite",
+      "type_line": "Token Artifact",
+      "uri": "https://api.scryfall.com/cards/00b41ca9-0bf0-41fc-af65-854e602ee007"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "efa35c12-8c68-4d9d-9081-f0f57e564ba3",
+  "set": "potj",
+  "set_name": "Outlaws of Thunder Junction Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/efa35c12-8c68-4d9d-9081-f0f57e564ba3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apotj&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/potj?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6e41777f-6ecb-4079-80ba-a43f0100da4d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A11765eaf-87a1-48bd-90c1-7a5f21be5918&unique=prints",
+  "collector_number": "228s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ina Wong",
+  "artist_ids": [
+    "66509051-6c00-40cf-a6a7-471b6db84fe0"
+  ],
+  "illustration_id": "bebd4775-0a88-4de7-8a10-ef5fd5aa93fa",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 3715,
+  "penny_rank": 6315,
+  "prices": {
+    "usd": null,
+    "usd_foil": "2.12",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRoxanne%252C%2BStarfall%2BSavant",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRoxanne%252C%2BStarfall%2BSavant",
+    "edhrec": "https://edhrec.com/route/?cc=Roxanne%2C+Starfall+Savant"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F546135%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Roxanne%2C+Starfall+Savant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Roxanne%2C+Starfall+Savant&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "544caea6-4ec6-4f59-9406-a4706d2dfe2a",
+  "oracle_id": "5aa3abf1-d56b-4f42-8c84-7e5a2c15ee0f",
+  "multiverse_ids": [],
+  "tcgplayer_id": 189573,
+  "cardmarket_id": 373455,
+  "name": "Nissa, Who Shakes the World",
+  "printed_name": "世界を揺るがす者、ニッサ",
+  "lang": "ja",
+  "released_at": "2019-05-03",
+  "uri": "https://api.scryfall.com/cards/544caea6-4ec6-4f59-9406-a4706d2dfe2a",
+  "scryfall_uri": "https://scryfall.com/card/pwar/169s%E2%98%85/ja/%E4%B8%96%E7%95%8C%E3%82%92%E6%8F%BA%E3%82%8B%E3%81%8C%E3%81%99%E8%80%85%E3%80%81%E3%83%8B%E3%83%83%E3%82%B5-(nissa-who-shakes-the-world)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/4/544caea6-4ec6-4f59-9406-a4706d2dfe2a.jpg?1593867202",
+    "normal": "https://cards.scryfall.io/normal/front/5/4/544caea6-4ec6-4f59-9406-a4706d2dfe2a.jpg?1593867202",
+    "large": "https://cards.scryfall.io/large/front/5/4/544caea6-4ec6-4f59-9406-a4706d2dfe2a.jpg?1593867202",
+    "png": "https://cards.scryfall.io/png/front/5/4/544caea6-4ec6-4f59-9406-a4706d2dfe2a.png?1593867202",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/4/544caea6-4ec6-4f59-9406-a4706d2dfe2a.jpg?1593867202",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/4/544caea6-4ec6-4f59-9406-a4706d2dfe2a.jpg?1593867202"
+  },
+  "mana_cost": "{3}{G}{G}",
+  "cmc": 5,
+  "type_line": "Legendary Planeswalker — Nissa",
+  "printed_type_line": "伝説のプレインズウォーカー — ニッサ",
+  "oracle_text": "Whenever you tap a Forest for mana, add an additional {G}.\n+1: Put three +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with vigilance and haste that's still a land.\n−8: You get an emblem with \"Lands you control have indestructible.\" Search your library for any number of Forest cards, put them onto the battlefield tapped, then shuffle.",
+  "printed_text": "あなたがマナを引き出す目的で森をタップするたび、追加で{G}を加える。\n+1：あなたがコントロールしていてクリーチャーでない土地最大１つを対象とし、それの上に＋１/＋１カウンターを３個置く。それをアンタップする。それは警戒と速攻を持つ０/０のエレメンタル・クリーチャーになる。それは土地でもある。\n-8：あなたは「あなたがコントロールしている土地は破壊不能を持つ。」を持つ紋章を得る。あなたのライブラリーから森・カード望む枚数を探し、それらをタップ状態で戦場に出し、その後あなたのライブラリーを切り直す。",
+  "loyalty": "5",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "G"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9981777b-983e-4f17-b9b1-fe32cf243e23",
+  "set": "pwar",
+  "set_name": "War of the Spark Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/9981777b-983e-4f17-b9b1-fe32cf243e23",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwar&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwar?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/544caea6-4ec6-4f59-9406-a4706d2dfe2a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5aa3abf1-d56b-4f42-8c84-7e5a2c15ee0f&unique=prints",
+  "collector_number": "169s★",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Hitowa",
+  "artist_ids": [
+    "8601f23d-d64c-45cb-9129-a65e8caf402c"
+  ],
+  "illustration_id": "f73fa993-cb06-41be-a945-34aec8f4e114",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped",
+    "jpwalker"
+  ],
+  "edhrec_rank": 1382,
+  "penny_rank": 1241,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "200.00",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNissa%252C%2BWho%2BShakes%2Bthe%2BWorld",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNissa%252C%2BWho%2BShakes%2Bthe%2BWorld",
+    "edhrec": "https://edhrec.com/route/?cc=Nissa%2C+Who+Shakes+the+World"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F189573%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=373455&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nissa%2C+Who+Shakes+the+World&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

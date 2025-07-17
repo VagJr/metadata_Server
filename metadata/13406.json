@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "1f8224d8-0445-427f-a814-919ca312983f",
+  "oracle_id": "a3c8d817-7949-4dae-b9f5-f9d952479270",
+  "multiverse_ids": [],
+  "tcgplayer_id": 531380,
+  "name": "Crypt Ghast",
+  "lang": "en",
+  "released_at": "2024-01-12",
+  "uri": "https://api.scryfall.com/cards/1f8224d8-0445-427f-a814-919ca312983f",
+  "scryfall_uri": "https://scryfall.com/card/rvr/322z/crypt-ghast?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/f/1f8224d8-0445-427f-a814-919ca312983f.jpg?1705528113",
+    "normal": "https://cards.scryfall.io/normal/front/1/f/1f8224d8-0445-427f-a814-919ca312983f.jpg?1705528113",
+    "large": "https://cards.scryfall.io/large/front/1/f/1f8224d8-0445-427f-a814-919ca312983f.jpg?1705528113",
+    "png": "https://cards.scryfall.io/png/front/1/f/1f8224d8-0445-427f-a814-919ca312983f.png?1705528113",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/f/1f8224d8-0445-427f-a814-919ca312983f.jpg?1705528113",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/f/1f8224d8-0445-427f-a814-919ca312983f.jpg?1705528113"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4,
+  "type_line": "Creature — Spirit",
+  "oracle_text": "Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)\nWhenever you tap a Swamp for mana, add an additional {B}.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Extort"
+  ],
+  "produced_mana": [
+    "B"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+  "set": "rvr",
+  "set_name": "Ravnica Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arvr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/rvr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1f8224d8-0445-427f-a814-919ca312983f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3c8d817-7949-4dae-b9f5-f9d952479270&unique=prints",
+  "collector_number": "322z",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rahn",
+  "artist_ids": [
+    "7742047e-0f80-4c0f-a530-d07460165e86"
+  ],
+  "illustration_id": "815deb6c-ed7b-4a6f-91f9-edb2e11ee25e",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "serialized",
+    "doublerainbow",
+    "boosterfun"
+  ],
+  "edhrec_rank": 530,
+  "penny_rank": 7668,
+  "prices": {
+    "usd": null,
+    "usd_foil": "186.28",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCrypt%2BGhast",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCrypt%2BGhast",
+    "edhrec": "https://edhrec.com/route/?cc=Crypt+Ghast"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F531380%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Crypt+Ghast&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Crypt+Ghast&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "object": "card",
+  "id": "c90e3fd0-c6a9-493c-83b2-9386245c4cbe",
+  "oracle_id": "e9da499c-fa43-4e94-8395-5c030ff39502",
+  "multiverse_ids": [],
+  "tcgplayer_id": 537730,
+  "cardmarket_id": 755303,
+  "name": "Price of Progress",
+  "lang": "en",
+  "released_at": "2024-02-05",
+  "uri": "https://api.scryfall.com/cards/c90e3fd0-c6a9-493c-83b2-9386245c4cbe",
+  "scryfall_uri": "https://scryfall.com/card/sld/1521/price-of-progress?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/9/c90e3fd0-c6a9-493c-83b2-9386245c4cbe.jpg?1739115029",
+    "normal": "https://cards.scryfall.io/normal/front/c/9/c90e3fd0-c6a9-493c-83b2-9386245c4cbe.jpg?1739115029",
+    "large": "https://cards.scryfall.io/large/front/c/9/c90e3fd0-c6a9-493c-83b2-9386245c4cbe.jpg?1739115029",
+    "png": "https://cards.scryfall.io/png/front/c/9/c90e3fd0-c6a9-493c-83b2-9386245c4cbe.png?1739115029",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/9/c90e3fd0-c6a9-493c-83b2-9386245c4cbe.jpg?1739115029",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/9/c90e3fd0-c6a9-493c-83b2-9386245c4cbe.jpg?1739115029"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Price of Progress deals damage to each player equal to twice the number of nonbasic lands that player controls.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "banned",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c90e3fd0-c6a9-493c-83b2-9386245c4cbe/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae9da499c-fa43-4e94-8395-5c030ff39502&unique=prints",
+  "collector_number": "1521",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "MAN VERSUS NATURE\nIS NOT A FAIR FIGHT",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alexander Khabbazi",
+  "artist_ids": [
+    "0045e357-e528-4cc9-be65-faa5f0df8238"
+  ],
+  "illustration_id": "832fd2f6-8803-459d-a481-1882b45e0d6e",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2665,
+  "penny_rank": 411,
+  "prices": {
+    "usd": "8.51",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "9.51",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPrice%2Bof%2BProgress",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPrice%2Bof%2BProgress",
+    "edhrec": "https://edhrec.com/route/?cc=Price+of+Progress"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F537730%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=755303&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Price+of+Progress&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "ada6588b-3efc-4464-ae83-11586eb54775",
+  "oracle_id": "46bfdcec-7cdc-413e-aa77-ed98b64f147b",
+  "multiverse_ids": [],
+  "arena_id": 73663,
+  "tcgplayer_id": 212240,
+  "cardmarket_id": 453033,
+  "name": "Insatiable Hemophage",
+  "lang": "en",
+  "released_at": "2020-04-24",
+  "uri": "https://api.scryfall.com/cards/ada6588b-3efc-4464-ae83-11586eb54775",
+  "scryfall_uri": "https://scryfall.com/card/iko/290/insatiable-hemophage?utm_source=api",
+  "layout": "mutate",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/d/ada6588b-3efc-4464-ae83-11586eb54775.jpg?1604781773",
+    "normal": "https://cards.scryfall.io/normal/front/a/d/ada6588b-3efc-4464-ae83-11586eb54775.jpg?1604781773",
+    "large": "https://cards.scryfall.io/large/front/a/d/ada6588b-3efc-4464-ae83-11586eb54775.jpg?1604781773",
+    "png": "https://cards.scryfall.io/png/front/a/d/ada6588b-3efc-4464-ae83-11586eb54775.png?1604781773",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/d/ada6588b-3efc-4464-ae83-11586eb54775.jpg?1604781773",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/d/ada6588b-3efc-4464-ae83-11586eb54775.jpg?1604781773"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4,
+  "type_line": "Creature — Nightmare",
+  "oracle_text": "Mutate {2}{B} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)\nDeathtouch\nWhenever this creature mutates, each opponent loses X life and you gain X life, where X is the number of times this creature has mutated.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Mutate",
+    "Deathtouch"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "19feda43-15ab-427e-a0e4-148a4bf2b03a",
+  "set": "iko",
+  "set_name": "Ikoria: Lair of Behemoths",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/19feda43-15ab-427e-a0e4-148a4bf2b03a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aiko&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/iko?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ada6588b-3efc-4464-ae83-11586eb54775/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A46bfdcec-7cdc-413e-aa77-ed98b64f147b&unique=prints",
+  "collector_number": "290",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steve Ellis",
+  "artist_ids": [
+    "39d8411c-2187-426c-8ad3-d4f688b22db1"
+  ],
+  "illustration_id": "759f0102-6302-4325-b526-ec7f0ec0f49f",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 7879,
+  "penny_rank": 9205,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2020-04-06"
+  },
+  "prices": {
+    "usd": "0.13",
+    "usd_foil": "0.42",
+    "usd_etched": null,
+    "eur": "0.19",
+    "eur_foil": "0.54",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DInsatiable%2BHemophage",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DInsatiable%2BHemophage",
+    "edhrec": "https://edhrec.com/route/?cc=Insatiable+Hemophage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F212240%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=453033&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Insatiable+Hemophage&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

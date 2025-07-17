@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "b276988e-dbf1-41a5-8b7f-ad5374f500fc",
+  "oracle_id": "c9ed4397-e7b7-469c-94e3-8fc70d88664f",
+  "multiverse_ids": [
+    460769
+  ],
+  "tcgplayer_id": 184846,
+  "cardmarket_id": 369874,
+  "name": "Cytoplast Root-Kin",
+  "lang": "en",
+  "released_at": "2019-02-15",
+  "uri": "https://api.scryfall.com/cards/b276988e-dbf1-41a5-8b7f-ad5374f500fc",
+  "scryfall_uri": "https://scryfall.com/card/gk2/110/cytoplast-root-kin?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/2/b276988e-dbf1-41a5-8b7f-ad5374f500fc.jpg?1551119703",
+    "normal": "https://cards.scryfall.io/normal/front/b/2/b276988e-dbf1-41a5-8b7f-ad5374f500fc.jpg?1551119703",
+    "large": "https://cards.scryfall.io/large/front/b/2/b276988e-dbf1-41a5-8b7f-ad5374f500fc.jpg?1551119703",
+    "png": "https://cards.scryfall.io/png/front/b/2/b276988e-dbf1-41a5-8b7f-ad5374f500fc.png?1551119703",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/2/b276988e-dbf1-41a5-8b7f-ad5374f500fc.jpg?1551119703",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/2/b276988e-dbf1-41a5-8b7f-ad5374f500fc.jpg?1551119703"
+  },
+  "mana_cost": "{2}{G}{G}",
+  "cmc": 4,
+  "type_line": "Creature — Elemental Mutant",
+  "oracle_text": "Graft 4 (This creature enters with four +1/+1 counters on it. Whenever another creature enters, you may move a +1/+1 counter from this creature onto it.)\nWhen this creature enters, put a +1/+1 counter on each other creature you control with a +1/+1 counter on it.\n{2}: Move a +1/+1 counter from target creature you control onto this creature.",
+  "power": "0",
+  "toughness": "0",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Graft"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "ce193344-b2a8-4b56-8243-c6ba4f6e20ef",
+  "set": "gk2",
+  "set_name": "RNA Guild Kit",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/ce193344-b2a8-4b56-8243-c6ba4f6e20ef",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Agk2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/gk2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b276988e-dbf1-41a5-8b7f-ad5374f500fc/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac9ed4397-e7b7-469c-94e3-8fc70d88664f&unique=prints",
+  "collector_number": "110",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "simic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Thomas M. Baxa",
+  "artist_ids": [
+    "ff346569-557d-4043-ae44-97c2c7cabd7d"
+  ],
+  "illustration_id": "83e3654f-6032-4033-8a67-79f469ddd088",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 16258,
+  "penny_rank": 7606,
+  "prices": {
+    "usd": "0.27",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.36",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460769&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCytoplast%2BRoot-Kin",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCytoplast%2BRoot-Kin",
+    "edhrec": "https://edhrec.com/route/?cc=Cytoplast+Root-Kin"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F184846%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=369874&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cytoplast+Root-Kin&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "92e7d1e9-6b17-427e-862f-c8c8c619c55b",
+  "oracle_id": "9473b445-294b-4572-8267-f1f2fc2a05a7",
+  "multiverse_ids": [],
+  "mtgo_id": 80961,
+  "name": "Chittering Harvester",
+  "lang": "en",
+  "released_at": "2020-04-30",
+  "uri": "https://api.scryfall.com/cards/92e7d1e9-6b17-427e-862f-c8c8c619c55b",
+  "scryfall_uri": "https://scryfall.com/card/prm/80961/chittering-harvester?utm_source=api",
+  "layout": "mutate",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/2/92e7d1e9-6b17-427e-862f-c8c8c619c55b.jpg?1630631412",
+    "normal": "https://cards.scryfall.io/normal/front/9/2/92e7d1e9-6b17-427e-862f-c8c8c619c55b.jpg?1630631412",
+    "large": "https://cards.scryfall.io/large/front/9/2/92e7d1e9-6b17-427e-862f-c8c8c619c55b.jpg?1630631412",
+    "png": "https://cards.scryfall.io/png/front/9/2/92e7d1e9-6b17-427e-862f-c8c8c619c55b.png?1630631412",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/2/92e7d1e9-6b17-427e-862f-c8c8c619c55b.jpg?1630631412",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/2/92e7d1e9-6b17-427e-862f-c8c8c619c55b.jpg?1630631412"
+  },
+  "mana_cost": "{5}{B}",
+  "cmc": 6,
+  "type_line": "Creature — Nightmare",
+  "oracle_text": "Mutate {4}{B} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)\nWhenever this creature mutates, each opponent sacrifices a creature of their choice.",
+  "power": "4",
+  "toughness": "6",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Mutate"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/92e7d1e9-6b17-427e-862f-c8c8c619c55b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9473b445-294b-4572-8267-f1f2fc2a05a7&unique=prints",
+  "collector_number": "80961",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Carl Critchlow",
+  "artist_ids": [
+    "17948f16-611a-44b8-8d10-9895a0bdfff1"
+  ],
+  "illustration_id": "8c0f6172-6a3b-4bde-9996-d6aada8a7e11",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 7735,
+  "penny_rank": 11595,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.06"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DChittering%2BHarvester",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DChittering%2BHarvester",
+    "edhrec": "https://edhrec.com/route/?cc=Chittering+Harvester"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DChittering%2BHarvester%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Chittering+Harvester&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/80961?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

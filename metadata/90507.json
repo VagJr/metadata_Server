@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "d5adbb22-c63b-4d58-a37a-82dd78964455",
+  "oracle_id": "ada48353-4c86-44d6-83a5-e7e3c703b948",
+  "multiverse_ids": [],
+  "tcgplayer_id": 514371,
+  "name": "Redcap Gutter-Dweller",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/d5adbb22-c63b-4d58-a37a-82dd78964455",
+  "scryfall_uri": "https://scryfall.com/card/pwoe/146s/redcap-gutter-dweller?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/5/d5adbb22-c63b-4d58-a37a-82dd78964455.jpg?1694312307",
+    "normal": "https://cards.scryfall.io/normal/front/d/5/d5adbb22-c63b-4d58-a37a-82dd78964455.jpg?1694312307",
+    "large": "https://cards.scryfall.io/large/front/d/5/d5adbb22-c63b-4d58-a37a-82dd78964455.jpg?1694312307",
+    "png": "https://cards.scryfall.io/png/front/d/5/d5adbb22-c63b-4d58-a37a-82dd78964455.png?1694312307",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/5/d5adbb22-c63b-4d58-a37a-82dd78964455.jpg?1694312307",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/5/d5adbb22-c63b-4d58-a37a-82dd78964455.jpg?1694312307"
+  },
+  "mana_cost": "{2}{R}{R}",
+  "cmc": 4,
+  "type_line": "Creature — Goblin Warrior",
+  "oracle_text": "Menace\nWhen this creature enters, create two 1/1 black Rat creature tokens with \"This token can't block.\"\nAt the beginning of your upkeep, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature and exile the top card of your library. You may play that card this turn.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Menace"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "d5adbb22-c63b-4d58-a37a-82dd78964455",
+      "component": "combo_piece",
+      "name": "Redcap Gutter-Dweller",
+      "type_line": "Creature — Goblin Warrior",
+      "uri": "https://api.scryfall.com/cards/d5adbb22-c63b-4d58-a37a-82dd78964455"
+    },
+    {
+      "object": "related_card",
+      "id": "1e0205f2-25c1-403b-b408-56e3f2d63b4d",
+      "component": "token",
+      "name": "Rat",
+      "type_line": "Token Creature — Rat",
+      "uri": "https://api.scryfall.com/cards/1e0205f2-25c1-403b-b408-56e3f2d63b4d"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "909bf1bb-3277-41d6-af0f-293df1203099",
+  "set": "pwoe",
+  "set_name": "Wilds of Eldraine Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/909bf1bb-3277-41d6-af0f-293df1203099",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwoe&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwoe?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d5adbb22-c63b-4d58-a37a-82dd78964455/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aada48353-4c86-44d6-83a5-e7e3c703b948&unique=prints",
+  "collector_number": "146s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alexey Kruglov",
+  "artist_ids": [
+    "15c28181-aa07-4386-8657-0ca5ee6951e2"
+  ],
+  "illustration_id": "db98f039-f301-4b5a-b75c-d875779a4bab",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 7224,
+  "penny_rank": 9747,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.46",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRedcap%2BGutter-Dweller",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRedcap%2BGutter-Dweller",
+    "edhrec": "https://edhrec.com/route/?cc=Redcap+Gutter-Dweller"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F514371%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Redcap+Gutter-Dweller&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Redcap+Gutter-Dweller&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

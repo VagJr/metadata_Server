@@ -1,0 +1,161 @@
+{
+  "object": "card",
+  "id": "e89794ab-6070-4916-936f-2b42fe41d31b",
+  "oracle_id": "4457ed35-7c10-48c8-9776-456485fdf070",
+  "multiverse_ids": [],
+  "mtgo_id": 139943,
+  "tcgplayer_id": 632180,
+  "cardmarket_id": 826124,
+  "name": "Lightning Bolt",
+  "flavor_name": "Thrum of the Vestige",
+  "lang": "en",
+  "released_at": "2025-06-13",
+  "uri": "https://api.scryfall.com/cards/e89794ab-6070-4916-936f-2b42fe41d31b",
+  "scryfall_uri": "https://scryfall.com/card/fca/40/lightning-bolt?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/8/e89794ab-6070-4916-936f-2b42fe41d31b.jpg?1748703937",
+    "normal": "https://cards.scryfall.io/normal/front/e/8/e89794ab-6070-4916-936f-2b42fe41d31b.jpg?1748703937",
+    "large": "https://cards.scryfall.io/large/front/e/8/e89794ab-6070-4916-936f-2b42fe41d31b.jpg?1748703937",
+    "png": "https://cards.scryfall.io/png/front/e/8/e89794ab-6070-4916-936f-2b42fe41d31b.png?1748703937",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/8/e89794ab-6070-4916-936f-2b42fe41d31b.jpg?1748703937",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/8/e89794ab-6070-4916-936f-2b42fe41d31b.jpg?1748703937"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "oracle_text": "Lightning Bolt deals 3 damage to any target.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e89794ab-6070-4916-936f-2b42fe41d31b",
+      "component": "combo_piece",
+      "name": "Lightning Bolt",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/e89794ab-6070-4916-936f-2b42fe41d31b"
+    },
+    {
+      "object": "related_card",
+      "id": "4f095067-cf24-4061-8626-dc68a66a0b36",
+      "component": "combo_piece",
+      "name": "Toralf's Disciple",
+      "type_line": "Creature — Human Warrior",
+      "uri": "https://api.scryfall.com/cards/4f095067-cf24-4061-8626-dc68a66a0b36"
+    },
+    {
+      "object": "related_card",
+      "id": "69b51576-532b-450e-a8bf-0482cac04618",
+      "component": "combo_piece",
+      "name": "Thayan Evokers",
+      "type_line": "Creature — Human Wizard",
+      "uri": "https://api.scryfall.com/cards/69b51576-532b-450e-a8bf-0482cac04618"
+    },
+    {
+      "object": "related_card",
+      "id": "618806ea-7ea8-4cfb-a8c1-c3defa34e7dd",
+      "component": "combo_piece",
+      "name": "Indris, the Hydrostatic Surge",
+      "type_line": "Legendary Creature — Otter Incarnation",
+      "uri": "https://api.scryfall.com/cards/618806ea-7ea8-4cfb-a8c1-c3defa34e7dd"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "banned",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5f2176db-3c44-459d-8a57-7c51e770a476",
+  "set": "fca",
+  "set_name": "Final Fantasy: Through the Ages",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/5f2176db-3c44-459d-8a57-7c51e770a476",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afca&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fca?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e89794ab-6070-4916-936f-2b42fe41d31b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4457ed35-7c10-48c8-9776-456485fdf070&unique=prints",
+  "collector_number": "40",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Toshitaka Matsuda",
+  "artist_ids": [
+    "78e68cbf-6f4b-4941-8f64-4d49184ac24d"
+  ],
+  "illustration_id": "9cb53296-5187-4b97-a873-7838194cd914",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "triangle",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "ffxiii",
+    "boosterfun"
+  ],
+  "edhrec_rank": 172,
+  "prices": {
+    "usd": "0.58",
+    "usd_foil": "2.32",
+    "usd_etched": null,
+    "eur": "1.03",
+    "eur_foil": "2.93",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLightning%2BBolt",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLightning%2BBolt",
+    "edhrec": "https://edhrec.com/route/?cc=Lightning+Bolt"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F632180%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=826124&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/139943?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

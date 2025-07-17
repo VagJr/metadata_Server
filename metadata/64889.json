@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "9968b769-d926-4a5c-887d-ad1108882bd6",
+  "oracle_id": "4d5fd9f0-ecb3-4b91-ae55-f02336d7cf37",
+  "multiverse_ids": [],
+  "tcgplayer_id": 501295,
+  "name": "Rangers of Ithilien",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/9968b769-d926-4a5c-887d-ad1108882bd6",
+  "scryfall_uri": "https://scryfall.com/card/pltr/66s/rangers-of-ithilien?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/9/9968b769-d926-4a5c-887d-ad1108882bd6.jpg?1687888055",
+    "normal": "https://cards.scryfall.io/normal/front/9/9/9968b769-d926-4a5c-887d-ad1108882bd6.jpg?1687888055",
+    "large": "https://cards.scryfall.io/large/front/9/9/9968b769-d926-4a5c-887d-ad1108882bd6.jpg?1687888055",
+    "png": "https://cards.scryfall.io/png/front/9/9/9968b769-d926-4a5c-887d-ad1108882bd6.png?1687888055",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/9/9968b769-d926-4a5c-887d-ad1108882bd6.jpg?1687888055",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/9/9968b769-d926-4a5c-887d-ad1108882bd6.jpg?1687888055"
+  },
+  "mana_cost": "{2}{U}{U}",
+  "cmc": 4,
+  "type_line": "Creature — Human Ranger",
+  "oracle_text": "Vigilance\nWhen this creature enters, gain control of up to one target creature with lesser power for as long as you control this creature. Then the Ring tempts you.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Vigilance"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "9968b769-d926-4a5c-887d-ad1108882bd6",
+      "component": "combo_piece",
+      "name": "Rangers of Ithilien",
+      "type_line": "Creature — Human Ranger",
+      "uri": "https://api.scryfall.com/cards/9968b769-d926-4a5c-887d-ad1108882bd6"
+    },
+    {
+      "object": "related_card",
+      "id": "7215460e-8c06-47d0-94e5-d1832d0218af",
+      "component": "combo_piece",
+      "name": "The Ring // The Ring Tempts You",
+      "type_line": "Emblem // Card",
+      "uri": "https://api.scryfall.com/cards/7215460e-8c06-47d0-94e5-d1832d0218af"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "1012754e-18e5-4a76-b9a3-24c55eaab1c5",
+  "set": "pltr",
+  "set_name": "Tales of Middle-earth Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/1012754e-18e5-4a76-b9a3-24c55eaab1c5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apltr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pltr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9968b769-d926-4a5c-887d-ad1108882bd6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4d5fd9f0-ecb3-4b91-ae55-f02336d7cf37&unique=prints",
+  "collector_number": "66s",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"We have a new errand on this journey: to ambush the Men of Harad.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Torgeir Fjereide",
+  "artist_ids": [
+    "0fb4d295-27f1-43cc-9e79-dd0c9789447c"
+  ],
+  "illustration_id": "5c6c499c-3ca1-4b50-b3a0-d79bf2e90717",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 13204,
+  "penny_rank": 14988,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.22",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRangers%2Bof%2BIthilien",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRangers%2Bof%2BIthilien",
+    "edhrec": "https://edhrec.com/route/?cc=Rangers+of+Ithilien"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F501295%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rangers+of+Ithilien&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rangers+of+Ithilien&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

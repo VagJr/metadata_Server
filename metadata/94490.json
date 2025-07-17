@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "defa687c-a064-4a7b-afa2-3c3ecdb5e13f",
+  "oracle_id": "d412b175-2365-4b2c-a8f5-3e4e9d06280d",
+  "multiverse_ids": [
+    657752
+  ],
+  "mtgo_id": 123577,
+  "arena_id": 90705,
+  "tcgplayer_id": 544862,
+  "cardmarket_id": 764147,
+  "name": "Archive Trap",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/defa687c-a064-4a7b-afa2-3c3ecdb5e13f",
+  "scryfall_uri": "https://scryfall.com/card/otp/7/archive-trap?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/e/defa687c-a064-4a7b-afa2-3c3ecdb5e13f.jpg?1712353415",
+    "normal": "https://cards.scryfall.io/normal/front/d/e/defa687c-a064-4a7b-afa2-3c3ecdb5e13f.jpg?1712353415",
+    "large": "https://cards.scryfall.io/large/front/d/e/defa687c-a064-4a7b-afa2-3c3ecdb5e13f.jpg?1712353415",
+    "png": "https://cards.scryfall.io/png/front/d/e/defa687c-a064-4a7b-afa2-3c3ecdb5e13f.png?1712353415",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/e/defa687c-a064-4a7b-afa2-3c3ecdb5e13f.jpg?1712353415",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/e/defa687c-a064-4a7b-afa2-3c3ecdb5e13f.jpg?1712353415"
+  },
+  "mana_cost": "{3}{U}{U}",
+  "cmc": 5,
+  "type_line": "Instant — Trap",
+  "oracle_text": "If an opponent searched their library this turn, you may pay {0} rather than pay this spell's mana cost.\nTarget opponent mills thirteen cards.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8b51294d-fc54-410c-83b2-0168837ede87",
+  "set": "otp",
+  "set_name": "Breaking News",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/8b51294d-fc54-410c-83b2-0168837ede87",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/defa687c-a064-4a7b-afa2-3c3ecdb5e13f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad412b175-2365-4b2c-a8f5-3e4e9d06280d&unique=prints",
+  "collector_number": "7",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Heist Shocker! Supposedly Invincible Vault Vinced!",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "William Tempest",
+  "artist_ids": [
+    "9bcb8bb4-3399-413a-bf06-962eb970c48d"
+  ],
+  "illustration_id": "f2022ec7-bcb1-4882-9f17-ef13cb73a5e6",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 6304,
+  "prices": {
+    "usd": "0.78",
+    "usd_foil": "1.28",
+    "usd_etched": null,
+    "eur": "0.95",
+    "eur_foil": "2.28",
+    "tix": "0.93"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=657752&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DArchive%2BTrap",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DArchive%2BTrap",
+    "edhrec": "https://edhrec.com/route/?cc=Archive+Trap"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544862%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=764147&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/123577?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "3e84e179-9d59-4d08-8a36-51ad2fc32ae3",
+  "oracle_id": "f825c98f-a327-440b-8c0d-ebe02e23bfb7",
+  "multiverse_ids": [
+    476493
+  ],
+  "mtgo_id": 79608,
+  "arena_id": 70753,
+  "tcgplayer_id": 206646,
+  "cardmarket_id": 430169,
+  "name": "Field of Ruin",
+  "lang": "en",
+  "released_at": "2020-01-24",
+  "uri": "https://api.scryfall.com/cards/3e84e179-9d59-4d08-8a36-51ad2fc32ae3",
+  "scryfall_uri": "https://scryfall.com/card/thb/242/field-of-ruin?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/e/3e84e179-9d59-4d08-8a36-51ad2fc32ae3.jpg?1581481243",
+    "normal": "https://cards.scryfall.io/normal/front/3/e/3e84e179-9d59-4d08-8a36-51ad2fc32ae3.jpg?1581481243",
+    "large": "https://cards.scryfall.io/large/front/3/e/3e84e179-9d59-4d08-8a36-51ad2fc32ae3.jpg?1581481243",
+    "png": "https://cards.scryfall.io/png/front/3/e/3e84e179-9d59-4d08-8a36-51ad2fc32ae3.png?1581481243",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/e/3e84e179-9d59-4d08-8a36-51ad2fc32ae3.jpg?1581481243",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/e/3e84e179-9d59-4d08-8a36-51ad2fc32ae3.jpg?1581481243"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "{T}: Add {C}.\n{2}, {T}, Sacrifice this land: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5f23a78d-cda1-462a-8be3-a62b40c34913",
+  "set": "thb",
+  "set_name": "Theros Beyond Death",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/5f23a78d-cda1-462a-8be3-a62b40c34913",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Athb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/thb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3e84e179-9d59-4d08-8a36-51ad2fc32ae3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af825c98f-a327-440b-8c0d-ebe02e23bfb7&unique=prints",
+  "collector_number": "242",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jung Park",
+  "artist_ids": [
+    "269392ac-4c06-4650-98e2-d49a5a7f2371"
+  ],
+  "illustration_id": "e5e6a5b2-a225-49b2-9a07-663f1ae19303",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 683,
+  "penny_rank": 228,
+  "preview": {
+    "source": "MMCast",
+    "source_uri": "https://twitter.com/themmcast/status/1211725939949727745?s=21",
+    "previewed_at": "2019-12-30"
+  },
+  "prices": {
+    "usd": "0.14",
+    "usd_foil": "0.64",
+    "usd_etched": null,
+    "eur": "0.22",
+    "eur_foil": "0.79",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476493&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DField%2Bof%2BRuin",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DField%2Bof%2BRuin",
+    "edhrec": "https://edhrec.com/route/?cc=Field+of+Ruin"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F206646%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=430169&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/79608?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

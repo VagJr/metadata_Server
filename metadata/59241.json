@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "8bfaf199-af57-4889-924f-9ac2257983ac",
+  "oracle_id": "180e1a7e-890d-477c-80a5-da8a5f2857b3",
+  "multiverse_ids": [],
+  "tcgplayer_id": 540695,
+  "name": "Reckless Fireweaver",
+  "lang": "en",
+  "released_at": "2024-02-23",
+  "uri": "https://api.scryfall.com/cards/8bfaf199-af57-4889-924f-9ac2257983ac",
+  "scryfall_uri": "https://scryfall.com/card/sld/1526/reckless-fireweaver?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/b/8bfaf199-af57-4889-924f-9ac2257983ac.jpg?1739789052",
+    "normal": "https://cards.scryfall.io/normal/front/8/b/8bfaf199-af57-4889-924f-9ac2257983ac.jpg?1739789052",
+    "large": "https://cards.scryfall.io/large/front/8/b/8bfaf199-af57-4889-924f-9ac2257983ac.jpg?1739789052",
+    "png": "https://cards.scryfall.io/png/front/8/b/8bfaf199-af57-4889-924f-9ac2257983ac.png?1739789052",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/b/8bfaf199-af57-4889-924f-9ac2257983ac.jpg?1739789052",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/b/8bfaf199-af57-4889-924f-9ac2257983ac.jpg?1739789052"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Creature — Human Artificer",
+  "oracle_text": "Whenever an artifact you control enters, this creature deals 1 damage to each opponent.",
+  "power": "1",
+  "toughness": "3",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8bfaf199-af57-4889-924f-9ac2257983ac/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A180e1a7e-890d-477c-80a5-da8a5f2857b3&unique=prints",
+  "collector_number": "1526",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"FIRST I'LL CONTROL THE DRAGONS' FIRE, THEN I'LL CONTROL THE DRAGONS!\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ricardo Cavolo",
+  "artist_ids": [
+    "40b7bfb7-5f43-4dec-b60d-092a2e0a5b56"
+  ],
+  "illustration_id": "2592a58a-6c53-4dcb-a21b-6318b1e5c03e",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "rainbowfoil"
+  ],
+  "edhrec_rank": 686,
+  "penny_rank": 5234,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.gg/news/magiccon-amsterdam-gathering-beyond-the-horizon",
+    "previewed_at": "2024-02-26"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "11.10",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DReckless%2BFireweaver",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DReckless%2BFireweaver",
+    "edhrec": "https://edhrec.com/route/?cc=Reckless+Fireweaver"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F540695%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Reckless+Fireweaver&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Reckless+Fireweaver&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "c1dd44f1-59b3-4075-b1ca-a8b62b80ddde",
+  "oracle_id": "1093fdb6-bd4f-46a8-92e3-5aa46b52bb4f",
+  "multiverse_ids": [],
+  "mtgo_id": 102223,
+  "name": "Weathered Wayfarer",
+  "lang": "en",
+  "released_at": "2022-09-26",
+  "uri": "https://api.scryfall.com/cards/c1dd44f1-59b3-4075-b1ca-a8b62b80ddde",
+  "scryfall_uri": "https://scryfall.com/card/prm/102223/weathered-wayfarer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/1/c1dd44f1-59b3-4075-b1ca-a8b62b80ddde.jpg?1681136387",
+    "normal": "https://cards.scryfall.io/normal/front/c/1/c1dd44f1-59b3-4075-b1ca-a8b62b80ddde.jpg?1681136387",
+    "large": "https://cards.scryfall.io/large/front/c/1/c1dd44f1-59b3-4075-b1ca-a8b62b80ddde.jpg?1681136387",
+    "png": "https://cards.scryfall.io/png/front/c/1/c1dd44f1-59b3-4075-b1ca-a8b62b80ddde.png?1681136387",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/1/c1dd44f1-59b3-4075-b1ca-a8b62b80ddde.jpg?1681136387",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/1/c1dd44f1-59b3-4075-b1ca-a8b62b80ddde.jpg?1681136387"
+  },
+  "mana_cost": "{W}",
+  "cmc": 1,
+  "type_line": "Creature — Human Nomad Cleric",
+  "oracle_text": "{W}, {T}: Search your library for a land card, reveal it, put it into your hand, then shuffle. Activate only if an opponent controls more lands than you.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c1dd44f1-59b3-4075-b1ca-a8b62b80ddde/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1093fdb6-bd4f-46a8-92e3-5aa46b52bb4f&unique=prints",
+  "collector_number": "102223",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dermot Power",
+  "artist_ids": [
+    "4162c8c0-8ded-497c-b29e-131e43dfae5e"
+  ],
+  "illustration_id": "b4ff4107-e68d-40da-abdd-3889b853f901",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1172,
+  "penny_rank": 3598,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.20"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWeathered%2BWayfarer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWeathered%2BWayfarer",
+    "edhrec": "https://edhrec.com/route/?cc=Weathered+Wayfarer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DWeathered%2BWayfarer%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Weathered+Wayfarer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/102223?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

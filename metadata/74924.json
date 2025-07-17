@@ -1,0 +1,114 @@
+{
+  "object": "card",
+  "id": "b0bf806b-5038-432b-9474-b8cc70fd8df2",
+  "oracle_id": "7573ce9f-fc35-4d20-9b60-c739b8408444",
+  "multiverse_ids": [],
+  "tcgplayer_id": 583140,
+  "name": "Overwhelming Encounter",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/b0bf806b-5038-432b-9474-b8cc70fd8df2",
+  "scryfall_uri": "https://scryfall.com/card/plst/CLB-245/overwhelming-encounter?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/0/b0bf806b-5038-432b-9474-b8cc70fd8df2.jpg?1723434518",
+    "normal": "https://cards.scryfall.io/normal/front/b/0/b0bf806b-5038-432b-9474-b8cc70fd8df2.jpg?1723434518",
+    "large": "https://cards.scryfall.io/large/front/b/0/b0bf806b-5038-432b-9474-b8cc70fd8df2.jpg?1723434518",
+    "png": "https://cards.scryfall.io/png/front/b/0/b0bf806b-5038-432b-9474-b8cc70fd8df2.png?1723434518",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/0/b0bf806b-5038-432b-9474-b8cc70fd8df2.jpg?1723434518",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/0/b0bf806b-5038-432b-9474-b8cc70fd8df2.jpg?1723434518"
+  },
+  "mana_cost": "{3}{G}{G}",
+  "cmc": 5,
+  "type_line": "Sorcery",
+  "oracle_text": "Creatures you control gain vigilance and trample until end of turn. Roll a d20.\n1—9 | Creatures you control get +2/+2 until end of turn.\n10—19 | Put two +1/+1 counters on each creature you control.\n20 | Put four +1/+1 counters on each creature you control.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b0bf806b-5038-432b-9474-b8cc70fd8df2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7573ce9f-fc35-4d20-9b60-c739b8408444&unique=prints",
+  "collector_number": "CLB-245",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Darek Zabrocki",
+  "artist_ids": [
+    "904ed2e7-9850-4472-802f-2657c53dd4d8"
+  ],
+  "illustration_id": "482b4d78-3962-4627-a5ea-2ca0823d8c80",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 9357,
+  "prices": {
+    "usd": "0.16",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOverwhelming%2BEncounter",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOverwhelming%2BEncounter",
+    "edhrec": "https://edhrec.com/route/?cc=Overwhelming+Encounter"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F583140%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Overwhelming+Encounter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Overwhelming+Encounter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

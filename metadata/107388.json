@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "fdf26a2f-376e-4437-b2b4-78f8c512fb13",
+  "oracle_id": "437b2dab-15e0-4b9a-a204-58622d37a3b3",
+  "multiverse_ids": [
+    624415
+  ],
+  "mtgo_id": 113679,
+  "tcgplayer_id": 504955,
+  "cardmarket_id": 723563,
+  "name": "Fact or Fiction",
+  "lang": "en",
+  "released_at": "2023-08-04",
+  "uri": "https://api.scryfall.com/cards/fdf26a2f-376e-4437-b2b4-78f8c512fb13",
+  "scryfall_uri": "https://scryfall.com/card/cmm/631/fact-or-fiction?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/d/fdf26a2f-376e-4437-b2b4-78f8c512fb13.jpg?1690002071",
+    "normal": "https://cards.scryfall.io/normal/front/f/d/fdf26a2f-376e-4437-b2b4-78f8c512fb13.jpg?1690002071",
+    "large": "https://cards.scryfall.io/large/front/f/d/fdf26a2f-376e-4437-b2b4-78f8c512fb13.jpg?1690002071",
+    "png": "https://cards.scryfall.io/png/front/f/d/fdf26a2f-376e-4437-b2b4-78f8c512fb13.png?1690002071",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/d/fdf26a2f-376e-4437-b2b4-78f8c512fb13.jpg?1690002071",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/d/fdf26a2f-376e-4437-b2b4-78f8c512fb13.jpg?1690002071"
+  },
+  "mana_cost": "{3}{U}",
+  "cmc": 4,
+  "type_line": "Instant",
+  "oracle_text": "Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set": "cmm",
+  "set_name": "Commander Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/fdf26a2f-376e-4437-b2b4-78f8c512fb13/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A437b2dab-15e0-4b9a-a204-58622d37a3b3&unique=prints",
+  "collector_number": "631",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Does this choice really seem so simple, syr knight?\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Richard Kane Ferguson",
+  "artist_ids": [
+    "191620ed-2361-444e-96a6-1fe7ce32ef3b"
+  ],
+  "illustration_id": "44eabf27-61e2-4364-9c12-a50b538a7c0c",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 487,
+  "penny_rank": 90,
+  "prices": {
+    "usd": "0.29",
+    "usd_foil": "0.48",
+    "usd_etched": null,
+    "eur": "0.27",
+    "eur_foil": "0.79",
+    "tix": "0.26"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=624415&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFact%2Bor%2BFiction",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFact%2Bor%2BFiction",
+    "edhrec": "https://edhrec.com/route/?cc=Fact+or+Fiction"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F504955%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=723563&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/113679?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

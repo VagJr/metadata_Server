@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "b63ca355-d66d-4259-8d6e-34ec2ba71e6e",
+  "oracle_id": "1f570526-7fb0-4fe5-8014-b5793eb65f87",
+  "multiverse_ids": [],
+  "tcgplayer_id": 492055,
+  "cardmarket_id": 710731,
+  "name": "Strangle",
+  "lang": "en",
+  "released_at": "2023-05-13",
+  "uri": "https://api.scryfall.com/cards/b63ca355-d66d-4259-8d6e-34ec2ba71e6e",
+  "scryfall_uri": "https://scryfall.com/card/sch/10/strangle?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/6/b63ca355-d66d-4259-8d6e-34ec2ba71e6e.jpg?1681612427",
+    "normal": "https://cards.scryfall.io/normal/front/b/6/b63ca355-d66d-4259-8d6e-34ec2ba71e6e.jpg?1681612427",
+    "large": "https://cards.scryfall.io/large/front/b/6/b63ca355-d66d-4259-8d6e-34ec2ba71e6e.jpg?1681612427",
+    "png": "https://cards.scryfall.io/png/front/b/6/b63ca355-d66d-4259-8d6e-34ec2ba71e6e.png?1681612427",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/6/b63ca355-d66d-4259-8d6e-34ec2ba71e6e.jpg?1681612427",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/6/b63ca355-d66d-4259-8d6e-34ec2ba71e6e.jpg?1681612427"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1,
+  "type_line": "Sorcery",
+  "oracle_text": "Strangle deals 3 damage to target creature or planeswalker.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "211b56b9-961e-4eab-8245-a2f52dd9af47",
+  "set": "sch",
+  "set_name": "Store Championships",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/211b56b9-961e-4eab-8245-a2f52dd9af47",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asch&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sch?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b63ca355-d66d-4259-8d6e-34ec2ba71e6e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1f570526-7fb0-4fe5-8014-b5793eb65f87&unique=prints",
+  "collector_number": "10",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Sidharth Chaturvedi",
+  "artist_ids": [
+    "55e6d846-2f73-4fba-9b88-441686bb8dcb"
+  ],
+  "illustration_id": "cb6684ea-ff54-4502-acbe-ef5984f3cd65",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "storechampionship"
+  ],
+  "edhrec_rank": 11571,
+  "penny_rank": 2488,
+  "prices": {
+    "usd": "0.27",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.08",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DStrangle",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DStrangle",
+    "edhrec": "https://edhrec.com/route/?cc=Strangle"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F492055%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=710731&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Strangle&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "object": "card",
+  "id": "6914d43c-bc5a-47c5-a01c-59ddb1ee8eca",
+  "oracle_id": "2d584333-b25e-4291-a2c9-80c6d9f8732a",
+  "multiverse_ids": [
+    464131
+  ],
+  "mtgo_id": 72736,
+  "tcgplayer_id": 190934,
+  "cardmarket_id": 374637,
+  "name": "Squirrel Nest",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/6914d43c-bc5a-47c5-a01c-59ddb1ee8eca",
+  "scryfall_uri": "https://scryfall.com/card/mh1/182/squirrel-nest?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/9/6914d43c-bc5a-47c5-a01c-59ddb1ee8eca.jpg?1562202205",
+    "normal": "https://cards.scryfall.io/normal/front/6/9/6914d43c-bc5a-47c5-a01c-59ddb1ee8eca.jpg?1562202205",
+    "large": "https://cards.scryfall.io/large/front/6/9/6914d43c-bc5a-47c5-a01c-59ddb1ee8eca.jpg?1562202205",
+    "png": "https://cards.scryfall.io/png/front/6/9/6914d43c-bc5a-47c5-a01c-59ddb1ee8eca.png?1562202205",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/9/6914d43c-bc5a-47c5-a01c-59ddb1ee8eca.jpg?1562202205",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/9/6914d43c-bc5a-47c5-a01c-59ddb1ee8eca.jpg?1562202205"
+  },
+  "mana_cost": "{1}{G}{G}",
+  "cmc": 3,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant land\nEnchanted land has \"{T}: Create a 1/1 green Squirrel creature token.\"",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6914d43c-bc5a-47c5-a01c-59ddb1ee8eca",
+      "component": "combo_piece",
+      "name": "Squirrel Nest",
+      "type_line": "Enchantment — Aura",
+      "uri": "https://api.scryfall.com/cards/6914d43c-bc5a-47c5-a01c-59ddb1ee8eca"
+    },
+    {
+      "object": "related_card",
+      "id": "7b997fe7-69f3-4ccd-b3a7-ef5e0cb7db46",
+      "component": "token",
+      "name": "Squirrel",
+      "type_line": "Token Creature — Squirrel",
+      "uri": "https://api.scryfall.com/cards/7b997fe7-69f3-4ccd-b3a7-ef5e0cb7db46"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6914d43c-bc5a-47c5-a01c-59ddb1ee8eca/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2d584333-b25e-4291-a2c9-80c6d9f8732a&unique=prints",
+  "collector_number": "182",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "In the treetops, unseen by many, lurks chittering, skittering death.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daniel Ljunggren",
+  "artist_ids": [
+    "0fbd4798-76eb-46d5-a5d4-1e3a25870e34"
+  ],
+  "illustration_id": "d02bbd65-e2ab-4e7d-9648-1ebfe5027424",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3314,
+  "penny_rank": 7579,
+  "preview": {
+    "source": "Eric Froehlich",
+    "source_uri": "https://twitter.com/efropoker/status/1131354076053008384",
+    "previewed_at": "2019-05-22"
+  },
+  "prices": {
+    "usd": "0.16",
+    "usd_foil": "0.65",
+    "usd_etched": null,
+    "eur": "0.15",
+    "eur_foil": "0.65",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464131&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSquirrel%2BNest",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSquirrel%2BNest",
+    "edhrec": "https://edhrec.com/route/?cc=Squirrel+Nest"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F190934%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=374637&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72736?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

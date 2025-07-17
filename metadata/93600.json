@@ -1,0 +1,161 @@
+{
+  "object": "card",
+  "id": "dd04367b-59d8-4ee6-8b5a-abfb1373c226",
+  "oracle_id": "94e8b0a9-44a1-4dce-8d44-78681ae638a1",
+  "multiverse_ids": [
+    668875
+  ],
+  "mtgo_id": 129123,
+  "tcgplayer_id": 559628,
+  "cardmarket_id": 778573,
+  "name": "Fountainport",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/dd04367b-59d8-4ee6-8b5a-abfb1373c226",
+  "scryfall_uri": "https://scryfall.com/card/blb/368/fountainport?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/d/dd04367b-59d8-4ee6-8b5a-abfb1373c226.jpg?1721427974",
+    "normal": "https://cards.scryfall.io/normal/front/d/d/dd04367b-59d8-4ee6-8b5a-abfb1373c226.jpg?1721427974",
+    "large": "https://cards.scryfall.io/large/front/d/d/dd04367b-59d8-4ee6-8b5a-abfb1373c226.jpg?1721427974",
+    "png": "https://cards.scryfall.io/png/front/d/d/dd04367b-59d8-4ee6-8b5a-abfb1373c226.png?1721427974",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/d/dd04367b-59d8-4ee6-8b5a-abfb1373c226.jpg?1721427974",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/d/dd04367b-59d8-4ee6-8b5a-abfb1373c226.jpg?1721427974"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "{T}: Add {C}.\n{2}, {T}, Sacrifice a token: Draw a card.\n{3}, {T}, Pay 1 life: Create a 1/1 blue Fish creature token.\n{4}, {T}: Create a Treasure token.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Treasure"
+  ],
+  "produced_mana": [
+    "C"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "ff0357fb-d90c-49c7-b16a-8b52ac686c3b",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/ff0357fb-d90c-49c7-b16a-8b52ac686c3b"
+    },
+    {
+      "object": "related_card",
+      "id": "dd04367b-59d8-4ee6-8b5a-abfb1373c226",
+      "component": "combo_piece",
+      "name": "Fountainport",
+      "type_line": "Land",
+      "uri": "https://api.scryfall.com/cards/dd04367b-59d8-4ee6-8b5a-abfb1373c226"
+    },
+    {
+      "object": "related_card",
+      "id": "de0d6700-49f0-4233-97ba-cef7821c30ed",
+      "component": "token",
+      "name": "Fish",
+      "type_line": "Token Creature — Fish",
+      "uri": "https://api.scryfall.com/cards/de0d6700-49f0-4233-97ba-cef7821c30ed"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a2f58272-bba6-439d-871e-7a46686ac018",
+  "set": "blb",
+  "set_name": "Bloomburrow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/a2f58272-bba6-439d-871e-7a46686ac018",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/blb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/dd04367b-59d8-4ee6-8b5a-abfb1373c226/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A94e8b0a9-44a1-4dce-8d44-78681ae638a1&unique=prints",
+  "collector_number": "368",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Leon Tukker",
+  "artist_ids": [
+    "669b8b90-758d-4f9e-b4f7-98cd6742eb97"
+  ],
+  "illustration_id": "f1154003-ac02-42a4-9827-29483935ecf9",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 1422,
+  "preview": {
+    "source": "Rapsolo",
+    "source_uri": "https://twitter.com/RapsoloM/status/1813274426122600899",
+    "previewed_at": "2024-07-17"
+  },
+  "prices": {
+    "usd": "3.27",
+    "usd_foil": "5.10",
+    "usd_etched": null,
+    "eur": "6.81",
+    "eur_foil": "7.55",
+    "tix": "1.54"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=668875&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFountainport",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFountainport",
+    "edhrec": "https://edhrec.com/route/?cc=Fountainport"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F559628%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=778573&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/129123?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "object": "card",
+  "id": "2e60dac4-cafa-4a8d-9185-7a64f7520c62",
+  "oracle_id": "788897f5-d49d-4294-8006-0009a3124ad0",
+  "multiverse_ids": [
+    574370
+  ],
+  "arena_id": 81747,
+  "name": "Gray Slaad // Entropic Decay",
+  "lang": "en",
+  "released_at": "2022-07-07",
+  "uri": "https://api.scryfall.com/cards/2e60dac4-cafa-4a8d-9185-7a64f7520c62",
+  "scryfall_uri": "https://scryfall.com/card/hbg/156/gray-slaad-entropic-decay?utm_source=api",
+  "layout": "adventure",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/e/2e60dac4-cafa-4a8d-9185-7a64f7520c62.jpg?1681000090",
+    "normal": "https://cards.scryfall.io/normal/front/2/e/2e60dac4-cafa-4a8d-9185-7a64f7520c62.jpg?1681000090",
+    "large": "https://cards.scryfall.io/large/front/2/e/2e60dac4-cafa-4a8d-9185-7a64f7520c62.jpg?1681000090",
+    "png": "https://cards.scryfall.io/png/front/2/e/2e60dac4-cafa-4a8d-9185-7a64f7520c62.png?1681000090",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/e/2e60dac4-cafa-4a8d-9185-7a64f7520c62.jpg?1681000090",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/e/2e60dac4-cafa-4a8d-9185-7a64f7520c62.jpg?1681000090"
+  },
+  "mana_cost": "{2}{B} // {1}{B}",
+  "cmc": 3,
+  "type_line": "Creature — Frog Horror // Sorcery — Adventure",
+  "power": "4",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Gray Slaad",
+      "mana_cost": "{2}{B}",
+      "type_line": "Creature — Frog Horror",
+      "oracle_text": "As long as there are four or more creature cards in your graveyard, this creature has menace and deathtouch.",
+      "power": "4",
+      "toughness": "1",
+      "artist": "Piotr Foksowicz",
+      "artist_id": "56e839e4-8f89-4fde-895e-61a740af38cb",
+      "illustration_id": "2cb586f6-d045-4032-bc62-5290771831bf"
+    },
+    {
+      "object": "card_face",
+      "name": "Entropic Decay",
+      "mana_cost": "{1}{B}",
+      "type_line": "Sorcery — Adventure",
+      "oracle_text": "Mill four cards. (Then exile this card. You may cast the creature later from exile.)",
+      "artist": "Piotr Foksowicz",
+      "artist_id": "56e839e4-8f89-4fde-895e-61a740af38cb"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "fcf4c7fb-7859-4c11-8552-6817f5119d2e",
+      "component": "combo_piece",
+      "name": "On an Adventure",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/fcf4c7fb-7859-4c11-8552-6817f5119d2e"
+    },
+    {
+      "object": "related_card",
+      "id": "2e60dac4-cafa-4a8d-9185-7a64f7520c62",
+      "component": "combo_piece",
+      "name": "Gray Slaad // Entropic Decay",
+      "type_line": "Creature — Frog Horror // Sorcery — Adventure",
+      "uri": "https://api.scryfall.com/cards/2e60dac4-cafa-4a8d-9185-7a64f7520c62"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "35528ede-7870-4598-a2ee-7f3d6464a74b",
+  "set": "hbg",
+  "set_name": "Alchemy Horizons: Baldur's Gate",
+  "set_type": "alchemy",
+  "set_uri": "https://api.scryfall.com/sets/35528ede-7870-4598-a2ee-7f3d6464a74b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahbg&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/hbg?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2e60dac4-cafa-4a8d-9185-7a64f7520c62/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A788897f5-d49d-4294-8006-0009a3124ad0&unique=prints",
+  "collector_number": "156",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Piotr Foksowicz",
+  "artist_ids": [
+    "56e839e4-8f89-4fde-895e-61a740af38cb"
+  ],
+  "illustration_id": "2cb586f6-d045-4032-bc62-5290771831bf",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 14223,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574370&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGray%2BSlaad%2B%252F%252F%2BEntropic%2BDecay",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGray%2BSlaad%2B%252F%252F%2BEntropic%2BDecay",
+    "edhrec": "https://edhrec.com/route/?cc=Gray+Slaad"
+  }
+}

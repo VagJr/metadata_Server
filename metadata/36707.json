@@ -1,0 +1,302 @@
+{
+  "object": "card",
+  "id": "56d196ad-4acf-4241-bc7a-dc8ec3a38498",
+  "oracle_id": "ffbc4833-01db-45f8-b8b4-c2e2c8235d0c",
+  "multiverse_ids": [],
+  "name": "Citizen",
+  "lang": "en",
+  "released_at": "2024-01-25",
+  "uri": "https://api.scryfall.com/cards/56d196ad-4acf-4241-bc7a-dc8ec3a38498",
+  "scryfall_uri": "https://scryfall.com/card/plst/TSNC-12/citizen?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/6/56d196ad-4acf-4241-bc7a-dc8ec3a38498.jpg?1706827543",
+    "normal": "https://cards.scryfall.io/normal/front/5/6/56d196ad-4acf-4241-bc7a-dc8ec3a38498.jpg?1706827543",
+    "large": "https://cards.scryfall.io/large/front/5/6/56d196ad-4acf-4241-bc7a-dc8ec3a38498.jpg?1706827543",
+    "png": "https://cards.scryfall.io/png/front/5/6/56d196ad-4acf-4241-bc7a-dc8ec3a38498.png?1706827543",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/6/56d196ad-4acf-4241-bc7a-dc8ec3a38498.jpg?1706827543",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/6/56d196ad-4acf-4241-bc7a-dc8ec3a38498.jpg?1706827543"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Citizen",
+  "oracle_text": "",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "4960fa74-c0bf-4f1d-82a7-d5da5aa3e00a",
+      "component": "combo_piece",
+      "name": "Courier's Briefcase",
+      "type_line": "Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/4960fa74-c0bf-4f1d-82a7-d5da5aa3e00a"
+    },
+    {
+      "object": "related_card",
+      "id": "262c9e86-2fdd-4f44-a90e-18155fbcb7a8",
+      "component": "combo_piece",
+      "name": "Master of Ceremonies",
+      "type_line": "Creature — Rhino Druid",
+      "uri": "https://api.scryfall.com/cards/262c9e86-2fdd-4f44-a90e-18155fbcb7a8"
+    },
+    {
+      "object": "related_card",
+      "id": "d8c92baa-3fda-43ee-84bf-d769945e6992",
+      "component": "combo_piece",
+      "name": "Rope Line Attendant",
+      "type_line": "Creature — Cat Citizen",
+      "uri": "https://api.scryfall.com/cards/d8c92baa-3fda-43ee-84bf-d769945e6992"
+    },
+    {
+      "object": "related_card",
+      "id": "118284e0-6b88-4584-9d2a-08cb392a6b46",
+      "component": "combo_piece",
+      "name": "Rabble Rousing",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/118284e0-6b88-4584-9d2a-08cb392a6b46"
+    },
+    {
+      "object": "related_card",
+      "id": "90ad88c2-561d-4c40-ba9b-d89f43142498",
+      "component": "combo_piece",
+      "name": "Halo Fountain",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/90ad88c2-561d-4c40-ba9b-d89f43142498"
+    },
+    {
+      "object": "related_card",
+      "id": "6ce4e34d-cf32-48ab-8554-caa0518ab1fb",
+      "component": "combo_piece",
+      "name": "Cabaretti Charm",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/6ce4e34d-cf32-48ab-8554-caa0518ab1fb"
+    },
+    {
+      "object": "related_card",
+      "id": "bad9e58e-c9a3-4a0d-9a59-71c20a3275b6",
+      "component": "combo_piece",
+      "name": "Warm Welcome",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/bad9e58e-c9a3-4a0d-9a59-71c20a3275b6"
+    },
+    {
+      "object": "related_card",
+      "id": "eaa19c7d-4ad7-4299-a54b-d76d36fbe3f8",
+      "component": "combo_piece",
+      "name": "Boss's Chauffeur",
+      "type_line": "Creature — Elf Citizen",
+      "uri": "https://api.scryfall.com/cards/eaa19c7d-4ad7-4299-a54b-d76d36fbe3f8"
+    },
+    {
+      "object": "related_card",
+      "id": "b68896f5-1e13-400a-a327-b6c6f00858b7",
+      "component": "combo_piece",
+      "name": "Citizen's Crowbar",
+      "type_line": "Artifact — Equipment",
+      "uri": "https://api.scryfall.com/cards/b68896f5-1e13-400a-a327-b6c6f00858b7"
+    },
+    {
+      "object": "related_card",
+      "id": "b04ddd08-b1eb-4100-b0a2-62bee5d89c20",
+      "component": "combo_piece",
+      "name": "Phabine, Boss's Confidant",
+      "type_line": "Legendary Creature — Cat Advisor",
+      "uri": "https://api.scryfall.com/cards/b04ddd08-b1eb-4100-b0a2-62bee5d89c20"
+    },
+    {
+      "object": "related_card",
+      "id": "bf22288f-4fd4-45d4-9fcc-08aeba4d93a7",
+      "component": "combo_piece",
+      "name": "Sanctuary Warden",
+      "type_line": "Creature — Angel Soldier",
+      "uri": "https://api.scryfall.com/cards/bf22288f-4fd4-45d4-9fcc-08aeba4d93a7"
+    },
+    {
+      "object": "related_card",
+      "id": "cbb4479f-3157-44b4-b18b-7553c7513118",
+      "component": "combo_piece",
+      "name": "Exhibition Magician",
+      "type_line": "Creature — Human Wizard",
+      "uri": "https://api.scryfall.com/cards/cbb4479f-3157-44b4-b18b-7553c7513118"
+    },
+    {
+      "object": "related_card",
+      "id": "4be3c9b0-88fa-441a-a61d-ba7e00760117",
+      "component": "combo_piece",
+      "name": "Rakish Revelers",
+      "type_line": "Creature — Elf Druid Rogue",
+      "uri": "https://api.scryfall.com/cards/4be3c9b0-88fa-441a-a61d-ba7e00760117"
+    },
+    {
+      "object": "related_card",
+      "id": "52aa9815-6b47-4c80-87c7-4277166ea0df",
+      "component": "combo_piece",
+      "name": "Darling of the Masses",
+      "type_line": "Creature — Elf Citizen",
+      "uri": "https://api.scryfall.com/cards/52aa9815-6b47-4c80-87c7-4277166ea0df"
+    },
+    {
+      "object": "related_card",
+      "id": "183d29ca-dee2-4229-a235-43c29840d149",
+      "component": "combo_piece",
+      "name": "Prosperous Partnership",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/183d29ca-dee2-4229-a235-43c29840d149"
+    },
+    {
+      "object": "related_card",
+      "id": "b3e0e818-db6a-453a-a1f0-a7fade6509d3",
+      "component": "combo_piece",
+      "name": "Luxurious Libation",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/b3e0e818-db6a-453a-a1f0-a7fade6509d3"
+    },
+    {
+      "object": "related_card",
+      "id": "a373c602-13e9-4184-bdc0-47469d271169",
+      "component": "combo_piece",
+      "name": "Indulge // Excess",
+      "type_line": "Sorcery // Sorcery",
+      "uri": "https://api.scryfall.com/cards/a373c602-13e9-4184-bdc0-47469d271169"
+    },
+    {
+      "object": "related_card",
+      "id": "82862454-5edc-421c-9078-bee0337fa827",
+      "component": "combo_piece",
+      "name": "Kitt Kanto, Mayhem Diva",
+      "type_line": "Legendary Creature — Cat Bard Druid",
+      "uri": "https://api.scryfall.com/cards/82862454-5edc-421c-9078-bee0337fa827"
+    },
+    {
+      "object": "related_card",
+      "id": "cee6e26a-dd10-488c-b0d7-f7694a1ed0c4",
+      "component": "combo_piece",
+      "name": "Scepter of Celebration",
+      "type_line": "Artifact — Equipment",
+      "uri": "https://api.scryfall.com/cards/cee6e26a-dd10-488c-b0d7-f7694a1ed0c4"
+    },
+    {
+      "object": "related_card",
+      "id": "ecbe7459-8613-4ab8-84dc-deab19c08511",
+      "component": "combo_piece",
+      "name": "Stimulus Package",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/ecbe7459-8613-4ab8-84dc-deab19c08511"
+    },
+    {
+      "object": "related_card",
+      "id": "1a485510-6a19-4c16-bd41-551204818624",
+      "component": "combo_piece",
+      "name": "Grand Crescendo",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/1a485510-6a19-4c16-bd41-551204818624"
+    },
+    {
+      "object": "related_card",
+      "id": "771257d2-64be-4a61-9eae-d1a98b14a63f",
+      "component": "combo_piece",
+      "name": "Caldaia Guardian",
+      "type_line": "Creature — Human Soldier",
+      "uri": "https://api.scryfall.com/cards/771257d2-64be-4a61-9eae-d1a98b14a63f"
+    },
+    {
+      "object": "related_card",
+      "id": "56d196ad-4acf-4241-bc7a-dc8ec3a38498",
+      "component": "token",
+      "name": "Citizen",
+      "type_line": "Token Creature — Citizen",
+      "uri": "https://api.scryfall.com/cards/56d196ad-4acf-4241-bc7a-dc8ec3a38498"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/56d196ad-4acf-4241-bc7a-dc8ec3a38498/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Affbc4833-01db-45f8-b8b4-c2e2c8235d0c&unique=prints",
+  "collector_number": "TSNC-12",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Maria Poliakova",
+  "artist_ids": [
+    "c136266d-67bb-44fa-ad13-8556efd9caec"
+  ],
+  "illustration_id": "fef46beb-41df-4542-86f7-bc49dc4c514a",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCitizen",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCitizen",
+    "edhrec": "https://edhrec.com/route/?cc=Citizen"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DCitizen%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Citizen&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Citizen&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

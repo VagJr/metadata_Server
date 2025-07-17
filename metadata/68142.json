@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "a1091e0e-a179-4241-8be0-ea92d86f4c08",
+  "oracle_id": "52241b9c-7a69-4176-9234-8bdab09d8e64",
+  "multiverse_ids": [
+    681098
+  ],
+  "mtgo_id": 132704,
+  "arena_id": 93576,
+  "tcgplayer_id": 590390,
+  "cardmarket_id": 795484,
+  "name": "Sai, Master Thopterist",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/a1091e0e-a179-4241-8be0-ea92d86f4c08",
+  "scryfall_uri": "https://scryfall.com/card/j25/63/sai-master-thopterist?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/1/a1091e0e-a179-4241-8be0-ea92d86f4c08.jpg?1730485931",
+    "normal": "https://cards.scryfall.io/normal/front/a/1/a1091e0e-a179-4241-8be0-ea92d86f4c08.jpg?1730485931",
+    "large": "https://cards.scryfall.io/large/front/a/1/a1091e0e-a179-4241-8be0-ea92d86f4c08.jpg?1730485931",
+    "png": "https://cards.scryfall.io/png/front/a/1/a1091e0e-a179-4241-8be0-ea92d86f4c08.png?1730485931",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/1/a1091e0e-a179-4241-8be0-ea92d86f4c08.jpg?1730485931",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/1/a1091e0e-a179-4241-8be0-ea92d86f4c08.jpg?1730485931"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Human Artificer",
+  "oracle_text": "Whenever you cast an artifact spell, create a 1/1 colorless Thopter artifact creature token with flying.\n{1}{U}, Sacrifice two artifacts: Draw a card.",
+  "power": "1",
+  "toughness": "4",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a1091e0e-a179-4241-8be0-ea92d86f4c08",
+      "component": "combo_piece",
+      "name": "Sai, Master Thopterist",
+      "type_line": "Legendary Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/a1091e0e-a179-4241-8be0-ea92d86f4c08"
+    },
+    {
+      "object": "related_card",
+      "id": "8a508e59-92e1-47e4-948a-5237df162dbb",
+      "component": "token",
+      "name": "Thopter",
+      "type_line": "Token Artifact Creature — Thopter",
+      "uri": "https://api.scryfall.com/cards/8a508e59-92e1-47e4-948a-5237df162dbb"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9201567c-bab5-4720-aac9-260e6741f115",
+  "set": "j25",
+  "set_name": "Foundations Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/9201567c-bab5-4720-aac9-260e6741f115",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj25&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j25?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a1091e0e-a179-4241-8be0-ea92d86f4c08/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A52241b9c-7a69-4176-9234-8bdab09d8e64&unique=prints",
+  "collector_number": "63",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Do not mistake complexity for brilliance. It takes a master to perfect a simple design.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dai-XT",
+  "artist_ids": [
+    "a246fdc4-7eee-44a9-92b2-d4be1715c987"
+  ],
+  "illustration_id": "174ad011-24bf-4e45-9cf4-12f7b26303e6",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 801,
+  "penny_rank": 2655,
+  "prices": {
+    "usd": "0.36",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.43",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=681098&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSai%252C%2BMaster%2BThopterist",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSai%252C%2BMaster%2BThopterist",
+    "edhrec": "https://edhrec.com/route/?cc=Sai%2C+Master+Thopterist"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F590390%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=795484&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/132704?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

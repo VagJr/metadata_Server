@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "a9814393-05f0-4b99-a599-0c62f0dc9c1d",
+  "oracle_id": "a34b7416-cfe3-4a1e-a8c1-a3056b747519",
+  "multiverse_ids": [],
+  "tcgplayer_id": 204705,
+  "cardmarket_id": 420301,
+  "name": "Kiki-Jiki, Mirror Breaker",
+  "lang": "en",
+  "released_at": "2019-11-07",
+  "uri": "https://api.scryfall.com/cards/a9814393-05f0-4b99-a599-0c62f0dc9c1d",
+  "scryfall_uri": "https://scryfall.com/card/plst/MM2-121/kiki-jiki-mirror-breaker?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/9/a9814393-05f0-4b99-a599-0c62f0dc9c1d.jpg?1643941237",
+    "normal": "https://cards.scryfall.io/normal/front/a/9/a9814393-05f0-4b99-a599-0c62f0dc9c1d.jpg?1643941237",
+    "large": "https://cards.scryfall.io/large/front/a/9/a9814393-05f0-4b99-a599-0c62f0dc9c1d.jpg?1643941237",
+    "png": "https://cards.scryfall.io/png/front/a/9/a9814393-05f0-4b99-a599-0c62f0dc9c1d.png?1643941237",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/9/a9814393-05f0-4b99-a599-0c62f0dc9c1d.jpg?1643941237",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/9/a9814393-05f0-4b99-a599-0c62f0dc9c1d.jpg?1643941237"
+  },
+  "mana_cost": "{2}{R}{R}{R}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Goblin Shaman",
+  "oracle_text": "Haste\n{T}: Create a token that's a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Haste"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "00560d67-5299-4681-952b-d153d82bedaf",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/00560d67-5299-4681-952b-d153d82bedaf"
+    },
+    {
+      "object": "related_card",
+      "id": "e30104b1-5ba7-42aa-944a-499ab53cf1c8",
+      "component": "combo_piece",
+      "name": "Kiki-Jiki, Mirror Breaker",
+      "type_line": "Legendary Creature — Goblin Shaman",
+      "uri": "https://api.scryfall.com/cards/e30104b1-5ba7-42aa-944a-499ab53cf1c8"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a9814393-05f0-4b99-a599-0c62f0dc9c1d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa34b7416-cfe3-4a1e-a8c1-a3056b747519&unique=prints",
+  "collector_number": "MM2-121",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steven Belledin",
+  "artist_ids": [
+    "f07d73b9-52a0-4fe5-858b-61f7b42174a5"
+  ],
+  "illustration_id": "203931d3-6a4b-4440-97ee-aee4f236934b",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 982,
+  "penny_rank": 226,
+  "prices": {
+    "usd": "8.96",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "6.50",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKiki-Jiki%252C%2BMirror%2BBreaker",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKiki-Jiki%252C%2BMirror%2BBreaker",
+    "edhrec": "https://edhrec.com/route/?cc=Kiki-Jiki%2C+Mirror+Breaker"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F204705%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=420301&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kiki-Jiki%2C+Mirror+Breaker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

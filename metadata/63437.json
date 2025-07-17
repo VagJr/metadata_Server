@@ -1,0 +1,153 @@
+{
+  "object": "card",
+  "id": "961bb827-f13a-417d-8284-5cd2aac3d034",
+  "oracle_id": "7ca99e2f-faf2-4301-a0ae-7cb880ba965b",
+  "multiverse_ids": [
+    495153
+  ],
+  "arena_id": 74695,
+  "tcgplayer_id": 221450,
+  "cardmarket_id": 492944,
+  "name": "Jace, Mirror Mage",
+  "lang": "en",
+  "released_at": "2020-09-25",
+  "uri": "https://api.scryfall.com/cards/961bb827-f13a-417d-8284-5cd2aac3d034",
+  "scryfall_uri": "https://scryfall.com/card/znr/281/jace-mirror-mage?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/6/961bb827-f13a-417d-8284-5cd2aac3d034.jpg?1603334422",
+    "normal": "https://cards.scryfall.io/normal/front/9/6/961bb827-f13a-417d-8284-5cd2aac3d034.jpg?1603334422",
+    "large": "https://cards.scryfall.io/large/front/9/6/961bb827-f13a-417d-8284-5cd2aac3d034.jpg?1603334422",
+    "png": "https://cards.scryfall.io/png/front/9/6/961bb827-f13a-417d-8284-5cd2aac3d034.png?1603334422",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/6/961bb827-f13a-417d-8284-5cd2aac3d034.jpg?1603334422",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/6/961bb827-f13a-417d-8284-5cd2aac3d034.jpg?1603334422"
+  },
+  "mana_cost": "{1}{U}{U}",
+  "cmc": 3,
+  "type_line": "Legendary Planeswalker — Jace",
+  "oracle_text": "Kicker {2}\nWhen Jace enters, if Jace was kicked, create a token that's a copy of Jace, except it's not legendary and its starting loyalty is 1.\n+1: Scry 2.\n0: Draw a card and reveal it. Remove a number of loyalty counters equal to that card's mana value from Jace.",
+  "loyalty": "4",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Scry",
+    "Kicker"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "961bb827-f13a-417d-8284-5cd2aac3d034",
+      "component": "combo_piece",
+      "name": "Jace, Mirror Mage",
+      "type_line": "Legendary Planeswalker — Jace",
+      "uri": "https://api.scryfall.com/cards/961bb827-f13a-417d-8284-5cd2aac3d034"
+    },
+    {
+      "object": "related_card",
+      "id": "06f62ebf-1600-4eaa-a998-3fd7d1ea2f65",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/06f62ebf-1600-4eaa-a998-3fd7d1ea2f65"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "f4e01fa7-b254-42dd-849f-69b58027a8c4",
+  "set": "znr",
+  "set_name": "Zendikar Rising",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/f4e01fa7-b254-42dd-849f-69b58027a8c4",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aznr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/znr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/961bb827-f13a-417d-8284-5cd2aac3d034/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7ca99e2f-faf2-4301-a0ae-7cb880ba965b&unique=prints",
+  "collector_number": "281",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "David Rapoza",
+  "artist_ids": [
+    "c5a2318d-5d04-499f-b121-57dee5a9dfe6"
+  ],
+  "illustration_id": "11ff29e4-7e73-4540-b361-a25d4663e6bc",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 6015,
+  "penny_rank": 5130,
+  "preview": {
+    "source": "Jimmy Wong",
+    "source_uri": "https://twitter.com/jfwong/status/1298666522811019264",
+    "previewed_at": "2020-08-26"
+  },
+  "prices": {
+    "usd": "0.41",
+    "usd_foil": "1.09",
+    "usd_etched": null,
+    "eur": "0.44",
+    "eur_foil": "1.20",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495153&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJace%252C%2BMirror%2BMage",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJace%252C%2BMirror%2BMage",
+    "edhrec": "https://edhrec.com/route/?cc=Jace%2C+Mirror+Mage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F221450%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=492944&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jace%2C+Mirror+Mage&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "object": "card",
+  "id": "95a9d11a-ecf0-471e-9dc3-a5baa6725044",
+  "oracle_id": "7af69a44-e958-42e5-9d65-75e53a601e96",
+  "multiverse_ids": [
+    639268
+  ],
+  "mtgo_id": 117692,
+  "tcgplayer_id": 524217,
+  "cardmarket_id": 740911,
+  "name": "Kellan, Daring Traveler // Journey On",
+  "lang": "en",
+  "released_at": "2023-11-17",
+  "uri": "https://api.scryfall.com/cards/95a9d11a-ecf0-471e-9dc3-a5baa6725044",
+  "scryfall_uri": "https://scryfall.com/card/lci/341/kellan-daring-traveler-journey-on?utm_source=api",
+  "layout": "adventure",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/5/95a9d11a-ecf0-471e-9dc3-a5baa6725044.jpg?1699100800",
+    "normal": "https://cards.scryfall.io/normal/front/9/5/95a9d11a-ecf0-471e-9dc3-a5baa6725044.jpg?1699100800",
+    "large": "https://cards.scryfall.io/large/front/9/5/95a9d11a-ecf0-471e-9dc3-a5baa6725044.jpg?1699100800",
+    "png": "https://cards.scryfall.io/png/front/9/5/95a9d11a-ecf0-471e-9dc3-a5baa6725044.png?1699100800",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/5/95a9d11a-ecf0-471e-9dc3-a5baa6725044.jpg?1699100800",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/5/95a9d11a-ecf0-471e-9dc3-a5baa6725044.jpg?1699100800"
+  },
+  "mana_cost": "{1}{W} // {G}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Human Faerie Scout // Sorcery — Adventure",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Kellan, Daring Traveler",
+      "mana_cost": "{1}{W}",
+      "type_line": "Legendary Creature — Human Faerie Scout",
+      "oracle_text": "Whenever Kellan attacks, reveal the top card of your library. If it's a creature card with mana value 3 or less, put it into your hand. Otherwise, you may put it into your graveyard.",
+      "power": "2",
+      "toughness": "3",
+      "artist": "Jorge Gutierrez Garcia",
+      "artist_id": "56d48550-8b3a-4e35-91ac-3f7d2a0daaa4",
+      "illustration_id": "82084a26-1eff-41df-9a86-5a7d35b9275e"
+    },
+    {
+      "object": "card_face",
+      "name": "Journey On",
+      "mana_cost": "{G}",
+      "type_line": "Sorcery — Adventure",
+      "oracle_text": "Create X Map tokens, where X is one plus the number of opponents who control an artifact. (Then exile this card. You may cast the creature later from exile.)",
+      "artist": "Jorge Gutierrez Garcia",
+      "artist_id": "56d48550-8b3a-4e35-91ac-3f7d2a0daaa4"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "fcf4c7fb-7859-4c11-8552-6817f5119d2e",
+      "component": "combo_piece",
+      "name": "On an Adventure",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/fcf4c7fb-7859-4c11-8552-6817f5119d2e"
+    },
+    {
+      "object": "related_card",
+      "id": "95a9d11a-ecf0-471e-9dc3-a5baa6725044",
+      "component": "combo_piece",
+      "name": "Kellan, Daring Traveler // Journey On",
+      "type_line": "Legendary Creature — Human Faerie Scout // Sorcery — Adventure",
+      "uri": "https://api.scryfall.com/cards/95a9d11a-ecf0-471e-9dc3-a5baa6725044"
+    },
+    {
+      "object": "related_card",
+      "id": "64839118-09d2-4645-9d3c-f80755ac781f",
+      "component": "token",
+      "name": "Map",
+      "type_line": "Token Artifact — Map",
+      "uri": "https://api.scryfall.com/cards/64839118-09d2-4645-9d3c-f80755ac781f"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "70169a6e-89d1-4a3a-aef7-3152958d55ac",
+  "set": "lci",
+  "set_name": "The Lost Caverns of Ixalan",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/70169a6e-89d1-4a3a-aef7-3152958d55ac",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alci&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/lci?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/95a9d11a-ecf0-471e-9dc3-a5baa6725044/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7af69a44-e958-42e5-9d65-75e53a601e96&unique=prints",
+  "collector_number": "341",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jorge Gutierrez Garcia",
+  "artist_ids": [
+    "56d48550-8b3a-4e35-91ac-3f7d2a0daaa4"
+  ],
+  "illustration_id": "82084a26-1eff-41df-9a86-5a7d35b9275e",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 11935,
+  "penny_rank": 732,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2023-10-24"
+  },
+  "prices": {
+    "usd": "0.11",
+    "usd_foil": "0.13",
+    "usd_etched": null,
+    "eur": "0.22",
+    "eur_foil": "0.38",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=639268&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKellan%252C%2BDaring%2BTraveler%2B%252F%252F%2BJourney%2BOn",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKellan%252C%2BDaring%2BTraveler%2B%252F%252F%2BJourney%2BOn",
+    "edhrec": "https://edhrec.com/route/?cc=Kellan%2C+Daring+Traveler"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F524217%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=740911&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/117692?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "0dcc2699-03e6-47d1-b976-1453fe9d27b7",
+  "oracle_id": "1c0fc9b4-177e-4529-827f-a1e17ff7a752",
+  "multiverse_ids": [
+    574562
+  ],
+  "mtgo_id": 102640,
+  "arena_id": 82134,
+  "tcgplayer_id": 283147,
+  "cardmarket_id": 671918,
+  "name": "Blight Pile",
+  "lang": "en",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/0dcc2699-03e6-47d1-b976-1453fe9d27b7",
+  "scryfall_uri": "https://scryfall.com/card/dmu/82/blight-pile?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/d/0dcc2699-03e6-47d1-b976-1453fe9d27b7.jpg?1673306999",
+    "normal": "https://cards.scryfall.io/normal/front/0/d/0dcc2699-03e6-47d1-b976-1453fe9d27b7.jpg?1673306999",
+    "large": "https://cards.scryfall.io/large/front/0/d/0dcc2699-03e6-47d1-b976-1453fe9d27b7.jpg?1673306999",
+    "png": "https://cards.scryfall.io/png/front/0/d/0dcc2699-03e6-47d1-b976-1453fe9d27b7.png?1673306999",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/d/0dcc2699-03e6-47d1-b976-1453fe9d27b7.jpg?1673306999",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/d/0dcc2699-03e6-47d1-b976-1453fe9d27b7.jpg?1673306999"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2,
+  "type_line": "Creature — Phyrexian",
+  "oracle_text": "Defender\n{2}{B}, {T}: Each opponent loses X life, where X is the number of creatures with defender you control.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Defender"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set": "dmu",
+  "set_name": "Dominaria United",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dmu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0dcc2699-03e6-47d1-b976-1453fe9d27b7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1c0fc9b4-177e-4529-827f-a1e17ff7a752&unique=prints",
+  "collector_number": "82",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Keep your distance. It may be broken, but it's far from benign.\"\n—Stenn",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Olivier Bernard",
+  "artist_ids": [
+    "11c6f325-68c2-4f2a-972d-98d2ffe6c224"
+  ],
+  "illustration_id": "a8b4eaeb-ad14-4117-856b-300fbd1f1972",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 9491,
+  "penny_rank": 13574,
+  "preview": {
+    "source": "Lords of Limited",
+    "source_uri": "https://twitter.com/LordsofLimited/status/1561691219260018688",
+    "previewed_at": "2022-08-22"
+  },
+  "prices": {
+    "usd": "0.05",
+    "usd_foil": "0.13",
+    "usd_etched": null,
+    "eur": "0.04",
+    "eur_foil": "0.11",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574562&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlight%2BPile",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlight%2BPile",
+    "edhrec": "https://edhrec.com/route/?cc=Blight+Pile"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F283147%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=671918&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/102640?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

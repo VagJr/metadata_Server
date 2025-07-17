@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "04872b4a-8231-494e-8a6e-596c66797011",
+  "oracle_id": "36cd2364-d113-47d1-b2c4-b088d9eb88dd",
+  "multiverse_ids": [],
+  "tcgplayer_id": 247880,
+  "cardmarket_id": 577153,
+  "name": "Brainstorm",
+  "lang": "en",
+  "released_at": "2021-06-21",
+  "uri": "https://api.scryfall.com/cards/04872b4a-8231-494e-8a6e-596c66797011",
+  "scryfall_uri": "https://scryfall.com/card/sld/582/brainstorm?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/4/04872b4a-8231-494e-8a6e-596c66797011.jpg?1637369380",
+    "normal": "https://cards.scryfall.io/normal/front/0/4/04872b4a-8231-494e-8a6e-596c66797011.jpg?1637369380",
+    "large": "https://cards.scryfall.io/large/front/0/4/04872b4a-8231-494e-8a6e-596c66797011.jpg?1637369380",
+    "png": "https://cards.scryfall.io/png/front/0/4/04872b4a-8231-494e-8a6e-596c66797011.png?1637369380",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/4/04872b4a-8231-494e-8a6e-596c66797011.jpg?1637369380",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/4/04872b4a-8231-494e-8a6e-596c66797011.jpg?1637369380"
+  },
+  "mana_cost": "{U}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "oracle_text": "Draw three cards, then put two cards from your hand on top of your library in any order.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "banned",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "restricted",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "banned",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/04872b4a-8231-494e-8a6e-596c66797011/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A36cd2364-d113-47d1-b2c4-b088d9eb88dd&unique=prints",
+  "collector_number": "582",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"The secret is simply to know what you're going to do before you even see the possibilities.\"\n—Porlema'ko, mind mage",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mark Poole",
+  "artist_ids": [
+    "bfdeaf09-f915-4058-8e8b-bcac3bc43c33"
+  ],
+  "illustration_id": "a0aeb6e8-78f5-4cd0-9226-0dff2636b2c8",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "sldbonus"
+  ],
+  "edhrec_rank": 62,
+  "penny_rank": 9,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.78",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "3.05",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBrainstorm",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBrainstorm",
+    "edhrec": "https://edhrec.com/route/?cc=Brainstorm"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F247880%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=577153&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Brainstorm&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

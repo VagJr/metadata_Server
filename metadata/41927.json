@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "62f528be-f279-4568-8e03-5de7281fc7f1",
+  "oracle_id": "bfa20bc7-4626-4a52-87f4-6e2763cb8ed5",
+  "multiverse_ids": [],
+  "tcgplayer_id": 554254,
+  "name": "Archway of Innovation",
+  "lang": "en",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/62f528be-f279-4568-8e03-5de7281fc7f1",
+  "scryfall_uri": "https://scryfall.com/card/pmh3/214s/archway-of-innovation?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/2/62f528be-f279-4568-8e03-5de7281fc7f1.jpg?1719871632",
+    "normal": "https://cards.scryfall.io/normal/front/6/2/62f528be-f279-4568-8e03-5de7281fc7f1.jpg?1719871632",
+    "large": "https://cards.scryfall.io/large/front/6/2/62f528be-f279-4568-8e03-5de7281fc7f1.jpg?1719871632",
+    "png": "https://cards.scryfall.io/png/front/6/2/62f528be-f279-4568-8e03-5de7281fc7f1.png?1719871632",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/2/62f528be-f279-4568-8e03-5de7281fc7f1.jpg?1719871632",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/2/62f528be-f279-4568-8e03-5de7281fc7f1.jpg?1719871632"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "This land enters tapped unless you control an Island.\n{T}: Add {U}.\n{U}, {T}: The next spell you cast this turn has improvise. (Your artifacts can help cast that spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)",
+  "colors": [],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "U"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8f33d6e8-fe8a-4c8e-a96d-8fe32660e775",
+  "set": "pmh3",
+  "set_name": "Modern Horizons 3 Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/8f33d6e8-fe8a-4c8e-a96d-8fe32660e775",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apmh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pmh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/62f528be-f279-4568-8e03-5de7281fc7f1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abfa20bc7-4626-4a52-87f4-6e2763cb8ed5&unique=prints",
+  "collector_number": "214s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Yeong-Hao Han",
+  "artist_ids": [
+    "f8e7f8d6-6dde-4059-973c-30f1fd1bbe4e"
+  ],
+  "illustration_id": "c60629bb-9f08-4cce-889d-beb7f0648258",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 1399,
+  "penny_rank": 4462,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.77",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DArchway%2Bof%2BInnovation",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DArchway%2Bof%2BInnovation",
+    "edhrec": "https://edhrec.com/route/?cc=Archway+of+Innovation"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F554254%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Archway+of+Innovation&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Archway+of+Innovation&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

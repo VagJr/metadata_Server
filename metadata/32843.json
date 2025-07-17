@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "4daab8ff-443d-4292-80f3-63b621ad1c88",
+  "oracle_id": "07fe0fb5-cf34-4ba4-a3f3-ac0cc919bf91",
+  "multiverse_ids": [
+    622705
+  ],
+  "mtgo_id": 115293,
+  "tcgplayer_id": 507292,
+  "cardmarket_id": 723584,
+  "name": "Ghost of Ramirez DePietro",
+  "lang": "en",
+  "released_at": "2023-08-04",
+  "uri": "https://api.scryfall.com/cards/4daab8ff-443d-4292-80f3-63b621ad1c88",
+  "scryfall_uri": "https://scryfall.com/card/cmm/97/ghost-of-ramirez-depietro?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/d/4daab8ff-443d-4292-80f3-63b621ad1c88.jpg?1689996402",
+    "normal": "https://cards.scryfall.io/normal/front/4/d/4daab8ff-443d-4292-80f3-63b621ad1c88.jpg?1689996402",
+    "large": "https://cards.scryfall.io/large/front/4/d/4daab8ff-443d-4292-80f3-63b621ad1c88.jpg?1689996402",
+    "png": "https://cards.scryfall.io/png/front/4/d/4daab8ff-443d-4292-80f3-63b621ad1c88.png?1689996402",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/d/4daab8ff-443d-4292-80f3-63b621ad1c88.jpg?1689996402",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/d/4daab8ff-443d-4292-80f3-63b621ad1c88.jpg?1689996402"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Spirit Pirate",
+  "oracle_text": "Ghost of Ramirez DePietro can't be blocked by creatures with toughness 3 or greater.\nWhenever Ghost of Ramirez DePietro deals combat damage to a player, choose up to one target card in a graveyard that was discarded or put there from a library this turn. Put that card into its owner's hand.\nPartner (You can have two commanders if both have partner.)",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Partner"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set": "cmm",
+  "set_name": "Commander Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4daab8ff-443d-4292-80f3-63b621ad1c88/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A07fe0fb5-cf34-4ba4-a3f3-ac0cc919bf91&unique=prints",
+  "collector_number": "97",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Grzegorz Rutkowski",
+  "artist_ids": [
+    "b5f49d0d-8056-48e3-b614-090e656b4f9c"
+  ],
+  "illustration_id": "12e9d10d-d9c6-4551-b0e6-df22281befcf",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 8456,
+  "prices": {
+    "usd": "0.07",
+    "usd_foil": "0.10",
+    "usd_etched": null,
+    "eur": "0.18",
+    "eur_foil": "0.28",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=622705&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGhost%2Bof%2BRamirez%2BDePietro",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGhost%2Bof%2BRamirez%2BDePietro",
+    "edhrec": "https://edhrec.com/route/?cc=Ghost+of+Ramirez+DePietro"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F507292%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=723584&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/115293?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

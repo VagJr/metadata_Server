@@ -1,0 +1,112 @@
+{
+  "object": "card",
+  "id": "3f208590-dc11-49e6-85ec-2feb9ef0146d",
+  "oracle_id": "005ee549-1bf5-478f-bc3f-3e791bd7eecf",
+  "multiverse_ids": [
+    574340
+  ],
+  "arena_id": 81713,
+  "name": "Kindred Discovery",
+  "lang": "en",
+  "released_at": "2022-07-07",
+  "uri": "https://api.scryfall.com/cards/3f208590-dc11-49e6-85ec-2feb9ef0146d",
+  "scryfall_uri": "https://scryfall.com/card/hbg/126/kindred-discovery?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/f/3f208590-dc11-49e6-85ec-2feb9ef0146d.jpg?1680999854",
+    "normal": "https://cards.scryfall.io/normal/front/3/f/3f208590-dc11-49e6-85ec-2feb9ef0146d.jpg?1680999854",
+    "large": "https://cards.scryfall.io/large/front/3/f/3f208590-dc11-49e6-85ec-2feb9ef0146d.jpg?1680999854",
+    "png": "https://cards.scryfall.io/png/front/3/f/3f208590-dc11-49e6-85ec-2feb9ef0146d.png?1680999854",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/f/3f208590-dc11-49e6-85ec-2feb9ef0146d.jpg?1680999854",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/f/3f208590-dc11-49e6-85ec-2feb9ef0146d.jpg?1680999854"
+  },
+  "mana_cost": "{3}{U}{U}",
+  "cmc": 5,
+  "type_line": "Enchantment",
+  "oracle_text": "As this enchantment enters, choose a creature type.\nWhenever a creature you control of the chosen type enters or attacks, draw a card.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "35528ede-7870-4598-a2ee-7f3d6464a74b",
+  "set": "hbg",
+  "set_name": "Alchemy Horizons: Baldur's Gate",
+  "set_type": "alchemy",
+  "set_uri": "https://api.scryfall.com/sets/35528ede-7870-4598-a2ee-7f3d6464a74b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahbg&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/hbg?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3f208590-dc11-49e6-85ec-2feb9ef0146d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A005ee549-1bf5-478f-bc3f-3e791bd7eecf&unique=prints",
+  "collector_number": "126",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Vincent Christiaens",
+  "artist_ids": [
+    "31b01a73-d14f-4f9e-a5dc-9cee3b036124"
+  ],
+  "illustration_id": "d5536061-bac0-440f-a719-c0640944f0f9",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 322,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574340&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKindred%2BDiscovery",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKindred%2BDiscovery",
+    "edhrec": "https://edhrec.com/route/?cc=Kindred+Discovery"
+  }
+}

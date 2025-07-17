@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "138d9772-74ad-45f8-8769-b1f4b0c8029f",
+  "oracle_id": "837e3fde-241f-4826-ad04-f146fdcf2278",
+  "multiverse_ids": [],
+  "arena_id": 94346,
+  "name": "Tasigur, the Golden Fang",
+  "lang": "en",
+  "released_at": "2024-12-10",
+  "uri": "https://api.scryfall.com/cards/138d9772-74ad-45f8-8769-b1f4b0c8029f",
+  "scryfall_uri": "https://scryfall.com/card/pio/113/tasigur-the-golden-fang?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/3/138d9772-74ad-45f8-8769-b1f4b0c8029f.jpg?1733317751",
+    "normal": "https://cards.scryfall.io/normal/front/1/3/138d9772-74ad-45f8-8769-b1f4b0c8029f.jpg?1733317751",
+    "large": "https://cards.scryfall.io/large/front/1/3/138d9772-74ad-45f8-8769-b1f4b0c8029f.jpg?1733317751",
+    "png": "https://cards.scryfall.io/png/front/1/3/138d9772-74ad-45f8-8769-b1f4b0c8029f.png?1733317751",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/3/138d9772-74ad-45f8-8769-b1f4b0c8029f.jpg?1733317751",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/3/138d9772-74ad-45f8-8769-b1f4b0c8029f.jpg?1733317751"
+  },
+  "mana_cost": "{5}{B}",
+  "cmc": 6,
+  "type_line": "Legendary Creature — Human Shaman",
+  "oracle_text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\n{2}{G/U}{G/U}: Mill two cards, then return a nonland card of an opponent's choice from your graveyard to your hand.",
+  "power": "4",
+  "toughness": "5",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "U"
+  ],
+  "keywords": [
+    "Delve",
+    "Mill"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "restricted",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "713c226b-d4d9-46e1-b9c9-a04689d90ff6",
+  "set": "pio",
+  "set_name": "Pioneer Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/713c226b-d4d9-46e1-b9c9-a04689d90ff6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apio&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pio?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/138d9772-74ad-45f8-8769-b1f4b0c8029f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A837e3fde-241f-4826-ad04-f146fdcf2278&unique=prints",
+  "collector_number": "113",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rahn",
+  "artist_ids": [
+    "7742047e-0f80-4c0f-a530-d07460165e86"
+  ],
+  "illustration_id": "c7132b73-9023-40d7-b6af-ef2934a499e6",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 6126,
+  "penny_rank": 315,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/mtgarena/pioneer-masters/card-image-gallery",
+    "previewed_at": "2024-11-26"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTasigur%252C%2Bthe%2BGolden%2BFang",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTasigur%252C%2Bthe%2BGolden%2BFang",
+    "edhrec": "https://edhrec.com/route/?cc=Tasigur%2C+the+Golden+Fang"
+  }
+}

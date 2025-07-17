@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "8b9649b3-0159-426c-838d-d649c6dbe147",
+  "oracle_id": "1182591d-8660-4a2e-8d77-2fc544b02b66",
+  "multiverse_ids": [
+    601447
+  ],
+  "mtgo_id": 107441,
+  "tcgplayer_id": 457175,
+  "cardmarket_id": 688412,
+  "name": "Gauntlet of Power",
+  "lang": "en",
+  "released_at": "2023-01-13",
+  "uri": "https://api.scryfall.com/cards/8b9649b3-0159-426c-838d-d649c6dbe147",
+  "scryfall_uri": "https://scryfall.com/card/dmr/378/gauntlet-of-power?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/b/8b9649b3-0159-426c-838d-d649c6dbe147.jpg?1675202349",
+    "normal": "https://cards.scryfall.io/normal/front/8/b/8b9649b3-0159-426c-838d-d649c6dbe147.jpg?1675202349",
+    "large": "https://cards.scryfall.io/large/front/8/b/8b9649b3-0159-426c-838d-d649c6dbe147.jpg?1675202349",
+    "png": "https://cards.scryfall.io/png/front/8/b/8b9649b3-0159-426c-838d-d649c6dbe147.png?1675202349",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/b/8b9649b3-0159-426c-838d-d649c6dbe147.jpg?1675202349",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/b/8b9649b3-0159-426c-838d-d649c6dbe147.jpg?1675202349"
+  },
+  "mana_cost": "{5}",
+  "cmc": 5,
+  "type_line": "Artifact",
+  "oracle_text": "As this artifact enters, choose a color.\nCreatures of the chosen color get +1/+1.\nWhenever a basic land is tapped for mana of the chosen color, its controller adds an additional one mana of that color.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "ca4c2884-e539-4b7f-980d-5d6a50220f2a",
+  "set": "dmr",
+  "set_name": "Dominaria Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/ca4c2884-e539-4b7f-980d-5d6a50220f2a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dmr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8b9649b3-0159-426c-838d-d649c6dbe147/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1182591d-8660-4a2e-8d77-2fc544b02b66&unique=prints",
+  "collector_number": "378",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Greg Hildebrandt",
+  "artist_ids": [
+    "020f967b-0d2f-4166-aabe-901dba8bc7ec"
+  ],
+  "illustration_id": "fb1724d9-0914-496e-aee3-2c395a915e98",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 2188,
+  "penny_rank": 10307,
+  "prices": {
+    "usd": "2.76",
+    "usd_foil": "3.17",
+    "usd_etched": null,
+    "eur": "2.07",
+    "eur_foil": "2.63",
+    "tix": "0.26"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=601447&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGauntlet%2Bof%2BPower",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGauntlet%2Bof%2BPower",
+    "edhrec": "https://edhrec.com/route/?cc=Gauntlet+of+Power"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F457175%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=688412&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/107441?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

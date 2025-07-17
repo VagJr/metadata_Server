@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "c56bc66f-12d1-4eae-8de7-2fae34976d6b",
+  "oracle_id": "582c7e54-d64c-4ffb-ae5f-d2752b3ed10b",
+  "multiverse_ids": [
+    689600
+  ],
+  "mtgo_id": 136891,
+  "tcgplayer_id": 614203,
+  "cardmarket_id": 807297,
+  "name": "Redshift, Rocketeer Chief",
+  "lang": "en",
+  "released_at": "2025-02-14",
+  "uri": "https://api.scryfall.com/cards/c56bc66f-12d1-4eae-8de7-2fae34976d6b",
+  "scryfall_uri": "https://scryfall.com/card/dft/366/redshift-rocketeer-chief?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/5/c56bc66f-12d1-4eae-8de7-2fae34976d6b.jpg?1738357467",
+    "normal": "https://cards.scryfall.io/normal/front/c/5/c56bc66f-12d1-4eae-8de7-2fae34976d6b.jpg?1738357467",
+    "large": "https://cards.scryfall.io/large/front/c/5/c56bc66f-12d1-4eae-8de7-2fae34976d6b.jpg?1738357467",
+    "png": "https://cards.scryfall.io/png/front/c/5/c56bc66f-12d1-4eae-8de7-2fae34976d6b.png?1738357467",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/5/c56bc66f-12d1-4eae-8de7-2fae34976d6b.jpg?1738357467",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/5/c56bc66f-12d1-4eae-8de7-2fae34976d6b.jpg?1738357467"
+  },
+  "mana_cost": "{R}{G}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Goblin Pilot",
+  "oracle_text": "Vigilance\n{T}: Add X mana of any one color, where X is Redshift's power. Spend this mana only to activate abilities.\nExhaust — {10}{R}{G}: Put any number of permanent cards from your hand onto the battlefield. (Activate each exhaust ability only once.)",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [
+    "Vigilance",
+    "Exhaust"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "23464cc2-a69c-427d-b8a7-08e5d80235d7",
+  "set": "dft",
+  "set_name": "Aetherdrift",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/23464cc2-a69c-427d-b8a7-08e5d80235d7",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adft&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dft?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c56bc66f-12d1-4eae-8de7-2fae34976d6b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A582c7e54-d64c-4ffb-ae5f-d2752b3ed10b&unique=prints",
+  "collector_number": "366",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Xavier Ribeiro",
+  "artist_ids": [
+    "e17c2662-0491-47b2-bf1d-8c111a8ad3f8"
+  ],
+  "illustration_id": "f8c70d10-a8a0-4d6b-80e3-875f96eac7f9",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 11496,
+  "penny_rank": 2145,
+  "prices": {
+    "usd": "0.38",
+    "usd_foil": "0.72",
+    "usd_etched": null,
+    "eur": "0.29",
+    "eur_foil": "0.58",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=689600&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRedshift%252C%2BRocketeer%2BChief",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRedshift%252C%2BRocketeer%2BChief",
+    "edhrec": "https://edhrec.com/route/?cc=Redshift%2C+Rocketeer+Chief"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F614203%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=807297&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/136891?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

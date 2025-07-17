@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "fca8e86b-3c50-4778-9e3c-75e656a726b1",
+  "oracle_id": "129476ae-9dab-4e04-8e8e-f249afd56ff9",
+  "multiverse_ids": [],
+  "tcgplayer_id": 561039,
+  "name": "Maha, Its Feathers Night",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/fca8e86b-3c50-4778-9e3c-75e656a726b1",
+  "scryfall_uri": "https://scryfall.com/card/pblb/100s/maha-its-feathers-night?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/c/fca8e86b-3c50-4778-9e3c-75e656a726b1.jpg?1723082097",
+    "normal": "https://cards.scryfall.io/normal/front/f/c/fca8e86b-3c50-4778-9e3c-75e656a726b1.jpg?1723082097",
+    "large": "https://cards.scryfall.io/large/front/f/c/fca8e86b-3c50-4778-9e3c-75e656a726b1.jpg?1723082097",
+    "png": "https://cards.scryfall.io/png/front/f/c/fca8e86b-3c50-4778-9e3c-75e656a726b1.png?1723082097",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/c/fca8e86b-3c50-4778-9e3c-75e656a726b1.jpg?1723082097",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/c/fca8e86b-3c50-4778-9e3c-75e656a726b1.jpg?1723082097"
+  },
+  "mana_cost": "{3}{B}{B}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Elemental Bird",
+  "oracle_text": "Flying, trample\nWard—Discard a card.\nCreatures your opponents control have base toughness 1.",
+  "power": "6",
+  "toughness": "5",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying",
+    "Trample",
+    "Ward"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "3e2b178a-4f7b-4bb3-9af3-3c1ffcdfaa3e",
+  "set": "pblb",
+  "set_name": "Bloomburrow Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/3e2b178a-4f7b-4bb3-9af3-3c1ffcdfaa3e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apblb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pblb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/fca8e86b-3c50-4778-9e3c-75e656a726b1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A129476ae-9dab-4e04-8e8e-f249afd56ff9&unique=prints",
+  "collector_number": "100s",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "Its wingspan reaches from dusk to dawn.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alessandra Pisano",
+  "artist_ids": [
+    "15869690-bf3c-4498-a577-409a6bde5c83"
+  ],
+  "illustration_id": "448ee062-41ff-4804-9477-8de911cdafc7",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 3025,
+  "prices": {
+    "usd": null,
+    "usd_foil": "12.36",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMaha%252C%2BIts%2BFeathers%2BNight",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMaha%252C%2BIts%2BFeathers%2BNight",
+    "edhrec": "https://edhrec.com/route/?cc=Maha%2C+Its+Feathers+Night"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F561039%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Maha%2C+Its+Feathers+Night&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Maha%2C+Its+Feathers+Night&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

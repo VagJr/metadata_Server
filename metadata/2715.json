@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "064efadf-fdba-41fb-bf2f-ef42b274e934",
+  "oracle_id": "78427103-9543-41fb-b6d4-72963fe87275",
+  "multiverse_ids": [
+    622580
+  ],
+  "mtgo_id": 111812,
+  "tcgplayer_id": 488284,
+  "cardmarket_id": 717891,
+  "name": "The Great Henge",
+  "flavor_name": "The Party Tree",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/064efadf-fdba-41fb-bf2f-ef42b274e934",
+  "scryfall_uri": "https://scryfall.com/card/ltc/348/the-great-henge?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/6/064efadf-fdba-41fb-bf2f-ef42b274e934.jpg?1686966994",
+    "normal": "https://cards.scryfall.io/normal/front/0/6/064efadf-fdba-41fb-bf2f-ef42b274e934.jpg?1686966994",
+    "large": "https://cards.scryfall.io/large/front/0/6/064efadf-fdba-41fb-bf2f-ef42b274e934.jpg?1686966994",
+    "png": "https://cards.scryfall.io/png/front/0/6/064efadf-fdba-41fb-bf2f-ef42b274e934.png?1686966994",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/6/064efadf-fdba-41fb-bf2f-ef42b274e934.jpg?1686966994",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/6/064efadf-fdba-41fb-bf2f-ef42b274e934.jpg?1686966994"
+  },
+  "mana_cost": "{7}{G}{G}",
+  "cmc": 9,
+  "type_line": "Legendary Artifact",
+  "oracle_text": "This spell costs {X} less to cast, where X is the greatest power among creatures you control.\n{T}: Add {G}{G}. You gain 2 life.\nWhenever a nontoken creature you control enters, put a +1/+1 counter on it and draw a card.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "G"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set": "ltc",
+  "set_name": "Tales of Middle-earth Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/064efadf-fdba-41fb-bf2f-ef42b274e934/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A78427103-9543-41fb-b6d4-72963fe87275&unique=prints",
+  "collector_number": "348",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jeremy Paillotin",
+  "artist_ids": [
+    "a796c230-bbbe-425f-8ff4-6878e1cf093d"
+  ],
+  "illustration_id": "c128c068-c40c-4c2e-9333-09a203d221ee",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "triangle",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 233,
+  "prices": {
+    "usd": "88.77",
+    "usd_foil": "91.11",
+    "usd_etched": null,
+    "eur": "68.44",
+    "eur_foil": "65.80",
+    "tix": "5.24"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=622580&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThe%2BGreat%2BHenge",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThe%2BGreat%2BHenge",
+    "edhrec": "https://edhrec.com/route/?cc=The+Great+Henge"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F488284%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=717891&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/111812?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

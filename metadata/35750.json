@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "549b62df-3a98-4734-92a0-507a20d60b7d",
+  "oracle_id": "6bae00e8-06cf-4ac4-a1cc-757e454109fe",
+  "multiverse_ids": [],
+  "mtgo_id": 80951,
+  "name": "Ketria Triome",
+  "lang": "en",
+  "released_at": "2020-04-30",
+  "uri": "https://api.scryfall.com/cards/549b62df-3a98-4734-92a0-507a20d60b7d",
+  "scryfall_uri": "https://scryfall.com/card/prm/80951/ketria-triome?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/4/549b62df-3a98-4734-92a0-507a20d60b7d.jpg?1630631310",
+    "normal": "https://cards.scryfall.io/normal/front/5/4/549b62df-3a98-4734-92a0-507a20d60b7d.jpg?1630631310",
+    "large": "https://cards.scryfall.io/large/front/5/4/549b62df-3a98-4734-92a0-507a20d60b7d.jpg?1630631310",
+    "png": "https://cards.scryfall.io/png/front/5/4/549b62df-3a98-4734-92a0-507a20d60b7d.png?1630631310",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/4/549b62df-3a98-4734-92a0-507a20d60b7d.jpg?1630631310",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/4/549b62df-3a98-4734-92a0-507a20d60b7d.jpg?1630631310"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land — Forest Island Mountain",
+  "oracle_text": "({T}: Add {G}, {U}, or {R}.)\nThis land enters tapped.\nCycling {3} ({3}, Discard this card: Draw a card.)",
+  "colors": [],
+  "color_identity": [
+    "G",
+    "R",
+    "U"
+  ],
+  "keywords": [
+    "Cycling"
+  ],
+  "produced_mana": [
+    "G",
+    "R",
+    "U"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/549b62df-3a98-4734-92a0-507a20d60b7d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6bae00e8-06cf-4ac4-a1cc-757e454109fe&unique=prints",
+  "collector_number": "80951",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Robbie Trevino",
+  "artist_ids": [
+    "34f236c4-d646-4e48-9723-9df5f507754d"
+  ],
+  "illustration_id": "e85b6b67-b52b-4c4b-8b5a-5cfb4989ed0c",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 339,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "1.49"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKetria%2BTriome",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKetria%2BTriome",
+    "edhrec": "https://edhrec.com/route/?cc=Ketria+Triome"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DKetria%2BTriome%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ketria+Triome&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/80951?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

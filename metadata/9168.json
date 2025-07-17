@@ -1,0 +1,178 @@
+{
+  "object": "card",
+  "id": "15597c74-0d47-44e3-87bb-f9174ca265c2",
+  "oracle_id": "bfa57f61-3811-43da-b73e-90e3e5b0b2c2",
+  "multiverse_ids": [],
+  "name": "Monk",
+  "lang": "ja",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/15597c74-0d47-44e3-87bb-f9174ca265c2",
+  "scryfall_uri": "https://scryfall.com/card/wmom/1/ja/monk?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/5/15597c74-0d47-44e3-87bb-f9174ca265c2.jpg?1685566127",
+    "normal": "https://cards.scryfall.io/normal/front/1/5/15597c74-0d47-44e3-87bb-f9174ca265c2.jpg?1685566127",
+    "large": "https://cards.scryfall.io/large/front/1/5/15597c74-0d47-44e3-87bb-f9174ca265c2.jpg?1685566127",
+    "png": "https://cards.scryfall.io/png/front/1/5/15597c74-0d47-44e3-87bb-f9174ca265c2.png?1685566127",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/5/15597c74-0d47-44e3-87bb-f9174ca265c2.jpg?1685566127",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/5/15597c74-0d47-44e3-87bb-f9174ca265c2.jpg?1685566127"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Monk",
+  "oracle_text": "Prowess",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Prowess"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "eecec6d3-6db4-4159-bbbe-3ba85d37990b",
+      "component": "combo_piece",
+      "name": "Monastery Mentor",
+      "type_line": "Creature — Human Monk",
+      "uri": "https://api.scryfall.com/cards/eecec6d3-6db4-4159-bbbe-3ba85d37990b"
+    },
+    {
+      "object": "related_card",
+      "id": "5dd77b83-5942-49c2-a678-b64804a9097e",
+      "component": "combo_piece",
+      "name": "Rally the Monastery",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/5dd77b83-5942-49c2-a678-b64804a9097e"
+    },
+    {
+      "object": "related_card",
+      "id": "3852139e-36da-4fc2-b539-c27fd8a1f98e",
+      "component": "combo_piece",
+      "name": "Cori-Steel Cutter",
+      "type_line": "Artifact — Equipment",
+      "uri": "https://api.scryfall.com/cards/3852139e-36da-4fc2-b539-c27fd8a1f98e"
+    },
+    {
+      "object": "related_card",
+      "id": "9cff1317-f02a-4138-b716-e0ee72b69980",
+      "component": "combo_piece",
+      "name": "Jeskai Revelation",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/9cff1317-f02a-4138-b716-e0ee72b69980"
+    },
+    {
+      "object": "related_card",
+      "id": "00249a9f-b025-4f16-9d10-d0928d2b03aa",
+      "component": "combo_piece",
+      "name": "Aligned Heart",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/00249a9f-b025-4f16-9d10-d0928d2b03aa"
+    },
+    {
+      "object": "related_card",
+      "id": "15597c74-0d47-44e3-87bb-f9174ca265c2",
+      "component": "token",
+      "name": "Monk",
+      "type_line": "Token Creature — Monk",
+      "uri": "https://api.scryfall.com/cards/15597c74-0d47-44e3-87bb-f9174ca265c2"
+    },
+    {
+      "object": "related_card",
+      "id": "579b7d17-0842-468c-8f78-253716390150",
+      "component": "combo_piece",
+      "name": "Elsha, Threefold Master",
+      "type_line": "Legendary Creature — Djinn Monk",
+      "uri": "https://api.scryfall.com/cards/579b7d17-0842-468c-8f78-253716390150"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "19e95cc8-2387-4ea4-9045-19a130effe7f",
+  "set": "wmom",
+  "set_name": "MOM Japanese Promo Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/19e95cc8-2387-4ea4-9045-19a130effe7f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awmom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/wmom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/15597c74-0d47-44e3-87bb-f9174ca265c2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abfa57f61-3811-43da-b73e-90e3e5b0b2c2&unique=prints",
+  "collector_number": "1",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Rorubei",
+  "artist_ids": [
+    "42e7262b-6320-4007-a6b4-dd4ba4bd2b67"
+  ],
+  "illustration_id": "bbb2e753-4f54-4368-b1ff-c40a2e39d375",
+  "border_color": "borderless",
+  "frame": "2015",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "plastic"
+  ],
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMonk",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMonk",
+    "edhrec": "https://edhrec.com/route/?cc=Monk"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DMonk%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Monk&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Monk&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

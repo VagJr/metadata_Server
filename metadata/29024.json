@@ -1,0 +1,174 @@
+{
+  "object": "card",
+  "id": "4497b3b5-854c-4de9-8298-188726c05c87",
+  "oracle_id": "d0375311-b0ea-4870-bc2c-4894da088dc3",
+  "multiverse_ids": [],
+  "tcgplayer_id": 244549,
+  "cardmarket_id": 572528,
+  "name": "Ellywick Tumblestrum",
+  "lang": "en",
+  "released_at": "2021-07-23",
+  "uri": "https://api.scryfall.com/cards/4497b3b5-854c-4de9-8298-188726c05c87",
+  "scryfall_uri": "https://scryfall.com/card/pafr/181s/ellywick-tumblestrum?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/4/4497b3b5-854c-4de9-8298-188726c05c87.jpg?1627950831",
+    "normal": "https://cards.scryfall.io/normal/front/4/4/4497b3b5-854c-4de9-8298-188726c05c87.jpg?1627950831",
+    "large": "https://cards.scryfall.io/large/front/4/4/4497b3b5-854c-4de9-8298-188726c05c87.jpg?1627950831",
+    "png": "https://cards.scryfall.io/png/front/4/4/4497b3b5-854c-4de9-8298-188726c05c87.png?1627950831",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/4/4497b3b5-854c-4de9-8298-188726c05c87.jpg?1627950831",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/4/4497b3b5-854c-4de9-8298-188726c05c87.jpg?1627950831"
+  },
+  "mana_cost": "{2}{G}{G}",
+  "cmc": 4,
+  "type_line": "Legendary Planeswalker — Ellywick",
+  "oracle_text": "+1: Venture into the dungeon. (Enter the first room or advance to the next room.)\n−2: Look at the top six cards of your library. You may reveal a creature card from among them and put it into your hand. If it's legendary, you gain 3 life. Put the rest on the bottom of your library in a random order.\n−7: You get an emblem with \"Creatures you control have trample and haste and get +2/+2 for each differently named dungeon you've completed.\"",
+  "loyalty": "4",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Venture into the dungeon"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6f509dbe-6ec7-4438-ab36-e20be46c9922",
+      "component": "combo_piece",
+      "name": "Dungeon of the Mad Mage",
+      "type_line": "Dungeon",
+      "uri": "https://api.scryfall.com/cards/6f509dbe-6ec7-4438-ab36-e20be46c9922"
+    },
+    {
+      "object": "related_card",
+      "id": "59b11ff8-f118-4978-87dd-509dc0c8c932",
+      "component": "combo_piece",
+      "name": "Lost Mine of Phandelver",
+      "type_line": "Dungeon",
+      "uri": "https://api.scryfall.com/cards/59b11ff8-f118-4978-87dd-509dc0c8c932"
+    },
+    {
+      "object": "related_card",
+      "id": "4497b3b5-854c-4de9-8298-188726c05c87",
+      "component": "combo_piece",
+      "name": "Ellywick Tumblestrum",
+      "type_line": "Legendary Planeswalker — Ellywick",
+      "uri": "https://api.scryfall.com/cards/4497b3b5-854c-4de9-8298-188726c05c87"
+    },
+    {
+      "object": "related_card",
+      "id": "70b284bd-7a8f-4b60-8238-f746bdc5b236",
+      "component": "combo_piece",
+      "name": "Tomb of Annihilation",
+      "type_line": "Dungeon",
+      "uri": "https://api.scryfall.com/cards/70b284bd-7a8f-4b60-8238-f746bdc5b236"
+    },
+    {
+      "object": "related_card",
+      "id": "49215be1-88ed-4302-a708-99496d90d175",
+      "component": "combo_piece",
+      "name": "A-Ellywick Tumblestrum",
+      "type_line": "Legendary Planeswalker — Ellywick",
+      "uri": "https://api.scryfall.com/cards/49215be1-88ed-4302-a708-99496d90d175"
+    },
+    {
+      "object": "related_card",
+      "id": "289bd243-8754-49f8-a4f9-0be477c84ee1",
+      "component": "combo_piece",
+      "name": "Ellywick Tumblestrum Emblem",
+      "type_line": "Emblem — Ellywick",
+      "uri": "https://api.scryfall.com/cards/289bd243-8754-49f8-a4f9-0be477c84ee1"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "983f027f-76f9-462d-8eb5-458dcbf029b4",
+  "set": "pafr",
+  "set_name": "Adventures in the Forgotten Realms Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/983f027f-76f9-462d-8eb5-458dcbf029b4",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apafr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pafr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4497b3b5-854c-4de9-8298-188726c05c87/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad0375311-b0ea-4870-bc2c-4894da088dc3&unique=prints",
+  "collector_number": "181s",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Anna Steinbauer",
+  "artist_ids": [
+    "3516496c-c279-4b56-8239-720683d03ae0"
+  ],
+  "illustration_id": "97837e02-54c6-444e-9bfe-8a27f2bb1ec6",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 12423,
+  "penny_rank": 7465,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.65",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "1.95",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEllywick%2BTumblestrum",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEllywick%2BTumblestrum",
+    "edhrec": "https://edhrec.com/route/?cc=Ellywick+Tumblestrum"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F244549%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=572528&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ellywick+Tumblestrum&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

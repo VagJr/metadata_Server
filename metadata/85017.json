@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "c8ccd3d9-e824-4174-b2f8-206742dc343a",
+  "oracle_id": "8d286376-f386-43ab-a9bd-8478fb9e2497",
+  "multiverse_ids": [
+    643124
+  ],
+  "mtgo_id": 120761,
+  "tcgplayer_id": 531217,
+  "cardmarket_id": 748465,
+  "name": "Light Up the Stage",
+  "lang": "en",
+  "released_at": "2024-01-12",
+  "uri": "https://api.scryfall.com/cards/c8ccd3d9-e824-4174-b2f8-206742dc343a",
+  "scryfall_uri": "https://scryfall.com/card/rvr/117/light-up-the-stage?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/8/c8ccd3d9-e824-4174-b2f8-206742dc343a.jpg?1702429518",
+    "normal": "https://cards.scryfall.io/normal/front/c/8/c8ccd3d9-e824-4174-b2f8-206742dc343a.jpg?1702429518",
+    "large": "https://cards.scryfall.io/large/front/c/8/c8ccd3d9-e824-4174-b2f8-206742dc343a.jpg?1702429518",
+    "png": "https://cards.scryfall.io/png/front/c/8/c8ccd3d9-e824-4174-b2f8-206742dc343a.png?1702429518",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/8/c8ccd3d9-e824-4174-b2f8-206742dc343a.jpg?1702429518",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/8/c8ccd3d9-e824-4174-b2f8-206742dc343a.jpg?1702429518"
+  },
+  "mana_cost": "{2}{R}",
+  "cmc": 3,
+  "type_line": "Sorcery",
+  "oracle_text": "Spectacle {R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)\nExile the top two cards of your library. Until the end of your next turn, you may play those cards.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Spectacle"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+  "set": "rvr",
+  "set_name": "Ravnica Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arvr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/rvr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c8ccd3d9-e824-4174-b2f8-206742dc343a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8d286376-f386-43ab-a9bd-8478fb9e2497&unique=prints",
+  "collector_number": "117",
+  "digital": false,
+  "rarity": "uncommon",
+  "watermark": "rakdos",
+  "flavor_text": "\"Places, everyone!\"\n—Judith",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dmitry Burmak",
+  "artist_ids": [
+    "9872f5c0-274a-48ce-a9ad-6f0d5654e29c"
+  ],
+  "illustration_id": "9bb5c6db-164e-43d9-bccb-ea1af679419c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1220,
+  "prices": {
+    "usd": "0.15",
+    "usd_foil": "0.21",
+    "usd_etched": null,
+    "eur": "0.13",
+    "eur_foil": "0.33",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=643124&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLight%2BUp%2Bthe%2BStage",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLight%2BUp%2Bthe%2BStage",
+    "edhrec": "https://edhrec.com/route/?cc=Light+Up+the+Stage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F531217%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=748465&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/120761?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

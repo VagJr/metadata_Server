@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "596b6adc-645c-41e3-bc86-6b32c8253114",
+  "oracle_id": "f4f751c0-02dc-45a2-a4b0-980592509944",
+  "multiverse_ids": [
+    677429
+  ],
+  "mtgo_id": 134228,
+  "tcgplayer_id": 563170,
+  "cardmarket_id": 790873,
+  "name": "Serenity",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/596b6adc-645c-41e3-bc86-6b32c8253114",
+  "scryfall_uri": "https://scryfall.com/card/mb2/152/serenity?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/9/596b6adc-645c-41e3-bc86-6b32c8253114.jpg?1723220896",
+    "normal": "https://cards.scryfall.io/normal/front/5/9/596b6adc-645c-41e3-bc86-6b32c8253114.jpg?1723220896",
+    "large": "https://cards.scryfall.io/large/front/5/9/596b6adc-645c-41e3-bc86-6b32c8253114.jpg?1723220896",
+    "png": "https://cards.scryfall.io/png/front/5/9/596b6adc-645c-41e3-bc86-6b32c8253114.png?1723220896",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/9/596b6adc-645c-41e3-bc86-6b32c8253114.jpg?1723220896",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/9/596b6adc-645c-41e3-bc86-6b32c8253114.jpg?1723220896"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Enchantment",
+  "oracle_text": "At the beginning of your upkeep, destroy all artifacts and enchantments. They can't be regenerated.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "1e6879fe-2f29-4ad7-8d42-7f5bfb469f4a",
+  "set": "mb2",
+  "set_name": "Mystery Booster 2",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/1e6879fe-2f29-4ad7-8d42-7f5bfb469f4a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amb2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mb2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/596b6adc-645c-41e3-bc86-6b32c8253114/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af4f751c0-02dc-45a2-a4b0-980592509944&unique=prints",
+  "collector_number": "152",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Just think of me as the storm before the calm.\"\n—Gerrard of the *Weatherlight*",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Cliff Nielsen",
+  "artist_ids": [
+    "7416bbed-fa7f-426b-b712-8b3ccd9fd858"
+  ],
+  "illustration_id": "e6ff087d-857b-4393-92e3-73906046a6c7",
+  "border_color": "black",
+  "frame": "future",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 21785,
+  "prices": {
+    "usd": "0.66",
+    "usd_foil": "37.06",
+    "usd_etched": null,
+    "eur": "1.34",
+    "eur_foil": "39.80",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=677429&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSerenity",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSerenity",
+    "edhrec": "https://edhrec.com/route/?cc=Serenity"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F563170%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=790873&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/134228?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

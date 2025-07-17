@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "f447b55a-8998-46dd-b10c-4545bbcb97c2",
+  "oracle_id": "f74107d5-fb4a-464b-9251-42b84d91775d",
+  "multiverse_ids": [],
+  "tcgplayer_id": 254689,
+  "name": "Faceless Haven",
+  "printed_name": "不詳の安息地",
+  "lang": "ja",
+  "released_at": "2021-10-01",
+  "uri": "https://api.scryfall.com/cards/f447b55a-8998-46dd-b10c-4545bbcb97c2",
+  "scryfall_uri": "https://scryfall.com/card/pwcs/2021-6/ja/%E4%B8%8D%E8%A9%B3%E3%81%AE%E5%AE%89%E6%81%AF%E5%9C%B0-(faceless-haven)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/4/f447b55a-8998-46dd-b10c-4545bbcb97c2.jpg?1687648720",
+    "normal": "https://cards.scryfall.io/normal/front/f/4/f447b55a-8998-46dd-b10c-4545bbcb97c2.jpg?1687648720",
+    "large": "https://cards.scryfall.io/large/front/f/4/f447b55a-8998-46dd-b10c-4545bbcb97c2.jpg?1687648720",
+    "png": "https://cards.scryfall.io/png/front/f/4/f447b55a-8998-46dd-b10c-4545bbcb97c2.png?1687648720",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/4/f447b55a-8998-46dd-b10c-4545bbcb97c2.jpg?1687648720",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/4/f447b55a-8998-46dd-b10c-4545bbcb97c2.jpg?1687648720"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Snow Land",
+  "printed_type_line": "氷雪土地",
+  "oracle_text": "{T}: Add {C}.\n{S}{S}{S}: This land becomes a 4/3 creature with vigilance and all creature types until end of turn. It's still a land. ({S} can be paid with one mana from a snow source.)",
+  "printed_text": "{T}：{C}を加える。\n{S}{S}{S}：ターン終了時まで、不詳の安息地は警戒とすべてのクリーチャー・タイプを持つ４/３のクリーチャーになる。これは土地でもある。（{S}は氷雪である発生源からのマナ１点で支払える。）",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d08fce7e-36a9-4617-8a14-24eb460bcbaf",
+  "set": "pwcs",
+  "set_name": "Planeswalker Championship Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/d08fce7e-36a9-4617-8a14-24eb460bcbaf",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwcs&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwcs?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f447b55a-8998-46dd-b10c-4545bbcb97c2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af74107d5-fb4a-464b-9251-42b84d91775d&unique=prints",
+  "collector_number": "2021-6",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Pablo Mendoza",
+  "artist_ids": [
+    "57f8d135-42e9-46e2-bb00-eff941b3152b"
+  ],
+  "illustration_id": "77adb800-db77-4322-b957-7912d983311c",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "snow"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 6497,
+  "prices": {
+    "usd": null,
+    "usd_foil": "10.64",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFaceless%2BHaven",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFaceless%2BHaven",
+    "edhrec": "https://edhrec.com/route/?cc=Faceless+Haven"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F254689%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Faceless+Haven&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Faceless+Haven&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

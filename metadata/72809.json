@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "abc427d9-2697-4e60-b1eb-948a6556f1ad",
+  "oracle_id": "ac2720d2-b010-4fa9-8c94-b13680b75aac",
+  "multiverse_ids": [
+    601370
+  ],
+  "mtgo_id": 107287,
+  "tcgplayer_id": 461393,
+  "cardmarket_id": 688845,
+  "name": "Dark Withering",
+  "lang": "en",
+  "released_at": "2023-01-13",
+  "uri": "https://api.scryfall.com/cards/abc427d9-2697-4e60-b1eb-948a6556f1ad",
+  "scryfall_uri": "https://scryfall.com/card/dmr/301/dark-withering?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/b/abc427d9-2697-4e60-b1eb-948a6556f1ad.jpg?1675201752",
+    "normal": "https://cards.scryfall.io/normal/front/a/b/abc427d9-2697-4e60-b1eb-948a6556f1ad.jpg?1675201752",
+    "large": "https://cards.scryfall.io/large/front/a/b/abc427d9-2697-4e60-b1eb-948a6556f1ad.jpg?1675201752",
+    "png": "https://cards.scryfall.io/png/front/a/b/abc427d9-2697-4e60-b1eb-948a6556f1ad.png?1675201752",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/b/abc427d9-2697-4e60-b1eb-948a6556f1ad.jpg?1675201752",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/b/abc427d9-2697-4e60-b1eb-948a6556f1ad.jpg?1675201752"
+  },
+  "mana_cost": "{4}{B}{B}",
+  "cmc": 6,
+  "type_line": "Instant",
+  "oracle_text": "Destroy target nonblack creature.\nMadness {B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Madness"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "ca4c2884-e539-4b7f-980d-5d6a50220f2a",
+  "set": "dmr",
+  "set_name": "Dominaria Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/ca4c2884-e539-4b7f-980d-5d6a50220f2a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dmr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/abc427d9-2697-4e60-b1eb-948a6556f1ad/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aac2720d2-b010-4fa9-8c94-b13680b75aac&unique=prints",
+  "collector_number": "301",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wayne Reynolds",
+  "artist_ids": [
+    "afc47cec-3ccc-404e-a8c6-4d83dd504271"
+  ],
+  "illustration_id": "fc37ca99-851e-457e-90f6-eb53c42e3895",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 7050,
+  "penny_rank": 4689,
+  "prices": {
+    "usd": "0.10",
+    "usd_foil": "0.27",
+    "usd_etched": null,
+    "eur": "0.22",
+    "eur_foil": "0.44",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=601370&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDark%2BWithering",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDark%2BWithering",
+    "edhrec": "https://edhrec.com/route/?cc=Dark+Withering"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F461393%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=688845&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/107287?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

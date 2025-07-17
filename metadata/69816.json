@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "a4c6aac8-2852-4948-9be1-b458f646f6c6",
+  "oracle_id": "0f4d513e-100d-4cbb-b919-09249cef5fad",
+  "multiverse_ids": [],
+  "tcgplayer_id": 524297,
+  "cardmarket_id": 740992,
+  "name": "Ellie and Alan, Paleontologists",
+  "lang": "en",
+  "released_at": "2023-11-17",
+  "uri": "https://api.scryfall.com/cards/a4c6aac8-2852-4948-9be1-b458f646f6c6",
+  "scryfall_uri": "https://scryfall.com/card/rex/35/ellie-and-alan-paleontologists?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/4/a4c6aac8-2852-4948-9be1-b458f646f6c6.jpg?1698988801",
+    "normal": "https://cards.scryfall.io/normal/front/a/4/a4c6aac8-2852-4948-9be1-b458f646f6c6.jpg?1698988801",
+    "large": "https://cards.scryfall.io/large/front/a/4/a4c6aac8-2852-4948-9be1-b458f646f6c6.jpg?1698988801",
+    "png": "https://cards.scryfall.io/png/front/a/4/a4c6aac8-2852-4948-9be1-b458f646f6c6.png?1698988801",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/4/a4c6aac8-2852-4948-9be1-b458f646f6c6.jpg?1698988801",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/4/a4c6aac8-2852-4948-9be1-b458f646f6c6.jpg?1698988801"
+  },
+  "mana_cost": "{2}{G}{W}{U}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Human Scientist",
+  "oracle_text": "{T}, Exile a creature card from your graveyard: Discover X, where X is the mana value of the exiled card. Activate only as a sorcery. (Exile cards from the top of your library until you exile a nonland card with that mana value or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)",
+  "power": "2",
+  "toughness": "5",
+  "colors": [
+    "G",
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "U",
+    "W"
+  ],
+  "keywords": [
+    "Discover"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+  "set": "rex",
+  "set_name": "Jurassic World Collection",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a4c6aac8-2852-4948-9be1-b458f646f6c6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0f4d513e-100d-4cbb-b919-09249cef5fad&unique=prints",
+  "collector_number": "35",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Zoltan Boros",
+  "artist_ids": [
+    "1885e6cb-c827-4896-994e-3d0a027d602f"
+  ],
+  "illustration_id": "55c3e9e2-6561-4982-ab72-233d22b1d1e1",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "triangle",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "embossed",
+    "boosterfun"
+  ],
+  "edhrec_rank": 12719,
+  "prices": {
+    "usd": null,
+    "usd_foil": "189.33",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "139.23",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEllie%2Band%2BAlan%252C%2BPaleontologists",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEllie%2Band%2BAlan%252C%2BPaleontologists",
+    "edhrec": "https://edhrec.com/route/?cc=Ellie+and+Alan%2C+Paleontologists"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F524297%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=740992&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ellie+and+Alan%2C+Paleontologists&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

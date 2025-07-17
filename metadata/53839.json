@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "7f7adcd1-f40c-46fd-8c18-e6d65788eb08",
+  "oracle_id": "caaedd67-e074-47c4-a956-da88a01f8996",
+  "multiverse_ids": [],
+  "mtgo_id": 103456,
+  "name": "Briar Hydra",
+  "lang": "en",
+  "released_at": "2022-11-28",
+  "uri": "https://api.scryfall.com/cards/7f7adcd1-f40c-46fd-8c18-e6d65788eb08",
+  "scryfall_uri": "https://scryfall.com/card/prm/103456/briar-hydra?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/f/7f7adcd1-f40c-46fd-8c18-e6d65788eb08.jpg?1681137402",
+    "normal": "https://cards.scryfall.io/normal/front/7/f/7f7adcd1-f40c-46fd-8c18-e6d65788eb08.jpg?1681137402",
+    "large": "https://cards.scryfall.io/large/front/7/f/7f7adcd1-f40c-46fd-8c18-e6d65788eb08.jpg?1681137402",
+    "png": "https://cards.scryfall.io/png/front/7/f/7f7adcd1-f40c-46fd-8c18-e6d65788eb08.png?1681137402",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/f/7f7adcd1-f40c-46fd-8c18-e6d65788eb08.jpg?1681137402",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/f/7f7adcd1-f40c-46fd-8c18-e6d65788eb08.jpg?1681137402"
+  },
+  "mana_cost": "{5}{G}",
+  "cmc": 6,
+  "type_line": "Creature — Plant Hydra",
+  "oracle_text": "Trample\nDomain — Whenever this creature deals combat damage to a player, put X +1/+1 counters on target creature you control, where X is the number of basic land types among lands you control.",
+  "power": "6",
+  "toughness": "6",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Trample",
+    "Domain"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "71165520-9471-40dd-a45b-2955b006c7d2",
+      "component": "combo_piece",
+      "name": "A-Briar Hydra",
+      "type_line": "Creature — Plant Hydra",
+      "uri": "https://api.scryfall.com/cards/71165520-9471-40dd-a45b-2955b006c7d2"
+    },
+    {
+      "object": "related_card",
+      "id": "7f7adcd1-f40c-46fd-8c18-e6d65788eb08",
+      "component": "combo_piece",
+      "name": "Briar Hydra",
+      "type_line": "Creature — Plant Hydra",
+      "uri": "https://api.scryfall.com/cards/7f7adcd1-f40c-46fd-8c18-e6d65788eb08"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7f7adcd1-f40c-46fd-8c18-e6d65788eb08/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acaaedd67-e074-47c4-a956-da88a01f8996&unique=prints",
+  "collector_number": "103456",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Caio Monteiro",
+  "artist_ids": [
+    "d5053eb6-af72-47a0-b6e8-023cc3b9aefb"
+  ],
+  "illustration_id": "3a959820-c9ea-4c3b-af97-d0273ae40465",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 12047,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.13"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBriar%2BHydra",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBriar%2BHydra",
+    "edhrec": "https://edhrec.com/route/?cc=Briar+Hydra"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBriar%2BHydra%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Briar+Hydra&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/103456?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

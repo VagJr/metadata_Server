@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "b4adfba1-c73a-43b4-8400-e11617958f7f",
+  "oracle_id": "817464d8-1e2d-4e12-96f8-5c7ec9b3e681",
+  "multiverse_ids": [
+    689253
+  ],
+  "mtgo_id": 136817,
+  "tcgplayer_id": 615414,
+  "cardmarket_id": 808824,
+  "name": "Thundering Broodwagon",
+  "lang": "en",
+  "released_at": "2025-02-14",
+  "uri": "https://api.scryfall.com/cards/b4adfba1-c73a-43b4-8400-e11617958f7f",
+  "scryfall_uri": "https://scryfall.com/card/dft/328/thundering-broodwagon?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/4/b4adfba1-c73a-43b4-8400-e11617958f7f.jpg?1738357268",
+    "normal": "https://cards.scryfall.io/normal/front/b/4/b4adfba1-c73a-43b4-8400-e11617958f7f.jpg?1738357268",
+    "large": "https://cards.scryfall.io/large/front/b/4/b4adfba1-c73a-43b4-8400-e11617958f7f.jpg?1738357268",
+    "png": "https://cards.scryfall.io/png/front/b/4/b4adfba1-c73a-43b4-8400-e11617958f7f.png?1738357268",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/4/b4adfba1-c73a-43b4-8400-e11617958f7f.jpg?1738357268",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/4/b4adfba1-c73a-43b4-8400-e11617958f7f.jpg?1738357268"
+  },
+  "mana_cost": "{2}{B}{B}{G}{G}",
+  "cmc": 6,
+  "type_line": "Artifact — Vehicle",
+  "oracle_text": "Menace, reach\nWhen this Vehicle enters, destroy target nonland permanent an opponent controls with mana value 4 or less.\nCrew 3\nCycling {2} ({2}, Discard this card: Draw a card.)",
+  "power": "6",
+  "toughness": "5",
+  "colors": [
+    "B",
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [
+    "Reach",
+    "Crew",
+    "Menace",
+    "Cycling"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "23464cc2-a69c-427d-b8a7-08e5d80235d7",
+  "set": "dft",
+  "set_name": "Aetherdrift",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/23464cc2-a69c-427d-b8a7-08e5d80235d7",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adft&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dft?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b4adfba1-c73a-43b4-8400-e11617958f7f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A817464d8-1e2d-4e12-96f8-5c7ec9b3e681&unique=prints",
+  "collector_number": "328",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Villarrte",
+  "artist_ids": [
+    "86e7f7ce-7a21-4f2d-9edd-28fa2a8d988b"
+  ],
+  "illustration_id": "ccd8359f-3606-4fe5-8348-b69eb7a5e51e",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 22445,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://x.com/Wizards_MagicEU/status/1883886018991943956",
+    "previewed_at": "2025-01-28"
+  },
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": "0.13",
+    "usd_etched": null,
+    "eur": "0.10",
+    "eur_foil": "0.13",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=689253&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThundering%2BBroodwagon",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThundering%2BBroodwagon",
+    "edhrec": "https://edhrec.com/route/?cc=Thundering+Broodwagon"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F615414%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=808824&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/136817?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

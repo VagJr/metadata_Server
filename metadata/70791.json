@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "a71d0330-ae9b-48c4-802b-b2383958e0d4",
+  "oracle_id": "56148ae7-a9df-4771-8d53-d9ffb815c884",
+  "multiverse_ids": [],
+  "mtgo_id": 140281,
+  "tcgplayer_id": 631200,
+  "cardmarket_id": 824573,
+  "name": "Sublime Epiphany",
+  "lang": "en",
+  "released_at": "2025-06-13",
+  "uri": "https://api.scryfall.com/cards/a71d0330-ae9b-48c4-802b-b2383958e0d4",
+  "scryfall_uri": "https://scryfall.com/card/fic/271/sublime-epiphany?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/7/a71d0330-ae9b-48c4-802b-b2383958e0d4.jpg?1748705167",
+    "normal": "https://cards.scryfall.io/normal/front/a/7/a71d0330-ae9b-48c4-802b-b2383958e0d4.jpg?1748705167",
+    "large": "https://cards.scryfall.io/large/front/a/7/a71d0330-ae9b-48c4-802b-b2383958e0d4.jpg?1748705167",
+    "png": "https://cards.scryfall.io/png/front/a/7/a71d0330-ae9b-48c4-802b-b2383958e0d4.png?1748705167",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/7/a71d0330-ae9b-48c4-802b-b2383958e0d4.jpg?1748705167",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/7/a71d0330-ae9b-48c4-802b-b2383958e0d4.jpg?1748705167"
+  },
+  "mana_cost": "{4}{U}{U}",
+  "cmc": 6,
+  "type_line": "Instant",
+  "oracle_text": "Choose one or more —\n• Counter target spell.\n• Counter target activated or triggered ability.\n• Return target nonland permanent to its owner's hand.\n• Create a token that's a copy of target creature you control.\n• Target player draws a card.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a71d0330-ae9b-48c4-802b-b2383958e0d4",
+      "component": "combo_piece",
+      "name": "Sublime Epiphany",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/a71d0330-ae9b-48c4-802b-b2383958e0d4"
+    },
+    {
+      "object": "related_card",
+      "id": "81c9d442-d7d5-4911-b0b9-c3206faeab1d",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/81c9d442-d7d5-4911-b0b9-c3206faeab1d"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "30659956-4558-4cbf-a65f-34cd00c89579",
+  "set": "fic",
+  "set_name": "Final Fantasy Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/30659956-4558-4cbf-a65f-34cd00c89579",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afic&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fic?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a71d0330-ae9b-48c4-802b-b2383958e0d4/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A56148ae7-a9df-4771-8d53-d9ffb815c884&unique=prints",
+  "collector_number": "271",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "S. Makimura",
+  "artist_ids": [
+    "13927fb6-8e12-4015-b9a0-8a6d879e937e"
+  ],
+  "illustration_id": "504fc0d2-0d4b-429b-bd6b-e93e47e4b445",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "ffxiv",
+    "surgefoil"
+  ],
+  "edhrec_rank": 1761,
+  "penny_rank": 2971,
+  "prices": {
+    "usd": "0.36",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.48",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSublime%2BEpiphany",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSublime%2BEpiphany",
+    "edhrec": "https://edhrec.com/route/?cc=Sublime+Epiphany"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F631200%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=824573&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/140281?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

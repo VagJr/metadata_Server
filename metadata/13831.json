@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "2091e863-30f3-475e-9a61-e76fc4cf1ce2",
+  "oracle_id": "f688f839-c7c2-45a9-8c60-9fdb030803e6",
+  "multiverse_ids": [],
+  "tcgplayer_id": 490220,
+  "cardmarket_id": 703589,
+  "name": "Evin, Waterdeep Opportunist",
+  "flavor_name": "Forge, Neverwinter Charlatan",
+  "lang": "en",
+  "released_at": "2023-03-26",
+  "uri": "https://api.scryfall.com/cards/2091e863-30f3-475e-9a61-e76fc4cf1ce2",
+  "scryfall_uri": "https://scryfall.com/card/sld/1239/evin-waterdeep-opportunist?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/0/2091e863-30f3-475e-9a61-e76fc4cf1ce2.jpg?1736769560",
+    "normal": "https://cards.scryfall.io/normal/front/2/0/2091e863-30f3-475e-9a61-e76fc4cf1ce2.jpg?1736769560",
+    "large": "https://cards.scryfall.io/large/front/2/0/2091e863-30f3-475e-9a61-e76fc4cf1ce2.jpg?1736769560",
+    "png": "https://cards.scryfall.io/png/front/2/0/2091e863-30f3-475e-9a61-e76fc4cf1ce2.png?1736769560",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/0/2091e863-30f3-475e-9a61-e76fc4cf1ce2.jpg?1736769560",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/0/2091e863-30f3-475e-9a61-e76fc4cf1ce2.jpg?1736769560"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Human Rogue",
+  "oracle_text": "Menace\nWard—Sacrifice a creature.\nEvin gets +2/+0 for each Treasure you control.\nWhenever one or more players sacrifice one or more creatures, you create a tapped Treasure token. This ability triggers only once each turn.",
+  "power": "2",
+  "toughness": "4",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Treasure",
+    "Menace",
+    "Ward"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "73f94f72-a689-41ca-b1af-6004e2a57e9c",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/73f94f72-a689-41ca-b1af-6004e2a57e9c"
+    },
+    {
+      "object": "related_card",
+      "id": "2091e863-30f3-475e-9a61-e76fc4cf1ce2",
+      "component": "combo_piece",
+      "name": "Evin, Waterdeep Opportunist",
+      "type_line": "Legendary Creature — Human Rogue",
+      "uri": "https://api.scryfall.com/cards/2091e863-30f3-475e-9a61-e76fc4cf1ce2"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2091e863-30f3-475e-9a61-e76fc4cf1ce2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af688f839-c7c2-45a9-8c60-9fdb030803e6&unique=prints",
+  "collector_number": "1239",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Liangliang Zhang",
+  "artist_ids": [
+    "d4794d07-d985-4ca2-8129-cd4cbf55a651"
+  ],
+  "illustration_id": "3a597c12-2dea-47fe-b06c-d2c4f7a9ed36",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "triangle",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 11329,
+  "prices": {
+    "usd": "14.27",
+    "usd_foil": "16.32",
+    "usd_etched": null,
+    "eur": "18.38",
+    "eur_foil": "18.17",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEvin%252C%2BWaterdeep%2BOpportunist",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEvin%252C%2BWaterdeep%2BOpportunist",
+    "edhrec": "https://edhrec.com/route/?cc=Evin%2C+Waterdeep+Opportunist"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F490220%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=703589&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Evin%2C+Waterdeep+Opportunist&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

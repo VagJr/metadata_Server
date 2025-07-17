@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "c9c5e3b2-fbb6-45af-8977-833922302eb3",
+  "oracle_id": "7a21ea22-3cd7-4c11-8895-5943c0d93a0d",
+  "multiverse_ids": [],
+  "mtgo_id": 104006,
+  "mtgo_foil_id": 104007,
+  "tcgplayer_id": 456770,
+  "cardmarket_id": 689117,
+  "name": "Verdant Force",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/c9c5e3b2-fbb6-45af-8977-833922302eb3",
+  "scryfall_uri": "https://scryfall.com/card/scd/214/verdant-force?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/9/c9c5e3b2-fbb6-45af-8977-833922302eb3.jpg?1674675766",
+    "normal": "https://cards.scryfall.io/normal/front/c/9/c9c5e3b2-fbb6-45af-8977-833922302eb3.jpg?1674675766",
+    "large": "https://cards.scryfall.io/large/front/c/9/c9c5e3b2-fbb6-45af-8977-833922302eb3.jpg?1674675766",
+    "png": "https://cards.scryfall.io/png/front/c/9/c9c5e3b2-fbb6-45af-8977-833922302eb3.png?1674675766",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/9/c9c5e3b2-fbb6-45af-8977-833922302eb3.jpg?1674675766",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/9/c9c5e3b2-fbb6-45af-8977-833922302eb3.jpg?1674675766"
+  },
+  "mana_cost": "{5}{G}{G}{G}",
+  "cmc": 8,
+  "type_line": "Creature — Elemental",
+  "oracle_text": "At the beginning of each upkeep, create a 1/1 green Saproling creature token.",
+  "power": "7",
+  "toughness": "7",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "58427912-f7ab-43a9-aed3-dcae517b5698",
+      "component": "token",
+      "name": "Saproling",
+      "type_line": "Token Creature — Saproling",
+      "uri": "https://api.scryfall.com/cards/58427912-f7ab-43a9-aed3-dcae517b5698"
+    },
+    {
+      "object": "related_card",
+      "id": "c9c5e3b2-fbb6-45af-8977-833922302eb3",
+      "component": "combo_piece",
+      "name": "Verdant Force",
+      "type_line": "Creature — Elemental",
+      "uri": "https://api.scryfall.com/cards/c9c5e3b2-fbb6-45af-8977-833922302eb3"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set": "scd",
+  "set_name": "Starter Commander Decks",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ascd&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/scd?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c9c5e3b2-fbb6-45af-8977-833922302eb3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a21ea22-3cd7-4c11-8895-5943c0d93a0d&unique=prints",
+  "collector_number": "214",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Left to itself, nature overflows any container, overthrows any restriction, and overreaches any boundary.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "DiTerlizzi",
+  "artist_ids": [
+    "ed44dce4-30cf-4c2c-b2e1-a19ba2295690"
+  ],
+  "illustration_id": "b0292b83-65f8-411b-af5c-7eed19441395",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4322,
+  "penny_rank": 9437,
+  "prices": {
+    "usd": "0.26",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.26",
+    "eur_foil": null,
+    "tix": "0.48"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVerdant%2BForce",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVerdant%2BForce",
+    "edhrec": "https://edhrec.com/route/?cc=Verdant+Force"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F456770%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=689117&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/104006?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "object": "card",
+  "id": "f957c4d9-834b-4ad1-915b-5f496d63489e",
+  "oracle_id": "e461ef8d-59ca-440a-8773-da1de3b6b195",
+  "multiverse_ids": [
+    636051
+  ],
+  "mtgo_id": 119298,
+  "tcgplayer_id": 518134,
+  "cardmarket_id": 737496,
+  "name": "Bill the Pony",
+  "lang": "en",
+  "released_at": "2023-11-03",
+  "uri": "https://api.scryfall.com/cards/f957c4d9-834b-4ad1-915b-5f496d63489e",
+  "scryfall_uri": "https://scryfall.com/card/ltr/454/bill-the-pony?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/9/f957c4d9-834b-4ad1-915b-5f496d63489e.jpg?1695448193",
+    "normal": "https://cards.scryfall.io/normal/front/f/9/f957c4d9-834b-4ad1-915b-5f496d63489e.jpg?1695448193",
+    "large": "https://cards.scryfall.io/large/front/f/9/f957c4d9-834b-4ad1-915b-5f496d63489e.jpg?1695448193",
+    "png": "https://cards.scryfall.io/png/front/f/9/f957c4d9-834b-4ad1-915b-5f496d63489e.png?1695448193",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/9/f957c4d9-834b-4ad1-915b-5f496d63489e.jpg?1695448193",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/9/f957c4d9-834b-4ad1-915b-5f496d63489e.jpg?1695448193"
+  },
+  "mana_cost": "{3}{W}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Horse",
+  "oracle_text": "When Bill the Pony enters, create two Food tokens. (They're artifacts with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nSacrifice a Food: Until end of turn, target creature you control assigns combat damage equal to its toughness rather than its power.",
+  "power": "1",
+  "toughness": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Food"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "4a029bdc-92e3-4d85-8af5-e33429a5f017",
+      "component": "token",
+      "name": "Food",
+      "type_line": "Token Artifact — Food",
+      "uri": "https://api.scryfall.com/cards/4a029bdc-92e3-4d85-8af5-e33429a5f017"
+    },
+    {
+      "object": "related_card",
+      "id": "f957c4d9-834b-4ad1-915b-5f496d63489e",
+      "component": "combo_piece",
+      "name": "Bill the Pony",
+      "type_line": "Legendary Creature — Horse",
+      "uri": "https://api.scryfall.com/cards/f957c4d9-834b-4ad1-915b-5f496d63489e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "08078706-ac5d-439b-8f01-894d38751367",
+  "set": "ltr",
+  "set_name": "The Lord of the Rings: Tales of Middle-earth",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/08078706-ac5d-439b-8f01-894d38751367",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f957c4d9-834b-4ad1-915b-5f496d63489e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae461ef8d-59ca-440a-8773-da1de3b6b195&unique=prints",
+  "collector_number": "454",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Christina Kraus",
+  "artist_ids": [
+    "685354c3-302d-486a-b575-cb19bb2c31c9"
+  ],
+  "illustration_id": "8c7e9d5d-e696-4275-9ec4-3dad7024dbef",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun",
+    "silverfoil",
+    "scroll"
+  ],
+  "edhrec_rank": 7556,
+  "penny_rank": 12900,
+  "prices": {
+    "usd": "0.24",
+    "usd_foil": "0.89",
+    "usd_etched": null,
+    "eur": "0.22",
+    "eur_foil": null,
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=636051&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBill%2Bthe%2BPony",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBill%2Bthe%2BPony",
+    "edhrec": "https://edhrec.com/route/?cc=Bill+the+Pony"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F518134%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=737496&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/119298?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

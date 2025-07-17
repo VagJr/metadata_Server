@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "ab2ddf36-c624-48ba-8ab3-43e8c79eeb83",
+  "oracle_id": "50ab0194-c7dc-4f11-abc0-1a82393cc42e",
+  "multiverse_ids": [],
+  "tcgplayer_id": 560984,
+  "name": "Pawpatch Recruit",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/ab2ddf36-c624-48ba-8ab3-43e8c79eeb83",
+  "scryfall_uri": "https://scryfall.com/card/pblb/187p/pawpatch-recruit?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/b/ab2ddf36-c624-48ba-8ab3-43e8c79eeb83.jpg?1723081711",
+    "normal": "https://cards.scryfall.io/normal/front/a/b/ab2ddf36-c624-48ba-8ab3-43e8c79eeb83.jpg?1723081711",
+    "large": "https://cards.scryfall.io/large/front/a/b/ab2ddf36-c624-48ba-8ab3-43e8c79eeb83.jpg?1723081711",
+    "png": "https://cards.scryfall.io/png/front/a/b/ab2ddf36-c624-48ba-8ab3-43e8c79eeb83.png?1723081711",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/b/ab2ddf36-c624-48ba-8ab3-43e8c79eeb83.jpg?1723081711",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/b/ab2ddf36-c624-48ba-8ab3-43e8c79eeb83.jpg?1723081711"
+  },
+  "mana_cost": "{G}",
+  "cmc": 1,
+  "type_line": "Creature — Rabbit Warrior",
+  "oracle_text": "Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)\nTrample\nWhenever a creature you control becomes the target of a spell or ability an opponent controls, put a +1/+1 counter on target creature you control other than that creature.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Offspring",
+    "Trample"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "7cdd8679-93a7-4e58-a6f3-b48897697e89",
+      "component": "token",
+      "name": "Pawpatch Recruit",
+      "type_line": "Token Creature — Rabbit Warrior",
+      "uri": "https://api.scryfall.com/cards/7cdd8679-93a7-4e58-a6f3-b48897697e89"
+    },
+    {
+      "object": "related_card",
+      "id": "2d669d7d-a249-44d8-a650-719f57ca87eb",
+      "component": "combo_piece",
+      "name": "Pawpatch Recruit",
+      "type_line": "Creature — Rabbit Warrior",
+      "uri": "https://api.scryfall.com/cards/2d669d7d-a249-44d8-a650-719f57ca87eb"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "3e2b178a-4f7b-4bb3-9af3-3c1ffcdfaa3e",
+  "set": "pblb",
+  "set_name": "Bloomburrow Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/3e2b178a-4f7b-4bb3-9af3-3c1ffcdfaa3e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apblb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pblb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ab2ddf36-c624-48ba-8ab3-43e8c79eeb83/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A50ab0194-c7dc-4f11-abc0-1a82393cc42e&unique=prints",
+  "collector_number": "187p",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Johan Grenier",
+  "artist_ids": [
+    "465e38b8-7eed-4d22-a6d2-d3603ee0c00b"
+  ],
+  "illustration_id": "4d6bd70b-73ad-44ae-947f-e017a0cec97a",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 9350,
+  "penny_rank": 1671,
+  "prices": {
+    "usd": "2.61",
+    "usd_foil": "4.52",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPawpatch%2BRecruit",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPawpatch%2BRecruit",
+    "edhrec": "https://edhrec.com/route/?cc=Pawpatch+Recruit"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560984%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pawpatch+Recruit&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Pawpatch+Recruit&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

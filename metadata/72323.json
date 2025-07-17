@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "aaa1ed81-35fe-4e8b-97a6-fe5c761baf04",
+  "oracle_id": "6dd8ba09-f117-4514-9e09-f9f9f5fb5025",
+  "multiverse_ids": [],
+  "tcgplayer_id": 254574,
+  "cardmarket_id": 583935,
+  "name": "Floodhound",
+  "lang": "en",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/aaa1ed81-35fe-4e8b-97a6-fe5c761baf04",
+  "scryfall_uri": "https://scryfall.com/card/plst/MH2-42/floodhound?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/a/aaa1ed81-35fe-4e8b-97a6-fe5c761baf04.jpg?1656521204",
+    "normal": "https://cards.scryfall.io/normal/front/a/a/aaa1ed81-35fe-4e8b-97a6-fe5c761baf04.jpg?1656521204",
+    "large": "https://cards.scryfall.io/large/front/a/a/aaa1ed81-35fe-4e8b-97a6-fe5c761baf04.jpg?1656521204",
+    "png": "https://cards.scryfall.io/png/front/a/a/aaa1ed81-35fe-4e8b-97a6-fe5c761baf04.png?1656521204",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/a/aaa1ed81-35fe-4e8b-97a6-fe5c761baf04.jpg?1656521204",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/a/aaa1ed81-35fe-4e8b-97a6-fe5c761baf04.jpg?1656521204"
+  },
+  "mana_cost": "{U}",
+  "cmc": 1,
+  "type_line": "Creature — Elemental Dog",
+  "oracle_text": "{3}, {T}: Investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+  "power": "1",
+  "toughness": "2",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Investigate"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "ef8142a7-2937-4381-97eb-02d45c6ea391",
+      "component": "token",
+      "name": "Clue",
+      "type_line": "Token Artifact — Clue",
+      "uri": "https://api.scryfall.com/cards/ef8142a7-2937-4381-97eb-02d45c6ea391"
+    },
+    {
+      "object": "related_card",
+      "id": "aaa1ed81-35fe-4e8b-97a6-fe5c761baf04",
+      "component": "combo_piece",
+      "name": "Floodhound",
+      "type_line": "Creature — Elemental Dog",
+      "uri": "https://api.scryfall.com/cards/aaa1ed81-35fe-4e8b-97a6-fe5c761baf04"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/aaa1ed81-35fe-4e8b-97a6-fe5c761baf04/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6dd8ba09-f117-4514-9e09-f9f9f5fb5025&unique=prints",
+  "collector_number": "MH2-42",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "The thief doubled back twice, doused herself with perfume, crossed the ocean, and still woke up with her pursuer close on her heels.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lius Lasahido",
+  "artist_ids": [
+    "0a0e9093-ce44-4a69-93a7-09b63e7c330d"
+  ],
+  "illustration_id": "f2ceb3a7-be8c-4762-af60-e517b6f4680e",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 11495,
+  "penny_rank": 12082,
+  "prices": {
+    "usd": "0.11",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFloodhound",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFloodhound",
+    "edhrec": "https://edhrec.com/route/?cc=Floodhound"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F254574%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=583935&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Floodhound&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

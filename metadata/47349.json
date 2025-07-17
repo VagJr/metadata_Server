@@ -1,0 +1,153 @@
+{
+  "object": "card",
+  "id": "6feaf235-ab3a-41f2-ae81-4f2d0b109ebc",
+  "oracle_id": "f6d3f145-00e0-47cd-91d8-0381c19a000d",
+  "multiverse_ids": [
+    678870
+  ],
+  "mtgo_id": 132986,
+  "tcgplayer_id": 589414,
+  "cardmarket_id": 795198,
+  "name": "Kaito, Cunning Infiltrator",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/6feaf235-ab3a-41f2-ae81-4f2d0b109ebc",
+  "scryfall_uri": "https://scryfall.com/card/fdn/418/kaito-cunning-infiltrator?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/f/6feaf235-ab3a-41f2-ae81-4f2d0b109ebc.jpg?1734454637",
+    "normal": "https://cards.scryfall.io/normal/front/6/f/6feaf235-ab3a-41f2-ae81-4f2d0b109ebc.jpg?1734454637",
+    "large": "https://cards.scryfall.io/large/front/6/f/6feaf235-ab3a-41f2-ae81-4f2d0b109ebc.jpg?1734454637",
+    "png": "https://cards.scryfall.io/png/front/6/f/6feaf235-ab3a-41f2-ae81-4f2d0b109ebc.png?1734454637",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/f/6feaf235-ab3a-41f2-ae81-4f2d0b109ebc.jpg?1734454637",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/f/6feaf235-ab3a-41f2-ae81-4f2d0b109ebc.jpg?1734454637"
+  },
+  "mana_cost": "{1}{U}{U}",
+  "cmc": 3,
+  "type_line": "Legendary Planeswalker — Kaito",
+  "oracle_text": "Whenever a creature you control deals combat damage to a player, put a loyalty counter on Kaito.\n+1: Up to one target creature you control can't be blocked this turn. Draw a card, then discard a card.\n−2: Create a 2/1 blue Ninja creature token.\n−9: You get an emblem with \"Whenever a player casts a spell, you create a 2/1 blue Ninja creature token.\"",
+  "loyalty": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "aeec04b1-475c-4e55-b72f-327ea5258146",
+      "component": "token",
+      "name": "Ninja",
+      "type_line": "Token Creature — Ninja",
+      "uri": "https://api.scryfall.com/cards/aeec04b1-475c-4e55-b72f-327ea5258146"
+    },
+    {
+      "object": "related_card",
+      "id": "bfe4b1d5-f252-48fe-b4a1-7fbbc2523cf1",
+      "component": "combo_piece",
+      "name": "Kaito, Cunning Infiltrator Emblem",
+      "type_line": "Emblem",
+      "uri": "https://api.scryfall.com/cards/bfe4b1d5-f252-48fe-b4a1-7fbbc2523cf1"
+    },
+    {
+      "object": "related_card",
+      "id": "84779aa7-6147-4c83-aab2-ae4346524977",
+      "component": "combo_piece",
+      "name": "Kaito, Cunning Infiltrator",
+      "type_line": "Legendary Planeswalker — Kaito",
+      "uri": "https://api.scryfall.com/cards/84779aa7-6147-4c83-aab2-ae4346524977"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set": "fdn",
+  "set_name": "Foundations",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afdn&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fdn?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6feaf235-ab3a-41f2-ae81-4f2d0b109ebc/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af6d3f145-00e0-47cd-91d8-0381c19a000d&unique=prints",
+  "collector_number": "418",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Michal Ivan",
+  "artist_ids": [
+    "89ba58cb-84a6-480b-a86c-d8ae57df2834"
+  ],
+  "illustration_id": "75266eab-9c7a-4680-bb65-3238b4e2f74c",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "manafoil",
+    "boosterfun"
+  ],
+  "edhrec_rank": 6307,
+  "prices": {
+    "usd": null,
+    "usd_foil": "23.83",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "11.75",
+    "tix": "0.44"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=678870&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKaito%252C%2BCunning%2BInfiltrator",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKaito%252C%2BCunning%2BInfiltrator",
+    "edhrec": "https://edhrec.com/route/?cc=Kaito%2C+Cunning+Infiltrator"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F589414%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=795198&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/132986?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

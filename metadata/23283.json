@@ -1,0 +1,181 @@
+{
+  "object": "card",
+  "id": "36c22e93-4b37-4912-9491-eff17510b08d",
+  "oracle_id": "6e0b3317-394d-42cc-a350-cb5ce051787a",
+  "multiverse_ids": [],
+  "mtgo_id": 95946,
+  "tcgplayer_id": 255572,
+  "cardmarket_id": 585405,
+  "name": "Ill-Tempered Loner // Howlpack Avenger",
+  "lang": "en",
+  "released_at": "2022-01-28",
+  "uri": "https://api.scryfall.com/cards/36c22e93-4b37-4912-9491-eff17510b08d",
+  "scryfall_uri": "https://scryfall.com/card/dbl/429/ill-tempered-loner-howlpack-avenger?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 4,
+  "type_line": "Creature — Human Werewolf // Creature — Werewolf",
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Daybound",
+    "Nightbound"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Ill-Tempered Loner",
+      "mana_cost": "{2}{R}{R}",
+      "type_line": "Creature — Human Werewolf",
+      "oracle_text": "Whenever this creature is dealt damage, it deals that much damage to any target.\n{1}{R}: This creature gets +2/+0 until end of turn.\nDaybound (If a player casts no spells during their own turn, it becomes night next turn.)",
+      "colors": [
+        "R"
+      ],
+      "power": "3",
+      "toughness": "3",
+      "artist": "Grzegorz Rutkowski",
+      "artist_id": "b5f49d0d-8056-48e3-b614-090e656b4f9c",
+      "illustration_id": "6b23674b-fcd6-4cb9-a045-9f5c2dcee206",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/3/6/36c22e93-4b37-4912-9491-eff17510b08d.jpg?1673162926",
+        "normal": "https://cards.scryfall.io/normal/front/3/6/36c22e93-4b37-4912-9491-eff17510b08d.jpg?1673162926",
+        "large": "https://cards.scryfall.io/large/front/3/6/36c22e93-4b37-4912-9491-eff17510b08d.jpg?1673162926",
+        "png": "https://cards.scryfall.io/png/front/3/6/36c22e93-4b37-4912-9491-eff17510b08d.png?1673162926",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/3/6/36c22e93-4b37-4912-9491-eff17510b08d.jpg?1673162926",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/3/6/36c22e93-4b37-4912-9491-eff17510b08d.jpg?1673162926"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Howlpack Avenger",
+      "mana_cost": "",
+      "type_line": "Creature — Werewolf",
+      "oracle_text": "Whenever a permanent you control is dealt damage, this creature deals that much damage to any target.\n{1}{R}: This creature gets +2/+0 until end of turn.\nNightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)",
+      "colors": [
+        "R"
+      ],
+      "color_indicator": [
+        "R"
+      ],
+      "power": "4",
+      "toughness": "4",
+      "artist": "Grzegorz Rutkowski",
+      "artist_id": "b5f49d0d-8056-48e3-b614-090e656b4f9c",
+      "illustration_id": "dfbe5f10-53d0-490b-a32b-25f0f47b5308",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/3/6/36c22e93-4b37-4912-9491-eff17510b08d.jpg?1673162926",
+        "normal": "https://cards.scryfall.io/normal/back/3/6/36c22e93-4b37-4912-9491-eff17510b08d.jpg?1673162926",
+        "large": "https://cards.scryfall.io/large/back/3/6/36c22e93-4b37-4912-9491-eff17510b08d.jpg?1673162926",
+        "png": "https://cards.scryfall.io/png/back/3/6/36c22e93-4b37-4912-9491-eff17510b08d.png?1673162926",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/3/6/36c22e93-4b37-4912-9491-eff17510b08d.jpg?1673162926",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/3/6/36c22e93-4b37-4912-9491-eff17510b08d.jpg?1673162926"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "36c22e93-4b37-4912-9491-eff17510b08d",
+      "component": "combo_piece",
+      "name": "Ill-Tempered Loner // Howlpack Avenger",
+      "type_line": "Creature — Human Werewolf // Creature — Werewolf",
+      "uri": "https://api.scryfall.com/cards/36c22e93-4b37-4912-9491-eff17510b08d"
+    },
+    {
+      "object": "related_card",
+      "id": "dc26e13b-7a0f-4e7f-8593-4f22234f4517",
+      "component": "combo_piece",
+      "name": "Day // Night",
+      "type_line": "Card // Card",
+      "uri": "https://api.scryfall.com/cards/dc26e13b-7a0f-4e7f-8593-4f22234f4517"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set": "dbl",
+  "set_name": "Innistrad: Double Feature",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adbl&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dbl?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/36c22e93-4b37-4912-9491-eff17510b08d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6e0b3317-394d-42cc-a350-cb5ce051787a&unique=prints",
+  "collector_number": "429",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Grzegorz Rutkowski",
+  "artist_ids": [
+    "b5f49d0d-8056-48e3-b614-090e656b4f9c"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted",
+    "sunmoondfc"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 6027,
+  "penny_rank": 8037,
+  "prices": {
+    "usd": "0.80",
+    "usd_foil": "4.17",
+    "usd_etched": null,
+    "eur": "0.65",
+    "eur_foil": "1.78",
+    "tix": "0.15"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DIll-Tempered%2BLoner%2B%252F%252F%2BHowlpack%2BAvenger",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DIll-Tempered%2BLoner%2B%252F%252F%2BHowlpack%2BAvenger",
+    "edhrec": "https://edhrec.com/route/?cc=Ill-Tempered+Loner"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F255572%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=585405&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/95946?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

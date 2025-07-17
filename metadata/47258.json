@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "6fa95ad6-c0f0-4842-aa74-d39080105be0",
+  "oracle_id": "87bc0b1f-49ef-4c06-9049-2c148b467882",
+  "multiverse_ids": [
+    645409
+  ],
+  "mtgo_id": 120201,
+  "tcgplayer_id": 531257,
+  "name": "Copy Enchantment",
+  "lang": "en",
+  "released_at": "2024-01-12",
+  "uri": "https://api.scryfall.com/cards/6fa95ad6-c0f0-4842-aa74-d39080105be0",
+  "scryfall_uri": "https://scryfall.com/card/rvr/312/copy-enchantment?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/f/6fa95ad6-c0f0-4842-aa74-d39080105be0.jpg?1702418337",
+    "normal": "https://cards.scryfall.io/normal/front/6/f/6fa95ad6-c0f0-4842-aa74-d39080105be0.jpg?1702418337",
+    "large": "https://cards.scryfall.io/large/front/6/f/6fa95ad6-c0f0-4842-aa74-d39080105be0.jpg?1702418337",
+    "png": "https://cards.scryfall.io/png/front/6/f/6fa95ad6-c0f0-4842-aa74-d39080105be0.png?1702418337",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/f/6fa95ad6-c0f0-4842-aa74-d39080105be0.jpg?1702418337",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/f/6fa95ad6-c0f0-4842-aa74-d39080105be0.jpg?1702418337"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Enchantment",
+  "oracle_text": "You may have this enchantment enter as a copy of any enchantment on the battlefield.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+  "set": "rvr",
+  "set_name": "Ravnica Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arvr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/rvr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6fa95ad6-c0f0-4842-aa74-d39080105be0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A87bc0b1f-49ef-4c06-9049-2c148b467882&unique=prints",
+  "collector_number": "312",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Simic mages create redundant backups of their experiments to reduce the consequences of catastrophe.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Joel Thomas",
+  "artist_ids": [
+    "87723513-8114-4e78-bf30-a2957fb16fd0"
+  ],
+  "illustration_id": "eac3dfda-52e4-48e3-a728-cf413912d6de",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 2620,
+  "penny_rank": 6993,
+  "prices": {
+    "usd": "0.48",
+    "usd_foil": "0.72",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=645409&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCopy%2BEnchantment",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCopy%2BEnchantment",
+    "edhrec": "https://edhrec.com/route/?cc=Copy+Enchantment"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F531257%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Copy+Enchantment&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/120201?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

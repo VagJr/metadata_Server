@@ -1,0 +1,154 @@
+{
+  "object": "card",
+  "id": "febaaeae-5c0d-45fa-8169-b27b4996f18e",
+  "oracle_id": "837c5d0e-0a33-4f9d-ae25-68a687bdf640",
+  "multiverse_ids": [
+    607072
+  ],
+  "mtgo_id": 109916,
+  "arena_id": 84308,
+  "tcgplayer_id": 490490,
+  "cardmarket_id": 703490,
+  "name": "Chrome Host Seedshark",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/febaaeae-5c0d-45fa-8169-b27b4996f18e",
+  "scryfall_uri": "https://scryfall.com/card/mom/51/chrome-host-seedshark?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/e/febaaeae-5c0d-45fa-8169-b27b4996f18e.jpg?1682203038",
+    "normal": "https://cards.scryfall.io/normal/front/f/e/febaaeae-5c0d-45fa-8169-b27b4996f18e.jpg?1682203038",
+    "large": "https://cards.scryfall.io/large/front/f/e/febaaeae-5c0d-45fa-8169-b27b4996f18e.jpg?1682203038",
+    "png": "https://cards.scryfall.io/png/front/f/e/febaaeae-5c0d-45fa-8169-b27b4996f18e.png?1682203038",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/e/febaaeae-5c0d-45fa-8169-b27b4996f18e.jpg?1682203038",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/e/febaaeae-5c0d-45fa-8169-b27b4996f18e.jpg?1682203038"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Creature — Phyrexian Shark",
+  "oracle_text": "Flying\nWhenever you cast a noncreature spell, incubate X, where X is that spell's mana value. (Create an Incubator token with X +1/+1 counters on it and \"{2}: Transform this token.\" It transforms into a 0/0 Phyrexian artifact creature.)",
+  "power": "2",
+  "toughness": "4",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying",
+    "Incubate",
+    "Transform"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "65c77833-8cd7-446f-bb67-454f85a972a4",
+      "component": "combo_piece",
+      "name": "Chrome Host Seedshark",
+      "type_line": "Creature — Phyrexian Shark",
+      "uri": "https://api.scryfall.com/cards/65c77833-8cd7-446f-bb67-454f85a972a4"
+    },
+    {
+      "object": "related_card",
+      "id": "2c5ed737-657b-43bf-b222-941da7579a4a",
+      "component": "token",
+      "name": "Incubator // Phyrexian",
+      "type_line": "Token Artifact — Incubator // Token Artifact Creature — Phyrexian",
+      "uri": "https://api.scryfall.com/cards/2c5ed737-657b-43bf-b222-941da7579a4a"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "392f7315-dc53-40a3-a2cc-5482dbd498b3",
+  "set": "mom",
+  "set_name": "March of the Machine",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/392f7315-dc53-40a3-a2cc-5482dbd498b3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/febaaeae-5c0d-45fa-8169-b27b4996f18e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A837c5d0e-0a33-4f9d-ae25-68a687bdf640&unique=prints",
+  "collector_number": "51",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Donato Giancola",
+  "artist_ids": [
+    "90332db2-aecb-4d79-917b-95cbeb8d0cb6"
+  ],
+  "illustration_id": "93c458ab-c843-43be-837c-d033f205a8b4",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3192,
+  "penny_rank": 263,
+  "preview": {
+    "source": "IGN",
+    "source_uri": "https://www.ign.com/articles/magic-the-gatherings-march-of-the-machine-card-reveal-spoilers-combo",
+    "previewed_at": "2023-03-29"
+  },
+  "prices": {
+    "usd": "0.60",
+    "usd_foil": "1.03",
+    "usd_etched": null,
+    "eur": "0.87",
+    "eur_foil": "1.34",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=607072&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DChrome%2BHost%2BSeedshark",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DChrome%2BHost%2BSeedshark",
+    "edhrec": "https://edhrec.com/route/?cc=Chrome+Host+Seedshark"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F490490%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=703490&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/109916?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

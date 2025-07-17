@@ -1,0 +1,109 @@
+{
+  "object": "card",
+  "id": "1a2484d0-3897-4a1e-94c7-c52159fe0f1f",
+  "oracle_id": "56719f6a-1a6c-4c0a-8d21-18f7d7350b68",
+  "multiverse_ids": [],
+  "arena_id": 69445,
+  "name": "Swamp",
+  "lang": "en",
+  "released_at": "2018-07-14",
+  "uri": "https://api.scryfall.com/cards/1a2484d0-3897-4a1e-94c7-c52159fe0f1f",
+  "scryfall_uri": "https://scryfall.com/card/xana/53/swamp?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/a/1a2484d0-3897-4a1e-94c7-c52159fe0f1f.jpg?1605205585",
+    "normal": "https://cards.scryfall.io/normal/front/1/a/1a2484d0-3897-4a1e-94c7-c52159fe0f1f.jpg?1605205585",
+    "large": "https://cards.scryfall.io/large/front/1/a/1a2484d0-3897-4a1e-94c7-c52159fe0f1f.jpg?1605205585",
+    "png": "https://cards.scryfall.io/png/front/1/a/1a2484d0-3897-4a1e-94c7-c52159fe0f1f.png?1605205585",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/a/1a2484d0-3897-4a1e-94c7-c52159fe0f1f.jpg?1605205585",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/a/1a2484d0-3897-4a1e-94c7-c52159fe0f1f.jpg?1605205585"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Basic Land — Swamp",
+  "oracle_text": "({T}: Add {B}.)",
+  "colors": [],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9e5d6aa8-3fc1-4175-a851-894e42c0e25a",
+  "set": "xana",
+  "set_name": "Arena New Player Experience Extras",
+  "set_type": "memorabilia",
+  "set_uri": "https://api.scryfall.com/sets/9e5d6aa8-3fc1-4175-a851-894e42c0e25a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Axana&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/xana?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1a2484d0-3897-4a1e-94c7-c52159fe0f1f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A56719f6a-1a6c-4c0a-8d21-18f7d7350b68&unique=prints",
+  "collector_number": "53",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Adam Paquette",
+  "artist_ids": [
+    "89023dad-e6c0-41e0-83fb-eb2bfbbdc3f2"
+  ],
+  "illustration_id": "1580b8b7-d192-4ff7-9efc-7b19bed8d573",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSwamp",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSwamp",
+    "edhrec": "https://edhrec.com/route/?cc=Swamp"
+  }
+}

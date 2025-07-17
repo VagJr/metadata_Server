@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "4c55a4b3-8066-4a99-afe2-d3bf9ad30e16",
+  "oracle_id": "67dbc5dd-6d05-43e7-83f7-70e10eb54807",
+  "multiverse_ids": [],
+  "tcgplayer_id": 189541,
+  "cardmarket_id": 373009,
+  "name": "Sarkhan the Masterless",
+  "lang": "en",
+  "released_at": "2019-05-03",
+  "uri": "https://api.scryfall.com/cards/4c55a4b3-8066-4a99-afe2-d3bf9ad30e16",
+  "scryfall_uri": "https://scryfall.com/card/pwar/143s/sarkhan-the-masterless?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/c/4c55a4b3-8066-4a99-afe2-d3bf9ad30e16.jpg?1557640405",
+    "normal": "https://cards.scryfall.io/normal/front/4/c/4c55a4b3-8066-4a99-afe2-d3bf9ad30e16.jpg?1557640405",
+    "large": "https://cards.scryfall.io/large/front/4/c/4c55a4b3-8066-4a99-afe2-d3bf9ad30e16.jpg?1557640405",
+    "png": "https://cards.scryfall.io/png/front/4/c/4c55a4b3-8066-4a99-afe2-d3bf9ad30e16.png?1557640405",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/c/4c55a4b3-8066-4a99-afe2-d3bf9ad30e16.jpg?1557640405",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/c/4c55a4b3-8066-4a99-afe2-d3bf9ad30e16.jpg?1557640405"
+  },
+  "mana_cost": "{3}{R}{R}",
+  "cmc": 5,
+  "type_line": "Legendary Planeswalker — Sarkhan",
+  "oracle_text": "Whenever a creature attacks you or a planeswalker you control, each Dragon you control deals 1 damage to that creature.\n+1: Until end of turn, each planeswalker you control becomes a 4/4 red Dragon creature and gains flying.\n−3: Create a 4/4 red Dragon creature token with flying.",
+  "loyalty": "5",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "4c55a4b3-8066-4a99-afe2-d3bf9ad30e16",
+      "component": "combo_piece",
+      "name": "Sarkhan the Masterless",
+      "type_line": "Legendary Planeswalker — Sarkhan",
+      "uri": "https://api.scryfall.com/cards/4c55a4b3-8066-4a99-afe2-d3bf9ad30e16"
+    },
+    {
+      "object": "related_card",
+      "id": "a195b254-bc3c-4259-9219-5a9e085d7947",
+      "component": "token",
+      "name": "Dragon",
+      "type_line": "Token Creature — Dragon",
+      "uri": "https://api.scryfall.com/cards/a195b254-bc3c-4259-9219-5a9e085d7947"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9981777b-983e-4f17-b9b1-fe32cf243e23",
+  "set": "pwar",
+  "set_name": "War of the Spark Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/9981777b-983e-4f17-b9b1-fe32cf243e23",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwar&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwar?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4c55a4b3-8066-4a99-afe2-d3bf9ad30e16/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A67dbc5dd-6d05-43e7-83f7-70e10eb54807&unique=prints",
+  "collector_number": "143s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kieran Yanner",
+  "artist_ids": [
+    "aa7e89ed-d294-4633-9057-ce04dacfcfa4"
+  ],
+  "illustration_id": "ca4e62d2-c4d9-4ff0-9e6b-2661f604493a",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 4029,
+  "penny_rank": 1303,
+  "prices": {
+    "usd": null,
+    "usd_foil": "2.10",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.88",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSarkhan%2Bthe%2BMasterless",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSarkhan%2Bthe%2BMasterless",
+    "edhrec": "https://edhrec.com/route/?cc=Sarkhan+the+Masterless"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F189541%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=373009&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sarkhan+the+Masterless&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

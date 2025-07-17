@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "01967a0c-bd2c-4dba-9c62-e6f955c017e3",
+  "oracle_id": "ea6616e4-db8d-4905-80f8-cb0162906850",
+  "multiverse_ids": [],
+  "tcgplayer_id": 38429,
+  "cardmarket_id": 22043,
+  "name": "Emeria Angel",
+  "lang": "en",
+  "released_at": "2009-10-31",
+  "uri": "https://api.scryfall.com/cards/01967a0c-bd2c-4dba-9c62-e6f955c017e3",
+  "scryfall_uri": "https://scryfall.com/card/dci/35/emeria-angel?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/1/01967a0c-bd2c-4dba-9c62-e6f955c017e3.jpg?1677543448",
+    "normal": "https://cards.scryfall.io/normal/front/0/1/01967a0c-bd2c-4dba-9c62-e6f955c017e3.jpg?1677543448",
+    "large": "https://cards.scryfall.io/large/front/0/1/01967a0c-bd2c-4dba-9c62-e6f955c017e3.jpg?1677543448",
+    "png": "https://cards.scryfall.io/png/front/0/1/01967a0c-bd2c-4dba-9c62-e6f955c017e3.png?1677543448",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/1/01967a0c-bd2c-4dba-9c62-e6f955c017e3.jpg?1677543448",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/1/01967a0c-bd2c-4dba-9c62-e6f955c017e3.jpg?1677543448"
+  },
+  "mana_cost": "{2}{W}{W}",
+  "cmc": 4,
+  "type_line": "Creature — Angel",
+  "oracle_text": "Flying\nLandfall — Whenever a land you control enters, you may create a 1/1 white Bird creature token with flying.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Landfall",
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6105623a-ff2c-46bf-8881-e8b899d47d54",
+      "component": "token",
+      "name": "Bird",
+      "type_line": "Token Creature — Bird",
+      "uri": "https://api.scryfall.com/cards/6105623a-ff2c-46bf-8881-e8b899d47d54"
+    },
+    {
+      "object": "related_card",
+      "id": "01967a0c-bd2c-4dba-9c62-e6f955c017e3",
+      "component": "combo_piece",
+      "name": "Emeria Angel",
+      "type_line": "Creature — Angel",
+      "uri": "https://api.scryfall.com/cards/01967a0c-bd2c-4dba-9c62-e6f955c017e3"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "935e91e9-61c2-4b35-a85a-c08fef3b420b",
+  "set": "dci",
+  "set_name": "DCI Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/935e91e9-61c2-4b35-a85a-c08fef3b420b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adci&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dci?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/01967a0c-bd2c-4dba-9c62-e6f955c017e3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aea6616e4-db8d-4905-80f8-cb0162906850&unique=prints",
+  "collector_number": "35",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steve Argyle",
+  "artist_ids": [
+    "a44ddda4-5331-4f83-aac9-3e00ed36bd7b"
+  ],
+  "illustration_id": "dd0abbb4-109b-4bb0-95e6-3d8dd9d64abc",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "gameday"
+  ],
+  "edhrec_rank": 1670,
+  "penny_rank": 3704,
+  "prices": {
+    "usd": null,
+    "usd_foil": "52.52",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "23.77",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEmeria%2BAngel",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEmeria%2BAngel",
+    "edhrec": "https://edhrec.com/route/?cc=Emeria+Angel"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F38429%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=22043&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Emeria+Angel&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

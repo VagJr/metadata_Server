@@ -1,0 +1,150 @@
+{
+  "object": "card",
+  "id": "58655918-b34f-4c50-aef9-6a7b10c60aee",
+  "oracle_id": "a6c3aa17-8338-4daa-889e-d36dc715e546",
+  "multiverse_ids": [
+    671016
+  ],
+  "mtgo_id": 128253,
+  "tcgplayer_id": 560436,
+  "cardmarket_id": 779681,
+  "name": "Rolling Hamsphere",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/58655918-b34f-4c50-aef9-6a7b10c60aee",
+  "scryfall_uri": "https://scryfall.com/card/blc/71/rolling-hamsphere?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/8/58655918-b34f-4c50-aef9-6a7b10c60aee.jpg?1726442270",
+    "normal": "https://cards.scryfall.io/normal/front/5/8/58655918-b34f-4c50-aef9-6a7b10c60aee.jpg?1726442270",
+    "large": "https://cards.scryfall.io/large/front/5/8/58655918-b34f-4c50-aef9-6a7b10c60aee.jpg?1726442270",
+    "png": "https://cards.scryfall.io/png/front/5/8/58655918-b34f-4c50-aef9-6a7b10c60aee.png?1726442270",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/8/58655918-b34f-4c50-aef9-6a7b10c60aee.jpg?1726442270",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/8/58655918-b34f-4c50-aef9-6a7b10c60aee.jpg?1726442270"
+  },
+  "mana_cost": "{7}",
+  "cmc": 7,
+  "type_line": "Artifact — Vehicle",
+  "oracle_text": "This Vehicle gets +1/+1 for each Hamster you control.\nWhenever this Vehicle attacks, create three 1/1 red Hamster creature tokens, then it deals X damage to any target, where X is the number of Hamsters you control.\nCrew 3",
+  "power": "4",
+  "toughness": "4",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Crew"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "711274ae-1a4e-491c-aa71-b2d29c890578",
+      "component": "token",
+      "name": "Hamster",
+      "type_line": "Token Creature — Hamster",
+      "uri": "https://api.scryfall.com/cards/711274ae-1a4e-491c-aa71-b2d29c890578"
+    },
+    {
+      "object": "related_card",
+      "id": "58655918-b34f-4c50-aef9-6a7b10c60aee",
+      "component": "combo_piece",
+      "name": "Rolling Hamsphere",
+      "type_line": "Artifact — Vehicle",
+      "uri": "https://api.scryfall.com/cards/58655918-b34f-4c50-aef9-6a7b10c60aee"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "set": "blc",
+  "set_name": "Bloomburrow Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/blc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/58655918-b34f-4c50-aef9-6a7b10c60aee/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa6c3aa17-8338-4daa-889e-d36dc715e546&unique=prints",
+  "collector_number": "71",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Henry Peters",
+  "artist_ids": [
+    "2ffd9e06-94af-44f5-bec6-06f781941a6c"
+  ],
+  "illustration_id": "9ab0f70c-4603-4a53-856a-ea86712a69c9",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 4651,
+  "preview": {
+    "source": "Bandit",
+    "source_uri": "https://www.youtube.com/watch?v=hpySvd-zvGU",
+    "previewed_at": "2024-07-19"
+  },
+  "prices": {
+    "usd": "0.57",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.87",
+    "eur_foil": null,
+    "tix": "1.50"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=671016&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRolling%2BHamsphere",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRolling%2BHamsphere",
+    "edhrec": "https://edhrec.com/route/?cc=Rolling+Hamsphere"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560436%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=779681&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/128253?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

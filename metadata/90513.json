@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "d5b1cbee-528f-48f7-b7c9-16aa3dab850a",
+  "oracle_id": "b6f61b77-d571-4508-a5e8-435b4e097f3a",
+  "multiverse_ids": [
+    567244
+  ],
+  "mtgo_id": 101454,
+  "tcgplayer_id": 273538,
+  "cardmarket_id": 661300,
+  "name": "Spectacular Showdown",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/d5b1cbee-528f-48f7-b7c9-16aa3dab850a",
+  "scryfall_uri": "https://scryfall.com/card/clb/679/spectacular-showdown?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/5/d5b1cbee-528f-48f7-b7c9-16aa3dab850a.jpg?1674140972",
+    "normal": "https://cards.scryfall.io/normal/front/d/5/d5b1cbee-528f-48f7-b7c9-16aa3dab850a.jpg?1674140972",
+    "large": "https://cards.scryfall.io/large/front/d/5/d5b1cbee-528f-48f7-b7c9-16aa3dab850a.jpg?1674140972",
+    "png": "https://cards.scryfall.io/png/front/d/5/d5b1cbee-528f-48f7-b7c9-16aa3dab850a.png?1674140972",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/5/d5b1cbee-528f-48f7-b7c9-16aa3dab850a.jpg?1674140972",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/5/d5b1cbee-528f-48f7-b7c9-16aa3dab850a.jpg?1674140972"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "oracle_text": "Put a double strike counter on target creature, then goad each creature that had a double strike counter put on it this way. (Until your next turn, those creatures attack each combat if able and attack a player other than you if able.)\nOverload {4}{R}{R}{R} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Overload",
+    "Goad"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set": "clb",
+  "set_name": "Commander Legends: Battle for Baldur's Gate",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/clb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d5b1cbee-528f-48f7-b7c9-16aa3dab850a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab6f61b77-d571-4508-a5e8-435b4e097f3a&unique=prints",
+  "collector_number": "679",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Michal Ivan",
+  "artist_ids": [
+    "89ba58cb-84a6-480b-a86c-d8ae57df2834"
+  ],
+  "illustration_id": "a34869c9-8629-4f76-8d53-88199b97cc40",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2492,
+  "prices": {
+    "usd": "0.50",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.49",
+    "eur_foil": null,
+    "tix": "0.54"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=567244&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSpectacular%2BShowdown",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSpectacular%2BShowdown",
+    "edhrec": "https://edhrec.com/route/?cc=Spectacular+Showdown"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F273538%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=661300&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/101454?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

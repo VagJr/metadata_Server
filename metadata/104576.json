@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "f7308076-755c-4508-8920-5a6641a17a8a",
+  "oracle_id": "ba5a7ac0-b625-42e9-af05-2680a01a95ed",
+  "multiverse_ids": [
+    512274
+  ],
+  "mtgo_id": 86993,
+  "tcgplayer_id": 233791,
+  "cardmarket_id": 543781,
+  "name": "Fblthp, the Lost",
+  "lang": "en",
+  "released_at": "2021-03-19",
+  "uri": "https://api.scryfall.com/cards/f7308076-755c-4508-8920-5a6641a17a8a",
+  "scryfall_uri": "https://scryfall.com/card/tsr/308/fblthp-the-lost?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/7/f7308076-755c-4508-8920-5a6641a17a8a.jpg?1619400271",
+    "normal": "https://cards.scryfall.io/normal/front/f/7/f7308076-755c-4508-8920-5a6641a17a8a.jpg?1619400271",
+    "large": "https://cards.scryfall.io/large/front/f/7/f7308076-755c-4508-8920-5a6641a17a8a.jpg?1619400271",
+    "png": "https://cards.scryfall.io/png/front/f/7/f7308076-755c-4508-8920-5a6641a17a8a.png?1619400271",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/7/f7308076-755c-4508-8920-5a6641a17a8a.jpg?1619400271",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/7/f7308076-755c-4508-8920-5a6641a17a8a.jpg?1619400271"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Homunculus",
+  "oracle_text": "When Fblthp enters, draw a card. If it entered from your library or was cast from your library, draw two cards instead.\nWhen Fblthp becomes the target of a spell, shuffle Fblthp into its owner's library.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "ebf67000-a68a-4305-a6f7-9ed75bbddf9b",
+      "component": "combo_piece",
+      "name": "Case of the Lost Witness",
+      "type_line": "Enchantment — Case",
+      "uri": "https://api.scryfall.com/cards/ebf67000-a68a-4305-a6f7-9ed75bbddf9b"
+    },
+    {
+      "object": "related_card",
+      "id": "f7308076-755c-4508-8920-5a6641a17a8a",
+      "component": "combo_piece",
+      "name": "Fblthp, the Lost",
+      "type_line": "Legendary Creature — Homunculus",
+      "uri": "https://api.scryfall.com/cards/f7308076-755c-4508-8920-5a6641a17a8a"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "11e90d1b-0502-43e6-b056-e24836523c13",
+  "set": "tsr",
+  "set_name": "Time Spiral Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/11e90d1b-0502-43e6-b056-e24836523c13",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atsr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tsr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f7308076-755c-4508-8920-5a6641a17a8a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aba5a7ac0-b625-42e9-af05-2680a01a95ed&unique=prints",
+  "collector_number": "308",
+  "digital": false,
+  "rarity": "special",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jesper Ejsing",
+  "artist_ids": [
+    "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+  ],
+  "illustration_id": "4f1d3c65-96f1-4bbc-bcda-cfe90a4de3ad",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 7425,
+  "penny_rank": 3506,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://twitter.com/wizards_magic/status/1365406290500079624",
+    "previewed_at": "2021-02-26"
+  },
+  "prices": {
+    "usd": "0.23",
+    "usd_foil": "6.06",
+    "usd_etched": null,
+    "eur": "0.18",
+    "eur_foil": "3.17",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=512274&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFblthp%252C%2Bthe%2BLost",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFblthp%252C%2Bthe%2BLost",
+    "edhrec": "https://edhrec.com/route/?cc=Fblthp%2C+the+Lost"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F233791%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=543781&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/86993?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

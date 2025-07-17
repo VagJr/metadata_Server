@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "cf3f3913-86d8-4b1c-9d2e-942102e7fac3",
+  "oracle_id": "0b8adb9e-97a5-43d9-87d6-993f22edaf3b",
+  "multiverse_ids": [],
+  "tcgplayer_id": 254579,
+  "cardmarket_id": 583938,
+  "name": "Gutter Grime",
+  "lang": "en",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/cf3f3913-86d8-4b1c-9d2e-942102e7fac3",
+  "scryfall_uri": "https://scryfall.com/card/plst/ISD-186/gutter-grime?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/f/cf3f3913-86d8-4b1c-9d2e-942102e7fac3.jpg?1637979118",
+    "normal": "https://cards.scryfall.io/normal/front/c/f/cf3f3913-86d8-4b1c-9d2e-942102e7fac3.jpg?1637979118",
+    "large": "https://cards.scryfall.io/large/front/c/f/cf3f3913-86d8-4b1c-9d2e-942102e7fac3.jpg?1637979118",
+    "png": "https://cards.scryfall.io/png/front/c/f/cf3f3913-86d8-4b1c-9d2e-942102e7fac3.png?1637979118",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/f/cf3f3913-86d8-4b1c-9d2e-942102e7fac3.jpg?1637979118",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/f/cf3f3913-86d8-4b1c-9d2e-942102e7fac3.jpg?1637979118"
+  },
+  "mana_cost": "{4}{G}",
+  "cmc": 5,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever a nontoken creature you control dies, put a slime counter on this enchantment, then create a green Ooze creature token with \"This token's power and toughness are each equal to the number of slime counters on Gutter Grime.\"",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "cf3f3913-86d8-4b1c-9d2e-942102e7fac3",
+      "component": "combo_piece",
+      "name": "Gutter Grime",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/cf3f3913-86d8-4b1c-9d2e-942102e7fac3"
+    },
+    {
+      "object": "related_card",
+      "id": "d1821a53-1799-4162-b0b6-f8ab84a55c30",
+      "component": "token",
+      "name": "Ooze",
+      "type_line": "Token Creature — Ooze",
+      "uri": "https://api.scryfall.com/cards/d1821a53-1799-4162-b0b6-f8ab84a55c30"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/cf3f3913-86d8-4b1c-9d2e-942102e7fac3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0b8adb9e-97a5-43d9-87d6-993f22edaf3b&unique=prints",
+  "collector_number": "ISD-186",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Erica Yang",
+  "artist_ids": [
+    "fcc15b63-b280-49da-9fee-f862824a2fc8"
+  ],
+  "illustration_id": "d495eb8d-bb50-483b-bd5b-2d919d18287a",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 11160,
+  "penny_rank": 12540,
+  "prices": {
+    "usd": "2.28",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.35",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGutter%2BGrime",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGutter%2BGrime",
+    "edhrec": "https://edhrec.com/route/?cc=Gutter+Grime"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F254579%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=583938&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Gutter+Grime&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

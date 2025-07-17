@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "d15b82ed-0c5c-4cc8-84ee-ce8e3b630c86",
+  "oracle_id": "2975590d-6a5b-41e5-8a3b-e9325e71226a",
+  "multiverse_ids": [
+    625244
+  ],
+  "mtgo_id": 114019,
+  "tcgplayer_id": 505981,
+  "cardmarket_id": 723084,
+  "name": "Starfield Mystic",
+  "lang": "en",
+  "released_at": "2023-08-04",
+  "uri": "https://api.scryfall.com/cards/d15b82ed-0c5c-4cc8-84ee-ce8e3b630c86",
+  "scryfall_uri": "https://scryfall.com/card/cmm/839/starfield-mystic?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/1/d15b82ed-0c5c-4cc8-84ee-ce8e3b630c86.jpg?1690004262",
+    "normal": "https://cards.scryfall.io/normal/front/d/1/d15b82ed-0c5c-4cc8-84ee-ce8e3b630c86.jpg?1690004262",
+    "large": "https://cards.scryfall.io/large/front/d/1/d15b82ed-0c5c-4cc8-84ee-ce8e3b630c86.jpg?1690004262",
+    "png": "https://cards.scryfall.io/png/front/d/1/d15b82ed-0c5c-4cc8-84ee-ce8e3b630c86.png?1690004262",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/1/d15b82ed-0c5c-4cc8-84ee-ce8e3b630c86.jpg?1690004262",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/1/d15b82ed-0c5c-4cc8-84ee-ce8e3b630c86.jpg?1690004262"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Creature — Human Cleric",
+  "oracle_text": "Enchantment spells you cast cost {1} less to cast.\nWhenever an enchantment you control is put into a graveyard from the battlefield, put a +1/+1 counter on this creature.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set": "cmm",
+  "set_name": "Commander Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d15b82ed-0c5c-4cc8-84ee-ce8e3b630c86/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2975590d-6a5b-41e5-8a3b-e9325e71226a&unique=prints",
+  "collector_number": "839",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"The realm of the gods opens before me!\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Eric Deschamps",
+  "artist_ids": [
+    "37970e22-9cee-44c1-af44-5ee27cf26b76"
+  ],
+  "illustration_id": "ae2bcadf-de62-4a49-97a4-ea25bf832619",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1036,
+  "penny_rank": 5586,
+  "prices": {
+    "usd": "0.35",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.55",
+    "eur_foil": null,
+    "tix": "0.09"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=625244&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DStarfield%2BMystic",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DStarfield%2BMystic",
+    "edhrec": "https://edhrec.com/route/?cc=Starfield+Mystic"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F505981%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=723084&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/114019?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

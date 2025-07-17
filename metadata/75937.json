@@ -1,0 +1,188 @@
+{
+  "object": "card",
+  "id": "b343f5ff-77ed-45b1-8d40-68f67e74d381",
+  "oracle_id": "7c753b68-b519-43ba-9c58-4902f4850626",
+  "multiverse_ids": [],
+  "name": "Rat",
+  "lang": "en",
+  "released_at": "2020-09-25",
+  "uri": "https://api.scryfall.com/cards/b343f5ff-77ed-45b1-8d40-68f67e74d381",
+  "scryfall_uri": "https://scryfall.com/card/tznc/6/rat?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/3/b343f5ff-77ed-45b1-8d40-68f67e74d381.jpg?1604198474",
+    "normal": "https://cards.scryfall.io/normal/front/b/3/b343f5ff-77ed-45b1-8d40-68f67e74d381.jpg?1604198474",
+    "large": "https://cards.scryfall.io/large/front/b/3/b343f5ff-77ed-45b1-8d40-68f67e74d381.jpg?1604198474",
+    "png": "https://cards.scryfall.io/png/front/b/3/b343f5ff-77ed-45b1-8d40-68f67e74d381.png?1604198474",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/3/b343f5ff-77ed-45b1-8d40-68f67e74d381.jpg?1604198474",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/3/b343f5ff-77ed-45b1-8d40-68f67e74d381.jpg?1604198474"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Rat",
+  "oracle_text": "",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "b2514908-46ac-468b-b097-81449236eb43",
+      "component": "combo_piece",
+      "name": "Ogre Slumlord",
+      "type_line": "Creature — Ogre Rogue",
+      "uri": "https://api.scryfall.com/cards/b2514908-46ac-468b-b097-81449236eb43"
+    },
+    {
+      "object": "related_card",
+      "id": "1f463c55-39a0-4f2f-aae3-0c5540bde5b7",
+      "component": "combo_piece",
+      "name": "Revenge of the Rats",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/1f463c55-39a0-4f2f-aae3-0c5540bde5b7"
+    },
+    {
+      "object": "related_card",
+      "id": "073a04e9-7c18-469d-ac3b-941eb50a6f01",
+      "component": "combo_piece",
+      "name": "Marrow-Gnawer",
+      "type_line": "Legendary Creature — Rat Rogue",
+      "uri": "https://api.scryfall.com/cards/073a04e9-7c18-469d-ac3b-941eb50a6f01"
+    },
+    {
+      "object": "related_card",
+      "id": "d78fd600-d6ed-4f16-8aeb-02945044d235",
+      "component": "combo_piece",
+      "name": "Mad Ratter",
+      "type_line": "Creature — Goblin",
+      "uri": "https://api.scryfall.com/cards/d78fd600-d6ed-4f16-8aeb-02945044d235"
+    },
+    {
+      "object": "related_card",
+      "id": "b343f5ff-77ed-45b1-8d40-68f67e74d381",
+      "component": "token",
+      "name": "Rat",
+      "type_line": "Token Creature — Rat",
+      "uri": "https://api.scryfall.com/cards/b343f5ff-77ed-45b1-8d40-68f67e74d381"
+    },
+    {
+      "object": "related_card",
+      "id": "7e361851-346e-4747-bbce-e2dc19e39b31",
+      "component": "combo_piece",
+      "name": "Chittering Witch",
+      "type_line": "Creature — Human Warlock",
+      "uri": "https://api.scryfall.com/cards/7e361851-346e-4747-bbce-e2dc19e39b31"
+    },
+    {
+      "object": "related_card",
+      "id": "b4810704-beb8-499c-a921-26f672fd33b2",
+      "component": "combo_piece",
+      "name": "Piper of the Swarm",
+      "type_line": "Creature — Human Warlock",
+      "uri": "https://api.scryfall.com/cards/b4810704-beb8-499c-a921-26f672fd33b2"
+    },
+    {
+      "object": "related_card",
+      "id": "6fd5d79e-cfd8-484b-bbc8-785177922e30",
+      "component": "combo_piece",
+      "name": "Lab Rats",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/6fd5d79e-cfd8-484b-bbc8-785177922e30"
+    },
+    {
+      "object": "related_card",
+      "id": "231613d6-d3b8-4b41-bc93-4d5da3fec5d0",
+      "component": "combo_piece",
+      "name": "Plague of Vermin",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/231613d6-d3b8-4b41-bc93-4d5da3fec5d0"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cfb7e832-fe79-4b5c-ba3d-2d59009525e7",
+  "set": "tznc",
+  "set_name": "Zendikar Rising Commander Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/cfb7e832-fe79-4b5c-ba3d-2d59009525e7",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atznc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tznc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b343f5ff-77ed-45b1-8d40-68f67e74d381/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7c753b68-b519-43ba-9c58-4902f4850626&unique=prints",
+  "collector_number": "6",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mike Bierek",
+  "artist_ids": [
+    "e5f52ef5-1a2e-4128-90b0-ccc71cd47ea7"
+  ],
+  "illustration_id": "e3b7e30f-93b4-4b6b-a0be-07d74022a4f3",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRat",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRat",
+    "edhrec": "https://edhrec.com/route/?cc=Rat"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DRat%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rat&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rat&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

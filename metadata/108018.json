@@ -1,0 +1,209 @@
+{
+  "object": "card",
+  "id": "ff66ee02-6b68-405e-a5c0-f59bb8020865",
+  "oracle_id": "2cef4171-8151-4ee9-83a7-bcb5116451bf",
+  "multiverse_ids": [
+    545044,
+    545045
+  ],
+  "mtgo_id": 94214,
+  "arena_id": 79163,
+  "tcgplayer_id": 252930,
+  "cardmarket_id": 581377,
+  "name": "Dorothea, Vengeful Victim // Dorothea's Retribution",
+  "lang": "en",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/ff66ee02-6b68-405e-a5c0-f59bb8020865",
+  "scryfall_uri": "https://scryfall.com/card/vow/322/dorothea-vengeful-victim-dorotheas-retribution?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Spirit // Enchantment — Aura",
+  "color_identity": [
+    "U",
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "Transform",
+    "Enchant",
+    "Disturb"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Dorothea, Vengeful Victim",
+      "mana_cost": "{W}{U}",
+      "type_line": "Legendary Creature — Spirit",
+      "oracle_text": "Flying\nWhen Dorothea attacks or blocks, sacrifice it at end of combat.\nDisturb {1}{W}{U} (You may cast this card from your graveyard transformed for its disturb cost.)",
+      "colors": [
+        "U",
+        "W"
+      ],
+      "power": "4",
+      "toughness": "4",
+      "artist": "Karmazid",
+      "artist_id": "ef0c974b-9a93-4ff3-9389-139dc232f7f7",
+      "illustration_id": "bbe2f9ff-1bcc-4447-8bd6-f5c73c726fd3",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/f/f/ff66ee02-6b68-405e-a5c0-f59bb8020865.jpg?1682717201",
+        "normal": "https://cards.scryfall.io/normal/front/f/f/ff66ee02-6b68-405e-a5c0-f59bb8020865.jpg?1682717201",
+        "large": "https://cards.scryfall.io/large/front/f/f/ff66ee02-6b68-405e-a5c0-f59bb8020865.jpg?1682717201",
+        "png": "https://cards.scryfall.io/png/front/f/f/ff66ee02-6b68-405e-a5c0-f59bb8020865.png?1682717201",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/f/f/ff66ee02-6b68-405e-a5c0-f59bb8020865.jpg?1682717201",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/f/f/ff66ee02-6b68-405e-a5c0-f59bb8020865.jpg?1682717201"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Dorothea's Retribution",
+      "mana_cost": "",
+      "type_line": "Enchantment — Aura",
+      "oracle_text": "Enchant creature\nEnchanted creature has \"Whenever this creature attacks, create a 4/4 white Spirit creature token with flying that's tapped and attacking. Sacrifice that token at end of combat.\"\nIf Dorothea's Retribution would be put into a graveyard from anywhere, exile it instead.",
+      "colors": [
+        "U",
+        "W"
+      ],
+      "color_indicator": [
+        "U",
+        "W"
+      ],
+      "artist": "Karmazid",
+      "artist_id": "ef0c974b-9a93-4ff3-9389-139dc232f7f7",
+      "illustration_id": "0f218552-e5a2-4373-8e20-f6afda11501b",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/f/f/ff66ee02-6b68-405e-a5c0-f59bb8020865.jpg?1682717201",
+        "normal": "https://cards.scryfall.io/normal/back/f/f/ff66ee02-6b68-405e-a5c0-f59bb8020865.jpg?1682717201",
+        "large": "https://cards.scryfall.io/large/back/f/f/ff66ee02-6b68-405e-a5c0-f59bb8020865.jpg?1682717201",
+        "png": "https://cards.scryfall.io/png/back/f/f/ff66ee02-6b68-405e-a5c0-f59bb8020865.png?1682717201",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/f/f/ff66ee02-6b68-405e-a5c0-f59bb8020865.jpg?1682717201",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/f/f/ff66ee02-6b68-405e-a5c0-f59bb8020865.jpg?1682717201"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "ff66ee02-6b68-405e-a5c0-f59bb8020865",
+      "component": "combo_piece",
+      "name": "Dorothea, Vengeful Victim // Dorothea's Retribution",
+      "type_line": "Legendary Creature — Spirit // Enchantment — Aura",
+      "uri": "https://api.scryfall.com/cards/ff66ee02-6b68-405e-a5c0-f59bb8020865"
+    },
+    {
+      "object": "related_card",
+      "id": "b61e7f44-c112-4501-8850-0565fc857397",
+      "component": "token",
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/b61e7f44-c112-4501-8850-0565fc857397"
+    },
+    {
+      "object": "related_card",
+      "id": "9b21d350-9b89-41d0-8def-00ef5189449c",
+      "component": "combo_piece",
+      "name": "A-Dorothea, Vengeful Victim // A-Dorothea's Retribution",
+      "type_line": "Legendary Creature — Spirit // Enchantment — Aura",
+      "uri": "https://api.scryfall.com/cards/9b21d350-9b89-41d0-8def-00ef5189449c"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/vow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ff66ee02-6b68-405e-a5c0-f59bb8020865/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2cef4171-8151-4ee9-83a7-bcb5116451bf&unique=prints",
+  "collector_number": "322",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Karmazid",
+  "artist_ids": [
+    "ef0c974b-9a93-4ff3-9389-139dc232f7f7"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary",
+    "inverted",
+    "sunmoondfc"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 13059,
+  "penny_rank": 5274,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/1189365133",
+    "previewed_at": "2021-10-28"
+  },
+  "prices": {
+    "usd": "0.10",
+    "usd_foil": "0.38",
+    "usd_etched": null,
+    "eur": "0.34",
+    "eur_foil": "0.45",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=545044&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDorothea%252C%2BVengeful%2BVictim%2B%252F%252F%2BDorothea%2527s%2BRetribution",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDorothea%252C%2BVengeful%2BVictim%2B%252F%252F%2BDorothea%2527s%2BRetribution",
+    "edhrec": "https://edhrec.com/route/?cc=Dorothea%2C+Vengeful+Victim"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F252930%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=581377&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/94214?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

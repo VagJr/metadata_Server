@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "91a72d38-a7b5-40ad-a76f-da5950307f99",
+  "oracle_id": "06b77a80-4968-4385-960a-fb66bb4faa94",
+  "multiverse_ids": [],
+  "tcgplayer_id": 231587,
+  "cardmarket_id": 535743,
+  "name": "Dragonkin Berserker",
+  "lang": "en",
+  "released_at": "2021-02-05",
+  "uri": "https://api.scryfall.com/cards/91a72d38-a7b5-40ad-a76f-da5950307f99",
+  "scryfall_uri": "https://scryfall.com/card/pkhm/131s/dragonkin-berserker?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/1/91a72d38-a7b5-40ad-a76f-da5950307f99.jpg?1628381451",
+    "normal": "https://cards.scryfall.io/normal/front/9/1/91a72d38-a7b5-40ad-a76f-da5950307f99.jpg?1628381451",
+    "large": "https://cards.scryfall.io/large/front/9/1/91a72d38-a7b5-40ad-a76f-da5950307f99.jpg?1628381451",
+    "png": "https://cards.scryfall.io/png/front/9/1/91a72d38-a7b5-40ad-a76f-da5950307f99.png?1628381451",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/1/91a72d38-a7b5-40ad-a76f-da5950307f99.jpg?1628381451",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/1/91a72d38-a7b5-40ad-a76f-da5950307f99.jpg?1628381451"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Creature — Human Berserker",
+  "oracle_text": "First strike\nBoast abilities you activate cost {1} less to activate for each Dragon you control.\nBoast — {4}{R}: Create a 5/5 red Dragon creature token with flying. (Activate only if this creature attacked this turn and only once each turn.)",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "First strike",
+    "Boast"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "91a72d38-a7b5-40ad-a76f-da5950307f99",
+      "component": "combo_piece",
+      "name": "Dragonkin Berserker",
+      "type_line": "Creature — Human Berserker",
+      "uri": "https://api.scryfall.com/cards/91a72d38-a7b5-40ad-a76f-da5950307f99"
+    },
+    {
+      "object": "related_card",
+      "id": "029c9790-d5f3-4fe2-a2f5-6da5d27de835",
+      "component": "token",
+      "name": "Dragon",
+      "type_line": "Token Creature — Dragon",
+      "uri": "https://api.scryfall.com/cards/029c9790-d5f3-4fe2-a2f5-6da5d27de835"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d7b6bf0-0ded-49a0-8c0e-b1ae2bfba77c",
+  "set": "pkhm",
+  "set_name": "Kaldheim Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/4d7b6bf0-0ded-49a0-8c0e-b1ae2bfba77c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apkhm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pkhm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/91a72d38-a7b5-40ad-a76f-da5950307f99/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A06b77a80-4968-4385-960a-fb66bb4faa94&unique=prints",
+  "collector_number": "131s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lie Setiawan",
+  "artist_ids": [
+    "6f771d3f-310e-4aa4-841f-5ba4ba9f025a"
+  ],
+  "illustration_id": "2a6fadb6-9e7f-4886-b479-84d2dc6f1a7e",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 11468,
+  "penny_rank": 4748,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.38",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.62",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDragonkin%2BBerserker",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDragonkin%2BBerserker",
+    "edhrec": "https://edhrec.com/route/?cc=Dragonkin+Berserker"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F231587%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=535743&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dragonkin+Berserker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "object": "card",
+  "id": "4df5efec-b7a2-49ed-b8cf-28233ac8a472",
+  "oracle_id": "39412e6d-2837-4729-abf9-e64a5ba87e40",
+  "multiverse_ids": [],
+  "tcgplayer_id": 448951,
+  "name": "Power Sink",
+  "lang": "en",
+  "released_at": "2022-11-28",
+  "uri": "https://api.scryfall.com/cards/4df5efec-b7a2-49ed-b8cf-28233ac8a472",
+  "scryfall_uri": "https://scryfall.com/card/30a/72/power-sink?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/d/4df5efec-b7a2-49ed-b8cf-28233ac8a472.jpg?1664924918",
+    "normal": "https://cards.scryfall.io/normal/front/4/d/4df5efec-b7a2-49ed-b8cf-28233ac8a472.jpg?1664924918",
+    "large": "https://cards.scryfall.io/large/front/4/d/4df5efec-b7a2-49ed-b8cf-28233ac8a472.jpg?1664924918",
+    "png": "https://cards.scryfall.io/png/front/4/d/4df5efec-b7a2-49ed-b8cf-28233ac8a472.png?1664924918",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/d/4df5efec-b7a2-49ed-b8cf-28233ac8a472.jpg?1664924918",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/d/4df5efec-b7a2-49ed-b8cf-28233ac8a472.jpg?1664924918"
+  },
+  "mana_cost": "{X}{U}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "oracle_text": "Counter target spell unless its controller pays {X}. If that player doesn't, they tap all lands with mana abilities they control and lose all unspent mana.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c3cddb17-44d9-4abd-8d19-666f6c5171fe",
+  "set": "30a",
+  "set_name": "30th Anniversary Edition",
+  "set_type": "memorabilia",
+  "set_uri": "https://api.scryfall.com/sets/c3cddb17-44d9-4abd-8d19-666f6c5171fe",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A30a&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/30a?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4df5efec-b7a2-49ed-b8cf-28233ac8a472/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A39412e6d-2837-4729-abf9-e64a5ba87e40&unique=prints",
+  "collector_number": "72",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "049a6229-ace9-4363-816a-60cb8773e95d",
+  "artist": "Richard Thomas",
+  "artist_ids": [
+    "596b3aac-b331-4e1e-ae41-9ec2d3b653e1"
+  ],
+  "illustration_id": "2c0f8da0-af8a-4e93-be82-4d4b164361a5",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 10336,
+  "penny_rank": 514,
+  "prices": {
+    "usd": "0.71",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPower%2BSink",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPower%2BSink",
+    "edhrec": "https://edhrec.com/route/?cc=Power+Sink"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F448951%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Power+Sink&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Power+Sink&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

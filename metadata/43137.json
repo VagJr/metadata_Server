@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "65c163d7-8e63-42d0-a943-7cea3771fd87",
+  "oracle_id": "65e15354-4258-411f-a8f1-f64f4ccb873b",
+  "multiverse_ids": [
+    502706
+  ],
+  "tcgplayer_etched_id": 226828,
+  "cardmarket_id": 510850,
+  "name": "Eligeth, Crossroads Augur",
+  "lang": "en",
+  "released_at": "2020-11-20",
+  "uri": "https://api.scryfall.com/cards/65c163d7-8e63-42d0-a943-7cea3771fd87",
+  "scryfall_uri": "https://scryfall.com/card/cmr/556/eligeth-crossroads-augur?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/5/65c163d7-8e63-42d0-a943-7cea3771fd87.jpg?1612403130",
+    "normal": "https://cards.scryfall.io/normal/front/6/5/65c163d7-8e63-42d0-a943-7cea3771fd87.jpg?1612403130",
+    "large": "https://cards.scryfall.io/large/front/6/5/65c163d7-8e63-42d0-a943-7cea3771fd87.jpg?1612403130",
+    "png": "https://cards.scryfall.io/png/front/6/5/65c163d7-8e63-42d0-a943-7cea3771fd87.png?1612403130",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/5/65c163d7-8e63-42d0-a943-7cea3771fd87.jpg?1612403130",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/5/65c163d7-8e63-42d0-a943-7cea3771fd87.jpg?1612403130"
+  },
+  "mana_cost": "{4}{U}{U}",
+  "cmc": 6,
+  "type_line": "Legendary Creature — Sphinx",
+  "oracle_text": "Flying\nIf you would scry a number of cards, draw that many cards instead.\nPartner (You can have two commanders if both have partner.)",
+  "power": "5",
+  "toughness": "6",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying",
+    "Partner"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": false,
+  "finishes": [
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "39de6fbf-1f11-48d0-8f04-f0407f6a0732",
+  "set": "cmr",
+  "set_name": "Commander Legends",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/39de6fbf-1f11-48d0-8f04-f0407f6a0732",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/65c163d7-8e63-42d0-a943-7cea3771fd87/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A65e15354-4258-411f-a8f1-f64f4ccb873b&unique=prints",
+  "collector_number": "556",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "set",
+  "flavor_text": "\"There's no better place to divine the future than at a nexus of branching presents.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Yigit Koroglu",
+  "artist_ids": [
+    "a24479f8-6d9e-40f9-bede-f29899922b97"
+  ],
+  "illustration_id": "2389f756-5217-4956-bcb2-d63fab235d92",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted",
+    "etched",
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 9465,
+  "preview": {
+    "source": "ABuLae",
+    "source_uri": "https://www.facebook.com/267919946712672/posts/1615100658661254",
+    "previewed_at": "2020-10-29"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": "0.46",
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=502706&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEligeth%252C%2BCrossroads%2BAugur",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEligeth%252C%2BCrossroads%2BAugur",
+    "edhrec": "https://edhrec.com/route/?cc=Eligeth%2C+Crossroads+Augur"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DEligeth%252C%2BCrossroads%2BAugur%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=510850&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Eligeth%2C+Crossroads+Augur&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "object": "card",
+  "id": "4a0597ce-f91a-43a0-aad6-fbb2a4d9fe57",
+  "oracle_id": "da5a7cb8-1fa7-4b91-abd4-9e766291be63",
+  "multiverse_ids": [
+    548213
+  ],
+  "arena_id": 75546,
+  "name": "Stony Strength",
+  "lang": "en",
+  "released_at": "2020-08-13",
+  "uri": "https://api.scryfall.com/cards/4a0597ce-f91a-43a0-aad6-fbb2a4d9fe57",
+  "scryfall_uri": "https://scryfall.com/card/anb/105/stony-strength?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/a/4a0597ce-f91a-43a0-aad6-fbb2a4d9fe57.jpg?1597377446",
+    "normal": "https://cards.scryfall.io/normal/front/4/a/4a0597ce-f91a-43a0-aad6-fbb2a4d9fe57.jpg?1597377446",
+    "large": "https://cards.scryfall.io/large/front/4/a/4a0597ce-f91a-43a0-aad6-fbb2a4d9fe57.jpg?1597377446",
+    "png": "https://cards.scryfall.io/png/front/4/a/4a0597ce-f91a-43a0-aad6-fbb2a4d9fe57.png?1597377446",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/a/4a0597ce-f91a-43a0-aad6-fbb2a4d9fe57.jpg?1597377446",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/a/4a0597ce-f91a-43a0-aad6-fbb2a4d9fe57.jpg?1597377446"
+  },
+  "mana_cost": "{G}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "oracle_text": "Put a +1/+1 counter on target creature you control. Untap that creature.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "fb2d12a7-a385-4ec0-b7fd-e2ff1796d7a8",
+  "set": "anb",
+  "set_name": "Arena Beginner Set",
+  "set_type": "starter",
+  "set_uri": "https://api.scryfall.com/sets/fb2d12a7-a385-4ec0-b7fd-e2ff1796d7a8",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aanb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/anb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4a0597ce-f91a-43a0-aad6-fbb2a4d9fe57/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ada5a7cb8-1fa7-4b91-abd4-9e766291be63&unique=prints",
+  "collector_number": "105",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Seaman",
+  "artist_ids": [
+    "b9c49463-6f55-4039-9d32-c02a658af100"
+  ],
+  "illustration_id": "fc1a7940-691c-4648-a2d5-d998c603c824",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 12149,
+  "penny_rank": 9782,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548213&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DStony%2BStrength",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DStony%2BStrength",
+    "edhrec": "https://edhrec.com/route/?cc=Stony+Strength"
+  }
+}

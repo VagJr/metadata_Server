@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "34dd3973-d029-4ec9-b52d-c26f1e7333ad",
+  "oracle_id": "d5ea905b-4bb6-48d0-9082-c472703db550",
+  "multiverse_ids": [
+    626359
+  ],
+  "mtgo_id": 113353,
+  "tcgplayer_etched_id": 504598,
+  "cardmarket_id": 722617,
+  "name": "Bloodchief Ascension",
+  "lang": "en",
+  "released_at": "2023-08-04",
+  "uri": "https://api.scryfall.com/cards/34dd3973-d029-4ec9-b52d-c26f1e7333ad",
+  "scryfall_uri": "https://scryfall.com/card/cmm/504/bloodchief-ascension?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/4/34dd3973-d029-4ec9-b52d-c26f1e7333ad.jpg?1690000727",
+    "normal": "https://cards.scryfall.io/normal/front/3/4/34dd3973-d029-4ec9-b52d-c26f1e7333ad.jpg?1690000727",
+    "large": "https://cards.scryfall.io/large/front/3/4/34dd3973-d029-4ec9-b52d-c26f1e7333ad.jpg?1690000727",
+    "png": "https://cards.scryfall.io/png/front/3/4/34dd3973-d029-4ec9-b52d-c26f1e7333ad.png?1690000727",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/4/34dd3973-d029-4ec9-b52d-c26f1e7333ad.jpg?1690000727",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/4/34dd3973-d029-4ec9-b52d-c26f1e7333ad.jpg?1690000727"
+  },
+  "mana_cost": "{B}",
+  "cmc": 1,
+  "type_line": "Enchantment",
+  "oracle_text": "At the beginning of each end step, if an opponent lost 2 or more life this turn, you may put a quest counter on this enchantment. (Damage causes loss of life.)\nWhenever a card is put into an opponent's graveyard from anywhere, if this enchantment has three or more quest counters on it, you may have that player lose 2 life. If you do, you gain 2 life.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": false,
+  "finishes": [
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set": "cmm",
+  "set_name": "Commander Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/34dd3973-d029-4ec9-b52d-c26f1e7333ad/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad5ea905b-4bb6-48d0-9082-c472703db550&unique=prints",
+  "collector_number": "504",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Adi Granov",
+  "artist_ids": [
+    "cc30857e-acd0-494f-9598-8ec95cd452d9"
+  ],
+  "illustration_id": "ab96c2a4-1653-4455-a9dd-b1e9f70eb768",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted",
+    "etched"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 758,
+  "penny_rank": 3540,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": "22.60",
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.36"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=626359&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBloodchief%2BAscension",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBloodchief%2BAscension",
+    "edhrec": "https://edhrec.com/route/?cc=Bloodchief+Ascension"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBloodchief%2BAscension%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=722617&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/113353?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

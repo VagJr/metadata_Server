@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "35263639-f09d-429f-bd99-09cfdee668e8",
+  "oracle_id": "24db5905-d513-42c6-9e9d-114ac5cbd21d",
+  "multiverse_ids": [
+    442917
+  ],
+  "mtgo_id": 67523,
+  "arena_id": 67162,
+  "tcgplayer_id": 164487,
+  "cardmarket_id": 355297,
+  "name": "Pegasus Courser",
+  "lang": "en",
+  "released_at": "2018-04-27",
+  "uri": "https://api.scryfall.com/cards/35263639-f09d-429f-bd99-09cfdee668e8",
+  "scryfall_uri": "https://scryfall.com/card/dom/29/pegasus-courser?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/5/35263639-f09d-429f-bd99-09cfdee668e8.jpg?1562733919",
+    "normal": "https://cards.scryfall.io/normal/front/3/5/35263639-f09d-429f-bd99-09cfdee668e8.jpg?1562733919",
+    "large": "https://cards.scryfall.io/large/front/3/5/35263639-f09d-429f-bd99-09cfdee668e8.jpg?1562733919",
+    "png": "https://cards.scryfall.io/png/front/3/5/35263639-f09d-429f-bd99-09cfdee668e8.png?1562733919",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/5/35263639-f09d-429f-bd99-09cfdee668e8.jpg?1562733919",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/5/35263639-f09d-429f-bd99-09cfdee668e8.jpg?1562733919"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Creature — Pegasus",
+  "oracle_text": "Flying\nWhenever this creature attacks, another target attacking creature gains flying until end of turn.",
+  "power": "1",
+  "toughness": "3",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "be1daba3-51c9-4e7e-9212-36e68addc26c",
+  "set": "dom",
+  "set_name": "Dominaria",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/be1daba3-51c9-4e7e-9212-36e68addc26c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/35263639-f09d-429f-bd99-09cfdee668e8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A24db5905-d513-42c6-9e9d-114ac5cbd21d&unique=prints",
+  "collector_number": "29",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "A pegasus chooses its rider, bearing the worthy into the clouds and tossing all others to the ground.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mathias Kollros",
+  "artist_ids": [
+    "2ae0dd12-047c-4efb-80d7-bccc3bac5fba"
+  ],
+  "illustration_id": "c6b5ef3c-2a64-4c1d-aeda-cc271ae9b08f",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 17371,
+  "prices": {
+    "usd": "0.06",
+    "usd_foil": "0.24",
+    "usd_etched": null,
+    "eur": "0.14",
+    "eur_foil": "0.27",
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442917&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPegasus%2BCourser",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPegasus%2BCourser",
+    "edhrec": "https://edhrec.com/route/?cc=Pegasus+Courser"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F164487%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=355297&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/67523?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

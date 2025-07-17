@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "d3a0dc21-c202-4cef-9e67-26b9dd24d565",
+  "oracle_id": "1d85eec2-80db-466c-bd48-d2a12866e8bd",
+  "multiverse_ids": [
+    538503
+  ],
+  "mtgo_id": 94150,
+  "arena_id": 78727,
+  "tcgplayer_id": 248158,
+  "cardmarket_id": 574960,
+  "name": "Old Stickfingers",
+  "lang": "en",
+  "released_at": "2021-09-24",
+  "uri": "https://api.scryfall.com/cards/d3a0dc21-c202-4cef-9e67-26b9dd24d565",
+  "scryfall_uri": "https://scryfall.com/card/mid/321/old-stickfingers?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/3/d3a0dc21-c202-4cef-9e67-26b9dd24d565.jpg?1682717002",
+    "normal": "https://cards.scryfall.io/normal/front/d/3/d3a0dc21-c202-4cef-9e67-26b9dd24d565.jpg?1682717002",
+    "large": "https://cards.scryfall.io/large/front/d/3/d3a0dc21-c202-4cef-9e67-26b9dd24d565.jpg?1682717002",
+    "png": "https://cards.scryfall.io/png/front/d/3/d3a0dc21-c202-4cef-9e67-26b9dd24d565.png?1682717002",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/3/d3a0dc21-c202-4cef-9e67-26b9dd24d565.jpg?1682717002",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/3/d3a0dc21-c202-4cef-9e67-26b9dd24d565.jpg?1682717002"
+  },
+  "mana_cost": "{X}{B}{G}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Horror",
+  "oracle_text": "When you cast this spell, reveal cards from the top of your library until you reveal X creature cards. Put all creature cards revealed this way into your graveyard, then put the rest on the bottom of your library in a random order.\nOld Stickfingers's power and toughness are each equal to the number of creature cards in your graveyard.",
+  "power": "*",
+  "toughness": "*",
+  "colors": [
+    "B",
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "restricted",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "44b8eb8f-fa23-401a-98b5-1fbb9871128e",
+  "set": "mid",
+  "set_name": "Innistrad: Midnight Hunt",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/44b8eb8f-fa23-401a-98b5-1fbb9871128e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amid&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mid?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d3a0dc21-c202-4cef-9e67-26b9dd24d565/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1d85eec2-80db-466c-bd48-d2a12866e8bd&unique=prints",
+  "collector_number": "321",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "DZO",
+  "artist_ids": [
+    "b967e930-39f5-4fbb-a054-800e5d330ee0"
+  ],
+  "illustration_id": "7bc894f2-5cde-4bb7-b6f7-94bac3f6e17d",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 3036,
+  "penny_rank": 5827,
+  "preview": {
+    "source": "Gamebar Lotus",
+    "source_uri": "http://edh.barlotus.jp/innistrad-midnight-hunt/",
+    "previewed_at": "2021-09-07"
+  },
+  "prices": {
+    "usd": "0.20",
+    "usd_foil": "1.55",
+    "usd_etched": null,
+    "eur": "0.42",
+    "eur_foil": "0.50",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=538503&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOld%2BStickfingers",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOld%2BStickfingers",
+    "edhrec": "https://edhrec.com/route/?cc=Old+Stickfingers"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F248158%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=574960&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/94150?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

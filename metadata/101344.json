@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "ef86ff2d-4a31-4414-8f5f-68f0c562296a",
+  "oracle_id": "78b2b68d-6e27-49f3-8373-6e19faf6f679",
+  "multiverse_ids": [
+    587265
+  ],
+  "mtgo_id": 104336,
+  "arena_id": 82884,
+  "tcgplayer_id": 451969,
+  "cardmarket_id": 682946,
+  "name": "Inspiring Statuary",
+  "lang": "en",
+  "released_at": "2022-11-18",
+  "uri": "https://api.scryfall.com/cards/ef86ff2d-4a31-4414-8f5f-68f0c562296a",
+  "scryfall_uri": "https://scryfall.com/card/brr/85/inspiring-statuary?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/f/ef86ff2d-4a31-4414-8f5f-68f0c562296a.jpg?1674092423",
+    "normal": "https://cards.scryfall.io/normal/front/e/f/ef86ff2d-4a31-4414-8f5f-68f0c562296a.jpg?1674092423",
+    "large": "https://cards.scryfall.io/large/front/e/f/ef86ff2d-4a31-4414-8f5f-68f0c562296a.jpg?1674092423",
+    "png": "https://cards.scryfall.io/png/front/e/f/ef86ff2d-4a31-4414-8f5f-68f0c562296a.png?1674092423",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/f/ef86ff2d-4a31-4414-8f5f-68f0c562296a.jpg?1674092423",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/f/ef86ff2d-4a31-4414-8f5f-68f0c562296a.jpg?1674092423"
+  },
+  "mana_cost": "{3}",
+  "cmc": 3,
+  "type_line": "Artifact",
+  "oracle_text": "Nonartifact spells you cast have improvise. (Your artifacts can help cast those spells. Each artifact you tap after you're done activating mana abilities pays for {1}.)",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "1f536096-7cf0-4407-a554-940e5322dc27",
+      "component": "combo_piece",
+      "name": "Motivated Muralist",
+      "type_line": "Creature — Dwarf Bard",
+      "uri": "https://api.scryfall.com/cards/1f536096-7cf0-4407-a554-940e5322dc27"
+    },
+    {
+      "object": "related_card",
+      "id": "37d93a3d-3692-4016-844c-5c105d183f6c",
+      "component": "combo_piece",
+      "name": "Inspiring Statuary",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/37d93a3d-3692-4016-844c-5c105d183f6c"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "1dbdd608-c330-4199-901f-9d141ae03786",
+  "set": "brr",
+  "set_name": "The Brothers' War Retro Artifacts",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/1dbdd608-c330-4199-901f-9d141ae03786",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abrr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/brr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ef86ff2d-4a31-4414-8f5f-68f0c562296a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A78b2b68d-6e27-49f3-8373-6e19faf6f679&unique=prints",
+  "collector_number": "85",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"In the early days, Urza's wondrous automatons were seen as symbols of hope and courage.\"\n—*The Antiquities War*",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kirsten Zirngibl",
+  "artist_ids": [
+    "8d06986a-b58c-4243-8a02-6c19a6bd2feb"
+  ],
+  "illustration_id": "279d0fd6-f177-4f2d-87c4-b7fd0f05a6de",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 825,
+  "penny_rank": 4903,
+  "prices": {
+    "usd": "0.64",
+    "usd_foil": "1.29",
+    "usd_etched": null,
+    "eur": "0.48",
+    "eur_foil": "1.16",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=587265&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DInspiring%2BStatuary",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DInspiring%2BStatuary",
+    "edhrec": "https://edhrec.com/route/?cc=Inspiring+Statuary"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F451969%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=682946&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/104336?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

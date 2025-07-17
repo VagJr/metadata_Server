@@ -1,0 +1,167 @@
+{
+  "object": "card",
+  "id": "8b67055b-4a0a-4a16-9c83-d493c36fce01",
+  "oracle_id": "c6655e05-9e31-4a74-a97d-1eeb473fe900",
+  "multiverse_ids": [],
+  "mtgo_id": 141631,
+  "tcgplayer_id": 630920,
+  "cardmarket_id": 824275,
+  "name": "Jill, Shiva's Dominant // Shiva, Warden of Ice",
+  "lang": "en",
+  "released_at": "2025-06-13",
+  "uri": "https://api.scryfall.com/cards/8b67055b-4a0a-4a16-9c83-d493c36fce01",
+  "scryfall_uri": "https://scryfall.com/card/fin/378/jill-shivas-dominant-shiva-warden-of-ice?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Human Noble Warrior // Legendary Enchantment Creature — Saga Elemental",
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Transform"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Jill, Shiva's Dominant",
+      "mana_cost": "{2}{U}",
+      "type_line": "Legendary Creature — Human Noble Warrior",
+      "oracle_text": "When Jill enters, return up to one other target nonland permanent to its owner's hand.\n{3}{U}{U}, {T}: Exile Jill, then return it to the battlefield transformed under its owner's control. Activate only as a sorcery.",
+      "colors": [
+        "U"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "artist": "Rika Suzuki",
+      "artist_id": "1abd3968-fb1e-4c2d-b967-579b0af4bb24",
+      "illustration_id": "373edede-7ea0-4963-9a52-14738b83885a",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/8/b/8b67055b-4a0a-4a16-9c83-d493c36fce01.jpg?1748707855",
+        "normal": "https://cards.scryfall.io/normal/front/8/b/8b67055b-4a0a-4a16-9c83-d493c36fce01.jpg?1748707855",
+        "large": "https://cards.scryfall.io/large/front/8/b/8b67055b-4a0a-4a16-9c83-d493c36fce01.jpg?1748707855",
+        "png": "https://cards.scryfall.io/png/front/8/b/8b67055b-4a0a-4a16-9c83-d493c36fce01.png?1748707855",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/8/b/8b67055b-4a0a-4a16-9c83-d493c36fce01.jpg?1748707855",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/8/b/8b67055b-4a0a-4a16-9c83-d493c36fce01.jpg?1748707855"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Shiva, Warden of Ice",
+      "mana_cost": "",
+      "type_line": "Legendary Enchantment Creature — Saga Elemental",
+      "oracle_text": "(As this Saga enters and after your draw step, add a lore counter.)\nI, II — Mesmerize — Target creature can't be blocked this turn.\nIII — Cold Snap — Tap all lands your opponents control. Exile Shiva, then return it to the battlefield (front face up).",
+      "colors": [
+        "U"
+      ],
+      "color_indicator": [
+        "U"
+      ],
+      "power": "4",
+      "toughness": "5",
+      "flavor_text": "\"I will be your monster no more.\"",
+      "artist": "Rika Suzuki",
+      "artist_id": "1abd3968-fb1e-4c2d-b967-579b0af4bb24",
+      "illustration_id": "89a25a84-00e3-4b09-a9a7-f65b684c578d",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/8/b/8b67055b-4a0a-4a16-9c83-d493c36fce01.jpg?1748707855",
+        "normal": "https://cards.scryfall.io/normal/back/8/b/8b67055b-4a0a-4a16-9c83-d493c36fce01.jpg?1748707855",
+        "large": "https://cards.scryfall.io/large/back/8/b/8b67055b-4a0a-4a16-9c83-d493c36fce01.jpg?1748707855",
+        "png": "https://cards.scryfall.io/png/back/8/b/8b67055b-4a0a-4a16-9c83-d493c36fce01.png?1748707855",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/8/b/8b67055b-4a0a-4a16-9c83-d493c36fce01.jpg?1748707855",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/8/b/8b67055b-4a0a-4a16-9c83-d493c36fce01.jpg?1748707855"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7beb4b7-e1ff-4d35-ab07-5700f17ea1ea",
+  "set": "fin",
+  "set_name": "Final Fantasy",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/d7beb4b7-e1ff-4d35-ab07-5700f17ea1ea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afin&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fin?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8b67055b-4a0a-4a16-9c83-d493c36fce01/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac6655e05-9e31-4a74-a97d-1eeb473fe900&unique=prints",
+  "collector_number": "378",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Rika Suzuki",
+  "artist_ids": [
+    "1abd3968-fb1e-4c2d-b967-579b0af4bb24"
+  ],
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "enchantment",
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "triangle",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "ffxvi",
+    "boosterfun"
+  ],
+  "edhrec_rank": 10745,
+  "prices": {
+    "usd": "4.98",
+    "usd_foil": "5.70",
+    "usd_etched": null,
+    "eur": "3.65",
+    "eur_foil": "5.64",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJill%252C%2BShiva%2527s%2BDominant%2B%252F%252F%2BShiva%252C%2BWarden%2Bof%2BIce",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJill%252C%2BShiva%2527s%2BDominant%2B%252F%252F%2BShiva%252C%2BWarden%2Bof%2BIce",
+    "edhrec": "https://edhrec.com/route/?cc=Jill%2C+Shiva%27s+Dominant"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F630920%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=824275&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/141631?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

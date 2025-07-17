@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "433e853d-bdd6-4151-ae17-97b0c05083f9",
+  "oracle_id": "7256b03e-4fd5-4a0a-9b20-7b88870edfec",
+  "multiverse_ids": [],
+  "mtgo_id": 80799,
+  "name": "Vivien, Monsters' Advocate",
+  "lang": "en",
+  "released_at": "2020-04-30",
+  "uri": "https://api.scryfall.com/cards/433e853d-bdd6-4151-ae17-97b0c05083f9",
+  "scryfall_uri": "https://scryfall.com/card/prm/80799/vivien-monsters-advocate?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/3/433e853d-bdd6-4151-ae17-97b0c05083f9.jpg?1630629768",
+    "normal": "https://cards.scryfall.io/normal/front/4/3/433e853d-bdd6-4151-ae17-97b0c05083f9.jpg?1630629768",
+    "large": "https://cards.scryfall.io/large/front/4/3/433e853d-bdd6-4151-ae17-97b0c05083f9.jpg?1630629768",
+    "png": "https://cards.scryfall.io/png/front/4/3/433e853d-bdd6-4151-ae17-97b0c05083f9.png?1630629768",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/3/433e853d-bdd6-4151-ae17-97b0c05083f9.jpg?1630629768",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/3/433e853d-bdd6-4151-ae17-97b0c05083f9.jpg?1630629768"
+  },
+  "mana_cost": "{3}{G}{G}",
+  "cmc": 5,
+  "type_line": "Legendary Planeswalker — Vivien",
+  "oracle_text": "You may look at the top card of your library any time.\nYou may cast creature spells from the top of your library.\n+1: Create a 3/3 green Beast creature token. Put your choice of a vigilance counter, a reach counter, or a trample counter on it.\n−2: When you next cast a creature spell this turn, search your library for a creature card with lesser mana value, put it onto the battlefield, then shuffle.",
+  "loyalty": "3",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "3b584d93-5681-4ecd-953c-5ef58307caab",
+      "component": "token",
+      "name": "Beast",
+      "type_line": "Token Creature — Beast",
+      "uri": "https://api.scryfall.com/cards/3b584d93-5681-4ecd-953c-5ef58307caab"
+    },
+    {
+      "object": "related_card",
+      "id": "433e853d-bdd6-4151-ae17-97b0c05083f9",
+      "component": "combo_piece",
+      "name": "Vivien, Monsters' Advocate",
+      "type_line": "Legendary Planeswalker — Vivien",
+      "uri": "https://api.scryfall.com/cards/433e853d-bdd6-4151-ae17-97b0c05083f9"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/433e853d-bdd6-4151-ae17-97b0c05083f9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7256b03e-4fd5-4a0a-9b20-7b88870edfec&unique=prints",
+  "collector_number": "80799",
+  "digital": true,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kev Walker",
+  "artist_ids": [
+    "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+  ],
+  "illustration_id": "20a95117-d15b-42b0-9ea5-9303d2a2977c",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4830,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.26"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVivien%252C%2BMonsters%2527%2BAdvocate",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVivien%252C%2BMonsters%2527%2BAdvocate",
+    "edhrec": "https://edhrec.com/route/?cc=Vivien%2C+Monsters%27+Advocate"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DVivien%252C%2BMonsters%2527%2BAdvocate%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Vivien%2C+Monsters%27+Advocate&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/80799?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

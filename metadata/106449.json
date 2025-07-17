@@ -1,0 +1,115 @@
+{
+  "object": "card",
+  "id": "fba66bbf-269c-4ad4-8970-e2ce9f0f74ee",
+  "oracle_id": "48b67778-6616-4563-8456-62f302649768",
+  "multiverse_ids": [
+    606625
+  ],
+  "arena_id": 86615,
+  "name": "Blessed Alliance",
+  "lang": "en",
+  "released_at": "2023-03-21",
+  "uri": "https://api.scryfall.com/cards/fba66bbf-269c-4ad4-8970-e2ce9f0f74ee",
+  "scryfall_uri": "https://scryfall.com/card/sir/14/blessed-alliance?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/b/fba66bbf-269c-4ad4-8970-e2ce9f0f74ee.jpg?1678944854",
+    "normal": "https://cards.scryfall.io/normal/front/f/b/fba66bbf-269c-4ad4-8970-e2ce9f0f74ee.jpg?1678944854",
+    "large": "https://cards.scryfall.io/large/front/f/b/fba66bbf-269c-4ad4-8970-e2ce9f0f74ee.jpg?1678944854",
+    "png": "https://cards.scryfall.io/png/front/f/b/fba66bbf-269c-4ad4-8970-e2ce9f0f74ee.png?1678944854",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/b/fba66bbf-269c-4ad4-8970-e2ce9f0f74ee.jpg?1678944854",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/b/fba66bbf-269c-4ad4-8970-e2ce9f0f74ee.jpg?1678944854"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Escalate {2} (Pay this cost for each mode chosen beyond the first.)\nChoose one or more —\n• Target player gains 4 life.\n• Untap up to two target creatures.\n• Target opponent sacrifices an attacking creature of their choice.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Escalate"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c3694ff5-7b12-4f29-8d82-2c9b553ac60e",
+  "set": "sir",
+  "set_name": "Shadows over Innistrad Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/c3694ff5-7b12-4f29-8d82-2c9b553ac60e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asir&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sir?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/fba66bbf-269c-4ad4-8970-e2ce9f0f74ee/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A48b67778-6616-4563-8456-62f302649768&unique=prints",
+  "collector_number": "14",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Johann Bodin",
+  "artist_ids": [
+    "d92e2dd9-9ef6-43f6-81f8-df87f9066983"
+  ],
+  "illustration_id": "ae92b64e-57db-4cce-af18-a0f76b9d5a2c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 15519,
+  "penny_rank": 805,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=606625&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlessed%2BAlliance",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlessed%2BAlliance",
+    "edhrec": "https://edhrec.com/route/?cc=Blessed+Alliance"
+  }
+}

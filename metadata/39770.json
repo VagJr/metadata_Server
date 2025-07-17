@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "5dd5b018-bb3e-4333-a9c7-dac134b99b8c",
+  "oracle_id": "5d1b0eee-3a7a-4f22-a40d-7658a368962a",
+  "multiverse_ids": [],
+  "tcgplayer_id": 547728,
+  "name": "Ruby, Daring Tracker",
+  "lang": "ja",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/5dd5b018-bb3e-4333-a9c7-dac134b99b8c",
+  "scryfall_uri": "https://scryfall.com/card/pwcs/2024-02/ja/ruby-daring-tracker?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/d/5dd5b018-bb3e-4333-a9c7-dac134b99b8c.jpg?1733612565",
+    "normal": "https://cards.scryfall.io/normal/front/5/d/5dd5b018-bb3e-4333-a9c7-dac134b99b8c.jpg?1733612565",
+    "large": "https://cards.scryfall.io/large/front/5/d/5dd5b018-bb3e-4333-a9c7-dac134b99b8c.jpg?1733612565",
+    "png": "https://cards.scryfall.io/png/front/5/d/5dd5b018-bb3e-4333-a9c7-dac134b99b8c.png?1733612565",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/d/5dd5b018-bb3e-4333-a9c7-dac134b99b8c.jpg?1733612565",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/d/5dd5b018-bb3e-4333-a9c7-dac134b99b8c.jpg?1733612565"
+  },
+  "mana_cost": "{R}{G}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Human Scout",
+  "oracle_text": "Haste (This creature can attack and {T} as soon as it comes under your control.)\nWhenever Ruby attacks while you control a creature with power 4 or greater, Ruby gets +2/+2 until end of turn.\n{T}: Add {R} or {G}.",
+  "power": "1",
+  "toughness": "2",
+  "colors": [
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [
+    "Haste"
+  ],
+  "produced_mana": [
+    "G",
+    "R"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d08fce7e-36a9-4617-8a14-24eb460bcbaf",
+  "set": "pwcs",
+  "set_name": "Planeswalker Championship Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/d08fce7e-36a9-4617-8a14-24eb460bcbaf",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwcs&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwcs?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5dd5b018-bb3e-4333-a9c7-dac134b99b8c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5d1b0eee-3a7a-4f22-a40d-7658a368962a&unique=prints",
+  "collector_number": "2024-02",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "M.Matsumoto",
+  "artist_ids": [
+    "6f3eed46-a2c2-41f4-8c4a-b9fc83fea7c5"
+  ],
+  "illustration_id": "b1977a88-e757-4626-b464-86e7f13cd381",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2267,
+  "penny_rank": 1611,
+  "prices": {
+    "usd": null,
+    "usd_foil": "7.61",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRuby%252C%2BDaring%2BTracker",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRuby%252C%2BDaring%2BTracker",
+    "edhrec": "https://edhrec.com/route/?cc=Ruby%2C+Daring+Tracker"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F547728%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ruby%2C+Daring+Tracker&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ruby%2C+Daring+Tracker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

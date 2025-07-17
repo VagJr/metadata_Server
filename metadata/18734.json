@@ -1,0 +1,154 @@
+{
+  "object": "card",
+  "id": "2c178c8d-ef57-4a69-a72d-c6c6f1eda617",
+  "oracle_id": "ed1d21ba-ddfe-4f82-9e37-93f9e2c7ba33",
+  "multiverse_ids": [],
+  "tcgplayer_etched_id": 263239,
+  "cardmarket_id": 609012,
+  "name": "Satoru Umezawa",
+  "lang": "en",
+  "released_at": "2022-02-18",
+  "uri": "https://api.scryfall.com/cards/2c178c8d-ef57-4a69-a72d-c6c6f1eda617",
+  "scryfall_uri": "https://scryfall.com/card/neo/426/satoru-umezawa?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/c/2c178c8d-ef57-4a69-a72d-c6c6f1eda617.jpg?1683836531",
+    "normal": "https://cards.scryfall.io/normal/front/2/c/2c178c8d-ef57-4a69-a72d-c6c6f1eda617.jpg?1683836531",
+    "large": "https://cards.scryfall.io/large/front/2/c/2c178c8d-ef57-4a69-a72d-c6c6f1eda617.jpg?1683836531",
+    "png": "https://cards.scryfall.io/png/front/2/c/2c178c8d-ef57-4a69-a72d-c6c6f1eda617.png?1683836531",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/c/2c178c8d-ef57-4a69-a72d-c6c6f1eda617.jpg?1683836531",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/c/2c178c8d-ef57-4a69-a72d-c6c6f1eda617.jpg?1683836531"
+  },
+  "mana_cost": "{1}{U}{B}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Human Ninja",
+  "oracle_text": "Whenever you activate a ninjutsu ability, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order. This ability triggers only once each turn.\nEach creature card in your hand has ninjutsu {2}{U}{B}.",
+  "power": "2",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "7b30c1fe-b3c0-48c7-a451-989eb3776d43",
+      "component": "combo_piece",
+      "name": "A-Satoru Umezawa",
+      "type_line": "Legendary Creature — Human Ninja",
+      "uri": "https://api.scryfall.com/cards/7b30c1fe-b3c0-48c7-a451-989eb3776d43"
+    },
+    {
+      "object": "related_card",
+      "id": "f7112729-908e-430d-8e0e-eb71a9043309",
+      "component": "combo_piece",
+      "name": "Satoru Umezawa",
+      "type_line": "Legendary Creature — Human Ninja",
+      "uri": "https://api.scryfall.com/cards/f7112729-908e-430d-8e0e-eb71a9043309"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": false,
+  "finishes": [
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "59a2059f-5482-433f-8761-eb2e17859b71",
+  "set": "neo",
+  "set_name": "Kamigawa: Neon Dynasty",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/59a2059f-5482-433f-8761-eb2e17859b71",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aneo&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/neo?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2c178c8d-ef57-4a69-a72d-c6c6f1eda617/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aed1d21ba-ddfe-4f82-9e37-93f9e2c7ba33&unique=prints",
+  "collector_number": "426",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Raita Kazama",
+  "artist_ids": [
+    "d4b508d6-c5e8-45f0-97e8-6781e5b8cca0"
+  ],
+  "illustration_id": "3a375070-6a88-42b8-9818-48e2e98d637d",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 3468,
+  "penny_rank": 6621,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://twitter.com/wizards_magic/status/1474425391418904594",
+    "previewed_at": "2022-02-04"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": "8.67",
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSatoru%2BUmezawa",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSatoru%2BUmezawa",
+    "edhrec": "https://edhrec.com/route/?cc=Satoru+Umezawa"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSatoru%2BUmezawa%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=609012&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Satoru+Umezawa&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

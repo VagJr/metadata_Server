@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "68d56fac-4dca-47b8-b48e-0a3d532004a5",
+  "oracle_id": "83959c3d-053c-4d95-a1b0-fe92f2b906db",
+  "multiverse_ids": [
+    633348
+  ],
+  "mtgo_id": 117162,
+  "tcgplayer_id": 513730,
+  "cardmarket_id": 730243,
+  "name": "Careful Cultivation",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/68d56fac-4dca-47b8-b48e-0a3d532004a5",
+  "scryfall_uri": "https://scryfall.com/card/woc/122/careful-cultivation?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/8/68d56fac-4dca-47b8-b48e-0a3d532004a5.jpg?1692935443",
+    "normal": "https://cards.scryfall.io/normal/front/6/8/68d56fac-4dca-47b8-b48e-0a3d532004a5.jpg?1692935443",
+    "large": "https://cards.scryfall.io/large/front/6/8/68d56fac-4dca-47b8-b48e-0a3d532004a5.jpg?1692935443",
+    "png": "https://cards.scryfall.io/png/front/6/8/68d56fac-4dca-47b8-b48e-0a3d532004a5.png?1692935443",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/8/68d56fac-4dca-47b8-b48e-0a3d532004a5.jpg?1692935443",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/8/68d56fac-4dca-47b8-b48e-0a3d532004a5.jpg?1692935443"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant artifact or creature\nAs long as enchanted permanent is a creature, it gets +1/+3 and has reach and \"{T}: Add {G}{G}.\"\nChannel — {1}{G}, Discard this card: Create a 1/1 green Human Monk creature token with \"{T}: Add {G}.\"",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Enchant",
+    "Channel"
+  ],
+  "produced_mana": [
+    "G"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "68d56fac-4dca-47b8-b48e-0a3d532004a5",
+      "component": "combo_piece",
+      "name": "Careful Cultivation",
+      "type_line": "Enchantment — Aura",
+      "uri": "https://api.scryfall.com/cards/68d56fac-4dca-47b8-b48e-0a3d532004a5"
+    },
+    {
+      "object": "related_card",
+      "id": "86dd086e-c757-4a6a-8838-51860f2095f8",
+      "component": "token",
+      "name": "Human Monk",
+      "type_line": "Token Creature — Human Monk",
+      "uri": "https://api.scryfall.com/cards/86dd086e-c757-4a6a-8838-51860f2095f8"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "51c0814a-2db2-4182-9aac-77340e9a540d",
+  "set": "woc",
+  "set_name": "Wilds of Eldraine Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/51c0814a-2db2-4182-9aac-77340e9a540d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awoc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/woc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/68d56fac-4dca-47b8-b48e-0a3d532004a5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A83959c3d-053c-4d95-a1b0-fe92f2b906db&unique=prints",
+  "collector_number": "122",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "A. M. Sartor",
+  "artist_ids": [
+    "d01bfbdc-5442-482a-a339-933e0808c697"
+  ],
+  "illustration_id": "47ce4a9f-77ac-4117-9e57-795d1bdef99a",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 8694,
+  "penny_rank": 4441,
+  "prices": {
+    "usd": "0.08",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.13",
+    "eur_foil": null,
+    "tix": "0.12"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=633348&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCareful%2BCultivation",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCareful%2BCultivation",
+    "edhrec": "https://edhrec.com/route/?cc=Careful+Cultivation"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F513730%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=730243&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/117162?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

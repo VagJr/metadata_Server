@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "4d2bc626-7104-4995-bf29-6cba08cbaf9d",
+  "oracle_id": "b9176173-c4a1-45ae-8f34-bd6b31c141fe",
+  "multiverse_ids": [
+    684881
+  ],
+  "arena_id": 93467,
+  "tcgplayer_id": 589847,
+  "cardmarket_id": 795709,
+  "name": "Cartouche of Solidarity",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/4d2bc626-7104-4995-bf29-6cba08cbaf9d",
+  "scryfall_uri": "https://scryfall.com/card/j25/178/cartouche-of-solidarity?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/d/4d2bc626-7104-4995-bf29-6cba08cbaf9d.jpg?1730486346",
+    "normal": "https://cards.scryfall.io/normal/front/4/d/4d2bc626-7104-4995-bf29-6cba08cbaf9d.jpg?1730486346",
+    "large": "https://cards.scryfall.io/large/front/4/d/4d2bc626-7104-4995-bf29-6cba08cbaf9d.jpg?1730486346",
+    "png": "https://cards.scryfall.io/png/front/4/d/4d2bc626-7104-4995-bf29-6cba08cbaf9d.png?1730486346",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/d/4d2bc626-7104-4995-bf29-6cba08cbaf9d.jpg?1730486346",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/d/4d2bc626-7104-4995-bf29-6cba08cbaf9d.jpg?1730486346"
+  },
+  "mana_cost": "{W}",
+  "cmc": 1,
+  "type_line": "Enchantment — Aura Cartouche",
+  "oracle_text": "Enchant creature you control\nWhen this Aura enters, create a 1/1 white Warrior creature token with vigilance.\nEnchanted creature gets +1/+1 and has first strike. (It deals combat damage before creatures without first strike.)",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "7728b4ea-4288-4699-b45f-21beb327d4ce",
+      "component": "token",
+      "name": "Warrior",
+      "type_line": "Token Creature — Warrior",
+      "uri": "https://api.scryfall.com/cards/7728b4ea-4288-4699-b45f-21beb327d4ce"
+    },
+    {
+      "object": "related_card",
+      "id": "4d2bc626-7104-4995-bf29-6cba08cbaf9d",
+      "component": "combo_piece",
+      "name": "Cartouche of Solidarity",
+      "type_line": "Enchantment — Aura Cartouche",
+      "uri": "https://api.scryfall.com/cards/4d2bc626-7104-4995-bf29-6cba08cbaf9d"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9201567c-bab5-4720-aac9-260e6741f115",
+  "set": "j25",
+  "set_name": "Foundations Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/9201567c-bab5-4720-aac9-260e6741f115",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj25&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j25?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4d2bc626-7104-4995-bf29-6cba08cbaf9d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab9176173-c4a1-45ae-8f34-bd6b31c141fe&unique=prints",
+  "collector_number": "178",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kieran Yanner",
+  "artist_ids": [
+    "aa7e89ed-d294-4633-9057-ce04dacfcfa4"
+  ],
+  "illustration_id": "1cdd3982-d667-476b-b29a-d27c73ce9de6",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 9321,
+  "penny_rank": 577,
+  "prices": {
+    "usd": "0.15",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.23",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=684881&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCartouche%2Bof%2BSolidarity",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCartouche%2Bof%2BSolidarity",
+    "edhrec": "https://edhrec.com/route/?cc=Cartouche+of+Solidarity"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F589847%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=795709&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cartouche+of+Solidarity&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

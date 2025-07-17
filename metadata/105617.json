@@ -1,0 +1,247 @@
+{
+  "object": "card",
+  "id": "f9ab479f-4a6a-45a8-ba0d-f5f2bde29ff2",
+  "oracle_id": "60fe4897-6760-4c5a-8074-c92bd64df52b",
+  "multiverse_ids": [],
+  "tcgplayer_id": 450041,
+  "name": "Dragon",
+  "lang": "ja",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/f9ab479f-4a6a-45a8-ba0d-f5f2bde29ff2",
+  "scryfall_uri": "https://scryfall.com/card/wdmu/4/ja/dragon?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/9/f9ab479f-4a6a-45a8-ba0d-f5f2bde29ff2.jpg?1695596192",
+    "normal": "https://cards.scryfall.io/normal/front/f/9/f9ab479f-4a6a-45a8-ba0d-f5f2bde29ff2.jpg?1695596192",
+    "large": "https://cards.scryfall.io/large/front/f/9/f9ab479f-4a6a-45a8-ba0d-f5f2bde29ff2.jpg?1695596192",
+    "png": "https://cards.scryfall.io/png/front/f/9/f9ab479f-4a6a-45a8-ba0d-f5f2bde29ff2.png?1695596192",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/9/f9ab479f-4a6a-45a8-ba0d-f5f2bde29ff2.jpg?1695596192",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/9/f9ab479f-4a6a-45a8-ba0d-f5f2bde29ff2.jpg?1695596192"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Dragon",
+  "oracle_text": "Flying",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "65299452-9424-47aa-afe3-6a8615669141",
+      "component": "combo_piece",
+      "name": "Awaken the Sky Tyrant",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/65299452-9424-47aa-afe3-6a8615669141"
+    },
+    {
+      "object": "related_card",
+      "id": "3ea4d4e5-ad85-4045-bd12-61f19b9c7238",
+      "component": "combo_piece",
+      "name": "Dragonkin Berserker",
+      "type_line": "Creature — Human Berserker",
+      "uri": "https://api.scryfall.com/cards/3ea4d4e5-ad85-4045-bd12-61f19b9c7238"
+    },
+    {
+      "object": "related_card",
+      "id": "8b61cbdc-4a12-483e-8126-7daebe7281f2",
+      "component": "combo_piece",
+      "name": "Sarkhan, Fireblood",
+      "type_line": "Legendary Planeswalker — Sarkhan",
+      "uri": "https://api.scryfall.com/cards/8b61cbdc-4a12-483e-8126-7daebe7281f2"
+    },
+    {
+      "object": "related_card",
+      "id": "18d9a344-3e00-4527-9ffd-540f4958cfa9",
+      "component": "combo_piece",
+      "name": "Lathliss, Dragon Queen",
+      "type_line": "Legendary Creature — Dragon",
+      "uri": "https://api.scryfall.com/cards/18d9a344-3e00-4527-9ffd-540f4958cfa9"
+    },
+    {
+      "object": "related_card",
+      "id": "81ef28c5-66f9-42b1-b246-c8601f0fc381",
+      "component": "combo_piece",
+      "name": "Rite of the Dragoncaller",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/81ef28c5-66f9-42b1-b246-c8601f0fc381"
+    },
+    {
+      "object": "related_card",
+      "id": "f9ab479f-4a6a-45a8-ba0d-f5f2bde29ff2",
+      "component": "token",
+      "name": "Dragon",
+      "type_line": "Token Creature — Dragon",
+      "uri": "https://api.scryfall.com/cards/f9ab479f-4a6a-45a8-ba0d-f5f2bde29ff2"
+    },
+    {
+      "object": "related_card",
+      "id": "d6df7f60-58c4-4ae5-b6cc-ee3f075f4ede",
+      "component": "combo_piece",
+      "name": "Dragon Roost",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/d6df7f60-58c4-4ae5-b6cc-ee3f075f4ede"
+    },
+    {
+      "object": "related_card",
+      "id": "7aa743b0-4ede-4637-bf7a-e3f941db8f88",
+      "component": "combo_piece",
+      "name": "Shiv",
+      "type_line": "Plane — Dominaria",
+      "uri": "https://api.scryfall.com/cards/7aa743b0-4ede-4637-bf7a-e3f941db8f88"
+    },
+    {
+      "object": "related_card",
+      "id": "7edb9ea5-858d-47fd-97aa-1f8b8a310d49",
+      "component": "combo_piece",
+      "name": "Draconic Disciple",
+      "type_line": "Creature — Human Shaman",
+      "uri": "https://api.scryfall.com/cards/7edb9ea5-858d-47fd-97aa-1f8b8a310d49"
+    },
+    {
+      "object": "related_card",
+      "id": "d6151247-b49a-4bd0-8b64-c5c2670cb01b",
+      "component": "combo_piece",
+      "name": "Loot Dispute",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/d6151247-b49a-4bd0-8b64-c5c2670cb01b"
+    },
+    {
+      "object": "related_card",
+      "id": "6c27304e-fd88-40fa-993d-c4d5801c6dda",
+      "component": "combo_piece",
+      "name": "Death by Dragons",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/6c27304e-fd88-40fa-993d-c4d5801c6dda"
+    },
+    {
+      "object": "related_card",
+      "id": "3e07516e-e4d0-42e2-9b97-0afe9f58c91d",
+      "component": "combo_piece",
+      "name": "Broodmate Tyrant",
+      "type_line": "Creature — Dragon",
+      "uri": "https://api.scryfall.com/cards/3e07516e-e4d0-42e2-9b97-0afe9f58c91d"
+    },
+    {
+      "object": "related_card",
+      "id": "8e0f3bc3-cc9d-4464-bbf4-0ede381d6d37",
+      "component": "combo_piece",
+      "name": "Dragonmaster Outcast",
+      "type_line": "Creature — Human Shaman",
+      "uri": "https://api.scryfall.com/cards/8e0f3bc3-cc9d-4464-bbf4-0ede381d6d37"
+    },
+    {
+      "object": "related_card",
+      "id": "5284f330-d04a-4a04-adfe-4da0a99184a3",
+      "component": "combo_piece",
+      "name": "Skyline Despot",
+      "type_line": "Creature — Dragon",
+      "uri": "https://api.scryfall.com/cards/5284f330-d04a-4a04-adfe-4da0a99184a3"
+    },
+    {
+      "object": "related_card",
+      "id": "25b5bfd4-a4e8-4394-bfb7-007d6b019030",
+      "component": "combo_piece",
+      "name": "Day of the Dragons",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/25b5bfd4-a4e8-4394-bfb7-007d6b019030"
+    },
+    {
+      "object": "related_card",
+      "id": "5e0ab00c-23df-4582-8fd2-795b1be0f616",
+      "component": "combo_piece",
+      "name": "Sarkhan the Mad",
+      "type_line": "Legendary Planeswalker — Sarkhan",
+      "uri": "https://api.scryfall.com/cards/5e0ab00c-23df-4582-8fd2-795b1be0f616"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "b2bb7a14-16a2-4311-ab64-631a0252730c",
+  "set": "wdmu",
+  "set_name": "DMU Japanese Promo Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/b2bb7a14-16a2-4311-ab64-631a0252730c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awdmu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/wdmu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f9ab479f-4a6a-45a8-ba0d-f5f2bde29ff2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A60fe4897-6760-4c5a-8074-c92bd64df52b&unique=prints",
+  "collector_number": "4",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Reiko Murakami",
+  "artist_ids": [
+    "342cd845-3721-48fc-9ba3-0d61d88c1b1e"
+  ],
+  "illustration_id": "4f64c481-3490-4da9-93a6-303746c7e283",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": "14.93",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDragon",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDragon",
+    "edhrec": "https://edhrec.com/route/?cc=Dragon"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F450041%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dragon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dragon&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

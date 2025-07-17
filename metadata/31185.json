@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "49c2488c-c252-42a6-b487-c358c16b7ae1",
+  "oracle_id": "70dc830e-d05b-4fc7-88dd-879e140b3fbf",
+  "multiverse_ids": [],
+  "tcgplayer_id": 565159,
+  "cardmarket_id": 785684,
+  "name": "Reality Shift",
+  "lang": "en",
+  "released_at": "2024-08-27",
+  "uri": "https://api.scryfall.com/cards/49c2488c-c252-42a6-b487-c358c16b7ae1",
+  "scryfall_uri": "https://scryfall.com/card/sld/1781/reality-shift?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/9/49c2488c-c252-42a6-b487-c358c16b7ae1.jpg?1723568899",
+    "normal": "https://cards.scryfall.io/normal/front/4/9/49c2488c-c252-42a6-b487-c358c16b7ae1.jpg?1723568899",
+    "large": "https://cards.scryfall.io/large/front/4/9/49c2488c-c252-42a6-b487-c358c16b7ae1.jpg?1723568899",
+    "png": "https://cards.scryfall.io/png/front/4/9/49c2488c-c252-42a6-b487-c358c16b7ae1.png?1723568899",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/9/49c2488c-c252-42a6-b487-c358c16b7ae1.jpg?1723568899",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/9/49c2488c-c252-42a6-b487-c358c16b7ae1.jpg?1723568899"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Exile target creature. Its controller manifests the top card of their library. (That player puts the top card of their library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.)",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Manifest"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "49c2488c-c252-42a6-b487-c358c16b7ae1",
+      "component": "combo_piece",
+      "name": "Reality Shift",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/49c2488c-c252-42a6-b487-c358c16b7ae1"
+    },
+    {
+      "object": "related_card",
+      "id": "01104ab1-84e1-4c78-853d-637c6554bdf9",
+      "component": "combo_piece",
+      "name": "Manifest",
+      "type_line": "Creature",
+      "uri": "https://api.scryfall.com/cards/01104ab1-84e1-4c78-853d-637c6554bdf9"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/49c2488c-c252-42a6-b487-c358c16b7ae1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A70dc830e-d05b-4fc7-88dd-879e140b3fbf&unique=prints",
+  "collector_number": "1781",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Advanced Dungeons & Dragons: Dungeon Master Guide, *2nd Edition (1989)*",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jeff Easley",
+  "artist_ids": [
+    "da17055e-693c-461a-b132-67dd88b42ca6"
+  ],
+  "illustration_id": "37a5d89b-788e-4cfd-8f9b-bbe7f1869273",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 246,
+  "penny_rank": 4622,
+  "preview": {
+    "source": "IGN",
+    "source_uri": "https://www.ign.com/articles/dungeons-dragons-magic-the-gathering-secret-lair-spoiler-reveal",
+    "previewed_at": "2024-08-13"
+  },
+  "prices": {
+    "usd": "3.80",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "3.28",
+    "eur_foil": "4.83",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DReality%2BShift",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DReality%2BShift",
+    "edhrec": "https://edhrec.com/route/?cc=Reality+Shift"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F565159%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=785684&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Reality+Shift&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

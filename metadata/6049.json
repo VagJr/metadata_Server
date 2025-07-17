@@ -1,0 +1,179 @@
+{
+  "object": "card",
+  "id": "0dce18f1-0eff-4354-97b8-cb58295f4865",
+  "oracle_id": "741b9f0d-8c0d-4865-b177-fb64b687ad11",
+  "multiverse_ids": [
+    479394
+  ],
+  "tcgplayer_id": 205239,
+  "cardmarket_id": 426446,
+  "name": "Faerie Rogue",
+  "lang": "en",
+  "released_at": "2019-12-03",
+  "uri": "https://api.scryfall.com/cards/0dce18f1-0eff-4354-97b8-cb58295f4865",
+  "scryfall_uri": "https://scryfall.com/card/sld/14/faerie-rogue?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/d/0dce18f1-0eff-4354-97b8-cb58295f4865.jpg?1577393119",
+    "normal": "https://cards.scryfall.io/normal/front/0/d/0dce18f1-0eff-4354-97b8-cb58295f4865.jpg?1577393119",
+    "large": "https://cards.scryfall.io/large/front/0/d/0dce18f1-0eff-4354-97b8-cb58295f4865.jpg?1577393119",
+    "png": "https://cards.scryfall.io/png/front/0/d/0dce18f1-0eff-4354-97b8-cb58295f4865.png?1577393119",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/d/0dce18f1-0eff-4354-97b8-cb58295f4865.jpg?1577393119",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/d/0dce18f1-0eff-4354-97b8-cb58295f4865.jpg?1577393119"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Faerie Rogue",
+  "oracle_text": "Flying",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "f107c08e-9900-498f-8048-08134a30074a",
+      "component": "combo_piece",
+      "name": "Shadow Puppeteers",
+      "type_line": "Creature — Faerie Wizard",
+      "uri": "https://api.scryfall.com/cards/f107c08e-9900-498f-8048-08134a30074a"
+    },
+    {
+      "object": "related_card",
+      "id": "8ec9571f-17c0-4f16-adb5-8805d4b72591",
+      "component": "combo_piece",
+      "name": "Alela, Cunning Conqueror",
+      "type_line": "Legendary Creature — Faerie Warlock",
+      "uri": "https://api.scryfall.com/cards/8ec9571f-17c0-4f16-adb5-8805d4b72591"
+    },
+    {
+      "object": "related_card",
+      "id": "0d326981-30ee-4d5a-98c6-2e69f706073c",
+      "component": "combo_piece",
+      "name": "Tegwyll's Scouring",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/0d326981-30ee-4d5a-98c6-2e69f706073c"
+    },
+    {
+      "object": "related_card",
+      "id": "7df94cc3-fed3-493d-9aa5-c85d6a2aeb05",
+      "component": "token",
+      "name": "Faerie Rogue",
+      "type_line": "Token Creature — Faerie Rogue",
+      "uri": "https://api.scryfall.com/cards/7df94cc3-fed3-493d-9aa5-c85d6a2aeb05"
+    },
+    {
+      "object": "related_card",
+      "id": "c8be7edf-807a-4a7b-ab48-78f309997210",
+      "component": "combo_piece",
+      "name": "Notorious Throng",
+      "type_line": "Kindred Sorcery — Rogue",
+      "uri": "https://api.scryfall.com/cards/c8be7edf-807a-4a7b-ab48-78f309997210"
+    },
+    {
+      "object": "related_card",
+      "id": "bdfd0fa3-37d2-403e-99fe-8c9e57515e9d",
+      "component": "combo_piece",
+      "name": "Violet Pall",
+      "type_line": "Kindred Instant — Faerie",
+      "uri": "https://api.scryfall.com/cards/bdfd0fa3-37d2-403e-99fe-8c9e57515e9d"
+    },
+    {
+      "object": "related_card",
+      "id": "776b5cdd-a1e3-4b41-aeb4-d68f1dbaf56d",
+      "component": "combo_piece",
+      "name": "Bitterblossom",
+      "type_line": "Kindred Enchantment — Faerie",
+      "uri": "https://api.scryfall.com/cards/776b5cdd-a1e3-4b41-aeb4-d68f1dbaf56d"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0dce18f1-0eff-4354-97b8-cb58295f4865/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A741b9f0d-8c0d-4865-b177-fb64b687ad11&unique=prints",
+  "collector_number": "14",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Olena Richards",
+  "artist_ids": [
+    "fad4282c-49d1-4b5b-be1d-713369fc8bc8"
+  ],
+  "illustration_id": "bb7281cb-61e7-4918-be38-93713baf0dac",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": "8.53",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "6.98",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479394&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFaerie%2BRogue",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFaerie%2BRogue",
+    "edhrec": "https://edhrec.com/route/?cc=Faerie+Rogue"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F205239%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=426446&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Faerie+Rogue&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

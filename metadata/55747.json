@@ -1,0 +1,150 @@
+{
+  "object": "card",
+  "id": "8407c498-b972-49fe-b30a-a864c39ddc7a",
+  "oracle_id": "1b704798-0c69-4c18-ac7e-42933ce90028",
+  "multiverse_ids": [
+    657775
+  ],
+  "mtgo_id": 123623,
+  "arena_id": 90728,
+  "tcgplayer_id": 544891,
+  "cardmarket_id": 764167,
+  "name": "Pest Infestation",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/8407c498-b972-49fe-b30a-a864c39ddc7a",
+  "scryfall_uri": "https://scryfall.com/card/otp/30/pest-infestation?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/4/8407c498-b972-49fe-b30a-a864c39ddc7a.jpg?1712353514",
+    "normal": "https://cards.scryfall.io/normal/front/8/4/8407c498-b972-49fe-b30a-a864c39ddc7a.jpg?1712353514",
+    "large": "https://cards.scryfall.io/large/front/8/4/8407c498-b972-49fe-b30a-a864c39ddc7a.jpg?1712353514",
+    "png": "https://cards.scryfall.io/png/front/8/4/8407c498-b972-49fe-b30a-a864c39ddc7a.png?1712353514",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/4/8407c498-b972-49fe-b30a-a864c39ddc7a.jpg?1712353514",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/4/8407c498-b972-49fe-b30a-a864c39ddc7a.jpg?1712353514"
+  },
+  "mana_cost": "{X}{X}{G}",
+  "cmc": 1,
+  "type_line": "Sorcery",
+  "oracle_text": "Destroy up to X target artifacts and/or enchantments. Create twice X 1/1 black and green Pest creature tokens with \"When this token dies, you gain 1 life.\"",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "8407c498-b972-49fe-b30a-a864c39ddc7a",
+      "component": "combo_piece",
+      "name": "Pest Infestation",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/8407c498-b972-49fe-b30a-a864c39ddc7a"
+    },
+    {
+      "object": "related_card",
+      "id": "e2e4c096-b083-4d19-ab8f-799e767819b4",
+      "component": "token",
+      "name": "Pest",
+      "type_line": "Token Creature — Pest",
+      "uri": "https://api.scryfall.com/cards/e2e4c096-b083-4d19-ab8f-799e767819b4"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8b51294d-fc54-410c-83b2-0168837ede87",
+  "set": "otp",
+  "set_name": "Breaking News",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/8b51294d-fc54-410c-83b2-0168837ede87",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8407c498-b972-49fe-b30a-a864c39ddc7a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1b704798-0c69-4c18-ac7e-42933ce90028&unique=prints",
+  "collector_number": "30",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Pest Problem Plagues Eatery—\"Never Thought I'd Miss the Rats,\" Owner Laments",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Michael Walsh",
+  "artist_ids": [
+    "6a86bcd5-4829-4bc6-ad82-a4448b28d089"
+  ],
+  "illustration_id": "f41ae7ab-619d-4474-afb2-d12cd280e14e",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 1812,
+  "penny_rank": 426,
+  "prices": {
+    "usd": "0.68",
+    "usd_foil": "1.77",
+    "usd_etched": null,
+    "eur": "1.09",
+    "eur_foil": "1.46",
+    "tix": "0.18"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=657775&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPest%2BInfestation",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPest%2BInfestation",
+    "edhrec": "https://edhrec.com/route/?cc=Pest+Infestation"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544891%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=764167&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/123623?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

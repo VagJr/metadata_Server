@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "dba94f75-bda5-44af-88c0-8a89f0bc0375",
+  "oracle_id": "0bb20c36-689f-4a7c-80b5-a12bda821847",
+  "multiverse_ids": [],
+  "tcgplayer_id": 526768,
+  "name": "Fabrication Foundry",
+  "lang": "en",
+  "released_at": "2023-11-17",
+  "uri": "https://api.scryfall.com/cards/dba94f75-bda5-44af-88c0-8a89f0bc0375",
+  "scryfall_uri": "https://scryfall.com/card/plci/12s/fabrication-foundry?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/b/dba94f75-bda5-44af-88c0-8a89f0bc0375.jpg?1701304531",
+    "normal": "https://cards.scryfall.io/normal/front/d/b/dba94f75-bda5-44af-88c0-8a89f0bc0375.jpg?1701304531",
+    "large": "https://cards.scryfall.io/large/front/d/b/dba94f75-bda5-44af-88c0-8a89f0bc0375.jpg?1701304531",
+    "png": "https://cards.scryfall.io/png/front/d/b/dba94f75-bda5-44af-88c0-8a89f0bc0375.png?1701304531",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/b/dba94f75-bda5-44af-88c0-8a89f0bc0375.jpg?1701304531",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/b/dba94f75-bda5-44af-88c0-8a89f0bc0375.jpg?1701304531"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Artifact",
+  "oracle_text": "{T}: Add {W}. Spend this mana only to cast an artifact spell or activate an ability of an artifact source.\n{2}{W}, {T}, Exile one or more other artifacts you control with total mana value X: Return target artifact card with mana value X or less from your graveyard to the battlefield. Activate only as a sorcery.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "W"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c2d4f3dd-aea0-4aec-bf7d-477e625483a6",
+  "set": "plci",
+  "set_name": "The Lost Caverns of Ixalan Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/c2d4f3dd-aea0-4aec-bf7d-477e625483a6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplci&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plci?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/dba94f75-bda5-44af-88c0-8a89f0bc0375/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0bb20c36-689f-4a7c-80b5-a12bda821847&unique=prints",
+  "collector_number": "12s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Racrufi",
+  "artist_ids": [
+    "7633403b-8eb3-4e02-9a81-bb5346552529"
+  ],
+  "illustration_id": "b5d324ed-c003-4431-a93d-84260222663e",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 8873,
+  "penny_rank": 5874,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.45",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFabrication%2BFoundry",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFabrication%2BFoundry",
+    "edhrec": "https://edhrec.com/route/?cc=Fabrication+Foundry"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F526768%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Fabrication+Foundry&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Fabrication+Foundry&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

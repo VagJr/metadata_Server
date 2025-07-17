@@ -1,0 +1,151 @@
+{
+  "object": "card",
+  "id": "3d89c1a1-1896-4360-b123-52d82a6871d4",
+  "oracle_id": "ea1eb902-a23c-44ff-9169-19baf71de238",
+  "multiverse_ids": [
+    489338
+  ],
+  "arena_id": 72243,
+  "tcgplayer_id": 216056,
+  "cardmarket_id": 472909,
+  "name": "Talrand, Sky Summoner",
+  "lang": "en",
+  "released_at": "2020-07-17",
+  "uri": "https://api.scryfall.com/cards/3d89c1a1-1896-4360-b123-52d82a6871d4",
+  "scryfall_uri": "https://scryfall.com/card/jmp/181/talrand-sky-summoner?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/d/3d89c1a1-1896-4360-b123-52d82a6871d4.jpg?1600714045",
+    "normal": "https://cards.scryfall.io/normal/front/3/d/3d89c1a1-1896-4360-b123-52d82a6871d4.jpg?1600714045",
+    "large": "https://cards.scryfall.io/large/front/3/d/3d89c1a1-1896-4360-b123-52d82a6871d4.jpg?1600714045",
+    "png": "https://cards.scryfall.io/png/front/3/d/3d89c1a1-1896-4360-b123-52d82a6871d4.png?1600714045",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/d/3d89c1a1-1896-4360-b123-52d82a6871d4.jpg?1600714045",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/d/3d89c1a1-1896-4360-b123-52d82a6871d4.jpg?1600714045"
+  },
+  "mana_cost": "{2}{U}{U}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Merfolk Wizard",
+  "oracle_text": "Whenever you cast an instant or sorcery spell, create a 2/2 blue Drake creature token with flying.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "f4a73034-e20f-4e7e-ac15-3460b1e9c69b",
+      "component": "token",
+      "name": "Drake",
+      "type_line": "Token Creature — Drake",
+      "uri": "https://api.scryfall.com/cards/f4a73034-e20f-4e7e-ac15-3460b1e9c69b"
+    },
+    {
+      "object": "related_card",
+      "id": "3d89c1a1-1896-4360-b123-52d82a6871d4",
+      "component": "combo_piece",
+      "name": "Talrand, Sky Summoner",
+      "type_line": "Legendary Creature — Merfolk Wizard",
+      "uri": "https://api.scryfall.com/cards/3d89c1a1-1896-4360-b123-52d82a6871d4"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "0f6ccf25-a627-4263-86df-5757137f1696",
+  "set": "jmp",
+  "set_name": "Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/0f6ccf25-a627-4263-86df-5757137f1696",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ajmp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/jmp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3d89c1a1-1896-4360-b123-52d82a6871d4/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aea1eb902-a23c-44ff-9169-19baf71de238&unique=prints",
+  "collector_number": "181",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"The seas are vast, but the skies are even more so. Why be content with one kingdom when I can rule them both?\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Svetlin Velinov",
+  "artist_ids": [
+    "ffd063ae-c097-4f26-b2e6-b1e2137708bc"
+  ],
+  "illustration_id": "99f6afc0-add4-4184-93eb-9dd01cde71a5",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 632,
+  "penny_rank": 3605,
+  "preview": {
+    "source": "Good Games Adelaide / Infinity Games",
+    "source_uri": "https://www.facebook.com/infinitygamesmtg/photos/pcb.10158754978735616/10158754977490616",
+    "previewed_at": "2020-06-18"
+  },
+  "prices": {
+    "usd": "0.27",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.22",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489338&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTalrand%252C%2BSky%2BSummoner",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTalrand%252C%2BSky%2BSummoner",
+    "edhrec": "https://edhrec.com/route/?cc=Talrand%2C+Sky+Summoner"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F216056%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=472909&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Talrand%2C+Sky+Summoner&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "b87e6e22-d3ae-4871-828c-2ba952a95805",
+  "oracle_id": "4716ab91-30e6-4c63-8389-a9db8f9414d8",
+  "multiverse_ids": [],
+  "tcgplayer_id": 481545,
+  "name": "Tekuthal, Inquiry Dominus",
+  "lang": "en",
+  "released_at": "2023-02-03",
+  "uri": "https://api.scryfall.com/cards/b87e6e22-d3ae-4871-828c-2ba952a95805",
+  "scryfall_uri": "https://scryfall.com/card/pone/71s/tekuthal-inquiry-dominus?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/8/b87e6e22-d3ae-4871-828c-2ba952a95805.jpg?1675700753",
+    "normal": "https://cards.scryfall.io/normal/front/b/8/b87e6e22-d3ae-4871-828c-2ba952a95805.jpg?1675700753",
+    "large": "https://cards.scryfall.io/large/front/b/8/b87e6e22-d3ae-4871-828c-2ba952a95805.jpg?1675700753",
+    "png": "https://cards.scryfall.io/png/front/b/8/b87e6e22-d3ae-4871-828c-2ba952a95805.png?1675700753",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/8/b87e6e22-d3ae-4871-828c-2ba952a95805.jpg?1675700753",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/8/b87e6e22-d3ae-4871-828c-2ba952a95805.jpg?1675700753"
+  },
+  "mana_cost": "{2}{U}{U}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Phyrexian Horror",
+  "oracle_text": "Flying\nIf you would proliferate, proliferate twice instead.\n{1}{U/P}{U/P}, Remove three counters from among other artifacts, creatures, and planeswalkers you control: Put an indestructible counter on Tekuthal. ({U/P} can be paid with either {U} or 2 life.)",
+  "power": "3",
+  "toughness": "5",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying",
+    "Proliferate"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a43681f0-e7f5-415b-bf1f-f9e52ad8213c",
+  "set": "pone",
+  "set_name": "Phyrexia: All Will Be One Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/a43681f0-e7f5-415b-bf1f-f9e52ad8213c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pone?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b87e6e22-d3ae-4871-828c-2ba952a95805/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4716ab91-30e6-4c63-8389-a9db8f9414d8&unique=prints",
+  "collector_number": "71s",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Martin de Diego Sádaba",
+  "artist_ids": [
+    "bc760b5e-6f98-4a17-9b12-5f4eccd12bb2"
+  ],
+  "illustration_id": "c833a917-2f44-4500-928e-f6b91a8dcd63",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 1575,
+  "penny_rank": 8707,
+  "prices": {
+    "usd": null,
+    "usd_foil": "9.95",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTekuthal%252C%2BInquiry%2BDominus",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTekuthal%252C%2BInquiry%2BDominus",
+    "edhrec": "https://edhrec.com/route/?cc=Tekuthal%2C+Inquiry+Dominus"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F481545%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tekuthal%2C+Inquiry+Dominus&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tekuthal%2C+Inquiry+Dominus&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

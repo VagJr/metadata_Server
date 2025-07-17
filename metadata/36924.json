@@ -1,0 +1,148 @@
+{
+  "object": "card",
+  "id": "57520d99-744f-41bb-9134-f28397a5cb2a",
+  "oracle_id": "aae76e5c-f5e0-4d18-b465-e6a829be908a",
+  "multiverse_ids": [
+    563077
+  ],
+  "tcgplayer_id": 273339,
+  "cardmarket_id": 660896,
+  "name": "Shiny Impetus",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/57520d99-744f-41bb-9134-f28397a5cb2a",
+  "scryfall_uri": "https://scryfall.com/card/clb/194/shiny-impetus?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/7/57520d99-744f-41bb-9134-f28397a5cb2a.jpg?1674136727",
+    "normal": "https://cards.scryfall.io/normal/front/5/7/57520d99-744f-41bb-9134-f28397a5cb2a.jpg?1674136727",
+    "large": "https://cards.scryfall.io/large/front/5/7/57520d99-744f-41bb-9134-f28397a5cb2a.jpg?1674136727",
+    "png": "https://cards.scryfall.io/png/front/5/7/57520d99-744f-41bb-9134-f28397a5cb2a.png?1674136727",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/7/57520d99-744f-41bb-9134-f28397a5cb2a.jpg?1674136727",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/7/57520d99-744f-41bb-9134-f28397a5cb2a.jpg?1674136727"
+  },
+  "mana_cost": "{2}{R}",
+  "cmc": 3,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant creature\nEnchanted creature gets +2/+2 and is goaded. (It attacks each combat if able and attacks a player other than you if able.)\nWhenever enchanted creature attacks, you create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Goad",
+    "Treasure",
+    "Enchant"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "770b988d-4f31-4746-8c23-4ed8d9a6b393",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/770b988d-4f31-4746-8c23-4ed8d9a6b393"
+    },
+    {
+      "object": "related_card",
+      "id": "57520d99-744f-41bb-9134-f28397a5cb2a",
+      "component": "combo_piece",
+      "name": "Shiny Impetus",
+      "type_line": "Enchantment — Aura",
+      "uri": "https://api.scryfall.com/cards/57520d99-744f-41bb-9134-f28397a5cb2a"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set": "clb",
+  "set_name": "Commander Legends: Battle for Baldur's Gate",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/clb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/57520d99-744f-41bb-9134-f28397a5cb2a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aaae76e5c-f5e0-4d18-b465-e6a829be908a&unique=prints",
+  "collector_number": "194",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Filipe Pagliuso",
+  "artist_ids": [
+    "64c537b4-a864-4051-9a24-fbdd22cb40b4"
+  ],
+  "illustration_id": "62d4ef78-0387-41f5-a5c5-99f58f189fa8",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1206,
+  "prices": {
+    "usd": "0.07",
+    "usd_foil": "0.18",
+    "usd_etched": null,
+    "eur": "0.14",
+    "eur_foil": "0.33",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=563077&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DShiny%2BImpetus",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DShiny%2BImpetus",
+    "edhrec": "https://edhrec.com/route/?cc=Shiny+Impetus"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F273339%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=660896&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Shiny+Impetus&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

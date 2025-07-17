@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "b7e92375-037c-4be1-8183-6261e0666e12",
+  "oracle_id": "d0e810bb-5f38-4045-a718-30d423c05659",
+  "multiverse_ids": [
+    671614
+  ],
+  "mtgo_id": 128659,
+  "tcgplayer_id": 559975,
+  "cardmarket_id": 779367,
+  "name": "Poison-Tip Archer",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/b7e92375-037c-4be1-8183-6261e0666e12",
+  "scryfall_uri": "https://scryfall.com/card/blc/256/poison-tip-archer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/7/b7e92375-037c-4be1-8183-6261e0666e12.jpg?1721429488",
+    "normal": "https://cards.scryfall.io/normal/front/b/7/b7e92375-037c-4be1-8183-6261e0666e12.jpg?1721429488",
+    "large": "https://cards.scryfall.io/large/front/b/7/b7e92375-037c-4be1-8183-6261e0666e12.jpg?1721429488",
+    "png": "https://cards.scryfall.io/png/front/b/7/b7e92375-037c-4be1-8183-6261e0666e12.png?1721429488",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/7/b7e92375-037c-4be1-8183-6261e0666e12.jpg?1721429488",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/7/b7e92375-037c-4be1-8183-6261e0666e12.jpg?1721429488"
+  },
+  "mana_cost": "{2}{B}{G}",
+  "cmc": 4,
+  "type_line": "Creature — Elf Archer",
+  "oracle_text": "Reach (This creature can block creatures with flying.)\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nWhenever another creature dies, each opponent loses 1 life.",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "B",
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [
+    "Reach",
+    "Deathtouch"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "set": "blc",
+  "set_name": "Bloomburrow Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/blc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b7e92375-037c-4be1-8183-6261e0666e12/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad0e810bb-5f38-4045-a718-30d423c05659&unique=prints",
+  "collector_number": "256",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"One more step and you're mine.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dmitry Burmak",
+  "artist_ids": [
+    "9872f5c0-274a-48ce-a9ad-6f0d5654e29c"
+  ],
+  "illustration_id": "9d1fa03e-2f49-430e-b048-a4b9d7da6dc4",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1614,
+  "prices": {
+    "usd": "0.36",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.87",
+    "eur_foil": null,
+    "tix": "0.25"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=671614&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPoison-Tip%2BArcher",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPoison-Tip%2BArcher",
+    "edhrec": "https://edhrec.com/route/?cc=Poison-Tip+Archer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F559975%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=779367&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/128659?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

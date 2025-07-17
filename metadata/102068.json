@@ -1,0 +1,113 @@
+{
+  "object": "card",
+  "id": "f13b1278-ce98-44ce-bc1f-428e79721aae",
+  "oracle_id": "02fe8ed4-3c5d-4875-b584-b33b819c47be",
+  "multiverse_ids": [
+    547487
+  ],
+  "arena_id": 73794,
+  "name": "Gideon's Intervention",
+  "lang": "en",
+  "released_at": "2020-08-13",
+  "uri": "https://api.scryfall.com/cards/f13b1278-ce98-44ce-bc1f-428e79721aae",
+  "scryfall_uri": "https://scryfall.com/card/akr/20/gideons-intervention?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/1/f13b1278-ce98-44ce-bc1f-428e79721aae.jpg?1597076614",
+    "normal": "https://cards.scryfall.io/normal/front/f/1/f13b1278-ce98-44ce-bc1f-428e79721aae.jpg?1597076614",
+    "large": "https://cards.scryfall.io/large/front/f/1/f13b1278-ce98-44ce-bc1f-428e79721aae.jpg?1597076614",
+    "png": "https://cards.scryfall.io/png/front/f/1/f13b1278-ce98-44ce-bc1f-428e79721aae.png?1597076614",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/1/f13b1278-ce98-44ce-bc1f-428e79721aae.jpg?1597076614",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/1/f13b1278-ce98-44ce-bc1f-428e79721aae.jpg?1597076614"
+  },
+  "mana_cost": "{2}{W}{W}",
+  "cmc": 4,
+  "type_line": "Enchantment",
+  "oracle_text": "As this enchantment enters, choose a card name.\nYour opponents can't cast spells with the chosen name.\nPrevent all damage that would be dealt to you and permanents you control by sources with the chosen name.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "banned",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "915dabb1-b82a-432d-939d-d9b128e65582",
+  "set": "akr",
+  "set_name": "Amonkhet Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/915dabb1-b82a-432d-939d-d9b128e65582",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aakr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/akr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f13b1278-ce98-44ce-bc1f-428e79721aae/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A02fe8ed4-3c5d-4875-b584-b33b819c47be&unique=prints",
+  "collector_number": "20",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daarken",
+  "artist_ids": [
+    "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+  ],
+  "illustration_id": "b4c8fb11-1492-4501-8040-833c9239739c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 18737,
+  "penny_rank": 1630,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547487&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGideon%2527s%2BIntervention",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGideon%2527s%2BIntervention",
+    "edhrec": "https://edhrec.com/route/?cc=Gideon%27s+Intervention"
+  }
+}

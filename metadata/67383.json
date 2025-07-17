@@ -1,0 +1,151 @@
+{
+  "object": "card",
+  "id": "9f329a0b-13cc-48c5-9fb7-38d8a537aa30",
+  "oracle_id": "1d5ff280-7f4d-4801-aefd-9b6e6b1f2818",
+  "multiverse_ids": [
+    678779
+  ],
+  "mtgo_id": 133108,
+  "tcgplayer_id": 588093,
+  "cardmarket_id": 795175,
+  "name": "Ajani, Caller of the Pride",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/9f329a0b-13cc-48c5-9fb7-38d8a537aa30",
+  "scryfall_uri": "https://scryfall.com/card/fdn/357/ajani-caller-of-the-pride?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/f/9f329a0b-13cc-48c5-9fb7-38d8a537aa30.jpg?1730718569",
+    "normal": "https://cards.scryfall.io/normal/front/9/f/9f329a0b-13cc-48c5-9fb7-38d8a537aa30.jpg?1730718569",
+    "large": "https://cards.scryfall.io/large/front/9/f/9f329a0b-13cc-48c5-9fb7-38d8a537aa30.jpg?1730718569",
+    "png": "https://cards.scryfall.io/png/front/9/f/9f329a0b-13cc-48c5-9fb7-38d8a537aa30.png?1730718569",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/f/9f329a0b-13cc-48c5-9fb7-38d8a537aa30.jpg?1730718569",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/f/9f329a0b-13cc-48c5-9fb7-38d8a537aa30.jpg?1730718569"
+  },
+  "mana_cost": "{1}{W}{W}",
+  "cmc": 3,
+  "type_line": "Legendary Planeswalker — Ajani",
+  "oracle_text": "+1: Put a +1/+1 counter on up to one target creature.\n−3: Target creature gains flying and double strike until end of turn.\n−8: Create X 2/2 white Cat creature tokens, where X is your life total.",
+  "loyalty": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "345f7610-5b95-4d24-9ab0-e18d27ccabed",
+      "component": "combo_piece",
+      "name": "Ajani, Caller of the Pride",
+      "type_line": "Legendary Planeswalker — Ajani",
+      "uri": "https://api.scryfall.com/cards/345f7610-5b95-4d24-9ab0-e18d27ccabed"
+    },
+    {
+      "object": "related_card",
+      "id": "d16213b5-c0da-4a24-9f2e-b9432652859e",
+      "component": "token",
+      "name": "Cat",
+      "type_line": "Token Creature — Cat",
+      "uri": "https://api.scryfall.com/cards/d16213b5-c0da-4a24-9f2e-b9432652859e"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set": "fdn",
+  "set_name": "Foundations",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afdn&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fdn?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9f329a0b-13cc-48c5-9fb7-38d8a537aa30/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1d5ff280-7f4d-4801-aefd-9b6e6b1f2818&unique=prints",
+  "collector_number": "357",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Victor Adame Minguez",
+  "artist_ids": [
+    "bd8f7368-5b10-4554-b6b8-d052c6aca89f"
+  ],
+  "illustration_id": "aa0e3760-6df1-42de-b3a7-a8de54de152c",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 4719,
+  "penny_rank": 2972,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://x.com/wizards_magic/status/1848416465549955467",
+    "previewed_at": "2024-10-21"
+  },
+  "prices": {
+    "usd": "1.98",
+    "usd_foil": "4.03",
+    "usd_etched": null,
+    "eur": "2.12",
+    "eur_foil": "4.36",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=678779&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAjani%252C%2BCaller%2Bof%2Bthe%2BPride",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAjani%252C%2BCaller%2Bof%2Bthe%2BPride",
+    "edhrec": "https://edhrec.com/route/?cc=Ajani%2C+Caller+of+the+Pride"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F588093%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=795175&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/133108?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

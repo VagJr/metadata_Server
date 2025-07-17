@@ -1,0 +1,155 @@
+{
+  "object": "card",
+  "id": "41e7420e-55d0-4f4b-84bb-e5b86616cbb3",
+  "oracle_id": "bedf1dd5-b133-455b-bc3d-c7b1f469d91f",
+  "multiverse_ids": [
+    553219
+  ],
+  "arena_id": 79861,
+  "tcgplayer_id": 262377,
+  "cardmarket_id": 607168,
+  "name": "Imperial Subduer",
+  "lang": "en",
+  "released_at": "2022-02-18",
+  "uri": "https://api.scryfall.com/cards/41e7420e-55d0-4f4b-84bb-e5b86616cbb3",
+  "scryfall_uri": "https://scryfall.com/card/neo/310/imperial-subduer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/1/41e7420e-55d0-4f4b-84bb-e5b86616cbb3.jpg?1654569205",
+    "normal": "https://cards.scryfall.io/normal/front/4/1/41e7420e-55d0-4f4b-84bb-e5b86616cbb3.jpg?1654569205",
+    "large": "https://cards.scryfall.io/large/front/4/1/41e7420e-55d0-4f4b-84bb-e5b86616cbb3.jpg?1654569205",
+    "png": "https://cards.scryfall.io/png/front/4/1/41e7420e-55d0-4f4b-84bb-e5b86616cbb3.png?1654569205",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/1/41e7420e-55d0-4f4b-84bb-e5b86616cbb3.jpg?1654569205",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/1/41e7420e-55d0-4f4b-84bb-e5b86616cbb3.jpg?1654569205"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Creature — Human Samurai",
+  "oracle_text": "Whenever a Samurai or Warrior you control attacks alone, tap target creature you don't control.",
+  "power": "3",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "d6c23437-244f-4e6b-93b7-ce0321be154b",
+      "component": "combo_piece",
+      "name": "A-Imperial Subduer",
+      "type_line": "Creature — Human Samurai",
+      "uri": "https://api.scryfall.com/cards/d6c23437-244f-4e6b-93b7-ce0321be154b"
+    },
+    {
+      "object": "related_card",
+      "id": "41e7420e-55d0-4f4b-84bb-e5b86616cbb3",
+      "component": "combo_piece",
+      "name": "Imperial Subduer",
+      "type_line": "Creature — Human Samurai",
+      "uri": "https://api.scryfall.com/cards/41e7420e-55d0-4f4b-84bb-e5b86616cbb3"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "59a2059f-5482-433f-8761-eb2e17859b71",
+  "set": "neo",
+  "set_name": "Kamigawa: Neon Dynasty",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/59a2059f-5482-433f-8761-eb2e17859b71",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aneo&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/neo?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/41e7420e-55d0-4f4b-84bb-e5b86616cbb3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abedf1dd5-b133-455b-bc3d-c7b1f469d91f&unique=prints",
+  "collector_number": "310",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Yunomachi",
+  "artist_ids": [
+    "4648c2bf-900c-45da-b503-3b1c2fe5c064"
+  ],
+  "illustration_id": "795d0288-1618-4579-8bf5-d07496907d4d",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 10662,
+  "penny_rank": 14738,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynasty-mechanics-2022-01-27",
+    "previewed_at": "2022-01-28"
+  },
+  "prices": {
+    "usd": "0.08",
+    "usd_foil": "0.13",
+    "usd_etched": null,
+    "eur": "0.09",
+    "eur_foil": "0.15",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=553219&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DImperial%2BSubduer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DImperial%2BSubduer",
+    "edhrec": "https://edhrec.com/route/?cc=Imperial+Subduer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F262377%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=607168&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Imperial+Subduer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

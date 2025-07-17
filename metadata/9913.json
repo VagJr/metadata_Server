@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "1716b4dd-9045-462b-b053-72de450a8cde",
+  "oracle_id": "43985bbc-a0f6-4812-984e-392bc8562633",
+  "multiverse_ids": [],
+  "tcgplayer_id": 237582,
+  "cardmarket_id": 575330,
+  "name": "Blood Crypt",
+  "lang": "en",
+  "released_at": "2021-04-26",
+  "uri": "https://api.scryfall.com/cards/1716b4dd-9045-462b-b053-72de450a8cde",
+  "scryfall_uri": "https://scryfall.com/card/sld/125/blood-crypt?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/7/1716b4dd-9045-462b-b053-72de450a8cde.jpg?1637804360",
+    "normal": "https://cards.scryfall.io/normal/front/1/7/1716b4dd-9045-462b-b053-72de450a8cde.jpg?1637804360",
+    "large": "https://cards.scryfall.io/large/front/1/7/1716b4dd-9045-462b-b053-72de450a8cde.jpg?1637804360",
+    "png": "https://cards.scryfall.io/png/front/1/7/1716b4dd-9045-462b-b053-72de450a8cde.png?1637804360",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/7/1716b4dd-9045-462b-b053-72de450a8cde.jpg?1637804360",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/7/1716b4dd-9045-462b-b053-72de450a8cde.jpg?1637804360"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land — Swamp Mountain",
+  "oracle_text": "({T}: Add {B} or {R}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped.",
+  "colors": [],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "R"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1716b4dd-9045-462b-b053-72de450a8cde/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A43985bbc-a0f6-4812-984e-392bc8562633&unique=prints",
+  "collector_number": "125",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Vampires invited to a soiree at Markov Manor are expected to bring a guest or refreshments—or both.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Seb McKinnon",
+  "artist_ids": [
+    "ad4caca0-8d89-44ce-a1a6-d5ca905bd6fb"
+  ],
+  "illustration_id": "278af7d3-8afa-4038-bc1f-e756ef6325db",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 84,
+  "prices": {
+    "usd": "17.26",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "18.89",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlood%2BCrypt",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlood%2BCrypt",
+    "edhrec": "https://edhrec.com/route/?cc=Blood+Crypt"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F237582%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=575330&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blood+Crypt&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

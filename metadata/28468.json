@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "434fe0a1-78d4-4f01-b467-3b2268849ed5",
+  "oracle_id": "78a48f4e-ba4c-4d8d-938a-9ddb342a885b",
+  "multiverse_ids": [
+    665613
+  ],
+  "mtgo_id": 126939,
+  "tcgplayer_id": 553503,
+  "cardmarket_id": 773185,
+  "name": "Junji, the Midnight Sky",
+  "lang": "en",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/434fe0a1-78d4-4f01-b467-3b2268849ed5",
+  "scryfall_uri": "https://scryfall.com/card/m3c/199/junji-the-midnight-sky?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/3/434fe0a1-78d4-4f01-b467-3b2268849ed5.jpg?1717190393",
+    "normal": "https://cards.scryfall.io/normal/front/4/3/434fe0a1-78d4-4f01-b467-3b2268849ed5.jpg?1717190393",
+    "large": "https://cards.scryfall.io/large/front/4/3/434fe0a1-78d4-4f01-b467-3b2268849ed5.jpg?1717190393",
+    "png": "https://cards.scryfall.io/png/front/4/3/434fe0a1-78d4-4f01-b467-3b2268849ed5.png?1717190393",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/3/434fe0a1-78d4-4f01-b467-3b2268849ed5.jpg?1717190393",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/3/434fe0a1-78d4-4f01-b467-3b2268849ed5.jpg?1717190393"
+  },
+  "mana_cost": "{3}{B}{B}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Dragon Spirit",
+  "oracle_text": "Flying, menace\nWhen Junji dies, choose one —\n• Each opponent discards two cards and loses 2 life.\n• Put target non-Dragon creature card from a graveyard onto the battlefield under your control. You lose 2 life.",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying",
+    "Menace"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "f5e00721-cf99-43ba-bf16-b22d56d12c73",
+  "set": "m3c",
+  "set_name": "Modern Horizons 3 Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/f5e00721-cf99-43ba-bf16-b22d56d12c73",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am3c&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/m3c?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/434fe0a1-78d4-4f01-b467-3b2268849ed5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A78a48f4e-ba4c-4d8d-938a-9ddb342a885b&unique=prints",
+  "collector_number": "199",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chase Stone",
+  "artist_ids": [
+    "2d753f61-5f5b-468e-97ea-8e0fdd347340"
+  ],
+  "illustration_id": "ca4b32ec-4236-4d01-9372-a6aa1b688119",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "ripplefoil"
+  ],
+  "edhrec_rank": 1157,
+  "penny_rank": 7619,
+  "prices": {
+    "usd": "0.55",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.61",
+    "eur_foil": "1.97",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=665613&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJunji%252C%2Bthe%2BMidnight%2BSky",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJunji%252C%2Bthe%2BMidnight%2BSky",
+    "edhrec": "https://edhrec.com/route/?cc=Junji%2C+the+Midnight+Sky"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F553503%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=773185&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/126939?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

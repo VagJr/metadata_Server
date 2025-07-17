@@ -1,0 +1,148 @@
+{
+  "object": "card",
+  "id": "8e3c139e-fcd5-4a23-bcac-b887c6e198e5",
+  "oracle_id": "8b0e2382-dd91-42e6-aba3-5e8a15418a49",
+  "multiverse_ids": [
+    677693
+  ],
+  "mtgo_id": 133926,
+  "tcgplayer_id": 563171,
+  "cardmarket_id": 783978,
+  "name": "Serra the Benevolent",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/8e3c139e-fcd5-4a23-bcac-b887c6e198e5",
+  "scryfall_uri": "https://scryfall.com/card/mb2/17/serra-the-benevolent?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/e/8e3c139e-fcd5-4a23-bcac-b887c6e198e5.jpg?1723226426",
+    "normal": "https://cards.scryfall.io/normal/front/8/e/8e3c139e-fcd5-4a23-bcac-b887c6e198e5.jpg?1723226426",
+    "large": "https://cards.scryfall.io/large/front/8/e/8e3c139e-fcd5-4a23-bcac-b887c6e198e5.jpg?1723226426",
+    "png": "https://cards.scryfall.io/png/front/8/e/8e3c139e-fcd5-4a23-bcac-b887c6e198e5.png?1723226426",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/e/8e3c139e-fcd5-4a23-bcac-b887c6e198e5.jpg?1723226426",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/e/8e3c139e-fcd5-4a23-bcac-b887c6e198e5.jpg?1723226426"
+  },
+  "mana_cost": "{2}{W}{W}",
+  "cmc": 4,
+  "type_line": "Legendary Planeswalker — Serra",
+  "oracle_text": "+2: Creatures you control with flying get +1/+1 until end of turn.\n−3: Create a 4/4 white Angel creature token with flying and vigilance.\n−6: You get an emblem with \"If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.\"",
+  "loyalty": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "bb2b69c0-ba32-4db1-bf02-230b6d4802aa",
+      "component": "token",
+      "name": "Angel",
+      "type_line": "Token Creature — Angel",
+      "uri": "https://api.scryfall.com/cards/bb2b69c0-ba32-4db1-bf02-230b6d4802aa"
+    },
+    {
+      "object": "related_card",
+      "id": "87dbb0b0-d898-491a-8ed9-efefca04e6e6",
+      "component": "combo_piece",
+      "name": "Serra the Benevolent Emblem",
+      "type_line": "Emblem — Serra",
+      "uri": "https://api.scryfall.com/cards/87dbb0b0-d898-491a-8ed9-efefca04e6e6"
+    },
+    {
+      "object": "related_card",
+      "id": "8e3c139e-fcd5-4a23-bcac-b887c6e198e5",
+      "component": "combo_piece",
+      "name": "Serra the Benevolent",
+      "type_line": "Legendary Planeswalker — Serra",
+      "uri": "https://api.scryfall.com/cards/8e3c139e-fcd5-4a23-bcac-b887c6e198e5"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "1e6879fe-2f29-4ad7-8d42-7f5bfb469f4a",
+  "set": "mb2",
+  "set_name": "Mystery Booster 2",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/1e6879fe-2f29-4ad7-8d42-7f5bfb469f4a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amb2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mb2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8e3c139e-fcd5-4a23-bcac-b887c6e198e5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8b0e2382-dd91-42e6-aba3-5e8a15418a49&unique=prints",
+  "collector_number": "17",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Magali Villeneuve",
+  "artist_ids": [
+    "9e6a55ae-be4d-4c23-a2a5-135737ffd879"
+  ],
+  "illustration_id": "986ed0a2-61f7-4fe5-ada4-96d540fded0c",
+  "border_color": "white",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5293,
+  "penny_rank": 3287,
+  "prices": {
+    "usd": "2.10",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "4.17",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=677693&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSerra%2Bthe%2BBenevolent",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSerra%2Bthe%2BBenevolent",
+    "edhrec": "https://edhrec.com/route/?cc=Serra+the+Benevolent"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F563171%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=783978&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/133926?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "bf89ee78-bcc9-419a-a400-e612b5a90f07",
+  "oracle_id": "bfef4daa-b950-46ce-8c08-11f9983741cf",
+  "multiverse_ids": [
+    552730
+  ],
+  "arena_id": 79839,
+  "tcgplayer_id": 262866,
+  "cardmarket_id": 608331,
+  "name": "Kotose, the Silent Spider",
+  "lang": "en",
+  "released_at": "2022-02-18",
+  "uri": "https://api.scryfall.com/cards/bf89ee78-bcc9-419a-a400-e612b5a90f07",
+  "scryfall_uri": "https://scryfall.com/card/neo/351/kotose-the-silent-spider?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/f/bf89ee78-bcc9-419a-a400-e612b5a90f07.jpg?1654569674",
+    "normal": "https://cards.scryfall.io/normal/front/b/f/bf89ee78-bcc9-419a-a400-e612b5a90f07.jpg?1654569674",
+    "large": "https://cards.scryfall.io/large/front/b/f/bf89ee78-bcc9-419a-a400-e612b5a90f07.jpg?1654569674",
+    "png": "https://cards.scryfall.io/png/front/b/f/bf89ee78-bcc9-419a-a400-e612b5a90f07.png?1654569674",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/f/bf89ee78-bcc9-419a-a400-e612b5a90f07.jpg?1654569674",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/f/bf89ee78-bcc9-419a-a400-e612b5a90f07.jpg?1654569674"
+  },
+  "mana_cost": "{3}{U}{B}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Human Ninja",
+  "oracle_text": "When Kotose enters, exile target card other than a basic land card from an opponent's graveyard. Search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles. For as long as you control Kotose, you may play one of the exiled cards, and you may spend mana as though it were mana of any color to cast it.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "59a2059f-5482-433f-8761-eb2e17859b71",
+  "set": "neo",
+  "set_name": "Kamigawa: Neon Dynasty",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/59a2059f-5482-433f-8761-eb2e17859b71",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aneo&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/neo?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/bf89ee78-bcc9-419a-a400-e612b5a90f07/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abfef4daa-b950-46ce-8c08-11f9983741cf&unique=prints",
+  "collector_number": "351",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Penekor",
+  "artist_ids": [
+    "ee316e1c-b9ce-4b7f-825a-2896f0847e98"
+  ],
+  "illustration_id": "b67f7e99-e92f-440e-ac1d-9c5038e7e41f",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 16069,
+  "penny_rank": 8325,
+  "preview": {
+    "source": "Pegasus Oyuncak",
+    "source_uri": "https://www.instagram.com/p/CZfUY4RgQcO/",
+    "previewed_at": "2022-02-03"
+  },
+  "prices": {
+    "usd": "0.40",
+    "usd_foil": "0.54",
+    "usd_etched": null,
+    "eur": "0.34",
+    "eur_foil": "0.90",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=552730&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKotose%252C%2Bthe%2BSilent%2BSpider",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKotose%252C%2Bthe%2BSilent%2BSpider",
+    "edhrec": "https://edhrec.com/route/?cc=Kotose%2C+the+Silent+Spider"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F262866%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=608331&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kotose%2C+the+Silent+Spider&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

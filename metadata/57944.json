@@ -1,0 +1,138 @@
+{
+  "object": "card",
+  "id": "8902590b-8f14-4e5a-a81f-214af73be9a0",
+  "oracle_id": "fed7a6ad-68d8-4923-9ef0-619f73bfd6c2",
+  "multiverse_ids": [
+    547718
+  ],
+  "arena_id": 74057,
+  "name": "Prepare // Fight",
+  "lang": "en",
+  "released_at": "2020-08-13",
+  "uri": "https://api.scryfall.com/cards/8902590b-8f14-4e5a-a81f-214af73be9a0",
+  "scryfall_uri": "https://scryfall.com/card/akr/251/prepare-fight?utm_source=api",
+  "layout": "split",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/9/8902590b-8f14-4e5a-a81f-214af73be9a0.jpg?1671338287",
+    "normal": "https://cards.scryfall.io/normal/front/8/9/8902590b-8f14-4e5a-a81f-214af73be9a0.jpg?1671338287",
+    "large": "https://cards.scryfall.io/large/front/8/9/8902590b-8f14-4e5a-a81f-214af73be9a0.jpg?1671338287",
+    "png": "https://cards.scryfall.io/png/front/8/9/8902590b-8f14-4e5a-a81f-214af73be9a0.png?1671338287",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/9/8902590b-8f14-4e5a-a81f-214af73be9a0.jpg?1671338287",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/9/8902590b-8f14-4e5a-a81f-214af73be9a0.jpg?1671338287"
+  },
+  "mana_cost": "{1}{W} // {3}{G}",
+  "cmc": 6,
+  "type_line": "Instant // Sorcery",
+  "colors": [
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [
+    "Fight",
+    "Aftermath"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Prepare",
+      "mana_cost": "{1}{W}",
+      "type_line": "Instant",
+      "oracle_text": "Untap target creature. It gets +2/+2 and gains lifelink until end of turn.",
+      "artist": "Zack Stella",
+      "artist_id": "17bc7f55-958b-43f4-bb40-09746d05b3f9",
+      "illustration_id": "85b6c609-134c-4ed2-b393-e12f2a96ca8a"
+    },
+    {
+      "object": "card_face",
+      "name": "Fight",
+      "mana_cost": "{3}{G}",
+      "type_line": "Sorcery",
+      "oracle_text": "Aftermath (Cast this spell only from your graveyard. Then exile it.)\nTarget creature you control fights target creature an opponent controls.",
+      "artist": "Zack Stella",
+      "artist_id": "17bc7f55-958b-43f4-bb40-09746d05b3f9"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "915dabb1-b82a-432d-939d-d9b128e65582",
+  "set": "akr",
+  "set_name": "Amonkhet Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/915dabb1-b82a-432d-939d-d9b128e65582",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aakr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/akr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8902590b-8f14-4e5a-a81f-214af73be9a0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afed7a6ad-68d8-4923-9ef0-619f73bfd6c2&unique=prints",
+  "collector_number": "251",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Zack Stella",
+  "artist_ids": [
+    "17bc7f55-958b-43f4-bb40-09746d05b3f9"
+  ],
+  "illustration_id": "85b6c609-134c-4ed2-b393-e12f2a96ca8a",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 19248,
+  "penny_rank": 9240,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547718&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPrepare%2B%252F%252F%2BFight",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPrepare%2B%252F%252F%2BFight",
+    "edhrec": "https://edhrec.com/route/?cc=Prepare+%2F%2F+Fight"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "60b643d9-056b-42c2-a9aa-62f584d2e414",
+  "oracle_id": "1b1bbad2-13b3-4716-85ef-3956268e23ad",
+  "multiverse_ids": [
+    654477
+  ],
+  "mtgo_id": 131859,
+  "tcgplayer_id": 539987,
+  "name": "ED-E, Lonesome Eyebot",
+  "lang": "en",
+  "released_at": "2024-03-08",
+  "uri": "https://api.scryfall.com/cards/60b643d9-056b-42c2-a9aa-62f584d2e414",
+  "scryfall_uri": "https://scryfall.com/card/pip/432/ed-e-lonesome-eyebot?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/0/60b643d9-056b-42c2-a9aa-62f584d2e414.jpg?1708743997",
+    "normal": "https://cards.scryfall.io/normal/front/6/0/60b643d9-056b-42c2-a9aa-62f584d2e414.jpg?1708743997",
+    "large": "https://cards.scryfall.io/large/front/6/0/60b643d9-056b-42c2-a9aa-62f584d2e414.jpg?1708743997",
+    "png": "https://cards.scryfall.io/png/front/6/0/60b643d9-056b-42c2-a9aa-62f584d2e414.png?1708743997",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/0/60b643d9-056b-42c2-a9aa-62f584d2e414.jpg?1708743997",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/0/60b643d9-056b-42c2-a9aa-62f584d2e414.jpg?1708743997"
+  },
+  "mana_cost": "{3}",
+  "cmc": 3,
+  "type_line": "Legendary Artifact Creature — Robot",
+  "oracle_text": "Flying\nED-E My Love — Whenever you attack, if the number of attacking creatures is greater than the number of quest counters on ED-E, put a quest counter on it.\n{2}, Sacrifice ED-E: Draw a card, then draw an additional card for each quest counter on ED-E.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "ED-E My Love",
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+  "set": "pip",
+  "set_name": "Fallout",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apip&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pip?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/60b643d9-056b-42c2-a9aa-62f584d2e414/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1b1bbad2-13b3-4716-85ef-3956268e23ad&unique=prints",
+  "collector_number": "432",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Leanna Crossan",
+  "artist_ids": [
+    "976cfe82-042e-4c2a-b762-2bc3e86cb6d0"
+  ],
+  "illustration_id": "213c4f48-1d55-450d-a0ac-47f1cb90020d",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "extendedart"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 8754,
+  "prices": {
+    "usd": "0.39",
+    "usd_foil": "0.40",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.59"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=654477&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DED-E%252C%2BLonesome%2BEyebot",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DED-E%252C%2BLonesome%2BEyebot",
+    "edhrec": "https://edhrec.com/route/?cc=ED-E%2C+Lonesome+Eyebot"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F539987%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=ED-E%2C+Lonesome+Eyebot&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/131859?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

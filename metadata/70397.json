@@ -1,0 +1,189 @@
+{
+  "object": "card",
+  "id": "a622635e-482d-4621-8874-3945af74e9ca",
+  "oracle_id": "b2ecaae4-41ee-4c61-b5ce-db4364b307fc",
+  "multiverse_ids": [],
+  "arena_id": 78690,
+  "tcgplayer_id": 247947,
+  "cardmarket_id": 574730,
+  "name": "Village Watch // Village Reavers",
+  "lang": "en",
+  "released_at": "2021-09-24",
+  "uri": "https://api.scryfall.com/cards/a622635e-482d-4621-8874-3945af74e9ca",
+  "scryfall_uri": "https://scryfall.com/card/mid/297/village-watch-village-reavers?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 5,
+  "type_line": "Creature — Human Werewolf // Creature — Werewolf",
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Daybound",
+    "Haste",
+    "Nightbound"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Village Watch",
+      "mana_cost": "{4}{R}",
+      "type_line": "Creature — Human Werewolf",
+      "oracle_text": "Haste\nDaybound (If a player casts no spells during their own turn, it becomes night next turn.)",
+      "colors": [
+        "R"
+      ],
+      "power": "4",
+      "toughness": "3",
+      "artist": "Andrea De Dominicis",
+      "artist_id": "d0f5310c-acb8-4df7-b78d-84a4e5fb2a22",
+      "illustration_id": "c29e70c2-700c-420c-bb48-2938a8bd8d4b",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/a/6/a622635e-482d-4621-8874-3945af74e9ca.jpg?1636414278",
+        "normal": "https://cards.scryfall.io/normal/front/a/6/a622635e-482d-4621-8874-3945af74e9ca.jpg?1636414278",
+        "large": "https://cards.scryfall.io/large/front/a/6/a622635e-482d-4621-8874-3945af74e9ca.jpg?1636414278",
+        "png": "https://cards.scryfall.io/png/front/a/6/a622635e-482d-4621-8874-3945af74e9ca.png?1636414278",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/a/6/a622635e-482d-4621-8874-3945af74e9ca.jpg?1636414278",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/a/6/a622635e-482d-4621-8874-3945af74e9ca.jpg?1636414278"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Village Reavers",
+      "mana_cost": "",
+      "type_line": "Creature — Werewolf",
+      "oracle_text": "Wolves and Werewolves you control have haste.\nNightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)",
+      "colors": [
+        "R"
+      ],
+      "color_indicator": [
+        "R"
+      ],
+      "power": "5",
+      "toughness": "4",
+      "artist": "Andrea De Dominicis",
+      "artist_id": "d0f5310c-acb8-4df7-b78d-84a4e5fb2a22",
+      "illustration_id": "14570cf6-1ff6-4edf-87e3-ba62afd476e8",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/a/6/a622635e-482d-4621-8874-3945af74e9ca.jpg?1636414278",
+        "normal": "https://cards.scryfall.io/normal/back/a/6/a622635e-482d-4621-8874-3945af74e9ca.jpg?1636414278",
+        "large": "https://cards.scryfall.io/large/back/a/6/a622635e-482d-4621-8874-3945af74e9ca.jpg?1636414278",
+        "png": "https://cards.scryfall.io/png/back/a/6/a622635e-482d-4621-8874-3945af74e9ca.png?1636414278",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/a/6/a622635e-482d-4621-8874-3945af74e9ca.jpg?1636414278",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/a/6/a622635e-482d-4621-8874-3945af74e9ca.jpg?1636414278"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "dc26e13b-7a0f-4e7f-8593-4f22234f4517",
+      "component": "combo_piece",
+      "name": "Day // Night",
+      "type_line": "Card // Card",
+      "uri": "https://api.scryfall.com/cards/dc26e13b-7a0f-4e7f-8593-4f22234f4517"
+    },
+    {
+      "object": "related_card",
+      "id": "a622635e-482d-4621-8874-3945af74e9ca",
+      "component": "combo_piece",
+      "name": "Village Watch // Village Reavers",
+      "type_line": "Creature — Human Werewolf // Creature — Werewolf",
+      "uri": "https://api.scryfall.com/cards/a622635e-482d-4621-8874-3945af74e9ca"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "44b8eb8f-fa23-401a-98b5-1fbb9871128e",
+  "set": "mid",
+  "set_name": "Innistrad: Midnight Hunt",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/44b8eb8f-fa23-401a-98b5-1fbb9871128e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amid&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mid?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a622635e-482d-4621-8874-3945af74e9ca/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab2ecaae4-41ee-4c61-b5ce-db4364b307fc&unique=prints",
+  "collector_number": "297",
+  "digital": false,
+  "rarity": "uncommon",
+  "artist": "Andrea De Dominicis",
+  "artist_ids": [
+    "d0f5310c-acb8-4df7-b78d-84a4e5fb2a22"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "sunmoondfc"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 9162,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.facebook.com/MagicTheGathering/photos/a.215689245306/10165303403815307/",
+    "previewed_at": "2021-09-02"
+  },
+  "prices": {
+    "usd": "0.06",
+    "usd_foil": "0.20",
+    "usd_etched": null,
+    "eur": "0.09",
+    "eur_foil": "0.28",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVillage%2BWatch%2B%252F%252F%2BVillage%2BReavers",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVillage%2BWatch%2B%252F%252F%2BVillage%2BReavers",
+    "edhrec": "https://edhrec.com/route/?cc=Village+Watch"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F247947%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=574730&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Village+Watch&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

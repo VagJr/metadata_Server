@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "d3b2782f-9bbf-4cfc-86a1-468994b2dfef",
+  "oracle_id": "a43e98d1-684a-4198-bc7e-877b9f6d5357",
+  "multiverse_ids": [
+    636139
+  ],
+  "mtgo_id": 119474,
+  "tcgplayer_id": 518056,
+  "cardmarket_id": 737804,
+  "name": "Isildur's Fateful Strike",
+  "lang": "en",
+  "released_at": "2023-11-03",
+  "uri": "https://api.scryfall.com/cards/d3b2782f-9bbf-4cfc-86a1-468994b2dfef",
+  "scryfall_uri": "https://scryfall.com/card/ltr/542/isildurs-fateful-strike?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/3/d3b2782f-9bbf-4cfc-86a1-468994b2dfef.jpg?1695448491",
+    "normal": "https://cards.scryfall.io/normal/front/d/3/d3b2782f-9bbf-4cfc-86a1-468994b2dfef.jpg?1695448491",
+    "large": "https://cards.scryfall.io/large/front/d/3/d3b2782f-9bbf-4cfc-86a1-468994b2dfef.jpg?1695448491",
+    "png": "https://cards.scryfall.io/png/front/d/3/d3b2782f-9bbf-4cfc-86a1-468994b2dfef.png?1695448491",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/3/d3b2782f-9bbf-4cfc-86a1-468994b2dfef.jpg?1695448491",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/3/d3b2782f-9bbf-4cfc-86a1-468994b2dfef.jpg?1695448491"
+  },
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4,
+  "type_line": "Legendary Instant",
+  "oracle_text": "(You may cast a legendary instant only if you control a legendary creature or planeswalker.)\nDestroy target creature. If its controller has more than four cards in hand, they exile cards from their hand equal to the difference.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "08078706-ac5d-439b-8f01-894d38751367",
+  "set": "ltr",
+  "set_name": "The Lord of the Rings: Tales of Middle-earth",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/08078706-ac5d-439b-8f01-894d38751367",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d3b2782f-9bbf-4cfc-86a1-468994b2dfef/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa43e98d1-684a-4198-bc7e-877b9f6d5357&unique=prints",
+  "collector_number": "542",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Isildur cut the Ring from Sauron's hand with the hilt-shard of his father's sword, and Sauron himself was overthrown.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "John Di Giovanni",
+  "artist_ids": [
+    "dc7630d7-41e3-4fef-8630-058d1ba39d37"
+  ],
+  "illustration_id": "68212d86-6aea-48de-8f87-71c91fd5433e",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "silverfoil",
+    "scroll",
+    "boosterfun"
+  ],
+  "edhrec_rank": 8179,
+  "penny_rank": 11370,
+  "prices": {
+    "usd": "0.90",
+    "usd_foil": "1.59",
+    "usd_etched": null,
+    "eur": "0.95",
+    "eur_foil": null,
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=636139&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DIsildur%2527s%2BFateful%2BStrike",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DIsildur%2527s%2BFateful%2BStrike",
+    "edhrec": "https://edhrec.com/route/?cc=Isildur%27s+Fateful+Strike"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F518056%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=737804&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/119474?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

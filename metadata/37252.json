@@ -1,0 +1,171 @@
+{
+  "object": "card",
+  "id": "581327f5-6e79-4720-9695-198b287a92bb",
+  "oracle_id": "1f57a9f1-6b95-4395-bdf0-c5289b786ab1",
+  "multiverse_ids": [
+    639764,
+    639765
+  ],
+  "mtgo_id": 117582,
+  "tcgplayer_id": 524226,
+  "cardmarket_id": 740915,
+  "name": "The Everflowing Well // The Myriad Pools",
+  "lang": "en",
+  "released_at": "2023-11-17",
+  "uri": "https://api.scryfall.com/cards/581327f5-6e79-4720-9695-198b287a92bb",
+  "scryfall_uri": "https://scryfall.com/card/lci/363/the-everflowing-well-the-myriad-pools?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 3,
+  "type_line": "Legendary Artifact // Legendary Artifact Land",
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Transform",
+    "Descend",
+    "Mill"
+  ],
+  "produced_mana": [
+    "U"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "The Everflowing Well",
+      "mana_cost": "{2}{U}",
+      "type_line": "Legendary Artifact",
+      "oracle_text": "When The Everflowing Well enters, mill two cards, then draw two cards.\nDescend 8 — At the beginning of your upkeep, if there are eight or more permanent cards in your graveyard, transform The Everflowing Well.",
+      "colors": [
+        "U"
+      ],
+      "artist": "David Álvarez",
+      "artist_id": "c3004e2c-d372-4faa-90db-f1274e75ef41",
+      "illustration_id": "c95d1819-4c35-43b8-a515-a6faa117eb0f",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/5/8/581327f5-6e79-4720-9695-198b287a92bb.jpg?1699044979",
+        "normal": "https://cards.scryfall.io/normal/front/5/8/581327f5-6e79-4720-9695-198b287a92bb.jpg?1699044979",
+        "large": "https://cards.scryfall.io/large/front/5/8/581327f5-6e79-4720-9695-198b287a92bb.jpg?1699044979",
+        "png": "https://cards.scryfall.io/png/front/5/8/581327f5-6e79-4720-9695-198b287a92bb.png?1699044979",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/5/8/581327f5-6e79-4720-9695-198b287a92bb.jpg?1699044979",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/5/8/581327f5-6e79-4720-9695-198b287a92bb.jpg?1699044979"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "The Myriad Pools",
+      "mana_cost": "",
+      "type_line": "Legendary Artifact Land",
+      "oracle_text": "(Transforms from The Everflowing Well.)\n{T}: Add {U}.\nWhenever you cast a permanent spell using mana produced by The Myriad Pools, up to one other target permanent you control becomes a copy of that spell until end of turn.",
+      "colors": [],
+      "artist": "David Álvarez",
+      "artist_id": "c3004e2c-d372-4faa-90db-f1274e75ef41",
+      "illustration_id": "911c819e-4fa3-42a0-95d7-ced5cf6b2c82",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/5/8/581327f5-6e79-4720-9695-198b287a92bb.jpg?1699044979",
+        "normal": "https://cards.scryfall.io/normal/back/5/8/581327f5-6e79-4720-9695-198b287a92bb.jpg?1699044979",
+        "large": "https://cards.scryfall.io/large/back/5/8/581327f5-6e79-4720-9695-198b287a92bb.jpg?1699044979",
+        "png": "https://cards.scryfall.io/png/back/5/8/581327f5-6e79-4720-9695-198b287a92bb.png?1699044979",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/5/8/581327f5-6e79-4720-9695-198b287a92bb.jpg?1699044979",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/5/8/581327f5-6e79-4720-9695-198b287a92bb.jpg?1699044979"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "70169a6e-89d1-4a3a-aef7-3152958d55ac",
+  "set": "lci",
+  "set_name": "The Lost Caverns of Ixalan",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/70169a6e-89d1-4a3a-aef7-3152958d55ac",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alci&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/lci?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/581327f5-6e79-4720-9695-198b287a92bb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1f57a9f1-6b95-4395-bdf0-c5289b786ab1&unique=prints",
+  "collector_number": "363",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "David Álvarez",
+  "artist_ids": [
+    "c3004e2c-d372-4faa-90db-f1274e75ef41"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 4501,
+  "penny_rank": 3661,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.youtube.com/watch?v=Szm0yzSUUm0",
+    "previewed_at": "2023-10-24"
+  },
+  "prices": {
+    "usd": "0.44",
+    "usd_foil": "0.75",
+    "usd_etched": null,
+    "eur": "0.52",
+    "eur_foil": "0.61",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=639764&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThe%2BEverflowing%2BWell%2B%252F%252F%2BThe%2BMyriad%2BPools",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThe%2BEverflowing%2BWell%2B%252F%252F%2BThe%2BMyriad%2BPools",
+    "edhrec": "https://edhrec.com/route/?cc=The+Everflowing+Well"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F524226%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=740915&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/117582?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

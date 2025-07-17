@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "880d1250-0693-416d-9fa1-c1fc7a508aba",
+  "oracle_id": "bcd3e6a1-7b76-408d-9236-3791c3e1064a",
+  "multiverse_ids": [],
+  "mtgo_id": 89996,
+  "name": "Excavation Technique",
+  "lang": "en",
+  "released_at": "2021-05-01",
+  "uri": "https://api.scryfall.com/cards/880d1250-0693-416d-9fa1-c1fc7a508aba",
+  "scryfall_uri": "https://scryfall.com/card/prm/89996/excavation-technique?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/8/880d1250-0693-416d-9fa1-c1fc7a508aba.jpg?1681080021",
+    "normal": "https://cards.scryfall.io/normal/front/8/8/880d1250-0693-416d-9fa1-c1fc7a508aba.jpg?1681080021",
+    "large": "https://cards.scryfall.io/large/front/8/8/880d1250-0693-416d-9fa1-c1fc7a508aba.jpg?1681080021",
+    "png": "https://cards.scryfall.io/png/front/8/8/880d1250-0693-416d-9fa1-c1fc7a508aba.png?1681080021",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/8/880d1250-0693-416d-9fa1-c1fc7a508aba.jpg?1681080021",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/8/880d1250-0693-416d-9fa1-c1fc7a508aba.jpg?1681080021"
+  },
+  "mana_cost": "{3}{W}",
+  "cmc": 4,
+  "type_line": "Sorcery",
+  "oracle_text": "Demonstrate (When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)\nDestroy target nonland permanent. Its controller creates two Treasure tokens.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Treasure",
+    "Demonstrate"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "73f94f72-a689-41ca-b1af-6004e2a57e9c",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/73f94f72-a689-41ca-b1af-6004e2a57e9c"
+    },
+    {
+      "object": "related_card",
+      "id": "880d1250-0693-416d-9fa1-c1fc7a508aba",
+      "component": "combo_piece",
+      "name": "Excavation Technique",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/880d1250-0693-416d-9fa1-c1fc7a508aba"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/880d1250-0693-416d-9fa1-c1fc7a508aba/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abcd3e6a1-7b76-408d-9236-3791c3e1064a&unique=prints",
+  "collector_number": "89996",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Francisco Miyara",
+  "artist_ids": [
+    "fa64fc53-a243-4a94-a4d2-97625ea24b4f"
+  ],
+  "illustration_id": "083caecb-53e5-4710-9c15-b7a84d5788df",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 11558,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DExcavation%2BTechnique",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DExcavation%2BTechnique",
+    "edhrec": "https://edhrec.com/route/?cc=Excavation+Technique"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DExcavation%2BTechnique%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Excavation+Technique&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/89996?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

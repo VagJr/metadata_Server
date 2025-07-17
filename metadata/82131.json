@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "c1ec13cf-e164-4222-90b1-af3e92e03b2e",
+  "oracle_id": "a3afd8b9-d499-40f7-be41-f8fee6636a1d",
+  "multiverse_ids": [],
+  "tcgplayer_id": 501875,
+  "cardmarket_id": 720259,
+  "name": "Twilight Prophet",
+  "lang": "en",
+  "released_at": "2023-08-29",
+  "uri": "https://api.scryfall.com/cards/c1ec13cf-e164-4222-90b1-af3e92e03b2e",
+  "scryfall_uri": "https://scryfall.com/card/sld/1304/twilight-prophet?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/1/c1ec13cf-e164-4222-90b1-af3e92e03b2e.jpg?1690861811",
+    "normal": "https://cards.scryfall.io/normal/front/c/1/c1ec13cf-e164-4222-90b1-af3e92e03b2e.jpg?1690861811",
+    "large": "https://cards.scryfall.io/large/front/c/1/c1ec13cf-e164-4222-90b1-af3e92e03b2e.jpg?1690861811",
+    "png": "https://cards.scryfall.io/png/front/c/1/c1ec13cf-e164-4222-90b1-af3e92e03b2e.png?1690861811",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/1/c1ec13cf-e164-4222-90b1-af3e92e03b2e.jpg?1690861811",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/1/c1ec13cf-e164-4222-90b1-af3e92e03b2e.jpg?1690861811"
+  },
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4,
+  "type_line": "Creature — Vampire Cleric",
+  "oracle_text": "Flying\nAscend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)\nAt the beginning of your upkeep, if you have the city's blessing, reveal the top card of your library and put it into your hand. Each opponent loses X life and you gain X life, where X is that card's mana value.",
+  "power": "2",
+  "toughness": "4",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying",
+    "Ascend"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "30758c2e-fc01-4037-838c-bdabe8a4e5a3",
+      "component": "combo_piece",
+      "name": "City's Blessing",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/30758c2e-fc01-4037-838c-bdabe8a4e5a3"
+    },
+    {
+      "object": "related_card",
+      "id": "c1ec13cf-e164-4222-90b1-af3e92e03b2e",
+      "component": "combo_piece",
+      "name": "Twilight Prophet",
+      "type_line": "Creature — Vampire Cleric",
+      "uri": "https://api.scryfall.com/cards/c1ec13cf-e164-4222-90b1-af3e92e03b2e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c1ec13cf-e164-4222-90b1-af3e92e03b2e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3afd8b9-d499-40f7-be41-f8fee6636a1d&unique=prints",
+  "collector_number": "1304",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "What good are eyes that cannot see truth?",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ryan Alexander Lee",
+  "artist_ids": [
+    "f4d194b4-958a-4830-8d87-1a84e0b9ffbc"
+  ],
+  "illustration_id": "29f25315-b47a-46dd-a530-0f850d6198c9",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 956,
+  "prices": {
+    "usd": "9.23",
+    "usd_foil": "9.23",
+    "usd_etched": null,
+    "eur": "7.14",
+    "eur_foil": "7.59",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTwilight%2BProphet",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTwilight%2BProphet",
+    "edhrec": "https://edhrec.com/route/?cc=Twilight+Prophet"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F501875%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=720259&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Twilight+Prophet&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

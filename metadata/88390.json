@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "d09a77e7-649c-4f2c-bcd3-0598271e9373",
+  "oracle_id": "34b90d3e-f48c-41ff-b3e4-5cab7a9cd597",
+  "multiverse_ids": [],
+  "mtgo_id": 140243,
+  "tcgplayer_id": 630897,
+  "cardmarket_id": 824202,
+  "name": "Secret Rendezvous",
+  "lang": "en",
+  "released_at": "2025-06-13",
+  "uri": "https://api.scryfall.com/cards/d09a77e7-649c-4f2c-bcd3-0598271e9373",
+  "scryfall_uri": "https://scryfall.com/card/fic/253/secret-rendezvous?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/0/d09a77e7-649c-4f2c-bcd3-0598271e9373.jpg?1748705102",
+    "normal": "https://cards.scryfall.io/normal/front/d/0/d09a77e7-649c-4f2c-bcd3-0598271e9373.jpg?1748705102",
+    "large": "https://cards.scryfall.io/large/front/d/0/d09a77e7-649c-4f2c-bcd3-0598271e9373.jpg?1748705102",
+    "png": "https://cards.scryfall.io/png/front/d/0/d09a77e7-649c-4f2c-bcd3-0598271e9373.png?1748705102",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/0/d09a77e7-649c-4f2c-bcd3-0598271e9373.jpg?1748705102",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/0/d09a77e7-649c-4f2c-bcd3-0598271e9373.jpg?1748705102"
+  },
+  "mana_cost": "{1}{W}{W}",
+  "cmc": 3,
+  "type_line": "Sorcery",
+  "oracle_text": "You and target opponent each draw three cards.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "30659956-4558-4cbf-a65f-34cd00c89579",
+  "set": "fic",
+  "set_name": "Final Fantasy Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/30659956-4558-4cbf-a65f-34cd00c89579",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afic&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fic?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d09a77e7-649c-4f2c-bcd3-0598271e9373/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A34b90d3e-f48c-41ff-b3e4-5cab7a9cd597&unique=prints",
+  "collector_number": "253",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Ok, I'm going to just go ahead and say it...\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Yuu Fujiki",
+  "artist_ids": [
+    "9903f026-75fa-439c-b586-2bd9f431192a"
+  ],
+  "illustration_id": "b3e5eb0e-9529-48ad-91d5-08407219ba8a",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "surgefoil",
+    "ffvii"
+  ],
+  "edhrec_rank": 1331,
+  "penny_rank": 8262,
+  "preview": {
+    "source": "Hypebeast",
+    "source_uri": "https://hypebeast.com/2025/5/final-fantasy-magic-the-gathering-sephiroth-atraxa-card",
+    "previewed_at": "2025-05-10"
+  },
+  "prices": {
+    "usd": "0.69",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.54",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSecret%2BRendezvous",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSecret%2BRendezvous",
+    "edhrec": "https://edhrec.com/route/?cc=Secret+Rendezvous"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F630897%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=824202&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/140243?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

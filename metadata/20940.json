@@ -1,0 +1,167 @@
+{
+  "object": "card",
+  "id": "31557515-5b2e-45d2-8ca5-0562d064578b",
+  "oracle_id": "6788478d-e157-4483-be09-9edb3f841431",
+  "multiverse_ids": [],
+  "name": "Cat",
+  "lang": "ja",
+  "released_at": "2023-01-27",
+  "uri": "https://api.scryfall.com/cards/31557515-5b2e-45d2-8ca5-0562d064578b",
+  "scryfall_uri": "https://scryfall.com/card/wone/1/ja/cat?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/1/31557515-5b2e-45d2-8ca5-0562d064578b.jpg?1675400426",
+    "normal": "https://cards.scryfall.io/normal/front/3/1/31557515-5b2e-45d2-8ca5-0562d064578b.jpg?1675400426",
+    "large": "https://cards.scryfall.io/large/front/3/1/31557515-5b2e-45d2-8ca5-0562d064578b.jpg?1675400426",
+    "png": "https://cards.scryfall.io/png/front/3/1/31557515-5b2e-45d2-8ca5-0562d064578b.png?1675400426",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/1/31557515-5b2e-45d2-8ca5-0562d064578b.jpg?1675400426",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/1/31557515-5b2e-45d2-8ca5-0562d064578b.jpg?1675400426"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Cat",
+  "oracle_text": "",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "98648efe-5cc8-44f3-bcd5-399a987b9cab",
+      "component": "combo_piece",
+      "name": "Ajani, Caller of the Pride",
+      "type_line": "Legendary Planeswalker — Ajani",
+      "uri": "https://api.scryfall.com/cards/98648efe-5cc8-44f3-bcd5-399a987b9cab"
+    },
+    {
+      "object": "related_card",
+      "id": "bacd787a-9825-41a8-8c55-0023e363799f",
+      "component": "combo_piece",
+      "name": "Kemba, Kha Regent",
+      "type_line": "Legendary Creature — Cat Cleric",
+      "uri": "https://api.scryfall.com/cards/bacd787a-9825-41a8-8c55-0023e363799f"
+    },
+    {
+      "object": "related_card",
+      "id": "68ddbabd-24ad-4a12-a757-beed6a956a36",
+      "component": "token",
+      "name": "Cat",
+      "type_line": "Token Creature — Cat",
+      "uri": "https://api.scryfall.com/cards/68ddbabd-24ad-4a12-a757-beed6a956a36"
+    },
+    {
+      "object": "related_card",
+      "id": "a47cb1d6-e911-460e-94ed-4de0ff4019c8",
+      "component": "combo_piece",
+      "name": "Kemba, Kha Enduring",
+      "type_line": "Legendary Creature — Cat Cleric",
+      "uri": "https://api.scryfall.com/cards/a47cb1d6-e911-460e-94ed-4de0ff4019c8"
+    },
+    {
+      "object": "related_card",
+      "id": "938e55be-622b-4294-b71c-62ce2b076ec8",
+      "component": "combo_piece",
+      "name": "Ajani's Chosen",
+      "type_line": "Creature — Cat Soldier",
+      "uri": "https://api.scryfall.com/cards/938e55be-622b-4294-b71c-62ce2b076ec8"
+    },
+    {
+      "object": "related_card",
+      "id": "f8098f12-d52e-4cef-bd92-a562eea4465e",
+      "component": "combo_piece",
+      "name": "White Sun's Zenith",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/f8098f12-d52e-4cef-bd92-a562eea4465e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "59fd7824-7248-420f-95bf-5c23bfbad276",
+  "set": "wone",
+  "set_name": "ONE Japanese Promo Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/59fd7824-7248-420f-95bf-5c23bfbad276",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/wone?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/31557515-5b2e-45d2-8ca5-0562d064578b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6788478d-e157-4483-be09-9edb3f841431&unique=prints",
+  "collector_number": "1",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Hiro Usuda",
+  "artist_ids": [
+    "ec2ea52e-53bf-4074-b8b5-cf8200de0fa4"
+  ],
+  "illustration_id": "905f063d-106c-4477-9328-483a41397985",
+  "border_color": "borderless",
+  "frame": "2015",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "plastic"
+  ],
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCat",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCat",
+    "edhrec": "https://edhrec.com/route/?cc=Cat"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DCat%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cat&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cat&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

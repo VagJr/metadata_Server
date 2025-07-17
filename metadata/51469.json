@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "79c9e989-b3fd-43ca-b2a5-d051f3b504b3",
+  "oracle_id": "5f601f48-d24b-4883-9fde-b3f620e7c9ea",
+  "multiverse_ids": [
+    573006
+  ],
+  "tcgplayer_id": 276812,
+  "cardmarket_id": 665810,
+  "name": "Wall of Omens",
+  "lang": "en",
+  "released_at": "2022-07-08",
+  "uri": "https://api.scryfall.com/cards/79c9e989-b3fd-43ca-b2a5-d051f3b504b3",
+  "scryfall_uri": "https://scryfall.com/card/2x2/344/wall-of-omens?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/9/79c9e989-b3fd-43ca-b2a5-d051f3b504b3.jpg?1674097169",
+    "normal": "https://cards.scryfall.io/normal/front/7/9/79c9e989-b3fd-43ca-b2a5-d051f3b504b3.jpg?1674097169",
+    "large": "https://cards.scryfall.io/large/front/7/9/79c9e989-b3fd-43ca-b2a5-d051f3b504b3.jpg?1674097169",
+    "png": "https://cards.scryfall.io/png/front/7/9/79c9e989-b3fd-43ca-b2a5-d051f3b504b3.png?1674097169",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/9/79c9e989-b3fd-43ca-b2a5-d051f3b504b3.jpg?1674097169",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/9/79c9e989-b3fd-43ca-b2a5-d051f3b504b3.jpg?1674097169"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Creature — Wall",
+  "oracle_text": "Defender\nWhen this creature enters, draw a card.",
+  "power": "0",
+  "toughness": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Defender"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5a645837-b050-449f-ac90-1e7ccbf45031",
+  "set": "2x2",
+  "set_name": "Double Masters 2022",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/5a645837-b050-449f-ac90-1e7ccbf45031",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A2x2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/2x2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/79c9e989-b3fd-43ca-b2a5-d051f3b504b3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5f601f48-d24b-4883-9fde-b3f620e7c9ea&unique=prints",
+  "collector_number": "344",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"What will be has always been.\"\n—Wall inscription",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dan Frazier",
+  "artist_ids": [
+    "059bba56-5feb-42e4-8c2e-e2f1e6ba11f9"
+  ],
+  "illustration_id": "37dbf482-2ab6-4147-8668-d02719a267db",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 1052,
+  "penny_rank": 374,
+  "preview": {
+    "source": "Gavin Thompson",
+    "source_uri": "https://twitter.com/GavinVerhey/status/1539263465239494657",
+    "previewed_at": "2022-06-23"
+  },
+  "prices": {
+    "usd": "0.49",
+    "usd_foil": "0.69",
+    "usd_etched": null,
+    "eur": "0.40",
+    "eur_foil": "0.97",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=573006&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWall%2Bof%2BOmens",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWall%2Bof%2BOmens",
+    "edhrec": "https://edhrec.com/route/?cc=Wall+of+Omens"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F276812%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=665810&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wall+of+Omens&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

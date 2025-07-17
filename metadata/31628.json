@@ -1,0 +1,112 @@
+{
+  "object": "card",
+  "id": "4ac99506-a891-4d5d-8747-23aa29004b02",
+  "oracle_id": "087f9ad7-e74f-40e2-8102-1ed2925d0418",
+  "multiverse_ids": [
+    547500
+  ],
+  "arena_id": 73807,
+  "name": "Rest in Peace",
+  "lang": "en",
+  "released_at": "2020-08-13",
+  "uri": "https://api.scryfall.com/cards/4ac99506-a891-4d5d-8747-23aa29004b02",
+  "scryfall_uri": "https://scryfall.com/card/akr/33/rest-in-peace?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/a/4ac99506-a891-4d5d-8747-23aa29004b02.jpg?1597077452",
+    "normal": "https://cards.scryfall.io/normal/front/4/a/4ac99506-a891-4d5d-8747-23aa29004b02.jpg?1597077452",
+    "large": "https://cards.scryfall.io/large/front/4/a/4ac99506-a891-4d5d-8747-23aa29004b02.jpg?1597077452",
+    "png": "https://cards.scryfall.io/png/front/4/a/4ac99506-a891-4d5d-8747-23aa29004b02.png?1597077452",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/a/4ac99506-a891-4d5d-8747-23aa29004b02.jpg?1597077452",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/a/4ac99506-a891-4d5d-8747-23aa29004b02.jpg?1597077452"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Enchantment",
+  "oracle_text": "When this enchantment enters, exile all graveyards.\nIf a card or token would be put into a graveyard from anywhere, exile it instead.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "915dabb1-b82a-432d-939d-d9b128e65582",
+  "set": "akr",
+  "set_name": "Amonkhet Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/915dabb1-b82a-432d-939d-d9b128e65582",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aakr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/akr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4ac99506-a891-4d5d-8747-23aa29004b02/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A087f9ad7-e74f-40e2-8102-1ed2925d0418&unique=prints",
+  "collector_number": "33",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jarel Threat",
+  "artist_ids": [
+    "0fd89fbd-bd59-4ded-890e-731a8982f278"
+  ],
+  "illustration_id": "9c596e9e-b396-4e81-8eec-e00041f92e07",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2207,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547500&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRest%2Bin%2BPeace",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRest%2Bin%2BPeace",
+    "edhrec": "https://edhrec.com/route/?cc=Rest+in+Peace"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "445a4587-b8cd-4846-9d00-bb882766cf08",
+  "oracle_id": "31bf199b-dfb1-428e-96a5-eb25104e2b43",
+  "multiverse_ids": [],
+  "tcgplayer_id": 254594,
+  "cardmarket_id": 583945,
+  "name": "Late to Dinner",
+  "lang": "en",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/445a4587-b8cd-4846-9d00-bb882766cf08",
+  "scryfall_uri": "https://scryfall.com/card/plst/MH2-329/late-to-dinner?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/4/445a4587-b8cd-4846-9d00-bb882766cf08.jpg?1637977834",
+    "normal": "https://cards.scryfall.io/normal/front/4/4/445a4587-b8cd-4846-9d00-bb882766cf08.jpg?1637977834",
+    "large": "https://cards.scryfall.io/large/front/4/4/445a4587-b8cd-4846-9d00-bb882766cf08.jpg?1637977834",
+    "png": "https://cards.scryfall.io/png/front/4/4/445a4587-b8cd-4846-9d00-bb882766cf08.png?1637977834",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/4/445a4587-b8cd-4846-9d00-bb882766cf08.jpg?1637977834",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/4/445a4587-b8cd-4846-9d00-bb882766cf08.jpg?1637977834"
+  },
+  "mana_cost": "{3}{W}",
+  "cmc": 4,
+  "type_line": "Sorcery",
+  "oracle_text": "Return target creature card from your graveyard to the battlefield. Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Food"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "445a4587-b8cd-4846-9d00-bb882766cf08",
+      "component": "combo_piece",
+      "name": "Late to Dinner",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/445a4587-b8cd-4846-9d00-bb882766cf08"
+    },
+    {
+      "object": "related_card",
+      "id": "ad8860ba-5147-496a-86b9-725167e0c100",
+      "component": "token",
+      "name": "Food",
+      "type_line": "Token Artifact — Food",
+      "uri": "https://api.scryfall.com/cards/ad8860ba-5147-496a-86b9-725167e0c100"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/445a4587-b8cd-4846-9d00-bb882766cf08/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A31bf199b-dfb1-428e-96a5-eb25104e2b43&unique=prints",
+  "collector_number": "MH2-329",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Mood: A friendship that can outlast death.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kev Walker",
+  "artist_ids": [
+    "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+  ],
+  "illustration_id": "bdcaae0c-97c7-4161-9804-7e81671280cc",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 7177,
+  "penny_rank": 4797,
+  "prices": {
+    "usd": "0.15",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.19",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLate%2Bto%2BDinner",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLate%2Bto%2BDinner",
+    "edhrec": "https://edhrec.com/route/?cc=Late+to+Dinner"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F254594%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=583945&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Late+to+Dinner&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

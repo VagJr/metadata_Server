@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "2e8e13ed-54f9-43f9-ae44-285037e8f074",
+  "oracle_id": "180919a5-67b2-473a-9b90-a828bdc2477c",
+  "multiverse_ids": [],
+  "tcgplayer_etched_id": 272799,
+  "cardmarket_id": 659968,
+  "name": "Shadowheart, Dark Justiciar",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/2e8e13ed-54f9-43f9-ae44-285037e8f074",
+  "scryfall_uri": "https://scryfall.com/card/clb/499/shadowheart-dark-justiciar?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/e/2e8e13ed-54f9-43f9-ae44-285037e8f074.jpg?1681412563",
+    "normal": "https://cards.scryfall.io/normal/front/2/e/2e8e13ed-54f9-43f9-ae44-285037e8f074.jpg?1681412563",
+    "large": "https://cards.scryfall.io/large/front/2/e/2e8e13ed-54f9-43f9-ae44-285037e8f074.jpg?1681412563",
+    "png": "https://cards.scryfall.io/png/front/2/e/2e8e13ed-54f9-43f9-ae44-285037e8f074.png?1681412563",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/e/2e8e13ed-54f9-43f9-ae44-285037e8f074.jpg?1681412563",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/e/2e8e13ed-54f9-43f9-ae44-285037e8f074.jpg?1681412563"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Human Elf Cleric",
+  "oracle_text": "{1}{B}, {T}, Sacrifice another creature: Draw X cards, where X is that creature's power.\nChoose a Background (You can have a Background as a second commander.)",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Choose a background"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": false,
+  "finishes": [
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set": "clb",
+  "set_name": "Commander Legends: Battle for Baldur's Gate",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/clb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2e8e13ed-54f9-43f9-ae44-285037e8f074/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A180919a5-67b2-473a-9b90-a828bdc2477c&unique=prints",
+  "collector_number": "499",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Shar's will shall be done. As sure as night will fall.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Cristi Balanescu",
+  "artist_ids": [
+    "c09ede88-a1b5-4a18-9895-dc8a965d28a5"
+  ],
+  "illustration_id": "1f655642-02b0-45f9-9160-0aa2498edcfc",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted",
+    "etched"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 3848,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://twitter.com/Wizards_DnD/status/1527363468617478144",
+    "previewed_at": "2022-05-20"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": "0.68",
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DShadowheart%252C%2BDark%2BJusticiar",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DShadowheart%252C%2BDark%2BJusticiar",
+    "edhrec": "https://edhrec.com/route/?cc=Shadowheart%2C+Dark+Justiciar"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DShadowheart%252C%2BDark%2BJusticiar%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=659968&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Shadowheart%2C+Dark+Justiciar&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

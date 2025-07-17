@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "71db9c6a-aa6c-44e1-86bd-8621abf64d4f",
+  "oracle_id": "6a98b586-5187-48a1-bde3-f6141f3e9cb1",
+  "multiverse_ids": [
+    559207
+  ],
+  "tcgplayer_id": 269025,
+  "cardmarket_id": 652254,
+  "name": "Lagrella, the Magpie",
+  "lang": "en",
+  "released_at": "2022-04-29",
+  "uri": "https://api.scryfall.com/cards/71db9c6a-aa6c-44e1-86bd-8621abf64d4f",
+  "scryfall_uri": "https://scryfall.com/card/snc/379/lagrella-the-magpie?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/1/71db9c6a-aa6c-44e1-86bd-8621abf64d4f.jpg?1664583191",
+    "normal": "https://cards.scryfall.io/normal/front/7/1/71db9c6a-aa6c-44e1-86bd-8621abf64d4f.jpg?1664583191",
+    "large": "https://cards.scryfall.io/large/front/7/1/71db9c6a-aa6c-44e1-86bd-8621abf64d4f.jpg?1664583191",
+    "png": "https://cards.scryfall.io/png/front/7/1/71db9c6a-aa6c-44e1-86bd-8621abf64d4f.png?1664583191",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/1/71db9c6a-aa6c-44e1-86bd-8621abf64d4f.jpg?1664583191",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/1/71db9c6a-aa6c-44e1-86bd-8621abf64d4f.jpg?1664583191"
+  },
+  "mana_cost": "{G}{W}{U}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Human Soldier",
+  "oracle_text": "When Lagrella enters, exile any number of other target creatures controlled by different players until Lagrella leaves the battlefield. When an exiled card enters under your control this way, put two +1/+1 counters on it.",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "G",
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "U",
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+  "set": "snc",
+  "set_name": "Streets of New Capenna",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/71db9c6a-aa6c-44e1-86bd-8621abf64d4f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6a98b586-5187-48a1-bde3-f6141f3e9cb1&unique=prints",
+  "collector_number": "379",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Serena Malyon",
+  "artist_ids": [
+    "d9fee7a6-7c5e-48a5-8639-bba25abc8a06"
+  ],
+  "illustration_id": "aa9b32a8-9b7e-42d4-97e9-b29e918ad429",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary",
+    "inverted"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "gilded",
+    "boosterfun"
+  ],
+  "edhrec_rank": 11917,
+  "penny_rank": 5438,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.43",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.43",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=559207&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLagrella%252C%2Bthe%2BMagpie",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLagrella%252C%2Bthe%2BMagpie",
+    "edhrec": "https://edhrec.com/route/?cc=Lagrella%2C+the+Magpie"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F269025%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=652254&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lagrella%2C+the+Magpie&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

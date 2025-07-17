@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "33a7e43a-4028-41e5-b5dd-be8ef6a1b510",
+  "oracle_id": "b8dab16c-681c-4abe-b164-fcfb5dc66678",
+  "multiverse_ids": [
+    464122
+  ],
+  "mtgo_id": 72718,
+  "tcgplayer_id": 191069,
+  "cardmarket_id": 375102,
+  "name": "Nantuko Cultivator",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/33a7e43a-4028-41e5-b5dd-be8ef6a1b510",
+  "scryfall_uri": "https://scryfall.com/card/mh1/173/nantuko-cultivator?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/3/33a7e43a-4028-41e5-b5dd-be8ef6a1b510.jpg?1562202138",
+    "normal": "https://cards.scryfall.io/normal/front/3/3/33a7e43a-4028-41e5-b5dd-be8ef6a1b510.jpg?1562202138",
+    "large": "https://cards.scryfall.io/large/front/3/3/33a7e43a-4028-41e5-b5dd-be8ef6a1b510.jpg?1562202138",
+    "png": "https://cards.scryfall.io/png/front/3/3/33a7e43a-4028-41e5-b5dd-be8ef6a1b510.png?1562202138",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/3/33a7e43a-4028-41e5-b5dd-be8ef6a1b510.jpg?1562202138",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/3/33a7e43a-4028-41e5-b5dd-be8ef6a1b510.jpg?1562202138"
+  },
+  "mana_cost": "{3}{G}",
+  "cmc": 4,
+  "type_line": "Creature — Insect Druid",
+  "oracle_text": "When this creature enters, you may discard any number of land cards. Put that many +1/+1 counters on this creature and draw that many cards.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/33a7e43a-4028-41e5-b5dd-be8ef6a1b510/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab8dab16c-681c-4abe-b164-fcfb5dc66678&unique=prints",
+  "collector_number": "173",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Every seed holds strength and teaches patience.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jehan Choo",
+  "artist_ids": [
+    "515df9fe-9c29-4e75-9e49-6ce5be4ec8c8"
+  ],
+  "illustration_id": "700788c9-bbec-4ee4-8663-0f0ebb261001",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 10518,
+  "penny_rank": 12182,
+  "preview": {
+    "source": "Christian Hauck",
+    "source_uri": "https://twitter.com/ChrHauck/status/1133089210666225664",
+    "previewed_at": "2019-05-27"
+  },
+  "prices": {
+    "usd": "0.06",
+    "usd_foil": "0.26",
+    "usd_etched": null,
+    "eur": "0.11",
+    "eur_foil": "0.24",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464122&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNantuko%2BCultivator",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNantuko%2BCultivator",
+    "edhrec": "https://edhrec.com/route/?cc=Nantuko+Cultivator"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F191069%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=375102&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72718?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

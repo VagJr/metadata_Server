@@ -1,0 +1,152 @@
+{
+  "object": "card",
+  "id": "794d3971-a35e-41a6-813d-a936575c45e5",
+  "oracle_id": "34ec084d-2c16-452f-8dcc-06641c80f7d1",
+  "multiverse_ids": [
+    559215
+  ],
+  "tcgplayer_id": 269033,
+  "cardmarket_id": 652262,
+  "name": "Obscura Ascendancy",
+  "lang": "en",
+  "released_at": "2022-04-29",
+  "uri": "https://api.scryfall.com/cards/794d3971-a35e-41a6-813d-a936575c45e5",
+  "scryfall_uri": "https://scryfall.com/card/snc/387/obscura-ascendancy?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/9/794d3971-a35e-41a6-813d-a936575c45e5.jpg?1664416509",
+    "normal": "https://cards.scryfall.io/normal/front/7/9/794d3971-a35e-41a6-813d-a936575c45e5.jpg?1664416509",
+    "large": "https://cards.scryfall.io/large/front/7/9/794d3971-a35e-41a6-813d-a936575c45e5.jpg?1664416509",
+    "png": "https://cards.scryfall.io/png/front/7/9/794d3971-a35e-41a6-813d-a936575c45e5.png?1664416509",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/9/794d3971-a35e-41a6-813d-a936575c45e5.jpg?1664416509",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/9/794d3971-a35e-41a6-813d-a936575c45e5.jpg?1664416509"
+  },
+  "mana_cost": "{W}{U}{B}",
+  "cmc": 3,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever you cast a spell, if its mana value is equal to 1 plus the number of soul counters on this enchantment, put a soul counter on this enchantment, then create a 2/2 white Spirit creature token with flying.\nAs long as there are five or more soul counters on this enchantment, Spirits you control get +3/+3.",
+  "colors": [
+    "B",
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "U",
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "794d3971-a35e-41a6-813d-a936575c45e5",
+      "component": "combo_piece",
+      "name": "Obscura Ascendancy",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/794d3971-a35e-41a6-813d-a936575c45e5"
+    },
+    {
+      "object": "related_card",
+      "id": "0a7a7f7c-29e3-4b98-ad2f-2d585ec7610e",
+      "component": "token",
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/0a7a7f7c-29e3-4b98-ad2f-2d585ec7610e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+  "set": "snc",
+  "set_name": "Streets of New Capenna",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/794d3971-a35e-41a6-813d-a936575c45e5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A34ec084d-2c16-452f-8dcc-06641c80f7d1&unique=prints",
+  "collector_number": "387",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Krharts",
+  "artist_ids": [
+    "15fdfc66-dccf-4ea7-a4c2-cd37ffcbf960"
+  ],
+  "illustration_id": "88a7f86d-5c33-4f28-b5a3-9d0a3683c3aa",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "gilded",
+    "boosterfun"
+  ],
+  "edhrec_rank": 21695,
+  "penny_rank": 12193,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.65",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.81",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=559215&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DObscura%2BAscendancy",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DObscura%2BAscendancy",
+    "edhrec": "https://edhrec.com/route/?cc=Obscura+Ascendancy"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F269033%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=652262&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Obscura+Ascendancy&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "object": "card",
+  "id": "b4249540-d391-4ed8-aa88-fa781d584683",
+  "oracle_id": "c823e687-6311-4c99-974b-fd77d204141a",
+  "multiverse_ids": [],
+  "arena_id": 84161,
+  "name": "Timetwister",
+  "lang": "en",
+  "released_at": "2022-10-05",
+  "uri": "https://api.scryfall.com/cards/b4249540-d391-4ed8-aa88-fa781d584683",
+  "scryfall_uri": "https://scryfall.com/card/ydmu/34/timetwister?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/4/b4249540-d391-4ed8-aa88-fa781d584683.jpg?1669766360",
+    "normal": "https://cards.scryfall.io/normal/front/b/4/b4249540-d391-4ed8-aa88-fa781d584683.jpg?1669766360",
+    "large": "https://cards.scryfall.io/large/front/b/4/b4249540-d391-4ed8-aa88-fa781d584683.jpg?1669766360",
+    "png": "https://cards.scryfall.io/png/front/b/4/b4249540-d391-4ed8-aa88-fa781d584683.png?1669766360",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/4/b4249540-d391-4ed8-aa88-fa781d584683.jpg?1669766360",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/4/b4249540-d391-4ed8-aa88-fa781d584683.jpg?1669766360"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Sorcery",
+  "oracle_text": "Each player shuffles their hand and graveyard into their library, then draws seven cards. (Then put Timetwister into its owner's graveyard.)",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "banned",
+    "pauper": "not_legal",
+    "vintage": "restricted",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "banned",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": true,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "63e08e74-9029-40c3-887a-56211c15ab21",
+  "set": "ydmu",
+  "set_name": "Alchemy: Dominaria",
+  "set_type": "alchemy",
+  "set_uri": "https://api.scryfall.com/sets/63e08e74-9029-40c3-887a-56211c15ab21",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aydmu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ydmu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b4249540-d391-4ed8-aa88-fa781d584683/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac823e687-6311-4c99-974b-fd77d204141a&unique=prints",
+  "collector_number": "34",
+  "digital": true,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Matt Stewart",
+  "artist_ids": [
+    "20871267-2d8a-41d5-b03a-be3d557c5734"
+  ],
+  "illustration_id": "3cec9d6d-d557-42bd-858a-9db8d67a1e61",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2793,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTimetwister",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTimetwister",
+    "edhrec": "https://edhrec.com/route/?cc=Timetwister"
+  }
+}

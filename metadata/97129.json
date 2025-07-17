@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "e577d944-a0df-4ae1-8cef-9ab4c0144845",
+  "oracle_id": "b0182ca0-f353-4012-9121-6f4ac9f7a046",
+  "multiverse_ids": [],
+  "arena_id": 94303,
+  "name": "Silundi Vision // Silundi Isle",
+  "lang": "en",
+  "released_at": "2024-12-10",
+  "uri": "https://api.scryfall.com/cards/e577d944-a0df-4ae1-8cef-9ab4c0144845",
+  "scryfall_uri": "https://scryfall.com/card/pio/74/silundi-vision-silundi-isle?utm_source=api",
+  "layout": "modal_dfc",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 3,
+  "type_line": "Instant // Land",
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "U"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Silundi Vision",
+      "mana_cost": "{2}{U}",
+      "type_line": "Instant",
+      "oracle_text": "Look at the top six cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+      "colors": [
+        "U"
+      ],
+      "artist": "Randy Vargas",
+      "artist_id": "d20672ca-0555-4238-a984-fd171d36b247",
+      "illustration_id": "ea413fb7-e170-466b-95dd-32a32bd01588",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/e/5/e577d944-a0df-4ae1-8cef-9ab4c0144845.jpg?1733180057",
+        "normal": "https://cards.scryfall.io/normal/front/e/5/e577d944-a0df-4ae1-8cef-9ab4c0144845.jpg?1733180057",
+        "large": "https://cards.scryfall.io/large/front/e/5/e577d944-a0df-4ae1-8cef-9ab4c0144845.jpg?1733180057",
+        "png": "https://cards.scryfall.io/png/front/e/5/e577d944-a0df-4ae1-8cef-9ab4c0144845.png?1733180057",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/e/5/e577d944-a0df-4ae1-8cef-9ab4c0144845.jpg?1733180057",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/e/5/e577d944-a0df-4ae1-8cef-9ab4c0144845.jpg?1733180057"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Silundi Isle",
+      "mana_cost": "",
+      "type_line": "Land",
+      "oracle_text": "This land enters tapped.\n{T}: Add {U}.",
+      "colors": [],
+      "artist": "Randy Vargas",
+      "artist_id": "d20672ca-0555-4238-a984-fd171d36b247",
+      "illustration_id": "54357ed7-dc94-457f-aea2-8e0f77b34e37",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/e/5/e577d944-a0df-4ae1-8cef-9ab4c0144845.jpg?1733180057",
+        "normal": "https://cards.scryfall.io/normal/back/e/5/e577d944-a0df-4ae1-8cef-9ab4c0144845.jpg?1733180057",
+        "large": "https://cards.scryfall.io/large/back/e/5/e577d944-a0df-4ae1-8cef-9ab4c0144845.jpg?1733180057",
+        "png": "https://cards.scryfall.io/png/back/e/5/e577d944-a0df-4ae1-8cef-9ab4c0144845.png?1733180057",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/e/5/e577d944-a0df-4ae1-8cef-9ab4c0144845.jpg?1733180057",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/e/5/e577d944-a0df-4ae1-8cef-9ab4c0144845.jpg?1733180057"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "713c226b-d4d9-46e1-b9c9-a04689d90ff6",
+  "set": "pio",
+  "set_name": "Pioneer Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/713c226b-d4d9-46e1-b9c9-a04689d90ff6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apio&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pio?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e577d944-a0df-4ae1-8cef-9ab4c0144845/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab0182ca0-f353-4012-9121-6f4ac9f7a046&unique=prints",
+  "collector_number": "74",
+  "digital": true,
+  "rarity": "common",
+  "artist": "Randy Vargas",
+  "artist_ids": [
+    "d20672ca-0555-4238-a984-fd171d36b247"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2066,
+  "penny_rank": 651,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSilundi%2BVision%2B%252F%252F%2BSilundi%2BIsle",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSilundi%2BVision%2B%252F%252F%2BSilundi%2BIsle",
+    "edhrec": "https://edhrec.com/route/?cc=Silundi+Vision"
+  }
+}

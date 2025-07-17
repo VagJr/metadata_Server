@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "7110406b-72ac-4e59-aa9f-903510e352a3",
+  "oracle_id": "d15dba3a-3b85-43fb-b5f3-c4d8d1e23b1d",
+  "multiverse_ids": [
+    671003
+  ],
+  "mtgo_id": 128225,
+  "tcgplayer_id": 560234,
+  "cardmarket_id": 779654,
+  "name": "Echoing Assault",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/7110406b-72ac-4e59-aa9f-903510e352a3",
+  "scryfall_uri": "https://scryfall.com/card/blc/58/echoing-assault?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/1/7110406b-72ac-4e59-aa9f-903510e352a3.jpg?1726442123",
+    "normal": "https://cards.scryfall.io/normal/front/7/1/7110406b-72ac-4e59-aa9f-903510e352a3.jpg?1726442123",
+    "large": "https://cards.scryfall.io/large/front/7/1/7110406b-72ac-4e59-aa9f-903510e352a3.jpg?1726442123",
+    "png": "https://cards.scryfall.io/png/front/7/1/7110406b-72ac-4e59-aa9f-903510e352a3.png?1726442123",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/1/7110406b-72ac-4e59-aa9f-903510e352a3.jpg?1726442123",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/1/7110406b-72ac-4e59-aa9f-903510e352a3.jpg?1726442123"
+  },
+  "mana_cost": "{4}{R}",
+  "cmc": 5,
+  "type_line": "Enchantment",
+  "oracle_text": "Creature tokens you control have menace.\nWhenever you attack a player, choose target nontoken creature that's attacking that player. Create a token that's a copy of that creature, except it's 1/1. The token enters tapped and attacking that player. Sacrifice it at the beginning of the next end step.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "db388be3-ff31-4415-bc4b-de62f7223b1f",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/db388be3-ff31-4415-bc4b-de62f7223b1f"
+    },
+    {
+      "object": "related_card",
+      "id": "7110406b-72ac-4e59-aa9f-903510e352a3",
+      "component": "combo_piece",
+      "name": "Echoing Assault",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/7110406b-72ac-4e59-aa9f-903510e352a3"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "set": "blc",
+  "set_name": "Bloomburrow Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/blc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7110406b-72ac-4e59-aa9f-903510e352a3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad15dba3a-3b85-43fb-b5f3-c4d8d1e23b1d&unique=prints",
+  "collector_number": "58",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Bram Sels",
+  "artist_ids": [
+    "2e90d3c1-e8ac-45c7-9d5a-63385c1a384d"
+  ],
+  "illustration_id": "a78b04b9-aa73-47b7-8b2c-441f397ec353",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 3285,
+  "prices": {
+    "usd": "1.50",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "2.45",
+    "eur_foil": null,
+    "tix": "1.36"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=671003&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEchoing%2BAssault",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEchoing%2BAssault",
+    "edhrec": "https://edhrec.com/route/?cc=Echoing+Assault"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F560234%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=779654&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/128225?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

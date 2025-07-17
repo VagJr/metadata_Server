@@ -1,0 +1,160 @@
+{
+  "object": "card",
+  "id": "a6f91540-c4e7-49f6-b582-f73543637461",
+  "oracle_id": "ee6f463c-5dd3-4a1d-8543-7f7cf7f27f48",
+  "multiverse_ids": [],
+  "name": "Bird",
+  "lang": "ja",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/a6f91540-c4e7-49f6-b582-f73543637461",
+  "scryfall_uri": "https://scryfall.com/card/wwoe/2/ja/bird?utm_source=api",
+  "layout": "token",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/6/a6f91540-c4e7-49f6-b582-f73543637461.jpg?1693966927",
+    "normal": "https://cards.scryfall.io/normal/front/a/6/a6f91540-c4e7-49f6-b582-f73543637461.jpg?1693966927",
+    "large": "https://cards.scryfall.io/large/front/a/6/a6f91540-c4e7-49f6-b582-f73543637461.jpg?1693966927",
+    "png": "https://cards.scryfall.io/png/front/a/6/a6f91540-c4e7-49f6-b582-f73543637461.png?1693966927",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/6/a6f91540-c4e7-49f6-b582-f73543637461.jpg?1693966927",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/6/a6f91540-c4e7-49f6-b582-f73543637461.jpg?1693966927"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Bird",
+  "oracle_text": "Flying",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6ac446a6-2784-4474-8939-07e17585c726",
+      "component": "combo_piece",
+      "name": "Perch Protection",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/6ac446a6-2784-4474-8939-07e17585c726"
+    },
+    {
+      "object": "related_card",
+      "id": "6d7419c7-0d13-4c41-ae27-90a69e4af4fa",
+      "component": "combo_piece",
+      "name": "Song of Eärendil",
+      "type_line": "Enchantment — Saga",
+      "uri": "https://api.scryfall.com/cards/6d7419c7-0d13-4c41-ae27-90a69e4af4fa"
+    },
+    {
+      "object": "related_card",
+      "id": "c563bedd-808c-45e0-a401-c3d244ad9164",
+      "component": "combo_piece",
+      "name": "Strix Serenade",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/c563bedd-808c-45e0-a401-c3d244ad9164"
+    },
+    {
+      "object": "related_card",
+      "id": "ff30b619-452c-4644-95dc-bde9abf23cdb",
+      "component": "combo_piece",
+      "name": "Swan Song",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/ff30b619-452c-4644-95dc-bde9abf23cdb"
+    },
+    {
+      "object": "related_card",
+      "id": "a6f91540-c4e7-49f6-b582-f73543637461",
+      "component": "token",
+      "name": "Bird",
+      "type_line": "Token Creature — Bird",
+      "uri": "https://api.scryfall.com/cards/a6f91540-c4e7-49f6-b582-f73543637461"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4cd014a3-abf0-4192-9d55-d96d9c5c7eca",
+  "set": "wwoe",
+  "set_name": "WOE Japanese Promo Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/4cd014a3-abf0-4192-9d55-d96d9c5c7eca",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awwoe&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/wwoe?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a6f91540-c4e7-49f6-b582-f73543637461/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aee6f463c-5dd3-4a1d-8543-7f7cf7f27f48&unique=prints",
+  "collector_number": "2",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Allen Douglas",
+  "artist_ids": [
+    "e17f248e-6a47-4889-b048-a646739923b0"
+  ],
+  "illustration_id": "ca612324-e1cc-4b21-96fa-257010f4c0e7",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBird",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBird",
+    "edhrec": "https://edhrec.com/route/?cc=Bird"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBird%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bird&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bird&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "1bc8751d-0eb6-46fd-88a6-7dd5255a1077",
+  "oracle_id": "92301066-8904-41bc-84bd-4aa286cbab9c",
+  "multiverse_ids": [],
+  "tcgplayer_id": 450563,
+  "cardmarket_id": 680671,
+  "name": "Liliana of the Dark Realms",
+  "lang": "en",
+  "released_at": "2022-11-28",
+  "uri": "https://api.scryfall.com/cards/1bc8751d-0eb6-46fd-88a6-7dd5255a1077",
+  "scryfall_uri": "https://scryfall.com/card/sld/1107/liliana-of-the-dark-realms?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/b/1bc8751d-0eb6-46fd-88a6-7dd5255a1077.jpg?1666049688",
+    "normal": "https://cards.scryfall.io/normal/front/1/b/1bc8751d-0eb6-46fd-88a6-7dd5255a1077.jpg?1666049688",
+    "large": "https://cards.scryfall.io/large/front/1/b/1bc8751d-0eb6-46fd-88a6-7dd5255a1077.jpg?1666049688",
+    "png": "https://cards.scryfall.io/png/front/1/b/1bc8751d-0eb6-46fd-88a6-7dd5255a1077.png?1666049688",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/b/1bc8751d-0eb6-46fd-88a6-7dd5255a1077.jpg?1666049688",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/b/1bc8751d-0eb6-46fd-88a6-7dd5255a1077.jpg?1666049688"
+  },
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4,
+  "type_line": "Legendary Planeswalker — Liliana",
+  "oracle_text": "+1: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.\n−3: Target creature gets +X/+X or -X/-X until end of turn, where X is the number of Swamps you control.\n−6: You get an emblem with \"Swamps you control have '{T}: Add {B}{B}{B}{B}.'\"",
+  "loyalty": "3",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "fb89c6b9-991a-453f-a787-7fb4c1642737",
+      "component": "combo_piece",
+      "name": "Liliana of the Dark Realms",
+      "type_line": "Legendary Planeswalker — Liliana",
+      "uri": "https://api.scryfall.com/cards/fb89c6b9-991a-453f-a787-7fb4c1642737"
+    },
+    {
+      "object": "related_card",
+      "id": "f327de6e-c9f1-478d-9940-b500df8cef10",
+      "component": "combo_piece",
+      "name": "Liliana of the Dark Realms Emblem",
+      "type_line": "Emblem — Liliana",
+      "uri": "https://api.scryfall.com/cards/f327de6e-c9f1-478d-9940-b500df8cef10"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1bc8751d-0eb6-46fd-88a6-7dd5255a1077/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A92301066-8904-41bc-84bd-4aa286cbab9c&unique=prints",
+  "collector_number": "1107",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jack Hughes",
+  "artist_ids": [
+    "ac1a1722-4d2b-499b-b8a9-2d642d3292cc"
+  ],
+  "illustration_id": "b96835dc-7532-4d58-b506-2a6606a30d2a",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2255,
+  "penny_rank": 3224,
+  "prices": {
+    "usd": "23.50",
+    "usd_foil": "25.84",
+    "usd_etched": null,
+    "eur": "19.55",
+    "eur_foil": "19.08",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLiliana%2Bof%2Bthe%2BDark%2BRealms",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLiliana%2Bof%2Bthe%2BDark%2BRealms",
+    "edhrec": "https://edhrec.com/route/?cc=Liliana+of+the+Dark+Realms"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F450563%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=680671&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Liliana+of+the+Dark+Realms&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "9158965b-b705-4922-8ea9-9e3a93838eab",
+  "oracle_id": "24e39d26-6a2b-461e-b194-bda575bcf898",
+  "multiverse_ids": [
+    562914
+  ],
+  "mtgo_id": 100058,
+  "tcgplayer_id": 272895,
+  "cardmarket_id": 659368,
+  "name": "Legion Loyalty",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/9158965b-b705-4922-8ea9-9e3a93838eab",
+  "scryfall_uri": "https://scryfall.com/card/clb/31/legion-loyalty?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/1/9158965b-b705-4922-8ea9-9e3a93838eab.jpg?1674135158",
+    "normal": "https://cards.scryfall.io/normal/front/9/1/9158965b-b705-4922-8ea9-9e3a93838eab.jpg?1674135158",
+    "large": "https://cards.scryfall.io/large/front/9/1/9158965b-b705-4922-8ea9-9e3a93838eab.jpg?1674135158",
+    "png": "https://cards.scryfall.io/png/front/9/1/9158965b-b705-4922-8ea9-9e3a93838eab.png?1674135158",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/1/9158965b-b705-4922-8ea9-9e3a93838eab.jpg?1674135158",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/1/9158965b-b705-4922-8ea9-9e3a93838eab.jpg?1674135158"
+  },
+  "mana_cost": "{6}{W}{W}",
+  "cmc": 8,
+  "type_line": "Enchantment",
+  "oracle_text": "Creatures you control have myriad. (Whenever a creature with myriad attacks, for each opponent other than defending player, you may create a token copy that's tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "c06408b0-3ae9-46f9-ae6f-cd50c88147bc",
+      "component": "combo_piece",
+      "name": "Legion Loyalty",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/c06408b0-3ae9-46f9-ae6f-cd50c88147bc"
+    },
+    {
+      "object": "related_card",
+      "id": "51d7dc49-7116-489b-a719-7b293a513cdc",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/51d7dc49-7116-489b-a719-7b293a513cdc"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set": "clb",
+  "set_name": "Commander Legends: Battle for Baldur's Gate",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/clb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9158965b-b705-4922-8ea9-9e3a93838eab/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A24e39d26-6a2b-461e-b194-bda575bcf898&unique=prints",
+  "collector_number": "31",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Aaron J. Riley",
+  "artist_ids": [
+    "f21b412c-aef5-4d15-88be-4f40615acde3"
+  ],
+  "illustration_id": "6e692031-7617-4681-99fa-e90905ab9178",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2531,
+  "preview": {
+    "source": "IGN",
+    "source_uri": "",
+    "previewed_at": "2022-05-22"
+  },
+  "prices": {
+    "usd": "0.65",
+    "usd_foil": "1.07",
+    "usd_etched": null,
+    "eur": "1.25",
+    "eur_foil": "1.20",
+    "tix": "0.73"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=562914&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLegion%2BLoyalty",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLegion%2BLoyalty",
+    "edhrec": "https://edhrec.com/route/?cc=Legion+Loyalty"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F272895%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=659368&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/100058?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

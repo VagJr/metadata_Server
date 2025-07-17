@@ -1,0 +1,156 @@
+{
+  "object": "card",
+  "id": "e4e3e867-95e7-47bc-95c4-77c686ddf82a",
+  "oracle_id": "f63c2438-27d4-449a-828f-f0a2ea86ff16",
+  "multiverse_ids": [
+    605802
+  ],
+  "mtgo_id": 106915,
+  "tcgplayer_id": 478480,
+  "cardmarket_id": 693351,
+  "name": "Court of Grace",
+  "lang": "en",
+  "released_at": "2023-02-03",
+  "uri": "https://api.scryfall.com/cards/e4e3e867-95e7-47bc-95c4-77c686ddf82a",
+  "scryfall_uri": "https://scryfall.com/card/onc/62/court-of-grace?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/4/e4e3e867-95e7-47bc-95c4-77c686ddf82a.jpg?1675905668",
+    "normal": "https://cards.scryfall.io/normal/front/e/4/e4e3e867-95e7-47bc-95c4-77c686ddf82a.jpg?1675905668",
+    "large": "https://cards.scryfall.io/large/front/e/4/e4e3e867-95e7-47bc-95c4-77c686ddf82a.jpg?1675905668",
+    "png": "https://cards.scryfall.io/png/front/e/4/e4e3e867-95e7-47bc-95c4-77c686ddf82a.png?1675905668",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/4/e4e3e867-95e7-47bc-95c4-77c686ddf82a.jpg?1675905668",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/4/e4e3e867-95e7-47bc-95c4-77c686ddf82a.jpg?1675905668"
+  },
+  "mana_cost": "{2}{W}{W}",
+  "cmc": 4,
+  "type_line": "Enchantment",
+  "oracle_text": "When this enchantment enters, you become the monarch.\nAt the beginning of your upkeep, create a 1/1 white Spirit creature token with flying. If you're the monarch, create a 4/4 white Angel creature token with flying instead.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "9efb5dbc-673b-4ea0-89b3-2c9bb8047816",
+      "component": "token",
+      "name": "Angel",
+      "type_line": "Token Creature — Angel",
+      "uri": "https://api.scryfall.com/cards/9efb5dbc-673b-4ea0-89b3-2c9bb8047816"
+    },
+    {
+      "object": "related_card",
+      "id": "07e41000-f743-4928-bdc7-520b0824caec",
+      "component": "combo_piece",
+      "name": "The Monarch",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/07e41000-f743-4928-bdc7-520b0824caec"
+    },
+    {
+      "object": "related_card",
+      "id": "a171254d-7616-42c4-bd78-b2787fb973aa",
+      "component": "token",
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/a171254d-7616-42c4-bd78-b2787fb973aa"
+    },
+    {
+      "object": "related_card",
+      "id": "e4e3e867-95e7-47bc-95c4-77c686ddf82a",
+      "component": "combo_piece",
+      "name": "Court of Grace",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/e4e3e867-95e7-47bc-95c4-77c686ddf82a"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8c5e86d4-ae2d-42f7-a0e5-0e4141eb953d",
+  "set": "onc",
+  "set_name": "Phyrexia: All Will Be One Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/8c5e86d4-ae2d-42f7-a0e5-0e4141eb953d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aonc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/onc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e4e3e867-95e7-47bc-95c4-77c686ddf82a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af63c2438-27d4-449a-828f-f0a2ea86ff16&unique=prints",
+  "collector_number": "62",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "A righteous sovereign makes for a blessed realm.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Denman Rooke",
+  "artist_ids": [
+    "5eedbc4b-34a3-4ca5-b3f5-9ac2f6b6adf7"
+  ],
+  "illustration_id": "37ef8107-4b0f-4635-9faf-d23239620764",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1268,
+  "prices": {
+    "usd": "1.64",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "1.28",
+    "eur_foil": null,
+    "tix": "5.36"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=605802&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCourt%2Bof%2BGrace",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCourt%2Bof%2BGrace",
+    "edhrec": "https://edhrec.com/route/?cc=Court+of+Grace"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F478480%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=693351&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106915?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

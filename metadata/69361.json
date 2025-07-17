@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "a3c9579b-e3e7-4dc7-a775-b7c8d2758f24",
+  "oracle_id": "cbd76b22-d04e-48e7-bcab-c7f5466d67d8",
+  "multiverse_ids": [
+    605457
+  ],
+  "mtgo_id": 107157,
+  "tcgplayer_id": 479274,
+  "cardmarket_id": 695580,
+  "name": "Lux Artillery",
+  "lang": "en",
+  "released_at": "2023-02-03",
+  "uri": "https://api.scryfall.com/cards/a3c9579b-e3e7-4dc7-a775-b7c8d2758f24",
+  "scryfall_uri": "https://scryfall.com/card/onc/27/lux-artillery?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/3/a3c9579b-e3e7-4dc7-a775-b7c8d2758f24.jpg?1675905607",
+    "normal": "https://cards.scryfall.io/normal/front/a/3/a3c9579b-e3e7-4dc7-a775-b7c8d2758f24.jpg?1675905607",
+    "large": "https://cards.scryfall.io/large/front/a/3/a3c9579b-e3e7-4dc7-a775-b7c8d2758f24.jpg?1675905607",
+    "png": "https://cards.scryfall.io/png/front/a/3/a3c9579b-e3e7-4dc7-a775-b7c8d2758f24.png?1675905607",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/3/a3c9579b-e3e7-4dc7-a775-b7c8d2758f24.jpg?1675905607",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/3/a3c9579b-e3e7-4dc7-a775-b7c8d2758f24.jpg?1675905607"
+  },
+  "mana_cost": "{4}",
+  "cmc": 4,
+  "type_line": "Artifact",
+  "oracle_text": "Whenever you cast an artifact creature spell, it gains sunburst. (It enters with a +1/+1 counter on it for each color of mana spent to cast it.)\nAt the beginning of your end step, if there are thirty or more counters among artifacts and creatures you control, this artifact deals 10 damage to each opponent.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8c5e86d4-ae2d-42f7-a0e5-0e4141eb953d",
+  "set": "onc",
+  "set_name": "Phyrexia: All Will Be One Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/8c5e86d4-ae2d-42f7-a0e5-0e4141eb953d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aonc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/onc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a3c9579b-e3e7-4dc7-a775-b7c8d2758f24/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acbd76b22-d04e-48e7-bcab-c7f5466d67d8&unique=prints",
+  "collector_number": "27",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason Kang",
+  "artist_ids": [
+    "064b9176-e325-44f6-a413-2cadb7505851"
+  ],
+  "illustration_id": "bbbb0617-ebbc-4281-b9ca-75491f5ba13c",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 6429,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/1717173018",
+    "previewed_at": "2023-01-24"
+  },
+  "prices": {
+    "usd": "0.41",
+    "usd_foil": "0.76",
+    "usd_etched": null,
+    "eur": "0.47",
+    "eur_foil": "0.74",
+    "tix": "0.10"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=605457&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLux%2BArtillery",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLux%2BArtillery",
+    "edhrec": "https://edhrec.com/route/?cc=Lux+Artillery"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F479274%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=695580&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/107157?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

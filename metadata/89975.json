@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "d4661ab0-9541-4a45-9da5-b4b8fb9ca06c",
+  "oracle_id": "67183256-23cc-4af5-991e-d7148e942c63",
+  "multiverse_ids": [],
+  "mtgo_id": 102309,
+  "name": "Bring to Light",
+  "lang": "en",
+  "released_at": "2022-09-26",
+  "uri": "https://api.scryfall.com/cards/d4661ab0-9541-4a45-9da5-b4b8fb9ca06c",
+  "scryfall_uri": "https://scryfall.com/card/prm/102309/bring-to-light?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/4/d4661ab0-9541-4a45-9da5-b4b8fb9ca06c.jpg?1681136769",
+    "normal": "https://cards.scryfall.io/normal/front/d/4/d4661ab0-9541-4a45-9da5-b4b8fb9ca06c.jpg?1681136769",
+    "large": "https://cards.scryfall.io/large/front/d/4/d4661ab0-9541-4a45-9da5-b4b8fb9ca06c.jpg?1681136769",
+    "png": "https://cards.scryfall.io/png/front/d/4/d4661ab0-9541-4a45-9da5-b4b8fb9ca06c.png?1681136769",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/4/d4661ab0-9541-4a45-9da5-b4b8fb9ca06c.jpg?1681136769",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/4/d4661ab0-9541-4a45-9da5-b4b8fb9ca06c.jpg?1681136769"
+  },
+  "mana_cost": "{3}{G}{U}",
+  "cmc": 5,
+  "type_line": "Sorcery",
+  "oracle_text": "Converge — Search your library for a creature, instant, or sorcery card with mana value less than or equal to the number of colors of mana spent to cast this spell, exile that card, then shuffle. You may cast that card without paying its mana cost.",
+  "colors": [
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [
+    "Converge"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d4661ab0-9541-4a45-9da5-b4b8fb9ca06c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A67183256-23cc-4af5-991e-d7148e942c63&unique=prints",
+  "collector_number": "102309",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mark Poole",
+  "artist_ids": [
+    "bfdeaf09-f915-4058-8e8b-bcac3bc43c33"
+  ],
+  "illustration_id": "a010781d-e6d8-410d-b465-1cadc3ba76c6",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4917,
+  "penny_rank": 1654,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.22"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBring%2Bto%2BLight",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBring%2Bto%2BLight",
+    "edhrec": "https://edhrec.com/route/?cc=Bring+to+Light"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBring%2Bto%2BLight%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bring+to+Light&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/102309?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

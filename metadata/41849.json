@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "62c347f3-157e-45ca-95a8-bdf300b0811b",
+  "oracle_id": "95bbe04c-bcea-461d-9946-6c1a35dfbeb1",
+  "multiverse_ids": [],
+  "tcgplayer_id": 189030,
+  "cardmarket_id": 372762,
+  "name": "Dovin, Hand of Control",
+  "printed_name": "支配の片腕、ドビン",
+  "lang": "ja",
+  "released_at": "2019-05-03",
+  "uri": "https://api.scryfall.com/cards/62c347f3-157e-45ca-95a8-bdf300b0811b",
+  "scryfall_uri": "https://scryfall.com/card/war/229%E2%98%85/ja/%E6%94%AF%E9%85%8D%E3%81%AE%E7%89%87%E8%85%95%E3%80%81%E3%83%89%E3%83%93%E3%83%B3-(dovin-hand-of-control)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/2/62c347f3-157e-45ca-95a8-bdf300b0811b.jpg?1580443785",
+    "normal": "https://cards.scryfall.io/normal/front/6/2/62c347f3-157e-45ca-95a8-bdf300b0811b.jpg?1580443785",
+    "large": "https://cards.scryfall.io/large/front/6/2/62c347f3-157e-45ca-95a8-bdf300b0811b.jpg?1580443785",
+    "png": "https://cards.scryfall.io/png/front/6/2/62c347f3-157e-45ca-95a8-bdf300b0811b.png?1580443785",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/2/62c347f3-157e-45ca-95a8-bdf300b0811b.jpg?1580443785",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/2/62c347f3-157e-45ca-95a8-bdf300b0811b.jpg?1580443785"
+  },
+  "mana_cost": "{2}{W/U}",
+  "cmc": 3,
+  "type_line": "Legendary Planeswalker — Dovin",
+  "printed_type_line": "伝説のプレインズウォーカー — ドビン",
+  "oracle_text": "Artifact, instant, and sorcery spells your opponents cast cost {1} more to cast.\n−1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.",
+  "printed_text": "対戦相手がアーティファクトやインスタントやソーサリーである呪文を唱えるためのコストは{1}多くなる。\n-1：対戦相手がコントロールしているパーマネント１つを対象とする。あなたの次のターンまで、それに与えられるダメージとそれが与えるダメージをすべて軽減する。",
+  "loyalty": "5",
+  "colors": [
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "U",
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "ee044f0b-e101-4ead-8d0e-aa510aad4277",
+  "set": "war",
+  "set_name": "War of the Spark",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/ee044f0b-e101-4ead-8d0e-aa510aad4277",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awar&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/war?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/62c347f3-157e-45ca-95a8-bdf300b0811b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A95bbe04c-bcea-461d-9946-6c1a35dfbeb1&unique=prints",
+  "collector_number": "229★",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nablange",
+  "artist_ids": [
+    "0d5d8ad2-0c36-49a0-b788-615734ff2b20"
+  ],
+  "illustration_id": "679bea09-de5b-449e-bd9b-4739403659e3",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "jpwalker"
+  ],
+  "edhrec_rank": 7588,
+  "penny_rank": 934,
+  "prices": {
+    "usd": "0.35",
+    "usd_foil": "5.00",
+    "usd_etched": null,
+    "eur": "0.50",
+    "eur_foil": "3.44",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDovin%252C%2BHand%2Bof%2BControl",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDovin%252C%2BHand%2Bof%2BControl",
+    "edhrec": "https://edhrec.com/route/?cc=Dovin%2C+Hand+of+Control"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F189030%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=372762&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dovin%2C+Hand+of+Control&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "dc76518b-6d06-4dea-8f48-0476d7b32f06",
+  "oracle_id": "b4d23acf-ff1f-4a6a-9ede-2667a99e9665",
+  "multiverse_ids": [],
+  "mtgo_id": 90020,
+  "name": "Multiple Choice",
+  "lang": "en",
+  "released_at": "2021-05-01",
+  "uri": "https://api.scryfall.com/cards/dc76518b-6d06-4dea-8f48-0476d7b32f06",
+  "scryfall_uri": "https://scryfall.com/card/prm/90020/multiple-choice?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/c/dc76518b-6d06-4dea-8f48-0476d7b32f06.jpg?1681080118",
+    "normal": "https://cards.scryfall.io/normal/front/d/c/dc76518b-6d06-4dea-8f48-0476d7b32f06.jpg?1681080118",
+    "large": "https://cards.scryfall.io/large/front/d/c/dc76518b-6d06-4dea-8f48-0476d7b32f06.jpg?1681080118",
+    "png": "https://cards.scryfall.io/png/front/d/c/dc76518b-6d06-4dea-8f48-0476d7b32f06.png?1681080118",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/c/dc76518b-6d06-4dea-8f48-0476d7b32f06.jpg?1681080118",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/c/dc76518b-6d06-4dea-8f48-0476d7b32f06.jpg?1681080118"
+  },
+  "mana_cost": "{X}{U}",
+  "cmc": 1,
+  "type_line": "Sorcery",
+  "oracle_text": "If X is 1, scry 1, then draw a card.\nIf X is 2, you may choose a player. They return a creature they control to its owner's hand.\nIf X is 3, create a 4/4 blue and red Elemental creature token.\nIf X is 4 or more, do all of the above.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Scry"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "dc76518b-6d06-4dea-8f48-0476d7b32f06",
+      "component": "combo_piece",
+      "name": "Multiple Choice",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/dc76518b-6d06-4dea-8f48-0476d7b32f06"
+    },
+    {
+      "object": "related_card",
+      "id": "7b19a41d-95c1-4cd8-89fc-4ec89ab10884",
+      "component": "token",
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "uri": "https://api.scryfall.com/cards/7b19a41d-95c1-4cd8-89fc-4ec89ab10884"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/dc76518b-6d06-4dea-8f48-0476d7b32f06/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab4d23acf-ff1f-4a6a-9ede-2667a99e9665&unique=prints",
+  "collector_number": "90020",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Campbell White",
+  "artist_ids": [
+    "d281eab4-463a-4ba8-9039-8943737960a0"
+  ],
+  "illustration_id": "53acab6f-8a1a-41f3-870f-5740a6d67fa9",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 11897,
+  "penny_rank": 6968,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMultiple%2BChoice",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMultiple%2BChoice",
+    "edhrec": "https://edhrec.com/route/?cc=Multiple+Choice"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DMultiple%2BChoice%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Multiple+Choice&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/90020?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

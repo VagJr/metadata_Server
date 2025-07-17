@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "30fe939f-c680-403f-a5be-0f0cca020ef2",
+  "oracle_id": "8e067701-3b0b-4985-a8f9-fd634b6b8e78",
+  "multiverse_ids": [],
+  "name": "Human",
+  "lang": "en",
+  "released_at": "2023-10-13",
+  "uri": "https://api.scryfall.com/cards/30fe939f-c680-403f-a5be-0f0cca020ef2",
+  "scryfall_uri": "https://scryfall.com/card/twho/37/human?utm_source=api",
+  "layout": "token",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/0/30fe939f-c680-403f-a5be-0f0cca020ef2.jpg?1697824527",
+    "normal": "https://cards.scryfall.io/normal/front/3/0/30fe939f-c680-403f-a5be-0f0cca020ef2.jpg?1697824527",
+    "large": "https://cards.scryfall.io/large/front/3/0/30fe939f-c680-403f-a5be-0f0cca020ef2.jpg?1697824527",
+    "png": "https://cards.scryfall.io/png/front/3/0/30fe939f-c680-403f-a5be-0f0cca020ef2.png?1697824527",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/0/30fe939f-c680-403f-a5be-0f0cca020ef2.jpg?1697824527",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/0/30fe939f-c680-403f-a5be-0f0cca020ef2.jpg?1697824527"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Human",
+  "oracle_text": "Doctor spells you cast cost {1} less to cast.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "ed22dc33-d3c0-454e-aa41-29b653742964",
+      "component": "combo_piece",
+      "name": "The Eleventh Hour",
+      "type_line": "Enchantment — Saga",
+      "uri": "https://api.scryfall.com/cards/ed22dc33-d3c0-454e-aa41-29b653742964"
+    },
+    {
+      "object": "related_card",
+      "id": "30fe939f-c680-403f-a5be-0f0cca020ef2",
+      "component": "token",
+      "name": "Human",
+      "type_line": "Token Creature — Human",
+      "uri": "https://api.scryfall.com/cards/30fe939f-c680-403f-a5be-0f0cca020ef2"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d2d6e9d3-40dd-4e84-897f-fb8f82fc6b91",
+  "set": "twho",
+  "set_name": "Doctor Who Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/d2d6e9d3-40dd-4e84-897f-fb8f82fc6b91",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atwho&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/twho?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/30fe939f-c680-403f-a5be-0f0cca020ef2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8e067701-3b0b-4985-a8f9-fd634b6b8e78&unique=prints",
+  "collector_number": "37",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tyukina Tatiana",
+  "artist_ids": [
+    "7ceaa3e7-986b-4130-9c2b-e660e9578225"
+  ],
+  "illustration_id": "d6885b43-689b-4e12-ab38-2e391a5155ac",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "surgefoil"
+  ],
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHuman",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHuman",
+    "edhrec": "https://edhrec.com/route/?cc=Human"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DHuman%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Human&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Human&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

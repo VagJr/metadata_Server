@@ -1,0 +1,152 @@
+{
+  "object": "card",
+  "id": "74c3f2dd-8745-4e2e-b01c-6b692c6ff8af",
+  "oracle_id": "7d5e734f-3efc-4124-b1d8-4fe3e9d3db28",
+  "multiverse_ids": [
+    578074
+  ],
+  "tcgplayer_id": 283458,
+  "cardmarket_id": 672393,
+  "name": "Tatyova, Steward of Tides",
+  "lang": "en",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/74c3f2dd-8745-4e2e-b01c-6b692c6ff8af",
+  "scryfall_uri": "https://scryfall.com/card/dmu/321/tatyova-steward-of-tides?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/4/74c3f2dd-8745-4e2e-b01c-6b692c6ff8af.jpg?1674074156",
+    "normal": "https://cards.scryfall.io/normal/front/7/4/74c3f2dd-8745-4e2e-b01c-6b692c6ff8af.jpg?1674074156",
+    "large": "https://cards.scryfall.io/large/front/7/4/74c3f2dd-8745-4e2e-b01c-6b692c6ff8af.jpg?1674074156",
+    "png": "https://cards.scryfall.io/png/front/7/4/74c3f2dd-8745-4e2e-b01c-6b692c6ff8af.png?1674074156",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/4/74c3f2dd-8745-4e2e-b01c-6b692c6ff8af.jpg?1674074156",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/4/74c3f2dd-8745-4e2e-b01c-6b692c6ff8af.jpg?1674074156"
+  },
+  "mana_cost": "{G}{G}{U}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Merfolk Druid",
+  "oracle_text": "Land creatures you control have flying.\nWhenever a land you control enters, if you control seven or more lands, up to one target land you control becomes a 3/3 Elemental creature with haste. It's still a land.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "3296c85f-01f6-42b4-96d6-0c576617dbd8",
+      "component": "combo_piece",
+      "name": "Tatyova, Steward of Tides",
+      "type_line": "Legendary Creature — Merfolk Druid",
+      "uri": "https://api.scryfall.com/cards/3296c85f-01f6-42b4-96d6-0c576617dbd8"
+    },
+    {
+      "object": "related_card",
+      "id": "367b8b17-3881-4bc4-aa2f-0376b614dca7",
+      "component": "combo_piece",
+      "name": "A-Tatyova, Steward of Tides",
+      "type_line": "Legendary Creature — Merfolk Druid",
+      "uri": "https://api.scryfall.com/cards/367b8b17-3881-4bc4-aa2f-0376b614dca7"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set": "dmu",
+  "set_name": "Dominaria United",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dmu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/74c3f2dd-8745-4e2e-b01c-6b692c6ff8af/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7d5e734f-3efc-4124-b1d8-4fe3e9d3db28&unique=prints",
+  "collector_number": "321",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lisa Heidhoff",
+  "artist_ids": [
+    "6d0ce398-d3cb-4020-beda-b41938fea8ca"
+  ],
+  "illustration_id": "6438e691-1112-4dce-a7ac-4a82feeff894",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary",
+    "inverted"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 7593,
+  "penny_rank": 11215,
+  "prices": {
+    "usd": "0.10",
+    "usd_foil": "0.11",
+    "usd_etched": null,
+    "eur": "0.06",
+    "eur_foil": "0.18",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=578074&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTatyova%252C%2BSteward%2Bof%2BTides",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTatyova%252C%2BSteward%2Bof%2BTides",
+    "edhrec": "https://edhrec.com/route/?cc=Tatyova%2C+Steward+of+Tides"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F283458%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=672393&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tatyova%2C+Steward+of+Tides&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

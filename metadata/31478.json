@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "4a77d9f3-c365-4dcc-baef-fd20445b918d",
+  "oracle_id": "2c09ca09-8e62-4fe3-9b3d-61573dd2ffbc",
+  "multiverse_ids": [],
+  "tcgplayer_id": 631722,
+  "name": "Gemhide Sliver",
+  "lang": "en",
+  "released_at": "2025-05-12",
+  "uri": "https://api.scryfall.com/cards/4a77d9f3-c365-4dcc-baef-fd20445b918d",
+  "scryfall_uri": "https://scryfall.com/card/plst/CMM-896/gemhide-sliver?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/a/4a77d9f3-c365-4dcc-baef-fd20445b918d.jpg?1746052724",
+    "normal": "https://cards.scryfall.io/normal/front/4/a/4a77d9f3-c365-4dcc-baef-fd20445b918d.jpg?1746052724",
+    "large": "https://cards.scryfall.io/large/front/4/a/4a77d9f3-c365-4dcc-baef-fd20445b918d.jpg?1746052724",
+    "png": "https://cards.scryfall.io/png/front/4/a/4a77d9f3-c365-4dcc-baef-fd20445b918d.png?1746052724",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/a/4a77d9f3-c365-4dcc-baef-fd20445b918d.jpg?1746052724",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/a/4a77d9f3-c365-4dcc-baef-fd20445b918d.jpg?1746052724"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2,
+  "type_line": "Creature — Sliver",
+  "oracle_text": "All Slivers have \"{T}: Add one mana of any color.\"",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4a77d9f3-c365-4dcc-baef-fd20445b918d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2c09ca09-8e62-4fe3-9b3d-61573dd2ffbc&unique=prints",
+  "collector_number": "CMM-896",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Squee had been disemboweled many times before, but never by something so stunningly beautiful.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alayna Danner",
+  "artist_ids": [
+    "bb677b1a-ce51-4888-83d6-5a94de461ff9"
+  ],
+  "illustration_id": "a7de279f-e0c9-4c82-8259-7e32a1064b35",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2754,
+  "penny_rank": 4268,
+  "prices": {
+    "usd": "0.47",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGemhide%2BSliver",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGemhide%2BSliver",
+    "edhrec": "https://edhrec.com/route/?cc=Gemhide+Sliver"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F631722%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gemhide+Sliver&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Gemhide+Sliver&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

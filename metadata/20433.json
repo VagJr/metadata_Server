@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "302bb2d4-f7a5-4c25-9236-f3eecf3adcd6",
+  "oracle_id": "9d954def-0045-4860-b154-cb64b6835fe0",
+  "multiverse_ids": [
+    456067
+  ],
+  "tcgplayer_id": 177349,
+  "cardmarket_id": 365283,
+  "name": "Grave-Shell Scarab",
+  "lang": "en",
+  "released_at": "2018-11-02",
+  "uri": "https://api.scryfall.com/cards/302bb2d4-f7a5-4c25-9236-f3eecf3adcd6",
+  "scryfall_uri": "https://scryfall.com/card/gk1/63/grave-shell-scarab?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/0/302bb2d4-f7a5-4c25-9236-f3eecf3adcd6.jpg?1541002977",
+    "normal": "https://cards.scryfall.io/normal/front/3/0/302bb2d4-f7a5-4c25-9236-f3eecf3adcd6.jpg?1541002977",
+    "large": "https://cards.scryfall.io/large/front/3/0/302bb2d4-f7a5-4c25-9236-f3eecf3adcd6.jpg?1541002977",
+    "png": "https://cards.scryfall.io/png/front/3/0/302bb2d4-f7a5-4c25-9236-f3eecf3adcd6.png?1541002977",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/0/302bb2d4-f7a5-4c25-9236-f3eecf3adcd6.jpg?1541002977",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/0/302bb2d4-f7a5-4c25-9236-f3eecf3adcd6.jpg?1541002977"
+  },
+  "mana_cost": "{2}{B}{G}{G}",
+  "cmc": 5,
+  "type_line": "Creature — Insect",
+  "oracle_text": "{1}, Sacrifice this creature: Draw a card.\nDredge 1 (If you would draw a card, you may mill a card instead. If you do, return this card from your graveyard to your hand.)",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [
+    "Dredge",
+    "Mill"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "600bdba8-0b12-454f-811c-438e0d9eb9b6",
+  "set": "gk1",
+  "set_name": "GRN Guild Kit",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/600bdba8-0b12-454f-811c-438e0d9eb9b6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Agk1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/gk1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/302bb2d4-f7a5-4c25-9236-f3eecf3adcd6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9d954def-0045-4860-b154-cb64b6835fe0&unique=prints",
+  "collector_number": "63",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "golgari",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Pete Venters",
+  "artist_ids": [
+    "d54c4a1a-c0c5-4834-84db-125d341f3ad8"
+  ],
+  "illustration_id": "89e7d575-b380-41cb-9475-a16e79cd60b0",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 15780,
+  "penny_rank": 8913,
+  "prices": {
+    "usd": "0.36",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.29",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456067&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGrave-Shell%2BScarab",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGrave-Shell%2BScarab",
+    "edhrec": "https://edhrec.com/route/?cc=Grave-Shell+Scarab"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F177349%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=365283&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Grave-Shell+Scarab&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

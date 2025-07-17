@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "e82211fe-0830-4472-b388-f5880be1a84e",
+  "oracle_id": "cc2eb755-1260-461f-803e-b74adaf041ac",
+  "multiverse_ids": [],
+  "tcgplayer_id": 287565,
+  "name": "Infernal Spawn of Infernal Spawn of Evil",
+  "lang": "en",
+  "released_at": "2022-10-07",
+  "uri": "https://api.scryfall.com/cards/e82211fe-0830-4472-b388-f5880be1a84e",
+  "scryfall_uri": "https://scryfall.com/card/ulst/20/infernal-spawn-of-infernal-spawn-of-evil?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/8/e82211fe-0830-4472-b388-f5880be1a84e.jpg?1664308456",
+    "normal": "https://cards.scryfall.io/normal/front/e/8/e82211fe-0830-4472-b388-f5880be1a84e.jpg?1664308456",
+    "large": "https://cards.scryfall.io/large/front/e/8/e82211fe-0830-4472-b388-f5880be1a84e.jpg?1664308456",
+    "png": "https://cards.scryfall.io/png/front/e/8/e82211fe-0830-4472-b388-f5880be1a84e.png?1664308456",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/8/e82211fe-0830-4472-b388-f5880be1a84e.jpg?1664308456",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/8/e82211fe-0830-4472-b388-f5880be1a84e.jpg?1664308456"
+  },
+  "mana_cost": "{8}{B}{B}",
+  "cmc": 10,
+  "type_line": "Creature — Demon Child",
+  "oracle_text": "Flying, first strike, trample\nOnce each turn, while you're searching your library, you may pay {1}{B}, reveal this card from your library and say \"I'm coming, too\" If you do, this card deals 2 damage to a player of your choice.",
+  "power": "8",
+  "toughness": "8",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying",
+    "First strike",
+    "Trample"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e82211fe-0830-4472-b388-f5880be1a84e",
+      "component": "combo_piece",
+      "name": "Infernal Spawn of Infernal Spawn of Evil",
+      "type_line": "Creature — Demon Child",
+      "uri": "https://api.scryfall.com/cards/e82211fe-0830-4472-b388-f5880be1a84e"
+    },
+    {
+      "object": "related_card",
+      "id": "217f01bf-e792-4704-ac84-b9849d548bd1",
+      "component": "combo_piece",
+      "name": "Infernius Spawnington III, Esq.",
+      "type_line": "Creature — Demon Beast Grandchild",
+      "uri": "https://api.scryfall.com/cards/217f01bf-e792-4704-ac84-b9849d548bd1"
+    },
+    {
+      "object": "related_card",
+      "id": "4c28a60a-8b2b-45f5-b46e-c0c50218b239",
+      "component": "combo_piece",
+      "name": "Infernal Spawn of Evil",
+      "type_line": "Creature — Beast",
+      "uri": "https://api.scryfall.com/cards/4c28a60a-8b2b-45f5-b46e-c0c50218b239"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "455ba7d5-aa10-4a08-bc1a-361f4d5e6219",
+  "set": "ulst",
+  "set_name": "The List (Unfinity Foil Edition)",
+  "set_type": "funny",
+  "set_uri": "https://api.scryfall.com/sets/455ba7d5-aa10-4a08-bc1a-361f4d5e6219",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aulst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ulst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e82211fe-0830-4472-b388-f5880be1a84e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acc2eb755-1260-461f-803e-b74adaf041ac&unique=prints",
+  "collector_number": "20",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ron Spencer",
+  "artist_ids": [
+    "dab52c11-0564-4207-a4a1-c1735c946a65"
+  ],
+  "illustration_id": "e56d0b8d-a07c-45c6-80c8-98b8e22c5c59",
+  "border_color": "silver",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.21",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DInfernal%2BSpawn%2Bof%2BInfernal%2BSpawn%2Bof%2BEvil",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DInfernal%2BSpawn%2Bof%2BInfernal%2BSpawn%2Bof%2BEvil",
+    "edhrec": "https://edhrec.com/route/?cc=Infernal+Spawn+of+Infernal+Spawn+of+Evil"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F287565%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Infernal+Spawn+of+Infernal+Spawn+of+Evil&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Infernal+Spawn+of+Infernal+Spawn+of+Evil&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

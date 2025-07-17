@@ -1,0 +1,158 @@
+{
+  "object": "card",
+  "id": "565438a2-3b2f-4bfa-9af0-69fbcbcef99d",
+  "oracle_id": "50de88d4-0beb-45e5-9664-d4f0e280e652",
+  "multiverse_ids": [
+    670899
+  ],
+  "mtgo_id": 128281,
+  "arena_id": 91887,
+  "tcgplayer_id": 559618,
+  "cardmarket_id": 778676,
+  "name": "Ant Queen",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/565438a2-3b2f-4bfa-9af0-69fbcbcef99d",
+  "scryfall_uri": "https://scryfall.com/card/blc/80/ant-queen?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/6/565438a2-3b2f-4bfa-9af0-69fbcbcef99d.jpg?1722384763",
+    "normal": "https://cards.scryfall.io/normal/front/5/6/565438a2-3b2f-4bfa-9af0-69fbcbcef99d.jpg?1722384763",
+    "large": "https://cards.scryfall.io/large/front/5/6/565438a2-3b2f-4bfa-9af0-69fbcbcef99d.jpg?1722384763",
+    "png": "https://cards.scryfall.io/png/front/5/6/565438a2-3b2f-4bfa-9af0-69fbcbcef99d.png?1722384763",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/6/565438a2-3b2f-4bfa-9af0-69fbcbcef99d.jpg?1722384763",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/6/565438a2-3b2f-4bfa-9af0-69fbcbcef99d.jpg?1722384763"
+  },
+  "mana_cost": "{3}{G}{G}",
+  "cmc": 5,
+  "type_line": "Creature — Insect",
+  "oracle_text": "{1}{G}: Create a 1/1 green Insect creature token.",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "565438a2-3b2f-4bfa-9af0-69fbcbcef99d",
+      "component": "combo_piece",
+      "name": "Ant Queen",
+      "type_line": "Creature — Insect",
+      "uri": "https://api.scryfall.com/cards/565438a2-3b2f-4bfa-9af0-69fbcbcef99d"
+    },
+    {
+      "object": "related_card",
+      "id": "c5c3553b-010f-48ef-bca1-93ba12eaf558",
+      "component": "token",
+      "name": "Insect",
+      "type_line": "Token Creature — Insect",
+      "uri": "https://api.scryfall.com/cards/c5c3553b-010f-48ef-bca1-93ba12eaf558"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "set": "blc",
+  "set_name": "Bloomburrow Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/blc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/565438a2-3b2f-4bfa-9af0-69fbcbcef99d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A50de88d4-0beb-45e5-9664-d4f0e280e652&unique=prints",
+  "collector_number": "80",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"She only makes the trek through Valley when she's hungry. I fear it's not just our crops she enjoys.\"\n—Lop, rabbitfolk farmer",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Andrew Mar",
+  "artist_ids": [
+    "adad79bf-cd52-456a-b170-740ed8bff0fc"
+  ],
+  "illustration_id": "570d47d1-d536-49fc-b752-ed0455a436ef",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun",
+    "imagine"
+  ],
+  "edhrec_rank": 6504,
+  "penny_rank": 4005,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/2199222387",
+    "previewed_at": "2024-07-16"
+  },
+  "prices": {
+    "usd": "0.44",
+    "usd_foil": "0.62",
+    "usd_etched": null,
+    "eur": "0.62",
+    "eur_foil": "0.97",
+    "tix": "0.28"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=670899&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAnt%2BQueen",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAnt%2BQueen",
+    "edhrec": "https://edhrec.com/route/?cc=Ant+Queen"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F559618%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=778676&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/128281?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "1b0c4931-3260-411a-9c7d-b67c87e7aecc",
+  "oracle_id": "abfa5753-8c02-4e2f-8f98-b0636907293a",
+  "multiverse_ids": [
+    681877
+  ],
+  "arena_id": 92958,
+  "tcgplayer_id": 589825,
+  "cardmarket_id": 796476,
+  "name": "Blood Fountain",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/1b0c4931-3260-411a-9c7d-b67c87e7aecc",
+  "scryfall_uri": "https://scryfall.com/card/j25/407/blood-fountain?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/b/1b0c4931-3260-411a-9c7d-b67c87e7aecc.jpg?1730487165",
+    "normal": "https://cards.scryfall.io/normal/front/1/b/1b0c4931-3260-411a-9c7d-b67c87e7aecc.jpg?1730487165",
+    "large": "https://cards.scryfall.io/large/front/1/b/1b0c4931-3260-411a-9c7d-b67c87e7aecc.jpg?1730487165",
+    "png": "https://cards.scryfall.io/png/front/1/b/1b0c4931-3260-411a-9c7d-b67c87e7aecc.png?1730487165",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/b/1b0c4931-3260-411a-9c7d-b67c87e7aecc.jpg?1730487165",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/b/1b0c4931-3260-411a-9c7d-b67c87e7aecc.jpg?1730487165"
+  },
+  "mana_cost": "{B}",
+  "cmc": 1,
+  "type_line": "Artifact",
+  "oracle_text": "When this artifact enters, create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\")\n{3}{B}, {T}, Sacrifice this artifact: Return up to two target creature cards from your graveyard to your hand.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "92a3afe7-bd9f-43f9-adc3-4819e60dc7a5",
+      "component": "token",
+      "name": "Blood",
+      "type_line": "Token Artifact — Blood",
+      "uri": "https://api.scryfall.com/cards/92a3afe7-bd9f-43f9-adc3-4819e60dc7a5"
+    },
+    {
+      "object": "related_card",
+      "id": "1b0c4931-3260-411a-9c7d-b67c87e7aecc",
+      "component": "combo_piece",
+      "name": "Blood Fountain",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/1b0c4931-3260-411a-9c7d-b67c87e7aecc"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9201567c-bab5-4720-aac9-260e6741f115",
+  "set": "j25",
+  "set_name": "Foundations Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/9201567c-bab5-4720-aac9-260e6741f115",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj25&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j25?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1b0c4931-3260-411a-9c7d-b67c87e7aecc/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aabfa5753-8c02-4e2f-8f98-b0636907293a&unique=prints",
+  "collector_number": "407",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Evyn Fong",
+  "artist_ids": [
+    "6777be9f-5724-4fdb-b6a0-a83f63efa4ca"
+  ],
+  "illustration_id": "2715a8e3-46a2-475a-b647-7b7cfc2391b4",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 7658,
+  "penny_rank": 1424,
+  "prices": {
+    "usd": "1.07",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.91",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=681877&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlood%2BFountain",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlood%2BFountain",
+    "edhrec": "https://edhrec.com/route/?cc=Blood+Fountain"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F589825%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=796476&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blood+Fountain&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "object": "card",
+  "id": "f17e68fd-9c05-460d-96aa-dd0ab8b7af37",
+  "oracle_id": "86084ed9-b8bb-4289-9579-6056194787bc",
+  "multiverse_ids": [
+    692455
+  ],
+  "mtgo_id": 137387,
+  "tcgplayer_id": 615177,
+  "cardmarket_id": 807994,
+  "name": "Pia and Kiran Nalaar",
+  "lang": "en",
+  "released_at": "2025-02-14",
+  "uri": "https://api.scryfall.com/cards/f17e68fd-9c05-460d-96aa-dd0ab8b7af37",
+  "scryfall_uri": "https://scryfall.com/card/drc/105/pia-and-kiran-nalaar?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/1/f17e68fd-9c05-460d-96aa-dd0ab8b7af37.jpg?1738355826",
+    "normal": "https://cards.scryfall.io/normal/front/f/1/f17e68fd-9c05-460d-96aa-dd0ab8b7af37.jpg?1738355826",
+    "large": "https://cards.scryfall.io/large/front/f/1/f17e68fd-9c05-460d-96aa-dd0ab8b7af37.jpg?1738355826",
+    "png": "https://cards.scryfall.io/png/front/f/1/f17e68fd-9c05-460d-96aa-dd0ab8b7af37.png?1738355826",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/1/f17e68fd-9c05-460d-96aa-dd0ab8b7af37.jpg?1738355826",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/1/f17e68fd-9c05-460d-96aa-dd0ab8b7af37.jpg?1738355826"
+  },
+  "mana_cost": "{2}{R}{R}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Human Artificer",
+  "oracle_text": "When Pia and Kiran Nalaar enters, create two 1/1 colorless Thopter artifact creature tokens with flying.\n{2}{R}, Sacrifice an artifact: Pia and Kiran Nalaar deals 2 damage to any target.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "78e52380-13a1-44fe-b762-e71261cac3d0",
+      "component": "token",
+      "name": "Thopter",
+      "type_line": "Token Artifact Creature — Thopter",
+      "uri": "https://api.scryfall.com/cards/78e52380-13a1-44fe-b762-e71261cac3d0"
+    },
+    {
+      "object": "related_card",
+      "id": "f17e68fd-9c05-460d-96aa-dd0ab8b7af37",
+      "component": "combo_piece",
+      "name": "Pia and Kiran Nalaar",
+      "type_line": "Legendary Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/f17e68fd-9c05-460d-96aa-dd0ab8b7af37"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d33ef7a4-41bb-4f16-bad3-b3ee13c257e6",
+  "set": "drc",
+  "set_name": "Aetherdrift Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d33ef7a4-41bb-4f16-bad3-b3ee13c257e6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/drc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f17e68fd-9c05-460d-96aa-dd0ab8b7af37/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A86084ed9-b8bb-4289-9579-6056194787bc&unique=prints",
+  "collector_number": "105",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Eric Deschamps",
+  "artist_ids": [
+    "37970e22-9cee-44c1-af44-5ee27cf26b76"
+  ],
+  "illustration_id": "a1dbdce4-fd98-4ef0-bad9-bc5cef8cc6fa",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 7075,
+  "penny_rank": 4247,
+  "preview": {
+    "source": "The Command Zone",
+    "source_uri": "https://www.youtube.com/watch?v=km1f1W0Tl6k",
+    "previewed_at": "2025-01-23"
+  },
+  "prices": {
+    "usd": "0.10",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.11",
+    "eur_foil": null,
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=692455&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPia%2Band%2BKiran%2BNalaar",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPia%2Band%2BKiran%2BNalaar",
+    "edhrec": "https://edhrec.com/route/?cc=Pia+and+Kiran+Nalaar"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F615177%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=807994&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/137387?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "object": "card",
+  "id": "118d0655-5719-4512-8bc1-fe759669811b",
+  "oracle_id": "dac8a765-6845-4b57-bb79-4ec463436f92",
+  "multiverse_ids": [],
+  "name": "Elf Warrior",
+  "lang": "en",
+  "released_at": "2021-02-05",
+  "uri": "https://api.scryfall.com/cards/118d0655-5719-4512-8bc1-fe759669811b",
+  "scryfall_uri": "https://scryfall.com/card/tkhm/15/elf-warrior?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/1/118d0655-5719-4512-8bc1-fe759669811b.jpg?1615686731",
+    "normal": "https://cards.scryfall.io/normal/front/1/1/118d0655-5719-4512-8bc1-fe759669811b.jpg?1615686731",
+    "large": "https://cards.scryfall.io/large/front/1/1/118d0655-5719-4512-8bc1-fe759669811b.jpg?1615686731",
+    "png": "https://cards.scryfall.io/png/front/1/1/118d0655-5719-4512-8bc1-fe759669811b.png?1615686731",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/1/118d0655-5719-4512-8bc1-fe759669811b.jpg?1615686731",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/1/118d0655-5719-4512-8bc1-fe759669811b.jpg?1615686731"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Elf Warrior",
+  "oracle_text": "",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "70fd0439-294b-454c-b2af-e814b85f4590",
+      "component": "combo_piece",
+      "name": "Wolverine Riders",
+      "type_line": "Creature — Elf Warrior",
+      "uri": "https://api.scryfall.com/cards/70fd0439-294b-454c-b2af-e814b85f4590"
+    },
+    {
+      "object": "related_card",
+      "id": "a007cfa6-4ef5-4e84-af31-fb87601a55f9",
+      "component": "combo_piece",
+      "name": "Tyvar Kell",
+      "type_line": "Legendary Planeswalker — Tyvar",
+      "uri": "https://api.scryfall.com/cards/a007cfa6-4ef5-4e84-af31-fb87601a55f9"
+    },
+    {
+      "object": "related_card",
+      "id": "e5198c82-e2df-41e0-8b04-47d567fff10a",
+      "component": "combo_piece",
+      "name": "Thorn Lieutenant",
+      "type_line": "Creature — Elf Warrior",
+      "uri": "https://api.scryfall.com/cards/e5198c82-e2df-41e0-8b04-47d567fff10a"
+    },
+    {
+      "object": "related_card",
+      "id": "b870c742-e799-4276-bb3d-f2c288ce0db8",
+      "component": "combo_piece",
+      "name": "Prowess of the Fair",
+      "type_line": "Kindred Enchantment — Elf",
+      "uri": "https://api.scryfall.com/cards/b870c742-e799-4276-bb3d-f2c288ce0db8"
+    },
+    {
+      "object": "related_card",
+      "id": "5e8bded3-46c3-474f-9d09-978df8705ad1",
+      "component": "combo_piece",
+      "name": "Elderleaf Mentor",
+      "type_line": "Creature — Elf Warrior",
+      "uri": "https://api.scryfall.com/cards/5e8bded3-46c3-474f-9d09-978df8705ad1"
+    },
+    {
+      "object": "related_card",
+      "id": "444b75d9-f7c7-4a13-9318-02d7bbd80c9c",
+      "component": "combo_piece",
+      "name": "Exquisite Huntmaster",
+      "type_line": "Creature — Elf Warrior",
+      "uri": "https://api.scryfall.com/cards/444b75d9-f7c7-4a13-9318-02d7bbd80c9c"
+    },
+    {
+      "object": "related_card",
+      "id": "b5707611-13e4-489f-85fa-a6ba01f5e8dc",
+      "component": "combo_piece",
+      "name": "Windswift Slice",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/b5707611-13e4-489f-85fa-a6ba01f5e8dc"
+    },
+    {
+      "object": "related_card",
+      "id": "6bbd1461-bd98-4ba9-a538-2dae0cf39b53",
+      "component": "combo_piece",
+      "name": "Galadhrim Ambush",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/6bbd1461-bd98-4ba9-a538-2dae0cf39b53"
+    },
+    {
+      "object": "related_card",
+      "id": "2e70732f-68c1-4341-879e-5c9c68ea8503",
+      "component": "combo_piece",
+      "name": "Dwynen's Elite",
+      "type_line": "Creature — Elf Warrior",
+      "uri": "https://api.scryfall.com/cards/2e70732f-68c1-4341-879e-5c9c68ea8503"
+    },
+    {
+      "object": "related_card",
+      "id": "0849f67b-da5d-49f7-840f-f87f48518156",
+      "component": "combo_piece",
+      "name": "Lys Alana Huntmaster",
+      "type_line": "Creature — Elf Warrior",
+      "uri": "https://api.scryfall.com/cards/0849f67b-da5d-49f7-840f-f87f48518156"
+    },
+    {
+      "object": "related_card",
+      "id": "a93e9d33-0c5d-4890-a1aa-84f59af9d4fb",
+      "component": "combo_piece",
+      "name": "Imperious Perfect",
+      "type_line": "Creature — Elf Warrior",
+      "uri": "https://api.scryfall.com/cards/a93e9d33-0c5d-4890-a1aa-84f59af9d4fb"
+    },
+    {
+      "object": "related_card",
+      "id": "5be17ab1-a94d-4ba5-9468-a1df345a1eda",
+      "component": "combo_piece",
+      "name": "Ambassador Oak",
+      "type_line": "Creature — Treefolk Warrior",
+      "uri": "https://api.scryfall.com/cards/5be17ab1-a94d-4ba5-9468-a1df345a1eda"
+    },
+    {
+      "object": "related_card",
+      "id": "cb43c86e-3d86-43ff-9c3b-94caee887b39",
+      "component": "combo_piece",
+      "name": "Nadier, Agent of the Duskenel",
+      "type_line": "Legendary Creature — Elf Warrior",
+      "uri": "https://api.scryfall.com/cards/cb43c86e-3d86-43ff-9c3b-94caee887b39"
+    },
+    {
+      "object": "related_card",
+      "id": "34c599c7-bcc1-4005-b830-1fa4811af66e",
+      "component": "combo_piece",
+      "name": "Elven Bow",
+      "type_line": "Artifact — Equipment",
+      "uri": "https://api.scryfall.com/cards/34c599c7-bcc1-4005-b830-1fa4811af66e"
+    },
+    {
+      "object": "related_card",
+      "id": "c24930f3-34e8-40e1-a798-3df5d2d12ef1",
+      "component": "combo_piece",
+      "name": "Hunting Triad",
+      "type_line": "Kindred Sorcery — Elf",
+      "uri": "https://api.scryfall.com/cards/c24930f3-34e8-40e1-a798-3df5d2d12ef1"
+    },
+    {
+      "object": "related_card",
+      "id": "82c2a0f7-0f53-4627-8be8-227fde331a69",
+      "component": "combo_piece",
+      "name": "Skemfar Elderhall",
+      "type_line": "Land",
+      "uri": "https://api.scryfall.com/cards/82c2a0f7-0f53-4627-8be8-227fde331a69"
+    },
+    {
+      "object": "related_card",
+      "id": "96320770-e879-4c29-ab93-03b6ff191464",
+      "component": "combo_piece",
+      "name": "Sylvan Offering",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/96320770-e879-4c29-ab93-03b6ff191464"
+    },
+    {
+      "object": "related_card",
+      "id": "20602cb8-f925-4de0-ad4b-86d0f5514384",
+      "component": "combo_piece",
+      "name": "Elvish Promenade",
+      "type_line": "Kindred Sorcery — Elf",
+      "uri": "https://api.scryfall.com/cards/20602cb8-f925-4de0-ad4b-86d0f5514384"
+    },
+    {
+      "object": "related_card",
+      "id": "624b66e3-8bc2-4e3f-88a6-f634853f2820",
+      "component": "combo_piece",
+      "name": "Battle for Bretagard",
+      "type_line": "Enchantment — Saga",
+      "uri": "https://api.scryfall.com/cards/624b66e3-8bc2-4e3f-88a6-f634853f2820"
+    },
+    {
+      "object": "related_card",
+      "id": "294ccc67-6fc9-411b-9100-ae6a9b7fadfc",
+      "component": "combo_piece",
+      "name": "Nath of the Gilt-Leaf",
+      "type_line": "Legendary Creature — Elf Warrior",
+      "uri": "https://api.scryfall.com/cards/294ccc67-6fc9-411b-9100-ae6a9b7fadfc"
+    },
+    {
+      "object": "related_card",
+      "id": "4dc94b73-ce6a-4360-b2bd-732f6857ddd5",
+      "component": "combo_piece",
+      "name": "Lathril, Blade of the Elves",
+      "type_line": "Legendary Creature — Elf Noble",
+      "uri": "https://api.scryfall.com/cards/4dc94b73-ce6a-4360-b2bd-732f6857ddd5"
+    },
+    {
+      "object": "related_card",
+      "id": "70479c44-da7c-48c7-8c6a-47210dc03277",
+      "component": "combo_piece",
+      "name": "Elven Ambush",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/70479c44-da7c-48c7-8c6a-47210dc03277"
+    },
+    {
+      "object": "related_card",
+      "id": "74e28915-216d-45c1-a3fc-aa34120afddf",
+      "component": "combo_piece",
+      "name": "Presence of Gond",
+      "type_line": "Enchantment — Aura",
+      "uri": "https://api.scryfall.com/cards/74e28915-216d-45c1-a3fc-aa34120afddf"
+    },
+    {
+      "object": "related_card",
+      "id": "470601b0-9598-487f-bb14-4bfec7ca6d61",
+      "component": "combo_piece",
+      "name": "Return Upon the Tide",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/470601b0-9598-487f-bb14-4bfec7ca6d61"
+    },
+    {
+      "object": "related_card",
+      "id": "89b47813-9b6c-4e8f-9212-fe37fb50e405",
+      "component": "combo_piece",
+      "name": "Eyeblight Cullers",
+      "type_line": "Creature — Elf Warrior",
+      "uri": "https://api.scryfall.com/cards/89b47813-9b6c-4e8f-9212-fe37fb50e405"
+    },
+    {
+      "object": "related_card",
+      "id": "96889b5d-4f7c-418a-95c9-8675fdd0a2c4",
+      "component": "combo_piece",
+      "name": "Elvish Warmaster",
+      "type_line": "Creature — Elf Warrior",
+      "uri": "https://api.scryfall.com/cards/96889b5d-4f7c-418a-95c9-8675fdd0a2c4"
+    },
+    {
+      "object": "related_card",
+      "id": "118d0655-5719-4512-8bc1-fe759669811b",
+      "component": "token",
+      "name": "Elf Warrior",
+      "type_line": "Token Creature — Elf Warrior",
+      "uri": "https://api.scryfall.com/cards/118d0655-5719-4512-8bc1-fe759669811b"
+    },
+    {
+      "object": "related_card",
+      "id": "47bf7254-4302-41a0-bc87-d7dc437ff38d",
+      "component": "combo_piece",
+      "name": "Gilt-Leaf Ambush",
+      "type_line": "Kindred Instant — Elf",
+      "uri": "https://api.scryfall.com/cards/47bf7254-4302-41a0-bc87-d7dc437ff38d"
+    },
+    {
+      "object": "related_card",
+      "id": "6223f5d6-83f1-454e-9cd5-aba157850430",
+      "component": "combo_piece",
+      "name": "Flourishing Defenses",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/6223f5d6-83f1-454e-9cd5-aba157850430"
+    },
+    {
+      "object": "related_card",
+      "id": "5128a5be-ffa6-4998-8488-872d80b24cb2",
+      "component": "combo_piece",
+      "name": "Elfsworn Giant",
+      "type_line": "Creature — Giant",
+      "uri": "https://api.scryfall.com/cards/5128a5be-ffa6-4998-8488-872d80b24cb2"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c3ee48f1-6f93-42d4-b05c-65a04d02a488",
+  "set": "tkhm",
+  "set_name": "Kaldheim Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/c3ee48f1-6f93-42d4-b05c-65a04d02a488",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atkhm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tkhm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/118d0655-5719-4512-8bc1-fe759669811b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adac8a765-6845-4b57-bb79-4ec463436f92&unique=prints",
+  "collector_number": "15",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Randy Vargas",
+  "artist_ids": [
+    "d20672ca-0555-4238-a984-fd171d36b247"
+  ],
+  "illustration_id": "8250bdd2-9049-4b43-87f9-37e84e794785",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DElf%2BWarrior",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DElf%2BWarrior",
+    "edhrec": "https://edhrec.com/route/?cc=Elf+Warrior"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DElf%2BWarrior%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Elf+Warrior&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Elf+Warrior&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

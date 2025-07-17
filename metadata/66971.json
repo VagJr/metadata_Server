@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "9e3d31f8-f726-4b81-840b-c8ba2944d711",
+  "oracle_id": "ecf808fd-4828-497e-b84b-1cb018a9924b",
+  "multiverse_ids": [
+    502712
+  ],
+  "tcgplayer_etched_id": 226140,
+  "cardmarket_id": 510015,
+  "name": "Siani, Eye of the Storm",
+  "lang": "en",
+  "released_at": "2020-11-20",
+  "uri": "https://api.scryfall.com/cards/9e3d31f8-f726-4b81-840b-c8ba2944d711",
+  "scryfall_uri": "https://scryfall.com/card/cmr/562/siani-eye-of-the-storm?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/e/9e3d31f8-f726-4b81-840b-c8ba2944d711.jpg?1612404401",
+    "normal": "https://cards.scryfall.io/normal/front/9/e/9e3d31f8-f726-4b81-840b-c8ba2944d711.jpg?1612404401",
+    "large": "https://cards.scryfall.io/large/front/9/e/9e3d31f8-f726-4b81-840b-c8ba2944d711.jpg?1612404401",
+    "png": "https://cards.scryfall.io/png/front/9/e/9e3d31f8-f726-4b81-840b-c8ba2944d711.png?1612404401",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/e/9e3d31f8-f726-4b81-840b-c8ba2944d711.jpg?1612404401",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/e/9e3d31f8-f726-4b81-840b-c8ba2944d711.jpg?1612404401"
+  },
+  "mana_cost": "{3}{U}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Djinn Monk",
+  "oracle_text": "Flying\nWhenever Siani attacks, scry X, where X is the number of attacking creatures with flying.\nPartner (You can have two commanders if both have partner.)",
+  "power": "3",
+  "toughness": "2",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Scry",
+    "Flying",
+    "Partner"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": false,
+  "finishes": [
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "39de6fbf-1f11-48d0-8f04-f0407f6a0732",
+  "set": "cmr",
+  "set_name": "Commander Legends",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/39de6fbf-1f11-48d0-8f04-f0407f6a0732",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9e3d31f8-f726-4b81-840b-c8ba2944d711/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aecf808fd-4828-497e-b84b-1cb018a9924b&unique=prints",
+  "collector_number": "562",
+  "digital": false,
+  "rarity": "uncommon",
+  "watermark": "set",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Heonhwa Choe",
+  "artist_ids": [
+    "ce415f9e-8a20-4d64-bcba-2b1b7e94012e"
+  ],
+  "illustration_id": "506bf798-cba5-49ed-bf1b-0fbd56bd3937",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted",
+    "etched",
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 13312,
+  "preview": {
+    "source": "Commander Rules Committee",
+    "source_uri": "https://mtgcommander.net/index.php/2020/10/26/commander-legends-previews/",
+    "previewed_at": "2020-10-26"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": "0.48",
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=502712&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSiani%252C%2BEye%2Bof%2Bthe%2BStorm",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSiani%252C%2BEye%2Bof%2Bthe%2BStorm",
+    "edhrec": "https://edhrec.com/route/?cc=Siani%2C+Eye+of+the+Storm"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSiani%252C%2BEye%2Bof%2Bthe%2BStorm%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=510015&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Siani%2C+Eye+of+the+Storm&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

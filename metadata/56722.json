@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "8646927c-6de3-4d16-a6ef-1b8f2a7dc10b",
+  "oracle_id": "83a47724-b8d1-4884-9442-b62aa1510dc3",
+  "multiverse_ids": [],
+  "tcgplayer_id": 627703,
+  "name": "Sinkhole Surveyor",
+  "lang": "en",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/8646927c-6de3-4d16-a6ef-1b8f2a7dc10b",
+  "scryfall_uri": "https://scryfall.com/card/ptdm/93s/sinkhole-surveyor?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/6/8646927c-6de3-4d16-a6ef-1b8f2a7dc10b.jpg?1744665944",
+    "normal": "https://cards.scryfall.io/normal/front/8/6/8646927c-6de3-4d16-a6ef-1b8f2a7dc10b.jpg?1744665944",
+    "large": "https://cards.scryfall.io/large/front/8/6/8646927c-6de3-4d16-a6ef-1b8f2a7dc10b.jpg?1744665944",
+    "png": "https://cards.scryfall.io/png/front/8/6/8646927c-6de3-4d16-a6ef-1b8f2a7dc10b.png?1744665944",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/6/8646927c-6de3-4d16-a6ef-1b8f2a7dc10b.jpg?1744665944",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/6/8646927c-6de3-4d16-a6ef-1b8f2a7dc10b.jpg?1744665944"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2,
+  "type_line": "Creature — Bird Scout",
+  "oracle_text": "Flying\nWhenever this creature attacks, you lose 1 life and this creature endures 1. (Put a +1/+1 counter on it or create a 1/1 white Spirit creature token.)",
+  "power": "1",
+  "toughness": "3",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Endure",
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "8646927c-6de3-4d16-a6ef-1b8f2a7dc10b",
+      "component": "combo_piece",
+      "name": "Sinkhole Surveyor",
+      "type_line": "Creature — Bird Scout",
+      "uri": "https://api.scryfall.com/cards/8646927c-6de3-4d16-a6ef-1b8f2a7dc10b"
+    },
+    {
+      "object": "related_card",
+      "id": "f22410b3-5c0b-4282-9b0b-5ba61229b6e7",
+      "component": "token",
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/f22410b3-5c0b-4282-9b0b-5ba61229b6e7"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "f17bfc1b-a0dc-45df-9585-84d8d433124f",
+  "set": "ptdm",
+  "set_name": "Tarkir: Dragonstorm Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/f17bfc1b-a0dc-45df-9585-84d8d433124f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aptdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ptdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8646927c-6de3-4d16-a6ef-1b8f2a7dc10b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A83a47724-b8d1-4884-9442-b62aa1510dc3&unique=prints",
+  "collector_number": "93s",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "abzan",
+  "flavor_text": "Vast sinkholes in the Shifting Wastes revealed long-buried structures—and long-buried dangers.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Warren Mahy",
+  "artist_ids": [
+    "002c739e-aa1f-4c1d-921b-37cb2d1b1c5b"
+  ],
+  "illustration_id": "39f95587-db70-4ec5-a575-d67f38359e04",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 12445,
+  "penny_rank": 767,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.22",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSinkhole%2BSurveyor",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSinkhole%2BSurveyor",
+    "edhrec": "https://edhrec.com/route/?cc=Sinkhole+Surveyor"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F627703%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sinkhole+Surveyor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sinkhole+Surveyor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

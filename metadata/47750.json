@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "70dbb5f3-0552-408c-9d02-9f9afc72fa7b",
+  "oracle_id": "6f0c6876-dcae-46e5-8c62-6929733c3525",
+  "multiverse_ids": [],
+  "tcgplayer_id": 199912,
+  "cardmarket_id": 403494,
+  "name": "Feasting Troll King",
+  "lang": "en",
+  "released_at": "2019-10-04",
+  "uri": "https://api.scryfall.com/cards/70dbb5f3-0552-408c-9d02-9f9afc72fa7b",
+  "scryfall_uri": "https://scryfall.com/card/peld/152s/feasting-troll-king?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/0/70dbb5f3-0552-408c-9d02-9f9afc72fa7b.jpg?1571850989",
+    "normal": "https://cards.scryfall.io/normal/front/7/0/70dbb5f3-0552-408c-9d02-9f9afc72fa7b.jpg?1571850989",
+    "large": "https://cards.scryfall.io/large/front/7/0/70dbb5f3-0552-408c-9d02-9f9afc72fa7b.jpg?1571850989",
+    "png": "https://cards.scryfall.io/png/front/7/0/70dbb5f3-0552-408c-9d02-9f9afc72fa7b.png?1571850989",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/0/70dbb5f3-0552-408c-9d02-9f9afc72fa7b.jpg?1571850989",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/0/70dbb5f3-0552-408c-9d02-9f9afc72fa7b.jpg?1571850989"
+  },
+  "mana_cost": "{2}{G}{G}{G}{G}",
+  "cmc": 6,
+  "type_line": "Creature — Troll Noble",
+  "oracle_text": "Vigilance, trample\nWhen this creature enters, if you cast it from your hand, create three Food tokens. (They're artifacts with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nSacrifice three Foods: Return this card from your graveyard to the battlefield. Activate only during your turn.",
+  "power": "7",
+  "toughness": "6",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Vigilance",
+    "Food",
+    "Trample"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "70dbb5f3-0552-408c-9d02-9f9afc72fa7b",
+      "component": "combo_piece",
+      "name": "Feasting Troll King",
+      "type_line": "Creature — Troll Noble",
+      "uri": "https://api.scryfall.com/cards/70dbb5f3-0552-408c-9d02-9f9afc72fa7b"
+    },
+    {
+      "object": "related_card",
+      "id": "261aed78-2d57-4ed4-b3d2-53b139b6bd44",
+      "component": "token",
+      "name": "Food",
+      "type_line": "Token Artifact — Food",
+      "uri": "https://api.scryfall.com/cards/261aed78-2d57-4ed4-b3d2-53b139b6bd44"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5f593578-5079-4988-8e88-a3df186bdc2b",
+  "set": "peld",
+  "set_name": "Throne of Eldraine Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/5f593578-5079-4988-8e88-a3df186bdc2b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apeld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/peld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/70dbb5f3-0552-408c-9d02-9f9afc72fa7b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6f0c6876-dcae-46e5-8c62-6929733c3525&unique=prints",
+  "collector_number": "152s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nicholas Gregory",
+  "artist_ids": [
+    "a1bba8ff-63b4-4786-b1c4-f1bfe5d3ab1c"
+  ],
+  "illustration_id": "10f16d25-336b-4222-a383-93bd5490f82e",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 6782,
+  "penny_rank": 4235,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.94",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "1.15",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFeasting%2BTroll%2BKing",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFeasting%2BTroll%2BKing",
+    "edhrec": "https://edhrec.com/route/?cc=Feasting+Troll+King"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F199912%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=403494&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Feasting+Troll+King&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

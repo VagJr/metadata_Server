@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "a4cc35b8-73e7-49e5-bf2c-7d28708bc540",
+  "oracle_id": "e0a95a8e-5867-481b-9e85-e2d5386362b8",
+  "multiverse_ids": [
+    588553
+  ],
+  "tcgplayer_id": 452201,
+  "name": "Glint Raker",
+  "lang": "en",
+  "released_at": "2022-11-18",
+  "uri": "https://api.scryfall.com/cards/a4cc35b8-73e7-49e5-bf2c-7d28708bc540",
+  "scryfall_uri": "https://scryfall.com/card/brc/54/glint-raker?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/4/a4cc35b8-73e7-49e5-bf2c-7d28708bc540.jpg?1686852029",
+    "normal": "https://cards.scryfall.io/normal/front/a/4/a4cc35b8-73e7-49e5-bf2c-7d28708bc540.jpg?1686852029",
+    "large": "https://cards.scryfall.io/large/front/a/4/a4cc35b8-73e7-49e5-bf2c-7d28708bc540.jpg?1686852029",
+    "png": "https://cards.scryfall.io/png/front/a/4/a4cc35b8-73e7-49e5-bf2c-7d28708bc540.png?1686852029",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/4/a4cc35b8-73e7-49e5-bf2c-7d28708bc540.jpg?1686852029",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/4/a4cc35b8-73e7-49e5-bf2c-7d28708bc540.jpg?1686852029"
+  },
+  "mana_cost": "{3}{U}",
+  "cmc": 4,
+  "type_line": "Creature — Drake",
+  "oracle_text": "Flying\nThis creature gets +X/+0, where X is the greatest mana value among artifacts you control.\nWhenever this creature deals combat damage to a player, you may reveal that many cards from the top of your library. Put an artifact card revealed this way into your hand and the rest into your graveyard.",
+  "power": "1",
+  "toughness": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "81d56780-1efc-4487-9803-43d634ca13d0",
+  "set": "brc",
+  "set_name": "The Brothers' War Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/81d56780-1efc-4487-9803-43d634ca13d0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abrc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/brc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a4cc35b8-73e7-49e5-bf2c-7d28708bc540/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae0a95a8e-5867-481b-9e85-e2d5386362b8&unique=prints",
+  "collector_number": "54",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lars Grant-West",
+  "artist_ids": [
+    "21ed6499-c4d3-4965-ab02-6c7228275bec"
+  ],
+  "illustration_id": "009325df-0ab0-4413-a74b-bf0afd3cd17f",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 15919,
+  "prices": {
+    "usd": "0.16",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=588553&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGlint%2BRaker",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGlint%2BRaker",
+    "edhrec": "https://edhrec.com/route/?cc=Glint+Raker"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F452201%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Glint+Raker&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Glint+Raker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

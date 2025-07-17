@@ -1,0 +1,149 @@
+{
+  "object": "card",
+  "id": "277bc4e5-f43a-4f1e-a7e9-11796e78fcdf",
+  "oracle_id": "194166ad-0179-42a3-86b9-ba7f322ec576",
+  "multiverse_ids": [
+    489682
+  ],
+  "mtgo_id": 82052,
+  "tcgplayer_id": 218323,
+  "cardmarket_id": 482794,
+  "name": "Blade Splicer",
+  "lang": "en",
+  "released_at": "2020-08-07",
+  "uri": "https://api.scryfall.com/cards/277bc4e5-f43a-4f1e-a7e9-11796e78fcdf",
+  "scryfall_uri": "https://scryfall.com/card/2xm/9/blade-splicer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/7/277bc4e5-f43a-4f1e-a7e9-11796e78fcdf.jpg?1599254148",
+    "normal": "https://cards.scryfall.io/normal/front/2/7/277bc4e5-f43a-4f1e-a7e9-11796e78fcdf.jpg?1599254148",
+    "large": "https://cards.scryfall.io/large/front/2/7/277bc4e5-f43a-4f1e-a7e9-11796e78fcdf.jpg?1599254148",
+    "png": "https://cards.scryfall.io/png/front/2/7/277bc4e5-f43a-4f1e-a7e9-11796e78fcdf.png?1599254148",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/7/277bc4e5-f43a-4f1e-a7e9-11796e78fcdf.jpg?1599254148",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/7/277bc4e5-f43a-4f1e-a7e9-11796e78fcdf.jpg?1599254148"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Creature — Phyrexian Human Artificer",
+  "oracle_text": "When this creature enters, create a 3/3 colorless Phyrexian Golem artifact creature token.\nGolems you control have first strike.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "277bc4e5-f43a-4f1e-a7e9-11796e78fcdf",
+      "component": "combo_piece",
+      "name": "Blade Splicer",
+      "type_line": "Creature — Phyrexian Human Artificer",
+      "uri": "https://api.scryfall.com/cards/277bc4e5-f43a-4f1e-a7e9-11796e78fcdf"
+    },
+    {
+      "object": "related_card",
+      "id": "46161339-7173-4265-9691-106be5536b2d",
+      "component": "token",
+      "name": "Phyrexian Golem",
+      "type_line": "Token Artifact Creature — Phyrexian Golem",
+      "uri": "https://api.scryfall.com/cards/46161339-7173-4265-9691-106be5536b2d"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "372dafe8-b5d1-4b81-998f-3ae96b59498a",
+  "set": "2xm",
+  "set_name": "Double Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/372dafe8-b5d1-4b81-998f-3ae96b59498a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A2xm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/2xm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/277bc4e5-f43a-4f1e-a7e9-11796e78fcdf/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A194166ad-0179-42a3-86b9-ba7f322ec576&unique=prints",
+  "collector_number": "9",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Flesh is a betrayal of the self.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Greg Staples",
+  "artist_ids": [
+    "93d65564-bf00-447b-8406-e2031f03b6b1"
+  ],
+  "illustration_id": "be143cab-614d-4e81-a285-f51c8e46c0ad",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3666,
+  "penny_rank": 1089,
+  "preview": {
+    "source": "The Third Power",
+    "source_uri": "https://www.mtgcast.com/podcasts/the-third-power/posts/the-third-power-episode-79-don-t-blink-or-you-ll-miss-our-double-masters-previews-ff3b9dc02a",
+    "previewed_at": "2020-07-21"
+  },
+  "prices": {
+    "usd": "0.41",
+    "usd_foil": "0.66",
+    "usd_etched": null,
+    "eur": "0.27",
+    "eur_foil": "0.82",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489682&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlade%2BSplicer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlade%2BSplicer",
+    "edhrec": "https://edhrec.com/route/?cc=Blade+Splicer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F218323%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=482794&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/82052?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

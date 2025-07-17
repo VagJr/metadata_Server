@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "56afe767-c967-4094-8d60-165bc7d11ab1",
+  "oracle_id": "b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6",
+  "multiverse_ids": [],
+  "tcgplayer_id": 514509,
+  "cardmarket_id": 733260,
+  "name": "Forest",
+  "lang": "en",
+  "released_at": "2023-09-15",
+  "uri": "https://api.scryfall.com/cards/56afe767-c967-4094-8d60-165bc7d11ab1",
+  "scryfall_uri": "https://scryfall.com/card/sld/1386/forest?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/6/56afe767-c967-4094-8d60-165bc7d11ab1.jpg?1694226300",
+    "normal": "https://cards.scryfall.io/normal/front/5/6/56afe767-c967-4094-8d60-165bc7d11ab1.jpg?1694226300",
+    "large": "https://cards.scryfall.io/large/front/5/6/56afe767-c967-4094-8d60-165bc7d11ab1.jpg?1694226300",
+    "png": "https://cards.scryfall.io/png/front/5/6/56afe767-c967-4094-8d60-165bc7d11ab1.png?1694226300",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/6/56afe767-c967-4094-8d60-165bc7d11ab1.jpg?1694226300",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/6/56afe767-c967-4094-8d60-165bc7d11ab1.jpg?1694226300"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Basic Land — Forest",
+  "oracle_text": "({T}: Add {G}.)",
+  "colors": [],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "G"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/56afe767-c967-4094-8d60-165bc7d11ab1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6&unique=prints",
+  "collector_number": "1386",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Gary Baseman",
+  "artist_ids": [
+    "875b1030-4335-4457-919f-5c9ae1ef6137"
+  ],
+  "illustration_id": "70f70157-c105-4026-aec8-e3e9761e7c1d",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "fullart"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": "18.24",
+    "usd_foil": "16.67",
+    "usd_etched": null,
+    "eur": "9.98",
+    "eur_foil": "11.20",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DForest",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DForest",
+    "edhrec": "https://edhrec.com/route/?cc=Forest"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F514509%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=733260&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Forest&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

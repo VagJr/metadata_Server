@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "8fa79e35-1a83-431e-bf70-71860c288210",
+  "oracle_id": "3c0be888-0d66-4bad-84f4-90c3934915d7",
+  "multiverse_ids": [
+    684247
+  ],
+  "arena_id": 93368,
+  "tcgplayer_id": 590696,
+  "cardmarket_id": 796696,
+  "name": "Falkenrath Celebrants",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/8fa79e35-1a83-431e-bf70-71860c288210",
+  "scryfall_uri": "https://scryfall.com/card/j25/542/falkenrath-celebrants?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/f/8fa79e35-1a83-431e-bf70-71860c288210.jpg?1730487661",
+    "normal": "https://cards.scryfall.io/normal/front/8/f/8fa79e35-1a83-431e-bf70-71860c288210.jpg?1730487661",
+    "large": "https://cards.scryfall.io/large/front/8/f/8fa79e35-1a83-431e-bf70-71860c288210.jpg?1730487661",
+    "png": "https://cards.scryfall.io/png/front/8/f/8fa79e35-1a83-431e-bf70-71860c288210.png?1730487661",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/f/8fa79e35-1a83-431e-bf70-71860c288210.jpg?1730487661",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/f/8fa79e35-1a83-431e-bf70-71860c288210.jpg?1730487661"
+  },
+  "mana_cost": "{4}{R}",
+  "cmc": 5,
+  "type_line": "Creature — Vampire",
+  "oracle_text": "Menace (This creature can't be blocked except by two or more creatures.)\nWhen this creature enters, create two Blood tokens. (They're artifacts with \"{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\")",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Menace"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "92a3afe7-bd9f-43f9-adc3-4819e60dc7a5",
+      "component": "token",
+      "name": "Blood",
+      "type_line": "Token Artifact — Blood",
+      "uri": "https://api.scryfall.com/cards/92a3afe7-bd9f-43f9-adc3-4819e60dc7a5"
+    },
+    {
+      "object": "related_card",
+      "id": "8fa79e35-1a83-431e-bf70-71860c288210",
+      "component": "combo_piece",
+      "name": "Falkenrath Celebrants",
+      "type_line": "Creature — Vampire",
+      "uri": "https://api.scryfall.com/cards/8fa79e35-1a83-431e-bf70-71860c288210"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9201567c-bab5-4720-aac9-260e6741f115",
+  "set": "j25",
+  "set_name": "Foundations Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/9201567c-bab5-4720-aac9-260e6741f115",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj25&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j25?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8fa79e35-1a83-431e-bf70-71860c288210/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3c0be888-0d66-4bad-84f4-90c3934915d7&unique=prints",
+  "collector_number": "542",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Anna Steinbauer",
+  "artist_ids": [
+    "3516496c-c279-4b56-8239-720683d03ae0"
+  ],
+  "illustration_id": "9f2b7ab5-05e1-4a4e-9934-e1100f4429f5",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 13931,
+  "penny_rank": 14574,
+  "prices": {
+    "usd": "0.04",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.08",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=684247&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFalkenrath%2BCelebrants",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFalkenrath%2BCelebrants",
+    "edhrec": "https://edhrec.com/route/?cc=Falkenrath+Celebrants"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F590696%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=796696&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Falkenrath+Celebrants&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

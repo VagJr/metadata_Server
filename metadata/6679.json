@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "0f4e60ea-4192-4388-8ad0-e5b3339eb872",
+  "oracle_id": "8d83d816-518c-4557-a3c4-0255f772c57a",
+  "multiverse_ids": [],
+  "tcgplayer_id": 539651,
+  "name": "Vault 21: House Gambit",
+  "lang": "en",
+  "released_at": "2024-03-08",
+  "uri": "https://api.scryfall.com/cards/0f4e60ea-4192-4388-8ad0-e5b3339eb872",
+  "scryfall_uri": "https://scryfall.com/card/pip/597/vault-21:-house-gambit?utm_source=api",
+  "layout": "saga",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/f/0f4e60ea-4192-4388-8ad0-e5b3339eb872.jpg?1708744674",
+    "normal": "https://cards.scryfall.io/normal/front/0/f/0f4e60ea-4192-4388-8ad0-e5b3339eb872.jpg?1708744674",
+    "large": "https://cards.scryfall.io/large/front/0/f/0f4e60ea-4192-4388-8ad0-e5b3339eb872.jpg?1708744674",
+    "png": "https://cards.scryfall.io/png/front/0/f/0f4e60ea-4192-4388-8ad0-e5b3339eb872.png?1708744674",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/f/0f4e60ea-4192-4388-8ad0-e5b3339eb872.jpg?1708744674",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/f/0f4e60ea-4192-4388-8ad0-e5b3339eb872.jpg?1708744674"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Enchantment — Saga",
+  "oracle_text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI, II — Discard a card, then draw a card.\nIII — Reveal up to five nonland cards from your hand. For each of those cards that has the same mana value as another card revealed this way, create a Treasure token.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Treasure"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "1d74d012-66ca-4a0c-9e90-e31e96730d4d",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/1d74d012-66ca-4a0c-9e90-e31e96730d4d"
+    },
+    {
+      "object": "related_card",
+      "id": "0f4e60ea-4192-4388-8ad0-e5b3339eb872",
+      "component": "combo_piece",
+      "name": "Vault 21: House Gambit",
+      "type_line": "Enchantment — Saga",
+      "uri": "https://api.scryfall.com/cards/0f4e60ea-4192-4388-8ad0-e5b3339eb872"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+  "set": "pip",
+  "set_name": "Fallout",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apip&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pip?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0f4e60ea-4192-4388-8ad0-e5b3339eb872/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8d83d816-518c-4557-a3c4-0255f772c57a&unique=prints",
+  "collector_number": "597",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kieran Yanner",
+  "artist_ids": [
+    "aa7e89ed-d294-4633-9057-ce04dacfcfa4"
+  ],
+  "illustration_id": "aafd838c-297b-456c-b6ca-f9f96d69f602",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "surgefoil"
+  ],
+  "edhrec_rank": 10700,
+  "prices": {
+    "usd": null,
+    "usd_foil": "5.35",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVault%2B21%253A%2BHouse%2BGambit",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVault%2B21%253A%2BHouse%2BGambit",
+    "edhrec": "https://edhrec.com/route/?cc=Vault+21%3A+House+Gambit"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F539651%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Vault+21%3A+House+Gambit&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Vault+21%3A+House+Gambit&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

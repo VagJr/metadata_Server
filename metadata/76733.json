@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "b51e0d11-e970-4535-87ac-49ae8ad594df",
+  "oracle_id": "ff3de07d-86c3-49e1-9de0-97c85301ff93",
+  "multiverse_ids": [
+    484893
+  ],
+  "mtgo_id": 80673,
+  "tcgplayer_id": 212196,
+  "cardmarket_id": 452268,
+  "name": "Parasitic Impetus",
+  "lang": "en",
+  "released_at": "2020-04-17",
+  "uri": "https://api.scryfall.com/cards/b51e0d11-e970-4535-87ac-49ae8ad594df",
+  "scryfall_uri": "https://scryfall.com/card/c20/46/parasitic-impetus?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/5/b51e0d11-e970-4535-87ac-49ae8ad594df.jpg?1591319546",
+    "normal": "https://cards.scryfall.io/normal/front/b/5/b51e0d11-e970-4535-87ac-49ae8ad594df.jpg?1591319546",
+    "large": "https://cards.scryfall.io/large/front/b/5/b51e0d11-e970-4535-87ac-49ae8ad594df.jpg?1591319546",
+    "png": "https://cards.scryfall.io/png/front/b/5/b51e0d11-e970-4535-87ac-49ae8ad594df.png?1591319546",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/5/b51e0d11-e970-4535-87ac-49ae8ad594df.jpg?1591319546",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/5/b51e0d11-e970-4535-87ac-49ae8ad594df.jpg?1591319546"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant creature\nEnchanted creature gets +2/+2 and is goaded. (It attacks each combat if able and attacks a player other than you if able.)\nWhenever enchanted creature attacks, its controller loses 2 life and you gain 2 life.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Goad",
+    "Enchant"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "f60ec786-1f8d-42f7-9abc-0d880fe243f6",
+  "set": "c20",
+  "set_name": "Commander 2020",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/f60ec786-1f8d-42f7-9abc-0d880fe243f6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac20&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/c20?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b51e0d11-e970-4535-87ac-49ae8ad594df/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aff3de07d-86c3-49e1-9de0-97c85301ff93&unique=prints",
+  "collector_number": "46",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mila Pesic",
+  "artist_ids": [
+    "81c5ec23-220b-4efa-b7df-9e49dd371e8d"
+  ],
+  "illustration_id": "9bd86646-7511-43d3-841b-a4c933955a0d",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2877,
+  "preview": {
+    "source": "r/EDH",
+    "source_uri": "https://www.reddit.com/r/EDH/comments/fvcmau/iko_parasitic_impetus_redh_preview_card_22/",
+    "previewed_at": "2020-04-05"
+  },
+  "prices": {
+    "usd": "0.12",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.18",
+    "eur_foil": null,
+    "tix": "1.64"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=484893&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DParasitic%2BImpetus",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DParasitic%2BImpetus",
+    "edhrec": "https://edhrec.com/route/?cc=Parasitic+Impetus"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F212196%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=452268&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/80673?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

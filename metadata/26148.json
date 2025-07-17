@@ -1,0 +1,180 @@
+{
+  "object": "card",
+  "id": "3dab44c3-17a1-4213-87d9-5ee0c6064d36",
+  "oracle_id": "5768fe50-a134-492c-a725-5ed02610c39f",
+  "multiverse_ids": [],
+  "mtgo_id": 95728,
+  "tcgplayer_id": 261816,
+  "cardmarket_id": 585390,
+  "name": "Mirrorhall Mimic // Ghastly Mimicry",
+  "lang": "en",
+  "released_at": "2022-01-28",
+  "uri": "https://api.scryfall.com/cards/3dab44c3-17a1-4213-87d9-5ee0c6064d36",
+  "scryfall_uri": "https://scryfall.com/card/dbl/335/mirrorhall-mimic-ghastly-mimicry?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 4,
+  "type_line": "Creature — Spirit // Enchantment — Aura",
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Transform",
+    "Enchant",
+    "Disturb"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Mirrorhall Mimic",
+      "mana_cost": "{3}{U}",
+      "type_line": "Creature — Spirit",
+      "oracle_text": "You may have this creature enter as a copy of any creature on the battlefield, except it's a Spirit in addition to its other types.\nDisturb {3}{U}{U} (You may cast this card from your graveyard transformed for its disturb cost.)",
+      "colors": [
+        "U"
+      ],
+      "power": "0",
+      "toughness": "0",
+      "artist": "Justine Cruz",
+      "artist_id": "4d6acc42-7bac-42cb-ac57-a56355292e89",
+      "illustration_id": "c234141b-1a39-4eb4-8c4e-dcf76a742e6c",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/3/d/3dab44c3-17a1-4213-87d9-5ee0c6064d36.jpg?1673161984",
+        "normal": "https://cards.scryfall.io/normal/front/3/d/3dab44c3-17a1-4213-87d9-5ee0c6064d36.jpg?1673161984",
+        "large": "https://cards.scryfall.io/large/front/3/d/3dab44c3-17a1-4213-87d9-5ee0c6064d36.jpg?1673161984",
+        "png": "https://cards.scryfall.io/png/front/3/d/3dab44c3-17a1-4213-87d9-5ee0c6064d36.png?1673161984",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/3/d/3dab44c3-17a1-4213-87d9-5ee0c6064d36.jpg?1673161984",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/3/d/3dab44c3-17a1-4213-87d9-5ee0c6064d36.jpg?1673161984"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Ghastly Mimicry",
+      "mana_cost": "",
+      "type_line": "Enchantment — Aura",
+      "oracle_text": "Enchant creature\nAt the beginning of your upkeep, create a token that's a copy of enchanted creature, except it's a Spirit in addition to its other types.\nIf Ghastly Mimicry would be put into a graveyard from anywhere, exile it instead.",
+      "colors": [
+        "U"
+      ],
+      "color_indicator": [
+        "U"
+      ],
+      "artist": "Justine Cruz",
+      "artist_id": "4d6acc42-7bac-42cb-ac57-a56355292e89",
+      "illustration_id": "e2845973-aa0b-40d7-bcb4-d74ed02c11c7",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/3/d/3dab44c3-17a1-4213-87d9-5ee0c6064d36.jpg?1673161984",
+        "normal": "https://cards.scryfall.io/normal/back/3/d/3dab44c3-17a1-4213-87d9-5ee0c6064d36.jpg?1673161984",
+        "large": "https://cards.scryfall.io/large/back/3/d/3dab44c3-17a1-4213-87d9-5ee0c6064d36.jpg?1673161984",
+        "png": "https://cards.scryfall.io/png/back/3/d/3dab44c3-17a1-4213-87d9-5ee0c6064d36.png?1673161984",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/3/d/3dab44c3-17a1-4213-87d9-5ee0c6064d36.jpg?1673161984",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/3/d/3dab44c3-17a1-4213-87d9-5ee0c6064d36.jpg?1673161984"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "3dab44c3-17a1-4213-87d9-5ee0c6064d36",
+      "component": "combo_piece",
+      "name": "Mirrorhall Mimic // Ghastly Mimicry",
+      "type_line": "Creature — Spirit // Enchantment — Aura",
+      "uri": "https://api.scryfall.com/cards/3dab44c3-17a1-4213-87d9-5ee0c6064d36"
+    },
+    {
+      "object": "related_card",
+      "id": "09d6521e-438a-4d16-992f-f2ab27b26ce4",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/09d6521e-438a-4d16-992f-f2ab27b26ce4"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set": "dbl",
+  "set_name": "Innistrad: Double Feature",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adbl&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dbl?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3dab44c3-17a1-4213-87d9-5ee0c6064d36/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5768fe50-a134-492c-a725-5ed02610c39f&unique=prints",
+  "collector_number": "335",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Justine Cruz",
+  "artist_ids": [
+    "4d6acc42-7bac-42cb-ac57-a56355292e89"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted",
+    "sunmoondfc"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3588,
+  "penny_rank": 4946,
+  "prices": {
+    "usd": "1.09",
+    "usd_foil": "3.81",
+    "usd_etched": null,
+    "eur": "1.13",
+    "eur_foil": "1.80",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMirrorhall%2BMimic%2B%252F%252F%2BGhastly%2BMimicry",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMirrorhall%2BMimic%2B%252F%252F%2BGhastly%2BMimicry",
+    "edhrec": "https://edhrec.com/route/?cc=Mirrorhall+Mimic"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F261816%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=585390&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/95728?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

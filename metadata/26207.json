@@ -1,0 +1,148 @@
+{
+  "object": "card",
+  "id": "3dccadfc-458f-4696-bfb4-4bfc80379df2",
+  "oracle_id": "ba0d3df2-3acf-46d7-8d64-8d67d1579adc",
+  "multiverse_ids": [
+    612522
+  ],
+  "mtgo_id": 111004,
+  "tcgplayer_id": 491593,
+  "cardmarket_id": 705805,
+  "name": "Curse of Opulence",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/3dccadfc-458f-4696-bfb4-4bfc80379df2",
+  "scryfall_uri": "https://scryfall.com/card/moc/274/curse-of-opulence?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/d/3dccadfc-458f-4696-bfb4-4bfc80379df2.jpg?1682209285",
+    "normal": "https://cards.scryfall.io/normal/front/3/d/3dccadfc-458f-4696-bfb4-4bfc80379df2.jpg?1682209285",
+    "large": "https://cards.scryfall.io/large/front/3/d/3dccadfc-458f-4696-bfb4-4bfc80379df2.jpg?1682209285",
+    "png": "https://cards.scryfall.io/png/front/3/d/3dccadfc-458f-4696-bfb4-4bfc80379df2.png?1682209285",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/d/3dccadfc-458f-4696-bfb4-4bfc80379df2.jpg?1682209285",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/d/3dccadfc-458f-4696-bfb4-4bfc80379df2.jpg?1682209285"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1,
+  "type_line": "Enchantment — Aura Curse",
+  "oracle_text": "Enchant player\nWhenever enchanted player is attacked, create a Gold token. Each opponent attacking that player does the same. (A Gold token is an artifact with \"Sacrifice this token: Add one mana of any color.\")",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "655005f1-b673-4591-a353-c0c10dd26036",
+      "component": "token",
+      "name": "Gold",
+      "type_line": "Token Artifact — Gold",
+      "uri": "https://api.scryfall.com/cards/655005f1-b673-4591-a353-c0c10dd26036"
+    },
+    {
+      "object": "related_card",
+      "id": "3dccadfc-458f-4696-bfb4-4bfc80379df2",
+      "component": "combo_piece",
+      "name": "Curse of Opulence",
+      "type_line": "Enchantment — Aura Curse",
+      "uri": "https://api.scryfall.com/cards/3dccadfc-458f-4696-bfb4-4bfc80379df2"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "6bba5de9-5afb-42af-a7eb-24ac854bf671",
+  "set": "moc",
+  "set_name": "March of the Machine Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/6bba5de9-5afb-42af-a7eb-24ac854bf671",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amoc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/moc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3dccadfc-458f-4696-bfb4-4bfc80379df2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aba0d3df2-3acf-46d7-8d64-8d67d1579adc&unique=prints",
+  "collector_number": "274",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Jingling coins beckon many an eager hand.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kieran Yanner",
+  "artist_ids": [
+    "aa7e89ed-d294-4633-9057-ce04dacfcfa4"
+  ],
+  "illustration_id": "04087fa8-0081-4764-9ef0-98d92ea9bd85",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 770,
+  "prices": {
+    "usd": "1.07",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "1.14",
+    "eur_foil": null,
+    "tix": "2.21"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=612522&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCurse%2Bof%2BOpulence",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCurse%2Bof%2BOpulence",
+    "edhrec": "https://edhrec.com/route/?cc=Curse+of+Opulence"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F491593%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=705805&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/111004?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

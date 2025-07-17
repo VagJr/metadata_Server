@@ -1,0 +1,231 @@
+{
+  "object": "card",
+  "id": "03a2f3c3-fbcb-4b21-8f86-232c0db80c1f",
+  "oracle_id": "97af46cb-6209-4ae7-81cc-792894999937",
+  "multiverse_ids": [],
+  "name": "Vampire",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/03a2f3c3-fbcb-4b21-8f86-232c0db80c1f",
+  "scryfall_uri": "https://scryfall.com/card/tmom/3/vampire?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/3/03a2f3c3-fbcb-4b21-8f86-232c0db80c1f.jpg?1682206986",
+    "normal": "https://cards.scryfall.io/normal/front/0/3/03a2f3c3-fbcb-4b21-8f86-232c0db80c1f.jpg?1682206986",
+    "large": "https://cards.scryfall.io/large/front/0/3/03a2f3c3-fbcb-4b21-8f86-232c0db80c1f.jpg?1682206986",
+    "png": "https://cards.scryfall.io/png/front/0/3/03a2f3c3-fbcb-4b21-8f86-232c0db80c1f.png?1682206986",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/3/03a2f3c3-fbcb-4b21-8f86-232c0db80c1f.jpg?1682206986",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/3/03a2f3c3-fbcb-4b21-8f86-232c0db80c1f.jpg?1682206986"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Vampire",
+  "oracle_text": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Lifelink"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "fdc3e998-760b-41ca-9f92-270aaa82f3fb",
+      "component": "combo_piece",
+      "name": "Mavren Fein, Dusk Apostle",
+      "type_line": "Legendary Creature — Vampire Cleric",
+      "uri": "https://api.scryfall.com/cards/fdc3e998-760b-41ca-9f92-270aaa82f3fb"
+    },
+    {
+      "object": "related_card",
+      "id": "cf31f32f-bbca-4e70-93ca-f74c20202939",
+      "component": "combo_piece",
+      "name": "Call to the Feast",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/cf31f32f-bbca-4e70-93ca-f74c20202939"
+    },
+    {
+      "object": "related_card",
+      "id": "599c934d-bfff-43ce-a545-6e3cde124515",
+      "component": "combo_piece",
+      "name": "Charismatic Conqueror",
+      "type_line": "Creature — Vampire Soldier",
+      "uri": "https://api.scryfall.com/cards/599c934d-bfff-43ce-a545-6e3cde124515"
+    },
+    {
+      "object": "related_card",
+      "id": "91de07da-564d-42f3-987d-a2321c3216bc",
+      "component": "combo_piece",
+      "name": "Squire's Devotion",
+      "type_line": "Enchantment — Aura",
+      "uri": "https://api.scryfall.com/cards/91de07da-564d-42f3-987d-a2321c3216bc"
+    },
+    {
+      "object": "related_card",
+      "id": "f06c0007-299e-4d71-99c3-f905d942759d",
+      "component": "combo_piece",
+      "name": "Queen's Commission",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/f06c0007-299e-4d71-99c3-f905d942759d"
+    },
+    {
+      "object": "related_card",
+      "id": "ae85a6fd-0376-4416-b189-ced1599944ff",
+      "component": "combo_piece",
+      "name": "Preacher of the Schism",
+      "type_line": "Creature — Vampire Cleric",
+      "uri": "https://api.scryfall.com/cards/ae85a6fd-0376-4416-b189-ced1599944ff"
+    },
+    {
+      "object": "related_card",
+      "id": "51ef5fb3-236d-4ac1-a8a5-68ee230b8909",
+      "component": "combo_piece",
+      "name": "Ghalta and Mavren",
+      "type_line": "Legendary Creature — Dinosaur Vampire",
+      "uri": "https://api.scryfall.com/cards/51ef5fb3-236d-4ac1-a8a5-68ee230b8909"
+    },
+    {
+      "object": "related_card",
+      "id": "d32e68b4-2584-4b1c-9268-642e3678bae7",
+      "component": "combo_piece",
+      "name": "Martyr of Dusk",
+      "type_line": "Creature — Vampire Soldier",
+      "uri": "https://api.scryfall.com/cards/d32e68b4-2584-4b1c-9268-642e3678bae7"
+    },
+    {
+      "object": "related_card",
+      "id": "03a2f3c3-fbcb-4b21-8f86-232c0db80c1f",
+      "component": "token",
+      "name": "Vampire",
+      "type_line": "Token Creature — Vampire",
+      "uri": "https://api.scryfall.com/cards/03a2f3c3-fbcb-4b21-8f86-232c0db80c1f"
+    },
+    {
+      "object": "related_card",
+      "id": "547581d0-025a-435a-8016-ee7c6b890e53",
+      "component": "combo_piece",
+      "name": "March of the Canonized",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/547581d0-025a-435a-8016-ee7c6b890e53"
+    },
+    {
+      "object": "related_card",
+      "id": "d12f728a-1bbb-4bee-96d4-d721292997ba",
+      "component": "combo_piece",
+      "name": "Elenda's Hierophant",
+      "type_line": "Creature — Vampire Cleric",
+      "uri": "https://api.scryfall.com/cards/d12f728a-1bbb-4bee-96d4-d721292997ba"
+    },
+    {
+      "object": "related_card",
+      "id": "ec098fee-4f80-4336-af87-d1586c9ea1e9",
+      "component": "combo_piece",
+      "name": "Elenda, the Dusk Rose",
+      "type_line": "Legendary Creature — Vampire Knight",
+      "uri": "https://api.scryfall.com/cards/ec098fee-4f80-4336-af87-d1586c9ea1e9"
+    },
+    {
+      "object": "related_card",
+      "id": "ccd69b22-dc31-4af3-b0e2-ef75e1fe0e26",
+      "component": "combo_piece",
+      "name": "Paladin of the Bloodstained",
+      "type_line": "Creature — Vampire Knight",
+      "uri": "https://api.scryfall.com/cards/ccd69b22-dc31-4af3-b0e2-ef75e1fe0e26"
+    },
+    {
+      "object": "related_card",
+      "id": "14a41e7e-9f68-4449-9e2c-4c862036bce5",
+      "component": "combo_piece",
+      "name": "Legion's Landing // Adanto, the First Fort",
+      "type_line": "Legendary Enchantment // Legendary Land",
+      "uri": "https://api.scryfall.com/cards/14a41e7e-9f68-4449-9e2c-4c862036bce5"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "2c73a39a-a359-41e7-879a-3857234f2a4b",
+  "set": "tmom",
+  "set_name": "March of the Machine Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/2c73a39a-a359-41e7-879a-3857234f2a4b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atmom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tmom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/03a2f3c3-fbcb-4b21-8f86-232c0db80c1f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A97af46cb-6209-4ae7-81cc-792894999937&unique=prints",
+  "collector_number": "3",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Edgar Sánchez Hidalgo",
+  "artist_ids": [
+    "cd897b75-a7b0-4902-8dc4-b1fda5303ec8"
+  ],
+  "illustration_id": "aeada443-df8b-4bc0-952f-20971716e3ba",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVampire",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVampire",
+    "edhrec": "https://edhrec.com/route/?cc=Vampire"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DVampire%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Vampire&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Vampire&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

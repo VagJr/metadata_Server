@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "0c7d8714-a0ef-4ae8-909b-60f3319c646c",
+  "oracle_id": "e8065e1d-e937-4b56-8011-78f0d07328a0",
+  "multiverse_ids": [
+    684277
+  ],
+  "arena_id": 93398,
+  "tcgplayer_id": 590579,
+  "cardmarket_id": 796726,
+  "name": "Krenko, Tin Street Kingpin",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/0c7d8714-a0ef-4ae8-909b-60f3319c646c",
+  "scryfall_uri": "https://scryfall.com/card/j25/572/krenko-tin-street-kingpin?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/c/0c7d8714-a0ef-4ae8-909b-60f3319c646c.jpg?1730487786",
+    "normal": "https://cards.scryfall.io/normal/front/0/c/0c7d8714-a0ef-4ae8-909b-60f3319c646c.jpg?1730487786",
+    "large": "https://cards.scryfall.io/large/front/0/c/0c7d8714-a0ef-4ae8-909b-60f3319c646c.jpg?1730487786",
+    "png": "https://cards.scryfall.io/png/front/0/c/0c7d8714-a0ef-4ae8-909b-60f3319c646c.png?1730487786",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/c/0c7d8714-a0ef-4ae8-909b-60f3319c646c.jpg?1730487786",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/c/0c7d8714-a0ef-4ae8-909b-60f3319c646c.jpg?1730487786"
+  },
+  "mana_cost": "{2}{R}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Goblin",
+  "oracle_text": "Whenever Krenko attacks, put a +1/+1 counter on it, then create a number of 1/1 red Goblin creature tokens equal to Krenko's power.",
+  "power": "1",
+  "toughness": "2",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "70f8a1de-cd4c-4afa-bf03-0245d375d42e",
+      "component": "token",
+      "name": "Goblin",
+      "type_line": "Token Creature — Goblin",
+      "uri": "https://api.scryfall.com/cards/70f8a1de-cd4c-4afa-bf03-0245d375d42e"
+    },
+    {
+      "object": "related_card",
+      "id": "0c7d8714-a0ef-4ae8-909b-60f3319c646c",
+      "component": "combo_piece",
+      "name": "Krenko, Tin Street Kingpin",
+      "type_line": "Legendary Creature — Goblin",
+      "uri": "https://api.scryfall.com/cards/0c7d8714-a0ef-4ae8-909b-60f3319c646c"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9201567c-bab5-4720-aac9-260e6741f115",
+  "set": "j25",
+  "set_name": "Foundations Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/9201567c-bab5-4720-aac9-260e6741f115",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj25&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j25?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0c7d8714-a0ef-4ae8-909b-60f3319c646c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae8065e1d-e937-4b56-8011-78f0d07328a0&unique=prints",
+  "collector_number": "572",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Save that one! She looks rich!\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Viko Menezes",
+  "artist_ids": [
+    "92dfef2a-d0fa-42fd-bdd6-bc4c9286cb56"
+  ],
+  "illustration_id": "ca605c85-6b1d-4ae4-a499-f6e4e38e4330",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 681,
+  "penny_rank": 2102,
+  "prices": {
+    "usd": "1.60",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "1.17",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=684277&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKrenko%252C%2BTin%2BStreet%2BKingpin",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKrenko%252C%2BTin%2BStreet%2BKingpin",
+    "edhrec": "https://edhrec.com/route/?cc=Krenko%2C+Tin+Street+Kingpin"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F590579%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=796726&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Krenko%2C+Tin+Street+Kingpin&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

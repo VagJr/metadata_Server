@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "26a66f9a-23c3-463c-9423-a2723067d1a9",
+  "oracle_id": "d4fdacd7-3101-44e2-a880-dde7326137a4",
+  "multiverse_ids": [],
+  "mtgo_id": 95327,
+  "name": "Headless Rider",
+  "lang": "en",
+  "released_at": "2025-02-24",
+  "uri": "https://api.scryfall.com/cards/26a66f9a-23c3-463c-9423-a2723067d1a9",
+  "scryfall_uri": "https://scryfall.com/card/prm/95327/headless-rider?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/6/26a66f9a-23c3-463c-9423-a2723067d1a9.jpg?1681083980",
+    "normal": "https://cards.scryfall.io/normal/front/2/6/26a66f9a-23c3-463c-9423-a2723067d1a9.jpg?1681083980",
+    "large": "https://cards.scryfall.io/large/front/2/6/26a66f9a-23c3-463c-9423-a2723067d1a9.jpg?1681083980",
+    "png": "https://cards.scryfall.io/png/front/2/6/26a66f9a-23c3-463c-9423-a2723067d1a9.png?1681083980",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/6/26a66f9a-23c3-463c-9423-a2723067d1a9.jpg?1681083980",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/6/26a66f9a-23c3-463c-9423-a2723067d1a9.jpg?1681083980"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3,
+  "type_line": "Creature — Zombie",
+  "oracle_text": "Whenever this creature or another nontoken Zombie you control dies, create a 2/2 black Zombie creature token.",
+  "power": "3",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "26a66f9a-23c3-463c-9423-a2723067d1a9",
+      "component": "combo_piece",
+      "name": "Headless Rider",
+      "type_line": "Creature — Zombie",
+      "uri": "https://api.scryfall.com/cards/26a66f9a-23c3-463c-9423-a2723067d1a9"
+    },
+    {
+      "object": "related_card",
+      "id": "4cecd5c6-d6c8-4cd5-97a3-cddaf051af15",
+      "component": "token",
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "uri": "https://api.scryfall.com/cards/4cecd5c6-d6c8-4cd5-97a3-cddaf051af15"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/26a66f9a-23c3-463c-9423-a2723067d1a9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad4fdacd7-3101-44e2-a880-dde7326137a4&unique=prints",
+  "collector_number": "95327",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "E. M. Gist",
+  "artist_ids": [
+    "7a9aaa63-73ae-492c-948e-7531415fdf31"
+  ],
+  "illustration_id": "adeb5352-3132-4ed4-bc5a-10c713128621",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2516,
+  "penny_rank": 5733,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.23"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHeadless%2BRider",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHeadless%2BRider",
+    "edhrec": "https://edhrec.com/route/?cc=Headless+Rider"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DHeadless%2BRider%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Headless+Rider&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/95327?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

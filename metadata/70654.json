@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "a6c1c529-1bac-4c6d-9c6d-5013b5cc002c",
+  "oracle_id": "da785227-cf8a-4d44-9e7c-fc909ea868f2",
+  "multiverse_ids": [],
+  "tcgplayer_id": 583177,
+  "name": "Prosperous Innkeeper",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/a6c1c529-1bac-4c6d-9c6d-5013b5cc002c",
+  "scryfall_uri": "https://scryfall.com/card/plst/AFR-200/prosperous-innkeeper?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/6/a6c1c529-1bac-4c6d-9c6d-5013b5cc002c.jpg?1723433458",
+    "normal": "https://cards.scryfall.io/normal/front/a/6/a6c1c529-1bac-4c6d-9c6d-5013b5cc002c.jpg?1723433458",
+    "large": "https://cards.scryfall.io/large/front/a/6/a6c1c529-1bac-4c6d-9c6d-5013b5cc002c.jpg?1723433458",
+    "png": "https://cards.scryfall.io/png/front/a/6/a6c1c529-1bac-4c6d-9c6d-5013b5cc002c.png?1723433458",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/6/a6c1c529-1bac-4c6d-9c6d-5013b5cc002c.jpg?1723433458",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/6/a6c1c529-1bac-4c6d-9c6d-5013b5cc002c.jpg?1723433458"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2,
+  "type_line": "Creature — Halfling Citizen",
+  "oracle_text": "When this creature enters, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nWhenever another creature you control enters, you gain 1 life.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Treasure"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "b7644ff8-d3fb-4d67-b9f8-07ed2259b8a9",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/b7644ff8-d3fb-4d67-b9f8-07ed2259b8a9"
+    },
+    {
+      "object": "related_card",
+      "id": "a6c1c529-1bac-4c6d-9c6d-5013b5cc002c",
+      "component": "combo_piece",
+      "name": "Prosperous Innkeeper",
+      "type_line": "Creature — Halfling Citizen",
+      "uri": "https://api.scryfall.com/cards/a6c1c529-1bac-4c6d-9c6d-5013b5cc002c"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a6c1c529-1bac-4c6d-9c6d-5013b5cc002c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ada785227-cf8a-4d44-9e7c-fc909ea868f2&unique=prints",
+  "collector_number": "AFR-200",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Eric Deschamps",
+  "artist_ids": [
+    "37970e22-9cee-44c1-af44-5ee27cf26b76"
+  ],
+  "illustration_id": "f3179dc9-60fa-46c7-9ea7-e223a374c6af",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1378,
+  "penny_rank": 2029,
+  "prices": {
+    "usd": "0.13",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DProsperous%2BInnkeeper",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DProsperous%2BInnkeeper",
+    "edhrec": "https://edhrec.com/route/?cc=Prosperous+Innkeeper"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F583177%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Prosperous+Innkeeper&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Prosperous+Innkeeper&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

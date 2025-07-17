@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "e77374ac-3456-48a3-a412-4474547d437c",
+  "oracle_id": "69924636-138e-4baa-a378-0fd7df5b847d",
+  "multiverse_ids": [
+    670533
+  ],
+  "mtgo_id": 129073,
+  "tcgplayer_id": 558326,
+  "cardmarket_id": 778074,
+  "name": "Finneas, Ace Archer",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/e77374ac-3456-48a3-a412-4474547d437c",
+  "scryfall_uri": "https://scryfall.com/card/blb/330/finneas-ace-archer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/7/e77374ac-3456-48a3-a412-4474547d437c.jpg?1721427770",
+    "normal": "https://cards.scryfall.io/normal/front/e/7/e77374ac-3456-48a3-a412-4474547d437c.jpg?1721427770",
+    "large": "https://cards.scryfall.io/large/front/e/7/e77374ac-3456-48a3-a412-4474547d437c.jpg?1721427770",
+    "png": "https://cards.scryfall.io/png/front/e/7/e77374ac-3456-48a3-a412-4474547d437c.png?1721427770",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/7/e77374ac-3456-48a3-a412-4474547d437c.jpg?1721427770",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/7/e77374ac-3456-48a3-a412-4474547d437c.jpg?1721427770"
+  },
+  "mana_cost": "{G}{W}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Rabbit Archer",
+  "oracle_text": "Vigilance, reach\nWhenever Finneas attacks, put a +1/+1 counter on each other creature you control that's a token or a Rabbit. Then if creatures you control have total power 10 or greater, draw a card.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [
+    "Reach",
+    "Vigilance"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a2f58272-bba6-439d-871e-7a46686ac018",
+  "set": "blb",
+  "set_name": "Bloomburrow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/a2f58272-bba6-439d-871e-7a46686ac018",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/blb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e77374ac-3456-48a3-a412-4474547d437c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A69924636-138e-4baa-a378-0fd7df5b847d&unique=prints",
+  "collector_number": "330",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Yeah. I'm that good.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Cory Godbey",
+  "artist_ids": [
+    "a1c815ce-ffac-4fd6-93fd-7fd5a317cd17"
+  ],
+  "illustration_id": "1797e021-7372-472c-8d44-a29559479cf5",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 5475,
+  "penny_rank": 6016,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/products/bloomburrow/card-image-gallery",
+    "previewed_at": "2024-07-09"
+  },
+  "prices": {
+    "usd": "0.56",
+    "usd_foil": "0.84",
+    "usd_etched": null,
+    "eur": "0.53",
+    "eur_foil": "1.15",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=670533&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFinneas%252C%2BAce%2BArcher",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFinneas%252C%2BAce%2BArcher",
+    "edhrec": "https://edhrec.com/route/?cc=Finneas%2C+Ace+Archer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F558326%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=778074&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/129073?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

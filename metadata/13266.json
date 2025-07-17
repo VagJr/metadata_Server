@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "1f2b1975-183b-4989-aa1f-a653ec732abf",
+  "oracle_id": "1efe485e-6874-4f4c-b981-e10f41670865",
+  "multiverse_ids": [],
+  "tcgplayer_id": 189033,
+  "cardmarket_id": 372765,
+  "name": "Kiora, Behemoth Beckoner",
+  "printed_name": "ビヒモスを招く者、キオーラ",
+  "lang": "ja",
+  "released_at": "2019-05-03",
+  "uri": "https://api.scryfall.com/cards/1f2b1975-183b-4989-aa1f-a653ec732abf",
+  "scryfall_uri": "https://scryfall.com/card/war/232%E2%98%85/ja/%E3%83%93%E3%83%92%E3%83%A2%E3%82%B9%E3%82%92%E6%8B%9B%E3%81%8F%E8%80%85%E3%80%81%E3%82%AD%E3%82%AA%E3%83%BC%E3%83%A9-(kiora-behemoth-beckoner)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/f/1f2b1975-183b-4989-aa1f-a653ec732abf.jpg?1580443805",
+    "normal": "https://cards.scryfall.io/normal/front/1/f/1f2b1975-183b-4989-aa1f-a653ec732abf.jpg?1580443805",
+    "large": "https://cards.scryfall.io/large/front/1/f/1f2b1975-183b-4989-aa1f-a653ec732abf.jpg?1580443805",
+    "png": "https://cards.scryfall.io/png/front/1/f/1f2b1975-183b-4989-aa1f-a653ec732abf.png?1580443805",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/f/1f2b1975-183b-4989-aa1f-a653ec732abf.jpg?1580443805",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/f/1f2b1975-183b-4989-aa1f-a653ec732abf.jpg?1580443805"
+  },
+  "mana_cost": "{2}{G/U}",
+  "cmc": 3,
+  "type_line": "Legendary Planeswalker — Kiora",
+  "printed_type_line": "伝説のプレインズウォーカー — キオーラ",
+  "oracle_text": "Whenever a creature you control with power 4 or greater enters, draw a card.\n−1: Untap target permanent.",
+  "printed_text": "パワーが４以上のクリーチャーが１体あなたのコントロール下で戦場に出るたび、カードを１枚引く。\n-1：パーマネント１つを対象とし、それをアンタップする。",
+  "loyalty": "7",
+  "colors": [
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "ee044f0b-e101-4ead-8d0e-aa510aad4277",
+  "set": "war",
+  "set_name": "War of the Spark",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/ee044f0b-e101-4ead-8d0e-aa510aad4277",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awar&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/war?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1f2b1975-183b-4989-aa1f-a653ec732abf/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1efe485e-6874-4f4c-b981-e10f41670865&unique=prints",
+  "collector_number": "232★",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Yamamoto Akifumi",
+  "artist_ids": [
+    "c70237b1-3803-4196-b3c4-eeb9d4faee24"
+  ],
+  "illustration_id": "7061f0dd-769a-4be8-80f3-288ec0e841f2",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "jpwalker"
+  ],
+  "edhrec_rank": 2156,
+  "penny_rank": 1554,
+  "prices": {
+    "usd": "1.43",
+    "usd_foil": "18.36",
+    "usd_etched": null,
+    "eur": "1.65",
+    "eur_foil": "10.06",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKiora%252C%2BBehemoth%2BBeckoner",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKiora%252C%2BBehemoth%2BBeckoner",
+    "edhrec": "https://edhrec.com/route/?cc=Kiora%2C+Behemoth+Beckoner"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F189033%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=372765&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kiora%2C+Behemoth+Beckoner&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

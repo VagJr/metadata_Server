@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "836e8a5c-7345-4680-817d-750d742dca35",
+  "oracle_id": "6257c2fd-005f-41e3-8a72-af76df1eb134",
+  "multiverse_ids": [],
+  "mtgo_id": 102291,
+  "name": "Terminate",
+  "lang": "en",
+  "released_at": "2022-09-26",
+  "uri": "https://api.scryfall.com/cards/836e8a5c-7345-4680-817d-750d742dca35",
+  "scryfall_uri": "https://scryfall.com/card/prm/102291/terminate?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/3/836e8a5c-7345-4680-817d-750d742dca35.jpg?1681136688",
+    "normal": "https://cards.scryfall.io/normal/front/8/3/836e8a5c-7345-4680-817d-750d742dca35.jpg?1681136688",
+    "large": "https://cards.scryfall.io/large/front/8/3/836e8a5c-7345-4680-817d-750d742dca35.jpg?1681136688",
+    "png": "https://cards.scryfall.io/png/front/8/3/836e8a5c-7345-4680-817d-750d742dca35.png?1681136688",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/3/836e8a5c-7345-4680-817d-750d742dca35.jpg?1681136688",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/3/836e8a5c-7345-4680-817d-750d742dca35.jpg?1681136688"
+  },
+  "mana_cost": "{B}{R}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Destroy target creature. It can't be regenerated.",
+  "colors": [
+    "B",
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/836e8a5c-7345-4680-817d-750d742dca35/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6257c2fd-005f-41e3-8a72-af76df1eb134&unique=prints",
+  "collector_number": "102291",
+  "digital": true,
+  "rarity": "uncommon",
+  "flavor_text": "\". . . some sort of giant lizard-bat thing. Yeah, we shot it. No, nothing to clean up.\"\n—Archelle, chief exterminator",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Paolo Parente",
+  "artist_ids": [
+    "d48dd097-720d-476a-8722-6a02854ae28b"
+  ],
+  "illustration_id": "92c9255a-0ae6-4354-9b10-d93236e2f798",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 232,
+  "penny_rank": 236,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.53"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTerminate",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTerminate",
+    "edhrec": "https://edhrec.com/route/?cc=Terminate"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DTerminate%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Terminate&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/102291?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

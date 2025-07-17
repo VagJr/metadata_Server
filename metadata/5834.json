@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "0d5e4d9a-34e1-46eb-814b-8e3bd4475b8a",
+  "oracle_id": "9b0b8f00-6367-4dc9-b33e-680470b3a36c",
+  "multiverse_ids": [
+    443061
+  ],
+  "mtgo_id": 67811,
+  "arena_id": 67450,
+  "tcgplayer_id": 164706,
+  "cardmarket_id": 355351,
+  "name": "The Mending of Dominaria",
+  "lang": "en",
+  "released_at": "2018-04-27",
+  "uri": "https://api.scryfall.com/cards/0d5e4d9a-34e1-46eb-814b-8e3bd4475b8a",
+  "scryfall_uri": "https://scryfall.com/card/dom/173/the-mending-of-dominaria?utm_source=api",
+  "layout": "saga",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/d/0d5e4d9a-34e1-46eb-814b-8e3bd4475b8a.jpg?1562731319",
+    "normal": "https://cards.scryfall.io/normal/front/0/d/0d5e4d9a-34e1-46eb-814b-8e3bd4475b8a.jpg?1562731319",
+    "large": "https://cards.scryfall.io/large/front/0/d/0d5e4d9a-34e1-46eb-814b-8e3bd4475b8a.jpg?1562731319",
+    "png": "https://cards.scryfall.io/png/front/0/d/0d5e4d9a-34e1-46eb-814b-8e3bd4475b8a.png?1562731319",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/d/0d5e4d9a-34e1-46eb-814b-8e3bd4475b8a.jpg?1562731319",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/d/0d5e4d9a-34e1-46eb-814b-8e3bd4475b8a.jpg?1562731319"
+  },
+  "mana_cost": "{3}{G}{G}",
+  "cmc": 5,
+  "type_line": "Enchantment — Saga",
+  "oracle_text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI, II — Mill two cards, then you may return a creature card from your graveyard to your hand.\nIII — Return all land cards from your graveyard to the battlefield, then shuffle your graveyard into your library.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "be1daba3-51c9-4e7e-9212-36e68addc26c",
+  "set": "dom",
+  "set_name": "Dominaria",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/be1daba3-51c9-4e7e-9212-36e68addc26c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0d5e4d9a-34e1-46eb-814b-8e3bd4475b8a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9b0b8f00-6367-4dc9-b33e-680470b3a36c&unique=prints",
+  "collector_number": "173",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Adam Paquette",
+  "artist_ids": [
+    "89023dad-e6c0-41e0-83fb-eb2bfbbdc3f2"
+  ],
+  "illustration_id": "70231c4f-8b51-4ae3-8858-62849c4bc996",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2301,
+  "penny_rank": 3253,
+  "prices": {
+    "usd": "0.26",
+    "usd_foil": "1.71",
+    "usd_etched": null,
+    "eur": "0.20",
+    "eur_foil": "0.88",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443061&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThe%2BMending%2Bof%2BDominaria",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThe%2BMending%2Bof%2BDominaria",
+    "edhrec": "https://edhrec.com/route/?cc=The+Mending+of+Dominaria"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F164706%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=355351&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/67811?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

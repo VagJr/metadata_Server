@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "7cc10c19-6ea0-4491-b118-5c5cb9f7b036",
+  "oracle_id": "ddc7f59a-bbb1-4ba1-82c8-6813fd191940",
+  "multiverse_ids": [
+    605843
+  ],
+  "mtgo_id": 106997,
+  "tcgplayer_id": 478478,
+  "cardmarket_id": 693326,
+  "name": "Siege-Gang Commander",
+  "lang": "en",
+  "released_at": "2023-02-03",
+  "uri": "https://api.scryfall.com/cards/7cc10c19-6ea0-4491-b118-5c5cb9f7b036",
+  "scryfall_uri": "https://scryfall.com/card/onc/103/siege-gang-commander?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/c/7cc10c19-6ea0-4491-b118-5c5cb9f7b036.jpg?1675905737",
+    "normal": "https://cards.scryfall.io/normal/front/7/c/7cc10c19-6ea0-4491-b118-5c5cb9f7b036.jpg?1675905737",
+    "large": "https://cards.scryfall.io/large/front/7/c/7cc10c19-6ea0-4491-b118-5c5cb9f7b036.jpg?1675905737",
+    "png": "https://cards.scryfall.io/png/front/7/c/7cc10c19-6ea0-4491-b118-5c5cb9f7b036.png?1675905737",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/c/7cc10c19-6ea0-4491-b118-5c5cb9f7b036.jpg?1675905737",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/c/7cc10c19-6ea0-4491-b118-5c5cb9f7b036.jpg?1675905737"
+  },
+  "mana_cost": "{3}{R}{R}",
+  "cmc": 5,
+  "type_line": "Creature — Goblin",
+  "oracle_text": "When this creature enters, create three 1/1 red Goblin creature tokens.\n{1}{R}, Sacrifice a Goblin: This creature deals 2 damage to any target.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "51782bd0-178e-40e2-9c4f-8ea4e8e11345",
+      "component": "token",
+      "name": "Goblin",
+      "type_line": "Token Creature — Goblin",
+      "uri": "https://api.scryfall.com/cards/51782bd0-178e-40e2-9c4f-8ea4e8e11345"
+    },
+    {
+      "object": "related_card",
+      "id": "7cc10c19-6ea0-4491-b118-5c5cb9f7b036",
+      "component": "combo_piece",
+      "name": "Siege-Gang Commander",
+      "type_line": "Creature — Goblin",
+      "uri": "https://api.scryfall.com/cards/7cc10c19-6ea0-4491-b118-5c5cb9f7b036"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8c5e86d4-ae2d-42f7-a0e5-0e4141eb953d",
+  "set": "onc",
+  "set_name": "Phyrexia: All Will Be One Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/8c5e86d4-ae2d-42f7-a0e5-0e4141eb953d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aonc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/onc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7cc10c19-6ea0-4491-b118-5c5cb9f7b036/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Addc7f59a-bbb1-4ba1-82c8-6813fd191940&unique=prints",
+  "collector_number": "103",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Ready . . . uh . . . fire!\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Aaron Miller",
+  "artist_ids": [
+    "fc021f3d-773a-4706-bbe7-f602324f511f"
+  ],
+  "illustration_id": "f9c939e1-e101-4a98-9d9b-630f75e42113",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1429,
+  "penny_rank": 2124,
+  "prices": {
+    "usd": "0.15",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.17",
+    "eur_foil": null,
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=605843&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSiege-Gang%2BCommander",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSiege-Gang%2BCommander",
+    "edhrec": "https://edhrec.com/route/?cc=Siege-Gang+Commander"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F478478%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=693326&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106997?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

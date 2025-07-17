@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "ceffd13b-8039-44ed-bd7f-68d46476dbe7",
+  "oracle_id": "b2b78623-5a10-4ef7-b983-3d82478269c3",
+  "multiverse_ids": [],
+  "arena_id": 73679,
+  "tcgplayer_id": 212024,
+  "cardmarket_id": 451118,
+  "name": "Snapdax, Apex of the Hunt",
+  "lang": "en",
+  "released_at": "2020-04-24",
+  "uri": "https://api.scryfall.com/cards/ceffd13b-8039-44ed-bd7f-68d46476dbe7",
+  "scryfall_uri": "https://scryfall.com/card/iko/306/snapdax-apex-of-the-hunt?utm_source=api",
+  "layout": "mutate",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/e/ceffd13b-8039-44ed-bd7f-68d46476dbe7.jpg?1681916181",
+    "normal": "https://cards.scryfall.io/normal/front/c/e/ceffd13b-8039-44ed-bd7f-68d46476dbe7.jpg?1681916181",
+    "large": "https://cards.scryfall.io/large/front/c/e/ceffd13b-8039-44ed-bd7f-68d46476dbe7.jpg?1681916181",
+    "png": "https://cards.scryfall.io/png/front/c/e/ceffd13b-8039-44ed-bd7f-68d46476dbe7.png?1681916181",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/e/ceffd13b-8039-44ed-bd7f-68d46476dbe7.jpg?1681916181",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/e/ceffd13b-8039-44ed-bd7f-68d46476dbe7.jpg?1681916181"
+  },
+  "mana_cost": "{1}{R}{W}{B}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Dinosaur Cat Nightmare",
+  "oracle_text": "Mutate {2}{B/R}{W}{W} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)\nDouble strike\nWhenever this creature mutates, it deals 4 damage to target creature or planeswalker an opponent controls and you gain 4 life.",
+  "power": "3",
+  "toughness": "5",
+  "colors": [
+    "B",
+    "R",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "R",
+    "W"
+  ],
+  "keywords": [
+    "Mutate",
+    "Double strike"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "19feda43-15ab-427e-a0e4-148a4bf2b03a",
+  "set": "iko",
+  "set_name": "Ikoria: Lair of Behemoths",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/19feda43-15ab-427e-a0e4-148a4bf2b03a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aiko&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/iko?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ceffd13b-8039-44ed-bd7f-68d46476dbe7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab2b78623-5a10-4ef7-b983-3d82478269c3&unique=prints",
+  "collector_number": "306",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Andrew Huerta",
+  "artist_ids": [
+    "7f2021cf-4718-404f-8b49-4658b16874fe"
+  ],
+  "illustration_id": "1adb1159-752d-4f7c-86fa-1f2e89d53c4b",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 11956,
+  "penny_rank": 10638,
+  "preview": {
+    "source": "GameSpot",
+    "source_uri": "https://www.gamespot.com/articles/magic-the-gathering-check-out-new-ikoria-lair-of-b/1100-6475447/",
+    "previewed_at": "2020-04-02"
+  },
+  "prices": {
+    "usd": "0.50",
+    "usd_foil": "2.77",
+    "usd_etched": null,
+    "eur": "1.02",
+    "eur_foil": "2.97",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSnapdax%252C%2BApex%2Bof%2Bthe%2BHunt",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSnapdax%252C%2BApex%2Bof%2Bthe%2BHunt",
+    "edhrec": "https://edhrec.com/route/?cc=Snapdax%2C+Apex+of+the+Hunt"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F212024%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=451118&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Snapdax%2C+Apex+of+the+Hunt&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "84d6badc-cd73-442a-9ff2-0702eed841f2",
+  "oracle_id": "eafd7ba5-691d-4f8d-94bb-70a5612245a1",
+  "multiverse_ids": [],
+  "tcgplayer_id": 481658,
+  "name": "Venerated Rotpriest",
+  "lang": "en",
+  "released_at": "2023-02-03",
+  "uri": "https://api.scryfall.com/cards/84d6badc-cd73-442a-9ff2-0702eed841f2",
+  "scryfall_uri": "https://scryfall.com/card/pone/192p/venerated-rotpriest?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/4/84d6badc-cd73-442a-9ff2-0702eed841f2.jpg?1675700382",
+    "normal": "https://cards.scryfall.io/normal/front/8/4/84d6badc-cd73-442a-9ff2-0702eed841f2.jpg?1675700382",
+    "large": "https://cards.scryfall.io/large/front/8/4/84d6badc-cd73-442a-9ff2-0702eed841f2.jpg?1675700382",
+    "png": "https://cards.scryfall.io/png/front/8/4/84d6badc-cd73-442a-9ff2-0702eed841f2.png?1675700382",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/4/84d6badc-cd73-442a-9ff2-0702eed841f2.jpg?1675700382",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/4/84d6badc-cd73-442a-9ff2-0702eed841f2.jpg?1675700382"
+  },
+  "mana_cost": "{G}",
+  "cmc": 1,
+  "type_line": "Creature — Phyrexian Druid",
+  "oracle_text": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhenever a creature you control becomes the target of a spell, target opponent gets a poison counter.",
+  "power": "1",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Toxic"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "40255bfa-0004-45f1-a31b-17d385f09a95",
+      "component": "combo_piece",
+      "name": "Poison Counter",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/40255bfa-0004-45f1-a31b-17d385f09a95"
+    },
+    {
+      "object": "related_card",
+      "id": "dfb09439-1935-424b-b95d-919a0d37bc3d",
+      "component": "combo_piece",
+      "name": "Venerated Rotpriest",
+      "type_line": "Creature — Phyrexian Druid",
+      "uri": "https://api.scryfall.com/cards/dfb09439-1935-424b-b95d-919a0d37bc3d"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a43681f0-e7f5-415b-bf1f-f9e52ad8213c",
+  "set": "pone",
+  "set_name": "Phyrexia: All Will Be One Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/a43681f0-e7f5-415b-bf1f-f9e52ad8213c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pone?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/84d6badc-cd73-442a-9ff2-0702eed841f2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aeafd7ba5-691d-4f8d-94bb-70a5612245a1&unique=prints",
+  "collector_number": "192p",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"This was once a peaceful spring, but I wouldn't advise taking a sip.\"\n—Melira",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Brian Valeza",
+  "artist_ids": [
+    "bb2a9339-bbe4-445f-9736-3c43379ee076"
+  ],
+  "illustration_id": "31d87430-c69a-41dd-8185-7520ee81ca2d",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 2413,
+  "prices": {
+    "usd": "1.62",
+    "usd_foil": "1.84",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVenerated%2BRotpriest",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVenerated%2BRotpriest",
+    "edhrec": "https://edhrec.com/route/?cc=Venerated+Rotpriest"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F481658%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Venerated+Rotpriest&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Venerated+Rotpriest&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

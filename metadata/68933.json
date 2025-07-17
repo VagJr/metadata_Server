@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "a2e5e26d-f211-4c0f-8fe0-611e22e8cc8f",
+  "oracle_id": "7358e164-5704-4e78-9b21-6a9bf2a968ce",
+  "multiverse_ids": [
+    622592
+  ],
+  "mtgo_id": 111836,
+  "tcgplayer_id": 499316,
+  "cardmarket_id": 717924,
+  "name": "Cabal Coffers",
+  "flavor_name": "Minas Morgul",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/a2e5e26d-f211-4c0f-8fe0-611e22e8cc8f",
+  "scryfall_uri": "https://scryfall.com/card/ltc/360/cabal-coffers?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/2/a2e5e26d-f211-4c0f-8fe0-611e22e8cc8f.jpg?1686967112",
+    "normal": "https://cards.scryfall.io/normal/front/a/2/a2e5e26d-f211-4c0f-8fe0-611e22e8cc8f.jpg?1686967112",
+    "large": "https://cards.scryfall.io/large/front/a/2/a2e5e26d-f211-4c0f-8fe0-611e22e8cc8f.jpg?1686967112",
+    "png": "https://cards.scryfall.io/png/front/a/2/a2e5e26d-f211-4c0f-8fe0-611e22e8cc8f.png?1686967112",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/2/a2e5e26d-f211-4c0f-8fe0-611e22e8cc8f.jpg?1686967112",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/2/a2e5e26d-f211-4c0f-8fe0-611e22e8cc8f.jpg?1686967112"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "{2}, {T}: Add {B} for each Swamp you control.",
+  "colors": [],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set": "ltc",
+  "set_name": "Tales of Middle-earth Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a2e5e26d-f211-4c0f-8fe0-611e22e8cc8f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7358e164-5704-4e78-9b21-6a9bf2a968ce&unique=prints",
+  "collector_number": "360",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "\"Evil things came forth, and they took Minas Ithil and abode in it, and they made it into a place of dread; it is now called Minas Morgul, the Tower of Sorcery.\"\n—Elrond",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Sean Vo",
+  "artist_ids": [
+    "a6fe588c-5328-4703-8f61-4c6d0e56592d"
+  ],
+  "illustration_id": "2ec2d097-d153-446a-bb79-54c74e6b945e",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "triangle",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 179,
+  "prices": {
+    "usd": "39.09",
+    "usd_foil": "40.92",
+    "usd_etched": null,
+    "eur": "26.87",
+    "eur_foil": "34.43",
+    "tix": "2.79"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=622592&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCabal%2BCoffers",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCabal%2BCoffers",
+    "edhrec": "https://edhrec.com/route/?cc=Cabal+Coffers"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F499316%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=717924&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/111836?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

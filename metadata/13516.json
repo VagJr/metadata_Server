@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "1fc3c5f3-f71b-4a1e-bd90-365d23889925",
+  "oracle_id": "99642419-ab24-4770-9f1c-84d2806441b5",
+  "multiverse_ids": [
+    44623
+  ],
+  "mtgo_id": 18589,
+  "mtgo_foil_id": 18590,
+  "tcgplayer_id": 10783,
+  "cardmarket_id": 2084,
+  "name": "Imperial Hellkite",
+  "lang": "en",
+  "released_at": "2003-02-03",
+  "uri": "https://api.scryfall.com/cards/1fc3c5f3-f71b-4a1e-bd90-365d23889925",
+  "scryfall_uri": "https://scryfall.com/card/lgn/103/imperial-hellkite?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/f/1fc3c5f3-f71b-4a1e-bd90-365d23889925.jpg?1562901333",
+    "normal": "https://cards.scryfall.io/normal/front/1/f/1fc3c5f3-f71b-4a1e-bd90-365d23889925.jpg?1562901333",
+    "large": "https://cards.scryfall.io/large/front/1/f/1fc3c5f3-f71b-4a1e-bd90-365d23889925.jpg?1562901333",
+    "png": "https://cards.scryfall.io/png/front/1/f/1fc3c5f3-f71b-4a1e-bd90-365d23889925.png?1562901333",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/f/1fc3c5f3-f71b-4a1e-bd90-365d23889925.jpg?1562901333",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/f/1fc3c5f3-f71b-4a1e-bd90-365d23889925.jpg?1562901333"
+  },
+  "mana_cost": "{5}{R}{R}",
+  "cmc": 7,
+  "type_line": "Creature — Dragon",
+  "oracle_text": "Flying\nMorph {6}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen this creature is turned face up, you may search your library for a Dragon card, reveal it, put it into your hand, then shuffle.",
+  "power": "6",
+  "toughness": "6",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flying",
+    "Morph"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "5430da88-b72e-4d64-bd3c-b21062cac1c2",
+      "component": "combo_piece",
+      "name": "Morph",
+      "type_line": "Creature",
+      "uri": "https://api.scryfall.com/cards/5430da88-b72e-4d64-bd3c-b21062cac1c2"
+    },
+    {
+      "object": "related_card",
+      "id": "1fc3c5f3-f71b-4a1e-bd90-365d23889925",
+      "component": "combo_piece",
+      "name": "Imperial Hellkite",
+      "type_line": "Creature — Dragon",
+      "uri": "https://api.scryfall.com/cards/1fc3c5f3-f71b-4a1e-bd90-365d23889925"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c2d60a18-1a81-4784-8e0c-e1de2f43c5cf",
+  "set": "lgn",
+  "set_name": "Legions",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c2d60a18-1a81-4784-8e0c-e1de2f43c5cf",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Algn&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/lgn?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1fc3c5f3-f71b-4a1e-bd90-365d23889925/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A99642419-ab24-4770-9f1c-84d2806441b5&unique=prints",
+  "collector_number": "103",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Matt Cavotta",
+  "artist_ids": [
+    "2e6a0611-9411-4ba4-98e3-c0e18cbf9f83"
+  ],
+  "illustration_id": "b427d76a-a4a9-4b7c-bc5c-ac10e0e0fd3b",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 15730,
+  "penny_rank": 14736,
+  "prices": {
+    "usd": "0.37",
+    "usd_foil": "5.55",
+    "usd_etched": null,
+    "eur": "0.35",
+    "eur_foil": "7.71",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44623&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DImperial%2BHellkite",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DImperial%2BHellkite",
+    "edhrec": "https://edhrec.com/route/?cc=Imperial+Hellkite"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F10783%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=2084&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/18589?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

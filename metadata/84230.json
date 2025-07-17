@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "c6e664bc-7088-43ec-816f-449c37a81b44",
+  "oracle_id": "3afdc98e-aeeb-43e9-bdcd-0c51da44d2f8",
+  "multiverse_ids": [],
+  "tcgplayer_id": 454019,
+  "name": "Autonomous Assembler",
+  "lang": "en",
+  "released_at": "2022-11-18",
+  "uri": "https://api.scryfall.com/cards/c6e664bc-7088-43ec-816f-449c37a81b44",
+  "scryfall_uri": "https://scryfall.com/card/pbro/34s/autonomous-assembler?utm_source=api",
+  "layout": "prototype",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/6/c6e664bc-7088-43ec-816f-449c37a81b44.jpg?1675621604",
+    "normal": "https://cards.scryfall.io/normal/front/c/6/c6e664bc-7088-43ec-816f-449c37a81b44.jpg?1675621604",
+    "large": "https://cards.scryfall.io/large/front/c/6/c6e664bc-7088-43ec-816f-449c37a81b44.jpg?1675621604",
+    "png": "https://cards.scryfall.io/png/front/c/6/c6e664bc-7088-43ec-816f-449c37a81b44.png?1675621604",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/6/c6e664bc-7088-43ec-816f-449c37a81b44.jpg?1675621604",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/6/c6e664bc-7088-43ec-816f-449c37a81b44.jpg?1675621604"
+  },
+  "mana_cost": "{5}",
+  "cmc": 5,
+  "type_line": "Artifact Creature — Assembly-Worker",
+  "oracle_text": "Prototype {1}{W} — 2/2 (You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)\nVigilance\n{1}, {T}: Put a +1/+1 counter on target Assembly-Worker you control.",
+  "power": "4",
+  "toughness": "5",
+  "colors": [],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Vigilance",
+    "Prototype"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7e8b0464-6ce5-4184-abc7-3de544eebc6a",
+  "set": "pbro",
+  "set_name": "The Brothers' War Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7e8b0464-6ce5-4184-abc7-3de544eebc6a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apbro&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pbro?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c6e664bc-7088-43ec-816f-449c37a81b44/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3afdc98e-aeeb-43e9-bdcd-0c51da44d2f8&unique=prints",
+  "collector_number": "34s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Slawomir Maniak",
+  "artist_ids": [
+    "d887bc66-2779-416c-a1ff-d8720242063e"
+  ],
+  "illustration_id": "3ee027ce-38e3-4d21-a25e-a6aec8a2fc9a",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 22100,
+  "penny_rank": 8873,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.29",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAutonomous%2BAssembler",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAutonomous%2BAssembler",
+    "edhrec": "https://edhrec.com/route/?cc=Autonomous+Assembler"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F454019%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Autonomous+Assembler&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Autonomous+Assembler&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

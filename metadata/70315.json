@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "a5f0af51-a054-4e04-aa6e-3972bd336a40",
+  "oracle_id": "0895c9b7-ae7d-4bb3-af17-3b75deb50a25",
+  "multiverse_ids": [
+    545792
+  ],
+  "mtgo_id": 95118,
+  "tcgplayer_id": 254244,
+  "cardmarket_id": 584152,
+  "name": "Command Tower",
+  "lang": "en",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/a5f0af51-a054-4e04-aa6e-3972bd336a40",
+  "scryfall_uri": "https://scryfall.com/card/voc/172/command-tower?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/5/a5f0af51-a054-4e04-aa6e-3972bd336a40.jpg?1641604029",
+    "normal": "https://cards.scryfall.io/normal/front/a/5/a5f0af51-a054-4e04-aa6e-3972bd336a40.jpg?1641604029",
+    "large": "https://cards.scryfall.io/large/front/a/5/a5f0af51-a054-4e04-aa6e-3972bd336a40.jpg?1641604029",
+    "png": "https://cards.scryfall.io/png/front/a/5/a5f0af51-a054-4e04-aa6e-3972bd336a40.png?1641604029",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/5/a5f0af51-a054-4e04-aa6e-3972bd336a40.jpg?1641604029",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/5/a5f0af51-a054-4e04-aa6e-3972bd336a40.jpg?1641604029"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "{T}: Add one mana of any color in your commander's color identity.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a5f0af51-a054-4e04-aa6e-3972bd336a40",
+      "component": "combo_piece",
+      "name": "Command Tower",
+      "type_line": "Land",
+      "uri": "https://api.scryfall.com/cards/a5f0af51-a054-4e04-aa6e-3972bd336a40"
+    },
+    {
+      "object": "related_card",
+      "id": "ad03209f-568a-40f5-8470-a083080e6831",
+      "component": "combo_piece",
+      "name": "Tower Winder",
+      "type_line": "Creature — Snake",
+      "uri": "https://api.scryfall.com/cards/ad03209f-568a-40f5-8470-a083080e6831"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "b2e444f7-41e6-4172-ba01-47d91d5e7bbc",
+  "set": "voc",
+  "set_name": "Crimson Vow Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/b2e444f7-41e6-4172-ba01-47d91d5e7bbc",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avoc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/voc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a5f0af51-a054-4e04-aa6e-3972bd336a40/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0895c9b7-ae7d-4bb3-af17-3b75deb50a25&unique=prints",
+  "collector_number": "172",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "When defeat is near and guidance is scarce, all eyes look in one direction.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ryan Yee",
+  "artist_ids": [
+    "8955dca7-3e37-42b4-83a9-167c78a2178f"
+  ],
+  "illustration_id": "8218c3fe-62e3-4639-a305-68897194c3d3",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2,
+  "prices": {
+    "usd": "0.22",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.27",
+    "eur_foil": null,
+    "tix": "0.01"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=545792&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCommand%2BTower",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCommand%2BTower",
+    "edhrec": "https://edhrec.com/route/?cc=Command+Tower"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F254244%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=584152&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/95118?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "da13b352-47a4-4c38-9893-e6f2b2fa2ac5",
+  "oracle_id": "e9ede348-f1dc-45ba-9e31-3129ccc182d1",
+  "multiverse_ids": [
+    681889
+  ],
+  "arena_id": 93626,
+  "tcgplayer_id": 590176,
+  "cardmarket_id": 796488,
+  "name": "Deal Gone Bad",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/da13b352-47a4-4c38-9893-e6f2b2fa2ac5",
+  "scryfall_uri": "https://scryfall.com/card/j25/419/deal-gone-bad?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/a/da13b352-47a4-4c38-9893-e6f2b2fa2ac5.jpg?1730487210",
+    "normal": "https://cards.scryfall.io/normal/front/d/a/da13b352-47a4-4c38-9893-e6f2b2fa2ac5.jpg?1730487210",
+    "large": "https://cards.scryfall.io/large/front/d/a/da13b352-47a4-4c38-9893-e6f2b2fa2ac5.jpg?1730487210",
+    "png": "https://cards.scryfall.io/png/front/d/a/da13b352-47a4-4c38-9893-e6f2b2fa2ac5.png?1730487210",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/a/da13b352-47a4-4c38-9893-e6f2b2fa2ac5.jpg?1730487210",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/a/da13b352-47a4-4c38-9893-e6f2b2fa2ac5.jpg?1730487210"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4,
+  "type_line": "Instant",
+  "oracle_text": "Target creature gets -3/-3 until end of turn. Target player mills three cards. (They put the top three cards of their library into their graveyard.)",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "b2d88ac4-cde5-4878-934e-cd670a7c9b9e",
+      "component": "combo_piece",
+      "name": "A-Deal Gone Bad",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/b2d88ac4-cde5-4878-934e-cd670a7c9b9e"
+    },
+    {
+      "object": "related_card",
+      "id": "da13b352-47a4-4c38-9893-e6f2b2fa2ac5",
+      "component": "combo_piece",
+      "name": "Deal Gone Bad",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/da13b352-47a4-4c38-9893-e6f2b2fa2ac5"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9201567c-bab5-4720-aac9-260e6741f115",
+  "set": "j25",
+  "set_name": "Foundations Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/9201567c-bab5-4720-aac9-260e6741f115",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj25&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j25?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/da13b352-47a4-4c38-9893-e6f2b2fa2ac5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae9ede348-f1dc-45ba-9e31-3129ccc182d1&unique=prints",
+  "collector_number": "419",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Feed the rumor mills with delicious treachery. Bad blood between those two is a good deal for us.\"\n—Kamiz, Obscura Oculus",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mathias Kollros",
+  "artist_ids": [
+    "2ae0dd12-047c-4efb-80d7-bccc3bac5fba"
+  ],
+  "illustration_id": "2e2ccc5f-0815-429b-9653-02bc205a7008",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 18929,
+  "prices": {
+    "usd": "0.03",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=681889&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDeal%2BGone%2BBad",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDeal%2BGone%2BBad",
+    "edhrec": "https://edhrec.com/route/?cc=Deal+Gone+Bad"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F590176%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=796488&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Deal+Gone+Bad&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

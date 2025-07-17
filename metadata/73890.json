@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "ae54b0e0-b549-44dd-9a59-0fee6e65e7fa",
+  "oracle_id": "8ed932ff-986c-4592-ad70-53b3fac80d69",
+  "multiverse_ids": [],
+  "mtgo_id": 95465,
+  "name": "Nurturing Peatland",
+  "lang": "en",
+  "released_at": "2023-10-05",
+  "uri": "https://api.scryfall.com/cards/ae54b0e0-b549-44dd-9a59-0fee6e65e7fa",
+  "scryfall_uri": "https://scryfall.com/card/prm/95465/nurturing-peatland?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/e/ae54b0e0-b549-44dd-9a59-0fee6e65e7fa.jpg?1681084383",
+    "normal": "https://cards.scryfall.io/normal/front/a/e/ae54b0e0-b549-44dd-9a59-0fee6e65e7fa.jpg?1681084383",
+    "large": "https://cards.scryfall.io/large/front/a/e/ae54b0e0-b549-44dd-9a59-0fee6e65e7fa.jpg?1681084383",
+    "png": "https://cards.scryfall.io/png/front/a/e/ae54b0e0-b549-44dd-9a59-0fee6e65e7fa.png?1681084383",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/e/ae54b0e0-b549-44dd-9a59-0fee6e65e7fa.jpg?1681084383",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/e/ae54b0e0-b549-44dd-9a59-0fee6e65e7fa.jpg?1681084383"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "{T}, Pay 1 life: Add {B} or {G}.\n{1}, {T}, Sacrifice this land: Draw a card.",
+  "colors": [],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ae54b0e0-b549-44dd-9a59-0fee6e65e7fa/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8ed932ff-986c-4592-ad70-53b3fac80d69&unique=prints",
+  "collector_number": "95465",
+  "digital": true,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Sam Burley",
+  "artist_ids": [
+    "f89f4b78-cefb-41f7-b7cb-4f4d28de0c4f"
+  ],
+  "illustration_id": "be29ba56-86c3-4d02-becd-0f6730c72475",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1418,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "2.39"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNurturing%2BPeatland",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNurturing%2BPeatland",
+    "edhrec": "https://edhrec.com/route/?cc=Nurturing+Peatland"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DNurturing%2BPeatland%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nurturing+Peatland&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/95465?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

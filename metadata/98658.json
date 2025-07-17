@@ -1,0 +1,113 @@
+{
+  "object": "card",
+  "id": "e91bb5ae-e870-466b-adfd-3ae5bf9b7806",
+  "oracle_id": "420091b5-b966-4233-877d-e9143481e97e",
+  "multiverse_ids": [
+    606792
+  ],
+  "arena_id": 86221,
+  "name": "Nahiri's Wrath",
+  "lang": "en",
+  "released_at": "2023-03-21",
+  "uri": "https://api.scryfall.com/cards/e91bb5ae-e870-466b-adfd-3ae5bf9b7806",
+  "scryfall_uri": "https://scryfall.com/card/sir/171/nahiris-wrath?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/9/e91bb5ae-e870-466b-adfd-3ae5bf9b7806.jpg?1678945135",
+    "normal": "https://cards.scryfall.io/normal/front/e/9/e91bb5ae-e870-466b-adfd-3ae5bf9b7806.jpg?1678945135",
+    "large": "https://cards.scryfall.io/large/front/e/9/e91bb5ae-e870-466b-adfd-3ae5bf9b7806.jpg?1678945135",
+    "png": "https://cards.scryfall.io/png/front/e/9/e91bb5ae-e870-466b-adfd-3ae5bf9b7806.png?1678945135",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/9/e91bb5ae-e870-466b-adfd-3ae5bf9b7806.jpg?1678945135",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/9/e91bb5ae-e870-466b-adfd-3ae5bf9b7806.jpg?1678945135"
+  },
+  "mana_cost": "{2}{R}",
+  "cmc": 3,
+  "type_line": "Sorcery",
+  "oracle_text": "As an additional cost to cast this spell, discard X cards.\nNahiri's Wrath deals damage equal to the total mana value of the discarded cards to each of up to X target creatures and/or planeswalkers.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c3694ff5-7b12-4f29-8d82-2c9b553ac60e",
+  "set": "sir",
+  "set_name": "Shadows over Innistrad Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/c3694ff5-7b12-4f29-8d82-2c9b553ac60e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asir&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sir?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e91bb5ae-e870-466b-adfd-3ae5bf9b7806/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A420091b5-b966-4233-877d-e9143481e97e&unique=prints",
+  "collector_number": "171",
+  "digital": true,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rahn",
+  "artist_ids": [
+    "7742047e-0f80-4c0f-a530-d07460165e86"
+  ],
+  "illustration_id": "74f8d751-01cf-408b-a972-c7186d2baa6f",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 15450,
+  "penny_rank": 5538,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=606792&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNahiri%2527s%2BWrath",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNahiri%2527s%2BWrath",
+    "edhrec": "https://edhrec.com/route/?cc=Nahiri%27s+Wrath"
+  }
+}

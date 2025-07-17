@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "82c28b20-ee3c-4a0b-af5b-bc2730087e82",
+  "oracle_id": "43985bbc-a0f6-4812-984e-392bc8562633",
+  "multiverse_ids": [
+    646311
+  ],
+  "mtgo_id": 120411,
+  "tcgplayer_id": 517694,
+  "cardmarket_id": 748645,
+  "name": "Blood Crypt",
+  "lang": "en",
+  "released_at": "2024-01-12",
+  "uri": "https://api.scryfall.com/cards/82c28b20-ee3c-4a0b-af5b-bc2730087e82",
+  "scryfall_uri": "https://scryfall.com/card/rvr/292/blood-crypt?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/2/82c28b20-ee3c-4a0b-af5b-bc2730087e82.jpg?1702429829",
+    "normal": "https://cards.scryfall.io/normal/front/8/2/82c28b20-ee3c-4a0b-af5b-bc2730087e82.jpg?1702429829",
+    "large": "https://cards.scryfall.io/large/front/8/2/82c28b20-ee3c-4a0b-af5b-bc2730087e82.jpg?1702429829",
+    "png": "https://cards.scryfall.io/png/front/8/2/82c28b20-ee3c-4a0b-af5b-bc2730087e82.png?1702429829",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/2/82c28b20-ee3c-4a0b-af5b-bc2730087e82.jpg?1702429829",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/2/82c28b20-ee3c-4a0b-af5b-bc2730087e82.jpg?1702429829"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land — Swamp Mountain",
+  "oracle_text": "({T}: Add {B} or {R}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped.",
+  "colors": [],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "R"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+  "set": "rvr",
+  "set_name": "Ravnica Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arvr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/rvr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/82c28b20-ee3c-4a0b-af5b-bc2730087e82/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A43985bbc-a0f6-4812-984e-392bc8562633&unique=prints",
+  "collector_number": "292",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jonas De Ro",
+  "artist_ids": [
+    "561ebf9e-8d93-4b57-8156-8826d0c19601"
+  ],
+  "illustration_id": "de805355-6324-4cf5-af14-e65fa9ce7b4f",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 84,
+  "preview": {
+    "source": "Making Magic",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/making-magic/building-allegiances-part-1-2019-01-02",
+    "previewed_at": "2023-09-22"
+  },
+  "prices": {
+    "usd": "22.73",
+    "usd_foil": "27.57",
+    "usd_etched": null,
+    "eur": "23.44",
+    "eur_foil": "28.81",
+    "tix": "3.54"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=646311&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlood%2BCrypt",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlood%2BCrypt",
+    "edhrec": "https://edhrec.com/route/?cc=Blood+Crypt"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F517694%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=748645&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/120411?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "debe9258-209a-44cb-99e9-49affd02aa32",
+  "oracle_id": "dc0593c2-ccb4-4648-a592-c5bcd121dc72",
+  "multiverse_ids": [
+    671581
+  ],
+  "mtgo_id": 128593,
+  "tcgplayer_id": 559890,
+  "cardmarket_id": 779402,
+  "name": "Greater Good",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/debe9258-209a-44cb-99e9-49affd02aa32",
+  "scryfall_uri": "https://scryfall.com/card/blc/223/greater-good?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/e/debe9258-209a-44cb-99e9-49affd02aa32.jpg?1721429302",
+    "normal": "https://cards.scryfall.io/normal/front/d/e/debe9258-209a-44cb-99e9-49affd02aa32.jpg?1721429302",
+    "large": "https://cards.scryfall.io/large/front/d/e/debe9258-209a-44cb-99e9-49affd02aa32.jpg?1721429302",
+    "png": "https://cards.scryfall.io/png/front/d/e/debe9258-209a-44cb-99e9-49affd02aa32.png?1721429302",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/e/debe9258-209a-44cb-99e9-49affd02aa32.jpg?1721429302",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/e/debe9258-209a-44cb-99e9-49affd02aa32.jpg?1721429302"
+  },
+  "mana_cost": "{2}{G}{G}",
+  "cmc": 4,
+  "type_line": "Enchantment",
+  "oracle_text": "Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "set": "blc",
+  "set_name": "Bloomburrow Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/blc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/debe9258-209a-44cb-99e9-49affd02aa32/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adc0593c2-ccb4-4648-a592-c5bcd121dc72&unique=prints",
+  "collector_number": "223",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"There's wisdom to be gained in death—whether it be one's own or someone else's.\"\n—Jarad, Golgari Lich-Lord",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mathias Kollros",
+  "artist_ids": [
+    "2ae0dd12-047c-4efb-80d7-bccc3bac5fba"
+  ],
+  "illustration_id": "1cf84e78-f63d-471e-a62e-78db497bad91",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 633,
+  "penny_rank": 2048,
+  "prices": {
+    "usd": "2.38",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "4.09",
+    "eur_foil": null,
+    "tix": "0.25"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=671581&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGreater%2BGood",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGreater%2BGood",
+    "edhrec": "https://edhrec.com/route/?cc=Greater+Good"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F559890%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=779402&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/128593?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

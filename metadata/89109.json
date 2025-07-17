@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "d237377d-b79b-4f27-a142-e2c1756e0d94",
+  "oracle_id": "d3d44e63-8a98-4930-911d-57f7f725ffce",
+  "multiverse_ids": [],
+  "tcgplayer_id": 263352,
+  "name": "Spirit",
+  "lang": "en",
+  "released_at": "2022-02-18",
+  "uri": "https://api.scryfall.com/cards/d237377d-b79b-4f27-a142-e2c1756e0d94",
+  "scryfall_uri": "https://scryfall.com/card/tneo/12/spirit?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/2/d237377d-b79b-4f27-a142-e2c1756e0d94.jpg?1674338567",
+    "normal": "https://cards.scryfall.io/normal/front/d/2/d237377d-b79b-4f27-a142-e2c1756e0d94.jpg?1674338567",
+    "large": "https://cards.scryfall.io/large/front/d/2/d237377d-b79b-4f27-a142-e2c1756e0d94.jpg?1674338567",
+    "png": "https://cards.scryfall.io/png/front/d/2/d237377d-b79b-4f27-a142-e2c1756e0d94.png?1674338567",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/2/d237377d-b79b-4f27-a142-e2c1756e0d94.jpg?1674338567",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/2/d237377d-b79b-4f27-a142-e2c1756e0d94.jpg?1674338567"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Spirit",
+  "oracle_text": "",
+  "power": "*",
+  "toughness": "*",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "8dc007e6-6ec5-420e-947b-15d7bf49a2e0",
+      "component": "combo_piece",
+      "name": "Kura, the Boundless Sky",
+      "type_line": "Legendary Creature — Dragon Spirit",
+      "uri": "https://api.scryfall.com/cards/8dc007e6-6ec5-420e-947b-15d7bf49a2e0"
+    },
+    {
+      "object": "related_card",
+      "id": "d237377d-b79b-4f27-a142-e2c1756e0d94",
+      "component": "token",
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/d237377d-b79b-4f27-a142-e2c1756e0d94"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8bb113fb-6138-4993-877b-5cd01f8d7529",
+  "set": "tneo",
+  "set_name": "Kamigawa: Neon Dynasty Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/8bb113fb-6138-4993-877b-5cd01f8d7529",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atneo&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tneo?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d237377d-b79b-4f27-a142-e2c1756e0d94/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad3d44e63-8a98-4930-911d-57f7f725ffce&unique=prints",
+  "collector_number": "12",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Peter Polach",
+  "artist_ids": [
+    "3cb68fd9-a9e9-425d-85a3-c116318a880f"
+  ],
+  "illustration_id": "d754faae-8ffe-4d0d-8fe7-f6ad04dff35e",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": "0.47",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSpirit",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSpirit",
+    "edhrec": "https://edhrec.com/route/?cc=Spirit"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F263352%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Spirit&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Spirit&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

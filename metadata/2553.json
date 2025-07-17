@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "05f13bda-9157-437d-b58b-20d34d03fc49",
+  "oracle_id": "88aa032d-dc11-4cae-81f3-ce66353963e0",
+  "multiverse_ids": [
+    489356
+  ],
+  "arena_id": 72435,
+  "tcgplayer_id": 215987,
+  "cardmarket_id": 472624,
+  "name": "Affectionate Indrik",
+  "lang": "en",
+  "released_at": "2020-07-17",
+  "uri": "https://api.scryfall.com/cards/05f13bda-9157-437d-b58b-20d34d03fc49",
+  "scryfall_uri": "https://scryfall.com/card/jmp/373/affectionate-indrik?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/5/05f13bda-9157-437d-b58b-20d34d03fc49.jpg?1601082103",
+    "normal": "https://cards.scryfall.io/normal/front/0/5/05f13bda-9157-437d-b58b-20d34d03fc49.jpg?1601082103",
+    "large": "https://cards.scryfall.io/large/front/0/5/05f13bda-9157-437d-b58b-20d34d03fc49.jpg?1601082103",
+    "png": "https://cards.scryfall.io/png/front/0/5/05f13bda-9157-437d-b58b-20d34d03fc49.png?1601082103",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/5/05f13bda-9157-437d-b58b-20d34d03fc49.jpg?1601082103",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/5/05f13bda-9157-437d-b58b-20d34d03fc49.jpg?1601082103"
+  },
+  "mana_cost": "{5}{G}",
+  "cmc": 6,
+  "type_line": "Creature — Beast",
+  "oracle_text": "When this creature enters, you may have it fight target creature you don't control. (Each deals damage equal to its power to the other.)",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Fight"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "0f6ccf25-a627-4263-86df-5757137f1696",
+  "set": "jmp",
+  "set_name": "Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/0f6ccf25-a627-4263-86df-5757137f1696",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ajmp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/jmp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/05f13bda-9157-437d-b58b-20d34d03fc49/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A88aa032d-dc11-4cae-81f3-ce66353963e0&unique=prints",
+  "collector_number": "373",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "The problem isn't the indrik's enthusiasm, it's Ravnica's lack of guardrails.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steve Prescott",
+  "artist_ids": [
+    "a1139fb8-41f5-4a9e-9a74-f662e1a23b35"
+  ],
+  "illustration_id": "005a5eae-3b13-4ba2-bf12-779df63efba0",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 19193,
+  "penny_rank": 12864,
+  "preview": {
+    "source": "GameStar",
+    "source_uri": "https://www.gamestar.de/galerien/magic_the_gathering_jumpstart,134798.html",
+    "previewed_at": "2020-06-17"
+  },
+  "prices": {
+    "usd": "0.03",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.06",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489356&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAffectionate%2BIndrik",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAffectionate%2BIndrik",
+    "edhrec": "https://edhrec.com/route/?cc=Affectionate+Indrik"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F215987%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=472624&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Affectionate+Indrik&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

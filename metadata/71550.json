@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "a8d01a68-e006-44c3-b0ed-047facb3d66f",
+  "oracle_id": "ea8acbd4-1ace-4634-9e88-7f91401d2b30",
+  "multiverse_ids": [],
+  "tcgplayer_id": 492662,
+  "name": "Needle Specter",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/a8d01a68-e006-44c3-b0ed-047facb3d66f",
+  "scryfall_uri": "https://scryfall.com/card/plst/EVE-39/needle-specter?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/8/a8d01a68-e006-44c3-b0ed-047facb3d66f.jpg?1680826531",
+    "normal": "https://cards.scryfall.io/normal/front/a/8/a8d01a68-e006-44c3-b0ed-047facb3d66f.jpg?1680826531",
+    "large": "https://cards.scryfall.io/large/front/a/8/a8d01a68-e006-44c3-b0ed-047facb3d66f.jpg?1680826531",
+    "png": "https://cards.scryfall.io/png/front/a/8/a8d01a68-e006-44c3-b0ed-047facb3d66f.png?1680826531",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/8/a8d01a68-e006-44c3-b0ed-047facb3d66f.jpg?1680826531",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/8/a8d01a68-e006-44c3-b0ed-047facb3d66f.jpg?1680826531"
+  },
+  "mana_cost": "{1}{B}{B}",
+  "cmc": 3,
+  "type_line": "Creature — Specter",
+  "oracle_text": "Flying\nWither (This deals damage to creatures in the form of -1/-1 counters.)\nWhenever this creature deals combat damage to a player, that player discards that many cards.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying",
+    "Wither"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a8d01a68-e006-44c3-b0ed-047facb3d66f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aea8acbd4-1ace-4634-9e88-7f91401d2b30&unique=prints",
+  "collector_number": "EVE-39",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Christopher Moeller",
+  "artist_ids": [
+    "21e10012-06ae-44f2-b38d-3824dd2e73d4"
+  ],
+  "illustration_id": "dfa47ec7-a81a-4a2d-a18c-44c5ba880620",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 16030,
+  "penny_rank": 10132,
+  "prices": {
+    "usd": "0.90",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNeedle%2BSpecter",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNeedle%2BSpecter",
+    "edhrec": "https://edhrec.com/route/?cc=Needle+Specter"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F492662%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Needle+Specter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Needle+Specter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

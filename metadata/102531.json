@@ -1,0 +1,189 @@
+{
+  "object": "card",
+  "id": "f25ce5a4-9dc1-4293-9cde-0af098aa1877",
+  "oracle_id": "54f8acb1-58f3-49d1-bff8-c1b578245936",
+  "multiverse_ids": [],
+  "mtgo_id": 96746,
+  "tcgplayer_id": 255384,
+  "cardmarket_id": 585132,
+  "name": "Kessig Naturalist // Lord of the Ulvenwald",
+  "lang": "en",
+  "released_at": "2022-01-28",
+  "uri": "https://api.scryfall.com/cards/f25ce5a4-9dc1-4293-9cde-0af098aa1877",
+  "scryfall_uri": "https://scryfall.com/card/dbl/231/kessig-naturalist-lord-of-the-ulvenwald?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 2,
+  "type_line": "Creature — Human Werewolf // Creature — Werewolf",
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [
+    "Daybound",
+    "Nightbound"
+  ],
+  "produced_mana": [
+    "G",
+    "R"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Kessig Naturalist",
+      "mana_cost": "{R}{G}",
+      "type_line": "Creature — Human Werewolf",
+      "oracle_text": "Whenever this creature attacks, add {R} or {G}. Until end of turn, you don't lose this mana as steps and phases end.\nDaybound (If a player casts no spells during their own turn, it becomes night next turn.)",
+      "colors": [
+        "G",
+        "R"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "flavor_text": "\"Far from home, little one? I know the feeling.\"",
+      "artist": "Johan Grenier",
+      "artist_id": "465e38b8-7eed-4d22-a6d2-d3603ee0c00b",
+      "illustration_id": "cca036ff-2709-426a-84ac-eb4b62228a41",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/f/2/f25ce5a4-9dc1-4293-9cde-0af098aa1877.jpg?1673160905",
+        "normal": "https://cards.scryfall.io/normal/front/f/2/f25ce5a4-9dc1-4293-9cde-0af098aa1877.jpg?1673160905",
+        "large": "https://cards.scryfall.io/large/front/f/2/f25ce5a4-9dc1-4293-9cde-0af098aa1877.jpg?1673160905",
+        "png": "https://cards.scryfall.io/png/front/f/2/f25ce5a4-9dc1-4293-9cde-0af098aa1877.png?1673160905",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/f/2/f25ce5a4-9dc1-4293-9cde-0af098aa1877.jpg?1673160905",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/f/2/f25ce5a4-9dc1-4293-9cde-0af098aa1877.jpg?1673160905"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Lord of the Ulvenwald",
+      "mana_cost": "",
+      "type_line": "Creature — Werewolf",
+      "oracle_text": "Other Wolves and Werewolves you control get +1/+1.\nWhenever this creature attacks, add {R} or {G}. Until end of turn, you don't lose this mana as steps and phases end.\nNightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)",
+      "colors": [
+        "G",
+        "R"
+      ],
+      "color_indicator": [
+        "G",
+        "R"
+      ],
+      "power": "3",
+      "toughness": "3",
+      "artist": "Johan Grenier",
+      "artist_id": "465e38b8-7eed-4d22-a6d2-d3603ee0c00b",
+      "illustration_id": "1fb7bb5b-18bd-46bb-ab31-57e455da1754",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/f/2/f25ce5a4-9dc1-4293-9cde-0af098aa1877.jpg?1673160905",
+        "normal": "https://cards.scryfall.io/normal/back/f/2/f25ce5a4-9dc1-4293-9cde-0af098aa1877.jpg?1673160905",
+        "large": "https://cards.scryfall.io/large/back/f/2/f25ce5a4-9dc1-4293-9cde-0af098aa1877.jpg?1673160905",
+        "png": "https://cards.scryfall.io/png/back/f/2/f25ce5a4-9dc1-4293-9cde-0af098aa1877.png?1673160905",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/f/2/f25ce5a4-9dc1-4293-9cde-0af098aa1877.jpg?1673160905",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/f/2/f25ce5a4-9dc1-4293-9cde-0af098aa1877.jpg?1673160905"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "f25ce5a4-9dc1-4293-9cde-0af098aa1877",
+      "component": "combo_piece",
+      "name": "Kessig Naturalist // Lord of the Ulvenwald",
+      "type_line": "Creature — Human Werewolf // Creature — Werewolf",
+      "uri": "https://api.scryfall.com/cards/f25ce5a4-9dc1-4293-9cde-0af098aa1877"
+    },
+    {
+      "object": "related_card",
+      "id": "dc26e13b-7a0f-4e7f-8593-4f22234f4517",
+      "component": "combo_piece",
+      "name": "Day // Night",
+      "type_line": "Card // Card",
+      "uri": "https://api.scryfall.com/cards/dc26e13b-7a0f-4e7f-8593-4f22234f4517"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set": "dbl",
+  "set_name": "Innistrad: Double Feature",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adbl&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dbl?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f25ce5a4-9dc1-4293-9cde-0af098aa1877/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A54f8acb1-58f3-49d1-bff8-c1b578245936&unique=prints",
+  "collector_number": "231",
+  "digital": false,
+  "rarity": "uncommon",
+  "artist": "Johan Grenier",
+  "artist_ids": [
+    "465e38b8-7eed-4d22-a6d2-d3603ee0c00b"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted",
+    "sunmoondfc"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 7166,
+  "penny_rank": 8924,
+  "prices": {
+    "usd": "0.29",
+    "usd_foil": "0.77",
+    "usd_etched": null,
+    "eur": "0.28",
+    "eur_foil": "1.08",
+    "tix": "0.06"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKessig%2BNaturalist%2B%252F%252F%2BLord%2Bof%2Bthe%2BUlvenwald",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKessig%2BNaturalist%2B%252F%252F%2BLord%2Bof%2Bthe%2BUlvenwald",
+    "edhrec": "https://edhrec.com/route/?cc=Kessig+Naturalist"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F255384%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=585132&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/96746?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

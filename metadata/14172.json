@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "21522dff-8a65-4816-8b6e-b71270fda3cd",
+  "oracle_id": "61cceb14-9568-4a5e-9b56-07afa6407df2",
+  "multiverse_ids": [],
+  "mtgo_id": 103688,
+  "mtgo_foil_id": 103689,
+  "tcgplayer_id": 456695,
+  "cardmarket_id": 688950,
+  "name": "Inspired Sphinx",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/21522dff-8a65-4816-8b6e-b71270fda3cd",
+  "scryfall_uri": "https://scryfall.com/card/scd/55/inspired-sphinx?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/1/21522dff-8a65-4816-8b6e-b71270fda3cd.jpg?1673560447",
+    "normal": "https://cards.scryfall.io/normal/front/2/1/21522dff-8a65-4816-8b6e-b71270fda3cd.jpg?1673560447",
+    "large": "https://cards.scryfall.io/large/front/2/1/21522dff-8a65-4816-8b6e-b71270fda3cd.jpg?1673560447",
+    "png": "https://cards.scryfall.io/png/front/2/1/21522dff-8a65-4816-8b6e-b71270fda3cd.png?1673560447",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/1/21522dff-8a65-4816-8b6e-b71270fda3cd.jpg?1673560447",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/1/21522dff-8a65-4816-8b6e-b71270fda3cd.jpg?1673560447"
+  },
+  "mana_cost": "{5}{U}{U}",
+  "cmc": 7,
+  "type_line": "Creature — Sphinx",
+  "oracle_text": "Flying\nWhen this creature enters, draw cards equal to the number of opponents you have.\n{3}{U}: Create a 1/1 colorless Thopter artifact creature token with flying.",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "21522dff-8a65-4816-8b6e-b71270fda3cd",
+      "component": "combo_piece",
+      "name": "Inspired Sphinx",
+      "type_line": "Creature — Sphinx",
+      "uri": "https://api.scryfall.com/cards/21522dff-8a65-4816-8b6e-b71270fda3cd"
+    },
+    {
+      "object": "related_card",
+      "id": "3b442416-747f-47ec-b967-363e7a7e952b",
+      "component": "token",
+      "name": "Thopter",
+      "type_line": "Token Artifact Creature — Thopter",
+      "uri": "https://api.scryfall.com/cards/3b442416-747f-47ec-b967-363e7a7e952b"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set": "scd",
+  "set_name": "Starter Commander Decks",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ascd&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/scd?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/21522dff-8a65-4816-8b6e-b71270fda3cd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A61cceb14-9568-4a5e-9b56-07afa6407df2&unique=prints",
+  "collector_number": "55",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jesper Ejsing",
+  "artist_ids": [
+    "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+  ],
+  "illustration_id": "437b8560-af03-4462-942e-2f5752049b26",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 11122,
+  "prices": {
+    "usd": "0.19",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.24",
+    "eur_foil": null,
+    "tix": "0.97"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DInspired%2BSphinx",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DInspired%2BSphinx",
+    "edhrec": "https://edhrec.com/route/?cc=Inspired+Sphinx"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F456695%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=688950&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/103688?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

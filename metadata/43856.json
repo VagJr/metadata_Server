@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "677bf9ff-4e4b-495d-b56a-ed0f26c469ca",
+  "oracle_id": "32263baa-d3f0-463f-92b3-4e9938476add",
+  "multiverse_ids": [
+    588753
+  ],
+  "mtgo_id": 105406,
+  "tcgplayer_id": 452112,
+  "cardmarket_id": 682783,
+  "name": "Hedron Archive",
+  "lang": "en",
+  "released_at": "2022-11-18",
+  "uri": "https://api.scryfall.com/cards/677bf9ff-4e4b-495d-b56a-ed0f26c469ca",
+  "scryfall_uri": "https://scryfall.com/card/brc/142/hedron-archive?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/7/677bf9ff-4e4b-495d-b56a-ed0f26c469ca.jpg?1673300724",
+    "normal": "https://cards.scryfall.io/normal/front/6/7/677bf9ff-4e4b-495d-b56a-ed0f26c469ca.jpg?1673300724",
+    "large": "https://cards.scryfall.io/large/front/6/7/677bf9ff-4e4b-495d-b56a-ed0f26c469ca.jpg?1673300724",
+    "png": "https://cards.scryfall.io/png/front/6/7/677bf9ff-4e4b-495d-b56a-ed0f26c469ca.png?1673300724",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/7/677bf9ff-4e4b-495d-b56a-ed0f26c469ca.jpg?1673300724",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/7/677bf9ff-4e4b-495d-b56a-ed0f26c469ca.jpg?1673300724"
+  },
+  "mana_cost": "{4}",
+  "cmc": 4,
+  "type_line": "Artifact",
+  "oracle_text": "{T}: Add {C}{C}.\n{2}, {T}, Sacrifice this artifact: Draw two cards.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "81d56780-1efc-4487-9803-43d634ca13d0",
+  "set": "brc",
+  "set_name": "The Brothers' War Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/81d56780-1efc-4487-9803-43d634ca13d0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abrc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/brc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/677bf9ff-4e4b-495d-b56a-ed0f26c469ca/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A32263baa-d3f0-463f-92b3-4e9938476add&unique=prints",
+  "collector_number": "142",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"You've begun to understand the hedrons' true purpose,\" said Ugin. \"The Eldrazi can be imprisoned.\"\n\"And how did that work out last time?\" asked Jace.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Craig J Spearing",
+  "artist_ids": [
+    "b0f15e74-0dd6-4156-959e-c5e30c5cdc52"
+  ],
+  "illustration_id": "0e80bdcb-9fe5-4302-a23e-9a40ac89d40d",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 448,
+  "penny_rank": 1224,
+  "prices": {
+    "usd": "0.24",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.17",
+    "eur_foil": null,
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=588753&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHedron%2BArchive",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHedron%2BArchive",
+    "edhrec": "https://edhrec.com/route/?cc=Hedron+Archive"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F452112%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=682783&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/105406?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

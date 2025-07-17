@@ -1,0 +1,154 @@
+{
+  "object": "card",
+  "id": "b8a48466-6dc1-4874-9328-c7358e642f39",
+  "oracle_id": "73122880-d7f4-422f-a336-18773bcb7bfe",
+  "multiverse_ids": [],
+  "mtgo_id": 141719,
+  "tcgplayer_id": 632636,
+  "cardmarket_id": 826197,
+  "name": "Summon: Knights of Round",
+  "lang": "en",
+  "released_at": "2025-06-13",
+  "uri": "https://api.scryfall.com/cards/b8a48466-6dc1-4874-9328-c7358e642f39",
+  "scryfall_uri": "https://scryfall.com/card/fin/359/summon:-knights-of-round?utm_source=api",
+  "layout": "saga",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/8/b8a48466-6dc1-4874-9328-c7358e642f39.jpg?1748707145",
+    "normal": "https://cards.scryfall.io/normal/front/b/8/b8a48466-6dc1-4874-9328-c7358e642f39.jpg?1748707145",
+    "large": "https://cards.scryfall.io/large/front/b/8/b8a48466-6dc1-4874-9328-c7358e642f39.jpg?1748707145",
+    "png": "https://cards.scryfall.io/png/front/b/8/b8a48466-6dc1-4874-9328-c7358e642f39.png?1748707145",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/8/b8a48466-6dc1-4874-9328-c7358e642f39.jpg?1748707145",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/8/b8a48466-6dc1-4874-9328-c7358e642f39.jpg?1748707145"
+  },
+  "mana_cost": "{6}{W}{W}",
+  "cmc": 8,
+  "type_line": "Enchantment Creature — Saga Knight",
+  "oracle_text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)\nI, II, III, IV — Create three 2/2 white Knight creature tokens.\nV — Ultimate End — Other creatures you control get +2/+2 until end of turn. Put an indestructible counter on each of them.\nIndestructible",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Indestructible"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "b8a48466-6dc1-4874-9328-c7358e642f39",
+      "component": "combo_piece",
+      "name": "Summon: Knights of Round",
+      "type_line": "Enchantment Creature — Saga Knight",
+      "uri": "https://api.scryfall.com/cards/b8a48466-6dc1-4874-9328-c7358e642f39"
+    },
+    {
+      "object": "related_card",
+      "id": "a7758a0b-9e85-4b4a-bf1c-ffcc6761dbad",
+      "component": "token",
+      "name": "Knight",
+      "type_line": "Token Creature — Knight",
+      "uri": "https://api.scryfall.com/cards/a7758a0b-9e85-4b4a-bf1c-ffcc6761dbad"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7beb4b7-e1ff-4d35-ab07-5700f17ea1ea",
+  "set": "fin",
+  "set_name": "Final Fantasy",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/d7beb4b7-e1ff-4d35-ab07-5700f17ea1ea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afin&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fin?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b8a48466-6dc1-4874-9328-c7358e642f39/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A73122880-d7f4-422f-a336-18773bcb7bfe&unique=prints",
+  "collector_number": "359",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Hisashi Momose",
+  "artist_ids": [
+    "09bc6de8-c99c-406a-9da6-8ece7112e496"
+  ],
+  "illustration_id": "30cab0e3-1090-46db-82cd-3850b5a0c911",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "enchantment",
+    "inverted"
+  ],
+  "security_stamp": "triangle",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "ffvii",
+    "boosterfun"
+  ],
+  "edhrec_rank": 6152,
+  "preview": {
+    "source": "Brandon Sanderson",
+    "source_uri": "https://www.youtube.com/watch?v=KGSqNnoNtHo",
+    "previewed_at": "2025-05-16"
+  },
+  "prices": {
+    "usd": "29.30",
+    "usd_foil": "37.49",
+    "usd_etched": null,
+    "eur": "26.05",
+    "eur_foil": "35.26",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSummon%253A%2BKnights%2Bof%2BRound",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSummon%253A%2BKnights%2Bof%2BRound",
+    "edhrec": "https://edhrec.com/route/?cc=Summon%3A+Knights+of+Round"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F632636%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=826197&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/141719?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

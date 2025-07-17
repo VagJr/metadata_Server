@@ -1,0 +1,115 @@
+{
+  "object": "card",
+  "id": "c178ff60-30db-4d71-9f13-56e5b8407a6f",
+  "oracle_id": "77aaaad5-7960-453d-b024-6dacbca3d606",
+  "multiverse_ids": [],
+  "tcgplayer_id": 583249,
+  "name": "Sheltering Word",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/c178ff60-30db-4d71-9f13-56e5b8407a6f",
+  "scryfall_uri": "https://scryfall.com/card/plst/AVR-192/sheltering-word?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/1/c178ff60-30db-4d71-9f13-56e5b8407a6f.jpg?1723433810",
+    "normal": "https://cards.scryfall.io/normal/front/c/1/c178ff60-30db-4d71-9f13-56e5b8407a6f.jpg?1723433810",
+    "large": "https://cards.scryfall.io/large/front/c/1/c178ff60-30db-4d71-9f13-56e5b8407a6f.jpg?1723433810",
+    "png": "https://cards.scryfall.io/png/front/c/1/c178ff60-30db-4d71-9f13-56e5b8407a6f.png?1723433810",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/1/c178ff60-30db-4d71-9f13-56e5b8407a6f.jpg?1723433810",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/1/c178ff60-30db-4d71-9f13-56e5b8407a6f.jpg?1723433810"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Target creature you control gains hexproof until end of turn. You gain life equal to that creature's toughness. (A creature with hexproof can't be the target of spells or abilities your opponents control.)",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c178ff60-30db-4d71-9f13-56e5b8407a6f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A77aaaad5-7960-453d-b024-6dacbca3d606&unique=prints",
+  "collector_number": "AVR-192",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Igor Kieryluk",
+  "artist_ids": [
+    "9c3e9d17-509f-485c-9360-46d897ce716b"
+  ],
+  "illustration_id": "70708c35-dee3-4b78-b5aa-11d1be38bd22",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 10454,
+  "penny_rank": 9255,
+  "prices": {
+    "usd": "0.18",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSheltering%2BWord",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSheltering%2BWord",
+    "edhrec": "https://edhrec.com/route/?cc=Sheltering+Word"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F583249%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sheltering+Word&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sheltering+Word&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

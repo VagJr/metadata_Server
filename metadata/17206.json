@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "2861e7a8-0cf5-4b65-adf9-5e7863032c9c",
+  "oracle_id": "9ebc0144-fc45-4de7-b3d8-ef8cf2e211ae",
+  "multiverse_ids": [],
+  "mtgo_id": 103696,
+  "mtgo_foil_id": 103697,
+  "tcgplayer_id": 456696,
+  "cardmarket_id": 688954,
+  "name": "Sharding Sphinx",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/2861e7a8-0cf5-4b65-adf9-5e7863032c9c",
+  "scryfall_uri": "https://scryfall.com/card/scd/59/sharding-sphinx?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/8/2861e7a8-0cf5-4b65-adf9-5e7863032c9c.jpg?1674674487",
+    "normal": "https://cards.scryfall.io/normal/front/2/8/2861e7a8-0cf5-4b65-adf9-5e7863032c9c.jpg?1674674487",
+    "large": "https://cards.scryfall.io/large/front/2/8/2861e7a8-0cf5-4b65-adf9-5e7863032c9c.jpg?1674674487",
+    "png": "https://cards.scryfall.io/png/front/2/8/2861e7a8-0cf5-4b65-adf9-5e7863032c9c.png?1674674487",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/8/2861e7a8-0cf5-4b65-adf9-5e7863032c9c.jpg?1674674487",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/8/2861e7a8-0cf5-4b65-adf9-5e7863032c9c.jpg?1674674487"
+  },
+  "mana_cost": "{4}{U}{U}",
+  "cmc": 6,
+  "type_line": "Artifact Creature — Sphinx",
+  "oracle_text": "Flying\nWhenever an artifact creature you control deals combat damage to a player, you may create a 1/1 blue Thopter artifact creature token with flying.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "2861e7a8-0cf5-4b65-adf9-5e7863032c9c",
+      "component": "combo_piece",
+      "name": "Sharding Sphinx",
+      "type_line": "Artifact Creature — Sphinx",
+      "uri": "https://api.scryfall.com/cards/2861e7a8-0cf5-4b65-adf9-5e7863032c9c"
+    },
+    {
+      "object": "related_card",
+      "id": "aeb25fd9-7f98-4a06-a21f-7a4fe9b94497",
+      "component": "token",
+      "name": "Thopter",
+      "type_line": "Token Artifact Creature — Thopter",
+      "uri": "https://api.scryfall.com/cards/aeb25fd9-7f98-4a06-a21f-7a4fe9b94497"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set": "scd",
+  "set_name": "Starter Commander Decks",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ascd&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/scd?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2861e7a8-0cf5-4b65-adf9-5e7863032c9c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9ebc0144-fc45-4de7-b3d8-ef8cf2e211ae&unique=prints",
+  "collector_number": "59",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Whether mechanical or biological, life finds a way to propagate itself.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Michael Bruinsma",
+  "artist_ids": [
+    "e8f8a5b5-20bc-4aeb-a5ea-257b5c16a488"
+  ],
+  "illustration_id": "31d048eb-491d-4ed6-9198-a6195264181b",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3169,
+  "penny_rank": 8961,
+  "prices": {
+    "usd": "0.18",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.18",
+    "eur_foil": null,
+    "tix": "0.72"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSharding%2BSphinx",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSharding%2BSphinx",
+    "edhrec": "https://edhrec.com/route/?cc=Sharding+Sphinx"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F456696%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=688954&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/103696?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

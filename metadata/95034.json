@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "e056904d-4bd6-41c9-93e9-6cd4860dbfcb",
+  "oracle_id": "9d4b1e44-3c66-4b1b-8a1d-308aa4f841f8",
+  "multiverse_ids": [
+    677756
+  ],
+  "mtgo_id": 134052,
+  "tcgplayer_id": 563238,
+  "cardmarket_id": 784553,
+  "name": "Dack Fayden",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/e056904d-4bd6-41c9-93e9-6cd4860dbfcb",
+  "scryfall_uri": "https://scryfall.com/card/mb2/80/dack-fayden?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/0/e056904d-4bd6-41c9-93e9-6cd4860dbfcb.jpg?1723227463",
+    "normal": "https://cards.scryfall.io/normal/front/e/0/e056904d-4bd6-41c9-93e9-6cd4860dbfcb.jpg?1723227463",
+    "large": "https://cards.scryfall.io/large/front/e/0/e056904d-4bd6-41c9-93e9-6cd4860dbfcb.jpg?1723227463",
+    "png": "https://cards.scryfall.io/png/front/e/0/e056904d-4bd6-41c9-93e9-6cd4860dbfcb.png?1723227463",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/0/e056904d-4bd6-41c9-93e9-6cd4860dbfcb.jpg?1723227463",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/0/e056904d-4bd6-41c9-93e9-6cd4860dbfcb.jpg?1723227463"
+  },
+  "mana_cost": "{1}{U}{R}",
+  "cmc": 3,
+  "type_line": "Legendary Planeswalker — Dack",
+  "oracle_text": "+1: Target player draws two cards, then discards two cards.\n−2: Gain control of target artifact.\n−6: You get an emblem with \"Whenever you cast a spell that targets one or more permanents, gain control of those permanents.\"",
+  "loyalty": "3",
+  "colors": [
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "c80136c2-7230-4fe5-b7dc-37ee32f1bd8e",
+      "component": "combo_piece",
+      "name": "Dack Fayden Emblem",
+      "type_line": "Emblem — Dack",
+      "uri": "https://api.scryfall.com/cards/c80136c2-7230-4fe5-b7dc-37ee32f1bd8e"
+    },
+    {
+      "object": "related_card",
+      "id": "e056904d-4bd6-41c9-93e9-6cd4860dbfcb",
+      "component": "combo_piece",
+      "name": "Dack Fayden",
+      "type_line": "Legendary Planeswalker — Dack",
+      "uri": "https://api.scryfall.com/cards/e056904d-4bd6-41c9-93e9-6cd4860dbfcb"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "1e6879fe-2f29-4ad7-8d42-7f5bfb469f4a",
+  "set": "mb2",
+  "set_name": "Mystery Booster 2",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/1e6879fe-2f29-4ad7-8d42-7f5bfb469f4a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amb2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mb2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e056904d-4bd6-41c9-93e9-6cd4860dbfcb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9d4b1e44-3c66-4b1b-8a1d-308aa4f841f8&unique=prints",
+  "collector_number": "80",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Eric Deschamps",
+  "artist_ids": [
+    "37970e22-9cee-44c1-af44-5ee27cf26b76"
+  ],
+  "illustration_id": "37c6b2f9-96bf-4510-9765-ea04b36052f7",
+  "border_color": "white",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5901,
+  "prices": {
+    "usd": "1.20",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "3.21",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=677756&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDack%2BFayden",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDack%2BFayden",
+    "edhrec": "https://edhrec.com/route/?cc=Dack+Fayden"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F563238%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=784553&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/134052?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

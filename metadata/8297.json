@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "1329b3dc-c08a-4e9d-a354-0fdb60fb1a95",
+  "oracle_id": "fea32d4e-ceef-4954-a84d-e7e2509e4a13",
+  "multiverse_ids": [],
+  "tcgplayer_id": 231611,
+  "cardmarket_id": 535837,
+  "name": "Firja's Retribution",
+  "lang": "en",
+  "released_at": "2021-02-05",
+  "uri": "https://api.scryfall.com/cards/1329b3dc-c08a-4e9d-a354-0fdb60fb1a95",
+  "scryfall_uri": "https://scryfall.com/card/pkhm/210s/firjas-retribution?utm_source=api",
+  "layout": "saga",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/3/1329b3dc-c08a-4e9d-a354-0fdb60fb1a95.jpg?1628380519",
+    "normal": "https://cards.scryfall.io/normal/front/1/3/1329b3dc-c08a-4e9d-a354-0fdb60fb1a95.jpg?1628380519",
+    "large": "https://cards.scryfall.io/large/front/1/3/1329b3dc-c08a-4e9d-a354-0fdb60fb1a95.jpg?1628380519",
+    "png": "https://cards.scryfall.io/png/front/1/3/1329b3dc-c08a-4e9d-a354-0fdb60fb1a95.png?1628380519",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/3/1329b3dc-c08a-4e9d-a354-0fdb60fb1a95.jpg?1628380519",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/3/1329b3dc-c08a-4e9d-a354-0fdb60fb1a95.jpg?1628380519"
+  },
+  "mana_cost": "{1}{W}{W}{B}",
+  "cmc": 4,
+  "type_line": "Enchantment — Saga",
+  "oracle_text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Create a 4/4 white Angel Warrior creature token with flying and vigilance.\nII — Until end of turn, Angels you control gain \"{T}: Destroy target creature with power less than this creature's power.\"\nIII — Angels you control gain double strike until end of turn.",
+  "colors": [
+    "B",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "3bd871a3-3802-4bdc-8033-3ecfd01c0449",
+      "component": "token",
+      "name": "Angel Warrior",
+      "type_line": "Token Creature — Angel Warrior",
+      "uri": "https://api.scryfall.com/cards/3bd871a3-3802-4bdc-8033-3ecfd01c0449"
+    },
+    {
+      "object": "related_card",
+      "id": "1329b3dc-c08a-4e9d-a354-0fdb60fb1a95",
+      "component": "combo_piece",
+      "name": "Firja's Retribution",
+      "type_line": "Enchantment — Saga",
+      "uri": "https://api.scryfall.com/cards/1329b3dc-c08a-4e9d-a354-0fdb60fb1a95"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d7b6bf0-0ded-49a0-8c0e-b1ae2bfba77c",
+  "set": "pkhm",
+  "set_name": "Kaldheim Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/4d7b6bf0-0ded-49a0-8c0e-b1ae2bfba77c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apkhm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pkhm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1329b3dc-c08a-4e9d-a354-0fdb60fb1a95/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afea32d4e-ceef-4954-a84d-e7e2509e4a13&unique=prints",
+  "collector_number": "210s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Anna Steinbauer",
+  "artist_ids": [
+    "3516496c-c279-4b56-8239-720683d03ae0"
+  ],
+  "illustration_id": "2fbbf041-0506-4b1f-822d-f737064b91d8",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 6174,
+  "penny_rank": 2472,
+  "prices": {
+    "usd": null,
+    "usd_foil": "2.04",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "1.17",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFirja%2527s%2BRetribution",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFirja%2527s%2BRetribution",
+    "edhrec": "https://edhrec.com/route/?cc=Firja%27s+Retribution"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F231611%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=535837&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Firja%27s+Retribution&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

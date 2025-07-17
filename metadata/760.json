@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "01b55966-0910-484d-9b2b-0a59233c44c4",
+  "oracle_id": "08887c45-02e5-40a3-b13f-5245a80938ff",
+  "multiverse_ids": [],
+  "name": "Darkstar Augur",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/01b55966-0910-484d-9b2b-0a59233c44c4",
+  "scryfall_uri": "https://scryfall.com/card/tblb/11/darkstar-augur?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/1/01b55966-0910-484d-9b2b-0a59233c44c4.jpg?1721425749",
+    "normal": "https://cards.scryfall.io/normal/front/0/1/01b55966-0910-484d-9b2b-0a59233c44c4.jpg?1721425749",
+    "large": "https://cards.scryfall.io/large/front/0/1/01b55966-0910-484d-9b2b-0a59233c44c4.jpg?1721425749",
+    "png": "https://cards.scryfall.io/png/front/0/1/01b55966-0910-484d-9b2b-0a59233c44c4.png?1721425749",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/1/01b55966-0910-484d-9b2b-0a59233c44c4.jpg?1721425749",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/1/01b55966-0910-484d-9b2b-0a59233c44c4.jpg?1721425749"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3,
+  "type_line": "Token Creature — Bat Warlock",
+  "oracle_text": "Flying\nAt the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.\n(This token's mana cost is {2}{B}.)",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "01b55966-0910-484d-9b2b-0a59233c44c4",
+      "component": "token",
+      "name": "Darkstar Augur",
+      "type_line": "Token Creature — Bat Warlock",
+      "uri": "https://api.scryfall.com/cards/01b55966-0910-484d-9b2b-0a59233c44c4"
+    },
+    {
+      "object": "related_card",
+      "id": "0510abf3-5e6c-4b05-818e-7c6184a3092b",
+      "component": "combo_piece",
+      "name": "Darkstar Augur",
+      "type_line": "Creature — Bat Warlock",
+      "uri": "https://api.scryfall.com/cards/0510abf3-5e6c-4b05-818e-7c6184a3092b"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "98ffb0ad-639e-4861-b81d-dd5ae734badf",
+  "set": "tblb",
+  "set_name": "Bloomburrow Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/98ffb0ad-639e-4861-b81d-dd5ae734badf",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atblb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tblb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/01b55966-0910-484d-9b2b-0a59233c44c4/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A08887c45-02e5-40a3-b13f-5245a80938ff&unique=prints",
+  "collector_number": "11",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Irina Nordsol",
+  "artist_ids": [
+    "1e4cb52d-476e-4c68-ac87-2e620aede6d4"
+  ],
+  "illustration_id": "549285d9-6534-45ed-8e8e-8adb5683f9ed",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDarkstar%2BAugur",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDarkstar%2BAugur",
+    "edhrec": "https://edhrec.com/route/?cc=Darkstar+Augur"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DDarkstar%2BAugur%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Darkstar+Augur&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Darkstar+Augur&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

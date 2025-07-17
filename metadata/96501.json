@@ -1,0 +1,118 @@
+{
+  "object": "card",
+  "id": "e3de0391-c658-4dab-bef1-2aaf4eae7720",
+  "oracle_id": "b2c6aa39-2d2a-459c-a555-fb48ba993373",
+  "multiverse_ids": [],
+  "mtgo_id": 104262,
+  "mtgo_foil_id": 104263,
+  "tcgplayer_id": 456748,
+  "cardmarket_id": 696582,
+  "name": "Island",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/e3de0391-c658-4dab-bef1-2aaf4eae7720",
+  "scryfall_uri": "https://scryfall.com/card/scd/337/island?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/3/e3de0391-c658-4dab-bef1-2aaf4eae7720.jpg?1674676707",
+    "normal": "https://cards.scryfall.io/normal/front/e/3/e3de0391-c658-4dab-bef1-2aaf4eae7720.jpg?1674676707",
+    "large": "https://cards.scryfall.io/large/front/e/3/e3de0391-c658-4dab-bef1-2aaf4eae7720.jpg?1674676707",
+    "png": "https://cards.scryfall.io/png/front/e/3/e3de0391-c658-4dab-bef1-2aaf4eae7720.png?1674676707",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/3/e3de0391-c658-4dab-bef1-2aaf4eae7720.jpg?1674676707",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/3/e3de0391-c658-4dab-bef1-2aaf4eae7720.jpg?1674676707"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Basic Land — Island",
+  "oracle_text": "({T}: Add {U}.)",
+  "colors": [],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "U"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set": "scd",
+  "set_name": "Starter Commander Decks",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ascd&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/scd?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e3de0391-c658-4dab-bef1-2aaf4eae7720/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab2c6aa39-2d2a-459c-a555-fb48ba993373&unique=prints",
+  "collector_number": "337",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alayna Danner",
+  "artist_ids": [
+    "bb677b1a-ce51-4888-83d6-5a94de461ff9"
+  ],
+  "illustration_id": "a041f3fb-e716-4953-bcb3-68a3c01922db",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.15",
+    "eur_foil": null,
+    "tix": "0.20"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DIsland",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DIsland",
+    "edhrec": "https://edhrec.com/route/?cc=Island"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F456748%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=696582&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/104262?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "object": "card",
+  "id": "a7dee31c-b6e8-49c4-9a0d-0957a5f8e03b",
+  "oracle_id": "1803850e-9499-4bf7-a4d9-6bf655cbe87d",
+  "multiverse_ids": [],
+  "arena_id": 63343,
+  "name": "Mausoleum Wanderer",
+  "lang": "en",
+  "released_at": "2022-07-28",
+  "uri": "https://api.scryfall.com/cards/a7dee31c-b6e8-49c4-9a0d-0957a5f8e03b",
+  "scryfall_uri": "https://scryfall.com/card/ea1/4/mausoleum-wanderer?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/7/a7dee31c-b6e8-49c4-9a0d-0957a5f8e03b.jpg?1679616067",
+    "normal": "https://cards.scryfall.io/normal/front/a/7/a7dee31c-b6e8-49c4-9a0d-0957a5f8e03b.jpg?1679616067",
+    "large": "https://cards.scryfall.io/large/front/a/7/a7dee31c-b6e8-49c4-9a0d-0957a5f8e03b.jpg?1679616067",
+    "png": "https://cards.scryfall.io/png/front/a/7/a7dee31c-b6e8-49c4-9a0d-0957a5f8e03b.png?1679616067",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/7/a7dee31c-b6e8-49c4-9a0d-0957a5f8e03b.jpg?1679616067",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/7/a7dee31c-b6e8-49c4-9a0d-0957a5f8e03b.jpg?1679616067"
+  },
+  "mana_cost": "{U}",
+  "cmc": 1,
+  "type_line": "Creature — Spirit",
+  "oracle_text": "Flying\nWhenever another Spirit you control enters, this creature gets +1/+1 until end of turn.\nSacrifice this creature: Counter target instant or sorcery spell unless its controller pays {X}, where X is this creature's power.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a4bc595f-421f-4cd0-9a27-2b9fd7c7c2ac",
+  "set": "ea1",
+  "set_name": "Explorer Anthology 1",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/a4bc595f-421f-4cd0-9a27-2b9fd7c7c2ac",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aea1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ea1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a7dee31c-b6e8-49c4-9a0d-0957a5f8e03b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1803850e-9499-4bf7-a4d9-6bf655cbe87d&unique=prints",
+  "collector_number": "4",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kieran Yanner",
+  "artist_ids": [
+    "aa7e89ed-d294-4633-9057-ce04dacfcfa4"
+  ],
+  "illustration_id": "bf31b0c6-dbdc-4ee7-8ef7-5fa97562c200",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 6534,
+  "penny_rank": 1013,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMausoleum%2BWanderer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMausoleum%2BWanderer",
+    "edhrec": "https://edhrec.com/route/?cc=Mausoleum+Wanderer"
+  }
+}

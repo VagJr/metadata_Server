@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "f25e0ef9-29e1-45fe-b9b1-b228594939ab",
+  "oracle_id": "17975a20-2c13-4325-be1e-0bcda5063a2d",
+  "multiverse_ids": [
+    665663
+  ],
+  "mtgo_id": 127039,
+  "tcgplayer_id": 553178,
+  "cardmarket_id": 773013,
+  "name": "Terastodon",
+  "lang": "en",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/f25e0ef9-29e1-45fe-b9b1-b228594939ab",
+  "scryfall_uri": "https://scryfall.com/card/m3c/249/terastodon?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/2/f25e0ef9-29e1-45fe-b9b1-b228594939ab.jpg?1717190597",
+    "normal": "https://cards.scryfall.io/normal/front/f/2/f25e0ef9-29e1-45fe-b9b1-b228594939ab.jpg?1717190597",
+    "large": "https://cards.scryfall.io/large/front/f/2/f25e0ef9-29e1-45fe-b9b1-b228594939ab.jpg?1717190597",
+    "png": "https://cards.scryfall.io/png/front/f/2/f25e0ef9-29e1-45fe-b9b1-b228594939ab.png?1717190597",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/2/f25e0ef9-29e1-45fe-b9b1-b228594939ab.jpg?1717190597",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/2/f25e0ef9-29e1-45fe-b9b1-b228594939ab.jpg?1717190597"
+  },
+  "mana_cost": "{6}{G}{G}",
+  "cmc": 8,
+  "type_line": "Creature — Elephant",
+  "oracle_text": "When this creature enters, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller creates a 3/3 green Elephant creature token.",
+  "power": "9",
+  "toughness": "9",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "9f2f4fec-ad7b-4407-b288-615ec40c4980",
+      "component": "token",
+      "name": "Elephant",
+      "type_line": "Token Creature — Elephant",
+      "uri": "https://api.scryfall.com/cards/9f2f4fec-ad7b-4407-b288-615ec40c4980"
+    },
+    {
+      "object": "related_card",
+      "id": "f25e0ef9-29e1-45fe-b9b1-b228594939ab",
+      "component": "combo_piece",
+      "name": "Terastodon",
+      "type_line": "Creature — Elephant",
+      "uri": "https://api.scryfall.com/cards/f25e0ef9-29e1-45fe-b9b1-b228594939ab"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "f5e00721-cf99-43ba-bf16-b22d56d12c73",
+  "set": "m3c",
+  "set_name": "Modern Horizons 3 Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/f5e00721-cf99-43ba-bf16-b22d56d12c73",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am3c&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/m3c?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f25e0ef9-29e1-45fe-b9b1-b228594939ab/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A17975a20-2c13-4325-be1e-0bcda5063a2d&unique=prints",
+  "collector_number": "249",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lars Grant-West",
+  "artist_ids": [
+    "21ed6499-c4d3-4965-ab02-6c7228275bec"
+  ],
+  "illustration_id": "204a9954-ce36-4824-b7d8-cb5d5d47e685",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "ripplefoil"
+  ],
+  "edhrec_rank": 1089,
+  "penny_rank": 1037,
+  "prices": {
+    "usd": "0.21",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.24",
+    "eur_foil": "1.39",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=665663&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTerastodon",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTerastodon",
+    "edhrec": "https://edhrec.com/route/?cc=Terastodon"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F553178%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=773013&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/127039?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

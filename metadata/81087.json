@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "bf5e2643-d2c3-41b5-b1ac-0428aec32196",
+  "oracle_id": "49479778-c4c0-43ba-a7b7-45f00d067462",
+  "multiverse_ids": [],
+  "tcgplayer_id": 599986,
+  "name": "Maze's End",
+  "lang": "en",
+  "released_at": "2024-12-02",
+  "uri": "https://api.scryfall.com/cards/bf5e2643-d2c3-41b5-b1ac-0428aec32196",
+  "scryfall_uri": "https://scryfall.com/card/sld/1834/mazes-end?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/f/bf5e2643-d2c3-41b5-b1ac-0428aec32196.jpg?1732731682",
+    "normal": "https://cards.scryfall.io/normal/front/b/f/bf5e2643-d2c3-41b5-b1ac-0428aec32196.jpg?1732731682",
+    "large": "https://cards.scryfall.io/large/front/b/f/bf5e2643-d2c3-41b5-b1ac-0428aec32196.jpg?1732731682",
+    "png": "https://cards.scryfall.io/png/front/b/f/bf5e2643-d2c3-41b5-b1ac-0428aec32196.png?1732731682",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/f/bf5e2643-d2c3-41b5-b1ac-0428aec32196.jpg?1732731682",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/f/bf5e2643-d2c3-41b5-b1ac-0428aec32196.jpg?1732731682"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "This land enters tapped.\n{T}: Add {C}.\n{3}, {T}, Return this land to its owner's hand: Search your library for a Gate card, put it onto the battlefield, then shuffle. If you control ten or more Gates with different names, you win the game.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/bf5e2643-d2c3-41b5-b1ac-0428aec32196/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A49479778-c4c0-43ba-a7b7-45f00d067462&unique=prints",
+  "collector_number": "1834",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Natalie Andrewson",
+  "artist_ids": [
+    "cac42b51-4918-423f-9164-7bd5a599585e"
+  ],
+  "illustration_id": "f82443ad-fe71-477e-8f30-534db43ad36a",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "rainbowfoil"
+  ],
+  "edhrec_rank": 2513,
+  "penny_rank": 3245,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/news/announcements/secret-lair-commander-deck-20-ways-to-win-full-decklist",
+    "previewed_at": "2024-11-27"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "7.68",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMaze%2527s%2BEnd",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMaze%2527s%2BEnd",
+    "edhrec": "https://edhrec.com/route/?cc=Maze%27s+End"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F599986%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Maze%27s+End&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Maze%27s+End&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

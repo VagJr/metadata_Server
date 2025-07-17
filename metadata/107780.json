@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "feddb610-e327-4592-8a81-66f8613c1daf",
+  "oracle_id": "77eeeb35-2f73-4956-8f5c-e50554758a72",
+  "multiverse_ids": [],
+  "name": "Zombie Warrior",
+  "lang": "en",
+  "released_at": "2025-02-14",
+  "uri": "https://api.scryfall.com/cards/feddb610-e327-4592-8a81-66f8613c1daf",
+  "scryfall_uri": "https://scryfall.com/card/tdrc/9/zombie-warrior?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/e/feddb610-e327-4592-8a81-66f8613c1daf.jpg?1738355164",
+    "normal": "https://cards.scryfall.io/normal/front/f/e/feddb610-e327-4592-8a81-66f8613c1daf.jpg?1738355164",
+    "large": "https://cards.scryfall.io/large/front/f/e/feddb610-e327-4592-8a81-66f8613c1daf.jpg?1738355164",
+    "png": "https://cards.scryfall.io/png/front/f/e/feddb610-e327-4592-8a81-66f8613c1daf.png?1738355164",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/e/feddb610-e327-4592-8a81-66f8613c1daf.jpg?1738355164",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/e/feddb610-e327-4592-8a81-66f8613c1daf.jpg?1738355164"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Zombie Warrior",
+  "oracle_text": "Vigilance",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Vigilance"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6453140c-6588-41d8-b43f-1858d70d9761",
+      "component": "combo_piece",
+      "name": "God-Eternal Oketra",
+      "type_line": "Legendary Creature — Zombie God",
+      "uri": "https://api.scryfall.com/cards/6453140c-6588-41d8-b43f-1858d70d9761"
+    },
+    {
+      "object": "related_card",
+      "id": "feddb610-e327-4592-8a81-66f8613c1daf",
+      "component": "token",
+      "name": "Zombie Warrior",
+      "type_line": "Token Creature — Zombie Warrior",
+      "uri": "https://api.scryfall.com/cards/feddb610-e327-4592-8a81-66f8613c1daf"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "f51d00d3-6ab4-4fa9-90ce-702aed612e9b",
+  "set": "tdrc",
+  "set_name": "Aetherdrift Commander Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/f51d00d3-6ab4-4fa9-90ce-702aed612e9b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdrc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tdrc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/feddb610-e327-4592-8a81-66f8613c1daf/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A77eeeb35-2f73-4956-8f5c-e50554758a72&unique=prints",
+  "collector_number": "9",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mike Bierek",
+  "artist_ids": [
+    "e5f52ef5-1a2e-4128-90b0-ccc71cd47ea7"
+  ],
+  "illustration_id": "81b5c822-90c0-4dc6-8d46-9138db0ef76a",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DZombie%2BWarrior",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DZombie%2BWarrior",
+    "edhrec": "https://edhrec.com/route/?cc=Zombie+Warrior"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DZombie%2BWarrior%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Zombie+Warrior&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Zombie+Warrior&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

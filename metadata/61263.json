@@ -1,0 +1,172 @@
+{
+  "object": "card",
+  "id": "90c5c8e0-0744-4bd3-a5a1-ca71c287569b",
+  "oracle_id": "b981af39-4ee6-4fbc-9a89-618dcad9dfbf",
+  "multiverse_ids": [
+    661501
+  ],
+  "mtgo_id": 125751,
+  "tcgplayer_id": 552464,
+  "cardmarket_id": 771611,
+  "name": "The Necrobloom",
+  "lang": "en",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/90c5c8e0-0744-4bd3-a5a1-ca71c287569b",
+  "scryfall_uri": "https://scryfall.com/card/mh3/378/the-necrobloom?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/0/90c5c8e0-0744-4bd3-a5a1-ca71c287569b.jpg?1719466273",
+    "normal": "https://cards.scryfall.io/normal/front/9/0/90c5c8e0-0744-4bd3-a5a1-ca71c287569b.jpg?1719466273",
+    "large": "https://cards.scryfall.io/large/front/9/0/90c5c8e0-0744-4bd3-a5a1-ca71c287569b.jpg?1719466273",
+    "png": "https://cards.scryfall.io/png/front/9/0/90c5c8e0-0744-4bd3-a5a1-ca71c287569b.png?1719466273",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/0/90c5c8e0-0744-4bd3-a5a1-ca71c287569b.jpg?1719466273",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/0/90c5c8e0-0744-4bd3-a5a1-ca71c287569b.jpg?1719466273"
+  },
+  "mana_cost": "{1}{W}{B}{G}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Plant",
+  "oracle_text": "Landfall — Whenever a land you control enters, create a 0/1 green Plant creature token. If you control seven or more lands with different names, create a 2/2 black Zombie creature token instead.\nLand cards in your graveyard have dredge 2. (You may return a land card from your graveyard to your hand and mill two cards instead of drawing a card.)",
+  "power": "2",
+  "toughness": "7",
+  "colors": [
+    "B",
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "W"
+  ],
+  "keywords": [
+    "Mill",
+    "Landfall"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "5fe4969b-2b18-4958-af28-88bdf92dac2c",
+      "component": "combo_piece",
+      "name": "The Necrobloom",
+      "type_line": "Legendary Creature — Plant",
+      "uri": "https://api.scryfall.com/cards/5fe4969b-2b18-4958-af28-88bdf92dac2c"
+    },
+    {
+      "object": "related_card",
+      "id": "909f85b2-0d7b-42ac-a0b7-402e20cedab4",
+      "component": "token",
+      "name": "Plant",
+      "type_line": "Token Creature — Plant",
+      "uri": "https://api.scryfall.com/cards/909f85b2-0d7b-42ac-a0b7-402e20cedab4"
+    },
+    {
+      "object": "related_card",
+      "id": "4c923eed-3d09-4b38-a884-513700aebca3",
+      "component": "token",
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "uri": "https://api.scryfall.com/cards/4c923eed-3d09-4b38-a884-513700aebca3"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/90c5c8e0-0744-4bd3-a5a1-ca71c287569b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab981af39-4ee6-4fbc-9a89-618dcad9dfbf&unique=prints",
+  "collector_number": "378",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ivan Shavrin",
+  "artist_ids": [
+    "48432182-db18-4106-81c8-7b83100316d6"
+  ],
+  "illustration_id": "1448a7d5-28f4-49a8-bfae-1508d247b911",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "portrait",
+    "boosterfun"
+  ],
+  "edhrec_rank": 3876,
+  "penny_rank": 5549,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/products/modern-horizons-3/card-image-gallery",
+    "previewed_at": "2024-05-22"
+  },
+  "prices": {
+    "usd": "0.94",
+    "usd_foil": "3.72",
+    "usd_etched": null,
+    "eur": "0.46",
+    "eur_foil": "2.23",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=661501&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThe%2BNecrobloom",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThe%2BNecrobloom",
+    "edhrec": "https://edhrec.com/route/?cc=The+Necrobloom"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F552464%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=771611&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/125751?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

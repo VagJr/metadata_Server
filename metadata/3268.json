@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "078d0194-0137-45cd-977a-eefae67f9bca",
+  "oracle_id": "ae96fe7e-8d89-4f44-9cc4-3c9b124fdc4b",
+  "multiverse_ids": [
+    544753
+  ],
+  "tcgplayer_id": 252928,
+  "cardmarket_id": 581339,
+  "name": "Dig Up",
+  "lang": "en",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/078d0194-0137-45cd-977a-eefae67f9bca",
+  "scryfall_uri": "https://scryfall.com/card/vow/387/dig-up?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/7/078d0194-0137-45cd-977a-eefae67f9bca.jpg?1646615939",
+    "normal": "https://cards.scryfall.io/normal/front/0/7/078d0194-0137-45cd-977a-eefae67f9bca.jpg?1646615939",
+    "large": "https://cards.scryfall.io/large/front/0/7/078d0194-0137-45cd-977a-eefae67f9bca.jpg?1646615939",
+    "png": "https://cards.scryfall.io/png/front/0/7/078d0194-0137-45cd-977a-eefae67f9bca.png?1646615939",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/7/078d0194-0137-45cd-977a-eefae67f9bca.jpg?1646615939",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/7/078d0194-0137-45cd-977a-eefae67f9bca.jpg?1646615939"
+  },
+  "mana_cost": "{G}",
+  "cmc": 1,
+  "type_line": "Sorcery",
+  "oracle_text": "Cleave {1}{B}{B}{G} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)\nSearch your library for a [basic land] card, [reveal it,] put it into your hand, then shuffle.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [
+    "Cleave"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/vow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/078d0194-0137-45cd-977a-eefae67f9bca/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aae96fe7e-8d89-4f44-9cc4-3c9b124fdc4b&unique=prints",
+  "collector_number": "387",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Slawomir Maniak",
+  "artist_ids": [
+    "d887bc66-2779-416c-a1ff-d8720242063e"
+  ],
+  "illustration_id": "0b54a0f0-9e0e-4c1f-882d-ba54205f7e6d",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 3888,
+  "penny_rank": 1362,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/1189365133",
+    "previewed_at": "2021-10-28"
+  },
+  "prices": {
+    "usd": "0.52",
+    "usd_foil": "0.53",
+    "usd_etched": null,
+    "eur": "0.75",
+    "eur_foil": "1.07",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=544753&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDig%2BUp",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDig%2BUp",
+    "edhrec": "https://edhrec.com/route/?cc=Dig+Up"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F252928%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=581339&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dig+Up&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "cb966bb2-1634-400e-9dd0-b8befda81f6a",
+  "oracle_id": "5aa3abf1-d56b-4f42-8c84-7e5a2c15ee0f",
+  "multiverse_ids": [],
+  "tcgplayer_id": 205607,
+  "cardmarket_id": 427371,
+  "name": "Nissa, Who Shakes the World",
+  "lang": "en",
+  "released_at": "2020-02-18",
+  "uri": "https://api.scryfall.com/cards/cb966bb2-1634-400e-9dd0-b8befda81f6a",
+  "scryfall_uri": "https://scryfall.com/card/sld/518/nissa-who-shakes-the-world?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/b/cb966bb2-1634-400e-9dd0-b8befda81f6a.jpg?1599004782",
+    "normal": "https://cards.scryfall.io/normal/front/c/b/cb966bb2-1634-400e-9dd0-b8befda81f6a.jpg?1599004782",
+    "large": "https://cards.scryfall.io/large/front/c/b/cb966bb2-1634-400e-9dd0-b8befda81f6a.jpg?1599004782",
+    "png": "https://cards.scryfall.io/png/front/c/b/cb966bb2-1634-400e-9dd0-b8befda81f6a.png?1599004782",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/b/cb966bb2-1634-400e-9dd0-b8befda81f6a.jpg?1599004782",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/b/cb966bb2-1634-400e-9dd0-b8befda81f6a.jpg?1599004782"
+  },
+  "mana_cost": "{3}{G}{G}",
+  "cmc": 5,
+  "type_line": "Legendary Planeswalker — Nissa",
+  "oracle_text": "Whenever you tap a Forest for mana, add an additional {G}.\n+1: Put three +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with vigilance and haste that's still a land.\n−8: You get an emblem with \"Lands you control have indestructible.\" Search your library for any number of Forest cards, put them onto the battlefield tapped, then shuffle.",
+  "loyalty": "5",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "G"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "62a31fb1-a323-47e1-b455-489623889794",
+      "component": "combo_piece",
+      "name": "Nissa, Who Shakes the World",
+      "type_line": "Legendary Planeswalker — Nissa",
+      "uri": "https://api.scryfall.com/cards/62a31fb1-a323-47e1-b455-489623889794"
+    },
+    {
+      "object": "related_card",
+      "id": "56b191fe-7a92-4d08-91a4-036699d08bc4",
+      "component": "combo_piece",
+      "name": "Nissa, Who Shakes the World Emblem",
+      "type_line": "Emblem — Nissa",
+      "uri": "https://api.scryfall.com/cards/56b191fe-7a92-4d08-91a4-036699d08bc4"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/cb966bb2-1634-400e-9dd0-b8befda81f6a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5aa3abf1-d56b-4f42-8c84-7e5a2c15ee0f&unique=prints",
+  "collector_number": "518",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rallis",
+  "artist_ids": [
+    "a8e7b854-b15a-421a-b66d-6e68187ae285"
+  ],
+  "illustration_id": "839ec2d4-53f2-4a50-9919-34a2eb11bf01",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "sldbonus"
+  ],
+  "edhrec_rank": 1382,
+  "penny_rank": 1241,
+  "prices": {
+    "usd": null,
+    "usd_foil": "3.51",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "3.86",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNissa%252C%2BWho%2BShakes%2Bthe%2BWorld",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNissa%252C%2BWho%2BShakes%2Bthe%2BWorld",
+    "edhrec": "https://edhrec.com/route/?cc=Nissa%2C+Who+Shakes+the+World"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F205607%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=427371&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nissa%2C+Who+Shakes+the+World&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

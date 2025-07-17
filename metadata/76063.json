@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "b38c1c4a-5b5f-4d60-8d9c-cdd5db6ad4c5",
+  "oracle_id": "56148ae7-a9df-4771-8d53-d9ffb815c884",
+  "multiverse_ids": [],
+  "tcgplayer_id": 582669,
+  "name": "Sublime Epiphany",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/b38c1c4a-5b5f-4d60-8d9c-cdd5db6ad4c5",
+  "scryfall_uri": "https://scryfall.com/card/plst/M21-74/sublime-epiphany?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/3/b38c1c4a-5b5f-4d60-8d9c-cdd5db6ad4c5.jpg?1723439256",
+    "normal": "https://cards.scryfall.io/normal/front/b/3/b38c1c4a-5b5f-4d60-8d9c-cdd5db6ad4c5.jpg?1723439256",
+    "large": "https://cards.scryfall.io/large/front/b/3/b38c1c4a-5b5f-4d60-8d9c-cdd5db6ad4c5.jpg?1723439256",
+    "png": "https://cards.scryfall.io/png/front/b/3/b38c1c4a-5b5f-4d60-8d9c-cdd5db6ad4c5.png?1723439256",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/3/b38c1c4a-5b5f-4d60-8d9c-cdd5db6ad4c5.jpg?1723439256",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/3/b38c1c4a-5b5f-4d60-8d9c-cdd5db6ad4c5.jpg?1723439256"
+  },
+  "mana_cost": "{4}{U}{U}",
+  "cmc": 6,
+  "type_line": "Instant",
+  "oracle_text": "Choose one or more —\n• Counter target spell.\n• Counter target activated or triggered ability.\n• Return target nonland permanent to its owner's hand.\n• Create a token that's a copy of target creature you control.\n• Target player draws a card.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "b38c1c4a-5b5f-4d60-8d9c-cdd5db6ad4c5",
+      "component": "combo_piece",
+      "name": "Sublime Epiphany",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/b38c1c4a-5b5f-4d60-8d9c-cdd5db6ad4c5"
+    },
+    {
+      "object": "related_card",
+      "id": "00560d67-5299-4681-952b-d153d82bedaf",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/00560d67-5299-4681-952b-d153d82bedaf"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b38c1c4a-5b5f-4d60-8d9c-cdd5db6ad4c5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A56148ae7-a9df-4771-8d53-d9ffb815c884&unique=prints",
+  "collector_number": "M21-74",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lindsey Look",
+  "artist_ids": [
+    "95bc132d-37aa-4063-8ed8-04d489e826cd"
+  ],
+  "illustration_id": "a1b72b6a-21a1-4e17-a9b9-0f8451775d98",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1761,
+  "penny_rank": 2971,
+  "prices": {
+    "usd": "1.21",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSublime%2BEpiphany",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSublime%2BEpiphany",
+    "edhrec": "https://edhrec.com/route/?cc=Sublime+Epiphany"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F582669%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sublime+Epiphany&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sublime+Epiphany&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

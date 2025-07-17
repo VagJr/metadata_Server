@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "b7cbccca-6fa8-45a1-aaa9-f3671b7bc68d",
+  "oracle_id": "04853f06-3fd2-445d-9b0d-d68d0f116635",
+  "multiverse_ids": [
+    580324
+  ],
+  "tcgplayer_id": 283215,
+  "name": "Verrak, Warped Sengir",
+  "lang": "en",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/b7cbccca-6fa8-45a1-aaa9-f3671b7bc68d",
+  "scryfall_uri": "https://scryfall.com/card/dmc/92/verrak-warped-sengir?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/7/b7cbccca-6fa8-45a1-aaa9-f3671b7bc68d.jpg?1686851923",
+    "normal": "https://cards.scryfall.io/normal/front/b/7/b7cbccca-6fa8-45a1-aaa9-f3671b7bc68d.jpg?1686851923",
+    "large": "https://cards.scryfall.io/large/front/b/7/b7cbccca-6fa8-45a1-aaa9-f3671b7bc68d.jpg?1686851923",
+    "png": "https://cards.scryfall.io/png/front/b/7/b7cbccca-6fa8-45a1-aaa9-f3671b7bc68d.png?1686851923",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/7/b7cbccca-6fa8-45a1-aaa9-f3671b7bc68d.jpg?1686851923",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/7/b7cbccca-6fa8-45a1-aaa9-f3671b7bc68d.jpg?1686851923"
+  },
+  "mana_cost": "{1}{W}{B}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Vampire",
+  "oracle_text": "Flying, deathtouch, lifelink\nWhenever you activate an ability that isn't a mana ability, if life was paid to activate it, you may pay that much life again. If you do, copy that ability. You may choose new targets for the copy.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [
+    "Deathtouch",
+    "Flying",
+    "Lifelink"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "78076b27-f888-4723-b27c-44074accd261",
+  "set": "dmc",
+  "set_name": "Dominaria United Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/78076b27-f888-4723-b27c-44074accd261",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dmc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b7cbccca-6fa8-45a1-aaa9-f3671b7bc68d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A04853f06-3fd2-445d-9b0d-d68d0f116635&unique=prints",
+  "collector_number": "92",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alix Branwyn",
+  "artist_ids": [
+    "4f0a0e38-d74c-4e0b-ad91-fecccb1afa5d"
+  ],
+  "illustration_id": "e1454e94-c3a7-4777-9516-e6a50376a06f",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart",
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 9744,
+  "prices": {
+    "usd": "0.81",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=580324&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVerrak%252C%2BWarped%2BSengir",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVerrak%252C%2BWarped%2BSengir",
+    "edhrec": "https://edhrec.com/route/?cc=Verrak%2C+Warped+Sengir"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F283215%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Verrak%2C+Warped+Sengir&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Verrak%2C+Warped+Sengir&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

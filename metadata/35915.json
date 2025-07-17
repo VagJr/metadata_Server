@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "54fa5e72-ca3a-4f4e-b352-66d9f881479a",
+  "oracle_id": "a93b5956-c11e-434e-bed5-94af9de55382",
+  "multiverse_ids": [],
+  "tcgplayer_id": 582753,
+  "name": "Nezumi Prowler",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/54fa5e72-ca3a-4f4e-b352-66d9f881479a",
+  "scryfall_uri": "https://scryfall.com/card/plst/NEO-116/nezumi-prowler?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/4/54fa5e72-ca3a-4f4e-b352-66d9f881479a.jpg?1723440673",
+    "normal": "https://cards.scryfall.io/normal/front/5/4/54fa5e72-ca3a-4f4e-b352-66d9f881479a.jpg?1723440673",
+    "large": "https://cards.scryfall.io/large/front/5/4/54fa5e72-ca3a-4f4e-b352-66d9f881479a.jpg?1723440673",
+    "png": "https://cards.scryfall.io/png/front/5/4/54fa5e72-ca3a-4f4e-b352-66d9f881479a.png?1723440673",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/4/54fa5e72-ca3a-4f4e-b352-66d9f881479a.jpg?1723440673",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/4/54fa5e72-ca3a-4f4e-b352-66d9f881479a.jpg?1723440673"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2,
+  "type_line": "Artifact Creature — Rat Ninja",
+  "oracle_text": "Ninjutsu {1}{B} ({1}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhen this creature enters, target creature you control gains deathtouch and lifelink until end of turn.",
+  "power": "3",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Ninjutsu"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "54fa5e72-ca3a-4f4e-b352-66d9f881479a",
+      "component": "combo_piece",
+      "name": "Nezumi Prowler",
+      "type_line": "Artifact Creature — Rat Ninja",
+      "uri": "https://api.scryfall.com/cards/54fa5e72-ca3a-4f4e-b352-66d9f881479a"
+    },
+    {
+      "object": "related_card",
+      "id": "8b7d51c6-a9c8-47b8-b120-d72a1f2aa439",
+      "component": "combo_piece",
+      "name": "A-Nezumi Prowler",
+      "type_line": "Artifact Creature — Rat Ninja",
+      "uri": "https://api.scryfall.com/cards/8b7d51c6-a9c8-47b8-b120-d72a1f2aa439"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/54fa5e72-ca3a-4f4e-b352-66d9f881479a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa93b5956-c11e-434e-bed5-94af9de55382&unique=prints",
+  "collector_number": "NEO-116",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Joseph Weston",
+  "artist_ids": [
+    "50365a81-fa9f-4fcf-aa83-6a57c63ad43e"
+  ],
+  "illustration_id": "9311cb4e-cc5f-457d-b665-59f247e44a41",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 5505,
+  "penny_rank": 5706,
+  "prices": {
+    "usd": "0.14",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNezumi%2BProwler",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNezumi%2BProwler",
+    "edhrec": "https://edhrec.com/route/?cc=Nezumi+Prowler"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F582753%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nezumi+Prowler&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nezumi+Prowler&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

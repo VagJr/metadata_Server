@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "eb911c1f-cc19-47a3-9908-5e04529a70c9",
+  "oracle_id": "153376c9-dffd-458c-8ce3-a4c8269bc4e9",
+  "multiverse_ids": [],
+  "mtgo_id": 102227,
+  "name": "Smothering Tithe",
+  "lang": "en",
+  "released_at": "2022-09-26",
+  "uri": "https://api.scryfall.com/cards/eb911c1f-cc19-47a3-9908-5e04529a70c9",
+  "scryfall_uri": "https://scryfall.com/card/prm/102227/smothering-tithe?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/b/eb911c1f-cc19-47a3-9908-5e04529a70c9.jpg?1681136404",
+    "normal": "https://cards.scryfall.io/normal/front/e/b/eb911c1f-cc19-47a3-9908-5e04529a70c9.jpg?1681136404",
+    "large": "https://cards.scryfall.io/large/front/e/b/eb911c1f-cc19-47a3-9908-5e04529a70c9.jpg?1681136404",
+    "png": "https://cards.scryfall.io/png/front/e/b/eb911c1f-cc19-47a3-9908-5e04529a70c9.png?1681136404",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/b/eb911c1f-cc19-47a3-9908-5e04529a70c9.jpg?1681136404",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/b/eb911c1f-cc19-47a3-9908-5e04529a70c9.jpg?1681136404"
+  },
+  "mana_cost": "{3}{W}",
+  "cmc": 4,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever an opponent draws a card, that player may pay {2}. If the player doesn't, you create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Treasure"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "eb911c1f-cc19-47a3-9908-5e04529a70c9",
+      "component": "combo_piece",
+      "name": "Smothering Tithe",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/eb911c1f-cc19-47a3-9908-5e04529a70c9"
+    },
+    {
+      "object": "related_card",
+      "id": "73f94f72-a689-41ca-b1af-6004e2a57e9c",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/73f94f72-a689-41ca-b1af-6004e2a57e9c"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": true,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/eb911c1f-cc19-47a3-9908-5e04529a70c9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A153376c9-dffd-458c-8ce3-a4c8269bc4e9&unique=prints",
+  "collector_number": "102227",
+  "digital": true,
+  "rarity": "rare",
+  "flavor_text": "\"Oh, how I love gold. I'd eat and breathe it if I could.\"\n—Leland, tax collector",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Pete Venters",
+  "artist_ids": [
+    "d54c4a1a-c0c5-4834-84db-125d341f3ad8"
+  ],
+  "illustration_id": "e763aa5d-d938-4197-b0c7-9a48fdefaa47",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 53,
+  "penny_rank": 4624,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.83"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSmothering%2BTithe",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSmothering%2BTithe",
+    "edhrec": "https://edhrec.com/route/?cc=Smothering+Tithe"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSmothering%2BTithe%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Smothering+Tithe&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/102227?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

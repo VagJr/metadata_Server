@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "1ac12aba-0ec6-4922-94cb-1b77634a603b",
+  "oracle_id": "f4a96881-586d-44ad-b427-5cdf8988f9a1",
+  "multiverse_ids": [],
+  "tcgplayer_id": 204063,
+  "cardmarket_id": 417466,
+  "name": "Memory Erosion",
+  "lang": "en",
+  "released_at": "2019-11-07",
+  "uri": "https://api.scryfall.com/cards/1ac12aba-0ec6-4922-94cb-1b77634a603b",
+  "scryfall_uri": "https://scryfall.com/card/plst/CM2-45/memory-erosion?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/a/1ac12aba-0ec6-4922-94cb-1b77634a603b.jpg?1573507886",
+    "normal": "https://cards.scryfall.io/normal/front/1/a/1ac12aba-0ec6-4922-94cb-1b77634a603b.jpg?1573507886",
+    "large": "https://cards.scryfall.io/large/front/1/a/1ac12aba-0ec6-4922-94cb-1b77634a603b.jpg?1573507886",
+    "png": "https://cards.scryfall.io/png/front/1/a/1ac12aba-0ec6-4922-94cb-1b77634a603b.png?1573507886",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/a/1ac12aba-0ec6-4922-94cb-1b77634a603b.jpg?1573507886",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/a/1ac12aba-0ec6-4922-94cb-1b77634a603b.jpg?1573507886"
+  },
+  "mana_cost": "{1}{U}{U}",
+  "cmc": 3,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever an opponent casts a spell, that player mills two cards.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1ac12aba-0ec6-4922-94cb-1b77634a603b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af4a96881-586d-44ad-b427-5cdf8988f9a1&unique=prints",
+  "collector_number": "CM2-45",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"The Filigree Texts do not compel you to act in accordance with their precepts. They only specify the consequences should you fail.\"\n—Lodus of the Ethersworn",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Howard Lyon",
+  "artist_ids": [
+    "6dd06426-59fe-4b9c-aad5-6da8446a5c3d"
+  ],
+  "illustration_id": "db8e852e-703e-4b27-9441-5cc4c696d16f",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3417,
+  "penny_rank": 8445,
+  "prices": {
+    "usd": "5.93",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "2.99",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMemory%2BErosion",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMemory%2BErosion",
+    "edhrec": "https://edhrec.com/route/?cc=Memory+Erosion"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F204063%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=417466&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Memory+Erosion&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "99645cf7-fd27-487b-949a-cf9f86d43947",
+  "oracle_id": "3ae3b901-4d36-40e2-b861-26209fa1e823",
+  "multiverse_ids": [],
+  "tcgplayer_id": 563839,
+  "cardmarket_id": 785812,
+  "name": "Drana, the Last Bloodchief",
+  "lang": "en",
+  "released_at": "2024-08-19",
+  "uri": "https://api.scryfall.com/cards/99645cf7-fd27-487b-949a-cf9f86d43947",
+  "scryfall_uri": "https://scryfall.com/card/sld/1684/drana-the-last-bloodchief?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/9/99645cf7-fd27-487b-949a-cf9f86d43947.jpg?1723210288",
+    "normal": "https://cards.scryfall.io/normal/front/9/9/99645cf7-fd27-487b-949a-cf9f86d43947.jpg?1723210288",
+    "large": "https://cards.scryfall.io/large/front/9/9/99645cf7-fd27-487b-949a-cf9f86d43947.jpg?1723210288",
+    "png": "https://cards.scryfall.io/png/front/9/9/99645cf7-fd27-487b-949a-cf9f86d43947.png?1723210288",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/9/99645cf7-fd27-487b-949a-cf9f86d43947.jpg?1723210288",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/9/99645cf7-fd27-487b-949a-cf9f86d43947.jpg?1723210288"
+  },
+  "mana_cost": "{3}{B}{B}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Vampire Cleric",
+  "oracle_text": "Flying\nWhenever Drana attacks, defending player chooses a nonlegendary creature card in your graveyard. You return that card to the battlefield with an additional +1/+1 counter on it. The creature is a Vampire in addition to its other types.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/99645cf7-fd27-487b-949a-cf9f86d43947/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3ae3b901-4d36-40e2-b861-26209fa1e823&unique=prints",
+  "collector_number": "1684",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Uta Natsume",
+  "artist_ids": [
+    "03e3512f-03f5-4b26-97ff-ed5d9fb912c9"
+  ],
+  "illustration_id": "3b671ecc-a66c-4b3a-bbf5-ad0a81408553",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5415,
+  "penny_rank": 8409,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/news/feature/whats-inside-mystery-booster-2",
+    "previewed_at": "2024-08-09"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "2.26",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "1.77",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDrana%252C%2Bthe%2BLast%2BBloodchief",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDrana%252C%2Bthe%2BLast%2BBloodchief",
+    "edhrec": "https://edhrec.com/route/?cc=Drana%2C+the+Last+Bloodchief"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F563839%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=785812&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Drana%2C+the+Last+Bloodchief&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

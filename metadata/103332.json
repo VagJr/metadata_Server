@@ -1,0 +1,161 @@
+{
+  "object": "card",
+  "id": "f4542e4f-2fb7-4036-aefc-291f5c010ca8",
+  "oracle_id": "50120e90-2fdf-43c1-93e2-2230ee4e63fc",
+  "multiverse_ids": [
+    673011
+  ],
+  "mtgo_id": 130081,
+  "tcgplayer_id": 575277,
+  "cardmarket_id": 788161,
+  "name": "The Swarmweaver",
+  "lang": "en",
+  "released_at": "2024-09-27",
+  "uri": "https://api.scryfall.com/cards/f4542e4f-2fb7-4036-aefc-291f5c010ca8",
+  "scryfall_uri": "https://scryfall.com/card/dsk/363/the-swarmweaver?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/4/f4542e4f-2fb7-4036-aefc-291f5c010ca8.jpg?1727621014",
+    "normal": "https://cards.scryfall.io/normal/front/f/4/f4542e4f-2fb7-4036-aefc-291f5c010ca8.jpg?1727621014",
+    "large": "https://cards.scryfall.io/large/front/f/4/f4542e4f-2fb7-4036-aefc-291f5c010ca8.jpg?1727621014",
+    "png": "https://cards.scryfall.io/png/front/f/4/f4542e4f-2fb7-4036-aefc-291f5c010ca8.png?1727621014",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/4/f4542e4f-2fb7-4036-aefc-291f5c010ca8.jpg?1727621014",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/4/f4542e4f-2fb7-4036-aefc-291f5c010ca8.jpg?1727621014"
+  },
+  "mana_cost": "{2}{B}{G}",
+  "cmc": 4,
+  "type_line": "Legendary Artifact Creature — Scarecrow",
+  "oracle_text": "When The Swarmweaver enters, create two 1/1 black and green Insect creature tokens with flying.\nDelirium — As long as there are four or more card types among cards in your graveyard, Insects and Spiders you control get +1/+1 and have deathtouch.",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "B",
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [
+    "Delirium"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "f4542e4f-2fb7-4036-aefc-291f5c010ca8",
+      "component": "combo_piece",
+      "name": "The Swarmweaver",
+      "type_line": "Legendary Artifact Creature — Scarecrow",
+      "uri": "https://api.scryfall.com/cards/f4542e4f-2fb7-4036-aefc-291f5c010ca8"
+    },
+    {
+      "object": "related_card",
+      "id": "377f1a20-b270-4b07-9892-7170cd0bee38",
+      "component": "token",
+      "name": "Insect",
+      "type_line": "Token Creature — Insect",
+      "uri": "https://api.scryfall.com/cards/377f1a20-b270-4b07-9892-7170cd0bee38"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a111d8a9-b647-48ec-afab-2b78f92173f5",
+  "set": "dsk",
+  "set_name": "Duskmourn: House of Horror",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/a111d8a9-b647-48ec-afab-2b78f92173f5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adsk&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dsk?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f4542e4f-2fb7-4036-aefc-291f5c010ca8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A50120e90-2fdf-43c1-93e2-2230ee4e63fc&unique=prints",
+  "collector_number": "363",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Sam Wolfe Connelly",
+  "artist_ids": [
+    "e839afac-338b-47fe-a356-04753f69d507"
+  ],
+  "illustration_id": "d011d1bd-5a5d-4238-9008-1df5a4b40826",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "doubleexposure",
+    "boosterfun"
+  ],
+  "edhrec_rank": 7650,
+  "penny_rank": 6323,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.youtube.com/watch?v=8mYQLkstDs8",
+    "previewed_at": "2024-09-03"
+  },
+  "prices": {
+    "usd": "0.35",
+    "usd_foil": "0.39",
+    "usd_etched": null,
+    "eur": "0.21",
+    "eur_foil": "0.30",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=673011&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThe%2BSwarmweaver",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThe%2BSwarmweaver",
+    "edhrec": "https://edhrec.com/route/?cc=The+Swarmweaver"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F575277%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=788161&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/130081?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

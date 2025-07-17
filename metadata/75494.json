@@ -1,0 +1,117 @@
+{
+  "object": "card",
+  "id": "b2313c95-10ba-442e-9520-d85b1d75e89b",
+  "oracle_id": "340ec369-1761-4134-a96d-5537b4e08703",
+  "multiverse_ids": [],
+  "mtgo_id": 32015,
+  "name": "Kiyomaro, First to Stand",
+  "lang": "en",
+  "released_at": "2010-11-04",
+  "uri": "https://api.scryfall.com/cards/b2313c95-10ba-442e-9520-d85b1d75e89b",
+  "scryfall_uri": "https://scryfall.com/card/prm/32015/kiyomaro-first-to-stand?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/2/b2313c95-10ba-442e-9520-d85b1d75e89b.jpg?1562547503",
+    "normal": "https://cards.scryfall.io/normal/front/b/2/b2313c95-10ba-442e-9520-d85b1d75e89b.jpg?1562547503",
+    "large": "https://cards.scryfall.io/large/front/b/2/b2313c95-10ba-442e-9520-d85b1d75e89b.jpg?1562547503",
+    "png": "https://cards.scryfall.io/png/front/b/2/b2313c95-10ba-442e-9520-d85b1d75e89b.png?1562547503",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/2/b2313c95-10ba-442e-9520-d85b1d75e89b.jpg?1562547503",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/2/b2313c95-10ba-442e-9520-d85b1d75e89b.jpg?1562547503"
+  },
+  "mana_cost": "{3}{W}{W}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Spirit",
+  "oracle_text": "Kiyomaro's power and toughness are each equal to the number of cards in your hand.\nAs long as you have four or more cards in hand, Kiyomaro has vigilance.\nWhenever Kiyomaro deals damage, if you have seven or more cards in hand, you gain 7 life.",
+  "power": "*",
+  "toughness": "*",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b2313c95-10ba-442e-9520-d85b1d75e89b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A340ec369-1761-4134-a96d-5537b4e08703&unique=prints",
+  "collector_number": "32015",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ittoku",
+  "artist_ids": [
+    "d3a47c28-84e9-4b53-a236-5066ae1bb62f"
+  ],
+  "illustration_id": "87f4ab8d-be26-4173-8a84-0dcb02ce17b1",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 19059,
+  "penny_rank": 16191,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.97"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKiyomaro%252C%2BFirst%2Bto%2BStand",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKiyomaro%252C%2BFirst%2Bto%2BStand",
+    "edhrec": "https://edhrec.com/route/?cc=Kiyomaro%2C+First+to+Stand"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DKiyomaro%252C%2BFirst%2Bto%2BStand%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kiyomaro%2C+First+to+Stand&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/32015?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "f1684175-6e03-4934-92e3-e2a32725f7f9",
+  "oracle_id": "01e023e5-38bc-4203-aecb-6b2de54b03ea",
+  "multiverse_ids": [],
+  "name": "Soldier",
+  "lang": "en",
+  "released_at": "2023-02-03",
+  "uri": "https://api.scryfall.com/cards/f1684175-6e03-4934-92e3-e2a32725f7f9",
+  "scryfall_uri": "https://scryfall.com/card/tonc/8/soldier?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/1/f1684175-6e03-4934-92e3-e2a32725f7f9.jpg?1675905863",
+    "normal": "https://cards.scryfall.io/normal/front/f/1/f1684175-6e03-4934-92e3-e2a32725f7f9.jpg?1675905863",
+    "large": "https://cards.scryfall.io/large/front/f/1/f1684175-6e03-4934-92e3-e2a32725f7f9.jpg?1675905863",
+    "png": "https://cards.scryfall.io/png/front/f/1/f1684175-6e03-4934-92e3-e2a32725f7f9.png?1675905863",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/1/f1684175-6e03-4934-92e3-e2a32725f7f9.jpg?1675905863",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/1/f1684175-6e03-4934-92e3-e2a32725f7f9.jpg?1675905863"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Soldier",
+  "oracle_text": "Vigilance",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Vigilance"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "f1684175-6e03-4934-92e3-e2a32725f7f9",
+      "component": "token",
+      "name": "Soldier",
+      "type_line": "Token Creature — Soldier",
+      "uri": "https://api.scryfall.com/cards/f1684175-6e03-4934-92e3-e2a32725f7f9"
+    },
+    {
+      "object": "related_card",
+      "id": "9b6b5cb7-26aa-43d6-ae97-24e5efd3c636",
+      "component": "combo_piece",
+      "name": "Finale of Glory",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/9b6b5cb7-26aa-43d6-ae97-24e5efd3c636"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "04ed1b78-cc80-4888-9536-c69facdc19e3",
+  "set": "tonc",
+  "set_name": "Phyrexia: All Will Be One Commander Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/04ed1b78-cc80-4888-9536-c69facdc19e3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atonc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tonc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f1684175-6e03-4934-92e3-e2a32725f7f9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A01e023e5-38bc-4203-aecb-6b2de54b03ea&unique=prints",
+  "collector_number": "8",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Johan Grenier",
+  "artist_ids": [
+    "465e38b8-7eed-4d22-a6d2-d3603ee0c00b"
+  ],
+  "illustration_id": "f6e8bc44-4f12-40bb-8692-7b91583c9e70",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSoldier",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSoldier",
+    "edhrec": "https://edhrec.com/route/?cc=Soldier"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSoldier%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Soldier&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Soldier&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

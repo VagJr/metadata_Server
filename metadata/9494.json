@@ -1,0 +1,150 @@
+{
+  "object": "card",
+  "id": "1614bad6-07db-4a7c-8336-3ac3db393689",
+  "oracle_id": "6588ea9a-658f-40d9-a64b-3a418ab81183",
+  "multiverse_ids": [
+    489857
+  ],
+  "mtgo_id": 82402,
+  "tcgplayer_id": 219527,
+  "cardmarket_id": 486654,
+  "name": "Ulvenwald Mysteries",
+  "lang": "en",
+  "released_at": "2020-08-07",
+  "uri": "https://api.scryfall.com/cards/1614bad6-07db-4a7c-8336-3ac3db393689",
+  "scryfall_uri": "https://scryfall.com/card/2xm/184/ulvenwald-mysteries?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/6/1614bad6-07db-4a7c-8336-3ac3db393689.jpg?1599707631",
+    "normal": "https://cards.scryfall.io/normal/front/1/6/1614bad6-07db-4a7c-8336-3ac3db393689.jpg?1599707631",
+    "large": "https://cards.scryfall.io/large/front/1/6/1614bad6-07db-4a7c-8336-3ac3db393689.jpg?1599707631",
+    "png": "https://cards.scryfall.io/png/front/1/6/1614bad6-07db-4a7c-8336-3ac3db393689.png?1599707631",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/6/1614bad6-07db-4a7c-8336-3ac3db393689.jpg?1599707631",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/6/1614bad6-07db-4a7c-8336-3ac3db393689.jpg?1599707631"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever a nontoken creature you control dies, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nWhenever you sacrifice a Clue, create a 1/1 white Human Soldier creature token.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Investigate"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "d1dfd9b9-8214-4e20-b1c9-48c9f7276883",
+      "component": "token",
+      "name": "Clue",
+      "type_line": "Token Artifact — Clue",
+      "uri": "https://api.scryfall.com/cards/d1dfd9b9-8214-4e20-b1c9-48c9f7276883"
+    },
+    {
+      "object": "related_card",
+      "id": "1614bad6-07db-4a7c-8336-3ac3db393689",
+      "component": "combo_piece",
+      "name": "Ulvenwald Mysteries",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/1614bad6-07db-4a7c-8336-3ac3db393689"
+    },
+    {
+      "object": "related_card",
+      "id": "e3683cc6-70e0-4d33-9fed-6a56ba8b6e9b",
+      "component": "token",
+      "name": "Human Soldier",
+      "type_line": "Token Creature — Human Soldier",
+      "uri": "https://api.scryfall.com/cards/e3683cc6-70e0-4d33-9fed-6a56ba8b6e9b"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "372dafe8-b5d1-4b81-998f-3ae96b59498a",
+  "set": "2xm",
+  "set_name": "Double Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/372dafe8-b5d1-4b81-998f-3ae96b59498a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A2xm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/2xm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1614bad6-07db-4a7c-8336-3ac3db393689/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6588ea9a-658f-40d9-a64b-3a418ab81183&unique=prints",
+  "collector_number": "184",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Greg Opalinski",
+  "artist_ids": [
+    "b864fecb-d491-4f8d-b915-f6c93d0885fa"
+  ],
+  "illustration_id": "891cc7b6-96f8-484a-a3ec-1da6c42449c3",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 5627,
+  "penny_rank": 3725,
+  "prices": {
+    "usd": "0.10",
+    "usd_foil": "0.18",
+    "usd_etched": null,
+    "eur": "0.11",
+    "eur_foil": "0.14",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489857&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DUlvenwald%2BMysteries",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DUlvenwald%2BMysteries",
+    "edhrec": "https://edhrec.com/route/?cc=Ulvenwald+Mysteries"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F219527%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=486654&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/82402?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

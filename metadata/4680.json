@@ -1,0 +1,109 @@
+{
+  "object": "card",
+  "id": "0ac4751c-812a-4990-b093-336f3d6f4502",
+  "oracle_id": "56719f6a-1a6c-4c0a-8d21-18f7d7350b68",
+  "multiverse_ids": [],
+  "arena_id": 62135,
+  "name": "Swamp",
+  "lang": "en",
+  "released_at": "2019-07-27",
+  "uri": "https://api.scryfall.com/cards/0ac4751c-812a-4990-b093-336f3d6f4502",
+  "scryfall_uri": "https://scryfall.com/card/pana/203/swamp?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/a/0ac4751c-812a-4990-b093-336f3d6f4502.jpg?1594958721",
+    "normal": "https://cards.scryfall.io/normal/front/0/a/0ac4751c-812a-4990-b093-336f3d6f4502.jpg?1594958721",
+    "large": "https://cards.scryfall.io/large/front/0/a/0ac4751c-812a-4990-b093-336f3d6f4502.jpg?1594958721",
+    "png": "https://cards.scryfall.io/png/front/0/a/0ac4751c-812a-4990-b093-336f3d6f4502.png?1594958721",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/a/0ac4751c-812a-4990-b093-336f3d6f4502.jpg?1594958721",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/a/0ac4751c-812a-4990-b093-336f3d6f4502.jpg?1594958721"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Basic Land — Swamp",
+  "oracle_text": "({T}: Add {B}.)",
+  "colors": [],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8ff0b4b8-2b1b-4283-a35c-6edd5bbcf373",
+  "set": "pana",
+  "set_name": "MTG Arena Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/8ff0b4b8-2b1b-4283-a35c-6edd5bbcf373",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apana&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pana?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0ac4751c-812a-4990-b093-336f3d6f4502/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A56719f6a-1a6c-4c0a-8d21-18f7d7350b68&unique=prints",
+  "collector_number": "203",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Noah Bradley",
+  "artist_ids": [
+    "81995d11-da98-4f8b-89bd-b88ca2ddb06b"
+  ],
+  "illustration_id": "85e5e602-f282-44a7-9038-12a84ac70c49",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSwamp",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSwamp",
+    "edhrec": "https://edhrec.com/route/?cc=Swamp"
+  }
+}

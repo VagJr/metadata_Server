@@ -1,0 +1,155 @@
+{
+  "object": "card",
+  "id": "4bd12cfd-7e99-4b6e-9e6a-05440594462a",
+  "oracle_id": "2a5408ed-8b47-4896-97e4-aa102a4b85c9",
+  "multiverse_ids": [
+    460128
+  ],
+  "mtgo_id": 71574,
+  "tcgplayer_id": 183451,
+  "cardmarket_id": 368648,
+  "name": "Domri, Chaos Bringer",
+  "lang": "en",
+  "released_at": "2019-01-25",
+  "uri": "https://api.scryfall.com/cards/4bd12cfd-7e99-4b6e-9e6a-05440594462a",
+  "scryfall_uri": "https://scryfall.com/card/med/RA7/domri-chaos-bringer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/b/4bd12cfd-7e99-4b6e-9e6a-05440594462a.jpg?1576010871",
+    "normal": "https://cards.scryfall.io/normal/front/4/b/4bd12cfd-7e99-4b6e-9e6a-05440594462a.jpg?1576010871",
+    "large": "https://cards.scryfall.io/large/front/4/b/4bd12cfd-7e99-4b6e-9e6a-05440594462a.jpg?1576010871",
+    "png": "https://cards.scryfall.io/png/front/4/b/4bd12cfd-7e99-4b6e-9e6a-05440594462a.png?1576010871",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/b/4bd12cfd-7e99-4b6e-9e6a-05440594462a.jpg?1576010871",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/b/4bd12cfd-7e99-4b6e-9e6a-05440594462a.jpg?1576010871"
+  },
+  "mana_cost": "{2}{R}{G}",
+  "cmc": 4,
+  "type_line": "Legendary Planeswalker — Domri",
+  "oracle_text": "+1: Add {R} or {G}. If that mana is spent on a creature spell, it gains riot. (It enters with your choice of a +1/+1 counter or haste.)\n−3: Look at the top four cards of your library. You may reveal up to two creature cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.\n−8: You get an emblem with \"At the beginning of each end step, create a 4/4 red and green Beast creature token with trample.\"",
+  "loyalty": "5",
+  "colors": [
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "G",
+    "R"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "4bd12cfd-7e99-4b6e-9e6a-05440594462a",
+      "component": "combo_piece",
+      "name": "Domri, Chaos Bringer",
+      "type_line": "Legendary Planeswalker — Domri",
+      "uri": "https://api.scryfall.com/cards/4bd12cfd-7e99-4b6e-9e6a-05440594462a"
+    },
+    {
+      "object": "related_card",
+      "id": "33521793-69f2-4a95-a4da-d28add4e5e93",
+      "component": "token",
+      "name": "Beast",
+      "type_line": "Token Creature — Beast",
+      "uri": "https://api.scryfall.com/cards/33521793-69f2-4a95-a4da-d28add4e5e93"
+    },
+    {
+      "object": "related_card",
+      "id": "bdc404cd-d518-41f7-858c-f1928e44a88c",
+      "component": "combo_piece",
+      "name": "Domri, Chaos Bringer Emblem",
+      "type_line": "Emblem — Domri",
+      "uri": "https://api.scryfall.com/cards/bdc404cd-d518-41f7-858c-f1928e44a88c"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+  "set": "med",
+  "set_name": "Mythic Edition",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4bd12cfd-7e99-4b6e-9e6a-05440594462a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2a5408ed-8b47-4896-97e4-aa102a4b85c9&unique=prints",
+  "collector_number": "RA7",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason Rainville",
+  "artist_ids": [
+    "6ed7e669-579b-443d-b223-e5cbcb2a7483"
+  ],
+  "illustration_id": "20c68adb-2802-4186-85a1-6c3302eb9fe8",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 12946,
+  "penny_rank": 5628,
+  "prices": {
+    "usd": null,
+    "usd_foil": "7.02",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "6.18",
+    "tix": "0.83"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460128&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDomri%252C%2BChaos%2BBringer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDomri%252C%2BChaos%2BBringer",
+    "edhrec": "https://edhrec.com/route/?cc=Domri%2C+Chaos+Bringer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F183451%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=368648&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/71574?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "c718b70c-8bad-442b-b3cd-fb2df6e1836a",
+  "oracle_id": "62d8c8c8-bc24-42f2-9e2e-9efd08e47bb1",
+  "multiverse_ids": [],
+  "tcgplayer_id": 203701,
+  "cardmarket_id": 416941,
+  "name": "Claustrophobia",
+  "lang": "en",
+  "released_at": "2019-11-07",
+  "uri": "https://api.scryfall.com/cards/c718b70c-8bad-442b-b3cd-fb2df6e1836a",
+  "scryfall_uri": "https://scryfall.com/card/plst/DDT-3/claustrophobia?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/7/c718b70c-8bad-442b-b3cd-fb2df6e1836a.jpg?1573507093",
+    "normal": "https://cards.scryfall.io/normal/front/c/7/c718b70c-8bad-442b-b3cd-fb2df6e1836a.jpg?1573507093",
+    "large": "https://cards.scryfall.io/large/front/c/7/c718b70c-8bad-442b-b3cd-fb2df6e1836a.jpg?1573507093",
+    "png": "https://cards.scryfall.io/png/front/c/7/c718b70c-8bad-442b-b3cd-fb2df6e1836a.png?1573507093",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/7/c718b70c-8bad-442b-b3cd-fb2df6e1836a.jpg?1573507093",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/7/c718b70c-8bad-442b-b3cd-fb2df6e1836a.jpg?1573507093"
+  },
+  "mana_cost": "{1}{U}{U}",
+  "cmc": 3,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c718b70c-8bad-442b-b3cd-fb2df6e1836a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A62d8c8c8-bc24-42f2-9e2e-9efd08e47bb1&unique=prints",
+  "collector_number": "DDT-3",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Six feet of earth muffled his cries.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ryan Pancoast",
+  "artist_ids": [
+    "89cc9475-dda2-4d13-bf88-54b92867a25c"
+  ],
+  "illustration_id": "c368899c-2828-479e-9d23-14647f8c20f0",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 17086,
+  "penny_rank": 12418,
+  "prices": {
+    "usd": "0.20",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.04",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DClaustrophobia",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DClaustrophobia",
+    "edhrec": "https://edhrec.com/route/?cc=Claustrophobia"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F203701%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=416941&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Claustrophobia&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

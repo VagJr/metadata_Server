@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "ff7e30c8-b3fc-430f-ac63-d376d9e47a8d",
+  "oracle_id": "78427103-9543-41fb-b6d4-72963fe87275",
+  "multiverse_ids": [],
+  "tcgplayer_id": 199506,
+  "cardmarket_id": 401944,
+  "name": "The Great Henge",
+  "lang": "en",
+  "released_at": "2019-10-04",
+  "uri": "https://api.scryfall.com/cards/ff7e30c8-b3fc-430f-ac63-d376d9e47a8d",
+  "scryfall_uri": "https://scryfall.com/card/eld/370/the-great-henge?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/f/ff7e30c8-b3fc-430f-ac63-d376d9e47a8d.jpg?1572370281",
+    "normal": "https://cards.scryfall.io/normal/front/f/f/ff7e30c8-b3fc-430f-ac63-d376d9e47a8d.jpg?1572370281",
+    "large": "https://cards.scryfall.io/large/front/f/f/ff7e30c8-b3fc-430f-ac63-d376d9e47a8d.jpg?1572370281",
+    "png": "https://cards.scryfall.io/png/front/f/f/ff7e30c8-b3fc-430f-ac63-d376d9e47a8d.png?1572370281",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/f/ff7e30c8-b3fc-430f-ac63-d376d9e47a8d.jpg?1572370281",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/f/ff7e30c8-b3fc-430f-ac63-d376d9e47a8d.jpg?1572370281"
+  },
+  "mana_cost": "{7}{G}{G}",
+  "cmc": 9,
+  "type_line": "Legendary Artifact",
+  "oracle_text": "This spell costs {X} less to cast, where X is the greatest power among creatures you control.\n{T}: Add {G}{G}. You gain 2 life.\nWhenever a nontoken creature you control enters, put a +1/+1 counter on it and draw a card.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "G"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a90a7b2f-9dd8-4fc7-9f7d-8ea2797ec782",
+  "set": "eld",
+  "set_name": "Throne of Eldraine",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/a90a7b2f-9dd8-4fc7-9f7d-8ea2797ec782",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aeld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/eld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ff7e30c8-b3fc-430f-ac63-d376d9e47a8d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A78427103-9543-41fb-b6d4-72963fe87275&unique=prints",
+  "collector_number": "370",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Adam Paquette",
+  "artist_ids": [
+    "89023dad-e6c0-41e0-83fb-eb2bfbbdc3f2"
+  ],
+  "illustration_id": "84a7f473-ffbc-4f4c-b54b-889e52ef2419",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 233,
+  "prices": {
+    "usd": "91.14",
+    "usd_foil": "125.07",
+    "usd_etched": null,
+    "eur": "60.47",
+    "eur_foil": "76.39",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThe%2BGreat%2BHenge",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThe%2BGreat%2BHenge",
+    "edhrec": "https://edhrec.com/route/?cc=The+Great+Henge"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F199506%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=401944&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=The+Great+Henge&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "c7da6cdf-af91-4a96-b4d8-0d24f3ea6943",
+  "oracle_id": "812bf52c-37f5-41c9-8a69-009fddbafb3f",
+  "multiverse_ids": [],
+  "mtgo_id": 96766,
+  "tcgplayer_id": 255841,
+  "cardmarket_id": 585019,
+  "name": "Sacred Fire",
+  "lang": "en",
+  "released_at": "2022-01-28",
+  "uri": "https://api.scryfall.com/cards/c7da6cdf-af91-4a96-b4d8-0d24f3ea6943",
+  "scryfall_uri": "https://scryfall.com/card/dbl/239/sacred-fire?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/7/c7da6cdf-af91-4a96-b4d8-0d24f3ea6943.jpg?1673160984",
+    "normal": "https://cards.scryfall.io/normal/front/c/7/c7da6cdf-af91-4a96-b4d8-0d24f3ea6943.jpg?1673160984",
+    "large": "https://cards.scryfall.io/large/front/c/7/c7da6cdf-af91-4a96-b4d8-0d24f3ea6943.jpg?1673160984",
+    "png": "https://cards.scryfall.io/png/front/c/7/c7da6cdf-af91-4a96-b4d8-0d24f3ea6943.png?1673160984",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/7/c7da6cdf-af91-4a96-b4d8-0d24f3ea6943.jpg?1673160984",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/7/c7da6cdf-af91-4a96-b4d8-0d24f3ea6943.jpg?1673160984"
+  },
+  "mana_cost": "{R}{W}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Sacred Fire deals 2 damage to any target and you gain 2 life.\nFlashback {4}{R}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "colors": [
+    "R",
+    "W"
+  ],
+  "color_identity": [
+    "R",
+    "W"
+  ],
+  "keywords": [
+    "Flashback"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set": "dbl",
+  "set_name": "Innistrad: Double Feature",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adbl&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dbl?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c7da6cdf-af91-4a96-b4d8-0d24f3ea6943/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A812bf52c-37f5-41c9-8a69-009fddbafb3f&unique=prints",
+  "collector_number": "239",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Do not confuse justice with mercy.\"\n—Odric, Order of Saint Traft",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Svetlin Velinov",
+  "artist_ids": [
+    "ffd063ae-c097-4f26-b2e6-b1e2137708bc"
+  ],
+  "illustration_id": "c1d76283-34cd-4946-9f16-6546725dc422",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 12241,
+  "penny_rank": 1281,
+  "prices": {
+    "usd": "0.14",
+    "usd_foil": "0.49",
+    "usd_etched": null,
+    "eur": "0.12",
+    "eur_foil": "0.48",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSacred%2BFire",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSacred%2BFire",
+    "edhrec": "https://edhrec.com/route/?cc=Sacred+Fire"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F255841%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=585019&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/96766?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

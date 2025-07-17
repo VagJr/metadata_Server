@@ -1,0 +1,201 @@
+{
+  "object": "card",
+  "id": "17171779-e5d2-4431-a92d-def5606e9825",
+  "oracle_id": "70d7d1a7-9d39-44ec-a4ea-a70ffa453d23",
+  "multiverse_ids": [
+    545050,
+    545051
+  ],
+  "mtgo_id": 94226,
+  "arena_id": 79169,
+  "tcgplayer_id": 252965,
+  "cardmarket_id": 581657,
+  "name": "Runo Stromkirk // Krothuss, Lord of the Deep",
+  "lang": "en",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/17171779-e5d2-4431-a92d-def5606e9825",
+  "scryfall_uri": "https://scryfall.com/card/vow/327/runo-stromkirk-krothuss-lord-of-the-deep?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Vampire Cleric // Legendary Creature — Kraken Horror",
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [
+    "Flying",
+    "Transform"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Runo Stromkirk",
+      "mana_cost": "{1}{U}{B}",
+      "type_line": "Legendary Creature — Vampire Cleric",
+      "oracle_text": "Flying\nWhen Runo enters, put up to one target creature card from your graveyard on top of your library.\nAt the beginning of your upkeep, look at the top card of your library. You may reveal that card. If a creature card with mana value 6 or greater is revealed this way, transform Runo.",
+      "colors": [
+        "B",
+        "U"
+      ],
+      "power": "1",
+      "toughness": "4",
+      "artist": "Nico Delort",
+      "artist_id": "32e2a646-7191-47c2-b600-4d1656396fa0",
+      "illustration_id": "239c4ccf-349a-40f9-b37d-1c04735faa37",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/1/7/17171779-e5d2-4431-a92d-def5606e9825.jpg?1682717165",
+        "normal": "https://cards.scryfall.io/normal/front/1/7/17171779-e5d2-4431-a92d-def5606e9825.jpg?1682717165",
+        "large": "https://cards.scryfall.io/large/front/1/7/17171779-e5d2-4431-a92d-def5606e9825.jpg?1682717165",
+        "png": "https://cards.scryfall.io/png/front/1/7/17171779-e5d2-4431-a92d-def5606e9825.png?1682717165",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/1/7/17171779-e5d2-4431-a92d-def5606e9825.jpg?1682717165",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/1/7/17171779-e5d2-4431-a92d-def5606e9825.jpg?1682717165"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Krothuss, Lord of the Deep",
+      "mana_cost": "",
+      "type_line": "Legendary Creature — Kraken Horror",
+      "oracle_text": "Flying\nWhenever Krothuss attacks, create a tapped and attacking token that's a copy of another target attacking creature. If that creature is a Kraken, Leviathan, Octopus, or Serpent, create two of those tokens instead.",
+      "colors": [
+        "B",
+        "U"
+      ],
+      "color_indicator": [
+        "B",
+        "U"
+      ],
+      "power": "3",
+      "toughness": "5",
+      "artist": "Nico Delort",
+      "artist_id": "32e2a646-7191-47c2-b600-4d1656396fa0",
+      "illustration_id": "a51cb291-82f1-4bb3-ad58-5cc83bf8503e",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/1/7/17171779-e5d2-4431-a92d-def5606e9825.jpg?1682717165",
+        "normal": "https://cards.scryfall.io/normal/back/1/7/17171779-e5d2-4431-a92d-def5606e9825.jpg?1682717165",
+        "large": "https://cards.scryfall.io/large/back/1/7/17171779-e5d2-4431-a92d-def5606e9825.jpg?1682717165",
+        "png": "https://cards.scryfall.io/png/back/1/7/17171779-e5d2-4431-a92d-def5606e9825.png?1682717165",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/1/7/17171779-e5d2-4431-a92d-def5606e9825.jpg?1682717165",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/1/7/17171779-e5d2-4431-a92d-def5606e9825.jpg?1682717165"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "17171779-e5d2-4431-a92d-def5606e9825",
+      "component": "combo_piece",
+      "name": "Runo Stromkirk // Krothuss, Lord of the Deep",
+      "type_line": "Legendary Creature — Vampire Cleric // Legendary Creature — Kraken Horror",
+      "uri": "https://api.scryfall.com/cards/17171779-e5d2-4431-a92d-def5606e9825"
+    },
+    {
+      "object": "related_card",
+      "id": "dd2942a8-68e8-4f73-956f-f19c690fa512",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/dd2942a8-68e8-4f73-956f-f19c690fa512"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/vow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/17171779-e5d2-4431-a92d-def5606e9825/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A70d7d1a7-9d39-44ec-a4ea-a70ffa453d23&unique=prints",
+  "collector_number": "327",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Nico Delort",
+  "artist_ids": [
+    "32e2a646-7191-47c2-b600-4d1656396fa0"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary",
+    "inverted",
+    "sunmoondfc"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 8944,
+  "penny_rank": 11836,
+  "preview": {
+    "source": "einPapo",
+    "source_uri": "https://twitter.com/einpapo/status/1454097645484625927",
+    "previewed_at": "2021-10-30"
+  },
+  "prices": {
+    "usd": "0.30",
+    "usd_foil": "1.14",
+    "usd_etched": null,
+    "eur": "0.39",
+    "eur_foil": "1.57",
+    "tix": "0.09"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=545050&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRuno%2BStromkirk%2B%252F%252F%2BKrothuss%252C%2BLord%2Bof%2Bthe%2BDeep",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRuno%2BStromkirk%2B%252F%252F%2BKrothuss%252C%2BLord%2Bof%2Bthe%2BDeep",
+    "edhrec": "https://edhrec.com/route/?cc=Runo+Stromkirk"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F252965%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=581657&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/94226?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

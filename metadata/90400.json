@@ -1,0 +1,112 @@
+{
+  "object": "card",
+  "id": "d567a048-8f81-49c9-81fe-b3ab5978415c",
+  "oracle_id": "002100cd-1ab1-44da-93a0-1269d47a712a",
+  "multiverse_ids": [],
+  "arena_id": 68792,
+  "name": "Waterknot",
+  "lang": "en",
+  "released_at": "2018-07-14",
+  "uri": "https://api.scryfall.com/cards/d567a048-8f81-49c9-81fe-b3ab5978415c",
+  "scryfall_uri": "https://scryfall.com/card/xana/22/waterknot?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/5/d567a048-8f81-49c9-81fe-b3ab5978415c.jpg?1590010789",
+    "normal": "https://cards.scryfall.io/normal/front/d/5/d567a048-8f81-49c9-81fe-b3ab5978415c.jpg?1590010789",
+    "large": "https://cards.scryfall.io/large/front/d/5/d567a048-8f81-49c9-81fe-b3ab5978415c.jpg?1590010789",
+    "png": "https://cards.scryfall.io/png/front/d/5/d567a048-8f81-49c9-81fe-b3ab5978415c.png?1590010789",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/5/d567a048-8f81-49c9-81fe-b3ab5978415c.jpg?1590010789",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/5/d567a048-8f81-49c9-81fe-b3ab5978415c.jpg?1590010789"
+  },
+  "mana_cost": "{1}{U}{U}",
+  "cmc": 3,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9e5d6aa8-3fc1-4175-a851-894e42c0e25a",
+  "set": "xana",
+  "set_name": "Arena New Player Experience Extras",
+  "set_type": "memorabilia",
+  "set_uri": "https://api.scryfall.com/sets/9e5d6aa8-3fc1-4175-a851-894e42c0e25a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Axana&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/xana?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d567a048-8f81-49c9-81fe-b3ab5978415c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A002100cd-1ab1-44da-93a0-1269d47a712a&unique=prints",
+  "collector_number": "22",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wayne Reynolds",
+  "artist_ids": [
+    "afc47cec-3ccc-404e-a8c6-4d83dd504271"
+  ],
+  "illustration_id": "a1d217a1-be8c-493c-badc-a2270bdd2671",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 19483,
+  "penny_rank": 12842,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWaterknot",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWaterknot",
+    "edhrec": "https://edhrec.com/route/?cc=Waterknot"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "80ac4542-1852-46d7-9f9d-eea8158297fa",
+  "oracle_id": "e68dc47c-692f-4420-9799-eee104017273",
+  "multiverse_ids": [],
+  "tcgplayer_id": 216968,
+  "cardmarket_id": 476409,
+  "name": "Temur Ascendancy",
+  "lang": "en",
+  "released_at": "2020-07-04",
+  "uri": "https://api.scryfall.com/cards/80ac4542-1852-46d7-9f9d-eea8158297fa",
+  "scryfall_uri": "https://scryfall.com/card/pktk/207p/temur-ascendancy?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/0/80ac4542-1852-46d7-9f9d-eea8158297fa.jpg?1593609116",
+    "normal": "https://cards.scryfall.io/normal/front/8/0/80ac4542-1852-46d7-9f9d-eea8158297fa.jpg?1593609116",
+    "large": "https://cards.scryfall.io/large/front/8/0/80ac4542-1852-46d7-9f9d-eea8158297fa.jpg?1593609116",
+    "png": "https://cards.scryfall.io/png/front/8/0/80ac4542-1852-46d7-9f9d-eea8158297fa.png?1593609116",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/0/80ac4542-1852-46d7-9f9d-eea8158297fa.jpg?1593609116",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/0/80ac4542-1852-46d7-9f9d-eea8158297fa.jpg?1593609116"
+  },
+  "mana_cost": "{G}{U}{R}",
+  "cmc": 3,
+  "type_line": "Enchantment",
+  "oracle_text": "Creatures you control have haste.\nWhenever a creature you control with power 4 or greater enters, you may draw a card.",
+  "colors": [
+    "G",
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "G",
+    "R",
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "95318a25-1983-40ae-b315-140160078e3c",
+  "set": "pktk",
+  "set_name": "Khans of Tarkir Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/95318a25-1983-40ae-b315-140160078e3c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apktk&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pktk?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/80ac4542-1852-46d7-9f9d-eea8158297fa/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae68dc47c-692f-4420-9799-eee104017273&unique=prints",
+  "collector_number": "207p",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "temur",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jaime Jones",
+  "artist_ids": [
+    "92f6c2c1-fa57-4b52-99c4-0fd866c13dc9"
+  ],
+  "illustration_id": "89df39ba-0159-42f1-a8cb-31be3c509e33",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 839,
+  "penny_rank": 2343,
+  "prices": {
+    "usd": "10.35",
+    "usd_foil": "17.12",
+    "usd_etched": null,
+    "eur": "4.38",
+    "eur_foil": "6.33",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTemur%2BAscendancy",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTemur%2BAscendancy",
+    "edhrec": "https://edhrec.com/route/?cc=Temur+Ascendancy"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F216968%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=476409&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Temur+Ascendancy&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

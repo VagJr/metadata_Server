@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "969a8b6d-3186-497f-87ae-68c21d06e2a2",
+  "oracle_id": "8de3eabe-9a8f-4865-beef-a4888c081d39",
+  "multiverse_ids": [],
+  "tcgplayer_id": 279252,
+  "name": "Training Grounds",
+  "lang": "en",
+  "released_at": "2022-07-12",
+  "uri": "https://api.scryfall.com/cards/969a8b6d-3186-497f-87ae-68c21d06e2a2",
+  "scryfall_uri": "https://scryfall.com/card/p22/6/training-grounds?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/6/969a8b6d-3186-497f-87ae-68c21d06e2a2.jpg?1660636733",
+    "normal": "https://cards.scryfall.io/normal/front/9/6/969a8b6d-3186-497f-87ae-68c21d06e2a2.jpg?1660636733",
+    "large": "https://cards.scryfall.io/large/front/9/6/969a8b6d-3186-497f-87ae-68c21d06e2a2.jpg?1660636733",
+    "png": "https://cards.scryfall.io/png/front/9/6/969a8b6d-3186-497f-87ae-68c21d06e2a2.png?1660636733",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/6/969a8b6d-3186-497f-87ae-68c21d06e2a2.jpg?1660636733",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/6/969a8b6d-3186-497f-87ae-68c21d06e2a2.jpg?1660636733"
+  },
+  "mana_cost": "{U}",
+  "cmc": 1,
+  "type_line": "Enchantment",
+  "oracle_text": "Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "28a718f3-fb8d-433a-95ab-a35a11ee41a0",
+      "component": "combo_piece",
+      "name": "Trackhand Trainer",
+      "type_line": "Creature — Merfolk",
+      "uri": "https://api.scryfall.com/cards/28a718f3-fb8d-433a-95ab-a35a11ee41a0"
+    },
+    {
+      "object": "related_card",
+      "id": "969a8b6d-3186-497f-87ae-68c21d06e2a2",
+      "component": "combo_piece",
+      "name": "Training Grounds",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/969a8b6d-3186-497f-87ae-68c21d06e2a2"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a8c14f2c-e917-4919-9eb7-32c7cc37107a",
+  "set": "p22",
+  "set_name": "Judge Gift Cards 2022",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/a8c14f2c-e917-4919-9eb7-32c7cc37107a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ap22&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/p22?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/969a8b6d-3186-497f-87ae-68c21d06e2a2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8de3eabe-9a8f-4865-beef-a4888c081d39&unique=prints",
+  "collector_number": "6",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "judgeacademy",
+  "flavor_text": "\"Practice alone will not bring perfection. The practice itself must be perfect. Again!\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Caroline Gariba",
+  "artist_ids": [
+    "61a4c572-3d1b-4b71-aeb0-1a5a6b82c524"
+  ],
+  "illustration_id": "c26784d5-3bbb-49ad-bf20-37fa0f391d82",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "judgegift"
+  ],
+  "edhrec_rank": 1101,
+  "penny_rank": 4502,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://judgeacademy.com/mtg-conferences/",
+    "previewed_at": "2022-07-12"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "11.41",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTraining%2BGrounds",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTraining%2BGrounds",
+    "edhrec": "https://edhrec.com/route/?cc=Training+Grounds"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F279252%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Training+Grounds&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Training+Grounds&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

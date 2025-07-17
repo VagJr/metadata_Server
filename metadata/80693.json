@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "be79c609-3e72-445a-a2cf-a89dacd5cb9c",
+  "oracle_id": "8dcd7e2b-75a9-476a-a0a0-798613e8dad6",
+  "multiverse_ids": [],
+  "tcgplayer_id": 501286,
+  "name": "Sauron, the Necromancer",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/be79c609-3e72-445a-a2cf-a89dacd5cb9c",
+  "scryfall_uri": "https://scryfall.com/card/pltr/106s/sauron-the-necromancer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/e/be79c609-3e72-445a-a2cf-a89dacd5cb9c.jpg?1687887942",
+    "normal": "https://cards.scryfall.io/normal/front/b/e/be79c609-3e72-445a-a2cf-a89dacd5cb9c.jpg?1687887942",
+    "large": "https://cards.scryfall.io/large/front/b/e/be79c609-3e72-445a-a2cf-a89dacd5cb9c.jpg?1687887942",
+    "png": "https://cards.scryfall.io/png/front/b/e/be79c609-3e72-445a-a2cf-a89dacd5cb9c.png?1687887942",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/e/be79c609-3e72-445a-a2cf-a89dacd5cb9c.jpg?1687887942",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/e/be79c609-3e72-445a-a2cf-a89dacd5cb9c.jpg?1687887942"
+  },
+  "mana_cost": "{3}{B}{B}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Avatar Horror",
+  "oracle_text": "Menace\nWhenever Sauron attacks, exile target creature card from your graveyard. Create a tapped and attacking token that's a copy of that card, except it's a 3/3 black Wraith with menace. At the beginning of the next end step, exile that token unless Sauron is your Ring-bearer.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Menace"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "09d6521e-438a-4d16-992f-f2ab27b26ce4",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/09d6521e-438a-4d16-992f-f2ab27b26ce4"
+    },
+    {
+      "object": "related_card",
+      "id": "be79c609-3e72-445a-a2cf-a89dacd5cb9c",
+      "component": "combo_piece",
+      "name": "Sauron, the Necromancer",
+      "type_line": "Legendary Creature — Avatar Horror",
+      "uri": "https://api.scryfall.com/cards/be79c609-3e72-445a-a2cf-a89dacd5cb9c"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "1012754e-18e5-4a76-b9a3-24c55eaab1c5",
+  "set": "pltr",
+  "set_name": "Tales of Middle-earth Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/1012754e-18e5-4a76-b9a3-24c55eaab1c5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apltr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pltr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/be79c609-3e72-445a-a2cf-a89dacd5cb9c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8dcd7e2b-75a9-476a-a0a0-798613e8dad6&unique=prints",
+  "collector_number": "106s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Yongjae Choi",
+  "artist_ids": [
+    "5ab91c3b-a6da-4751-a56e-81d0f61a67ab"
+  ],
+  "illustration_id": "e96b4cea-b81c-48e3-83de-7adcd7d9dd3b",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 4746,
+  "penny_rank": 12722,
+  "prices": {
+    "usd": null,
+    "usd_foil": "28.87",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSauron%252C%2Bthe%2BNecromancer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSauron%252C%2Bthe%2BNecromancer",
+    "edhrec": "https://edhrec.com/route/?cc=Sauron%2C+the+Necromancer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F501286%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sauron%2C+the+Necromancer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sauron%2C+the+Necromancer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

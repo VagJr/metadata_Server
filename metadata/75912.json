@@ -1,0 +1,150 @@
+{
+  "object": "card",
+  "id": "b3364018-aeba-4f58-8233-b0026c488dd0",
+  "oracle_id": "e6555cca-e608-4c87-b835-9cd47fd1f543",
+  "multiverse_ids": [
+    651684
+  ],
+  "mtgo_id": 122882,
+  "arena_id": 88919,
+  "tcgplayer_id": 532991,
+  "cardmarket_id": 751035,
+  "name": "Tireless Tracker",
+  "lang": "en",
+  "released_at": "2024-02-09",
+  "uri": "https://api.scryfall.com/cards/b3364018-aeba-4f58-8233-b0026c488dd0",
+  "scryfall_uri": "https://scryfall.com/card/spg/26/tireless-tracker?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/3/b3364018-aeba-4f58-8233-b0026c488dd0.jpg?1707355189",
+    "normal": "https://cards.scryfall.io/normal/front/b/3/b3364018-aeba-4f58-8233-b0026c488dd0.jpg?1707355189",
+    "large": "https://cards.scryfall.io/large/front/b/3/b3364018-aeba-4f58-8233-b0026c488dd0.jpg?1707355189",
+    "png": "https://cards.scryfall.io/png/front/b/3/b3364018-aeba-4f58-8233-b0026c488dd0.png?1707355189",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/3/b3364018-aeba-4f58-8233-b0026c488dd0.jpg?1707355189",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/3/b3364018-aeba-4f58-8233-b0026c488dd0.jpg?1707355189"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Creature — Human Scout",
+  "oracle_text": "Landfall — Whenever a land you control enters, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nWhenever you sacrifice a Clue, put a +1/+1 counter on this creature.",
+  "power": "3",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Investigate",
+    "Landfall"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "15866ed4-1ca3-427f-99ba-ee26ede9ae18",
+      "component": "token",
+      "name": "Clue",
+      "type_line": "Token Artifact — Clue",
+      "uri": "https://api.scryfall.com/cards/15866ed4-1ca3-427f-99ba-ee26ede9ae18"
+    },
+    {
+      "object": "related_card",
+      "id": "b3364018-aeba-4f58-8233-b0026c488dd0",
+      "component": "combo_piece",
+      "name": "Tireless Tracker",
+      "type_line": "Creature — Human Scout",
+      "uri": "https://api.scryfall.com/cards/b3364018-aeba-4f58-8233-b0026c488dd0"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c01003a2-b3e2-4e7f-a26d-2348144c8056",
+  "set": "spg",
+  "set_name": "Special Guests",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/c01003a2-b3e2-4e7f-a26d-2348144c8056",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aspg&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/spg?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b3364018-aeba-4f58-8233-b0026c488dd0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae6555cca-e608-4c87-b835-9cd47fd1f543&unique=prints",
+  "collector_number": "26",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Donato Giancola",
+  "artist_ids": [
+    "90332db2-aecb-4d79-917b-95cbeb8d0cb6"
+  ],
+  "illustration_id": "98f3fc3d-e763-453f-b8db-8a237960056d",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 599,
+  "penny_rank": 405,
+  "prices": {
+    "usd": "2.93",
+    "usd_foil": "13.57",
+    "usd_etched": null,
+    "eur": "3.89",
+    "eur_foil": "17.40",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=651684&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTireless%2BTracker",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTireless%2BTracker",
+    "edhrec": "https://edhrec.com/route/?cc=Tireless+Tracker"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F532991%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=751035&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/122882?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "ec97bedf-ea10-4754-89ee-3e40e24faac0",
+  "oracle_id": "6b071146-2f83-4fda-a55a-46fcb74e6f28",
+  "multiverse_ids": [],
+  "mtgo_id": 90040,
+  "name": "Deekah, Fractal Theorist",
+  "lang": "en",
+  "released_at": "2021-05-01",
+  "uri": "https://api.scryfall.com/cards/ec97bedf-ea10-4754-89ee-3e40e24faac0",
+  "scryfall_uri": "https://scryfall.com/card/prm/90040/deekah-fractal-theorist?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/c/ec97bedf-ea10-4754-89ee-3e40e24faac0.jpg?1681080202",
+    "normal": "https://cards.scryfall.io/normal/front/e/c/ec97bedf-ea10-4754-89ee-3e40e24faac0.jpg?1681080202",
+    "large": "https://cards.scryfall.io/large/front/e/c/ec97bedf-ea10-4754-89ee-3e40e24faac0.jpg?1681080202",
+    "png": "https://cards.scryfall.io/png/front/e/c/ec97bedf-ea10-4754-89ee-3e40e24faac0.png?1681080202",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/c/ec97bedf-ea10-4754-89ee-3e40e24faac0.jpg?1681080202",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/c/ec97bedf-ea10-4754-89ee-3e40e24faac0.jpg?1681080202"
+  },
+  "mana_cost": "{4}{U}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Human Wizard",
+  "oracle_text": "Magecraft — Whenever you cast or copy an instant or sorcery spell, create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on it, where X is that spell's mana value.\n{3}{U}: Target creature token can't be blocked this turn.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Magecraft"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "05386ae8-7b94-4820-9e2a-b9da41edd8f0",
+      "component": "token",
+      "name": "Fractal",
+      "type_line": "Token Creature — Fractal",
+      "uri": "https://api.scryfall.com/cards/05386ae8-7b94-4820-9e2a-b9da41edd8f0"
+    },
+    {
+      "object": "related_card",
+      "id": "ec97bedf-ea10-4754-89ee-3e40e24faac0",
+      "component": "combo_piece",
+      "name": "Deekah, Fractal Theorist",
+      "type_line": "Legendary Creature — Human Wizard",
+      "uri": "https://api.scryfall.com/cards/ec97bedf-ea10-4754-89ee-3e40e24faac0"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ec97bedf-ea10-4754-89ee-3e40e24faac0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6b071146-2f83-4fda-a55a-46fcb74e6f28&unique=prints",
+  "collector_number": "90040",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Donato Giancola",
+  "artist_ids": [
+    "90332db2-aecb-4d79-917b-95cbeb8d0cb6"
+  ],
+  "illustration_id": "3e2a1172-6432-4884-8f8c-24d2e9481b0c",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4569,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "3.91"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDeekah%252C%2BFractal%2BTheorist",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDeekah%252C%2BFractal%2BTheorist",
+    "edhrec": "https://edhrec.com/route/?cc=Deekah%2C+Fractal+Theorist"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DDeekah%252C%2BFractal%2BTheorist%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Deekah%2C+Fractal+Theorist&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/90040?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

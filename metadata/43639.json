@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "6700409d-afda-480c-8a66-b5c782f3e5e4",
+  "oracle_id": "7c779721-cd1b-4696-9ae9-68ccc284ed2a",
+  "multiverse_ids": [
+    640438
+  ],
+  "mtgo_id": 118680,
+  "tcgplayer_id": 526089,
+  "cardmarket_id": 743495,
+  "name": "Aetherize",
+  "lang": "en",
+  "released_at": "2023-11-17",
+  "uri": "https://api.scryfall.com/cards/6700409d-afda-480c-8a66-b5c782f3e5e4",
+  "scryfall_uri": "https://scryfall.com/card/lcc/142/aetherize?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/7/6700409d-afda-480c-8a66-b5c782f3e5e4.jpg?1698988120",
+    "normal": "https://cards.scryfall.io/normal/front/6/7/6700409d-afda-480c-8a66-b5c782f3e5e4.jpg?1698988120",
+    "large": "https://cards.scryfall.io/large/front/6/7/6700409d-afda-480c-8a66-b5c782f3e5e4.jpg?1698988120",
+    "png": "https://cards.scryfall.io/png/front/6/7/6700409d-afda-480c-8a66-b5c782f3e5e4.png?1698988120",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/7/6700409d-afda-480c-8a66-b5c782f3e5e4.jpg?1698988120",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/7/6700409d-afda-480c-8a66-b5c782f3e5e4.jpg?1698988120"
+  },
+  "mana_cost": "{3}{U}",
+  "cmc": 4,
+  "type_line": "Instant",
+  "oracle_text": "Return all attacking creatures to their owner's hand.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d253edc3-5bc7-4cf1-9446-a8540dedffa5",
+  "set": "lcc",
+  "set_name": "The Lost Caverns of Ixalan Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d253edc3-5bc7-4cf1-9446-a8540dedffa5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alcc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/lcc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6700409d-afda-480c-8a66-b5c782f3e5e4/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7c779721-cd1b-4696-9ae9-68ccc284ed2a&unique=prints",
+  "collector_number": "142",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"You can come back once you've learned some manners—and figured out how to reconstitute your physical forms.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alexandre Honoré",
+  "artist_ids": [
+    "82ae431c-d7fa-438b-9611-01f704c3a958"
+  ],
+  "illustration_id": "8cb6bff1-6177-42e7-a805-95f535dca400",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 374,
+  "penny_rank": 2732,
+  "prices": {
+    "usd": "0.34",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.38",
+    "eur_foil": null,
+    "tix": "0.10"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=640438&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAetherize",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAetherize",
+    "edhrec": "https://edhrec.com/route/?cc=Aetherize"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F526089%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=743495&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/118680?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

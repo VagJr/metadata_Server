@@ -1,0 +1,118 @@
+{
+  "object": "card",
+  "id": "6681b4a5-d848-4982-a4bf-e18e15b2c1b2",
+  "oracle_id": "4ec85850-f274-4c0c-9a03-0488267caa14",
+  "multiverse_ids": [],
+  "mtgo_id": 91209,
+  "name": "Giver of Runes",
+  "lang": "en",
+  "released_at": "2024-09-26",
+  "uri": "https://api.scryfall.com/cards/6681b4a5-d848-4982-a4bf-e18e15b2c1b2",
+  "scryfall_uri": "https://scryfall.com/card/prm/91209/giver-of-runes?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/6/6681b4a5-d848-4982-a4bf-e18e15b2c1b2.jpg?1681081654",
+    "normal": "https://cards.scryfall.io/normal/front/6/6/6681b4a5-d848-4982-a4bf-e18e15b2c1b2.jpg?1681081654",
+    "large": "https://cards.scryfall.io/large/front/6/6/6681b4a5-d848-4982-a4bf-e18e15b2c1b2.jpg?1681081654",
+    "png": "https://cards.scryfall.io/png/front/6/6/6681b4a5-d848-4982-a4bf-e18e15b2c1b2.png?1681081654",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/6/6681b4a5-d848-4982-a4bf-e18e15b2c1b2.jpg?1681081654",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/6/6681b4a5-d848-4982-a4bf-e18e15b2c1b2.jpg?1681081654"
+  },
+  "mana_cost": "{W}",
+  "cmc": 1,
+  "type_line": "Creature — Kor Cleric",
+  "oracle_text": "{T}: Another target creature you control gains protection from colorless or from the color of your choice until end of turn.",
+  "power": "1",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6681b4a5-d848-4982-a4bf-e18e15b2c1b2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4ec85850-f274-4c0c-9a03-0488267caa14&unique=prints",
+  "collector_number": "91209",
+  "digital": true,
+  "rarity": "rare",
+  "flavor_text": "She provides marks of protection to those she chooses as family.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Seb McKinnon",
+  "artist_ids": [
+    "ad4caca0-8d89-44ce-a1a6-d5ca905bd6fb"
+  ],
+  "illustration_id": "78ed725b-1cd7-409e-9f3e-ab9e78399150",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1510,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "3.58"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGiver%2Bof%2BRunes",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGiver%2Bof%2BRunes",
+    "edhrec": "https://edhrec.com/route/?cc=Giver+of+Runes"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DGiver%2Bof%2BRunes%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Giver+of+Runes&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/91209?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

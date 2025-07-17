@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "caf9e837-a1eb-48d9-a8bd-94dd54ad97d1",
+  "oracle_id": "022e97af-2a3a-4e13-9b6b-d34fcc8cf168",
+  "multiverse_ids": [
+    577499
+  ],
+  "tcgplayer_id": 282766,
+  "cardmarket_id": 671558,
+  "name": "Archangel of Wrath",
+  "lang": "en",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/caf9e837-a1eb-48d9-a8bd-94dd54ad97d1",
+  "scryfall_uri": "https://scryfall.com/card/dmu/384/archangel-of-wrath?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/a/caf9e837-a1eb-48d9-a8bd-94dd54ad97d1.jpg?1674074628",
+    "normal": "https://cards.scryfall.io/normal/front/c/a/caf9e837-a1eb-48d9-a8bd-94dd54ad97d1.jpg?1674074628",
+    "large": "https://cards.scryfall.io/large/front/c/a/caf9e837-a1eb-48d9-a8bd-94dd54ad97d1.jpg?1674074628",
+    "png": "https://cards.scryfall.io/png/front/c/a/caf9e837-a1eb-48d9-a8bd-94dd54ad97d1.png?1674074628",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/a/caf9e837-a1eb-48d9-a8bd-94dd54ad97d1.jpg?1674074628",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/a/caf9e837-a1eb-48d9-a8bd-94dd54ad97d1.jpg?1674074628"
+  },
+  "mana_cost": "{2}{W}{W}",
+  "cmc": 4,
+  "type_line": "Creature — Angel",
+  "oracle_text": "Kicker {B} and/or {R} (You may pay an additional {B} and/or {R} as you cast this spell.)\nFlying, lifelink\nWhen this creature enters, if it was kicked, it deals 2 damage to any target.\nWhen this creature enters, if it was kicked twice, it deals 2 damage to any target.",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "R",
+    "W"
+  ],
+  "keywords": [
+    "Kicker",
+    "Flying",
+    "Lifelink"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set": "dmu",
+  "set_name": "Dominaria United",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dmu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/caf9e837-a1eb-48d9-a8bd-94dd54ad97d1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A022e97af-2a3a-4e13-9b6b-d34fcc8cf168&unique=prints",
+  "collector_number": "384",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Miguel Mercado",
+  "artist_ids": [
+    "085f314d-cd61-48e0-89d1-048e9891e4a1"
+  ],
+  "illustration_id": "30c90d96-ee9c-46bb-b1ee-bbc1d8097de5",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 19247,
+  "penny_rank": 2569,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/1565562937",
+    "previewed_at": "2022-08-18"
+  },
+  "prices": {
+    "usd": "0.51",
+    "usd_foil": "0.46",
+    "usd_etched": null,
+    "eur": "0.72",
+    "eur_foil": "0.67",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=577499&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DArchangel%2Bof%2BWrath",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DArchangel%2Bof%2BWrath",
+    "edhrec": "https://edhrec.com/route/?cc=Archangel+of+Wrath"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F282766%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=671558&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Archangel+of+Wrath&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

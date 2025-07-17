@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "83d61e7f-9eef-48d4-9261-9ff18dfd2a65",
+  "oracle_id": "b4f3e7ab-68fd-4613-ae6d-79ca43343d37",
+  "multiverse_ids": [],
+  "name": "Insect",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/83d61e7f-9eef-48d4-9261-9ff18dfd2a65",
+  "scryfall_uri": "https://scryfall.com/card/tltc/12/insect?utm_source=api",
+  "layout": "token",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/3/83d61e7f-9eef-48d4-9261-9ff18dfd2a65.jpg?1686264640",
+    "normal": "https://cards.scryfall.io/normal/front/8/3/83d61e7f-9eef-48d4-9261-9ff18dfd2a65.jpg?1686264640",
+    "large": "https://cards.scryfall.io/large/front/8/3/83d61e7f-9eef-48d4-9261-9ff18dfd2a65.jpg?1686264640",
+    "png": "https://cards.scryfall.io/png/front/8/3/83d61e7f-9eef-48d4-9261-9ff18dfd2a65.png?1686264640",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/3/83d61e7f-9eef-48d4-9261-9ff18dfd2a65.jpg?1686264640",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/3/83d61e7f-9eef-48d4-9261-9ff18dfd2a65.jpg?1686264640"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Insect",
+  "oracle_text": "Flying, deathtouch",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Deathtouch",
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "cc4693c6-f532-4726-b51a-21b04f820448",
+      "component": "combo_piece",
+      "name": "Hornet Nest",
+      "type_line": "Creature — Insect",
+      "uri": "https://api.scryfall.com/cards/cc4693c6-f532-4726-b51a-21b04f820448"
+    },
+    {
+      "object": "related_card",
+      "id": "a247694f-7b23-489b-b524-898625d000e2",
+      "component": "combo_piece",
+      "name": "Hornet Queen",
+      "type_line": "Creature — Insect",
+      "uri": "https://api.scryfall.com/cards/a247694f-7b23-489b-b524-898625d000e2"
+    },
+    {
+      "object": "related_card",
+      "id": "83d61e7f-9eef-48d4-9261-9ff18dfd2a65",
+      "component": "token",
+      "name": "Insect",
+      "type_line": "Token Creature — Insect",
+      "uri": "https://api.scryfall.com/cards/83d61e7f-9eef-48d4-9261-9ff18dfd2a65"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+  "set": "tltc",
+  "set_name": "Tales of Middle-earth Commander Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atltc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tltc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/83d61e7f-9eef-48d4-9261-9ff18dfd2a65/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab4f3e7ab-68fd-4613-ae6d-79ca43343d37&unique=prints",
+  "collector_number": "12",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Oleg Bulakh",
+  "artist_ids": [
+    "28d6be71-4801-4fe7-9747-2e3733e4653e"
+  ],
+  "illustration_id": "42ca0e53-19e2-4564-b7fa-8c0bb2299da6",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DInsect",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DInsect",
+    "edhrec": "https://edhrec.com/route/?cc=Insect"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DInsect%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Insect&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Insect&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

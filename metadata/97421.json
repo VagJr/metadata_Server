@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "e63195ed-5c3e-40e8-9cc2-5cbc1faf7f7f",
+  "oracle_id": "5fac139a-07d3-4e6c-98e3-d98b199f7a6f",
+  "multiverse_ids": [
+    512319
+  ],
+  "mtgo_id": 87083,
+  "tcgplayer_id": 233981,
+  "cardmarket_id": 545231,
+  "name": "Young Pyromancer",
+  "lang": "en",
+  "released_at": "2021-03-19",
+  "uri": "https://api.scryfall.com/cards/e63195ed-5c3e-40e8-9cc2-5cbc1faf7f7f",
+  "scryfall_uri": "https://scryfall.com/card/tsr/353/young-pyromancer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/6/e63195ed-5c3e-40e8-9cc2-5cbc1faf7f7f.jpg?1619401819",
+    "normal": "https://cards.scryfall.io/normal/front/e/6/e63195ed-5c3e-40e8-9cc2-5cbc1faf7f7f.jpg?1619401819",
+    "large": "https://cards.scryfall.io/large/front/e/6/e63195ed-5c3e-40e8-9cc2-5cbc1faf7f7f.jpg?1619401819",
+    "png": "https://cards.scryfall.io/png/front/e/6/e63195ed-5c3e-40e8-9cc2-5cbc1faf7f7f.png?1619401819",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/6/e63195ed-5c3e-40e8-9cc2-5cbc1faf7f7f.jpg?1619401819",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/6/e63195ed-5c3e-40e8-9cc2-5cbc1faf7f7f.jpg?1619401819"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Creature — Human Shaman",
+  "oracle_text": "Whenever you cast an instant or sorcery spell, create a 1/1 red Elemental creature token.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "4ace3018-7d6e-4b77-9487-f280fd723d12",
+      "component": "token",
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "uri": "https://api.scryfall.com/cards/4ace3018-7d6e-4b77-9487-f280fd723d12"
+    },
+    {
+      "object": "related_card",
+      "id": "e63195ed-5c3e-40e8-9cc2-5cbc1faf7f7f",
+      "component": "combo_piece",
+      "name": "Young Pyromancer",
+      "type_line": "Creature — Human Shaman",
+      "uri": "https://api.scryfall.com/cards/e63195ed-5c3e-40e8-9cc2-5cbc1faf7f7f"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "11e90d1b-0502-43e6-b056-e24836523c13",
+  "set": "tsr",
+  "set_name": "Time Spiral Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/11e90d1b-0502-43e6-b056-e24836523c13",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atsr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tsr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e63195ed-5c3e-40e8-9cc2-5cbc1faf7f7f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5fac139a-07d3-4e6c-98e3-d98b199f7a6f&unique=prints",
+  "collector_number": "353",
+  "digital": false,
+  "rarity": "special",
+  "flavor_text": "Immolation is the sincerest form of flattery.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Cynthia Sheppard",
+  "artist_ids": [
+    "9dfbdd58-65e6-40cf-951a-80e141061939"
+  ],
+  "illustration_id": "b0e1818e-dfc6-4d26-93ff-bbb4b0d711e6",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 660,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://twitter.com/wizards_magic/status/1366905413178961920",
+    "previewed_at": "2021-03-02"
+  },
+  "prices": {
+    "usd": "0.58",
+    "usd_foil": "15.61",
+    "usd_etched": null,
+    "eur": "0.63",
+    "eur_foil": "11.84",
+    "tix": "0.24"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=512319&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DYoung%2BPyromancer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DYoung%2BPyromancer",
+    "edhrec": "https://edhrec.com/route/?cc=Young+Pyromancer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F233981%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=545231&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/87083?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "object": "card",
+  "id": "246c2602-a8fd-4e01-bf32-5a513ae3c056",
+  "oracle_id": "c6655e05-9e31-4a74-a97d-1eeb473fe900",
+  "multiverse_ids": [],
+  "tcgplayer_id": 635764,
+  "name": "Jill, Shiva's Dominant // Shiva, Warden of Ice",
+  "lang": "en",
+  "released_at": "2025-06-13",
+  "uri": "https://api.scryfall.com/cards/246c2602-a8fd-4e01-bf32-5a513ae3c056",
+  "scryfall_uri": "https://scryfall.com/card/pfin/58s/jill-shivas-dominant-shiva-warden-of-ice?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Human Noble Warrior // Legendary Enchantment Creature — Saga Elemental",
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Transform"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Jill, Shiva's Dominant",
+      "mana_cost": "{2}{U}",
+      "type_line": "Legendary Creature — Human Noble Warrior",
+      "oracle_text": "When Jill enters, return up to one other target nonland permanent to its owner's hand.\n{3}{U}{U}, {T}: Exile Jill, then return it to the battlefield transformed under its owner's control. Activate only as a sorcery.",
+      "colors": [
+        "U"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "flavor_text": "\"I'm going to help you. To give you what you need to protect us all.\"",
+      "artist": "Arif Wijaya",
+      "artist_id": "a1d47f27-cbf6-4a7b-bbbb-8f051c9069d6",
+      "illustration_id": "834f1171-88a0-434c-996c-9beedf86bd56",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/2/4/246c2602-a8fd-4e01-bf32-5a513ae3c056.jpg?1750536097",
+        "normal": "https://cards.scryfall.io/normal/front/2/4/246c2602-a8fd-4e01-bf32-5a513ae3c056.jpg?1750536097",
+        "large": "https://cards.scryfall.io/large/front/2/4/246c2602-a8fd-4e01-bf32-5a513ae3c056.jpg?1750536097",
+        "png": "https://cards.scryfall.io/png/front/2/4/246c2602-a8fd-4e01-bf32-5a513ae3c056.png?1750536097",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/2/4/246c2602-a8fd-4e01-bf32-5a513ae3c056.jpg?1750536097",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/2/4/246c2602-a8fd-4e01-bf32-5a513ae3c056.jpg?1750536097"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Shiva, Warden of Ice",
+      "mana_cost": "",
+      "type_line": "Legendary Enchantment Creature — Saga Elemental",
+      "oracle_text": "(As this Saga enters and after your draw step, add a lore counter.)\nI, II — Mesmerize — Target creature can't be blocked this turn.\nIII — Cold Snap — Tap all lands your opponents control. Exile Shiva, then return it to the battlefield (front face up).",
+      "colors": [
+        "U"
+      ],
+      "color_indicator": [
+        "U"
+      ],
+      "power": "4",
+      "toughness": "5",
+      "flavor_text": "\"I will be your monster no more.\"",
+      "artist": "Arif Wijaya",
+      "artist_id": "a1d47f27-cbf6-4a7b-bbbb-8f051c9069d6",
+      "illustration_id": "ad381ac3-eb29-4504-b5f2-35bf8c1c83ca",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/2/4/246c2602-a8fd-4e01-bf32-5a513ae3c056.jpg?1750536097",
+        "normal": "https://cards.scryfall.io/normal/back/2/4/246c2602-a8fd-4e01-bf32-5a513ae3c056.jpg?1750536097",
+        "large": "https://cards.scryfall.io/large/back/2/4/246c2602-a8fd-4e01-bf32-5a513ae3c056.jpg?1750536097",
+        "png": "https://cards.scryfall.io/png/back/2/4/246c2602-a8fd-4e01-bf32-5a513ae3c056.png?1750536097",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/2/4/246c2602-a8fd-4e01-bf32-5a513ae3c056.jpg?1750536097",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/2/4/246c2602-a8fd-4e01-bf32-5a513ae3c056.jpg?1750536097"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "ff405aba-0309-4694-a6d5-e657024f7ad0",
+  "set": "pfin",
+  "set_name": "Final Fantasy Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/ff405aba-0309-4694-a6d5-e657024f7ad0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apfin&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pfin?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/246c2602-a8fd-4e01-bf32-5a513ae3c056/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac6655e05-9e31-4a74-a97d-1eeb473fe900&unique=prints",
+  "collector_number": "58s",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Arif Wijaya",
+  "artist_ids": [
+    "a1d47f27-cbf6-4a7b-bbbb-8f051c9069d6"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "enchantment",
+    "legendary"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 10745,
+  "prices": {
+    "usd": null,
+    "usd_foil": "15.22",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJill%252C%2BShiva%2527s%2BDominant%2B%252F%252F%2BShiva%252C%2BWarden%2Bof%2BIce",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJill%252C%2BShiva%2527s%2BDominant%2B%252F%252F%2BShiva%252C%2BWarden%2Bof%2BIce",
+    "edhrec": "https://edhrec.com/route/?cc=Jill%2C+Shiva%27s+Dominant"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F635764%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Jill%2C+Shiva%27s+Dominant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jill%2C+Shiva%27s+Dominant&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

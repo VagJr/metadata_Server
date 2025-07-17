@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "f5360810-5982-4f78-ac9e-84cd70f1e357",
+  "oracle_id": "089788ce-d06c-4a85-915c-82e2cb5b0103",
+  "multiverse_ids": [],
+  "mtgo_id": 96222,
+  "tcgplayer_id": 255583,
+  "cardmarket_id": 584830,
+  "name": "Candletrap",
+  "lang": "en",
+  "released_at": "2022-01-28",
+  "uri": "https://api.scryfall.com/cards/f5360810-5982-4f78-ac9e-84cd70f1e357",
+  "scryfall_uri": "https://scryfall.com/card/dbl/9/candletrap?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/5/f5360810-5982-4f78-ac9e-84cd70f1e357.jpg?1673158576",
+    "normal": "https://cards.scryfall.io/normal/front/f/5/f5360810-5982-4f78-ac9e-84cd70f1e357.jpg?1673158576",
+    "large": "https://cards.scryfall.io/large/front/f/5/f5360810-5982-4f78-ac9e-84cd70f1e357.jpg?1673158576",
+    "png": "https://cards.scryfall.io/png/front/f/5/f5360810-5982-4f78-ac9e-84cd70f1e357.png?1673158576",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/5/f5360810-5982-4f78-ac9e-84cd70f1e357.jpg?1673158576",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/5/f5360810-5982-4f78-ac9e-84cd70f1e357.jpg?1673158576"
+  },
+  "mana_cost": "{W}",
+  "cmc": 1,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant creature\nEnchanted creature has defender.\nPrevent all combat damage that would be dealt by enchanted creature.\nCoven — {2}{W}, Sacrifice this Aura: Exile enchanted creature. Activate only if you control three or more creatures with different powers.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Enchant",
+    "Coven"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set": "dbl",
+  "set_name": "Innistrad: Double Feature",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adbl&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dbl?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f5360810-5982-4f78-ac9e-84cd70f1e357/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A089788ce-d06c-4a85-915c-82e2cb5b0103&unique=prints",
+  "collector_number": "9",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Manuel Castañón",
+  "artist_ids": [
+    "35f11eeb-36ff-4059-bb70-d1274f5bd858"
+  ],
+  "illustration_id": "0901d98f-ddda-447f-a78b-69fabbd0752f",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 15340,
+  "penny_rank": 8600,
+  "prices": {
+    "usd": "0.06",
+    "usd_foil": "0.15",
+    "usd_etched": null,
+    "eur": "0.08",
+    "eur_foil": "0.18",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCandletrap",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCandletrap",
+    "edhrec": "https://edhrec.com/route/?cc=Candletrap"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F255583%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=584830&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/96222?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

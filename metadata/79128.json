@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "babf2713-eb42-4af9-a2c8-fac80bd268f8",
+  "oracle_id": "2578e8e4-a93c-4904-9037-92a1529c2c67",
+  "multiverse_ids": [],
+  "tcgplayer_id": 269159,
+  "cardmarket_id": 653109,
+  "name": "Hoard Hauler",
+  "lang": "en",
+  "released_at": "2022-04-29",
+  "uri": "https://api.scryfall.com/cards/babf2713-eb42-4af9-a2c8-fac80bd268f8",
+  "scryfall_uri": "https://scryfall.com/card/psnc/109s/hoard-hauler?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/a/babf2713-eb42-4af9-a2c8-fac80bd268f8.jpg?1675618862",
+    "normal": "https://cards.scryfall.io/normal/front/b/a/babf2713-eb42-4af9-a2c8-fac80bd268f8.jpg?1675618862",
+    "large": "https://cards.scryfall.io/large/front/b/a/babf2713-eb42-4af9-a2c8-fac80bd268f8.jpg?1675618862",
+    "png": "https://cards.scryfall.io/png/front/b/a/babf2713-eb42-4af9-a2c8-fac80bd268f8.png?1675618862",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/a/babf2713-eb42-4af9-a2c8-fac80bd268f8.jpg?1675618862",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/a/babf2713-eb42-4af9-a2c8-fac80bd268f8.jpg?1675618862"
+  },
+  "mana_cost": "{3}{R}",
+  "cmc": 4,
+  "type_line": "Artifact — Vehicle",
+  "oracle_text": "Trample\nWhenever this Vehicle deals combat damage to a player, create a Treasure token for each artifact they control.\nCrew 3",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Treasure",
+    "Crew",
+    "Trample"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "babf2713-eb42-4af9-a2c8-fac80bd268f8",
+      "component": "combo_piece",
+      "name": "Hoard Hauler",
+      "type_line": "Artifact — Vehicle",
+      "uri": "https://api.scryfall.com/cards/babf2713-eb42-4af9-a2c8-fac80bd268f8"
+    },
+    {
+      "object": "related_card",
+      "id": "e4dc0938-3692-4cc2-9190-dc644f6c89a8",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/e4dc0938-3692-4cc2-9190-dc644f6c89a8"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "b651abe6-2c19-4ba0-8fa1-9b5909ccbef7",
+  "set": "psnc",
+  "set_name": "Streets of New Capenna Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/b651abe6-2c19-4ba0-8fa1-9b5909ccbef7",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apsnc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/psnc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/babf2713-eb42-4af9-a2c8-fac80bd268f8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2578e8e4-a93c-4904-9037-92a1529c2c67&unique=prints",
+  "collector_number": "109s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jake Murray",
+  "artist_ids": [
+    "be53e4e1-ab31-494a-b154-e00ee97eb463"
+  ],
+  "illustration_id": "81978692-d486-46a4-ab79-4ebcb8a53f5e",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 4685,
+  "penny_rank": 13834,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.69",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.34",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHoard%2BHauler",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHoard%2BHauler",
+    "edhrec": "https://edhrec.com/route/?cc=Hoard+Hauler"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F269159%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=653109&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hoard+Hauler&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

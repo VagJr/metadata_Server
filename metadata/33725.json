@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "4fceba50-7666-417d-8f09-e97e73193027",
+  "oracle_id": "a3d048c8-e8df-4b50-a422-fc94a69f44bb",
+  "multiverse_ids": [],
+  "tcgplayer_id": 146059,
+  "cardmarket_id": 302083,
+  "name": "Boneyard Parley",
+  "lang": "en",
+  "released_at": "2017-09-29",
+  "uri": "https://api.scryfall.com/cards/4fceba50-7666-417d-8f09-e97e73193027",
+  "scryfall_uri": "https://scryfall.com/card/pxln/94s/boneyard-parley?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/f/4fceba50-7666-417d-8f09-e97e73193027.jpg?1562909629",
+    "normal": "https://cards.scryfall.io/normal/front/4/f/4fceba50-7666-417d-8f09-e97e73193027.jpg?1562909629",
+    "large": "https://cards.scryfall.io/large/front/4/f/4fceba50-7666-417d-8f09-e97e73193027.jpg?1562909629",
+    "png": "https://cards.scryfall.io/png/front/4/f/4fceba50-7666-417d-8f09-e97e73193027.png?1562909629",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/f/4fceba50-7666-417d-8f09-e97e73193027.jpg?1562909629",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/f/4fceba50-7666-417d-8f09-e97e73193027.jpg?1562909629"
+  },
+  "mana_cost": "{5}{B}{B}",
+  "cmc": 7,
+  "type_line": "Sorcery",
+  "oracle_text": "Exile up to five target creature cards from graveyards. An opponent separates those cards into two piles. Put all cards from the pile of your choice onto the battlefield under your control and the rest into their owners' graveyards.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e2876a7e-3444-49cc-a299-aae5094f3566",
+  "set": "pxln",
+  "set_name": "Ixalan Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/e2876a7e-3444-49cc-a299-aae5094f3566",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apxln&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pxln?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4fceba50-7666-417d-8f09-e97e73193027/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3d048c8-e8df-4b50-a422-fc94a69f44bb&unique=prints",
+  "collector_number": "94s",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "James Ryman",
+  "artist_ids": [
+    "3852bbc9-11c0-4fe3-8722-a06ad7e2bcc5"
+  ],
+  "illustration_id": "e50a6075-249d-4297-b567-65895e0289eb",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 10911,
+  "penny_rank": 15515,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.13",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "1.18",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBoneyard%2BParley",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBoneyard%2BParley",
+    "edhrec": "https://edhrec.com/route/?cc=Boneyard+Parley"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F146059%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=302083&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Boneyard+Parley&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

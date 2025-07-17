@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "1bcb02d3-dcf4-41a6-8b9a-f8ad477faea0",
+  "oracle_id": "64b4e91f-83a4-4b3f-87d4-8c48907e628d",
+  "multiverse_ids": [],
+  "arena_id": 73756,
+  "tcgplayer_id": 206804,
+  "cardmarket_id": 430569,
+  "name": "Tymaret, Chosen from Death",
+  "lang": "en",
+  "released_at": "2020-01-24",
+  "uri": "https://api.scryfall.com/cards/1bcb02d3-dcf4-41a6-8b9a-f8ad477faea0",
+  "scryfall_uri": "https://scryfall.com/card/thb/263/tymaret-chosen-from-death?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/b/1bcb02d3-dcf4-41a6-8b9a-f8ad477faea0.jpg?1682720722",
+    "normal": "https://cards.scryfall.io/normal/front/1/b/1bcb02d3-dcf4-41a6-8b9a-f8ad477faea0.jpg?1682720722",
+    "large": "https://cards.scryfall.io/large/front/1/b/1bcb02d3-dcf4-41a6-8b9a-f8ad477faea0.jpg?1682720722",
+    "png": "https://cards.scryfall.io/png/front/1/b/1bcb02d3-dcf4-41a6-8b9a-f8ad477faea0.png?1682720722",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/b/1bcb02d3-dcf4-41a6-8b9a-f8ad477faea0.jpg?1682720722",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/b/1bcb02d3-dcf4-41a6-8b9a-f8ad477faea0.jpg?1682720722"
+  },
+  "mana_cost": "{B}{B}",
+  "cmc": 2,
+  "type_line": "Legendary Enchantment Creature — Demigod",
+  "oracle_text": "Tymaret's toughness is equal to your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)\n{1}{B}: Exile up to two target cards from graveyards. You gain 1 life for each creature card exiled this way.",
+  "power": "2",
+  "toughness": "*",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "5f23a78d-cda1-462a-8be3-a62b40c34913",
+  "set": "thb",
+  "set_name": "Theros Beyond Death",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/5f23a78d-cda1-462a-8be3-a62b40c34913",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Athb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/thb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1bcb02d3-dcf4-41a6-8b9a-f8ad477faea0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A64b4e91f-83a4-4b3f-87d4-8c48907e628d&unique=prints",
+  "collector_number": "263",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason A. Engle",
+  "artist_ids": [
+    "02e2b5de-4341-464c-8fdb-a1adbf873bc0"
+  ],
+  "illustration_id": "6ce8e541-1bde-4500-a4e1-9a3074e2ef10",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "enchantment",
+    "showcase",
+    "legendary",
+    "inverted"
+  ],
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 8473,
+  "penny_rank": 1047,
+  "preview": {
+    "source": "Numot The Nummy",
+    "source_uri": "https://www.twitch.tv/videos/530302391",
+    "previewed_at": "2020-01-03"
+  },
+  "prices": {
+    "usd": "0.13",
+    "usd_foil": "0.16",
+    "usd_etched": null,
+    "eur": "0.13",
+    "eur_foil": "0.18",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTymaret%252C%2BChosen%2Bfrom%2BDeath",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTymaret%252C%2BChosen%2Bfrom%2BDeath",
+    "edhrec": "https://edhrec.com/route/?cc=Tymaret%2C+Chosen+from+Death"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F206804%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=430569&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tymaret%2C+Chosen+from+Death&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

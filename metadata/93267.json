@@ -1,0 +1,200 @@
+{
+  "object": "card",
+  "id": "dc31e017-81e6-43bf-bf8e-ea0faca5d9b7",
+  "oracle_id": "29ff8699-53d8-413b-8a3c-0e3ea1e13ff0",
+  "multiverse_ids": [],
+  "tcgplayer_id": 170041,
+  "name": "Angel",
+  "lang": "en",
+  "released_at": "2018-07-13",
+  "uri": "https://api.scryfall.com/cards/dc31e017-81e6-43bf-bf8e-ea0faca5d9b7",
+  "scryfall_uri": "https://scryfall.com/card/tm19/1/angel?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/c/dc31e017-81e6-43bf-bf8e-ea0faca5d9b7.jpg?1562702386",
+    "normal": "https://cards.scryfall.io/normal/front/d/c/dc31e017-81e6-43bf-bf8e-ea0faca5d9b7.jpg?1562702386",
+    "large": "https://cards.scryfall.io/large/front/d/c/dc31e017-81e6-43bf-bf8e-ea0faca5d9b7.jpg?1562702386",
+    "png": "https://cards.scryfall.io/png/front/d/c/dc31e017-81e6-43bf-bf8e-ea0faca5d9b7.png?1562702386",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/c/dc31e017-81e6-43bf-bf8e-ea0faca5d9b7.jpg?1562702386",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/c/dc31e017-81e6-43bf-bf8e-ea0faca5d9b7.jpg?1562702386"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Angel",
+  "oracle_text": "Flying, vigilance",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "Vigilance"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e976523b-55cf-4cc0-b537-bb7c629004b4",
+      "component": "combo_piece",
+      "name": "Valkyrie Harbinger",
+      "type_line": "Creature — Angel Cleric",
+      "uri": "https://api.scryfall.com/cards/e976523b-55cf-4cc0-b537-bb7c629004b4"
+    },
+    {
+      "object": "related_card",
+      "id": "6a03d849-67ef-47a8-babb-8a71c1f19d17",
+      "component": "combo_piece",
+      "name": "Parhelion II // Parhelion II",
+      "type_line": "Legendary Artifact — Vehicle // Legendary Artifact — Vehicle",
+      "uri": "https://api.scryfall.com/cards/6a03d849-67ef-47a8-babb-8a71c1f19d17"
+    },
+    {
+      "object": "related_card",
+      "id": "dc31e017-81e6-43bf-bf8e-ea0faca5d9b7",
+      "component": "token",
+      "name": "Angel",
+      "type_line": "Token Creature — Angel",
+      "uri": "https://api.scryfall.com/cards/dc31e017-81e6-43bf-bf8e-ea0faca5d9b7"
+    },
+    {
+      "object": "related_card",
+      "id": "58b52154-3e81-4ba0-8d17-f142560d7f89",
+      "component": "combo_piece",
+      "name": "Resplendent Angel",
+      "type_line": "Creature — Angel",
+      "uri": "https://api.scryfall.com/cards/58b52154-3e81-4ba0-8d17-f142560d7f89"
+    },
+    {
+      "object": "related_card",
+      "id": "1e928b7c-ca30-4e2d-adf7-965f111c8bf1",
+      "component": "combo_piece",
+      "name": "Rampage of the Valkyries",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/1e928b7c-ca30-4e2d-adf7-965f111c8bf1"
+    },
+    {
+      "object": "related_card",
+      "id": "3800216f-5b35-4cfa-bcdb-d70e9b368d18",
+      "component": "combo_piece",
+      "name": "Divine Visitation",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/3800216f-5b35-4cfa-bcdb-d70e9b368d18"
+    },
+    {
+      "object": "related_card",
+      "id": "1e71b0fb-2d36-4b81-bd5b-c3fd083e3e97",
+      "component": "combo_piece",
+      "name": "Finale of Glory",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/1e71b0fb-2d36-4b81-bd5b-c3fd083e3e97"
+    },
+    {
+      "object": "related_card",
+      "id": "82f47335-2bf7-46c3-941b-00357e5653da",
+      "component": "combo_piece",
+      "name": "Jenson Carthalion, Druid Exile",
+      "type_line": "Legendary Creature — Human Druid",
+      "uri": "https://api.scryfall.com/cards/82f47335-2bf7-46c3-941b-00357e5653da"
+    },
+    {
+      "object": "related_card",
+      "id": "5b0bb45b-1235-4b7a-8be7-f27cfda30838",
+      "component": "combo_piece",
+      "name": "Serra the Benevolent",
+      "type_line": "Legendary Planeswalker — Serra",
+      "uri": "https://api.scryfall.com/cards/5b0bb45b-1235-4b7a-8be7-f27cfda30838"
+    },
+    {
+      "object": "related_card",
+      "id": "258218d2-87a1-4d50-ad87-1b1b086e37be",
+      "component": "combo_piece",
+      "name": "Historian's Boon",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/258218d2-87a1-4d50-ad87-1b1b086e37be"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "f291a61b-4afa-4c57-85ac-c67d5ab1403d",
+  "set": "tm19",
+  "set_name": "Core Set 2019 Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/f291a61b-4afa-4c57-85ac-c67d5ab1403d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atm19&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tm19?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/dc31e017-81e6-43bf-bf8e-ea0faca5d9b7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A29ff8699-53d8-413b-8a3c-0e3ea1e13ff0&unique=prints",
+  "collector_number": "1",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Winona Nelson",
+  "artist_ids": [
+    "e45fe8d3-75d6-42c9-a2df-e945ad81ea27"
+  ],
+  "illustration_id": "1f9384cd-c3b1-4e06-a67c-19a29e1c4136",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "prices": {
+    "usd": "0.92",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAngel",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAngel",
+    "edhrec": "https://edhrec.com/route/?cc=Angel"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F170041%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Angel&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Angel&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "dae98fcd-434c-4e58-b891-2a733adac7f6",
+  "oracle_id": "ac5f7528-d9c8-4d9b-b84c-fbc52efec1b8",
+  "multiverse_ids": [
+    580593
+  ],
+  "tcgplayer_id": 287109,
+  "cardmarket_id": 676416,
+  "name": "Vorthos, Steward of Myth",
+  "lang": "en",
+  "released_at": "2022-10-07",
+  "uri": "https://api.scryfall.com/cards/dae98fcd-434c-4e58-b891-2a733adac7f6",
+  "scryfall_uri": "https://scryfall.com/card/unf/251/vorthos-steward-of-myth?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/a/dae98fcd-434c-4e58-b891-2a733adac7f6.jpg?1673916539",
+    "normal": "https://cards.scryfall.io/normal/front/d/a/dae98fcd-434c-4e58-b891-2a733adac7f6.jpg?1673916539",
+    "large": "https://cards.scryfall.io/large/front/d/a/dae98fcd-434c-4e58-b891-2a733adac7f6.jpg?1673916539",
+    "png": "https://cards.scryfall.io/png/front/d/a/dae98fcd-434c-4e58-b891-2a733adac7f6.png?1673916539",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/a/dae98fcd-434c-4e58-b891-2a733adac7f6.jpg?1673916539",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/a/dae98fcd-434c-4e58-b891-2a733adac7f6.jpg?1673916539"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Human Gamer",
+  "oracle_text": "As Vorthos, Steward of Myth enters, choose a named Magic character.\nEach spell you cast with the chosen character in its name, flavor text, or art costs {W}{U}{B}{R}{G} less to cast. This effect reduces only the amount of colored mana you pay.",
+  "power": "1",
+  "toughness": "3",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "b314f553-8f07-4ba9-96c8-16be7784eff3",
+  "set": "unf",
+  "set_name": "Unfinity",
+  "set_type": "funny",
+  "set_uri": "https://api.scryfall.com/sets/b314f553-8f07-4ba9-96c8-16be7784eff3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aunf&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/unf?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/dae98fcd-434c-4e58-b891-2a733adac7f6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aac5f7528-d9c8-4d9b-b84c-fbc52efec1b8&unique=prints",
+  "collector_number": "251",
+  "digital": false,
+  "rarity": "mythic",
+  "watermark": "set",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Stephanie Buscema",
+  "artist_ids": [
+    "823b8487-d5a6-40ed-8c02-abbe0455b960"
+  ],
+  "illustration_id": "5706a7df-7981-4ac3-ad0d-1bbab5253ffc",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary"
+  ],
+  "security_stamp": "acorn",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 24880,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/making-magic/making-space-part-1-2022-09-20",
+    "previewed_at": "2022-09-20"
+  },
+  "prices": {
+    "usd": "0.21",
+    "usd_foil": "0.26",
+    "usd_etched": null,
+    "eur": "0.44",
+    "eur_foil": "0.40",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=580593&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVorthos%252C%2BSteward%2Bof%2BMyth",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVorthos%252C%2BSteward%2Bof%2BMyth",
+    "edhrec": "https://edhrec.com/route/?cc=Vorthos%2C+Steward+of+Myth"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F287109%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=676416&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Vorthos%2C+Steward+of+Myth&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

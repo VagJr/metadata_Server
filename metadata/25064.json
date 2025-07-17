@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "3b1cd58d-c0bc-48e5-b6fa-fb222fba77ab",
+  "oracle_id": "4b6d757a-b108-46f4-b87e-c31b1caffff3",
+  "multiverse_ids": [],
+  "name": "Intrepid Rabbit",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/3b1cd58d-c0bc-48e5-b6fa-fb222fba77ab",
+  "scryfall_uri": "https://scryfall.com/card/tblb/2/intrepid-rabbit?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/b/3b1cd58d-c0bc-48e5-b6fa-fb222fba77ab.jpg?1721442347",
+    "normal": "https://cards.scryfall.io/normal/front/3/b/3b1cd58d-c0bc-48e5-b6fa-fb222fba77ab.jpg?1721442347",
+    "large": "https://cards.scryfall.io/large/front/3/b/3b1cd58d-c0bc-48e5-b6fa-fb222fba77ab.jpg?1721442347",
+    "png": "https://cards.scryfall.io/png/front/3/b/3b1cd58d-c0bc-48e5-b6fa-fb222fba77ab.png?1721442347",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/b/3b1cd58d-c0bc-48e5-b6fa-fb222fba77ab.jpg?1721442347",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/b/3b1cd58d-c0bc-48e5-b6fa-fb222fba77ab.jpg?1721442347"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Token Creature — Rabbit Soldier",
+  "oracle_text": "When this creature enters, target creature you control gets +1/+1 until end of turn.\n(This token's mana cost is {2}{W}.)",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "3b1cd58d-c0bc-48e5-b6fa-fb222fba77ab",
+      "component": "token",
+      "name": "Intrepid Rabbit",
+      "type_line": "Token Creature — Rabbit Soldier",
+      "uri": "https://api.scryfall.com/cards/3b1cd58d-c0bc-48e5-b6fa-fb222fba77ab"
+    },
+    {
+      "object": "related_card",
+      "id": "4d70b99d-c8bf-4a56-8957-cf587fe60b81",
+      "component": "combo_piece",
+      "name": "Intrepid Rabbit",
+      "type_line": "Creature — Rabbit Soldier",
+      "uri": "https://api.scryfall.com/cards/4d70b99d-c8bf-4a56-8957-cf587fe60b81"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "98ffb0ad-639e-4861-b81d-dd5ae734badf",
+  "set": "tblb",
+  "set_name": "Bloomburrow Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/98ffb0ad-639e-4861-b81d-dd5ae734badf",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atblb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tblb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3b1cd58d-c0bc-48e5-b6fa-fb222fba77ab/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4b6d757a-b108-46f4-b87e-c31b1caffff3&unique=prints",
+  "collector_number": "2",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Artur Treffner",
+  "artist_ids": [
+    "c9afede7-43a7-4a0c-808e-55862f9ff727"
+  ],
+  "illustration_id": "4fdc43a1-19cf-4f06-8612-1b4886dfe2af",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DIntrepid%2BRabbit",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DIntrepid%2BRabbit",
+    "edhrec": "https://edhrec.com/route/?cc=Intrepid+Rabbit"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DIntrepid%2BRabbit%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Intrepid+Rabbit&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Intrepid+Rabbit&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

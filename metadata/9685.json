@@ -1,0 +1,151 @@
+{
+  "object": "card",
+  "id": "168614ac-0126-47f6-a491-5a57490c74a7",
+  "oracle_id": "cd69b2c7-2be7-4915-9d17-4fd400ace6b8",
+  "multiverse_ids": [],
+  "tcgplayer_id": 206829,
+  "cardmarket_id": 430939,
+  "name": "Mantle of the Wolf",
+  "lang": "en",
+  "released_at": "2020-01-24",
+  "uri": "https://api.scryfall.com/cards/168614ac-0126-47f6-a491-5a57490c74a7",
+  "scryfall_uri": "https://scryfall.com/card/thb/327/mantle-of-the-wolf?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/6/168614ac-0126-47f6-a491-5a57490c74a7.jpg?1580950826",
+    "normal": "https://cards.scryfall.io/normal/front/1/6/168614ac-0126-47f6-a491-5a57490c74a7.jpg?1580950826",
+    "large": "https://cards.scryfall.io/large/front/1/6/168614ac-0126-47f6-a491-5a57490c74a7.jpg?1580950826",
+    "png": "https://cards.scryfall.io/png/front/1/6/168614ac-0126-47f6-a491-5a57490c74a7.png?1580950826",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/6/168614ac-0126-47f6-a491-5a57490c74a7.jpg?1580950826",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/6/168614ac-0126-47f6-a491-5a57490c74a7.jpg?1580950826"
+  },
+  "mana_cost": "{3}{G}",
+  "cmc": 4,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant creature\nEnchanted creature gets +4/+4.\nWhen this Aura is put into a graveyard from the battlefield, create two 2/2 green Wolf creature tokens.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "411f4bf6-7f09-4e24-b483-0068d2f974e5",
+      "component": "token",
+      "name": "Wolf",
+      "type_line": "Token Creature — Wolf",
+      "uri": "https://api.scryfall.com/cards/411f4bf6-7f09-4e24-b483-0068d2f974e5"
+    },
+    {
+      "object": "related_card",
+      "id": "168614ac-0126-47f6-a491-5a57490c74a7",
+      "component": "combo_piece",
+      "name": "Mantle of the Wolf",
+      "type_line": "Enchantment — Aura",
+      "uri": "https://api.scryfall.com/cards/168614ac-0126-47f6-a491-5a57490c74a7"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "5f23a78d-cda1-462a-8be3-a62b40c34913",
+  "set": "thb",
+  "set_name": "Theros Beyond Death",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/5f23a78d-cda1-462a-8be3-a62b40c34913",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Athb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/thb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/168614ac-0126-47f6-a491-5a57490c74a7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acd69b2c7-2be7-4915-9d17-4fd400ace6b8&unique=prints",
+  "collector_number": "327",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Simon Dominic",
+  "artist_ids": [
+    "b0e80135-db5a-4b88-a0bc-815a0e94faa1"
+  ],
+  "illustration_id": "534a3d13-67d2-42e0-8eaa-3494a6c4f4e4",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 12898,
+  "penny_rank": 9377,
+  "preview": {
+    "source": "NOT A WOLF",
+    "source_uri": "https://twitter.com/SICKOFWOLVES/status/1214219540902662144",
+    "previewed_at": "2020-01-06"
+  },
+  "prices": {
+    "usd": "0.41",
+    "usd_foil": "0.64",
+    "usd_etched": null,
+    "eur": "0.26",
+    "eur_foil": "0.66",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMantle%2Bof%2Bthe%2BWolf",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMantle%2Bof%2Bthe%2BWolf",
+    "edhrec": "https://edhrec.com/route/?cc=Mantle+of+the+Wolf"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F206829%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=430939&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mantle+of+the+Wolf&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

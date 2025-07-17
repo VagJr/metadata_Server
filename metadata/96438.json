@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "e3c2c145-3ddf-45d8-a5f0-f757dbd94ad1",
+  "oracle_id": "5604c475-6e01-4e9d-b4e6-8e8d72874581",
+  "multiverse_ids": [
+    592712
+  ],
+  "tcgplayer_id": 455093,
+  "cardmarket_id": 686499,
+  "name": "Briarpack Alpha",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/e3c2c145-3ddf-45d8-a5f0-f757dbd94ad1",
+  "scryfall_uri": "https://scryfall.com/card/j22/634/briarpack-alpha?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/3/e3c2c145-3ddf-45d8-a5f0-f757dbd94ad1.jpg?1675651251",
+    "normal": "https://cards.scryfall.io/normal/front/e/3/e3c2c145-3ddf-45d8-a5f0-f757dbd94ad1.jpg?1675651251",
+    "large": "https://cards.scryfall.io/large/front/e/3/e3c2c145-3ddf-45d8-a5f0-f757dbd94ad1.jpg?1675651251",
+    "png": "https://cards.scryfall.io/png/front/e/3/e3c2c145-3ddf-45d8-a5f0-f757dbd94ad1.png?1675651251",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/3/e3c2c145-3ddf-45d8-a5f0-f757dbd94ad1.jpg?1675651251",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/3/e3c2c145-3ddf-45d8-a5f0-f757dbd94ad1.jpg?1675651251"
+  },
+  "mana_cost": "{3}{G}",
+  "cmc": 4,
+  "type_line": "Creature — Wolf",
+  "oracle_text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen this creature enters, target creature gets +2/+2 until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Flash"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "247df475-e4ce-4e5e-9317-11892d2211e0",
+  "set": "j22",
+  "set_name": "Jumpstart 2022",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/247df475-e4ce-4e5e-9317-11892d2211e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj22&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j22?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e3c2c145-3ddf-45d8-a5f0-f757dbd94ad1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5604c475-6e01-4e9d-b4e6-8e8d72874581&unique=prints",
+  "collector_number": "634",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"The wolves turned on us and a chill swept over me. The pack had a new leader.\"\n—Alena, trapper of Kessig",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daarken",
+  "artist_ids": [
+    "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+  ],
+  "illustration_id": "354d6b0b-483b-430b-bf0e-80a6276f19d5",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 18985,
+  "penny_rank": 12920,
+  "prices": {
+    "usd": "0.07",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.09",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=592712&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBriarpack%2BAlpha",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBriarpack%2BAlpha",
+    "edhrec": "https://edhrec.com/route/?cc=Briarpack+Alpha"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F455093%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=686499&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Briarpack+Alpha&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

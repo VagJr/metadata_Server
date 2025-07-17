@@ -1,0 +1,138 @@
+{
+  "object": "card",
+  "id": "cd0f77d1-dd28-41c2-a508-4a8c9e3262ef",
+  "oracle_id": "fae37e28-e137-4177-b973-fa8b4dd8f409",
+  "multiverse_ids": [],
+  "mtgo_id": 103624,
+  "mtgo_foil_id": 103625,
+  "tcgplayer_id": 456712,
+  "cardmarket_id": 688918,
+  "name": "Generous Gift",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/cd0f77d1-dd28-41c2-a508-4a8c9e3262ef",
+  "scryfall_uri": "https://scryfall.com/card/scd/23/generous-gift?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/d/cd0f77d1-dd28-41c2-a508-4a8c9e3262ef.jpg?1674674172",
+    "normal": "https://cards.scryfall.io/normal/front/c/d/cd0f77d1-dd28-41c2-a508-4a8c9e3262ef.jpg?1674674172",
+    "large": "https://cards.scryfall.io/large/front/c/d/cd0f77d1-dd28-41c2-a508-4a8c9e3262ef.jpg?1674674172",
+    "png": "https://cards.scryfall.io/png/front/c/d/cd0f77d1-dd28-41c2-a508-4a8c9e3262ef.png?1674674172",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/d/cd0f77d1-dd28-41c2-a508-4a8c9e3262ef.jpg?1674674172",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/d/cd0f77d1-dd28-41c2-a508-4a8c9e3262ef.jpg?1674674172"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Instant",
+  "oracle_text": "Destroy target permanent. Its controller creates a 3/3 green Elephant creature token.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "786d8019-3db0-4c60-8f9f-aa2ae0a109cd",
+      "component": "token",
+      "name": "Elephant",
+      "type_line": "Token Creature — Elephant",
+      "uri": "https://api.scryfall.com/cards/786d8019-3db0-4c60-8f9f-aa2ae0a109cd"
+    },
+    {
+      "object": "related_card",
+      "id": "cd0f77d1-dd28-41c2-a508-4a8c9e3262ef",
+      "component": "combo_piece",
+      "name": "Generous Gift",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/cd0f77d1-dd28-41c2-a508-4a8c9e3262ef"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set": "scd",
+  "set_name": "Starter Commander Decks",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ascd&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/scd?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/cd0f77d1-dd28-41c2-a508-4a8c9e3262ef/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afae37e28-e137-4177-b973-fa8b4dd8f409&unique=prints",
+  "collector_number": "23",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "The best presents are impossible to regift.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kev Walker",
+  "artist_ids": [
+    "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+  ],
+  "illustration_id": "1809744f-934a-48b9-b942-4480c6b39602",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 46,
+  "penny_rank": 2358,
+  "prices": {
+    "usd": "1.07",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.85",
+    "eur_foil": null,
+    "tix": "0.67"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGenerous%2BGift",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGenerous%2BGift",
+    "edhrec": "https://edhrec.com/route/?cc=Generous+Gift"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F456712%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=688918&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/103624?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

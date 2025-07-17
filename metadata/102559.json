@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "f26e1f55-284c-4540-bf5c-ebc7ab9687ab",
+  "oracle_id": "3d7d609a-e447-4757-9a0c-28f9787eab38",
+  "multiverse_ids": [],
+  "name": "Tarmogoyf",
+  "lang": "en",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/f26e1f55-284c-4540-bf5c-ebc7ab9687ab",
+  "scryfall_uri": "https://scryfall.com/card/tm3c/22/tarmogoyf?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/2/f26e1f55-284c-4540-bf5c-ebc7ab9687ab.jpg?1720687932",
+    "normal": "https://cards.scryfall.io/normal/front/f/2/f26e1f55-284c-4540-bf5c-ebc7ab9687ab.jpg?1720687932",
+    "large": "https://cards.scryfall.io/large/front/f/2/f26e1f55-284c-4540-bf5c-ebc7ab9687ab.jpg?1720687932",
+    "png": "https://cards.scryfall.io/png/front/f/2/f26e1f55-284c-4540-bf5c-ebc7ab9687ab.png?1720687932",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/2/f26e1f55-284c-4540-bf5c-ebc7ab9687ab.jpg?1720687932",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/2/f26e1f55-284c-4540-bf5c-ebc7ab9687ab.jpg?1720687932"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2,
+  "type_line": "Token Creature — Lhurgoyf",
+  "oracle_text": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.\n(This token's mana cost is {1}{G}.)",
+  "power": "*",
+  "toughness": "1+*",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "1330b6a4-4064-4fca-90d7-6dfc0ca1c772",
+      "component": "combo_piece",
+      "name": "Disa the Restless",
+      "type_line": "Legendary Creature — Human Scout",
+      "uri": "https://api.scryfall.com/cards/1330b6a4-4064-4fca-90d7-6dfc0ca1c772"
+    },
+    {
+      "object": "related_card",
+      "id": "1a906132-19ab-4b7c-95de-08f8a5fa3aea",
+      "component": "combo_piece",
+      "name": "Tarmogoyf Nest",
+      "type_line": "Kindred Enchantment — Lhurgoyf Aura",
+      "uri": "https://api.scryfall.com/cards/1a906132-19ab-4b7c-95de-08f8a5fa3aea"
+    },
+    {
+      "object": "related_card",
+      "id": "f26e1f55-284c-4540-bf5c-ebc7ab9687ab",
+      "component": "token",
+      "name": "Tarmogoyf",
+      "type_line": "Token Creature — Lhurgoyf",
+      "uri": "https://api.scryfall.com/cards/f26e1f55-284c-4540-bf5c-ebc7ab9687ab"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "e912a6f3-790f-4950-bacf-4693f517b469",
+  "set": "tm3c",
+  "set_name": "Modern Horizons 3 Commander Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/e912a6f3-790f-4950-bacf-4693f517b469",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atm3c&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tm3c?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f26e1f55-284c-4540-bf5c-ebc7ab9687ab/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3d7d609a-e447-4757-9a0c-28f9787eab38&unique=prints",
+  "collector_number": "22",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Camille Alquier",
+  "artist_ids": [
+    "a0670296-0225-4630-95c6-feab68d14df4"
+  ],
+  "illustration_id": "56dcbc57-53c3-4897-a3b2-0f5640b9f6fe",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTarmogoyf",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTarmogoyf",
+    "edhrec": "https://edhrec.com/route/?cc=Tarmogoyf"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DTarmogoyf%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tarmogoyf&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tarmogoyf&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

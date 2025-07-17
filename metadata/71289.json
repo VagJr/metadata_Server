@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "a839df78-3c35-44a4-8877-0f6abfeada28",
+  "oracle_id": "ea74e89e-0724-4744-a6c9-e35c415624fb",
+  "multiverse_ids": [],
+  "tcgplayer_id": 204570,
+  "cardmarket_id": 423161,
+  "name": "Sprouting Thrinax",
+  "lang": "en",
+  "released_at": "2019-11-07",
+  "uri": "https://api.scryfall.com/cards/a839df78-3c35-44a4-8877-0f6abfeada28",
+  "scryfall_uri": "https://scryfall.com/card/plst/MM3-189/sprouting-thrinax?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/8/a839df78-3c35-44a4-8877-0f6abfeada28.jpg?1573515696",
+    "normal": "https://cards.scryfall.io/normal/front/a/8/a839df78-3c35-44a4-8877-0f6abfeada28.jpg?1573515696",
+    "large": "https://cards.scryfall.io/large/front/a/8/a839df78-3c35-44a4-8877-0f6abfeada28.jpg?1573515696",
+    "png": "https://cards.scryfall.io/png/front/a/8/a839df78-3c35-44a4-8877-0f6abfeada28.png?1573515696",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/8/a839df78-3c35-44a4-8877-0f6abfeada28.jpg?1573515696",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/8/a839df78-3c35-44a4-8877-0f6abfeada28.jpg?1573515696"
+  },
+  "mana_cost": "{B}{R}{G}",
+  "cmc": 3,
+  "type_line": "Creature — Lizard",
+  "oracle_text": "When this creature dies, create three 1/1 green Saproling creature tokens.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "B",
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "590abe94-9c71-4429-b1b5-8b5de877de03",
+      "component": "token",
+      "name": "Saproling",
+      "type_line": "Token Creature — Saproling",
+      "uri": "https://api.scryfall.com/cards/590abe94-9c71-4429-b1b5-8b5de877de03"
+    },
+    {
+      "object": "related_card",
+      "id": "a839df78-3c35-44a4-8877-0f6abfeada28",
+      "component": "combo_piece",
+      "name": "Sprouting Thrinax",
+      "type_line": "Creature — Lizard",
+      "uri": "https://api.scryfall.com/cards/a839df78-3c35-44a4-8877-0f6abfeada28"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a839df78-3c35-44a4-8877-0f6abfeada28/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aea74e89e-0724-4744-a6c9-e35c415624fb&unique=prints",
+  "collector_number": "MM3-189",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "The vast network of predation on Jund has actually caused some strange creatures to adapt to being eaten.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jarreau Wimberly",
+  "artist_ids": [
+    "f30b2844-4fe8-46ae-b322-2da4494c0dfd"
+  ],
+  "illustration_id": "35ad6636-dfe3-492f-bee8-c21ee11f7bb1",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 9544,
+  "penny_rank": 2660,
+  "prices": {
+    "usd": "0.12",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.10",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSprouting%2BThrinax",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSprouting%2BThrinax",
+    "edhrec": "https://edhrec.com/route/?cc=Sprouting+Thrinax"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F204570%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=423161&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sprouting+Thrinax&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

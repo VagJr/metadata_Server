@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "f6006174-9501-48e3-b2bb-188523db53cb",
+  "oracle_id": "dc55421f-dee8-4263-9df0-2365df5f14bb",
+  "multiverse_ids": [],
+  "mtgo_id": 81964,
+  "name": "Temple of Malady",
+  "lang": "en",
+  "released_at": "2020-07-31",
+  "uri": "https://api.scryfall.com/cards/f6006174-9501-48e3-b2bb-188523db53cb",
+  "scryfall_uri": "https://scryfall.com/card/prm/81964/temple-of-malady?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/6/f6006174-9501-48e3-b2bb-188523db53cb.jpg?1630633280",
+    "normal": "https://cards.scryfall.io/normal/front/f/6/f6006174-9501-48e3-b2bb-188523db53cb.jpg?1630633280",
+    "large": "https://cards.scryfall.io/large/front/f/6/f6006174-9501-48e3-b2bb-188523db53cb.jpg?1630633280",
+    "png": "https://cards.scryfall.io/png/front/f/6/f6006174-9501-48e3-b2bb-188523db53cb.png?1630633280",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/6/f6006174-9501-48e3-b2bb-188523db53cb.jpg?1630633280",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/6/f6006174-9501-48e3-b2bb-188523db53cb.jpg?1630633280"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "This land enters tapped.\nWhen this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{T}: Add {B} or {G}.",
+  "colors": [],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [
+    "Scry"
+  ],
+  "produced_mana": [
+    "B",
+    "G"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f6006174-9501-48e3-b2bb-188523db53cb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adc55421f-dee8-4263-9df0-2365df5f14bb&unique=prints",
+  "collector_number": "81964",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Titus Lunter",
+  "artist_ids": [
+    "b11e6b3a-f4ca-4cf1-8fd7-475696de5f5c"
+  ],
+  "illustration_id": "3e67ff90-cdf5-4c67-9b0a-3e55c2254898",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 301,
+  "penny_rank": 545,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.14"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTemple%2Bof%2BMalady",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTemple%2Bof%2BMalady",
+    "edhrec": "https://edhrec.com/route/?cc=Temple+of+Malady"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DTemple%2Bof%2BMalady%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Temple+of+Malady&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/81964?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

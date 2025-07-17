@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "5e65ac2c-948b-4875-a7fe-4918410e28d8",
+  "oracle_id": "5f694917-f434-4459-bc86-caf9ac1c80e7",
+  "multiverse_ids": [],
+  "tcgplayer_id": 625744,
+  "name": "Awaken the Honored Dead",
+  "lang": "en",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/5e65ac2c-948b-4875-a7fe-4918410e28d8",
+  "scryfall_uri": "https://scryfall.com/card/ptdm/170p/awaken-the-honored-dead?utm_source=api",
+  "layout": "saga",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/e/5e65ac2c-948b-4875-a7fe-4918410e28d8.jpg?1744665738",
+    "normal": "https://cards.scryfall.io/normal/front/5/e/5e65ac2c-948b-4875-a7fe-4918410e28d8.jpg?1744665738",
+    "large": "https://cards.scryfall.io/large/front/5/e/5e65ac2c-948b-4875-a7fe-4918410e28d8.jpg?1744665738",
+    "png": "https://cards.scryfall.io/png/front/5/e/5e65ac2c-948b-4875-a7fe-4918410e28d8.png?1744665738",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/e/5e65ac2c-948b-4875-a7fe-4918410e28d8.jpg?1744665738",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/e/5e65ac2c-948b-4875-a7fe-4918410e28d8.jpg?1744665738"
+  },
+  "mana_cost": "{B}{G}{U}",
+  "cmc": 3,
+  "type_line": "Enchantment — Saga",
+  "oracle_text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Destroy target nonland permanent.\nII — Mill three cards.\nIII — You may discard a card. When you do, return target creature or land card from your graveyard to your hand.",
+  "colors": [
+    "B",
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "U"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "f17bfc1b-a0dc-45df-9585-84d8d433124f",
+  "set": "ptdm",
+  "set_name": "Tarkir: Dragonstorm Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/f17bfc1b-a0dc-45df-9585-84d8d433124f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aptdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ptdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5e65ac2c-948b-4875-a7fe-4918410e28d8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5f694917-f434-4459-bc86-caf9ac1c80e7&unique=prints",
+  "collector_number": "170p",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Clint Lockwood",
+  "artist_ids": [
+    "72589de5-497e-4c58-b1a0-cc1b616f81a5"
+  ],
+  "illustration_id": "f6a52a6b-9e18-4fbd-9d7e-fbed2a6b8975",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "enchantment"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 8610,
+  "penny_rank": 1822,
+  "prices": {
+    "usd": "0.33",
+    "usd_foil": "0.96",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAwaken%2Bthe%2BHonored%2BDead",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAwaken%2Bthe%2BHonored%2BDead",
+    "edhrec": "https://edhrec.com/route/?cc=Awaken+the+Honored+Dead"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F625744%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Awaken+the+Honored+Dead&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Awaken+the+Honored+Dead&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

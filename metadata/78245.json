@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "b8b205ab-63da-43ae-bca1-c691e8ff4799",
+  "oracle_id": "b166b670-febc-4821-855e-f8d465644c03",
+  "multiverse_ids": [
+    582512
+  ],
+  "mtgo_id": 108380,
+  "tcgplayer_id": 286129,
+  "cardmarket_id": 675340,
+  "name": "Worn Powerstone",
+  "lang": "en",
+  "released_at": "2022-10-07",
+  "uri": "https://api.scryfall.com/cards/b8b205ab-63da-43ae-bca1-c691e8ff4799",
+  "scryfall_uri": "https://scryfall.com/card/40k/263/worn-powerstone?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/8/b8b205ab-63da-43ae-bca1-c691e8ff4799.jpg?1673310458",
+    "normal": "https://cards.scryfall.io/normal/front/b/8/b8b205ab-63da-43ae-bca1-c691e8ff4799.jpg?1673310458",
+    "large": "https://cards.scryfall.io/large/front/b/8/b8b205ab-63da-43ae-bca1-c691e8ff4799.jpg?1673310458",
+    "png": "https://cards.scryfall.io/png/front/b/8/b8b205ab-63da-43ae-bca1-c691e8ff4799.png?1673310458",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/8/b8b205ab-63da-43ae-bca1-c691e8ff4799.jpg?1673310458",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/8/b8b205ab-63da-43ae-bca1-c691e8ff4799.jpg?1673310458"
+  },
+  "mana_cost": "{3}",
+  "cmc": 3,
+  "type_line": "Artifact",
+  "oracle_text": "This artifact enters tapped.\n{T}: Add {C}{C}.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "f35f5dd8-5b95-4f52-bbe7-1c62909a8d08",
+  "set": "40k",
+  "set_name": "Warhammer 40,000 Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/f35f5dd8-5b95-4f52-bbe7-1c62909a8d08",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A40k&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/40k?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b8b205ab-63da-43ae-bca1-c691e8ff4799/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab166b670-febc-4821-855e-f8d465644c03&unique=prints",
+  "collector_number": "263",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Power comes in many shapes. But real power does the shaping.\"\n—Abaddon the Despoiler",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "David Sondered",
+  "artist_ids": [
+    "d425b9a7-dd1f-47ca-86c0-aaedb22606dd"
+  ],
+  "illustration_id": "be4dd244-de62-44ae-82d1-12bcc9f60699",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 507,
+  "penny_rank": 2909,
+  "prices": {
+    "usd": "0.73",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.27",
+    "eur_foil": null,
+    "tix": "0.09"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=582512&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWorn%2BPowerstone",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWorn%2BPowerstone",
+    "edhrec": "https://edhrec.com/route/?cc=Worn+Powerstone"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F286129%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=675340&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/108380?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

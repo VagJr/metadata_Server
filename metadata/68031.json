@@ -1,0 +1,156 @@
+{
+  "object": "card",
+  "id": "a0c9989f-6314-4bae-9404-430582af2bf5",
+  "oracle_id": "6e42da0c-151e-468d-91cb-5a5b117a9298",
+  "multiverse_ids": [],
+  "tcgplayer_id": 478414,
+  "cardmarket_id": 692902,
+  "name": "Tyrranax Rex",
+  "lang": "en",
+  "released_at": "2023-02-03",
+  "uri": "https://api.scryfall.com/cards/a0c9989f-6314-4bae-9404-430582af2bf5",
+  "scryfall_uri": "https://scryfall.com/card/one/355/tyrranax-rex?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/0/a0c9989f-6314-4bae-9404-430582af2bf5.jpg?1681699507",
+    "normal": "https://cards.scryfall.io/normal/front/a/0/a0c9989f-6314-4bae-9404-430582af2bf5.jpg?1681699507",
+    "large": "https://cards.scryfall.io/large/front/a/0/a0c9989f-6314-4bae-9404-430582af2bf5.jpg?1681699507",
+    "png": "https://cards.scryfall.io/png/front/a/0/a0c9989f-6314-4bae-9404-430582af2bf5.png?1681699507",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/0/a0c9989f-6314-4bae-9404-430582af2bf5.jpg?1681699507",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/0/a0c9989f-6314-4bae-9404-430582af2bf5.jpg?1681699507"
+  },
+  "mana_cost": "{4}{G}{G}{G}",
+  "cmc": 7,
+  "type_line": "Creature — Phyrexian Dinosaur",
+  "oracle_text": "This spell can't be countered.\nTrample, ward {4}, haste\nToxic 4 (Players dealt combat damage by this creature also get four poison counters.)",
+  "power": "8",
+  "toughness": "8",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Toxic",
+    "Haste",
+    "Trample",
+    "Ward"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "40255bfa-0004-45f1-a31b-17d385f09a95",
+      "component": "combo_piece",
+      "name": "Poison Counter",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/40255bfa-0004-45f1-a31b-17d385f09a95"
+    },
+    {
+      "object": "related_card",
+      "id": "ebc1978e-ba4f-48ed-90e2-9252603f99fe",
+      "component": "combo_piece",
+      "name": "Tyrranax Rex",
+      "type_line": "Creature — Phyrexian Dinosaur",
+      "uri": "https://api.scryfall.com/cards/ebc1978e-ba4f-48ed-90e2-9252603f99fe"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a0c9989f-6314-4bae-9404-430582af2bf5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6e42da0c-151e-468d-91cb-5a5b117a9298&unique=prints",
+  "collector_number": "355",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Phil Stone",
+  "artist_ids": [
+    "86942b2a-49d3-4edd-908c-551f6f07dd00"
+  ],
+  "illustration_id": "8573331d-14ca-4908-a3a5-ce49fb8d13e7",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "oilslick",
+    "raisedfoil"
+  ],
+  "edhrec_rank": 2332,
+  "penny_rank": 6419,
+  "preview": {
+    "source": "Star City Games",
+    "source_uri": "https://articles.starcitygames.com/magic-the-gathering/phyrexia-all-will-be-one-gives-green-first-phyrexian-dinosaur/",
+    "previewed_at": "2023-01-18"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "19.05",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "13.82",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTyrranax%2BRex",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTyrranax%2BRex",
+    "edhrec": "https://edhrec.com/route/?cc=Tyrranax+Rex"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F478414%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=692902&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tyrranax+Rex&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

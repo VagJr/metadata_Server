@@ -1,0 +1,177 @@
+{
+  "object": "card",
+  "id": "c0f0004e-ee4c-4372-be5d-a5102f45210e",
+  "oracle_id": "16d2a56a-7181-4ef3-866b-10dd8615d9e9",
+  "multiverse_ids": [
+    544466,
+    544467
+  ],
+  "arena_id": 79132,
+  "tcgplayer_id": 253751,
+  "cardmarket_id": 583597,
+  "name": "Jacob Hauken, Inspector // Hauken's Insight",
+  "lang": "en",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/c0f0004e-ee4c-4372-be5d-a5102f45210e",
+  "scryfall_uri": "https://scryfall.com/card/vow/332/jacob-hauken-inspector-haukens-insight?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Human Advisor // Legendary Enchantment",
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Transform"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Jacob Hauken, Inspector",
+      "flavor_name": "Jonathan Harker",
+      "mana_cost": "{1}{U}",
+      "type_line": "Legendary Creature — Human Advisor",
+      "oracle_text": "{T}: Draw a card, then exile a card from your hand face down. You may look at that card for as long as it remains exiled. You may pay {4}{U}{U}. If you do, transform Jacob Hauken.",
+      "colors": [
+        "U"
+      ],
+      "power": "0",
+      "toughness": "2",
+      "artist": "Slawomir Maniak",
+      "artist_id": "d887bc66-2779-416c-a1ff-d8720242063e",
+      "illustration_id": "6021cec7-89d1-462e-83e2-a1b2e40f1abf",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/c/0/c0f0004e-ee4c-4372-be5d-a5102f45210e.jpg?1644976607",
+        "normal": "https://cards.scryfall.io/normal/front/c/0/c0f0004e-ee4c-4372-be5d-a5102f45210e.jpg?1644976607",
+        "large": "https://cards.scryfall.io/large/front/c/0/c0f0004e-ee4c-4372-be5d-a5102f45210e.jpg?1644976607",
+        "png": "https://cards.scryfall.io/png/front/c/0/c0f0004e-ee4c-4372-be5d-a5102f45210e.png?1644976607",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/c/0/c0f0004e-ee4c-4372-be5d-a5102f45210e.jpg?1644976607",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/c/0/c0f0004e-ee4c-4372-be5d-a5102f45210e.jpg?1644976607"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Hauken's Insight",
+      "flavor_name": "Harker's Obsessive Inquiry",
+      "mana_cost": "",
+      "type_line": "Legendary Enchantment",
+      "oracle_text": "At the beginning of your upkeep, exile the top card of your library face down. You may look at that card for as long as it remains exiled.\nOnce during each of your turns, you may play a land or cast a spell from among the cards exiled with this permanent without paying its mana cost.",
+      "colors": [
+        "U"
+      ],
+      "color_indicator": [
+        "U"
+      ],
+      "artist": "Slawomir Maniak",
+      "artist_id": "d887bc66-2779-416c-a1ff-d8720242063e",
+      "illustration_id": "ed3e3776-d661-4f7b-b705-ec588d52cedd",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/c/0/c0f0004e-ee4c-4372-be5d-a5102f45210e.jpg?1644976607",
+        "normal": "https://cards.scryfall.io/normal/back/c/0/c0f0004e-ee4c-4372-be5d-a5102f45210e.jpg?1644976607",
+        "large": "https://cards.scryfall.io/large/back/c/0/c0f0004e-ee4c-4372-be5d-a5102f45210e.jpg?1644976607",
+        "png": "https://cards.scryfall.io/png/back/c/0/c0f0004e-ee4c-4372-be5d-a5102f45210e.png?1644976607",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/c/0/c0f0004e-ee4c-4372-be5d-a5102f45210e.jpg?1644976607",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/c/0/c0f0004e-ee4c-4372-be5d-a5102f45210e.jpg?1644976607"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/vow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c0f0004e-ee4c-4372-be5d-a5102f45210e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A16d2a56a-7181-4ef3-866b-10dd8615d9e9&unique=prints",
+  "collector_number": "332",
+  "digital": false,
+  "rarity": "mythic",
+  "artist": "Slawomir Maniak",
+  "artist_ids": [
+    "d887bc66-2779-416c-a1ff-d8720242063e"
+  ],
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "sunmoondfc",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "draculaseries",
+    "boosterfun"
+  ],
+  "edhrec_rank": 9204,
+  "penny_rank": 7144,
+  "preview": {
+    "source": "Teion Takashi",
+    "source_uri": "https://www.youtube.com/watch?v=hu3J_VpGiQQ",
+    "previewed_at": "2021-11-04"
+  },
+  "prices": {
+    "usd": "0.69",
+    "usd_foil": "0.93",
+    "usd_etched": null,
+    "eur": "0.82",
+    "eur_foil": "1.12",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=544466&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJacob%2BHauken%252C%2BInspector%2B%252F%252F%2BHauken%2527s%2BInsight",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJacob%2BHauken%252C%2BInspector%2B%252F%252F%2BHauken%2527s%2BInsight",
+    "edhrec": "https://edhrec.com/route/?cc=Jacob+Hauken%2C+Inspector"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F253751%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=583597&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jacob+Hauken%2C+Inspector&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

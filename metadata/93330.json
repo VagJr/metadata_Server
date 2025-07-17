@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "dc50f081-bc81-4872-bfd9-d41e64b33bcb",
+  "oracle_id": "dade5835-ccaf-45e3-b9a3-46017e0384b3",
+  "multiverse_ids": [],
+  "tcgplayer_id": 488331,
+  "cardmarket_id": 717985,
+  "name": "Ensnaring Bridge",
+  "flavor_name": "Bridge of Khazad-dûm",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/dc50f081-bc81-4872-bfd9-d41e64b33bcb",
+  "scryfall_uri": "https://scryfall.com/card/ltc/380/ensnaring-bridge?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/c/dc50f081-bc81-4872-bfd9-d41e64b33bcb.jpg?1687425566",
+    "normal": "https://cards.scryfall.io/normal/front/d/c/dc50f081-bc81-4872-bfd9-d41e64b33bcb.jpg?1687425566",
+    "large": "https://cards.scryfall.io/large/front/d/c/dc50f081-bc81-4872-bfd9-d41e64b33bcb.jpg?1687425566",
+    "png": "https://cards.scryfall.io/png/front/d/c/dc50f081-bc81-4872-bfd9-d41e64b33bcb.png?1687425566",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/c/dc50f081-bc81-4872-bfd9-d41e64b33bcb.jpg?1687425566",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/c/dc50f081-bc81-4872-bfd9-d41e64b33bcb.jpg?1687425566"
+  },
+  "mana_cost": "{3}",
+  "cmc": 3,
+  "type_line": "Artifact",
+  "oracle_text": "Creatures with power greater than the number of cards in your hand can't attack.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set": "ltc",
+  "set_name": "Tales of Middle-earth Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/dc50f081-bc81-4872-bfd9-d41e64b33bcb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adade5835-ccaf-45e3-b9a3-46017e0384b3&unique=prints",
+  "collector_number": "380",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "The way out lay across a slender bridge of stone. It was an ancient defense of the Dwarves that could only be traversed in single file.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Stephen Stark",
+  "artist_ids": [
+    "ff8056b8-3baf-4c46-af10-e938a2170c6c"
+  ],
+  "illustration_id": "02b024f5-6710-45c3-b7ea-bc047272c0b8",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "triangle",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "surgefoil",
+    "boosterfun"
+  ],
+  "edhrec_rank": 5051,
+  "preview": {
+    "source": "Piotr Głogowski",
+    "source_uri": "https://twitter.com/kanister_mtg/status/1286249167833178113",
+    "previewed_at": "2023-03-14"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "25.55",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "27.44",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEnsnaring%2BBridge",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEnsnaring%2BBridge",
+    "edhrec": "https://edhrec.com/route/?cc=Ensnaring+Bridge"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F488331%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=717985&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ensnaring+Bridge&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

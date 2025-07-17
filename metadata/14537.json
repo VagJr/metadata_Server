@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "2237063a-2c2a-44fc-9103-c6e5db171ae5",
+  "oracle_id": "1f544a9f-c238-4858-be19-d6cd7d023dcc",
+  "multiverse_ids": [
+    682625
+  ],
+  "arena_id": 93121,
+  "tcgplayer_id": 590504,
+  "cardmarket_id": 796408,
+  "name": "Opportunity",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/2237063a-2c2a-44fc-9103-c6e5db171ae5",
+  "scryfall_uri": "https://scryfall.com/card/j25/338/opportunity?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/2/2237063a-2c2a-44fc-9103-c6e5db171ae5.jpg?1730486918",
+    "normal": "https://cards.scryfall.io/normal/front/2/2/2237063a-2c2a-44fc-9103-c6e5db171ae5.jpg?1730486918",
+    "large": "https://cards.scryfall.io/large/front/2/2/2237063a-2c2a-44fc-9103-c6e5db171ae5.jpg?1730486918",
+    "png": "https://cards.scryfall.io/png/front/2/2/2237063a-2c2a-44fc-9103-c6e5db171ae5.png?1730486918",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/2/2237063a-2c2a-44fc-9103-c6e5db171ae5.jpg?1730486918",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/2/2237063a-2c2a-44fc-9103-c6e5db171ae5.jpg?1730486918"
+  },
+  "mana_cost": "{4}{U}{U}",
+  "cmc": 6,
+  "type_line": "Instant",
+  "oracle_text": "Target player draws four cards.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9201567c-bab5-4720-aac9-260e6741f115",
+  "set": "j25",
+  "set_name": "Foundations Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/9201567c-bab5-4720-aac9-260e6741f115",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj25&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j25?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2237063a-2c2a-44fc-9103-c6e5db171ae5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1f544a9f-c238-4858-be19-d6cd7d023dcc&unique=prints",
+  "collector_number": "338",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Opportunity isn't something you wait for. It's something you create.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Allen Williams",
+  "artist_ids": [
+    "8a56d854-b424-45ec-9262-e993a382a961"
+  ],
+  "illustration_id": "f8a19621-17ae-4777-8c6f-e990bf859645",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 13031,
+  "penny_rank": 4778,
+  "prices": {
+    "usd": "0.05",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.07",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=682625&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOpportunity",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOpportunity",
+    "edhrec": "https://edhrec.com/route/?cc=Opportunity"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F590504%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=796408&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Opportunity&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

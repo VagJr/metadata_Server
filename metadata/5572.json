@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "0cce7aec-f9b0-461b-8245-5286b741409d",
+  "oracle_id": "37c06f89-db36-4937-9404-2b07cd22e1a6",
+  "multiverse_ids": [
+    670498
+  ],
+  "mtgo_id": 129003,
+  "tcgplayer_id": 559038,
+  "cardmarket_id": 778060,
+  "name": "Dawn's Truce",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/0cce7aec-f9b0-461b-8245-5286b741409d",
+  "scryfall_uri": "https://scryfall.com/card/blb/295/dawns-truce?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/c/0cce7aec-f9b0-461b-8245-5286b741409d.jpg?1727572209",
+    "normal": "https://cards.scryfall.io/normal/front/0/c/0cce7aec-f9b0-461b-8245-5286b741409d.jpg?1727572209",
+    "large": "https://cards.scryfall.io/large/front/0/c/0cce7aec-f9b0-461b-8245-5286b741409d.jpg?1727572209",
+    "png": "https://cards.scryfall.io/png/front/0/c/0cce7aec-f9b0-461b-8245-5286b741409d.png?1727572209",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/c/0cce7aec-f9b0-461b-8245-5286b741409d.jpg?1727572209",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/c/0cce7aec-f9b0-461b-8245-5286b741409d.jpg?1727572209"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)\nYou and permanents you control gain hexproof until end of turn. If the gift was promised, permanents you control also gain indestructible until end of turn.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Gift"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a2f58272-bba6-439d-871e-7a46686ac018",
+  "set": "blb",
+  "set_name": "Bloomburrow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/a2f58272-bba6-439d-871e-7a46686ac018",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/blb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0cce7aec-f9b0-461b-8245-5286b741409d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A37c06f89-db36-4937-9404-2b07cd22e1a6&unique=prints",
+  "collector_number": "295",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"I have a child I want to return to as well,\" whispered Mabel.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mariah Tekulve",
+  "artist_ids": [
+    "1014b405-f81d-4f37-97df-e04ef62eacf4"
+  ],
+  "illustration_id": "bb23278a-1969-467e-bacf-b157a151126c",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 571,
+  "penny_rank": 6341,
+  "preview": {
+    "source": "Giraffa Nat",
+    "source_uri": "https://twitter.com/giraffanat/status/1811474111681397010",
+    "previewed_at": "2024-07-11"
+  },
+  "prices": {
+    "usd": "8.52",
+    "usd_foil": "12.54",
+    "usd_etched": null,
+    "eur": "9.04",
+    "eur_foil": "14.03",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=670498&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDawn%2527s%2BTruce",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDawn%2527s%2BTruce",
+    "edhrec": "https://edhrec.com/route/?cc=Dawn%27s+Truce"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F559038%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=778060&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/129003?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

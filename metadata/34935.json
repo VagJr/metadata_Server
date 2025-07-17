@@ -1,0 +1,150 @@
+{
+  "object": "card",
+  "id": "52c50cf1-7b5c-4875-bdc6-d5fec432ef2d",
+  "oracle_id": "cc3fcd26-c088-4335-9a35-0e11019e3d5b",
+  "multiverse_ids": [],
+  "tcgplayer_id": 193398,
+  "cardmarket_id": 380046,
+  "name": "Revel in Riches",
+  "lang": "en",
+  "released_at": "2017-09-29",
+  "uri": "https://api.scryfall.com/cards/52c50cf1-7b5c-4875-bdc6-d5fec432ef2d",
+  "scryfall_uri": "https://scryfall.com/card/pxln/117p/revel-in-riches?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/2/52c50cf1-7b5c-4875-bdc6-d5fec432ef2d.jpg?1566582096",
+    "normal": "https://cards.scryfall.io/normal/front/5/2/52c50cf1-7b5c-4875-bdc6-d5fec432ef2d.jpg?1566582096",
+    "large": "https://cards.scryfall.io/large/front/5/2/52c50cf1-7b5c-4875-bdc6-d5fec432ef2d.jpg?1566582096",
+    "png": "https://cards.scryfall.io/png/front/5/2/52c50cf1-7b5c-4875-bdc6-d5fec432ef2d.png?1566582096",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/2/52c50cf1-7b5c-4875-bdc6-d5fec432ef2d.jpg?1566582096",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/2/52c50cf1-7b5c-4875-bdc6-d5fec432ef2d.jpg?1566582096"
+  },
+  "mana_cost": "{4}{B}",
+  "cmc": 5,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever a creature an opponent controls dies, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nAt the beginning of your upkeep, if you control ten or more Treasures, you win the game.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Treasure"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "bbe8bced-9524-47f6-a600-bf4ddc072698",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/bbe8bced-9524-47f6-a600-bf4ddc072698"
+    },
+    {
+      "object": "related_card",
+      "id": "b004a88d-2fd6-44dd-9f40-2bf8012fc959",
+      "component": "combo_piece",
+      "name": "Revel in Riches",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/b004a88d-2fd6-44dd-9f40-2bf8012fc959"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e2876a7e-3444-49cc-a299-aae5094f3566",
+  "set": "pxln",
+  "set_name": "Ixalan Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/e2876a7e-3444-49cc-a299-aae5094f3566",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apxln&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pxln?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/52c50cf1-7b5c-4875-bdc6-d5fec432ef2d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acc3fcd26-c088-4335-9a35-0e11019e3d5b&unique=prints",
+  "collector_number": "117p",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Eric Deschamps",
+  "artist_ids": [
+    "37970e22-9cee-44c1-af44-5ee27cf26b76"
+  ],
+  "illustration_id": "44a0d002-412f-4dc8-91fa-94d15c79b8f6",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 940,
+  "penny_rank": 7805,
+  "prices": {
+    "usd": "23.50",
+    "usd_foil": "36.79",
+    "usd_etched": null,
+    "eur": "12.14",
+    "eur_foil": "16.70",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRevel%2Bin%2BRiches",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRevel%2Bin%2BRiches",
+    "edhrec": "https://edhrec.com/route/?cc=Revel+in+Riches"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F193398%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=380046&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Revel+in+Riches&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

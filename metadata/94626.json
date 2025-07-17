@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "df4f7518-a04b-48ab-a2e6-3160fd8bf500",
+  "oracle_id": "b2f09e41-0a91-4fb6-8804-874b3a5166b0",
+  "multiverse_ids": [
+    548012
+  ],
+  "arena_id": 75784,
+  "name": "Rogue Refiner",
+  "lang": "en",
+  "released_at": "2020-11-12",
+  "uri": "https://api.scryfall.com/cards/df4f7518-a04b-48ab-a2e6-3160fd8bf500",
+  "scryfall_uri": "https://scryfall.com/card/klr/206/rogue-refiner?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/f/df4f7518-a04b-48ab-a2e6-3160fd8bf500.jpg?1605329274",
+    "normal": "https://cards.scryfall.io/normal/front/d/f/df4f7518-a04b-48ab-a2e6-3160fd8bf500.jpg?1605329274",
+    "large": "https://cards.scryfall.io/large/front/d/f/df4f7518-a04b-48ab-a2e6-3160fd8bf500.jpg?1605329274",
+    "png": "https://cards.scryfall.io/png/front/d/f/df4f7518-a04b-48ab-a2e6-3160fd8bf500.png?1605329274",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/f/df4f7518-a04b-48ab-a2e6-3160fd8bf500.jpg?1605329274",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/f/df4f7518-a04b-48ab-a2e6-3160fd8bf500.jpg?1605329274"
+  },
+  "mana_cost": "{1}{G}{U}",
+  "cmc": 3,
+  "type_line": "Creature — Human Rogue",
+  "oracle_text": "When this creature enters, draw a card and you get {E}{E} (two energy counters).",
+  "power": "3",
+  "toughness": "2",
+  "colors": [
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6a2c1fa5-deed-48ba-afe4-6c8ea8d9135e",
+      "component": "combo_piece",
+      "name": "Energy Reserve",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/6a2c1fa5-deed-48ba-afe4-6c8ea8d9135e"
+    },
+    {
+      "object": "related_card",
+      "id": "df4f7518-a04b-48ab-a2e6-3160fd8bf500",
+      "component": "combo_piece",
+      "name": "Rogue Refiner",
+      "type_line": "Creature — Human Rogue",
+      "uri": "https://api.scryfall.com/cards/df4f7518-a04b-48ab-a2e6-3160fd8bf500"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cff93939-c724-4ed0-9367-e1277d39ba70",
+  "set": "klr",
+  "set_name": "Kaladesh Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cff93939-c724-4ed0-9367-e1277d39ba70",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aklr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/klr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/df4f7518-a04b-48ab-a2e6-3160fd8bf500/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab2f09e41-0a91-4fb6-8804-874b3a5166b0&unique=prints",
+  "collector_number": "206",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Victor Adame Minguez",
+  "artist_ids": [
+    "bd8f7368-5b10-4554-b6b8-d052c6aca89f"
+  ],
+  "illustration_id": "5abd955f-a8c2-4105-80b1-2c9749b6d313",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 10442,
+  "penny_rank": 765,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548012&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRogue%2BRefiner",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRogue%2BRefiner",
+    "edhrec": "https://edhrec.com/route/?cc=Rogue+Refiner"
+  }
+}

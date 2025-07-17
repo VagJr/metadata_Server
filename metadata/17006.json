@@ -1,0 +1,152 @@
+{
+  "object": "card",
+  "id": "27d8e671-8d7a-479d-987f-b3e4acd72b41",
+  "oracle_id": "144119bc-7fd1-45c5-9e29-f742e7c255ac",
+  "multiverse_ids": [],
+  "tcgplayer_id": 223542,
+  "cardmarket_id": 501400,
+  "name": "Clearwater Pathway // Murkwater Pathway",
+  "lang": "en",
+  "released_at": "2020-09-25",
+  "uri": "https://api.scryfall.com/cards/27d8e671-8d7a-479d-987f-b3e4acd72b41",
+  "scryfall_uri": "https://scryfall.com/card/pznr/260s/clearwater-pathway-murkwater-pathway?utm_source=api",
+  "layout": "modal_dfc",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 0,
+  "type_line": "Land // Land",
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "U"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Clearwater Pathway",
+      "mana_cost": "",
+      "type_line": "Land",
+      "oracle_text": "{T}: Add {U}.",
+      "colors": [],
+      "flavor_text": "\"Just when the river seems most peaceful, suddenly you round a bend and hurtle down a waterfall.\"\n—Zahr Gada, Halimar expedition leader",
+      "artist": "Daarken",
+      "artist_id": "e607a0d4-fc12-4c01-9e3f-501f5269b9cb",
+      "illustration_id": "710d4f1a-d32c-4306-9ffc-ae769aba76ce",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/2/7/27d8e671-8d7a-479d-987f-b3e4acd72b41.jpg?1607364743",
+        "normal": "https://cards.scryfall.io/normal/front/2/7/27d8e671-8d7a-479d-987f-b3e4acd72b41.jpg?1607364743",
+        "large": "https://cards.scryfall.io/large/front/2/7/27d8e671-8d7a-479d-987f-b3e4acd72b41.jpg?1607364743",
+        "png": "https://cards.scryfall.io/png/front/2/7/27d8e671-8d7a-479d-987f-b3e4acd72b41.png?1607364743",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/2/7/27d8e671-8d7a-479d-987f-b3e4acd72b41.jpg?1607364743",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/2/7/27d8e671-8d7a-479d-987f-b3e4acd72b41.jpg?1607364743"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Murkwater Pathway",
+      "mana_cost": "",
+      "type_line": "Land",
+      "oracle_text": "{T}: Add {B}.",
+      "colors": [],
+      "flavor_text": "\"Here, at least, the danger is usually in plain sight.\"\n—Zahr Gada, Halimar expedition leader",
+      "artist": "Daarken",
+      "artist_id": "e607a0d4-fc12-4c01-9e3f-501f5269b9cb",
+      "illustration_id": "c2d6133d-c302-4cfa-8b25-da221bd55246",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/2/7/27d8e671-8d7a-479d-987f-b3e4acd72b41.jpg?1607364743",
+        "normal": "https://cards.scryfall.io/normal/back/2/7/27d8e671-8d7a-479d-987f-b3e4acd72b41.jpg?1607364743",
+        "large": "https://cards.scryfall.io/large/back/2/7/27d8e671-8d7a-479d-987f-b3e4acd72b41.jpg?1607364743",
+        "png": "https://cards.scryfall.io/png/back/2/7/27d8e671-8d7a-479d-987f-b3e4acd72b41.png?1607364743",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/2/7/27d8e671-8d7a-479d-987f-b3e4acd72b41.jpg?1607364743",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/2/7/27d8e671-8d7a-479d-987f-b3e4acd72b41.jpg?1607364743"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "76c61d42-610a-4b5a-880a-7a1fc1222f81",
+  "set": "pznr",
+  "set_name": "Zendikar Rising Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/76c61d42-610a-4b5a-880a-7a1fc1222f81",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apznr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pznr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/27d8e671-8d7a-479d-987f-b3e4acd72b41/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A144119bc-7fd1-45c5-9e29-f742e7c255ac&unique=prints",
+  "collector_number": "260s",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Daarken",
+  "artist_ids": [
+    "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 641,
+  "prices": {
+    "usd": null,
+    "usd_foil": "5.28",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "6.23",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DClearwater%2BPathway%2B%252F%252F%2BMurkwater%2BPathway",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DClearwater%2BPathway%2B%252F%252F%2BMurkwater%2BPathway",
+    "edhrec": "https://edhrec.com/route/?cc=Clearwater+Pathway"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F223542%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=501400&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Clearwater+Pathway&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

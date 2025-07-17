@@ -1,0 +1,117 @@
+{
+  "object": "card",
+  "id": "f0551bbd-915f-4028-a563-4e8be6274e83",
+  "oracle_id": "02c08d0b-0d76-4533-a7e9-d40c7c4b3450",
+  "multiverse_ids": [],
+  "tcgplayer_id": 582854,
+  "name": "Shoreline Salvager",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/f0551bbd-915f-4028-a563-4e8be6274e83",
+  "scryfall_uri": "https://scryfall.com/card/plst/WWK-67/shoreline-salvager?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/0/f0551bbd-915f-4028-a563-4e8be6274e83.jpg?1723445438",
+    "normal": "https://cards.scryfall.io/normal/front/f/0/f0551bbd-915f-4028-a563-4e8be6274e83.jpg?1723445438",
+    "large": "https://cards.scryfall.io/large/front/f/0/f0551bbd-915f-4028-a563-4e8be6274e83.jpg?1723445438",
+    "png": "https://cards.scryfall.io/png/front/f/0/f0551bbd-915f-4028-a563-4e8be6274e83.png?1723445438",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/0/f0551bbd-915f-4028-a563-4e8be6274e83.jpg?1723445438",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/0/f0551bbd-915f-4028-a563-4e8be6274e83.jpg?1723445438"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4,
+  "type_line": "Creature — Surrakar",
+  "oracle_text": "Whenever this creature deals combat damage to a player, if you control an Island, you may draw a card.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f0551bbd-915f-4028-a563-4e8be6274e83/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A02c08d0b-0d76-4533-a7e9-d40c7c4b3450&unique=prints",
+  "collector_number": "WWK-67",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"They search for treasures that wash up from the depths. Tracking one could lead you to riches. Or in circles.\"\n—Javad Nasrin, Ondu relic hunter",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Igor Kieryluk",
+  "artist_ids": [
+    "9c3e9d17-509f-485c-9360-46d897ce716b"
+  ],
+  "illustration_id": "4286730f-46f7-4317-856d-d7b31b3a03e9",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 29093,
+  "prices": {
+    "usd": "0.07",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DShoreline%2BSalvager",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DShoreline%2BSalvager",
+    "edhrec": "https://edhrec.com/route/?cc=Shoreline+Salvager"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F582854%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Shoreline+Salvager&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Shoreline+Salvager&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

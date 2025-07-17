@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "24d4a5fa-b867-4e29-a8e2-3231698a9fca",
+  "oracle_id": "52289774-d292-4028-91fb-8826fa004dc8",
+  "multiverse_ids": [],
+  "mtgo_id": 52320,
+  "name": "Spawn of Thraxes",
+  "lang": "en",
+  "released_at": "2015-12-29",
+  "uri": "https://api.scryfall.com/cards/24d4a5fa-b867-4e29-a8e2-3231698a9fca",
+  "scryfall_uri": "https://scryfall.com/card/prm/52320/spawn-of-thraxes?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/4/24d4a5fa-b867-4e29-a8e2-3231698a9fca.jpg?1562543581",
+    "normal": "https://cards.scryfall.io/normal/front/2/4/24d4a5fa-b867-4e29-a8e2-3231698a9fca.jpg?1562543581",
+    "large": "https://cards.scryfall.io/large/front/2/4/24d4a5fa-b867-4e29-a8e2-3231698a9fca.jpg?1562543581",
+    "png": "https://cards.scryfall.io/png/front/2/4/24d4a5fa-b867-4e29-a8e2-3231698a9fca.png?1562543581",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/4/24d4a5fa-b867-4e29-a8e2-3231698a9fca.jpg?1562543581",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/4/24d4a5fa-b867-4e29-a8e2-3231698a9fca.jpg?1562543581"
+  },
+  "mana_cost": "{5}{R}{R}",
+  "cmc": 7,
+  "type_line": "Creature — Dragon",
+  "oracle_text": "Flying\nWhen this creature enters, it deals damage to any target equal to the number of Mountains you control.",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/24d4a5fa-b867-4e29-a8e2-3231698a9fca/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A52289774-d292-4028-91fb-8826fa004dc8&unique=prints",
+  "collector_number": "52320",
+  "digital": true,
+  "rarity": "rare",
+  "flavor_text": "Sparks from Purphoros's forge fill the belly of every dragon.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason Rainville",
+  "artist_ids": [
+    "6ed7e669-579b-443d-b223-e5cbcb2a7483"
+  ],
+  "illustration_id": "a248c45d-efb3-45a0-8208-6e18d3c4d5e1",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 9460,
+  "penny_rank": 10396,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSpawn%2Bof%2BThraxes",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSpawn%2Bof%2BThraxes",
+    "edhrec": "https://edhrec.com/route/?cc=Spawn+of+Thraxes"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSpawn%2Bof%2BThraxes%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Spawn+of+Thraxes&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/52320?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

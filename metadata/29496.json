@@ -1,0 +1,298 @@
+{
+  "object": "card",
+  "id": "45b3bdd7-b093-4bfd-8a9a-965e72bfefb3",
+  "oracle_id": "18ef473d-f958-4bff-8045-154f6adc6b04",
+  "multiverse_ids": [],
+  "tcgplayer_id": 183239,
+  "name": "Spirit",
+  "lang": "en",
+  "released_at": "2019-01-25",
+  "uri": "https://api.scryfall.com/cards/45b3bdd7-b093-4bfd-8a9a-965e72bfefb3",
+  "scryfall_uri": "https://scryfall.com/card/trna/10/spirit?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/5/45b3bdd7-b093-4bfd-8a9a-965e72bfefb3.jpg?1572892542",
+    "normal": "https://cards.scryfall.io/normal/front/4/5/45b3bdd7-b093-4bfd-8a9a-965e72bfefb3.jpg?1572892542",
+    "large": "https://cards.scryfall.io/large/front/4/5/45b3bdd7-b093-4bfd-8a9a-965e72bfefb3.jpg?1572892542",
+    "png": "https://cards.scryfall.io/png/front/4/5/45b3bdd7-b093-4bfd-8a9a-965e72bfefb3.png?1572892542",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/5/45b3bdd7-b093-4bfd-8a9a-965e72bfefb3.jpg?1572892542",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/5/45b3bdd7-b093-4bfd-8a9a-965e72bfefb3.jpg?1572892542"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Spirit",
+  "oracle_text": "Flying",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "2fa47810-ba83-4a6e-9940-7315ee7e44a5",
+      "component": "combo_piece",
+      "name": "Afterlife Insurance",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/2fa47810-ba83-4a6e-9940-7315ee7e44a5"
+    },
+    {
+      "object": "related_card",
+      "id": "8efb9dba-a0c9-499e-8ddc-928523a937c7",
+      "component": "combo_piece",
+      "name": "Kaya, Spirits' Justice",
+      "type_line": "Legendary Planeswalker — Kaya",
+      "uri": "https://api.scryfall.com/cards/8efb9dba-a0c9-499e-8ddc-928523a937c7"
+    },
+    {
+      "object": "related_card",
+      "id": "bf2a093a-25f0-4247-94dc-550865d86317",
+      "component": "combo_piece",
+      "name": "Ministrant of Obligation",
+      "type_line": "Creature — Human Cleric",
+      "uri": "https://api.scryfall.com/cards/bf2a093a-25f0-4247-94dc-550865d86317"
+    },
+    {
+      "object": "related_card",
+      "id": "396bdd5f-2aad-48ba-a4b1-f2b2365a1a53",
+      "component": "combo_piece",
+      "name": "Beckon Apparition",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/396bdd5f-2aad-48ba-a4b1-f2b2365a1a53"
+    },
+    {
+      "object": "related_card",
+      "id": "45b3bdd7-b093-4bfd-8a9a-965e72bfefb3",
+      "component": "token",
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/45b3bdd7-b093-4bfd-8a9a-965e72bfefb3"
+    },
+    {
+      "object": "related_card",
+      "id": "ca4677fb-9663-4da0-8cc1-2ba732d26ee5",
+      "component": "combo_piece",
+      "name": "Seraph of the Scales",
+      "type_line": "Creature — Angel",
+      "uri": "https://api.scryfall.com/cards/ca4677fb-9663-4da0-8cc1-2ba732d26ee5"
+    },
+    {
+      "object": "related_card",
+      "id": "29b89f68-72ba-493d-95c4-eb37751fbd3d",
+      "component": "combo_piece",
+      "name": "Orzhov Racketeers",
+      "type_line": "Creature — Human Rogue",
+      "uri": "https://api.scryfall.com/cards/29b89f68-72ba-493d-95c4-eb37751fbd3d"
+    },
+    {
+      "object": "related_card",
+      "id": "6ce239e9-9b35-4dde-8a44-6c7ce4eb2d1a",
+      "component": "combo_piece",
+      "name": "Knight of Sorrows",
+      "type_line": "Creature — Human Knight",
+      "uri": "https://api.scryfall.com/cards/6ce239e9-9b35-4dde-8a44-6c7ce4eb2d1a"
+    },
+    {
+      "object": "related_card",
+      "id": "0f852937-381d-4445-99d3-2ecb8af6bb6a",
+      "component": "combo_piece",
+      "name": "Soul Search",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/0f852937-381d-4445-99d3-2ecb8af6bb6a"
+    },
+    {
+      "object": "related_card",
+      "id": "ae7e0a65-c348-4171-a793-9d49da9249d1",
+      "component": "combo_piece",
+      "name": "Teysa of the Ghost Council",
+      "type_line": "Legendary Creature — Spirit Advisor",
+      "uri": "https://api.scryfall.com/cards/ae7e0a65-c348-4171-a793-9d49da9249d1"
+    },
+    {
+      "object": "related_card",
+      "id": "76fccf60-2df5-4c14-893f-41d3f86c545f",
+      "component": "combo_piece",
+      "name": "Knight of the Last Breath",
+      "type_line": "Creature — Giant Knight",
+      "uri": "https://api.scryfall.com/cards/76fccf60-2df5-4c14-893f-41d3f86c545f"
+    },
+    {
+      "object": "related_card",
+      "id": "7cd03b99-d62e-428a-9e0d-097f1227a4da",
+      "component": "combo_piece",
+      "name": "Debtors' Transport",
+      "type_line": "Creature — Thrull",
+      "uri": "https://api.scryfall.com/cards/7cd03b99-d62e-428a-9e0d-097f1227a4da"
+    },
+    {
+      "object": "related_card",
+      "id": "bb7bbe0f-3b19-42a4-981c-97164711f63c",
+      "component": "combo_piece",
+      "name": "Invasion of Tolvada // The Broken Sky",
+      "type_line": "Battle — Siege // Enchantment",
+      "uri": "https://api.scryfall.com/cards/bb7bbe0f-3b19-42a4-981c-97164711f63c"
+    },
+    {
+      "object": "related_card",
+      "id": "abb21cf7-c5e6-4be5-8da5-9d29e95e2208",
+      "component": "combo_piece",
+      "name": "Teysa, Envoy of Ghosts",
+      "type_line": "Legendary Creature — Human Advisor",
+      "uri": "https://api.scryfall.com/cards/abb21cf7-c5e6-4be5-8da5-9d29e95e2208"
+    },
+    {
+      "object": "related_card",
+      "id": "179bd74b-c458-49d6-90ac-6075454e43dd",
+      "component": "combo_piece",
+      "name": "Kaya's Guile",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/179bd74b-c458-49d6-90ac-6075454e43dd"
+    },
+    {
+      "object": "related_card",
+      "id": "fd27ba9e-5b9c-468f-9a44-bf2e89138e72",
+      "component": "combo_piece",
+      "name": "Imperious Oligarch",
+      "type_line": "Creature — Human Cleric",
+      "uri": "https://api.scryfall.com/cards/fd27ba9e-5b9c-468f-9a44-bf2e89138e72"
+    },
+    {
+      "object": "related_card",
+      "id": "bfdbef00-bc1b-4dd6-aef5-aeb5ce454344",
+      "component": "combo_piece",
+      "name": "Indebted Spirit",
+      "type_line": "Enchantment Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/bfdbef00-bc1b-4dd6-aef5-aeb5ce454344"
+    },
+    {
+      "object": "related_card",
+      "id": "4d7969a1-afae-4076-bb1f-fb52014badea",
+      "component": "combo_piece",
+      "name": "Tithe Taker",
+      "type_line": "Creature — Human Soldier",
+      "uri": "https://api.scryfall.com/cards/4d7969a1-afae-4076-bb1f-fb52014badea"
+    },
+    {
+      "object": "related_card",
+      "id": "f515b463-7c58-4429-9560-5b1e92292398",
+      "component": "combo_piece",
+      "name": "Teysa, Opulent Oligarch",
+      "type_line": "Legendary Creature — Human Advisor",
+      "uri": "https://api.scryfall.com/cards/f515b463-7c58-4429-9560-5b1e92292398"
+    },
+    {
+      "object": "related_card",
+      "id": "23c0c440-00b8-41d2-85ee-f5b4468853da",
+      "component": "combo_piece",
+      "name": "Ethereal Absolution",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/23c0c440-00b8-41d2-85ee-f5b4468853da"
+    },
+    {
+      "object": "related_card",
+      "id": "10273046-4c74-42d8-afaa-6cfbe0bd4e8f",
+      "component": "combo_piece",
+      "name": "Syndicate Messenger",
+      "type_line": "Creature — Bird",
+      "uri": "https://api.scryfall.com/cards/10273046-4c74-42d8-afaa-6cfbe0bd4e8f"
+    },
+    {
+      "object": "related_card",
+      "id": "6a72b49e-be14-485b-a467-31cbac9aa1c5",
+      "component": "combo_piece",
+      "name": "Orzhov Enforcer",
+      "type_line": "Creature — Human Rogue",
+      "uri": "https://api.scryfall.com/cards/6a72b49e-be14-485b-a467-31cbac9aa1c5"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7766a0e4-ff37-4ceb-b68c-6f9336c64ba0",
+  "set": "trna",
+  "set_name": "Ravnica Allegiance Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/7766a0e4-ff37-4ceb-b68c-6f9336c64ba0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atrna&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/trna?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/45b3bdd7-b093-4bfd-8a9a-965e72bfefb3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A18ef473d-f958-4bff-8045-154f6adc6b04&unique=prints",
+  "collector_number": "10",
+  "digital": false,
+  "rarity": "common",
+  "watermark": "orzhov",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Josh Hass",
+  "artist_ids": [
+    "8fa1fdf0-96d6-46f4-a7ff-b1c0257c3735"
+  ],
+  "illustration_id": "cb429ac9-75e2-41c0-bcb1-18da51093d50",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSpirit",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSpirit",
+    "edhrec": "https://edhrec.com/route/?cc=Spirit"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F183239%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Spirit&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Spirit&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

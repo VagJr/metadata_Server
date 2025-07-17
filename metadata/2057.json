@@ -1,0 +1,159 @@
+{
+  "object": "card",
+  "id": "04c75e86-d5aa-43b0-be30-1a5115b5bc13",
+  "oracle_id": "1a7e367e-1d8d-463d-a35f-4bad44a5ebea",
+  "multiverse_ids": [],
+  "mtgo_id": 96802,
+  "tcgplayer_id": 255529,
+  "cardmarket_id": 585136,
+  "name": "Mystic Skull // Mystic Monstrosity",
+  "lang": "en",
+  "released_at": "2022-01-28",
+  "uri": "https://api.scryfall.com/cards/04c75e86-d5aa-43b0-be30-1a5115b5bc13",
+  "scryfall_uri": "https://scryfall.com/card/dbl/256/mystic-skull-mystic-monstrosity?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 2,
+  "type_line": "Artifact // Artifact Creature — Construct",
+  "color_identity": [],
+  "keywords": [
+    "Transform"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Mystic Skull",
+      "mana_cost": "{2}",
+      "type_line": "Artifact",
+      "oracle_text": "{1}, {T}: Add one mana of any color.\n{5}, {T}: Transform this artifact.",
+      "colors": [],
+      "flavor_text": "It waited on the barn wall for decades, forgotten, looking for the perfect opportunity.",
+      "artist": "Joe Slucher",
+      "artist_id": "13b6c9ee-f7a8-46a4-934f-ea6b4a1b14b2",
+      "illustration_id": "cee11445-8648-408d-bf4a-dfd38cb183b3",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/0/4/04c75e86-d5aa-43b0-be30-1a5115b5bc13.jpg?1673161141",
+        "normal": "https://cards.scryfall.io/normal/front/0/4/04c75e86-d5aa-43b0-be30-1a5115b5bc13.jpg?1673161141",
+        "large": "https://cards.scryfall.io/large/front/0/4/04c75e86-d5aa-43b0-be30-1a5115b5bc13.jpg?1673161141",
+        "png": "https://cards.scryfall.io/png/front/0/4/04c75e86-d5aa-43b0-be30-1a5115b5bc13.png?1673161141",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/0/4/04c75e86-d5aa-43b0-be30-1a5115b5bc13.jpg?1673161141",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/0/4/04c75e86-d5aa-43b0-be30-1a5115b5bc13.jpg?1673161141"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Mystic Monstrosity",
+      "mana_cost": "",
+      "type_line": "Artifact Creature — Construct",
+      "oracle_text": "Lands you control have \"{T}: Add one mana of any color.\"",
+      "colors": [],
+      "power": "5",
+      "toughness": "6",
+      "flavor_text": "Under the light of an unnatural moon, it walked out on legs of straw with joints of hinges ripped from the barn doors.",
+      "artist": "Joe Slucher",
+      "artist_id": "13b6c9ee-f7a8-46a4-934f-ea6b4a1b14b2",
+      "illustration_id": "7c7e47d8-5d9a-43aa-bcbf-512437b13f28",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/0/4/04c75e86-d5aa-43b0-be30-1a5115b5bc13.jpg?1673161141",
+        "normal": "https://cards.scryfall.io/normal/back/0/4/04c75e86-d5aa-43b0-be30-1a5115b5bc13.jpg?1673161141",
+        "large": "https://cards.scryfall.io/large/back/0/4/04c75e86-d5aa-43b0-be30-1a5115b5bc13.jpg?1673161141",
+        "png": "https://cards.scryfall.io/png/back/0/4/04c75e86-d5aa-43b0-be30-1a5115b5bc13.png?1673161141",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/0/4/04c75e86-d5aa-43b0-be30-1a5115b5bc13.jpg?1673161141",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/0/4/04c75e86-d5aa-43b0-be30-1a5115b5bc13.jpg?1673161141"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set": "dbl",
+  "set_name": "Innistrad: Double Feature",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adbl&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dbl?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/04c75e86-d5aa-43b0-be30-1a5115b5bc13/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1a7e367e-1d8d-463d-a35f-4bad44a5ebea&unique=prints",
+  "collector_number": "256",
+  "digital": false,
+  "rarity": "uncommon",
+  "artist": "Joe Slucher",
+  "artist_ids": [
+    "13b6c9ee-f7a8-46a4-934f-ea6b4a1b14b2"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted",
+    "sunmoondfc"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 14389,
+  "penny_rank": 14874,
+  "prices": {
+    "usd": "0.23",
+    "usd_foil": "1.06",
+    "usd_etched": null,
+    "eur": "0.19",
+    "eur_foil": "0.59",
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMystic%2BSkull%2B%252F%252F%2BMystic%2BMonstrosity",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMystic%2BSkull%2B%252F%252F%2BMystic%2BMonstrosity",
+    "edhrec": "https://edhrec.com/route/?cc=Mystic+Skull"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F255529%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=585136&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/96802?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

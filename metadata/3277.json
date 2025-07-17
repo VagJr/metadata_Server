@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "0790e051-5722-4593-bc12-2e36fd69767e",
+  "oracle_id": "9b55fb72-237d-4935-b645-8ebc6eb4140e",
+  "multiverse_ids": [],
+  "tcgplayer_id": 582824,
+  "name": "Consuming Aberration",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/0790e051-5722-4593-bc12-2e36fd69767e",
+  "scryfall_uri": "https://scryfall.com/card/plst/GK1-10/consuming-aberration?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/7/0790e051-5722-4593-bc12-2e36fd69767e.jpg?1723436646",
+    "normal": "https://cards.scryfall.io/normal/front/0/7/0790e051-5722-4593-bc12-2e36fd69767e.jpg?1723436646",
+    "large": "https://cards.scryfall.io/large/front/0/7/0790e051-5722-4593-bc12-2e36fd69767e.jpg?1723436646",
+    "png": "https://cards.scryfall.io/png/front/0/7/0790e051-5722-4593-bc12-2e36fd69767e.png?1723436646",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/7/0790e051-5722-4593-bc12-2e36fd69767e.jpg?1723436646",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/7/0790e051-5722-4593-bc12-2e36fd69767e.jpg?1723436646"
+  },
+  "mana_cost": "{3}{U}{B}",
+  "cmc": 5,
+  "type_line": "Creature — Horror",
+  "oracle_text": "Consuming Aberration's power and toughness are each equal to the number of cards in your opponents' graveyards.\nWhenever you cast a spell, each opponent reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard.",
+  "power": "*",
+  "toughness": "*",
+  "colors": [
+    "B",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0790e051-5722-4593-bc12-2e36fd69767e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9b55fb72-237d-4935-b645-8ebc6eb4140e&unique=prints",
+  "collector_number": "GK1-10",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "dimir",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Karl Kopinski",
+  "artist_ids": [
+    "0fad2c48-a56e-4a0b-b512-224f6f238f20"
+  ],
+  "illustration_id": "fddc9ab5-4517-4762-8303-0e91e404900d",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1501,
+  "penny_rank": 7259,
+  "prices": {
+    "usd": "0.19",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DConsuming%2BAberration",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DConsuming%2BAberration",
+    "edhrec": "https://edhrec.com/route/?cc=Consuming+Aberration"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F582824%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Consuming+Aberration&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Consuming+Aberration&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "a326f4ad-03df-4155-9b12-60528ebbefee",
+  "oracle_id": "e06007cf-dc6e-4b50-93d5-9a7c8ee9c023",
+  "multiverse_ids": [],
+  "tcgplayer_id": 274537,
+  "cardmarket_id": 662212,
+  "name": "Nine-Fingers Keene",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/a326f4ad-03df-4155-9b12-60528ebbefee",
+  "scryfall_uri": "https://scryfall.com/card/pclb/289s/nine-fingers-keene?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/3/a326f4ad-03df-4155-9b12-60528ebbefee.jpg?1675618842",
+    "normal": "https://cards.scryfall.io/normal/front/a/3/a326f4ad-03df-4155-9b12-60528ebbefee.jpg?1675618842",
+    "large": "https://cards.scryfall.io/large/front/a/3/a326f4ad-03df-4155-9b12-60528ebbefee.jpg?1675618842",
+    "png": "https://cards.scryfall.io/png/front/a/3/a326f4ad-03df-4155-9b12-60528ebbefee.png?1675618842",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/3/a326f4ad-03df-4155-9b12-60528ebbefee.jpg?1675618842",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/3/a326f4ad-03df-4155-9b12-60528ebbefee.jpg?1675618842"
+  },
+  "mana_cost": "{1}{B}{G}{U}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Human Rogue",
+  "oracle_text": "Menace\nWard—Pay 9 life.\nWhenever Nine-Fingers Keene deals combat damage to a player, look at the top nine cards of your library. You may put a Gate card from among them onto the battlefield. Then if you control nine or more Gates, put the rest into your hand. Otherwise, put the rest on the bottom of your library in a random order.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "U"
+  ],
+  "keywords": [
+    "Menace",
+    "Ward"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a6254b2a-0154-459a-936e-5967018d823b",
+  "set": "pclb",
+  "set_name": "Battle for Baldur's Gate Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/a6254b2a-0154-459a-936e-5967018d823b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pclb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a326f4ad-03df-4155-9b12-60528ebbefee/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae06007cf-dc6e-4b50-93d5-9a7c8ee9c023&unique=prints",
+  "collector_number": "289s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nils Hamm",
+  "artist_ids": [
+    "c540d1fc-1500-457f-93cf-d6069ee66546"
+  ],
+  "illustration_id": "c03e8b09-f26f-4cb3-9cce-5d42b138cb90",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 6311,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.81",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.61",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNine-Fingers%2BKeene",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNine-Fingers%2BKeene",
+    "edhrec": "https://edhrec.com/route/?cc=Nine-Fingers+Keene"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F274537%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=662212&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nine-Fingers+Keene&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

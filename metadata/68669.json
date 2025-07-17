@@ -1,0 +1,181 @@
+{
+  "object": "card",
+  "id": "a245ebd2-606c-40dc-981b-d619b00d7a07",
+  "oracle_id": "4a0cc2a2-3711-473a-b2c5-b1e52b34e4fb",
+  "multiverse_ids": [],
+  "tcgplayer_id": 635749,
+  "name": "Dion, Bahamut's Dominant // Bahamut, Warden of Light",
+  "lang": "en",
+  "released_at": "2025-06-13",
+  "uri": "https://api.scryfall.com/cards/a245ebd2-606c-40dc-981b-d619b00d7a07",
+  "scryfall_uri": "https://scryfall.com/card/pfin/16s/dion-bahamuts-dominant-bahamut-warden-of-light?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Human Noble Knight // Legendary Enchantment Creature — Saga Dragon",
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Dragonfire Dive",
+    "Flying",
+    "Transform"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Dion, Bahamut's Dominant",
+      "mana_cost": "{3}{W}",
+      "type_line": "Legendary Creature — Human Noble Knight",
+      "oracle_text": "Dragonfire Dive — During your turn, Dion and other Knights you control have flying.\nWhen Dion enters, create a 2/2 white Knight creature token.\n{4}{W}{W}, {T}: Exile Dion, then return it to the battlefield transformed under its owner's control. Activate only as a sorcery.",
+      "colors": [
+        "W"
+      ],
+      "power": "3",
+      "toughness": "3",
+      "artist": "Kevin Glint",
+      "artist_id": "1d9ddf35-c50d-4fc7-987c-4e2bf909f75a",
+      "illustration_id": "206560a4-65d9-4296-b9a4-992e94b6fad8",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/a/2/a245ebd2-606c-40dc-981b-d619b00d7a07.jpg?1750536459",
+        "normal": "https://cards.scryfall.io/normal/front/a/2/a245ebd2-606c-40dc-981b-d619b00d7a07.jpg?1750536459",
+        "large": "https://cards.scryfall.io/large/front/a/2/a245ebd2-606c-40dc-981b-d619b00d7a07.jpg?1750536459",
+        "png": "https://cards.scryfall.io/png/front/a/2/a245ebd2-606c-40dc-981b-d619b00d7a07.png?1750536459",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/a/2/a245ebd2-606c-40dc-981b-d619b00d7a07.jpg?1750536459",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/a/2/a245ebd2-606c-40dc-981b-d619b00d7a07.jpg?1750536459"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Bahamut, Warden of Light",
+      "mana_cost": "",
+      "type_line": "Legendary Enchantment Creature — Saga Dragon",
+      "oracle_text": "(As this Saga enters and after your draw step, add a lore counter.)\nI, II — Wings of Light — Put a +1/+1 counter on each other creature you control. Those creatures gain flying until end of turn.\nIII — Gigaflare — Destroy target permanent. Exile Bahamut, then return it to the battlefield (front face up).\nFlying",
+      "colors": [
+        "W"
+      ],
+      "color_indicator": [
+        "W"
+      ],
+      "power": "5",
+      "toughness": "5",
+      "artist": "Kevin Glint",
+      "artist_id": "1d9ddf35-c50d-4fc7-987c-4e2bf909f75a",
+      "illustration_id": "a210a931-354a-439b-b25c-174f783e300f",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/a/2/a245ebd2-606c-40dc-981b-d619b00d7a07.jpg?1750536459",
+        "normal": "https://cards.scryfall.io/normal/back/a/2/a245ebd2-606c-40dc-981b-d619b00d7a07.jpg?1750536459",
+        "large": "https://cards.scryfall.io/large/back/a/2/a245ebd2-606c-40dc-981b-d619b00d7a07.jpg?1750536459",
+        "png": "https://cards.scryfall.io/png/back/a/2/a245ebd2-606c-40dc-981b-d619b00d7a07.png?1750536459",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/a/2/a245ebd2-606c-40dc-981b-d619b00d7a07.jpg?1750536459",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/a/2/a245ebd2-606c-40dc-981b-d619b00d7a07.jpg?1750536459"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a245ebd2-606c-40dc-981b-d619b00d7a07",
+      "component": "combo_piece",
+      "name": "Dion, Bahamut's Dominant // Bahamut, Warden of Light",
+      "type_line": "Legendary Creature — Human Noble Knight // Legendary Enchantment Creature — Saga Dragon",
+      "uri": "https://api.scryfall.com/cards/a245ebd2-606c-40dc-981b-d619b00d7a07"
+    },
+    {
+      "object": "related_card",
+      "id": "a7758a0b-9e85-4b4a-bf1c-ffcc6761dbad",
+      "component": "token",
+      "name": "Knight",
+      "type_line": "Token Creature — Knight",
+      "uri": "https://api.scryfall.com/cards/a7758a0b-9e85-4b4a-bf1c-ffcc6761dbad"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "ff405aba-0309-4694-a6d5-e657024f7ad0",
+  "set": "pfin",
+  "set_name": "Final Fantasy Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/ff405aba-0309-4694-a6d5-e657024f7ad0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apfin&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pfin?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a245ebd2-606c-40dc-981b-d619b00d7a07/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4a0cc2a2-3711-473a-b2c5-b1e52b34e4fb&unique=prints",
+  "collector_number": "16s",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Kevin Glint",
+  "artist_ids": [
+    "1d9ddf35-c50d-4fc7-987c-4e2bf909f75a"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "enchantment",
+    "legendary"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 9490,
+  "prices": {
+    "usd": null,
+    "usd_foil": "4.39",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDion%252C%2BBahamut%2527s%2BDominant%2B%252F%252F%2BBahamut%252C%2BWarden%2Bof%2BLight",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDion%252C%2BBahamut%2527s%2BDominant%2B%252F%252F%2BBahamut%252C%2BWarden%2Bof%2BLight",
+    "edhrec": "https://edhrec.com/route/?cc=Dion%2C+Bahamut%27s+Dominant"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F635749%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dion%2C+Bahamut%27s+Dominant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dion%2C+Bahamut%27s+Dominant&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

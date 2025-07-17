@@ -1,0 +1,151 @@
+{
+  "object": "card",
+  "id": "ef775ad0-b1a9-4254-ab6f-304558bb77a1",
+  "oracle_id": "2bb2f9ed-6378-40c9-9170-976711919014",
+  "multiverse_ids": [],
+  "name": "Shapeshifter",
+  "lang": "en",
+  "released_at": "2021-02-05",
+  "uri": "https://api.scryfall.com/cards/ef775ad0-b1a9-4254-ab6f-304558bb77a1",
+  "scryfall_uri": "https://scryfall.com/card/tkhm/8/shapeshifter?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/f/ef775ad0-b1a9-4254-ab6f-304558bb77a1.jpg?1615686300",
+    "normal": "https://cards.scryfall.io/normal/front/e/f/ef775ad0-b1a9-4254-ab6f-304558bb77a1.jpg?1615686300",
+    "large": "https://cards.scryfall.io/large/front/e/f/ef775ad0-b1a9-4254-ab6f-304558bb77a1.jpg?1615686300",
+    "png": "https://cards.scryfall.io/png/front/e/f/ef775ad0-b1a9-4254-ab6f-304558bb77a1.png?1615686300",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/f/ef775ad0-b1a9-4254-ab6f-304558bb77a1.jpg?1615686300",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/f/ef775ad0-b1a9-4254-ab6f-304558bb77a1.jpg?1615686300"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Shapeshifter",
+  "oracle_text": "Changeling (This token is every creature type.)",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Changeling"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "2a098e3b-00e7-48d5-bc0d-f153e7cc5dfd",
+      "component": "combo_piece",
+      "name": "Littjara",
+      "type_line": "Plane — Kaldheim",
+      "uri": "https://api.scryfall.com/cards/2a098e3b-00e7-48d5-bc0d-f153e7cc5dfd"
+    },
+    {
+      "object": "related_card",
+      "id": "ef775ad0-b1a9-4254-ab6f-304558bb77a1",
+      "component": "token",
+      "name": "Shapeshifter",
+      "type_line": "Token Creature — Shapeshifter",
+      "uri": "https://api.scryfall.com/cards/ef775ad0-b1a9-4254-ab6f-304558bb77a1"
+    },
+    {
+      "object": "related_card",
+      "id": "0675dfab-2c60-4701-9a0f-da6c876d9616",
+      "component": "combo_piece",
+      "name": "The Bears of Littjara",
+      "type_line": "Enchantment — Saga",
+      "uri": "https://api.scryfall.com/cards/0675dfab-2c60-4701-9a0f-da6c876d9616"
+    },
+    {
+      "object": "related_card",
+      "id": "b9900049-65e4-47e0-a90a-38678cc940a5",
+      "component": "combo_piece",
+      "name": "Maskwood Nexus",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/b9900049-65e4-47e0-a90a-38678cc940a5"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c3ee48f1-6f93-42d4-b05c-65a04d02a488",
+  "set": "tkhm",
+  "set_name": "Kaldheim Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/c3ee48f1-6f93-42d4-b05c-65a04d02a488",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atkhm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tkhm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ef775ad0-b1a9-4254-ab6f-304558bb77a1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2bb2f9ed-6378-40c9-9170-976711919014&unique=prints",
+  "collector_number": "8",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Filip Burburan",
+  "artist_ids": [
+    "66082c3b-a623-4d34-be51-2475214b85d3"
+  ],
+  "illustration_id": "732c3075-4065-496e-a202-8d73f8983e2b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DShapeshifter",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DShapeshifter",
+    "edhrec": "https://edhrec.com/route/?cc=Shapeshifter"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DShapeshifter%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Shapeshifter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Shapeshifter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

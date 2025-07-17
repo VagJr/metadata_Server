@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "d47c49b9-bba2-4c1d-af2c-b0b79e0ae14d",
+  "oracle_id": "e23cd06d-1360-4e5d-aecc-adf902bede69",
+  "multiverse_ids": [],
+  "tcgplayer_id": 222418,
+  "cardmarket_id": 497590,
+  "name": "Anax, Hardened in the Forge",
+  "lang": "en",
+  "released_at": "2020-09-01",
+  "uri": "https://api.scryfall.com/cards/d47c49b9-bba2-4c1d-af2c-b0b79e0ae14d",
+  "scryfall_uri": "https://scryfall.com/card/plst/THB-264/anax-hardened-in-the-forge?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/4/d47c49b9-bba2-4c1d-af2c-b0b79e0ae14d.jpg?1682720856",
+    "normal": "https://cards.scryfall.io/normal/front/d/4/d47c49b9-bba2-4c1d-af2c-b0b79e0ae14d.jpg?1682720856",
+    "large": "https://cards.scryfall.io/large/front/d/4/d47c49b9-bba2-4c1d-af2c-b0b79e0ae14d.jpg?1682720856",
+    "png": "https://cards.scryfall.io/png/front/d/4/d47c49b9-bba2-4c1d-af2c-b0b79e0ae14d.png?1682720856",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/4/d47c49b9-bba2-4c1d-af2c-b0b79e0ae14d.jpg?1682720856",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/4/d47c49b9-bba2-4c1d-af2c-b0b79e0ae14d.jpg?1682720856"
+  },
+  "mana_cost": "{1}{R}{R}",
+  "cmc": 3,
+  "type_line": "Legendary Enchantment Creature — Demigod",
+  "oracle_text": "Anax's power is equal to your devotion to red. (Each {R} in the mana costs of permanents you control counts toward your devotion to red.)\nWhenever Anax or another nontoken creature you control dies, create a 1/1 red Satyr creature token with \"This token can't block.\" If the creature had power 4 or greater, create two of those tokens instead.",
+  "power": "*",
+  "toughness": "3",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "ea5ddcd1-ca5a-4d96-8d96-db2e144ed93b",
+      "component": "combo_piece",
+      "name": "Anax, Hardened in the Forge",
+      "type_line": "Legendary Enchantment Creature — Demigod",
+      "uri": "https://api.scryfall.com/cards/ea5ddcd1-ca5a-4d96-8d96-db2e144ed93b"
+    },
+    {
+      "object": "related_card",
+      "id": "49bdae00-bcbd-4238-87d6-7e12ff7ffd83",
+      "component": "token",
+      "name": "Satyr",
+      "type_line": "Token Creature — Satyr",
+      "uri": "https://api.scryfall.com/cards/49bdae00-bcbd-4238-87d6-7e12ff7ffd83"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d47c49b9-bba2-4c1d-af2c-b0b79e0ae14d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae23cd06d-1360-4e5d-aecc-adf902bede69&unique=prints",
+  "collector_number": "THB-264",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason A. Engle",
+  "artist_ids": [
+    "02e2b5de-4341-464c-8fdb-a1adbf873bc0"
+  ],
+  "illustration_id": "ad9347c1-60ef-4a86-8210-142432c803b9",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "enchantment",
+    "showcase",
+    "legendary",
+    "inverted"
+  ],
+  "full_art": true,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 5749,
+  "penny_rank": 1193,
+  "prices": {
+    "usd": "0.31",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.24",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAnax%252C%2BHardened%2Bin%2Bthe%2BForge",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAnax%252C%2BHardened%2Bin%2Bthe%2BForge",
+    "edhrec": "https://edhrec.com/route/?cc=Anax%2C+Hardened+in+the+Forge"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F222418%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=497590&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Anax%2C+Hardened+in+the+Forge&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

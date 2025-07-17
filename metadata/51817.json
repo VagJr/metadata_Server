@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "7a991e21-5a1e-4c7e-b5bf-65f7f0882d8f",
+  "oracle_id": "61f18560-8f26-4d7b-a6f8-ec388766123b",
+  "multiverse_ids": [],
+  "tcgplayer_id": 282536,
+  "cardmarket_id": 674379,
+  "name": "Syphon Sliver",
+  "lang": "en",
+  "released_at": "2022-08-13",
+  "uri": "https://api.scryfall.com/cards/7a991e21-5a1e-4c7e-b5bf-65f7f0882d8f",
+  "scryfall_uri": "https://scryfall.com/card/sld/634/syphon-sliver?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/a/7a991e21-5a1e-4c7e-b5bf-65f7f0882d8f.jpg?1674243781",
+    "normal": "https://cards.scryfall.io/normal/front/7/a/7a991e21-5a1e-4c7e-b5bf-65f7f0882d8f.jpg?1674243781",
+    "large": "https://cards.scryfall.io/large/front/7/a/7a991e21-5a1e-4c7e-b5bf-65f7f0882d8f.jpg?1674243781",
+    "png": "https://cards.scryfall.io/png/front/7/a/7a991e21-5a1e-4c7e-b5bf-65f7f0882d8f.png?1674243781",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/a/7a991e21-5a1e-4c7e-b5bf-65f7f0882d8f.jpg?1674243781",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/a/7a991e21-5a1e-4c7e-b5bf-65f7f0882d8f.jpg?1674243781"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3,
+  "type_line": "Creature — Sliver",
+  "oracle_text": "Sliver creatures you control have lifelink. (Damage dealt by a Sliver creature you control also causes you to gain that much life.)",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7a991e21-5a1e-4c7e-b5bf-65f7f0882d8f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A61f18560-8f26-4d7b-a6f8-ec388766123b&unique=prints",
+  "collector_number": "634",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "When the hive must feed, every appendage becomes an additional mouth.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tyler Jacobson",
+  "artist_ids": [
+    "522af130-8db4-4b4b-950c-6e2b246339cf"
+  ],
+  "illustration_id": "21bc6ce8-63fb-4893-9add-a26f9599c688",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "sldbonus"
+  ],
+  "edhrec_rank": 4001,
+  "penny_rank": 7907,
+  "prices": {
+    "usd": null,
+    "usd_foil": "9.01",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "7.89",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSyphon%2BSliver",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSyphon%2BSliver",
+    "edhrec": "https://edhrec.com/route/?cc=Syphon+Sliver"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F282536%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=674379&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Syphon+Sliver&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

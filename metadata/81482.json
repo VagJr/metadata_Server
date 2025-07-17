@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "c0589f10-b81e-4454-a4f0-c39e20ad7781",
+  "oracle_id": "53c009a1-b9b6-43d6-8543-77688fedf8ae",
+  "multiverse_ids": [],
+  "name": "Cat Soldier",
+  "lang": "en",
+  "released_at": "2024-01-25",
+  "uri": "https://api.scryfall.com/cards/c0589f10-b81e-4454-a4f0-c39e20ad7781",
+  "scryfall_uri": "https://scryfall.com/card/plst/TBNG-2/cat-soldier?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/0/c0589f10-b81e-4454-a4f0-c39e20ad7781.jpg?1706827299",
+    "normal": "https://cards.scryfall.io/normal/front/c/0/c0589f10-b81e-4454-a4f0-c39e20ad7781.jpg?1706827299",
+    "large": "https://cards.scryfall.io/large/front/c/0/c0589f10-b81e-4454-a4f0-c39e20ad7781.jpg?1706827299",
+    "png": "https://cards.scryfall.io/png/front/c/0/c0589f10-b81e-4454-a4f0-c39e20ad7781.png?1706827299",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/0/c0589f10-b81e-4454-a4f0-c39e20ad7781.jpg?1706827299",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/0/c0589f10-b81e-4454-a4f0-c39e20ad7781.jpg?1706827299"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Cat Soldier",
+  "oracle_text": "Vigilance",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Vigilance"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "c38475d3-b398-40da-99c3-37c7edf152aa",
+      "component": "combo_piece",
+      "name": "Brimaz, King of Oreskos",
+      "type_line": "Legendary Creature — Cat Soldier",
+      "uri": "https://api.scryfall.com/cards/c38475d3-b398-40da-99c3-37c7edf152aa"
+    },
+    {
+      "object": "related_card",
+      "id": "892e59df-95ea-490a-8207-ef735faed307",
+      "component": "combo_piece",
+      "name": "Vanguard of Brimaz",
+      "type_line": "Creature — Cat Soldier",
+      "uri": "https://api.scryfall.com/cards/892e59df-95ea-490a-8207-ef735faed307"
+    },
+    {
+      "object": "related_card",
+      "id": "c0589f10-b81e-4454-a4f0-c39e20ad7781",
+      "component": "token",
+      "name": "Cat Soldier",
+      "type_line": "Token Creature — Cat Soldier",
+      "uri": "https://api.scryfall.com/cards/c0589f10-b81e-4454-a4f0-c39e20ad7781"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c0589f10-b81e-4454-a4f0-c39e20ad7781/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A53c009a1-b9b6-43d6-8543-77688fedf8ae&unique=prints",
+  "collector_number": "TBNG-2",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Scott Chou",
+  "artist_ids": [
+    "9e048547-f9c3-4958-9c2c-91e45df7c6ae"
+  ],
+  "illustration_id": "d9c6be29-ad7e-42bf-9d16-5531412b1730",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCat%2BSoldier",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCat%2BSoldier",
+    "edhrec": "https://edhrec.com/route/?cc=Cat+Soldier"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DCat%2BSoldier%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cat+Soldier&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cat+Soldier&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

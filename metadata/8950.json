@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "14d8c9b5-6863-45d1-89f0-6a4f8189758b",
+  "oracle_id": "1d60c80d-9a95-4051-bbf7-02ca51ee1be2",
+  "multiverse_ids": [
+    678451
+  ],
+  "mtgo_id": 133242,
+  "tcgplayer_id": 590876,
+  "cardmarket_id": 795599,
+  "name": "Scrawling Crawler",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/14d8c9b5-6863-45d1-89f0-6a4f8189758b",
+  "scryfall_uri": "https://scryfall.com/card/fdn/354/scrawling-crawler?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/4/14d8c9b5-6863-45d1-89f0-6a4f8189758b.jpg?1730489928",
+    "normal": "https://cards.scryfall.io/normal/front/1/4/14d8c9b5-6863-45d1-89f0-6a4f8189758b.jpg?1730489928",
+    "large": "https://cards.scryfall.io/large/front/1/4/14d8c9b5-6863-45d1-89f0-6a4f8189758b.jpg?1730489928",
+    "png": "https://cards.scryfall.io/png/front/1/4/14d8c9b5-6863-45d1-89f0-6a4f8189758b.png?1730489928",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/4/14d8c9b5-6863-45d1-89f0-6a4f8189758b.jpg?1730489928",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/4/14d8c9b5-6863-45d1-89f0-6a4f8189758b.jpg?1730489928"
+  },
+  "mana_cost": "{3}",
+  "cmc": 3,
+  "type_line": "Artifact Creature — Phyrexian Construct",
+  "oracle_text": "At the beginning of your upkeep, each player draws a card.\nWhenever an opponent draws a card, that player loses 1 life.",
+  "power": "3",
+  "toughness": "2",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set": "fdn",
+  "set_name": "Foundations",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afdn&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fdn?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/14d8c9b5-6863-45d1-89f0-6a4f8189758b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1d60c80d-9a95-4051-bbf7-02ca51ee1be2&unique=prints",
+  "collector_number": "354",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"We will sow perfection into the soft flesh of the Multiverse.\"\n—Argent Etchings, plate 38, passage 8",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Maxime Minard",
+  "artist_ids": [
+    "a9065769-afcd-4e54-a3c0-5809e7b4108b"
+  ],
+  "illustration_id": "b1c49b47-d537-43d1-9523-7c767277400a",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 1288,
+  "penny_rank": 1764,
+  "preview": {
+    "source": "Aims",
+    "source_uri": "https://x.com/AimsTV/status/1850991724136710322",
+    "previewed_at": "2024-10-28"
+  },
+  "prices": {
+    "usd": "6.47",
+    "usd_foil": "12.29",
+    "usd_etched": null,
+    "eur": "4.76",
+    "eur_foil": "10.45",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=678451&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DScrawling%2BCrawler",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DScrawling%2BCrawler",
+    "edhrec": "https://edhrec.com/route/?cc=Scrawling+Crawler"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F590876%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=795599&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/133242?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "6ca9225f-9b9f-49d0-b92b-d23e3d49fb37",
+  "oracle_id": "cac993d5-28a1-48b6-9c2f-f216cb5f521d",
+  "multiverse_ids": [
+    547721
+  ],
+  "arena_id": 74066,
+  "name": "Reduce // Rubble",
+  "lang": "en",
+  "released_at": "2020-08-13",
+  "uri": "https://api.scryfall.com/cards/6ca9225f-9b9f-49d0-b92b-d23e3d49fb37",
+  "scryfall_uri": "https://scryfall.com/card/akr/254/reduce-rubble?utm_source=api",
+  "layout": "split",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/c/6ca9225f-9b9f-49d0-b92b-d23e3d49fb37.jpg?1671337964",
+    "normal": "https://cards.scryfall.io/normal/front/6/c/6ca9225f-9b9f-49d0-b92b-d23e3d49fb37.jpg?1671337964",
+    "large": "https://cards.scryfall.io/large/front/6/c/6ca9225f-9b9f-49d0-b92b-d23e3d49fb37.jpg?1671337964",
+    "png": "https://cards.scryfall.io/png/front/6/c/6ca9225f-9b9f-49d0-b92b-d23e3d49fb37.png?1671337964",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/c/6ca9225f-9b9f-49d0-b92b-d23e3d49fb37.jpg?1671337964",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/c/6ca9225f-9b9f-49d0-b92b-d23e3d49fb37.jpg?1671337964"
+  },
+  "mana_cost": "{2}{U} // {2}{R}",
+  "cmc": 6,
+  "type_line": "Instant // Sorcery",
+  "colors": [
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [
+    "Aftermath"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Reduce",
+      "mana_cost": "{2}{U}",
+      "type_line": "Instant",
+      "oracle_text": "Counter target spell unless its controller pays {3}.",
+      "artist": "Eric Deschamps",
+      "artist_id": "37970e22-9cee-44c1-af44-5ee27cf26b76",
+      "illustration_id": "5ccb329c-64b4-4f1c-9c63-ea0a4ef4b986"
+    },
+    {
+      "object": "card_face",
+      "name": "Rubble",
+      "mana_cost": "{2}{R}",
+      "type_line": "Sorcery",
+      "oracle_text": "Aftermath (Cast this spell only from your graveyard. Then exile it.)\nUp to three target lands don't untap during their controller's next untap step.",
+      "artist": "Eric Deschamps",
+      "artist_id": "37970e22-9cee-44c1-af44-5ee27cf26b76"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "915dabb1-b82a-432d-939d-d9b128e65582",
+  "set": "akr",
+  "set_name": "Amonkhet Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/915dabb1-b82a-432d-939d-d9b128e65582",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aakr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/akr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6ca9225f-9b9f-49d0-b92b-d23e3d49fb37/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acac993d5-28a1-48b6-9c2f-f216cb5f521d&unique=prints",
+  "collector_number": "254",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Eric Deschamps",
+  "artist_ids": [
+    "37970e22-9cee-44c1-af44-5ee27cf26b76"
+  ],
+  "illustration_id": "5ccb329c-64b4-4f1c-9c63-ea0a4ef4b986",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 21566,
+  "penny_rank": 6145,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547721&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DReduce%2B%252F%252F%2BRubble",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DReduce%2B%252F%252F%2BRubble",
+    "edhrec": "https://edhrec.com/route/?cc=Reduce+%2F%2F+Rubble"
+  }
+}

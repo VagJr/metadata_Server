@@ -1,0 +1,148 @@
+{
+  "object": "card",
+  "id": "c49e8e79-8673-41c2-a1ad-273c37e27aca",
+  "oracle_id": "53c0975a-a240-4889-a7cb-8bca6dfe5a1b",
+  "multiverse_ids": [],
+  "name": "Boo",
+  "lang": "en",
+  "released_at": "2021-07-23",
+  "uri": "https://api.scryfall.com/cards/c49e8e79-8673-41c2-a1ad-273c37e27aca",
+  "scryfall_uri": "https://scryfall.com/card/tafr/10/boo?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/4/c49e8e79-8673-41c2-a1ad-273c37e27aca.jpg?1641306245",
+    "normal": "https://cards.scryfall.io/normal/front/c/4/c49e8e79-8673-41c2-a1ad-273c37e27aca.jpg?1641306245",
+    "large": "https://cards.scryfall.io/large/front/c/4/c49e8e79-8673-41c2-a1ad-273c37e27aca.jpg?1641306245",
+    "png": "https://cards.scryfall.io/png/front/c/4/c49e8e79-8673-41c2-a1ad-273c37e27aca.png?1641306245",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/4/c49e8e79-8673-41c2-a1ad-273c37e27aca.jpg?1641306245",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/4/c49e8e79-8673-41c2-a1ad-273c37e27aca.jpg?1641306245"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Legendary Creature — Hamster",
+  "oracle_text": "Trample, haste",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Haste",
+    "Trample"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "63d5f812-1c77-44f6-90fc-90d66fbecf34",
+      "component": "combo_piece",
+      "name": "Minsc, Beloved Ranger",
+      "type_line": "Legendary Creature — Human Ranger",
+      "uri": "https://api.scryfall.com/cards/63d5f812-1c77-44f6-90fc-90d66fbecf34"
+    },
+    {
+      "object": "related_card",
+      "id": "0149b45d-b7d4-46bf-ba3a-5137e93ea607",
+      "component": "combo_piece",
+      "name": "Minsc & Boo, Timeless Heroes",
+      "type_line": "Legendary Planeswalker — Minsc",
+      "uri": "https://api.scryfall.com/cards/0149b45d-b7d4-46bf-ba3a-5137e93ea607"
+    },
+    {
+      "object": "related_card",
+      "id": "c49e8e79-8673-41c2-a1ad-273c37e27aca",
+      "component": "token",
+      "name": "Boo",
+      "type_line": "Token Legendary Creature — Hamster",
+      "uri": "https://api.scryfall.com/cards/c49e8e79-8673-41c2-a1ad-273c37e27aca"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "68e8eca4-2c75-4f44-8519-59489e76b719",
+  "set": "tafr",
+  "set_name": "Adventures in the Forgotten Realms Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/68e8eca4-2c75-4f44-8519-59489e76b719",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atafr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tafr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c49e8e79-8673-41c2-a1ad-273c37e27aca/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A53c0975a-a240-4889-a7cb-8bca6dfe5a1b&unique=prints",
+  "collector_number": "10",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Go for the eyes, Boo!\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Zoltan Boros",
+  "artist_ids": [
+    "1885e6cb-c827-4896-994e-3d0a027d602f"
+  ],
+  "illustration_id": "fb47323f-23af-4380-81a3-f8ded1180d02",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBoo",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBoo",
+    "edhrec": "https://edhrec.com/route/?cc=Boo"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBoo%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Boo&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Boo&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

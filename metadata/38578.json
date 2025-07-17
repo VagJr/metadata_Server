@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "5b114cfe-3cec-43b8-b20f-01a1436aa25a",
+  "oracle_id": "c8decfdf-1421-4649-acde-5215e7f08bb9",
+  "multiverse_ids": [
+    671321
+  ],
+  "mtgo_id": 128865,
+  "tcgplayer_id": 559900,
+  "cardmarket_id": 778966,
+  "name": "Martial Impetus",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/5b114cfe-3cec-43b8-b20f-01a1436aa25a",
+  "scryfall_uri": "https://scryfall.com/card/blc/108/martial-impetus?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/b/5b114cfe-3cec-43b8-b20f-01a1436aa25a.jpg?1721428703",
+    "normal": "https://cards.scryfall.io/normal/front/5/b/5b114cfe-3cec-43b8-b20f-01a1436aa25a.jpg?1721428703",
+    "large": "https://cards.scryfall.io/large/front/5/b/5b114cfe-3cec-43b8-b20f-01a1436aa25a.jpg?1721428703",
+    "png": "https://cards.scryfall.io/png/front/5/b/5b114cfe-3cec-43b8-b20f-01a1436aa25a.png?1721428703",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/b/5b114cfe-3cec-43b8-b20f-01a1436aa25a.jpg?1721428703",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/b/5b114cfe-3cec-43b8-b20f-01a1436aa25a.jpg?1721428703"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant creature\nEnchanted creature gets +1/+1 and is goaded. (It attacks each combat if able and attacks a player other than you if able.)\nWhenever enchanted creature attacks, each other creature that's attacking one of your opponents gets +1/+1 until end of turn.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Goad",
+    "Enchant"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "set": "blc",
+  "set_name": "Bloomburrow Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/blc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5b114cfe-3cec-43b8-b20f-01a1436aa25a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac8decfdf-1421-4649-acde-5215e7f08bb9&unique=prints",
+  "collector_number": "108",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alexander Mokhov",
+  "artist_ids": [
+    "3a6a9d37-e62c-44bd-90f2-f5126324e3f0"
+  ],
+  "illustration_id": "c4717e36-0ee4-4e7f-9b51-04e64d85006b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3740,
+  "preview": {
+    "source": "MTG Muddstah",
+    "source_uri": "https://www.youtube.com/watch?v=mW9zwQC9sUg",
+    "previewed_at": "2024-07-18"
+  },
+  "prices": {
+    "usd": "0.13",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": null,
+    "tix": "0.23"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=671321&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMartial%2BImpetus",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMartial%2BImpetus",
+    "edhrec": "https://edhrec.com/route/?cc=Martial+Impetus"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F559900%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=778966&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/128865?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

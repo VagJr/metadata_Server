@@ -1,0 +1,112 @@
+{
+  "object": "card",
+  "id": "3a7d1f8d-b43a-4c06-b6b0-8454da65e07b",
+  "oracle_id": "7b4502bc-9ece-4fd2-978d-bcfdb9358475",
+  "multiverse_ids": [],
+  "arena_id": 94542,
+  "name": "Reverent Hunter",
+  "lang": "en",
+  "released_at": "2024-12-10",
+  "uri": "https://api.scryfall.com/cards/3a7d1f8d-b43a-4c06-b6b0-8454da65e07b",
+  "scryfall_uri": "https://scryfall.com/card/pio/302/reverent-hunter?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/a/3a7d1f8d-b43a-4c06-b6b0-8454da65e07b.jpg?1733179868",
+    "normal": "https://cards.scryfall.io/normal/front/3/a/3a7d1f8d-b43a-4c06-b6b0-8454da65e07b.jpg?1733179868",
+    "large": "https://cards.scryfall.io/large/front/3/a/3a7d1f8d-b43a-4c06-b6b0-8454da65e07b.jpg?1733179868",
+    "png": "https://cards.scryfall.io/png/front/3/a/3a7d1f8d-b43a-4c06-b6b0-8454da65e07b.png?1733179868",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/a/3a7d1f8d-b43a-4c06-b6b0-8454da65e07b.jpg?1733179868",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/a/3a7d1f8d-b43a-4c06-b6b0-8454da65e07b.jpg?1733179868"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Creature — Human Archer",
+  "oracle_text": "When this creature enters, put a number of +1/+1 counters on it equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "713c226b-d4d9-46e1-b9c9-a04689d90ff6",
+  "set": "pio",
+  "set_name": "Pioneer Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/713c226b-d4d9-46e1-b9c9-a04689d90ff6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apio&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pio?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3a7d1f8d-b43a-4c06-b6b0-8454da65e07b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7b4502bc-9ece-4fd2-978d-bcfdb9358475&unique=prints",
+  "collector_number": "302",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wesley Burt",
+  "artist_ids": [
+    "b98c9d94-8bdb-49af-871d-7bac92274535"
+  ],
+  "illustration_id": "5a1db543-9172-4dec-b30b-355c55044242",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 16659,
+  "penny_rank": 6031,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DReverent%2BHunter",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DReverent%2BHunter",
+    "edhrec": "https://edhrec.com/route/?cc=Reverent+Hunter"
+  }
+}

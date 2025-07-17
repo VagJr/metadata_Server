@@ -1,0 +1,115 @@
+{
+  "object": "card",
+  "id": "1acee76b-3fe3-427d-8575-97f44843d9c5",
+  "oracle_id": "71d83fca-e40e-4d0e-956d-d0d6da9cc472",
+  "multiverse_ids": [
+    547729
+  ],
+  "arena_id": 74078,
+  "name": "Sphinx's Revelation",
+  "lang": "en",
+  "released_at": "2020-08-13",
+  "uri": "https://api.scryfall.com/cards/1acee76b-3fe3-427d-8575-97f44843d9c5",
+  "scryfall_uri": "https://scryfall.com/card/akr/262/sphinxs-revelation?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/a/1acee76b-3fe3-427d-8575-97f44843d9c5.jpg?1597251479",
+    "normal": "https://cards.scryfall.io/normal/front/1/a/1acee76b-3fe3-427d-8575-97f44843d9c5.jpg?1597251479",
+    "large": "https://cards.scryfall.io/large/front/1/a/1acee76b-3fe3-427d-8575-97f44843d9c5.jpg?1597251479",
+    "png": "https://cards.scryfall.io/png/front/1/a/1acee76b-3fe3-427d-8575-97f44843d9c5.png?1597251479",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/a/1acee76b-3fe3-427d-8575-97f44843d9c5.jpg?1597251479",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/a/1acee76b-3fe3-427d-8575-97f44843d9c5.jpg?1597251479"
+  },
+  "mana_cost": "{X}{W}{U}{U}",
+  "cmc": 3,
+  "type_line": "Instant",
+  "oracle_text": "You gain X life and draw X cards.",
+  "colors": [
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "U",
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "915dabb1-b82a-432d-939d-d9b128e65582",
+  "set": "akr",
+  "set_name": "Amonkhet Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/915dabb1-b82a-432d-939d-d9b128e65582",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aakr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/akr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1acee76b-3fe3-427d-8575-97f44843d9c5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A71d83fca-e40e-4d0e-956d-d0d6da9cc472&unique=prints",
+  "collector_number": "262",
+  "digital": true,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "John Di Giovanni",
+  "artist_ids": [
+    "dc7630d7-41e3-4fef-8630-058d1ba39d37"
+  ],
+  "illustration_id": "6ffa18a2-61a1-4c85-afb6-31fe935e00cd",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2819,
+  "penny_rank": 1115,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547729&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSphinx%2527s%2BRevelation",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSphinx%2527s%2BRevelation",
+    "edhrec": "https://edhrec.com/route/?cc=Sphinx%27s+Revelation"
+  }
+}

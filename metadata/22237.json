@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "3450b8ae-86dd-4034-bcd0-e9db130a8eeb",
+  "oracle_id": "c6dfc91f-bfac-40c2-99e5-0cec981f7f1f",
+  "multiverse_ids": [],
+  "mtgo_id": 83792,
+  "name": "Scourge of the Skyclaves",
+  "lang": "en",
+  "released_at": "2020-10-30",
+  "uri": "https://api.scryfall.com/cards/3450b8ae-86dd-4034-bcd0-e9db130a8eeb",
+  "scryfall_uri": "https://scryfall.com/card/prm/83792/scourge-of-the-skyclaves?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/4/3450b8ae-86dd-4034-bcd0-e9db130a8eeb.jpg?1630636006",
+    "normal": "https://cards.scryfall.io/normal/front/3/4/3450b8ae-86dd-4034-bcd0-e9db130a8eeb.jpg?1630636006",
+    "large": "https://cards.scryfall.io/large/front/3/4/3450b8ae-86dd-4034-bcd0-e9db130a8eeb.jpg?1630636006",
+    "png": "https://cards.scryfall.io/png/front/3/4/3450b8ae-86dd-4034-bcd0-e9db130a8eeb.png?1630636006",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/4/3450b8ae-86dd-4034-bcd0-e9db130a8eeb.jpg?1630636006",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/4/3450b8ae-86dd-4034-bcd0-e9db130a8eeb.jpg?1630636006"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2,
+  "type_line": "Creature — Demon",
+  "oracle_text": "Kicker {4}{B}\nWhen you cast this spell, if it was kicked, each player loses half their life, rounded up.\nScourge of the Skyclaves's power and toughness are each equal to 20 minus the highest life total among players.",
+  "power": "*",
+  "toughness": "*",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Kicker"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3450b8ae-86dd-4034-bcd0-e9db130a8eeb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac6dfc91f-bfac-40c2-99e5-0cec981f7f1f&unique=prints",
+  "collector_number": "83792",
+  "digital": true,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chase Stone",
+  "artist_ids": [
+    "2d753f61-5f5b-468e-97ea-8e0fdd347340"
+  ],
+  "illustration_id": "6c8d50c6-8e7b-4369-b178-0eff8648fef9",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 10605,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.29"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DScourge%2Bof%2Bthe%2BSkyclaves",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DScourge%2Bof%2Bthe%2BSkyclaves",
+    "edhrec": "https://edhrec.com/route/?cc=Scourge+of+the+Skyclaves"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DScourge%2Bof%2Bthe%2BSkyclaves%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Scourge+of+the+Skyclaves&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/83792?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

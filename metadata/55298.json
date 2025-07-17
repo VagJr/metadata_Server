@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "82fb5274-c11a-465b-b14f-8f35495482e4",
+  "oracle_id": "d33c3fbb-8306-4c2d-b0dd-88f12639da94",
+  "multiverse_ids": [
+    497185
+  ],
+  "mtgo_id": 83617,
+  "tcgplayer_id": 221994,
+  "cardmarket_id": 495104,
+  "name": "Grove of the Burnwillows",
+  "lang": "en",
+  "released_at": "2020-09-25",
+  "uri": "https://api.scryfall.com/cards/82fb5274-c11a-465b-b14f-8f35495482e4",
+  "scryfall_uri": "https://scryfall.com/card/zne/25/grove-of-the-burnwillows?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/2/82fb5274-c11a-465b-b14f-8f35495482e4.jpg?1604195844",
+    "normal": "https://cards.scryfall.io/normal/front/8/2/82fb5274-c11a-465b-b14f-8f35495482e4.jpg?1604195844",
+    "large": "https://cards.scryfall.io/large/front/8/2/82fb5274-c11a-465b-b14f-8f35495482e4.jpg?1604195844",
+    "png": "https://cards.scryfall.io/png/front/8/2/82fb5274-c11a-465b-b14f-8f35495482e4.png?1604195844",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/2/82fb5274-c11a-465b-b14f-8f35495482e4.jpg?1604195844",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/2/82fb5274-c11a-465b-b14f-8f35495482e4.jpg?1604195844"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "{T}: Add {C}.\n{T}: Add {R} or {G}. Each opponent gains 1 life.",
+  "colors": [],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "C",
+    "G",
+    "R"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "24e668b5-8312-498e-9bd7-c77a102bb55c",
+  "set": "zne",
+  "set_name": "Zendikar Rising Expeditions",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/24e668b5-8312-498e-9bd7-c77a102bb55c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Azne&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/zne?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/82fb5274-c11a-465b-b14f-8f35495482e4/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad33c3fbb-8306-4c2d-b0dd-88f12639da94&unique=prints",
+  "collector_number": "25",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Donato Giancola",
+  "artist_ids": [
+    "90332db2-aecb-4d79-917b-95cbeb8d0cb6"
+  ],
+  "illustration_id": "1a3cc70a-3e31-4f5f-b5f4-5da682065d07",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3569,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2020-09-02"
+  },
+  "prices": {
+    "usd": "11.12",
+    "usd_foil": "11.82",
+    "usd_etched": null,
+    "eur": "9.85",
+    "eur_foil": "14.75",
+    "tix": "4.44"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=497185&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGrove%2Bof%2Bthe%2BBurnwillows",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGrove%2Bof%2Bthe%2BBurnwillows",
+    "edhrec": "https://edhrec.com/route/?cc=Grove+of+the+Burnwillows"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F221994%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=495104&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/83617?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

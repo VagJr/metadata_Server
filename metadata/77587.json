@@ -1,0 +1,138 @@
+{
+  "object": "card",
+  "id": "b721a762-245a-4c95-93e8-c401832783d6",
+  "oracle_id": "60fc4c2d-1bf9-4c9a-a240-ab9b1c9c6817",
+  "multiverse_ids": [],
+  "tcgplayer_id": 270008,
+  "cardmarket_id": 653063,
+  "name": "Meeting of the Five",
+  "lang": "en",
+  "released_at": "2022-04-29",
+  "uri": "https://api.scryfall.com/cards/b721a762-245a-4c95-93e8-c401832783d6",
+  "scryfall_uri": "https://scryfall.com/card/psnc/202p/meeting-of-the-five?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/7/b721a762-245a-4c95-93e8-c401832783d6.jpg?1675618481",
+    "normal": "https://cards.scryfall.io/normal/front/b/7/b721a762-245a-4c95-93e8-c401832783d6.jpg?1675618481",
+    "large": "https://cards.scryfall.io/large/front/b/7/b721a762-245a-4c95-93e8-c401832783d6.jpg?1675618481",
+    "png": "https://cards.scryfall.io/png/front/b/7/b721a762-245a-4c95-93e8-c401832783d6.png?1675618481",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/7/b721a762-245a-4c95-93e8-c401832783d6.jpg?1675618481",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/7/b721a762-245a-4c95-93e8-c401832783d6.jpg?1675618481"
+  },
+  "mana_cost": "{3}{W}{U}{B}{R}{G}",
+  "cmc": 8,
+  "type_line": "Sorcery",
+  "oracle_text": "Exile the top ten cards of your library. You may cast spells with exactly three colors from among them this turn. Add {W}{W}{U}{U}{B}{B}{R}{R}{G}{G}. Spend this mana only to cast spells with exactly three colors.",
+  "colors": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "b651abe6-2c19-4ba0-8fa1-9b5909ccbef7",
+  "set": "psnc",
+  "set_name": "Streets of New Capenna Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/b651abe6-2c19-4ba0-8fa1-9b5909ccbef7",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apsnc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/psnc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b721a762-245a-4c95-93e8-c401832783d6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A60fc4c2d-1bf9-4c9a-a240-ab9b1c9c6817&unique=prints",
+  "collector_number": "202p",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "For years, the five families ruled New Capenna in uneasy peace, and the city prospered.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dominik Mayer",
+  "artist_ids": [
+    "c3439c4a-1fee-4e33-9b89-18dac27ac927"
+  ],
+  "illustration_id": "a687450c-e106-4a19-8e34-ec5cde3574d4",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 18293,
+  "penny_rank": 14847,
+  "prices": {
+    "usd": "0.31",
+    "usd_foil": "0.26",
+    "usd_etched": null,
+    "eur": "0.29",
+    "eur_foil": "0.70",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMeeting%2Bof%2Bthe%2BFive",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMeeting%2Bof%2Bthe%2BFive",
+    "edhrec": "https://edhrec.com/route/?cc=Meeting+of+the+Five"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F270008%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=653063&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Meeting+of+the+Five&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

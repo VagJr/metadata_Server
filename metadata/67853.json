@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "a0542cf0-535d-4727-bb04-b62fee271075",
+  "oracle_id": "046f5783-cc7b-416a-8cf6-2bcef9c2cc1a",
+  "multiverse_ids": [],
+  "mtgo_id": 102365,
+  "name": "Simic Growth Chamber",
+  "lang": "en",
+  "released_at": "2022-09-26",
+  "uri": "https://api.scryfall.com/cards/a0542cf0-535d-4727-bb04-b62fee271075",
+  "scryfall_uri": "https://scryfall.com/card/prm/102365/simic-growth-chamber?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/0/a0542cf0-535d-4727-bb04-b62fee271075.jpg?1681137025",
+    "normal": "https://cards.scryfall.io/normal/front/a/0/a0542cf0-535d-4727-bb04-b62fee271075.jpg?1681137025",
+    "large": "https://cards.scryfall.io/large/front/a/0/a0542cf0-535d-4727-bb04-b62fee271075.jpg?1681137025",
+    "png": "https://cards.scryfall.io/png/front/a/0/a0542cf0-535d-4727-bb04-b62fee271075.png?1681137025",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/0/a0542cf0-535d-4727-bb04-b62fee271075.jpg?1681137025",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/0/a0542cf0-535d-4727-bb04-b62fee271075.jpg?1681137025"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {G}{U}.",
+  "colors": [],
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "G",
+    "U"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a0542cf0-535d-4727-bb04-b62fee271075/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A046f5783-cc7b-416a-8cf6-2bcef9c2cc1a&unique=prints",
+  "collector_number": "102365",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Pete Venters",
+  "artist_ids": [
+    "d54c4a1a-c0c5-4834-84db-125d341f3ad8"
+  ],
+  "illustration_id": "50b853b0-8432-45d6-95f5-e49750946422",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 250,
+  "penny_rank": 3522,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "1.89"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSimic%2BGrowth%2BChamber",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSimic%2BGrowth%2BChamber",
+    "edhrec": "https://edhrec.com/route/?cc=Simic+Growth+Chamber"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSimic%2BGrowth%2BChamber%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Simic+Growth+Chamber&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/102365?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "object": "card",
+  "id": "de1c7202-ca36-46a3-ae04-c7da41ecc67d",
+  "oracle_id": "28c46eb7-bdfc-44b9-b7e9-b073260851f0",
+  "multiverse_ids": [],
+  "tcgplayer_id": 480518,
+  "cardmarket_id": 696322,
+  "name": "Rin and Seri, Inseparable",
+  "lang": "en",
+  "released_at": "2023-04-14",
+  "uri": "https://api.scryfall.com/cards/de1c7202-ca36-46a3-ae04-c7da41ecc67d",
+  "scryfall_uri": "https://scryfall.com/card/sld/1230/rin-and-seri-inseparable?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/e/de1c7202-ca36-46a3-ae04-c7da41ecc67d.jpg?1682693467",
+    "normal": "https://cards.scryfall.io/normal/front/d/e/de1c7202-ca36-46a3-ae04-c7da41ecc67d.jpg?1682693467",
+    "large": "https://cards.scryfall.io/large/front/d/e/de1c7202-ca36-46a3-ae04-c7da41ecc67d.jpg?1682693467",
+    "png": "https://cards.scryfall.io/png/front/d/e/de1c7202-ca36-46a3-ae04-c7da41ecc67d.png?1682693467",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/e/de1c7202-ca36-46a3-ae04-c7da41ecc67d.jpg?1682693467",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/e/de1c7202-ca36-46a3-ae04-c7da41ecc67d.jpg?1682693467"
+  },
+  "mana_cost": "{1}{R}{G}{W}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Dog Cat",
+  "oracle_text": "Whenever you cast a Dog spell, create a 1/1 green Cat creature token.\nWhenever you cast a Cat spell, create a 1/1 white Dog creature token.\n{R}{G}{W}, {T}: Rin and Seri deals damage to any target equal to the number of Dogs you control. You gain life equal to the number of Cats you control.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "G",
+    "R",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "R",
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "992b2dd3-87e7-48a4-bd8d-84973ff0ee1f",
+      "component": "combo_piece",
+      "name": "Rin and Seri, Inseparable",
+      "type_line": "Legendary Creature — Dog Cat",
+      "uri": "https://api.scryfall.com/cards/992b2dd3-87e7-48a4-bd8d-84973ff0ee1f"
+    },
+    {
+      "object": "related_card",
+      "id": "e5d07ad5-0701-4696-91fd-87451997ef23",
+      "component": "token",
+      "name": "Dog",
+      "type_line": "Token Creature — Dog",
+      "uri": "https://api.scryfall.com/cards/e5d07ad5-0701-4696-91fd-87451997ef23"
+    },
+    {
+      "object": "related_card",
+      "id": "5c53bf06-f681-4d5c-b303-cc7c050f5b01",
+      "component": "token",
+      "name": "Cat",
+      "type_line": "Token Creature — Cat",
+      "uri": "https://api.scryfall.com/cards/5c53bf06-f681-4d5c-b303-cc7c050f5b01"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/de1c7202-ca36-46a3-ae04-c7da41ecc67d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A28c46eb7-bdfc-44b9-b7e9-b073260851f0&unique=prints",
+  "collector_number": "1230",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Paul Mafayon",
+  "artist_ids": [
+    "63a7c3d5-849d-4323-a0d7-f376627c19f3"
+  ],
+  "illustration_id": "44a6fac0-8dad-4fa2-aeae-d65bf312c387",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5015,
+  "prices": {
+    "usd": "37.01",
+    "usd_foil": "38.45",
+    "usd_etched": null,
+    "eur": "29.05",
+    "eur_foil": "28.32",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRin%2Band%2BSeri%252C%2BInseparable",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRin%2Band%2BSeri%252C%2BInseparable",
+    "edhrec": "https://edhrec.com/route/?cc=Rin+and+Seri%2C+Inseparable"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F480518%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=696322&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rin+and+Seri%2C+Inseparable&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

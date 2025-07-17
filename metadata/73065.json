@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "ac555b4e-c682-46d2-a99e-1bd1656155d7",
+  "oracle_id": "ab655810-f67e-4576-9174-35b16f5e3235",
+  "multiverse_ids": [],
+  "tcgplayer_id": 189035,
+  "cardmarket_id": 372767,
+  "name": "Saheeli, Sublime Artificer",
+  "printed_name": "崇高な工匠、サヒーリ",
+  "lang": "ja",
+  "released_at": "2019-05-03",
+  "uri": "https://api.scryfall.com/cards/ac555b4e-c682-46d2-a99e-1bd1656155d7",
+  "scryfall_uri": "https://scryfall.com/card/war/234%E2%98%85/ja/%E5%B4%87%E9%AB%98%E3%81%AA%E5%B7%A5%E5%8C%A0%E3%80%81%E3%82%B5%E3%83%92%E3%83%BC%E3%83%AA-(saheeli-sublime-artificer)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/c/ac555b4e-c682-46d2-a99e-1bd1656155d7.jpg?1580443820",
+    "normal": "https://cards.scryfall.io/normal/front/a/c/ac555b4e-c682-46d2-a99e-1bd1656155d7.jpg?1580443820",
+    "large": "https://cards.scryfall.io/large/front/a/c/ac555b4e-c682-46d2-a99e-1bd1656155d7.jpg?1580443820",
+    "png": "https://cards.scryfall.io/png/front/a/c/ac555b4e-c682-46d2-a99e-1bd1656155d7.png?1580443820",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/c/ac555b4e-c682-46d2-a99e-1bd1656155d7.jpg?1580443820",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/c/ac555b4e-c682-46d2-a99e-1bd1656155d7.jpg?1580443820"
+  },
+  "mana_cost": "{1}{U/R}{U/R}",
+  "cmc": 3,
+  "type_line": "Legendary Planeswalker — Saheeli",
+  "printed_type_line": "伝説のプレインズウォーカー — サヒーリ",
+  "oracle_text": "Whenever you cast a noncreature spell, create a 1/1 colorless Servo artifact creature token.\n−2: Target artifact you control becomes a copy of another target artifact or creature you control until end of turn, except it's an artifact in addition to its other types.",
+  "printed_text": "あなたがクリーチャーでない呪文を唱えるたび、無色の１/１の霊気装置・アーティファクト・クリーチャー・トークンを１体生成する。\n-2：あなたがコントロールしているアーティファクト１つと、あなたがコントロールしている他のアーティファクト１つかクリーチャー１つを対象とする。ターン終了時まで、その前者はそれの他のタイプに加えてアーティファクトであることを除きその後者のコピーになる。",
+  "loyalty": "5",
+  "colors": [
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "ee044f0b-e101-4ead-8d0e-aa510aad4277",
+  "set": "war",
+  "set_name": "War of the Spark",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/ee044f0b-e101-4ead-8d0e-aa510aad4277",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awar&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/war?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ac555b4e-c682-46d2-a99e-1bd1656155d7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aab655810-f67e-4576-9174-35b16f5e3235&unique=prints",
+  "collector_number": "234★",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Hisashi Momose",
+  "artist_ids": [
+    "09bc6de8-c99c-406a-9da6-8ece7112e496"
+  ],
+  "illustration_id": "43f4f6c4-cf80-4a26-ad76-7f8429b21ce3",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "jpwalker"
+  ],
+  "edhrec_rank": 1776,
+  "penny_rank": 562,
+  "prices": {
+    "usd": "0.89",
+    "usd_foil": "10.99",
+    "usd_etched": null,
+    "eur": "0.97",
+    "eur_foil": "16.37",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSaheeli%252C%2BSublime%2BArtificer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSaheeli%252C%2BSublime%2BArtificer",
+    "edhrec": "https://edhrec.com/route/?cc=Saheeli%2C+Sublime+Artificer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F189035%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=372767&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Saheeli%2C+Sublime+Artificer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

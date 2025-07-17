@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "50974264-b509-4df9-802b-623805a4cbee",
+  "oracle_id": "585f62dc-4461-42f1-a3a4-b19a1e550d2d",
+  "multiverse_ids": [
+    489400
+  ],
+  "arena_id": 72479,
+  "tcgplayer_id": 216123,
+  "cardmarket_id": 473174,
+  "name": "Overgrown Battlement",
+  "lang": "en",
+  "released_at": "2020-07-17",
+  "uri": "https://api.scryfall.com/cards/50974264-b509-4df9-802b-623805a4cbee",
+  "scryfall_uri": "https://scryfall.com/card/jmp/417/overgrown-battlement?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/0/50974264-b509-4df9-802b-623805a4cbee.jpg?1601079869",
+    "normal": "https://cards.scryfall.io/normal/front/5/0/50974264-b509-4df9-802b-623805a4cbee.jpg?1601079869",
+    "large": "https://cards.scryfall.io/large/front/5/0/50974264-b509-4df9-802b-623805a4cbee.jpg?1601079869",
+    "png": "https://cards.scryfall.io/png/front/5/0/50974264-b509-4df9-802b-623805a4cbee.png?1601079869",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/0/50974264-b509-4df9-802b-623805a4cbee.jpg?1601079869",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/0/50974264-b509-4df9-802b-623805a4cbee.jpg?1601079869"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2,
+  "type_line": "Creature — Wall",
+  "oracle_text": "Defender\n{T}: Add {G} for each creature you control with defender.",
+  "power": "0",
+  "toughness": "4",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Defender"
+  ],
+  "produced_mana": [
+    "G"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena",
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "0f6ccf25-a627-4263-86df-5757137f1696",
+  "set": "jmp",
+  "set_name": "Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/0f6ccf25-a627-4263-86df-5757137f1696",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ajmp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/jmp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/50974264-b509-4df9-802b-623805a4cbee/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A585f62dc-4461-42f1-a3a4-b19a1e550d2d&unique=prints",
+  "collector_number": "417",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Our enemy is nothing less than the end of all life. We shall not want for allies.\"\n—*The War Diaries*",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Franz Vohwinkel",
+  "artist_ids": [
+    "3a243c17-3baa-4b53-9599-645311cd7d3d"
+  ],
+  "illustration_id": "82159092-c31b-4cbf-82af-0e3249463a5b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3014,
+  "penny_rank": 4635,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/stay-safe-and-throw-lava-2020-06-18",
+    "previewed_at": "2020-06-18"
+  },
+  "prices": {
+    "usd": "0.22",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.34",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489400&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOvergrown%2BBattlement",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOvergrown%2BBattlement",
+    "edhrec": "https://edhrec.com/route/?cc=Overgrown+Battlement"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F216123%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=473174&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Overgrown+Battlement&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

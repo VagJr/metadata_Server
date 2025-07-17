@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "006b5880-eb49-4198-930c-39a85ff6ec66",
+  "oracle_id": "240d650b-97ea-40ad-8c1b-fe1ea52d861f",
+  "multiverse_ids": [],
+  "tcgplayer_id": 231596,
+  "cardmarket_id": 535768,
+  "name": "Blessing of Frost",
+  "lang": "en",
+  "released_at": "2021-02-05",
+  "uri": "https://api.scryfall.com/cards/006b5880-eb49-4198-930c-39a85ff6ec66",
+  "scryfall_uri": "https://scryfall.com/card/pkhm/161s/blessing-of-frost?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/0/006b5880-eb49-4198-930c-39a85ff6ec66.jpg?1628381118",
+    "normal": "https://cards.scryfall.io/normal/front/0/0/006b5880-eb49-4198-930c-39a85ff6ec66.jpg?1628381118",
+    "large": "https://cards.scryfall.io/large/front/0/0/006b5880-eb49-4198-930c-39a85ff6ec66.jpg?1628381118",
+    "png": "https://cards.scryfall.io/png/front/0/0/006b5880-eb49-4198-930c-39a85ff6ec66.png?1628381118",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/0/006b5880-eb49-4198-930c-39a85ff6ec66.jpg?1628381118",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/0/006b5880-eb49-4198-930c-39a85ff6ec66.jpg?1628381118"
+  },
+  "mana_cost": "{3}{G}",
+  "cmc": 4,
+  "type_line": "Snow Sorcery",
+  "oracle_text": "Distribute X +1/+1 counters among any number of creatures you control, where X is the amount of {S} spent to cast this spell. Then draw a card for each creature you control with power 4 or greater.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d7b6bf0-0ded-49a0-8c0e-b1ae2bfba77c",
+  "set": "pkhm",
+  "set_name": "Kaldheim Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/4d7b6bf0-0ded-49a0-8c0e-b1ae2bfba77c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apkhm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pkhm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/006b5880-eb49-4198-930c-39a85ff6ec66/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A240d650b-97ea-40ad-8c1b-fe1ea52d861f&unique=prints",
+  "collector_number": "161s",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "A friend of Jorn is never cold.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mila Pesic",
+  "artist_ids": [
+    "81c5ec23-220b-4efa-b7df-9e49dd371e8d"
+  ],
+  "illustration_id": "3cda5ce6-7f89-4f25-b273-02b919b26c30",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "snow"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 10197,
+  "penny_rank": 7446,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.30",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.48",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlessing%2Bof%2BFrost",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlessing%2Bof%2BFrost",
+    "edhrec": "https://edhrec.com/route/?cc=Blessing+of+Frost"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F231596%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=535768&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blessing+of+Frost&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

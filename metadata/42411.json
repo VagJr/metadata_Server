@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "6418718b-cb9d-47fb-b502-b3cc41cf3479",
+  "oracle_id": "b707c131-de13-4d4d-839d-b9f47d62f090",
+  "multiverse_ids": [],
+  "tcgplayer_id": 514388,
+  "name": "Faunsbane Troll",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/6418718b-cb9d-47fb-b502-b3cc41cf3479",
+  "scryfall_uri": "https://scryfall.com/card/pwoe/203s/faunsbane-troll?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/4/6418718b-cb9d-47fb-b502-b3cc41cf3479.jpg?1694312083",
+    "normal": "https://cards.scryfall.io/normal/front/6/4/6418718b-cb9d-47fb-b502-b3cc41cf3479.jpg?1694312083",
+    "large": "https://cards.scryfall.io/large/front/6/4/6418718b-cb9d-47fb-b502-b3cc41cf3479.jpg?1694312083",
+    "png": "https://cards.scryfall.io/png/front/6/4/6418718b-cb9d-47fb-b502-b3cc41cf3479.png?1694312083",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/4/6418718b-cb9d-47fb-b502-b3cc41cf3479.jpg?1694312083",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/4/6418718b-cb9d-47fb-b502-b3cc41cf3479.jpg?1694312083"
+  },
+  "mana_cost": "{2}{B}{G}",
+  "cmc": 4,
+  "type_line": "Creature — Troll",
+  "oracle_text": "When this creature enters, create a Monster Role token attached to it. (Enchanted creature gets +1/+1 and has trample.)\n{1}, Sacrifice an Aura attached to this creature: This creature fights target creature you don't control. If that creature would die this turn, exile it instead. Activate only as a sorcery.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [
+    "Role token",
+    "Fight"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6418718b-cb9d-47fb-b502-b3cc41cf3479",
+      "component": "combo_piece",
+      "name": "Faunsbane Troll",
+      "type_line": "Creature — Troll",
+      "uri": "https://api.scryfall.com/cards/6418718b-cb9d-47fb-b502-b3cc41cf3479"
+    },
+    {
+      "object": "related_card",
+      "id": "6b8a810b-8538-41c3-a792-dbd1a1845faa",
+      "component": "token",
+      "name": "Monster // Sorcerer",
+      "type_line": "Token Enchantment — Aura Role // Token Enchantment — Aura Role",
+      "uri": "https://api.scryfall.com/cards/6b8a810b-8538-41c3-a792-dbd1a1845faa"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "909bf1bb-3277-41d6-af0f-293df1203099",
+  "set": "pwoe",
+  "set_name": "Wilds of Eldraine Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/909bf1bb-3277-41d6-af0f-293df1203099",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwoe&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwoe?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6418718b-cb9d-47fb-b502-b3cc41cf3479/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab707c131-de13-4d4d-839d-b9f47d62f090&unique=prints",
+  "collector_number": "203s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Artur Nakhodkin",
+  "artist_ids": [
+    "36450ae0-6428-47cb-b1ff-0549e0bbb7ee"
+  ],
+  "illustration_id": "b922bc61-50b3-40a4-a0f4-d24cce6ccba1",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 23978,
+  "penny_rank": 12495,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.34",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFaunsbane%2BTroll",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFaunsbane%2BTroll",
+    "edhrec": "https://edhrec.com/route/?cc=Faunsbane+Troll"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F514388%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Faunsbane+Troll&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Faunsbane+Troll&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

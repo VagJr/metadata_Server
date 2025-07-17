@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "9b920dbc-0a61-43b2-9571-dc9d726842eb",
+  "oracle_id": "4d74d12b-1ffb-482f-8bac-635a8d4d32e9",
+  "multiverse_ids": [
+    479378
+  ],
+  "mtgo_id": 79070,
+  "tcgplayer_id": 205304,
+  "cardmarket_id": 426556,
+  "name": "Goblin Piledriver",
+  "lang": "en",
+  "released_at": "2019-12-07",
+  "uri": "https://api.scryfall.com/cards/9b920dbc-0a61-43b2-9571-dc9d726842eb",
+  "scryfall_uri": "https://scryfall.com/card/sld/21/goblin-piledriver?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/b/9b920dbc-0a61-43b2-9571-dc9d726842eb.jpg?1616400433",
+    "normal": "https://cards.scryfall.io/normal/front/9/b/9b920dbc-0a61-43b2-9571-dc9d726842eb.jpg?1616400433",
+    "large": "https://cards.scryfall.io/large/front/9/b/9b920dbc-0a61-43b2-9571-dc9d726842eb.jpg?1616400433",
+    "png": "https://cards.scryfall.io/png/front/9/b/9b920dbc-0a61-43b2-9571-dc9d726842eb.png?1616400433",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/b/9b920dbc-0a61-43b2-9571-dc9d726842eb.jpg?1616400433",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/b/9b920dbc-0a61-43b2-9571-dc9d726842eb.jpg?1616400433"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Creature — Goblin Warrior",
+  "oracle_text": "Protection from blue (This creature can't be blocked, targeted, dealt damage, or enchanted by anything blue.)\nWhenever this creature attacks, it gets +2/+0 until end of turn for each other attacking Goblin.",
+  "power": "1",
+  "toughness": "2",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Protection"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9b920dbc-0a61-43b2-9571-dc9d726842eb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4d74d12b-1ffb-482f-8bac-635a8d4d32e9&unique=prints",
+  "collector_number": "21",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "First name, Danger. Last name, also Danger.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mike Uziel",
+  "artist_ids": [
+    "d49ba339-39c0-44aa-a389-ec362b6c0c5c"
+  ],
+  "illustration_id": "91039916-1652-4a7a-96c7-8b44c542404b",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5919,
+  "penny_rank": 1477,
+  "preview": {
+    "source": "PleasantKenobi",
+    "source_uri": "https://www.youtube.com/watch?v=iJUoZQ-gSm0",
+    "previewed_at": "2019-11-26"
+  },
+  "prices": {
+    "usd": "5.45",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "3.61",
+    "eur_foil": null,
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479378&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGoblin%2BPiledriver",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGoblin%2BPiledriver",
+    "edhrec": "https://edhrec.com/route/?cc=Goblin+Piledriver"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F205304%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=426556&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/79070?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

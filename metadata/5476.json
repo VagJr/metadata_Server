@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "0c95e4b1-2fa8-420d-8c55-f74badb2bafa",
+  "oracle_id": "419a8ab2-cff6-4811-a559-8791c9bb3d8e",
+  "multiverse_ids": [],
+  "tcgplayer_id": 582811,
+  "name": "Bloodtithe Harvester",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/0c95e4b1-2fa8-420d-8c55-f74badb2bafa",
+  "scryfall_uri": "https://scryfall.com/card/plst/VOW-232/bloodtithe-harvester?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/c/0c95e4b1-2fa8-420d-8c55-f74badb2bafa.jpg?1723444912",
+    "normal": "https://cards.scryfall.io/normal/front/0/c/0c95e4b1-2fa8-420d-8c55-f74badb2bafa.jpg?1723444912",
+    "large": "https://cards.scryfall.io/large/front/0/c/0c95e4b1-2fa8-420d-8c55-f74badb2bafa.jpg?1723444912",
+    "png": "https://cards.scryfall.io/png/front/0/c/0c95e4b1-2fa8-420d-8c55-f74badb2bafa.png?1723444912",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/c/0c95e4b1-2fa8-420d-8c55-f74badb2bafa.jpg?1723444912",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/c/0c95e4b1-2fa8-420d-8c55-f74badb2bafa.jpg?1723444912"
+  },
+  "mana_cost": "{B}{R}",
+  "cmc": 2,
+  "type_line": "Creature — Vampire",
+  "oracle_text": "When this creature enters, create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\")\n{T}, Sacrifice this creature: Target creature gets -X/-X until end of turn, where X is twice the number of Blood tokens you control. Activate only as a sorcery.",
+  "power": "3",
+  "toughness": "2",
+  "colors": [
+    "B",
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "92a3afe7-bd9f-43f9-adc3-4819e60dc7a5",
+      "component": "token",
+      "name": "Blood",
+      "type_line": "Token Artifact — Blood",
+      "uri": "https://api.scryfall.com/cards/92a3afe7-bd9f-43f9-adc3-4819e60dc7a5"
+    },
+    {
+      "object": "related_card",
+      "id": "0c95e4b1-2fa8-420d-8c55-f74badb2bafa",
+      "component": "combo_piece",
+      "name": "Bloodtithe Harvester",
+      "type_line": "Creature — Vampire",
+      "uri": "https://api.scryfall.com/cards/0c95e4b1-2fa8-420d-8c55-f74badb2bafa"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0c95e4b1-2fa8-420d-8c55-f74badb2bafa/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A419a8ab2-cff6-4811-a559-8791c9bb3d8e&unique=prints",
+  "collector_number": "VOW-232",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lucas Graciano",
+  "artist_ids": [
+    "ce98f39c-7cdd-47e6-a520-6c50443bb4c2"
+  ],
+  "illustration_id": "cd431ac1-9df9-49ce-94be-a22518b7e806",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": true,
+  "edhrec_rank": 7132,
+  "penny_rank": 1672,
+  "prices": {
+    "usd": "0.14",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBloodtithe%2BHarvester",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBloodtithe%2BHarvester",
+    "edhrec": "https://edhrec.com/route/?cc=Bloodtithe+Harvester"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F582811%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bloodtithe+Harvester&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bloodtithe+Harvester&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

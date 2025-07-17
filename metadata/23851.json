@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "3821254e-dec8-4d54-9973-f9b6df935353",
+  "oracle_id": "5d47e820-913f-441a-a6cc-37ab3181d79a",
+  "multiverse_ids": [],
+  "mtgo_id": 97893,
+  "name": "Swift Reconfiguration",
+  "lang": "en",
+  "released_at": "2022-05-09",
+  "uri": "https://api.scryfall.com/cards/3821254e-dec8-4d54-9973-f9b6df935353",
+  "scryfall_uri": "https://scryfall.com/card/prm/97893/swift-reconfiguration?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/8/3821254e-dec8-4d54-9973-f9b6df935353.jpg?1681084543",
+    "normal": "https://cards.scryfall.io/normal/front/3/8/3821254e-dec8-4d54-9973-f9b6df935353.jpg?1681084543",
+    "large": "https://cards.scryfall.io/large/front/3/8/3821254e-dec8-4d54-9973-f9b6df935353.jpg?1681084543",
+    "png": "https://cards.scryfall.io/png/front/3/8/3821254e-dec8-4d54-9973-f9b6df935353.png?1681084543",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/8/3821254e-dec8-4d54-9973-f9b6df935353.jpg?1681084543",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/8/3821254e-dec8-4d54-9973-f9b6df935353.jpg?1681084543"
+  },
+  "mana_cost": "{W}",
+  "cmc": 1,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Flash\nEnchant creature or Vehicle\nEnchanted permanent is a Vehicle artifact with crew 5 and it loses all other card types. (It's not a creature unless it's crewed.)",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Enchant",
+    "Flash"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3821254e-dec8-4d54-9973-f9b6df935353/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5d47e820-913f-441a-a6cc-37ab3181d79a&unique=prints",
+  "collector_number": "97893",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nicholas Gregory",
+  "artist_ids": [
+    "a1bba8ff-63b4-4786-b1c4-f1bfe5d3ab1c"
+  ],
+  "illustration_id": "7d4b32e1-9ba8-47a5-ac12-689132f6519c",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3202,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "10.59"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSwift%2BReconfiguration",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSwift%2BReconfiguration",
+    "edhrec": "https://edhrec.com/route/?cc=Swift+Reconfiguration"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSwift%2BReconfiguration%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Swift+Reconfiguration&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/97893?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

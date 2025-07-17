@@ -1,0 +1,163 @@
+{
+  "object": "card",
+  "id": "92055f1c-58bf-4b9c-ae30-3dd0aa3eddb8",
+  "oracle_id": "555df32f-f8e9-49af-bc4a-1194ea325a97",
+  "multiverse_ids": [],
+  "tcgplayer_id": 514323,
+  "name": "Questing Druid // Seek the Beast",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/92055f1c-58bf-4b9c-ae30-3dd0aa3eddb8",
+  "scryfall_uri": "https://scryfall.com/card/pwoe/234p/questing-druid-seek-the-beast?utm_source=api",
+  "layout": "adventure",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/2/92055f1c-58bf-4b9c-ae30-3dd0aa3eddb8.jpg?1694308225",
+    "normal": "https://cards.scryfall.io/normal/front/9/2/92055f1c-58bf-4b9c-ae30-3dd0aa3eddb8.jpg?1694308225",
+    "large": "https://cards.scryfall.io/large/front/9/2/92055f1c-58bf-4b9c-ae30-3dd0aa3eddb8.jpg?1694308225",
+    "png": "https://cards.scryfall.io/png/front/9/2/92055f1c-58bf-4b9c-ae30-3dd0aa3eddb8.png?1694308225",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/2/92055f1c-58bf-4b9c-ae30-3dd0aa3eddb8.jpg?1694308225",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/2/92055f1c-58bf-4b9c-ae30-3dd0aa3eddb8.jpg?1694308225"
+  },
+  "mana_cost": "{1}{G} // {1}{R}",
+  "cmc": 2,
+  "type_line": "Creature — Human Druid // Instant — Adventure",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Questing Druid",
+      "mana_cost": "{1}{G}",
+      "type_line": "Creature — Human Druid",
+      "oracle_text": "Whenever you cast a spell that's white, blue, black, or red, put a +1/+1 counter on this creature.",
+      "power": "1",
+      "toughness": "1",
+      "artist": "Jason A. Engle",
+      "artist_id": "02e2b5de-4341-464c-8fdb-a1adbf873bc0",
+      "illustration_id": "ccb87b21-4861-4f9b-b3d6-c01067acac7c"
+    },
+    {
+      "object": "card_face",
+      "name": "Seek the Beast",
+      "mana_cost": "{1}{R}",
+      "type_line": "Instant — Adventure",
+      "oracle_text": "Exile the top two cards of your library. Until your next end step, you may play those cards.",
+      "artist": "Jason A. Engle",
+      "artist_id": "02e2b5de-4341-464c-8fdb-a1adbf873bc0"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "41f3d670-2b04-4c0f-b3e4-f4685a1f7e7b",
+      "component": "combo_piece",
+      "name": "Questing Druid // Seek the Beast",
+      "type_line": "Creature — Human Druid // Instant — Adventure",
+      "uri": "https://api.scryfall.com/cards/41f3d670-2b04-4c0f-b3e4-f4685a1f7e7b"
+    },
+    {
+      "object": "related_card",
+      "id": "fcf4c7fb-7859-4c11-8552-6817f5119d2e",
+      "component": "combo_piece",
+      "name": "On an Adventure",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/fcf4c7fb-7859-4c11-8552-6817f5119d2e"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "909bf1bb-3277-41d6-af0f-293df1203099",
+  "set": "pwoe",
+  "set_name": "Wilds of Eldraine Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/909bf1bb-3277-41d6-af0f-293df1203099",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwoe&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwoe?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/92055f1c-58bf-4b9c-ae30-3dd0aa3eddb8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A555df32f-f8e9-49af-bc4a-1194ea325a97&unique=prints",
+  "collector_number": "234p",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason A. Engle",
+  "artist_ids": [
+    "02e2b5de-4341-464c-8fdb-a1adbf873bc0"
+  ],
+  "illustration_id": "ccb87b21-4861-4f9b-b3d6-c01067acac7c",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 6503,
+  "prices": {
+    "usd": "2.71",
+    "usd_foil": "3.14",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DQuesting%2BDruid%2B%252F%252F%2BSeek%2Bthe%2BBeast",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DQuesting%2BDruid%2B%252F%252F%2BSeek%2Bthe%2BBeast",
+    "edhrec": "https://edhrec.com/route/?cc=Questing+Druid"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F514323%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Questing+Druid&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Questing+Druid&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

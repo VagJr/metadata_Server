@@ -1,0 +1,193 @@
+{
+  "object": "card",
+  "id": "0954ed3d-a5d8-4330-b07c-bf3e51192e4b",
+  "oracle_id": "a720f3d3-c2d7-4e50-8cc6-600120380e9c",
+  "multiverse_ids": [
+    544475,
+    544476
+  ],
+  "arena_id": 79141,
+  "tcgplayer_id": 253196,
+  "cardmarket_id": 581328,
+  "name": "Voldaren Bloodcaster // Bloodbat Summoner",
+  "lang": "en",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/0954ed3d-a5d8-4330-b07c-bf3e51192e4b",
+  "scryfall_uri": "https://scryfall.com/card/vow/338/voldaren-bloodcaster-bloodbat-summoner?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 2,
+  "type_line": "Creature — Vampire Wizard // Creature — Vampire Wizard",
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying",
+    "Transform"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Voldaren Bloodcaster",
+      "flavor_name": "Dracula, Lord of Blood",
+      "mana_cost": "{1}{B}",
+      "type_line": "Creature — Vampire Wizard",
+      "oracle_text": "Flying\nWhenever this creature or another nontoken creature you control dies, create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\")\nWhenever you create a Blood token, if you control five or more Blood tokens, transform this creature.",
+      "colors": [
+        "B"
+      ],
+      "power": "2",
+      "toughness": "1",
+      "artist": "Johann Bodin",
+      "artist_id": "d92e2dd9-9ef6-43f6-81f8-df87f9066983",
+      "illustration_id": "3d5d971e-abd6-4161-a203-bd20e36f89a8",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/0/9/0954ed3d-a5d8-4330-b07c-bf3e51192e4b.jpg?1645227339",
+        "normal": "https://cards.scryfall.io/normal/front/0/9/0954ed3d-a5d8-4330-b07c-bf3e51192e4b.jpg?1645227339",
+        "large": "https://cards.scryfall.io/large/front/0/9/0954ed3d-a5d8-4330-b07c-bf3e51192e4b.jpg?1645227339",
+        "png": "https://cards.scryfall.io/png/front/0/9/0954ed3d-a5d8-4330-b07c-bf3e51192e4b.png?1645227339",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/0/9/0954ed3d-a5d8-4330-b07c-bf3e51192e4b.jpg?1645227339",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/0/9/0954ed3d-a5d8-4330-b07c-bf3e51192e4b.jpg?1645227339"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Bloodbat Summoner",
+      "flavor_name": "Dracula, Lord of Bats",
+      "mana_cost": "",
+      "type_line": "Creature — Vampire Wizard",
+      "oracle_text": "Flying\nAt the beginning of combat on your turn, up to one target Blood token you control becomes a 2/2 black Bat creature with flying and haste in addition to its other types.",
+      "colors": [
+        "B"
+      ],
+      "color_indicator": [
+        "B"
+      ],
+      "power": "3",
+      "toughness": "3",
+      "flavor_text": "\"Do you mean to tell me that Lucy was bitten by such a bat . . . ?\"",
+      "artist": "Johann Bodin",
+      "artist_id": "d92e2dd9-9ef6-43f6-81f8-df87f9066983",
+      "illustration_id": "9c190f1e-4004-4f01-b799-e866f1d9da2b",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/0/9/0954ed3d-a5d8-4330-b07c-bf3e51192e4b.jpg?1645227339",
+        "normal": "https://cards.scryfall.io/normal/back/0/9/0954ed3d-a5d8-4330-b07c-bf3e51192e4b.jpg?1645227339",
+        "large": "https://cards.scryfall.io/large/back/0/9/0954ed3d-a5d8-4330-b07c-bf3e51192e4b.jpg?1645227339",
+        "png": "https://cards.scryfall.io/png/back/0/9/0954ed3d-a5d8-4330-b07c-bf3e51192e4b.png?1645227339",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/0/9/0954ed3d-a5d8-4330-b07c-bf3e51192e4b.jpg?1645227339",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/0/9/0954ed3d-a5d8-4330-b07c-bf3e51192e4b.jpg?1645227339"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a6f374bc-cd29-469f-808a-6a6c004ee8aa",
+      "component": "token",
+      "name": "Blood",
+      "type_line": "Token Artifact — Blood",
+      "uri": "https://api.scryfall.com/cards/a6f374bc-cd29-469f-808a-6a6c004ee8aa"
+    },
+    {
+      "object": "related_card",
+      "id": "0954ed3d-a5d8-4330-b07c-bf3e51192e4b",
+      "component": "combo_piece",
+      "name": "Voldaren Bloodcaster // Bloodbat Summoner",
+      "type_line": "Creature — Vampire Wizard // Creature — Vampire Wizard",
+      "uri": "https://api.scryfall.com/cards/0954ed3d-a5d8-4330-b07c-bf3e51192e4b"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/vow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0954ed3d-a5d8-4330-b07c-bf3e51192e4b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa720f3d3-c2d7-4e50-8cc6-600120380e9c&unique=prints",
+  "collector_number": "338",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Johann Bodin",
+  "artist_ids": [
+    "d92e2dd9-9ef6-43f6-81f8-df87f9066983"
+  ],
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "sunmoondfc",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "draculaseries",
+    "boosterfun"
+  ],
+  "edhrec_rank": 6008,
+  "penny_rank": 6364,
+  "prices": {
+    "usd": "1.98",
+    "usd_foil": "3.41",
+    "usd_etched": null,
+    "eur": "1.01",
+    "eur_foil": "1.56",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=544475&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVoldaren%2BBloodcaster%2B%252F%252F%2BBloodbat%2BSummoner",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVoldaren%2BBloodcaster%2B%252F%252F%2BBloodbat%2BSummoner",
+    "edhrec": "https://edhrec.com/route/?cc=Voldaren+Bloodcaster"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F253196%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=581328&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Voldaren+Bloodcaster&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

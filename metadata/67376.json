@@ -1,0 +1,138 @@
+{
+  "object": "card",
+  "id": "9f30a6a5-e8b3-403a-bfe1-1f78d45e392e",
+  "oracle_id": "66465bc1-4a34-4951-be53-57f90002976a",
+  "multiverse_ids": [],
+  "tcgplayer_id": 637992,
+  "cardmarket_id": 821510,
+  "name": "Gleeful Demolition",
+  "lang": "en",
+  "released_at": "2025-04-01",
+  "uri": "https://api.scryfall.com/cards/9f30a6a5-e8b3-403a-bfe1-1f78d45e392e",
+  "scryfall_uri": "https://scryfall.com/card/sch/36/gleeful-demolition?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/f/9f30a6a5-e8b3-403a-bfe1-1f78d45e392e.jpg?1747597590",
+    "normal": "https://cards.scryfall.io/normal/front/9/f/9f30a6a5-e8b3-403a-bfe1-1f78d45e392e.jpg?1747597590",
+    "large": "https://cards.scryfall.io/large/front/9/f/9f30a6a5-e8b3-403a-bfe1-1f78d45e392e.jpg?1747597590",
+    "png": "https://cards.scryfall.io/png/front/9/f/9f30a6a5-e8b3-403a-bfe1-1f78d45e392e.png?1747597590",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/f/9f30a6a5-e8b3-403a-bfe1-1f78d45e392e.jpg?1747597590",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/f/9f30a6a5-e8b3-403a-bfe1-1f78d45e392e.jpg?1747597590"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1,
+  "type_line": "Sorcery",
+  "oracle_text": "Destroy target artifact. If you controlled that artifact, create three 1/1 red Phyrexian Goblin creature tokens.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "9f30a6a5-e8b3-403a-bfe1-1f78d45e392e",
+      "component": "combo_piece",
+      "name": "Gleeful Demolition",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/9f30a6a5-e8b3-403a-bfe1-1f78d45e392e"
+    },
+    {
+      "object": "related_card",
+      "id": "01e437a1-6d74-4006-8598-06284444c837",
+      "component": "token",
+      "name": "Phyrexian Goblin",
+      "type_line": "Token Creature — Phyrexian Goblin",
+      "uri": "https://api.scryfall.com/cards/01e437a1-6d74-4006-8598-06284444c837"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "211b56b9-961e-4eab-8245-a2f52dd9af47",
+  "set": "sch",
+  "set_name": "Store Championships",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/211b56b9-961e-4eab-8245-a2f52dd9af47",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asch&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sch?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9f30a6a5-e8b3-403a-bfe1-1f78d45e392e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A66465bc1-4a34-4951-be53-57f90002976a&unique=prints",
+  "collector_number": "36",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Vincent Proce",
+  "artist_ids": [
+    "d82b1138-76d3-49f7-9d8c-bc2e2d3e0b0a"
+  ],
+  "illustration_id": "719b1bec-dfaf-4f26-a620-ef77df664e20",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 6659,
+  "penny_rank": 815,
+  "prices": {
+    "usd": "1.81",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.27",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGleeful%2BDemolition",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGleeful%2BDemolition",
+    "edhrec": "https://edhrec.com/route/?cc=Gleeful+Demolition"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F637992%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=821510&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Gleeful+Demolition&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

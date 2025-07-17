@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "da556742-2c8e-47cf-8124-957f73e599ed",
+  "oracle_id": "9aacc1ce-8d0d-4a24-9a15-74635f2f127d",
+  "multiverse_ids": [],
+  "mtgo_id": 79979,
+  "name": "Athreos, Shroud-Veiled",
+  "lang": "en",
+  "released_at": "2020-02-07",
+  "uri": "https://api.scryfall.com/cards/da556742-2c8e-47cf-8124-957f73e599ed",
+  "scryfall_uri": "https://scryfall.com/card/prm/79979/athreos-shroud-veiled?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/a/da556742-2c8e-47cf-8124-957f73e599ed.jpg?1681728806",
+    "normal": "https://cards.scryfall.io/normal/front/d/a/da556742-2c8e-47cf-8124-957f73e599ed.jpg?1681728806",
+    "large": "https://cards.scryfall.io/large/front/d/a/da556742-2c8e-47cf-8124-957f73e599ed.jpg?1681728806",
+    "png": "https://cards.scryfall.io/png/front/d/a/da556742-2c8e-47cf-8124-957f73e599ed.png?1681728806",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/a/da556742-2c8e-47cf-8124-957f73e599ed.jpg?1681728806",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/a/da556742-2c8e-47cf-8124-957f73e599ed.jpg?1681728806"
+  },
+  "mana_cost": "{4}{W}{B}",
+  "cmc": 6,
+  "type_line": "Legendary Enchantment Creature — God",
+  "oracle_text": "Indestructible\nAs long as your devotion to white and black is less than seven, Athreos isn't a creature.\nAt the beginning of your end step, put a coin counter on another target creature.\nWhenever a creature with a coin counter on it dies or is put into exile, return that card to the battlefield under your control.",
+  "power": "4",
+  "toughness": "7",
+  "colors": [
+    "B",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [
+    "Indestructible"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/da556742-2c8e-47cf-8124-957f73e599ed/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9aacc1ce-8d0d-4a24-9a15-74635f2f127d&unique=prints",
+  "collector_number": "79979",
+  "digital": true,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Igor Kieryluk",
+  "artist_ids": [
+    "9c3e9d17-509f-485c-9360-46d897ce716b"
+  ],
+  "illustration_id": "1b7f61e4-1607-4c48-bbfe-cdcd1c40a4f7",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "enchantment",
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2957,
+  "penny_rank": 12886,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAthreos%252C%2BShroud-Veiled",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAthreos%252C%2BShroud-Veiled",
+    "edhrec": "https://edhrec.com/route/?cc=Athreos%2C+Shroud-Veiled"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DAthreos%252C%2BShroud-Veiled%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Athreos%2C+Shroud-Veiled&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/79979?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

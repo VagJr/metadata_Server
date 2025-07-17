@@ -1,0 +1,188 @@
+{
+  "object": "card",
+  "id": "8ca358b8-dee7-462d-aee1-f2e271d38370",
+  "oracle_id": "73a3b9a1-37a0-469a-9557-8c118a1ee78f",
+  "multiverse_ids": [],
+  "arena_id": 78688,
+  "tcgplayer_id": 247847,
+  "cardmarket_id": 574702,
+  "name": "Tavern Ruffian // Tavern Smasher",
+  "lang": "en",
+  "released_at": "2021-09-24",
+  "uri": "https://api.scryfall.com/cards/8ca358b8-dee7-462d-aee1-f2e271d38370",
+  "scryfall_uri": "https://scryfall.com/card/mid/296/tavern-ruffian-tavern-smasher?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 4,
+  "type_line": "Creature — Human Warrior Werewolf // Creature — Werewolf",
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Daybound",
+    "Nightbound"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Tavern Ruffian",
+      "mana_cost": "{3}{R}",
+      "type_line": "Creature — Human Warrior Werewolf",
+      "oracle_text": "Daybound (If a player casts no spells during their own turn, it becomes night next turn.)",
+      "colors": [
+        "R"
+      ],
+      "power": "2",
+      "toughness": "5",
+      "artist": "Michael Walsh",
+      "artist_id": "6a86bcd5-4829-4bc6-ad82-a4448b28d089",
+      "illustration_id": "f168e993-cf52-4b9e-b0dd-74caaf4a6f71",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/8/c/8ca358b8-dee7-462d-aee1-f2e271d38370.jpg?1636415483",
+        "normal": "https://cards.scryfall.io/normal/front/8/c/8ca358b8-dee7-462d-aee1-f2e271d38370.jpg?1636415483",
+        "large": "https://cards.scryfall.io/large/front/8/c/8ca358b8-dee7-462d-aee1-f2e271d38370.jpg?1636415483",
+        "png": "https://cards.scryfall.io/png/front/8/c/8ca358b8-dee7-462d-aee1-f2e271d38370.png?1636415483",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/8/c/8ca358b8-dee7-462d-aee1-f2e271d38370.jpg?1636415483",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/8/c/8ca358b8-dee7-462d-aee1-f2e271d38370.jpg?1636415483"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Tavern Smasher",
+      "mana_cost": "",
+      "type_line": "Creature — Werewolf",
+      "oracle_text": "Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)",
+      "colors": [
+        "R"
+      ],
+      "color_indicator": [
+        "R"
+      ],
+      "power": "6",
+      "toughness": "5",
+      "artist": "Michael Walsh",
+      "artist_id": "6a86bcd5-4829-4bc6-ad82-a4448b28d089",
+      "illustration_id": "b133f1bf-9152-4853-8f29-e07ef9db1f4d",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/8/c/8ca358b8-dee7-462d-aee1-f2e271d38370.jpg?1636415483",
+        "normal": "https://cards.scryfall.io/normal/back/8/c/8ca358b8-dee7-462d-aee1-f2e271d38370.jpg?1636415483",
+        "large": "https://cards.scryfall.io/large/back/8/c/8ca358b8-dee7-462d-aee1-f2e271d38370.jpg?1636415483",
+        "png": "https://cards.scryfall.io/png/back/8/c/8ca358b8-dee7-462d-aee1-f2e271d38370.png?1636415483",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/8/c/8ca358b8-dee7-462d-aee1-f2e271d38370.jpg?1636415483",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/8/c/8ca358b8-dee7-462d-aee1-f2e271d38370.jpg?1636415483"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "8ca358b8-dee7-462d-aee1-f2e271d38370",
+      "component": "combo_piece",
+      "name": "Tavern Ruffian // Tavern Smasher",
+      "type_line": "Creature — Human Warrior Werewolf // Creature — Werewolf",
+      "uri": "https://api.scryfall.com/cards/8ca358b8-dee7-462d-aee1-f2e271d38370"
+    },
+    {
+      "object": "related_card",
+      "id": "dc26e13b-7a0f-4e7f-8593-4f22234f4517",
+      "component": "combo_piece",
+      "name": "Day // Night",
+      "type_line": "Card // Card",
+      "uri": "https://api.scryfall.com/cards/dc26e13b-7a0f-4e7f-8593-4f22234f4517"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "44b8eb8f-fa23-401a-98b5-1fbb9871128e",
+  "set": "mid",
+  "set_name": "Innistrad: Midnight Hunt",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/44b8eb8f-fa23-401a-98b5-1fbb9871128e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amid&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mid?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8ca358b8-dee7-462d-aee1-f2e271d38370/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A73a3b9a1-37a0-469a-9557-8c118a1ee78f&unique=prints",
+  "collector_number": "296",
+  "digital": false,
+  "rarity": "common",
+  "artist": "Michael Walsh",
+  "artist_ids": [
+    "6a86bcd5-4829-4bc6-ad82-a4448b28d089"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "sunmoondfc"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 17521,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/feature/innistrad-midnight-hunt-mechanics-2021-09-02",
+    "previewed_at": "2021-09-02"
+  },
+  "prices": {
+    "usd": "0.03",
+    "usd_foil": "0.08",
+    "usd_etched": null,
+    "eur": "0.02",
+    "eur_foil": "0.12",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTavern%2BRuffian%2B%252F%252F%2BTavern%2BSmasher",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTavern%2BRuffian%2B%252F%252F%2BTavern%2BSmasher",
+    "edhrec": "https://edhrec.com/route/?cc=Tavern+Ruffian"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F247847%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=574702&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tavern+Ruffian&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

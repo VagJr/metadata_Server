@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "f42ccb39-c838-426f-8b71-6a071d83cf9a",
+  "oracle_id": "d7b69fd7-e575-4009-8549-f576249ba641",
+  "multiverse_ids": [
+    636451
+  ],
+  "mtgo_id": 120066,
+  "tcgplayer_id": 518048,
+  "name": "Model of Unity",
+  "lang": "en",
+  "released_at": "2023-11-03",
+  "uri": "https://api.scryfall.com/cards/f42ccb39-c838-426f-8b71-6a071d83cf9a",
+  "scryfall_uri": "https://scryfall.com/card/ltc/488/model-of-unity?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/4/f42ccb39-c838-426f-8b71-6a071d83cf9a.jpg?1695447946",
+    "normal": "https://cards.scryfall.io/normal/front/f/4/f42ccb39-c838-426f-8b71-6a071d83cf9a.jpg?1695447946",
+    "large": "https://cards.scryfall.io/large/front/f/4/f42ccb39-c838-426f-8b71-6a071d83cf9a.jpg?1695447946",
+    "png": "https://cards.scryfall.io/png/front/f/4/f42ccb39-c838-426f-8b71-6a071d83cf9a.png?1695447946",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/4/f42ccb39-c838-426f-8b71-6a071d83cf9a.jpg?1695447946",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/4/f42ccb39-c838-426f-8b71-6a071d83cf9a.jpg?1695447946"
+  },
+  "mana_cost": "{3}",
+  "cmc": 3,
+  "type_line": "Artifact",
+  "oracle_text": "Whenever players finish voting, you and each opponent who voted for a choice you voted for may scry 2.\n{T}: Add one mana of any color.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Scry"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set": "ltc",
+  "set_name": "Tales of Middle-earth Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f42ccb39-c838-426f-8b71-6a071d83cf9a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad7b69fd7-e575-4009-8549-f576249ba641&unique=prints",
+  "collector_number": "488",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Rivendell is a perfect house, whether you like food or sleep or storytelling or singing, or a pleasant mixture of them all.\"\n—Bilbo",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Yuriy Chemezov",
+  "artist_ids": [
+    "0e2c4292-9cb6-4973-9b1f-9ff4b6ec166e"
+  ],
+  "illustration_id": "a7f92e8b-6dbb-450e-bd35-8f10c40c64cb",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "silverfoil",
+    "scroll",
+    "boosterfun"
+  ],
+  "edhrec_rank": 7120,
+  "prices": {
+    "usd": "0.39",
+    "usd_foil": "0.65",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.31"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=636451&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DModel%2Bof%2BUnity",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DModel%2Bof%2BUnity",
+    "edhrec": "https://edhrec.com/route/?cc=Model+of+Unity"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F518048%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Model+of+Unity&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/120066?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

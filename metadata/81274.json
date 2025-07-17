@@ -1,0 +1,180 @@
+{
+  "object": "card",
+  "id": "bfd786c2-6a2b-4f43-ba68-cbe31eeb4904",
+  "oracle_id": "c27c6ba9-8d72-4101-b3a5-1e8d81755568",
+  "multiverse_ids": [
+    610513,
+    610514
+  ],
+  "mtgo_id": 109488,
+  "tcgplayer_id": 484568,
+  "cardmarket_id": 697945,
+  "name": "Heliod, the Radiant Dawn // Heliod, the Warped Eclipse",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/bfd786c2-6a2b-4f43-ba68-cbe31eeb4904",
+  "scryfall_uri": "https://scryfall.com/card/mom/293/heliod-the-radiant-dawn-heliod-the-warped-eclipse?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 4,
+  "type_line": "Legendary Enchantment Creature — God // Legendary Enchantment Creature — Phyrexian God",
+  "color_identity": [
+    "U",
+    "W"
+  ],
+  "keywords": [
+    "Transform"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Heliod, the Radiant Dawn",
+      "mana_cost": "{2}{W}{W}",
+      "type_line": "Legendary Enchantment Creature — God",
+      "oracle_text": "When Heliod enters, return target enchantment card that isn't a God from your graveyard to your hand.\n{3}{U/P}: Transform Heliod. Activate only as a sorcery. ({U/P} can be paid with either {U} or 2 life.)",
+      "colors": [
+        "W"
+      ],
+      "power": "4",
+      "toughness": "4",
+      "artist": "Jason A. Engle",
+      "artist_id": "02e2b5de-4341-464c-8fdb-a1adbf873bc0",
+      "illustration_id": "cf7d79a2-c9ab-445e-b7e1-2809d2cd2539",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/b/f/bfd786c2-6a2b-4f43-ba68-cbe31eeb4904.jpg?1682720331",
+        "normal": "https://cards.scryfall.io/normal/front/b/f/bfd786c2-6a2b-4f43-ba68-cbe31eeb4904.jpg?1682720331",
+        "large": "https://cards.scryfall.io/large/front/b/f/bfd786c2-6a2b-4f43-ba68-cbe31eeb4904.jpg?1682720331",
+        "png": "https://cards.scryfall.io/png/front/b/f/bfd786c2-6a2b-4f43-ba68-cbe31eeb4904.png?1682720331",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/b/f/bfd786c2-6a2b-4f43-ba68-cbe31eeb4904.jpg?1682720331",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/b/f/bfd786c2-6a2b-4f43-ba68-cbe31eeb4904.jpg?1682720331"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Heliod, the Warped Eclipse",
+      "mana_cost": "",
+      "type_line": "Legendary Enchantment Creature — Phyrexian God",
+      "oracle_text": "You may cast spells as though they had flash.\nSpells you cast cost {1} less to cast for each card your opponents have drawn this turn.",
+      "colors": [
+        "U",
+        "W"
+      ],
+      "color_indicator": [
+        "U",
+        "W"
+      ],
+      "power": "4",
+      "toughness": "6",
+      "artist": "Jason A. Engle",
+      "artist_id": "02e2b5de-4341-464c-8fdb-a1adbf873bc0",
+      "illustration_id": "93a9168d-bf5d-49c6-9bc6-a2909498f70e",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/b/f/bfd786c2-6a2b-4f43-ba68-cbe31eeb4904.jpg?1682720331",
+        "normal": "https://cards.scryfall.io/normal/back/b/f/bfd786c2-6a2b-4f43-ba68-cbe31eeb4904.jpg?1682720331",
+        "large": "https://cards.scryfall.io/large/back/b/f/bfd786c2-6a2b-4f43-ba68-cbe31eeb4904.jpg?1682720331",
+        "png": "https://cards.scryfall.io/png/back/b/f/bfd786c2-6a2b-4f43-ba68-cbe31eeb4904.png?1682720331",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/b/f/bfd786c2-6a2b-4f43-ba68-cbe31eeb4904.jpg?1682720331",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/b/f/bfd786c2-6a2b-4f43-ba68-cbe31eeb4904.jpg?1682720331"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "392f7315-dc53-40a3-a2cc-5482dbd498b3",
+  "set": "mom",
+  "set_name": "March of the Machine",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/392f7315-dc53-40a3-a2cc-5482dbd498b3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/bfd786c2-6a2b-4f43-ba68-cbe31eeb4904/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac27c6ba9-8d72-4101-b3a5-1e8d81755568&unique=prints",
+  "collector_number": "293",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Jason A. Engle",
+  "artist_ids": [
+    "02e2b5de-4341-464c-8fdb-a1adbf873bc0"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary",
+    "inverted",
+    "enchantment"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 2927,
+  "penny_rank": 1799,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://twitter.com/wizards_magic/status/1627379095263748097?s=20",
+    "previewed_at": "2023-02-19"
+  },
+  "prices": {
+    "usd": "0.95",
+    "usd_foil": "2.43",
+    "usd_etched": null,
+    "eur": "0.59",
+    "eur_foil": "1.96",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=610513&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHeliod%252C%2Bthe%2BRadiant%2BDawn%2B%252F%252F%2BHeliod%252C%2Bthe%2BWarped%2BEclipse",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHeliod%252C%2Bthe%2BRadiant%2BDawn%2B%252F%252F%2BHeliod%252C%2Bthe%2BWarped%2BEclipse",
+    "edhrec": "https://edhrec.com/route/?cc=Heliod%2C+the+Radiant+Dawn"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F484568%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=697945&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/109488?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

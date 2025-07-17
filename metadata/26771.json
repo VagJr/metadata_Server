@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "3f30584c-31e6-4227-96b1-00ce1acb47ad",
+  "oracle_id": "afc2269c-d3b5-487d-9445-800c7a8e526b",
+  "multiverse_ids": [],
+  "tcgplayer_id": 189558,
+  "cardmarket_id": 373464,
+  "name": "Domri, Anarch of Bolas",
+  "printed_name": "ボーラスの壊乱者、ドムリ",
+  "lang": "ja",
+  "released_at": "2019-05-03",
+  "uri": "https://api.scryfall.com/cards/3f30584c-31e6-4227-96b1-00ce1acb47ad",
+  "scryfall_uri": "https://scryfall.com/card/pwar/191s%E2%98%85/ja/%E3%83%9C%E3%83%BC%E3%83%A9%E3%82%B9%E3%81%AE%E5%A3%8A%E4%B9%B1%E8%80%85%E3%80%81%E3%83%89%E3%83%A0%E3%83%AA-(domri-anarch-of-bolas)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/f/3f30584c-31e6-4227-96b1-00ce1acb47ad.jpg?1593867219",
+    "normal": "https://cards.scryfall.io/normal/front/3/f/3f30584c-31e6-4227-96b1-00ce1acb47ad.jpg?1593867219",
+    "large": "https://cards.scryfall.io/large/front/3/f/3f30584c-31e6-4227-96b1-00ce1acb47ad.jpg?1593867219",
+    "png": "https://cards.scryfall.io/png/front/3/f/3f30584c-31e6-4227-96b1-00ce1acb47ad.png?1593867219",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/f/3f30584c-31e6-4227-96b1-00ce1acb47ad.jpg?1593867219",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/f/3f30584c-31e6-4227-96b1-00ce1acb47ad.jpg?1593867219"
+  },
+  "mana_cost": "{1}{R}{G}",
+  "cmc": 3,
+  "type_line": "Legendary Planeswalker — Domri",
+  "printed_type_line": "伝説のプレインズウォーカー — ドムリ",
+  "oracle_text": "Creatures you control get +1/+0.\n+1: Add {R} or {G}. Creature spells you cast this turn can't be countered.\n−2: Target creature you control fights target creature you don't control.",
+  "printed_text": "あなたがコントロールしているクリーチャーは＋１/＋０の修整を受ける。\n+1：{R}か{G}を加える。このターン、あなたが唱えるクリーチャー・呪文は打ち消されない。\n-2：あなたがコントロールしているクリーチャー１体と、あなたがコントロールしていないクリーチャー１体を対象とする。その前者はその後者と格闘を行う。",
+  "loyalty": "3",
+  "colors": [
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [
+    "Fight"
+  ],
+  "produced_mana": [
+    "G",
+    "R"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9981777b-983e-4f17-b9b1-fe32cf243e23",
+  "set": "pwar",
+  "set_name": "War of the Spark Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/9981777b-983e-4f17-b9b1-fe32cf243e23",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwar&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwar?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3f30584c-31e6-4227-96b1-00ce1acb47ad/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aafc2269c-d3b5-487d-9445-800c7a8e526b&unique=prints",
+  "collector_number": "191s★",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Raita Kazama",
+  "artist_ids": [
+    "d4b508d6-c5e8-45f0-97e8-6781e5b8cca0"
+  ],
+  "illustration_id": "075c507b-9347-445b-8c96-914edf0b6d34",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped",
+    "jpwalker"
+  ],
+  "edhrec_rank": 2284,
+  "penny_rank": 1740,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "29.67",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDomri%252C%2BAnarch%2Bof%2BBolas",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDomri%252C%2BAnarch%2Bof%2BBolas",
+    "edhrec": "https://edhrec.com/route/?cc=Domri%2C+Anarch+of+Bolas"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F189558%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=373464&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Domri%2C+Anarch+of+Bolas&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

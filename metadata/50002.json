@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "76348c05-2a00-40e1-96a8-9af6c12b7e29",
+  "oracle_id": "bde67dfb-706b-4942-a365-984ea6e97a2b",
+  "multiverse_ids": [],
+  "tcgplayer_id": 580736,
+  "name": "Unidentified Hovership",
+  "lang": "en",
+  "released_at": "2024-09-27",
+  "uri": "https://api.scryfall.com/cards/76348c05-2a00-40e1-96a8-9af6c12b7e29",
+  "scryfall_uri": "https://scryfall.com/card/pdsk/37p/unidentified-hovership?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/6/76348c05-2a00-40e1-96a8-9af6c12b7e29.jpg?1727558410",
+    "normal": "https://cards.scryfall.io/normal/front/7/6/76348c05-2a00-40e1-96a8-9af6c12b7e29.jpg?1727558410",
+    "large": "https://cards.scryfall.io/large/front/7/6/76348c05-2a00-40e1-96a8-9af6c12b7e29.jpg?1727558410",
+    "png": "https://cards.scryfall.io/png/front/7/6/76348c05-2a00-40e1-96a8-9af6c12b7e29.png?1727558410",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/6/76348c05-2a00-40e1-96a8-9af6c12b7e29.jpg?1727558410",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/6/76348c05-2a00-40e1-96a8-9af6c12b7e29.jpg?1727558410"
+  },
+  "mana_cost": "{1}{W}{W}",
+  "cmc": 3,
+  "type_line": "Artifact — Vehicle",
+  "oracle_text": "Flying\nWhen this Vehicle enters, exile up to one target creature with toughness 5 or less.\nWhen this Vehicle leaves the battlefield, the exiled card's owner manifests dread.\nCrew 1",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "Crew"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a313369b-be36-484b-a4d5-89c445cd082c",
+      "component": "combo_piece",
+      "name": "Unidentified Hovership",
+      "type_line": "Artifact — Vehicle",
+      "uri": "https://api.scryfall.com/cards/a313369b-be36-484b-a4d5-89c445cd082c"
+    },
+    {
+      "object": "related_card",
+      "id": "01104ab1-84e1-4c78-853d-637c6554bdf9",
+      "component": "combo_piece",
+      "name": "Manifest",
+      "type_line": "Creature",
+      "uri": "https://api.scryfall.com/cards/01104ab1-84e1-4c78-853d-637c6554bdf9"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "6d202752-1655-491f-b3a2-86dbd35fbec8",
+  "set": "pdsk",
+  "set_name": "Duskmourn: House of Horror Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/6d202752-1655-491f-b3a2-86dbd35fbec8",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apdsk&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pdsk?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/76348c05-2a00-40e1-96a8-9af6c12b7e29/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abde67dfb-706b-4942-a365-984ea6e97a2b&unique=prints",
+  "collector_number": "37p",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jana Heidersdorf",
+  "artist_ids": [
+    "5dcf6977-c9ad-4712-bfcf-22d29af88ea2"
+  ],
+  "illustration_id": "8de9a48d-4ef2-4eba-8b27-626d69260412",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 7715,
+  "penny_rank": 1997,
+  "prices": {
+    "usd": "0.41",
+    "usd_foil": "0.73",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DUnidentified%2BHovership",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DUnidentified%2BHovership",
+    "edhrec": "https://edhrec.com/route/?cc=Unidentified+Hovership"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F580736%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Unidentified+Hovership&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Unidentified+Hovership&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

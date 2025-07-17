@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "5fd0809f-11cc-43a4-bb2d-0a0a1b87032c",
+  "oracle_id": "d31fd12f-b4dd-4bc3-ace4-703dabd0f607",
+  "multiverse_ids": [],
+  "tcgplayer_id": 546087,
+  "name": "Aven Interrupter",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/5fd0809f-11cc-43a4-bb2d-0a0a1b87032c",
+  "scryfall_uri": "https://scryfall.com/card/potj/4s/aven-interrupter?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/f/5fd0809f-11cc-43a4-bb2d-0a0a1b87032c.jpg?1714001625",
+    "normal": "https://cards.scryfall.io/normal/front/5/f/5fd0809f-11cc-43a4-bb2d-0a0a1b87032c.jpg?1714001625",
+    "large": "https://cards.scryfall.io/large/front/5/f/5fd0809f-11cc-43a4-bb2d-0a0a1b87032c.jpg?1714001625",
+    "png": "https://cards.scryfall.io/png/front/5/f/5fd0809f-11cc-43a4-bb2d-0a0a1b87032c.png?1714001625",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/f/5fd0809f-11cc-43a4-bb2d-0a0a1b87032c.jpg?1714001625",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/f/5fd0809f-11cc-43a4-bb2d-0a0a1b87032c.jpg?1714001625"
+  },
+  "mana_cost": "{1}{W}{W}",
+  "cmc": 3,
+  "type_line": "Creature — Bird Rogue",
+  "oracle_text": "Flash\nFlying\nWhen this creature enters, exile target spell. It becomes plotted. (Its owner may cast it as a sorcery on a later turn without paying its mana cost.)\nSpells your opponents cast from graveyards or from exile cost {2} more to cast.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "Plot",
+    "Flash"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "5fd0809f-11cc-43a4-bb2d-0a0a1b87032c",
+      "component": "combo_piece",
+      "name": "Aven Interrupter",
+      "type_line": "Creature — Bird Rogue",
+      "uri": "https://api.scryfall.com/cards/5fd0809f-11cc-43a4-bb2d-0a0a1b87032c"
+    },
+    {
+      "object": "related_card",
+      "id": "f07677af-88a4-4ff5-b591-e1e3ac05235d",
+      "component": "combo_piece",
+      "name": "Plot",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/f07677af-88a4-4ff5-b591-e1e3ac05235d"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "efa35c12-8c68-4d9d-9081-f0f57e564ba3",
+  "set": "potj",
+  "set_name": "Outlaws of Thunder Junction Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/efa35c12-8c68-4d9d-9081-f0f57e564ba3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apotj&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/potj?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5fd0809f-11cc-43a4-bb2d-0a0a1b87032c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad31fd12f-b4dd-4bc3-ace4-703dabd0f607&unique=prints",
+  "collector_number": "4s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daniel Romanovsky",
+  "artist_ids": [
+    "878a38c8-617b-4c02-9b93-719c19413490"
+  ],
+  "illustration_id": "c39750c0-d6e7-4cf3-9bf5-6a28f9e47c93",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 2250,
+  "prices": {
+    "usd": null,
+    "usd_foil": "4.96",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAven%2BInterrupter",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAven%2BInterrupter",
+    "edhrec": "https://edhrec.com/route/?cc=Aven+Interrupter"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F546087%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Aven+Interrupter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Aven+Interrupter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

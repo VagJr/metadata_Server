@@ -1,0 +1,175 @@
+{
+  "object": "card",
+  "id": "f51f4c11-abc7-45e8-bcbd-9b8670afba04",
+  "oracle_id": "39593ebf-49ee-4a74-8498-952b43fa5127",
+  "multiverse_ids": [],
+  "tcgplayer_id": 450013,
+  "name": "Bird",
+  "lang": "ja",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/f51f4c11-abc7-45e8-bcbd-9b8670afba04",
+  "scryfall_uri": "https://scryfall.com/card/wdmu/2/ja/bird?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/5/f51f4c11-abc7-45e8-bcbd-9b8670afba04.jpg?1695596160",
+    "normal": "https://cards.scryfall.io/normal/front/f/5/f51f4c11-abc7-45e8-bcbd-9b8670afba04.jpg?1695596160",
+    "large": "https://cards.scryfall.io/large/front/f/5/f51f4c11-abc7-45e8-bcbd-9b8670afba04.jpg?1695596160",
+    "png": "https://cards.scryfall.io/png/front/f/5/f51f4c11-abc7-45e8-bcbd-9b8670afba04.png?1695596160",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/5/f51f4c11-abc7-45e8-bcbd-9b8670afba04.jpg?1695596160",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/5/f51f4c11-abc7-45e8-bcbd-9b8670afba04.jpg?1695596160"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Bird",
+  "oracle_text": "Flying",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "8d6f8d13-1d57-4088-bc99-b2d8fa9001e8",
+      "component": "combo_piece",
+      "name": "Riku of Many Paths",
+      "type_line": "Legendary Creature — Human Wizard",
+      "uri": "https://api.scryfall.com/cards/8d6f8d13-1d57-4088-bc99-b2d8fa9001e8"
+    },
+    {
+      "object": "related_card",
+      "id": "13d6ebc4-7a7e-42c7-85c0-4289bcb92868",
+      "component": "combo_piece",
+      "name": "Fable of Wolf and Owl",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/13d6ebc4-7a7e-42c7-85c0-4289bcb92868"
+    },
+    {
+      "object": "related_card",
+      "id": "f51f4c11-abc7-45e8-bcbd-9b8670afba04",
+      "component": "token",
+      "name": "Bird",
+      "type_line": "Token Creature — Bird",
+      "uri": "https://api.scryfall.com/cards/f51f4c11-abc7-45e8-bcbd-9b8670afba04"
+    },
+    {
+      "object": "related_card",
+      "id": "9b4e9093-f55f-40ad-a594-a43f33198a81",
+      "component": "combo_piece",
+      "name": "The Raven's Warning",
+      "type_line": "Enchantment — Saga",
+      "uri": "https://api.scryfall.com/cards/9b4e9093-f55f-40ad-a594-a43f33198a81"
+    },
+    {
+      "object": "related_card",
+      "id": "1951adbb-f7e2-4ef3-b97c-71e8bc82422b",
+      "component": "combo_piece",
+      "name": "Alrund's Epiphany",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/1951adbb-f7e2-4ef3-b97c-71e8bc82422b"
+    },
+    {
+      "object": "related_card",
+      "id": "acfca223-0871-4bb4-ad15-e92eaa73b3f9",
+      "component": "combo_piece",
+      "name": "Ravenform",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/acfca223-0871-4bb4-ad15-e92eaa73b3f9"
+    },
+    {
+      "object": "related_card",
+      "id": "98cec0b8-183d-4fcc-bb96-0c516dd1b638",
+      "component": "combo_piece",
+      "name": "Ordered Migration",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/98cec0b8-183d-4fcc-bb96-0c516dd1b638"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "b2bb7a14-16a2-4311-ab64-631a0252730c",
+  "set": "wdmu",
+  "set_name": "DMU Japanese Promo Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/b2bb7a14-16a2-4311-ab64-631a0252730c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awdmu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/wdmu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f51f4c11-abc7-45e8-bcbd-9b8670afba04/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A39593ebf-49ee-4a74-8498-952b43fa5127&unique=prints",
+  "collector_number": "2",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ryutei",
+  "artist_ids": [
+    "891af189-4a66-454f-b263-518f37688e73"
+  ],
+  "illustration_id": "bc959605-b6a1-415c-a074-a5295ef29a7e",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": "7.73",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBird",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBird",
+    "edhrec": "https://edhrec.com/route/?cc=Bird"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F450013%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bird&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bird&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

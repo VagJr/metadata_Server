@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "65868ea1-4e80-4871-a93f-66582690869a",
+  "oracle_id": "c3c802ba-dfbb-4f63-ae9a-e29c2e30013d",
+  "multiverse_ids": [
+    573476
+  ],
+  "tcgplayer_etched_id": 277284,
+  "cardmarket_id": 665854,
+  "name": "Jeskai Ascendancy",
+  "lang": "en",
+  "released_at": "2022-07-08",
+  "uri": "https://api.scryfall.com/cards/65868ea1-4e80-4871-a93f-66582690869a",
+  "scryfall_uri": "https://scryfall.com/card/2x2/508/jeskai-ascendancy?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/5/65868ea1-4e80-4871-a93f-66582690869a.jpg?1681411745",
+    "normal": "https://cards.scryfall.io/normal/front/6/5/65868ea1-4e80-4871-a93f-66582690869a.jpg?1681411745",
+    "large": "https://cards.scryfall.io/large/front/6/5/65868ea1-4e80-4871-a93f-66582690869a.jpg?1681411745",
+    "png": "https://cards.scryfall.io/png/front/6/5/65868ea1-4e80-4871-a93f-66582690869a.png?1681411745",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/5/65868ea1-4e80-4871-a93f-66582690869a.jpg?1681411745",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/5/65868ea1-4e80-4871-a93f-66582690869a.jpg?1681411745"
+  },
+  "mana_cost": "{U}{R}{W}",
+  "cmc": 3,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn. Untap those creatures.\nWhenever you cast a noncreature spell, you may draw a card. If you do, discard a card.",
+  "colors": [
+    "R",
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "R",
+    "U",
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": false,
+  "finishes": [
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5a645837-b050-449f-ac90-1e7ccbf45031",
+  "set": "2x2",
+  "set_name": "Double Masters 2022",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/5a645837-b050-449f-ac90-1e7ccbf45031",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A2x2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/2x2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/65868ea1-4e80-4871-a93f-66582690869a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac3c802ba-dfbb-4f63-ae9a-e29c2e30013d&unique=prints",
+  "collector_number": "508",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dan Murayama Scott",
+  "artist_ids": [
+    "f852fa13-137e-40f2-bbc1-0f01df09c0e0"
+  ],
+  "illustration_id": "2588f8f8-64bd-4e88-b558-d8b43d1c63d3",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted",
+    "etched"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 2777,
+  "penny_rank": 1336,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/1512208234",
+    "previewed_at": "2022-06-23"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": "13.72",
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=573476&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJeskai%2BAscendancy",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJeskai%2BAscendancy",
+    "edhrec": "https://edhrec.com/route/?cc=Jeskai+Ascendancy"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DJeskai%2BAscendancy%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=665854&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jeskai+Ascendancy&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

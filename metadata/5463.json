@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "0c8f362c-f035-48b3-8e74-ef23240b44f7",
+  "oracle_id": "7777fab1-df3f-467f-b9e2-46dd2bd2166e",
+  "multiverse_ids": [
+    495662
+  ],
+  "tcgplayer_id": 222158,
+  "cardmarket_id": 496670,
+  "name": "Forsaken Monument",
+  "lang": "en",
+  "released_at": "2020-09-25",
+  "uri": "https://api.scryfall.com/cards/0c8f362c-f035-48b3-8e74-ef23240b44f7",
+  "scryfall_uri": "https://scryfall.com/card/znr/374/forsaken-monument?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/c/0c8f362c-f035-48b3-8e74-ef23240b44f7.jpg?1609007115",
+    "normal": "https://cards.scryfall.io/normal/front/0/c/0c8f362c-f035-48b3-8e74-ef23240b44f7.jpg?1609007115",
+    "large": "https://cards.scryfall.io/large/front/0/c/0c8f362c-f035-48b3-8e74-ef23240b44f7.jpg?1609007115",
+    "png": "https://cards.scryfall.io/png/front/0/c/0c8f362c-f035-48b3-8e74-ef23240b44f7.png?1609007115",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/c/0c8f362c-f035-48b3-8e74-ef23240b44f7.jpg?1609007115",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/c/0c8f362c-f035-48b3-8e74-ef23240b44f7.jpg?1609007115"
+  },
+  "mana_cost": "{5}",
+  "cmc": 5,
+  "type_line": "Legendary Artifact",
+  "oracle_text": "Colorless creatures you control get +2/+2.\nWhenever you tap a permanent for {C}, add an additional {C}.\nWhenever you cast a colorless spell, you gain 2 life.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "f4e01fa7-b254-42dd-849f-69b58027a8c4",
+  "set": "znr",
+  "set_name": "Zendikar Rising",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/f4e01fa7-b254-42dd-849f-69b58027a8c4",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aznr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/znr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0c8f362c-f035-48b3-8e74-ef23240b44f7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7777fab1-df3f-467f-b9e2-46dd2bd2166e&unique=prints",
+  "collector_number": "374",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Piotr Dura",
+  "artist_ids": [
+    "aff176e8-1d15-432e-ad1d-207a474decba"
+  ],
+  "illustration_id": "6fb93d53-5faf-4fe3-9cf5-37a071bc3cb8",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 813,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/making-magic/zendikar-rising-challenge-part-2-2020-09-07",
+    "previewed_at": "2020-09-08"
+  },
+  "prices": {
+    "usd": "7.69",
+    "usd_foil": "11.44",
+    "usd_etched": null,
+    "eur": "6.88",
+    "eur_foil": "9.76",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495662&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DForsaken%2BMonument",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DForsaken%2BMonument",
+    "edhrec": "https://edhrec.com/route/?cc=Forsaken+Monument"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F222158%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=496670&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Forsaken+Monument&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "f22e1a12-9917-4921-a957-83ead96c9b9f",
+  "oracle_id": "cda93cf5-da51-4117-b461-f4448aa2d16c",
+  "multiverse_ids": [],
+  "tcgplayer_id": 189583,
+  "cardmarket_id": 373413,
+  "name": "Teyo, the Shieldmage",
+  "printed_name": "盾魔道士、テヨ",
+  "lang": "ja",
+  "released_at": "2019-05-03",
+  "uri": "https://api.scryfall.com/cards/f22e1a12-9917-4921-a957-83ead96c9b9f",
+  "scryfall_uri": "https://scryfall.com/card/pwar/32s%E2%98%85/ja/%E7%9B%BE%E9%AD%94%E9%81%93%E5%A3%AB%E3%80%81%E3%83%86%E3%83%A8-(teyo-the-shieldmage)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/2/f22e1a12-9917-4921-a957-83ead96c9b9f.jpg?1593867195",
+    "normal": "https://cards.scryfall.io/normal/front/f/2/f22e1a12-9917-4921-a957-83ead96c9b9f.jpg?1593867195",
+    "large": "https://cards.scryfall.io/large/front/f/2/f22e1a12-9917-4921-a957-83ead96c9b9f.jpg?1593867195",
+    "png": "https://cards.scryfall.io/png/front/f/2/f22e1a12-9917-4921-a957-83ead96c9b9f.png?1593867195",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/2/f22e1a12-9917-4921-a957-83ead96c9b9f.jpg?1593867195",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/2/f22e1a12-9917-4921-a957-83ead96c9b9f.jpg?1593867195"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Legendary Planeswalker — Teyo",
+  "printed_type_line": "伝説のプレインズウォーカー — テヨ",
+  "oracle_text": "You have hexproof. (You can't be the target of spells or abilities your opponents control.)\n−2: Create a 0/3 white Wall creature token with defender.",
+  "printed_text": "あなたは呪禁を持つ。（あなたは対戦相手がコントロールしている呪文や能力の対象にならない。）\n-2：防衛を持つ白の０/３の壁・クリーチャー・トークンを１体生成する。",
+  "loyalty": "5",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9981777b-983e-4f17-b9b1-fe32cf243e23",
+  "set": "pwar",
+  "set_name": "War of the Spark Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/9981777b-983e-4f17-b9b1-fe32cf243e23",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwar&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pwar?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f22e1a12-9917-4921-a957-83ead96c9b9f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acda93cf5-da51-4117-b461-f4448aa2d16c&unique=prints",
+  "collector_number": "32s★",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Foo Midori",
+  "artist_ids": [
+    "bc054b7a-0cd4-43c5-956f-9e1a21fa9eed"
+  ],
+  "illustration_id": "ec274268-eedd-4476-8eef-15600b354c8f",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped",
+    "jpwalker"
+  ],
+  "edhrec_rank": 7768,
+  "penny_rank": 1189,
+  "prices": {
+    "usd": null,
+    "usd_foil": "8.74",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "17.10",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTeyo%252C%2Bthe%2BShieldmage",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTeyo%252C%2Bthe%2BShieldmage",
+    "edhrec": "https://edhrec.com/route/?cc=Teyo%2C+the+Shieldmage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F189583%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=373413&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Teyo%2C+the+Shieldmage&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

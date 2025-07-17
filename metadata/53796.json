@@ -1,0 +1,138 @@
+{
+  "object": "card",
+  "id": "7f613db0-3303-4d54-a060-1bd8b37a208f",
+  "oracle_id": "55b6434b-1542-40fd-b12a-697d40976582",
+  "multiverse_ids": [
+    615965
+  ],
+  "mtgo_id": 109090,
+  "tcgplayer_id": 495768,
+  "cardmarket_id": 710541,
+  "name": "Ob Nixilis, Captive Kingpin",
+  "lang": "en",
+  "released_at": "2023-05-12",
+  "uri": "https://api.scryfall.com/cards/7f613db0-3303-4d54-a060-1bd8b37a208f",
+  "scryfall_uri": "https://scryfall.com/card/mat/176/ob-nixilis-captive-kingpin?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/f/7f613db0-3303-4d54-a060-1bd8b37a208f.jpg?1684342015",
+    "normal": "https://cards.scryfall.io/normal/front/7/f/7f613db0-3303-4d54-a060-1bd8b37a208f.jpg?1684342015",
+    "large": "https://cards.scryfall.io/large/front/7/f/7f613db0-3303-4d54-a060-1bd8b37a208f.jpg?1684342015",
+    "png": "https://cards.scryfall.io/png/front/7/f/7f613db0-3303-4d54-a060-1bd8b37a208f.png?1684342015",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/f/7f613db0-3303-4d54-a060-1bd8b37a208f.jpg?1684342015",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/f/7f613db0-3303-4d54-a060-1bd8b37a208f.jpg?1684342015"
+  },
+  "mana_cost": "{2}{B}{R}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Demon",
+  "oracle_text": "Flying, trample\nWhenever one or more opponents each lose exactly 1 life, put a +1/+1 counter on Ob Nixilis. Exile the top card of your library. Until your next end step, you may play that card.",
+  "power": "4",
+  "toughness": "3",
+  "colors": [
+    "B",
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [
+    "Flying",
+    "Trample"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "6727e43d-31b6-45b0-ae05-7a811ba72f70",
+  "set": "mat",
+  "set_name": "March of the Machine: The Aftermath",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/6727e43d-31b6-45b0-ae05-7a811ba72f70",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amat&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mat?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7f613db0-3303-4d54-a060-1bd8b37a208f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A55b6434b-1542-40fd-b12a-697d40976582&unique=prints",
+  "collector_number": "176",
+  "digital": false,
+  "rarity": "mythic",
+  "watermark": "desparked",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Zezhou Chen",
+  "artist_ids": [
+    "810677e5-a502-4c03-b726-78cd808a75d4"
+  ],
+  "illustration_id": "085783f4-b0a9-4b32-853f-a6b9b42deddd",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 4081,
+  "prices": {
+    "usd": "9.89",
+    "usd_foil": "14.28",
+    "usd_etched": null,
+    "eur": "14.39",
+    "eur_foil": "17.69",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=615965&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOb%2BNixilis%252C%2BCaptive%2BKingpin",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOb%2BNixilis%252C%2BCaptive%2BKingpin",
+    "edhrec": "https://edhrec.com/route/?cc=Ob+Nixilis%2C+Captive+Kingpin"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F495768%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=710541&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/109090?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

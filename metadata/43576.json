@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "66d75499-1be8-42a0-8520-9cd8adbd0ca3",
+  "oracle_id": "24591330-d038-478f-b89d-b7b66c0b5cc3",
+  "multiverse_ids": [
+    558073
+  ],
+  "arena_id": 80450,
+  "tcgplayer_id": 268419,
+  "cardmarket_id": 651275,
+  "name": "Elspeth Resplendent",
+  "lang": "en",
+  "released_at": "2022-04-29",
+  "uri": "https://api.scryfall.com/cards/66d75499-1be8-42a0-8520-9cd8adbd0ca3",
+  "scryfall_uri": "https://scryfall.com/card/snc/282/elspeth-resplendent?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/6/66d75499-1be8-42a0-8520-9cd8adbd0ca3.jpg?1664503116",
+    "normal": "https://cards.scryfall.io/normal/front/6/6/66d75499-1be8-42a0-8520-9cd8adbd0ca3.jpg?1664503116",
+    "large": "https://cards.scryfall.io/large/front/6/6/66d75499-1be8-42a0-8520-9cd8adbd0ca3.jpg?1664503116",
+    "png": "https://cards.scryfall.io/png/front/6/6/66d75499-1be8-42a0-8520-9cd8adbd0ca3.png?1664503116",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/6/66d75499-1be8-42a0-8520-9cd8adbd0ca3.jpg?1664503116",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/6/66d75499-1be8-42a0-8520-9cd8adbd0ca3.jpg?1664503116"
+  },
+  "mana_cost": "{3}{W}{W}",
+  "cmc": 5,
+  "type_line": "Legendary Planeswalker — Elspeth",
+  "oracle_text": "+1: Choose up to one target creature. Put a +1/+1 counter and a counter from among flying, first strike, lifelink, or vigilance on it.\n−3: Look at the top seven cards of your library. You may put a permanent card with mana value 3 or less from among them onto the battlefield with a shield counter on it. Put the rest on the bottom of your library in a random order.\n−7: Create five 3/3 white Angel creature tokens with flying.",
+  "loyalty": "5",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "23b14a07-7cbf-48b4-91b1-af93837adbf3",
+      "component": "combo_piece",
+      "name": "Elspeth Resplendent",
+      "type_line": "Legendary Planeswalker — Elspeth",
+      "uri": "https://api.scryfall.com/cards/23b14a07-7cbf-48b4-91b1-af93837adbf3"
+    },
+    {
+      "object": "related_card",
+      "id": "39bae778-0dee-47d5-a7cd-f2be11b5e79b",
+      "component": "token",
+      "name": "Angel",
+      "type_line": "Token Creature — Angel",
+      "uri": "https://api.scryfall.com/cards/39bae778-0dee-47d5-a7cd-f2be11b5e79b"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+  "set": "snc",
+  "set_name": "Streets of New Capenna",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/66d75499-1be8-42a0-8520-9cd8adbd0ca3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A24591330-d038-478f-b89d-b7b66c0b5cc3&unique=prints",
+  "collector_number": "282",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tom Roberts",
+  "artist_ids": [
+    "259c91f3-9896-42c5-bd4a-0f538bbeb285"
+  ],
+  "illustration_id": "85c11c91-6d0e-42a0-a244-c5f1c29bab03",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 4380,
+  "penny_rank": 2189,
+  "prices": {
+    "usd": "4.70",
+    "usd_foil": "9.16",
+    "usd_etched": null,
+    "eur": "4.05",
+    "eur_foil": "7.10",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=558073&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DElspeth%2BResplendent",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DElspeth%2BResplendent",
+    "edhrec": "https://edhrec.com/route/?cc=Elspeth+Resplendent"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268419%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=651275&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Elspeth+Resplendent&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "ea37a906-2f9b-4eb1-97be-134c280ba43e",
+  "oracle_id": "70dc830e-d05b-4fc7-88dd-879e140b3fbf",
+  "multiverse_ids": [
+    692264
+  ],
+  "mtgo_id": 137245,
+  "tcgplayer_id": 615155,
+  "cardmarket_id": 807941,
+  "name": "Reality Shift",
+  "lang": "en",
+  "released_at": "2025-02-14",
+  "uri": "https://api.scryfall.com/cards/ea37a906-2f9b-4eb1-97be-134c280ba43e",
+  "scryfall_uri": "https://scryfall.com/card/drc/39/reality-shift?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/a/ea37a906-2f9b-4eb1-97be-134c280ba43e.jpg?1738355484",
+    "normal": "https://cards.scryfall.io/normal/front/e/a/ea37a906-2f9b-4eb1-97be-134c280ba43e.jpg?1738355484",
+    "large": "https://cards.scryfall.io/large/front/e/a/ea37a906-2f9b-4eb1-97be-134c280ba43e.jpg?1738355484",
+    "png": "https://cards.scryfall.io/png/front/e/a/ea37a906-2f9b-4eb1-97be-134c280ba43e.png?1738355484",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/a/ea37a906-2f9b-4eb1-97be-134c280ba43e.jpg?1738355484",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/a/ea37a906-2f9b-4eb1-97be-134c280ba43e.jpg?1738355484"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Exile target creature. Its controller manifests the top card of their library. (That player puts the top card of their library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.)",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Manifest"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "ea37a906-2f9b-4eb1-97be-134c280ba43e",
+      "component": "combo_piece",
+      "name": "Reality Shift",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/ea37a906-2f9b-4eb1-97be-134c280ba43e"
+    },
+    {
+      "object": "related_card",
+      "id": "e3088dea-11fd-403b-aaf4-56852283ba3d",
+      "component": "combo_piece",
+      "name": "Manifest",
+      "type_line": "Creature",
+      "uri": "https://api.scryfall.com/cards/e3088dea-11fd-403b-aaf4-56852283ba3d"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d33ef7a4-41bb-4f16-bad3-b3ee13c257e6",
+  "set": "drc",
+  "set_name": "Aetherdrift Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d33ef7a4-41bb-4f16-bad3-b3ee13c257e6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/drc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ea37a906-2f9b-4eb1-97be-134c280ba43e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A70dc830e-d05b-4fc7-88dd-879e140b3fbf&unique=prints",
+  "collector_number": "39",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Forget the expected. Embrace the unpredictable.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Villarrte",
+  "artist_ids": [
+    "86e7f7ce-7a21-4f2d-9edd-28fa2a8d988b"
+  ],
+  "illustration_id": "118330c1-98af-4049-8fd2-c7cec547df46",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 246,
+  "penny_rank": 4622,
+  "preview": {
+    "source": "The Command Zone",
+    "source_uri": "https://www.youtube.com/watch?v=km1f1W0Tl6k",
+    "previewed_at": "2025-01-23"
+  },
+  "prices": {
+    "usd": "0.25",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.31",
+    "eur_foil": null,
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=692264&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DReality%2BShift",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DReality%2BShift",
+    "edhrec": "https://edhrec.com/route/?cc=Reality+Shift"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F615155%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=807941&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/137245?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

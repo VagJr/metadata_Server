@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "70d1af08-f4e6-4030-8ebe-30d9d706b114",
+  "oracle_id": "c75e55f2-fd6c-4816-9d96-21eeb8369aff",
+  "multiverse_ids": [
+    547726
+  ],
+  "arena_id": 74075,
+  "name": "The Scarab God",
+  "lang": "en",
+  "released_at": "2020-08-13",
+  "uri": "https://api.scryfall.com/cards/70d1af08-f4e6-4030-8ebe-30d9d706b114",
+  "scryfall_uri": "https://scryfall.com/card/akr/259/the-scarab-god?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/0/70d1af08-f4e6-4030-8ebe-30d9d706b114.jpg?1597251849",
+    "normal": "https://cards.scryfall.io/normal/front/7/0/70d1af08-f4e6-4030-8ebe-30d9d706b114.jpg?1597251849",
+    "large": "https://cards.scryfall.io/large/front/7/0/70d1af08-f4e6-4030-8ebe-30d9d706b114.jpg?1597251849",
+    "png": "https://cards.scryfall.io/png/front/7/0/70d1af08-f4e6-4030-8ebe-30d9d706b114.png?1597251849",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/0/70d1af08-f4e6-4030-8ebe-30d9d706b114.jpg?1597251849",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/0/70d1af08-f4e6-4030-8ebe-30d9d706b114.jpg?1597251849"
+  },
+  "mana_cost": "{3}{U}{B}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — God",
+  "oracle_text": "At the beginning of your upkeep, each opponent loses X life and you scry X, where X is the number of Zombies you control.\n{2}{U}{B}: Exile target creature card from a graveyard. Create a token that's a copy of it, except it's a 4/4 black Zombie.\nWhen The Scarab God dies, return it to its owner's hand at the beginning of the next end step.",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "B",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [
+    "Scry"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "09d6521e-438a-4d16-992f-f2ab27b26ce4",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/09d6521e-438a-4d16-992f-f2ab27b26ce4"
+    },
+    {
+      "object": "related_card",
+      "id": "70d1af08-f4e6-4030-8ebe-30d9d706b114",
+      "component": "combo_piece",
+      "name": "The Scarab God",
+      "type_line": "Legendary Creature — God",
+      "uri": "https://api.scryfall.com/cards/70d1af08-f4e6-4030-8ebe-30d9d706b114"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "915dabb1-b82a-432d-939d-d9b128e65582",
+  "set": "akr",
+  "set_name": "Amonkhet Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/915dabb1-b82a-432d-939d-d9b128e65582",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aakr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/akr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/70d1af08-f4e6-4030-8ebe-30d9d706b114/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac75e55f2-fd6c-4816-9d96-21eeb8369aff&unique=prints",
+  "collector_number": "259",
+  "digital": true,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lius Lasahido",
+  "artist_ids": [
+    "0a0e9093-ce44-4a69-93a7-09b63e7c330d"
+  ],
+  "illustration_id": "21600ba2-0d50-4e68-a33e-522d240be5fd",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1635,
+  "penny_rank": 2344,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=547726&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThe%2BScarab%2BGod",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThe%2BScarab%2BGod",
+    "edhrec": "https://edhrec.com/route/?cc=The+Scarab+God"
+  }
+}

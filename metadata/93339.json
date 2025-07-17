@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "dc58957e-dbf0-40ac-9ec4-05fea0c61880",
+  "oracle_id": "ebd2d760-5ad8-4027-b124-171822f3edfe",
+  "multiverse_ids": [],
+  "mtgo_id": 99603,
+  "arena_id": 77581,
+  "tcgplayer_id": 235516,
+  "tcgplayer_etched_id": 235515,
+  "cardmarket_id": 557112,
+  "name": "Grapeshot",
+  "printed_name": "ぶどう弾",
+  "lang": "ja",
+  "released_at": "2021-04-23",
+  "uri": "https://api.scryfall.com/cards/dc58957e-dbf0-40ac-9ec4-05fea0c61880",
+  "scryfall_uri": "https://scryfall.com/card/sta/102/ja/%E3%81%B6%E3%81%A9%E3%81%86%E5%BC%BE-(grapeshot)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/c/dc58957e-dbf0-40ac-9ec4-05fea0c61880.jpg?1638109476",
+    "normal": "https://cards.scryfall.io/normal/front/d/c/dc58957e-dbf0-40ac-9ec4-05fea0c61880.jpg?1638109476",
+    "large": "https://cards.scryfall.io/large/front/d/c/dc58957e-dbf0-40ac-9ec4-05fea0c61880.jpg?1638109476",
+    "png": "https://cards.scryfall.io/png/front/d/c/dc58957e-dbf0-40ac-9ec4-05fea0c61880.png?1638109476",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/c/dc58957e-dbf0-40ac-9ec4-05fea0c61880.jpg?1638109476",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/c/dc58957e-dbf0-40ac-9ec4-05fea0c61880.jpg?1638109476"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "printed_type_line": "ソーサリー",
+  "oracle_text": "Grapeshot deals 1 damage to any target.\nStorm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",
+  "printed_text": "クリーチャー１体かプレインズウォーカー１体かプレイヤー１人を対象とする。ぶどう弾はそれに１点のダメージを与える。\nストーム（あなたがこの呪文を唱えたとき、これを、このターンにこれより前に唱えられた呪文の数と同じ回数コピーする。あなたはそれらのコピーの新しい対象を選んでもよい。）",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Storm"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "banned",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil",
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5064a720-907f-4cb6-a425-766dc1dd7374",
+  "set": "sta",
+  "set_name": "Strixhaven Mystical Archive",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/5064a720-907f-4cb6-a425-766dc1dd7374",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asta&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sta?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/dc58957e-dbf0-40ac-9ec4-05fea0c61880/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aebd2d760-5ad8-4027-b124-171822f3edfe&unique=prints",
+  "collector_number": "102",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Hatori Kyoka",
+  "artist_ids": [
+    "8d629fed-b22d-48fd-908b-82153ff7be37"
+  ],
+  "illustration_id": "a4d25fe1-243f-4a3e-a54b-bce62e9dfff1",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 718,
+  "penny_rank": 1618,
+  "prices": {
+    "usd": "12.15",
+    "usd_foil": "22.29",
+    "usd_etched": "14.21",
+    "eur": "11.51",
+    "eur_foil": "25.27",
+    "tix": "7.95"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGrapeshot",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGrapeshot",
+    "edhrec": "https://edhrec.com/route/?cc=Grapeshot"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F235516%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=557112&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/99603?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

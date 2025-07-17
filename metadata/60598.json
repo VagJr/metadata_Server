@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "8f4f2e7f-3ce9-475e-b854-1560d5a9a8e8",
+  "oracle_id": "9609cd5c-b537-4cb2-9dde-4b12795531f7",
+  "multiverse_ids": [
+    616497
+  ],
+  "mtgo_id": 108870,
+  "tcgplayer_id": 495726,
+  "name": "Blot Out",
+  "lang": "en",
+  "released_at": "2023-05-12",
+  "uri": "https://api.scryfall.com/cards/8f4f2e7f-3ce9-475e-b854-1560d5a9a8e8",
+  "scryfall_uri": "https://scryfall.com/card/mat/62/blot-out?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/f/8f4f2e7f-3ce9-475e-b854-1560d5a9a8e8.jpg?1684340980",
+    "normal": "https://cards.scryfall.io/normal/front/8/f/8f4f2e7f-3ce9-475e-b854-1560d5a9a8e8.jpg?1684340980",
+    "large": "https://cards.scryfall.io/large/front/8/f/8f4f2e7f-3ce9-475e-b854-1560d5a9a8e8.jpg?1684340980",
+    "png": "https://cards.scryfall.io/png/front/8/f/8f4f2e7f-3ce9-475e-b854-1560d5a9a8e8.png?1684340980",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/f/8f4f2e7f-3ce9-475e-b854-1560d5a9a8e8.jpg?1684340980",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/f/8f4f2e7f-3ce9-475e-b854-1560d5a9a8e8.jpg?1684340980"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3,
+  "type_line": "Instant",
+  "oracle_text": "Target opponent exiles a creature or planeswalker they control with the greatest mana value among creatures and planeswalkers they control.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "6727e43d-31b6-45b0-ae05-7a811ba72f70",
+  "set": "mat",
+  "set_name": "March of the Machine: The Aftermath",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/6727e43d-31b6-45b0-ae05-7a811ba72f70",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amat&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mat?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8f4f2e7f-3ce9-475e-b854-1560d5a9a8e8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9609cd5c-b537-4cb2-9dde-4b12795531f7&unique=prints",
+  "collector_number": "62",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Koji Nishino",
+  "artist_ids": [
+    "4b599f21-c40d-4541-928e-1ccec4897bf8"
+  ],
+  "illustration_id": "d5a407ce-65b6-4fc5-9356-1f44db60c91d",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 11486,
+  "prices": {
+    "usd": "0.18",
+    "usd_foil": "0.14",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.84"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=616497&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlot%2BOut",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlot%2BOut",
+    "edhrec": "https://edhrec.com/route/?cc=Blot+Out"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F495726%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blot+Out&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/108870?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

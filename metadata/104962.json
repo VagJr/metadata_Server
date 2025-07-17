@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "f8095ca6-2f5f-497f-8b78-7e530ac31d22",
+  "oracle_id": "705509e9-a034-4a5a-9c65-66f58748b8a2",
+  "multiverse_ids": [
+    496007
+  ],
+  "tcgplayer_id": 222637,
+  "cardmarket_id": 504320,
+  "name": "Harrow",
+  "lang": "en",
+  "released_at": "2020-09-25",
+  "uri": "https://api.scryfall.com/cards/f8095ca6-2f5f-497f-8b78-7e530ac31d22",
+  "scryfall_uri": "https://scryfall.com/card/znc/69/harrow?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/8/f8095ca6-2f5f-497f-8b78-7e530ac31d22.jpg?1604194124",
+    "normal": "https://cards.scryfall.io/normal/front/f/8/f8095ca6-2f5f-497f-8b78-7e530ac31d22.jpg?1604194124",
+    "large": "https://cards.scryfall.io/large/front/f/8/f8095ca6-2f5f-497f-8b78-7e530ac31d22.jpg?1604194124",
+    "png": "https://cards.scryfall.io/png/front/f/8/f8095ca6-2f5f-497f-8b78-7e530ac31d22.png?1604194124",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/8/f8095ca6-2f5f-497f-8b78-7e530ac31d22.jpg?1604194124",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/8/f8095ca6-2f5f-497f-8b78-7e530ac31d22.jpg?1604194124"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Instant",
+  "oracle_text": "As an additional cost to cast this spell, sacrifice a land.\nSearch your library for up to two basic land cards, put them onto the battlefield, then shuffle.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "25c6bd9b-4e10-40a4-b9b5-0f4d9b5852a1",
+  "set": "znc",
+  "set_name": "Zendikar Rising Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/25c6bd9b-4e10-40a4-b9b5-0f4d9b5852a1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aznc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/znc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f8095ca6-2f5f-497f-8b78-7e530ac31d22/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A705509e9-a034-4a5a-9c65-66f58748b8a2&unique=prints",
+  "collector_number": "69",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "The Roil redraws the world as it passes, leaving only the hedrons unchanged.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Izzy",
+  "artist_ids": [
+    "2c3d2473-ff5d-4309-8194-e0b2def2ab65"
+  ],
+  "illustration_id": "1548bfc3-9018-4a5a-aa0b-fab06ea53d33",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 249,
+  "penny_rank": 2692,
+  "prices": {
+    "usd": "0.35",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.33",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=496007&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHarrow",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHarrow",
+    "edhrec": "https://edhrec.com/route/?cc=Harrow"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F222637%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=504320&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Harrow&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

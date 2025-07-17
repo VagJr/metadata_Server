@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "1ed2953c-31fc-42d0-81c2-069b642032f6",
+  "oracle_id": "d3438037-3efd-4ce0-88ec-6d48ab521992",
+  "multiverse_ids": [],
+  "mtgo_id": 105802,
+  "name": "Mishra, Eminent One",
+  "lang": "en",
+  "released_at": "2023-02-07",
+  "uri": "https://api.scryfall.com/cards/1ed2953c-31fc-42d0-81c2-069b642032f6",
+  "scryfall_uri": "https://scryfall.com/card/prm/105802/mishra-eminent-one?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/e/1ed2953c-31fc-42d0-81c2-069b642032f6.jpg?1681141603",
+    "normal": "https://cards.scryfall.io/normal/front/1/e/1ed2953c-31fc-42d0-81c2-069b642032f6.jpg?1681141603",
+    "large": "https://cards.scryfall.io/large/front/1/e/1ed2953c-31fc-42d0-81c2-069b642032f6.jpg?1681141603",
+    "png": "https://cards.scryfall.io/png/front/1/e/1ed2953c-31fc-42d0-81c2-069b642032f6.png?1681141603",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/e/1ed2953c-31fc-42d0-81c2-069b642032f6.jpg?1681141603",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/e/1ed2953c-31fc-42d0-81c2-069b642032f6.jpg?1681141603"
+  },
+  "mana_cost": "{2}{U}{B}{R}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Human Artificer",
+  "oracle_text": "At the beginning of combat on your turn, create a token that's a copy of target noncreature artifact you control, except its name is Mishra's Warform and it's a 4/4 Construct artifact creature in addition to its other types. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.",
+  "power": "5",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "R",
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "287ccbc9-2ffa-4fb3-97d8-2bd469c9411a",
+      "component": "token",
+      "name": "Mishra's Warform",
+      "type_line": "Token Artifact Creature — Construct",
+      "uri": "https://api.scryfall.com/cards/287ccbc9-2ffa-4fb3-97d8-2bd469c9411a"
+    },
+    {
+      "object": "related_card",
+      "id": "e7c5218e-2bfe-4e82-bb08-619452d20b4b",
+      "component": "combo_piece",
+      "name": "Mishra, Eminent One",
+      "type_line": "Legendary Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/e7c5218e-2bfe-4e82-bb08-619452d20b4b"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1ed2953c-31fc-42d0-81c2-069b642032f6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad3438037-3efd-4ce0-88ec-6d48ab521992&unique=prints",
+  "collector_number": "105802",
+  "digital": true,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Randy Vargas",
+  "artist_ids": [
+    "d20672ca-0555-4238-a984-fd171d36b247"
+  ],
+  "illustration_id": "32fdf529-bf61-4c4b-9253-d8ad1c70d8c7",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 7863,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.36"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMishra%252C%2BEminent%2BOne",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMishra%252C%2BEminent%2BOne",
+    "edhrec": "https://edhrec.com/route/?cc=Mishra%2C+Eminent+One"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DMishra%252C%2BEminent%2BOne%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mishra%2C+Eminent+One&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/105802?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

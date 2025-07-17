@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "ab25853c-29d3-4244-88db-813300a262a5",
+  "oracle_id": "dcd4da46-5438-4454-8b1b-43ca51bda1f9",
+  "multiverse_ids": [
+    482746
+  ],
+  "tcgplayer_id": 212410,
+  "cardmarket_id": 453768,
+  "name": "Murmuring Mystic",
+  "lang": "en",
+  "released_at": "2020-04-17",
+  "uri": "https://api.scryfall.com/cards/ab25853c-29d3-4244-88db-813300a262a5",
+  "scryfall_uri": "https://scryfall.com/card/c20/118/murmuring-mystic?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/b/ab25853c-29d3-4244-88db-813300a262a5.jpg?1591320303",
+    "normal": "https://cards.scryfall.io/normal/front/a/b/ab25853c-29d3-4244-88db-813300a262a5.jpg?1591320303",
+    "large": "https://cards.scryfall.io/large/front/a/b/ab25853c-29d3-4244-88db-813300a262a5.jpg?1591320303",
+    "png": "https://cards.scryfall.io/png/front/a/b/ab25853c-29d3-4244-88db-813300a262a5.png?1591320303",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/b/ab25853c-29d3-4244-88db-813300a262a5.jpg?1591320303",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/b/ab25853c-29d3-4244-88db-813300a262a5.jpg?1591320303"
+  },
+  "mana_cost": "{3}{U}",
+  "cmc": 4,
+  "type_line": "Creature — Human Wizard",
+  "oracle_text": "Whenever you cast an instant or sorcery spell, create a 1/1 blue Bird Illusion creature token with flying.",
+  "power": "1",
+  "toughness": "5",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "0fd60456-70aa-49ae-a0a7-2c50cb085223",
+      "component": "token",
+      "name": "Bird Illusion",
+      "type_line": "Token Creature — Bird Illusion",
+      "uri": "https://api.scryfall.com/cards/0fd60456-70aa-49ae-a0a7-2c50cb085223"
+    },
+    {
+      "object": "related_card",
+      "id": "ab25853c-29d3-4244-88db-813300a262a5",
+      "component": "combo_piece",
+      "name": "Murmuring Mystic",
+      "type_line": "Creature — Human Wizard",
+      "uri": "https://api.scryfall.com/cards/ab25853c-29d3-4244-88db-813300a262a5"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "f60ec786-1f8d-42f7-9abc-0d880fe243f6",
+  "set": "c20",
+  "set_name": "Commander 2020",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/f60ec786-1f8d-42f7-9abc-0d880fe243f6",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac20&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/c20?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ab25853c-29d3-4244-88db-813300a262a5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adcd4da46-5438-4454-8b1b-43ca51bda1f9&unique=prints",
+  "collector_number": "118",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Rumors float through the city like crows, alighting on citizens seemingly at random.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mark Winters",
+  "artist_ids": [
+    "3d8a379d-f4e8-440d-99d5-5ec107757348"
+  ],
+  "illustration_id": "c4773a04-1364-4dd6-a62b-07da23a61a35",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1396,
+  "penny_rank": 1534,
+  "prices": {
+    "usd": "0.26",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.39",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=482746&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMurmuring%2BMystic",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMurmuring%2BMystic",
+    "edhrec": "https://edhrec.com/route/?cc=Murmuring+Mystic"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F212410%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=453768&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Murmuring+Mystic&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

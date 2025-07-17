@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "112ed3f7-76b3-4ee3-a2e6-44a974702ce5",
+  "oracle_id": "f1eb489d-104c-4801-b6d2-3f1a7ee73a75",
+  "multiverse_ids": [],
+  "tcgplayer_id": 263981,
+  "cardmarket_id": 609427,
+  "name": "Mechtitan Core",
+  "lang": "en",
+  "released_at": "2022-02-18",
+  "uri": "https://api.scryfall.com/cards/112ed3f7-76b3-4ee3-a2e6-44a974702ce5",
+  "scryfall_uri": "https://scryfall.com/card/pneo/249p/mechtitan-core?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/1/112ed3f7-76b3-4ee3-a2e6-44a974702ce5.jpg?1675617110",
+    "normal": "https://cards.scryfall.io/normal/front/1/1/112ed3f7-76b3-4ee3-a2e6-44a974702ce5.jpg?1675617110",
+    "large": "https://cards.scryfall.io/large/front/1/1/112ed3f7-76b3-4ee3-a2e6-44a974702ce5.jpg?1675617110",
+    "png": "https://cards.scryfall.io/png/front/1/1/112ed3f7-76b3-4ee3-a2e6-44a974702ce5.png?1675617110",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/1/112ed3f7-76b3-4ee3-a2e6-44a974702ce5.jpg?1675617110",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/1/112ed3f7-76b3-4ee3-a2e6-44a974702ce5.jpg?1675617110"
+  },
+  "mana_cost": "{2}",
+  "cmc": 2,
+  "type_line": "Artifact — Vehicle",
+  "oracle_text": "{5}, Exile this Vehicle and four other artifact creatures and/or Vehicles you control: Create Mechtitan, a legendary 10/10 Construct artifact creature token with flying, vigilance, trample, lifelink, and haste that's all colors. When that token leaves the battlefield, return all cards exiled with this Vehicle except this card to the battlefield tapped under their owners' control.\nCrew 2",
+  "power": "2",
+  "toughness": "4",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Crew"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "0281825d-9d38-4b56-b522-a8d3cf8c77c9",
+      "component": "token",
+      "name": "Mechtitan",
+      "type_line": "Token Legendary Artifact Creature — Construct",
+      "uri": "https://api.scryfall.com/cards/0281825d-9d38-4b56-b522-a8d3cf8c77c9"
+    },
+    {
+      "object": "related_card",
+      "id": "9e1416a3-bf20-4ed8-81d2-9bc4e1e384c7",
+      "component": "combo_piece",
+      "name": "Mechtitan Core",
+      "type_line": "Artifact — Vehicle",
+      "uri": "https://api.scryfall.com/cards/9e1416a3-bf20-4ed8-81d2-9bc4e1e384c7"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "b3161020-d74f-48cc-bc9d-d7233e64e524",
+  "set": "pneo",
+  "set_name": "Kamigawa: Neon Dynasty Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/b3161020-d74f-48cc-bc9d-d7233e64e524",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apneo&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pneo?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/112ed3f7-76b3-4ee3-a2e6-44a974702ce5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af1eb489d-104c-4801-b6d2-3f1a7ee73a75&unique=prints",
+  "collector_number": "249p",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Victor Adame Minguez",
+  "artist_ids": [
+    "bd8f7368-5b10-4554-b6b8-d052c6aca89f"
+  ],
+  "illustration_id": "ff52b6c8-f841-455d-920b-69d6f108cdbd",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 3818,
+  "penny_rank": 9224,
+  "prices": {
+    "usd": "0.97",
+    "usd_foil": "1.20",
+    "usd_etched": null,
+    "eur": "0.26",
+    "eur_foil": "0.44",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMechtitan%2BCore",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMechtitan%2BCore",
+    "edhrec": "https://edhrec.com/route/?cc=Mechtitan+Core"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F263981%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=609427&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mechtitan+Core&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

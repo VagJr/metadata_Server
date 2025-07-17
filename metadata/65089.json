@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "99e1d96f-c326-49b2-9a24-6e3e5465047e",
+  "oracle_id": "3c7ea603-c985-4107-806b-a467b5fcca36",
+  "multiverse_ids": [],
+  "mtgo_id": 140241,
+  "tcgplayer_id": 631218,
+  "cardmarket_id": 824544,
+  "name": "Scholar of New Horizons",
+  "lang": "en",
+  "released_at": "2025-06-13",
+  "uri": "https://api.scryfall.com/cards/99e1d96f-c326-49b2-9a24-6e3e5465047e",
+  "scryfall_uri": "https://scryfall.com/card/fic/252/scholar-of-new-horizons?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/9/99e1d96f-c326-49b2-9a24-6e3e5465047e.jpg?1748705101",
+    "normal": "https://cards.scryfall.io/normal/front/9/9/99e1d96f-c326-49b2-9a24-6e3e5465047e.jpg?1748705101",
+    "large": "https://cards.scryfall.io/large/front/9/9/99e1d96f-c326-49b2-9a24-6e3e5465047e.jpg?1748705101",
+    "png": "https://cards.scryfall.io/png/front/9/9/99e1d96f-c326-49b2-9a24-6e3e5465047e.png?1748705101",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/9/99e1d96f-c326-49b2-9a24-6e3e5465047e.jpg?1748705101",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/9/99e1d96f-c326-49b2-9a24-6e3e5465047e.jpg?1748705101"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Creature — Human Scout",
+  "oracle_text": "This creature enters with a +1/+1 counter on it.\n{T}, Remove a counter from a permanent you control: Search your library for a Plains card and reveal it. If an opponent controls more lands than you, you may put that card onto the battlefield tapped. If you don't put the card onto the battlefield, put it into your hand. Then shuffle.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "30659956-4558-4cbf-a65f-34cd00c89579",
+  "set": "fic",
+  "set_name": "Final Fantasy Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/30659956-4558-4cbf-a65f-34cd00c89579",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afic&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fic?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/99e1d96f-c326-49b2-9a24-6e3e5465047e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3c7ea603-c985-4107-806b-a467b5fcca36&unique=prints",
+  "collector_number": "252",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Allen Morris",
+  "artist_ids": [
+    "5d65ec8f-0c70-41f0-8585-5c91bd7f6f2e"
+  ],
+  "illustration_id": "fa3f1e67-50e8-4157-9086-abb6e5151f71",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "surgefoil",
+    "ffx"
+  ],
+  "edhrec_rank": 3001,
+  "prices": {
+    "usd": "0.50",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.79",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DScholar%2Bof%2BNew%2BHorizons",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DScholar%2Bof%2BNew%2BHorizons",
+    "edhrec": "https://edhrec.com/route/?cc=Scholar+of+New+Horizons"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F631218%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=824544&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/140241?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

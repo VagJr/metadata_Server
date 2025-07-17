@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "8b7d65b9-5f66-4cf7-b3ef-c47e7c6a131b",
+  "oracle_id": "e1e96802-fd0c-41f1-aa21-3287d75a0e88",
+  "multiverse_ids": [
+    621364
+  ],
+  "mtgo_id": 112862,
+  "tcgplayer_id": 499762,
+  "cardmarket_id": 717365,
+  "name": "Overwhelming Stampede",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/8b7d65b9-5f66-4cf7-b3ef-c47e7c6a131b",
+  "scryfall_uri": "https://scryfall.com/card/ltc/254/overwhelming-stampede?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/b/8b7d65b9-5f66-4cf7-b3ef-c47e7c6a131b.jpg?1686966126",
+    "normal": "https://cards.scryfall.io/normal/front/8/b/8b7d65b9-5f66-4cf7-b3ef-c47e7c6a131b.jpg?1686966126",
+    "large": "https://cards.scryfall.io/large/front/8/b/8b7d65b9-5f66-4cf7-b3ef-c47e7c6a131b.jpg?1686966126",
+    "png": "https://cards.scryfall.io/png/front/8/b/8b7d65b9-5f66-4cf7-b3ef-c47e7c6a131b.png?1686966126",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/b/8b7d65b9-5f66-4cf7-b3ef-c47e7c6a131b.jpg?1686966126",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/b/8b7d65b9-5f66-4cf7-b3ef-c47e7c6a131b.jpg?1686966126"
+  },
+  "mana_cost": "{3}{G}{G}",
+  "cmc": 5,
+  "type_line": "Sorcery",
+  "oracle_text": "Until end of turn, creatures you control gain trample and get +X/+X, where X is the greatest power among creatures you control.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set": "ltc",
+  "set_name": "Tales of Middle-earth Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8b7d65b9-5f66-4cf7-b3ef-c47e7c6a131b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae1e96802-fd0c-41f1-aa21-3287d75a0e88&unique=prints",
+  "collector_number": "254",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "They do not fear the Ringwraiths, for those who have dwelt in the Blessed Realm live at once in both worlds, and against both the Seen and the Unseen they have great power.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Viko Menezes",
+  "artist_ids": [
+    "92dfef2a-d0fa-42fd-bdd6-bc4c9286cb56"
+  ],
+  "illustration_id": "e664cb4e-ca4e-42fb-9023-eceaeb055369",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 499,
+  "penny_rank": 4135,
+  "prices": {
+    "usd": "1.37",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "1.91",
+    "eur_foil": null,
+    "tix": "0.34"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=621364&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOverwhelming%2BStampede",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOverwhelming%2BStampede",
+    "edhrec": "https://edhrec.com/route/?cc=Overwhelming+Stampede"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F499762%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=717365&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/112862?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "object": "card",
+  "id": "18bffcab-638f-4492-b150-d6383e387002",
+  "oracle_id": "021b4745-4a15-462c-a6b0-2dee1dc9d196",
+  "multiverse_ids": [],
+  "tcgplayer_id": 263529,
+  "cardmarket_id": 609083,
+  "name": "Tamiyo, Compleated Sage",
+  "lang": "en",
+  "released_at": "2022-02-18",
+  "uri": "https://api.scryfall.com/cards/18bffcab-638f-4492-b150-d6383e387002",
+  "scryfall_uri": "https://scryfall.com/card/pneo/238s/tamiyo-compleated-sage?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/8/18bffcab-638f-4492-b150-d6383e387002.jpg?1675617140",
+    "normal": "https://cards.scryfall.io/normal/front/1/8/18bffcab-638f-4492-b150-d6383e387002.jpg?1675617140",
+    "large": "https://cards.scryfall.io/large/front/1/8/18bffcab-638f-4492-b150-d6383e387002.jpg?1675617140",
+    "png": "https://cards.scryfall.io/png/front/1/8/18bffcab-638f-4492-b150-d6383e387002.png?1675617140",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/8/18bffcab-638f-4492-b150-d6383e387002.jpg?1675617140",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/8/18bffcab-638f-4492-b150-d6383e387002.jpg?1675617140"
+  },
+  "mana_cost": "{2}{G}{G/U/P}{U}",
+  "cmc": 5,
+  "type_line": "Legendary Planeswalker — Tamiyo",
+  "oracle_text": "Compleated ({G/U/P} can be paid with {G}, {U}, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)\n+1: Tap up to one target artifact or creature. It doesn't untap during its controller's next untap step.\n−X: Exile target nonland permanent card with mana value X from your graveyard. Create a token that's a copy of that card.\n−7: Create Tamiyo's Notebook, a legendary colorless artifact token with \"Spells you cast cost {2} less to cast\" and \"{T}: Draw a card.\"",
+  "loyalty": "5",
+  "colors": [
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [
+    "Compleated"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "18bffcab-638f-4492-b150-d6383e387002",
+      "component": "combo_piece",
+      "name": "Tamiyo, Compleated Sage",
+      "type_line": "Legendary Planeswalker — Tamiyo",
+      "uri": "https://api.scryfall.com/cards/18bffcab-638f-4492-b150-d6383e387002"
+    },
+    {
+      "object": "related_card",
+      "id": "09d6521e-438a-4d16-992f-f2ab27b26ce4",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/09d6521e-438a-4d16-992f-f2ab27b26ce4"
+    },
+    {
+      "object": "related_card",
+      "id": "992cb1e0-e846-4710-b49e-a748e4ebffa5",
+      "component": "token",
+      "name": "Tamiyo's Notebook",
+      "type_line": "Token Legendary Artifact",
+      "uri": "https://api.scryfall.com/cards/992cb1e0-e846-4710-b49e-a748e4ebffa5"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "b3161020-d74f-48cc-bc9d-d7233e64e524",
+  "set": "pneo",
+  "set_name": "Kamigawa: Neon Dynasty Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/b3161020-d74f-48cc-bc9d-d7233e64e524",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apneo&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pneo?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/18bffcab-638f-4492-b150-d6383e387002/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A021b4745-4a15-462c-a6b0-2dee1dc9d196&unique=prints",
+  "collector_number": "238s",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rahn",
+  "artist_ids": [
+    "7742047e-0f80-4c0f-a530-d07460165e86"
+  ],
+  "illustration_id": "bd920712-0fcf-471b-b8a8-a3ea47f4ac13",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 6899,
+  "penny_rank": 6203,
+  "prices": {
+    "usd": null,
+    "usd_foil": "2.66",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "1.93",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTamiyo%252C%2BCompleated%2BSage",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTamiyo%252C%2BCompleated%2BSage",
+    "edhrec": "https://edhrec.com/route/?cc=Tamiyo%2C+Compleated+Sage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F263529%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=609083&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tamiyo%2C+Compleated+Sage&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

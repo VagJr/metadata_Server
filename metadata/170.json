@@ -1,0 +1,149 @@
+{
+  "object": "card",
+  "id": "0057bac8-7600-422e-88ef-accf1d0bb4ef",
+  "oracle_id": "90194ff1-db61-463f-b5a3-15cd85311d0e",
+  "multiverse_ids": [],
+  "tcgplayer_id": 237418,
+  "cardmarket_id": 560569,
+  "name": "Beledros Witherbloom",
+  "lang": "en",
+  "released_at": "2021-04-23",
+  "uri": "https://api.scryfall.com/cards/0057bac8-7600-422e-88ef-accf1d0bb4ef",
+  "scryfall_uri": "https://scryfall.com/card/pstx/163p/beledros-witherbloom?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/0/0057bac8-7600-422e-88ef-accf1d0bb4ef.jpg?1628271863",
+    "normal": "https://cards.scryfall.io/normal/front/0/0/0057bac8-7600-422e-88ef-accf1d0bb4ef.jpg?1628271863",
+    "large": "https://cards.scryfall.io/large/front/0/0/0057bac8-7600-422e-88ef-accf1d0bb4ef.jpg?1628271863",
+    "png": "https://cards.scryfall.io/png/front/0/0/0057bac8-7600-422e-88ef-accf1d0bb4ef.png?1628271863",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/0/0057bac8-7600-422e-88ef-accf1d0bb4ef.jpg?1628271863",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/0/0057bac8-7600-422e-88ef-accf1d0bb4ef.jpg?1628271863"
+  },
+  "mana_cost": "{5}{B}{G}",
+  "cmc": 7,
+  "type_line": "Legendary Creature — Elder Dragon",
+  "oracle_text": "Flying\nAt the beginning of each upkeep, create a 1/1 black and green Pest creature token with \"When this token dies, you gain 1 life.\"\nPay 10 life: Untap all lands you control. Activate only once each turn.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "d0ddbe3e-4a66-494d-9304-7471232549bf",
+      "component": "token",
+      "name": "Pest",
+      "type_line": "Token Creature — Pest",
+      "uri": "https://api.scryfall.com/cards/d0ddbe3e-4a66-494d-9304-7471232549bf"
+    },
+    {
+      "object": "related_card",
+      "id": "76f8cf4b-9a68-442a-ac65-030615c1c438",
+      "component": "combo_piece",
+      "name": "Beledros Witherbloom",
+      "type_line": "Legendary Creature — Elder Dragon",
+      "uri": "https://api.scryfall.com/cards/76f8cf4b-9a68-442a-ac65-030615c1c438"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "bc98232b-a539-4f81-92b5-2efc57d38f53",
+  "set": "pstx",
+  "set_name": "Strixhaven: School of Mages Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/bc98232b-a539-4f81-92b5-2efc57d38f53",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apstx&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pstx?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0057bac8-7600-422e-88ef-accf1d0bb4ef/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A90194ff1-db61-463f-b5a3-15cd85311d0e&unique=prints",
+  "collector_number": "163p",
+  "digital": false,
+  "rarity": "mythic",
+  "watermark": "witherbloom",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Raymond Swanland",
+  "artist_ids": [
+    "e956bacc-077d-4c12-b6bc-ba798b718af9"
+  ],
+  "illustration_id": "7ef2497a-36cb-406c-a7ea-4e76ea06ebb2",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 1896,
+  "prices": {
+    "usd": "5.92",
+    "usd_foil": "8.50",
+    "usd_etched": null,
+    "eur": "17.00",
+    "eur_foil": "16.71",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBeledros%2BWitherbloom",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBeledros%2BWitherbloom",
+    "edhrec": "https://edhrec.com/route/?cc=Beledros+Witherbloom"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F237418%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=560569&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Beledros+Witherbloom&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

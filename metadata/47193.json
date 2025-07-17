@@ -1,0 +1,156 @@
+{
+  "object": "card",
+  "id": "6f816d97-10f0-4d92-aa21-254754530554",
+  "oracle_id": "05e6b243-48a6-4a42-bc5f-413441de9c33",
+  "multiverse_ids": [
+    670860
+  ],
+  "mtgo_id": 128315,
+  "arena_id": 92706,
+  "tcgplayer_id": 559726,
+  "cardmarket_id": 779621,
+  "name": "Elspeth, Sun's Champion",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/6f816d97-10f0-4d92-aa21-254754530554",
+  "scryfall_uri": "https://scryfall.com/card/blc/97/elspeth-suns-champion?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/f/6f816d97-10f0-4d92-aa21-254754530554.jpg?1723679006",
+    "normal": "https://cards.scryfall.io/normal/front/6/f/6f816d97-10f0-4d92-aa21-254754530554.jpg?1723679006",
+    "large": "https://cards.scryfall.io/large/front/6/f/6f816d97-10f0-4d92-aa21-254754530554.jpg?1723679006",
+    "png": "https://cards.scryfall.io/png/front/6/f/6f816d97-10f0-4d92-aa21-254754530554.png?1723679006",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/f/6f816d97-10f0-4d92-aa21-254754530554.jpg?1723679006",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/f/6f816d97-10f0-4d92-aa21-254754530554.jpg?1723679006"
+  },
+  "mana_cost": "{4}{W}{W}",
+  "cmc": 6,
+  "type_line": "Legendary Planeswalker — Elspeth",
+  "oracle_text": "+1: Create three 1/1 white Soldier creature tokens.\n−3: Destroy all creatures with power 4 or greater.\n−7: You get an emblem with \"Creatures you control get +2/+2 and have flying.\"",
+  "loyalty": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6f816d97-10f0-4d92-aa21-254754530554",
+      "component": "combo_piece",
+      "name": "Elspeth, Sun's Champion",
+      "type_line": "Legendary Planeswalker — Elspeth",
+      "uri": "https://api.scryfall.com/cards/6f816d97-10f0-4d92-aa21-254754530554"
+    },
+    {
+      "object": "related_card",
+      "id": "dffbc23b-23d3-4cc5-9ea2-fa3aab785ffe",
+      "component": "combo_piece",
+      "name": "Elspeth, Sun's Champion Emblem",
+      "type_line": "Emblem — Elspeth",
+      "uri": "https://api.scryfall.com/cards/dffbc23b-23d3-4cc5-9ea2-fa3aab785ffe"
+    },
+    {
+      "object": "related_card",
+      "id": "10da848f-7f50-4bc4-b13e-a58acf3516e8",
+      "component": "token",
+      "name": "Soldier",
+      "type_line": "Token Creature — Soldier",
+      "uri": "https://api.scryfall.com/cards/10da848f-7f50-4bc4-b13e-a58acf3516e8"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "set": "blc",
+  "set_name": "Bloomburrow Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/blc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6f816d97-10f0-4d92-aa21-254754530554/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A05e6b243-48a6-4a42-bc5f-413441de9c33&unique=prints",
+  "collector_number": "97",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Leonardo Santanna",
+  "artist_ids": [
+    "f1f8e6d8-8fb3-472a-a32f-a4b1225bd054"
+  ],
+  "illustration_id": "168300ff-b92f-4a51-9b58-e7860b86836e",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun",
+    "imagine"
+  ],
+  "edhrec_rank": 661,
+  "penny_rank": 199,
+  "prices": {
+    "usd": "1.39",
+    "usd_foil": "0.92",
+    "usd_etched": null,
+    "eur": "2.14",
+    "eur_foil": "1.36",
+    "tix": "1.29"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=670860&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DElspeth%252C%2BSun%2527s%2BChampion",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DElspeth%252C%2BSun%2527s%2BChampion",
+    "edhrec": "https://edhrec.com/route/?cc=Elspeth%2C+Sun%27s+Champion"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F559726%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=779621&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/128315?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

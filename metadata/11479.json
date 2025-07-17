@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "1aba15c0-fbc6-473f-8da9-522aa582b2bf",
+  "oracle_id": "a67f78be-8fbe-414a-9574-bb11ac50e1a5",
+  "multiverse_ids": [
+    577498
+  ],
+  "tcgplayer_id": 283439,
+  "cardmarket_id": 672416,
+  "name": "Anointed Peacekeeper",
+  "lang": "en",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/1aba15c0-fbc6-473f-8da9-522aa582b2bf",
+  "scryfall_uri": "https://scryfall.com/card/dmu/383/anointed-peacekeeper?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/a/1aba15c0-fbc6-473f-8da9-522aa582b2bf.jpg?1674074619",
+    "normal": "https://cards.scryfall.io/normal/front/1/a/1aba15c0-fbc6-473f-8da9-522aa582b2bf.jpg?1674074619",
+    "large": "https://cards.scryfall.io/large/front/1/a/1aba15c0-fbc6-473f-8da9-522aa582b2bf.jpg?1674074619",
+    "png": "https://cards.scryfall.io/png/front/1/a/1aba15c0-fbc6-473f-8da9-522aa582b2bf.png?1674074619",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/a/1aba15c0-fbc6-473f-8da9-522aa582b2bf.jpg?1674074619",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/a/1aba15c0-fbc6-473f-8da9-522aa582b2bf.jpg?1674074619"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3,
+  "type_line": "Creature — Human Cleric",
+  "oracle_text": "Vigilance\nAs this creature enters, look at an opponent's hand, then choose any card name.\nSpells your opponents cast with the chosen name cost {2} more to cast.\nActivated abilities of sources with the chosen name cost {2} more to activate unless they're mana abilities.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Vigilance"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set": "dmu",
+  "set_name": "Dominaria United",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dmu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1aba15c0-fbc6-473f-8da9-522aa582b2bf/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa67f78be-8fbe-414a-9574-bb11ac50e1a5&unique=prints",
+  "collector_number": "383",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tia Masic",
+  "artist_ids": [
+    "eccd93d5-9f94-461b-8d70-895e723a285e"
+  ],
+  "illustration_id": "ef405d01-c6b5-4d55-962b-846867165a35",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 17018,
+  "preview": {
+    "source": "Yuuki Ichikawa",
+    "source_uri": "https://twitter.com/serra2020/status/1562048694442430464",
+    "previewed_at": "2022-08-24"
+  },
+  "prices": {
+    "usd": "0.57",
+    "usd_foil": "0.46",
+    "usd_etched": null,
+    "eur": "0.78",
+    "eur_foil": "0.88",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=577498&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAnointed%2BPeacekeeper",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAnointed%2BPeacekeeper",
+    "edhrec": "https://edhrec.com/route/?cc=Anointed+Peacekeeper"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F283439%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=672416&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Anointed+Peacekeeper&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

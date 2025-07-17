@@ -1,0 +1,149 @@
+{
+  "object": "card",
+  "id": "52de8af2-d260-42a8-b8c2-b26b392632d1",
+  "oracle_id": "786baa29-afd4-40f0-95c8-920a972b9175",
+  "multiverse_ids": [
+    578739
+  ],
+  "mtgo_id": 103132,
+  "tcgplayer_id": 282907,
+  "cardmarket_id": 672149,
+  "name": "Kari Zev, Skyship Raider",
+  "lang": "en",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/52de8af2-d260-42a8-b8c2-b26b392632d1",
+  "scryfall_uri": "https://scryfall.com/card/dmc/123/kari-zev-skyship-raider?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/2/52de8af2-d260-42a8-b8c2-b26b392632d1.jpg?1673305296",
+    "normal": "https://cards.scryfall.io/normal/front/5/2/52de8af2-d260-42a8-b8c2-b26b392632d1.jpg?1673305296",
+    "large": "https://cards.scryfall.io/large/front/5/2/52de8af2-d260-42a8-b8c2-b26b392632d1.jpg?1673305296",
+    "png": "https://cards.scryfall.io/png/front/5/2/52de8af2-d260-42a8-b8c2-b26b392632d1.png?1673305296",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/2/52de8af2-d260-42a8-b8c2-b26b392632d1.jpg?1673305296",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/2/52de8af2-d260-42a8-b8c2-b26b392632d1.jpg?1673305296"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Human Pirate",
+  "oracle_text": "First strike, menace\nWhenever Kari Zev attacks, create Ragavan, a legendary 2/1 red Monkey creature token. Ragavan enters tapped and attacking. Exile that token at end of combat.",
+  "power": "1",
+  "toughness": "3",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "First strike",
+    "Menace"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "52de8af2-d260-42a8-b8c2-b26b392632d1",
+      "component": "combo_piece",
+      "name": "Kari Zev, Skyship Raider",
+      "type_line": "Legendary Creature — Human Pirate",
+      "uri": "https://api.scryfall.com/cards/52de8af2-d260-42a8-b8c2-b26b392632d1"
+    },
+    {
+      "object": "related_card",
+      "id": "5cd9a145-86cc-4591-b64b-c003eaa926eb",
+      "component": "token",
+      "name": "Ragavan",
+      "type_line": "Token Legendary Creature — Monkey",
+      "uri": "https://api.scryfall.com/cards/5cd9a145-86cc-4591-b64b-c003eaa926eb"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "78076b27-f888-4723-b27c-44074accd261",
+  "set": "dmc",
+  "set_name": "Dominaria United Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/78076b27-f888-4723-b27c-44074accd261",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dmc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/52de8af2-d260-42a8-b8c2-b26b392632d1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A786baa29-afd4-40f0-95c8-920a972b9175&unique=prints",
+  "collector_number": "123",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Aboard her ship, the *Dragon's Smile*, Kari follows no one's rules but her own.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Brad Rigney",
+  "artist_ids": [
+    "f17194b9-10e9-44ea-9b65-6812ab398624"
+  ],
+  "illustration_id": "435dc6e5-2205-4793-8364-85d585e3f584",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4245,
+  "penny_rank": 708,
+  "prices": {
+    "usd": "0.16",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.21",
+    "eur_foil": null,
+    "tix": "1.12"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=578739&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKari%2BZev%252C%2BSkyship%2BRaider",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKari%2BZev%252C%2BSkyship%2BRaider",
+    "edhrec": "https://edhrec.com/route/?cc=Kari+Zev%2C+Skyship+Raider"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F282907%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=672149&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/103132?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

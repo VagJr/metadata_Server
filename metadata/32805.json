@@ -1,0 +1,157 @@
+{
+  "object": "card",
+  "id": "4d93f306-0ebd-433f-9b3a-366912778cfd",
+  "oracle_id": "a3a56b02-7290-4352-a862-f2de608f2a86",
+  "multiverse_ids": [],
+  "mtgo_id": 95351,
+  "name": "Concealing Curtains // Revealing Eye",
+  "lang": "en",
+  "released_at": "2022-04-18",
+  "uri": "https://api.scryfall.com/cards/4d93f306-0ebd-433f-9b3a-366912778cfd",
+  "scryfall_uri": "https://scryfall.com/card/prm/95351/concealing-curtains-revealing-eye?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 1,
+  "type_line": "Creature — Wall // Creature — Eye Horror",
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Transform",
+    "Menace",
+    "Defender"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Concealing Curtains",
+      "mana_cost": "{B}",
+      "type_line": "Creature — Wall",
+      "oracle_text": "Defender\n{2}{B}: Transform this creature. Activate only as a sorcery.",
+      "colors": [
+        "B"
+      ],
+      "power": "0",
+      "toughness": "4",
+      "artist": "Brian Valeza",
+      "artist_id": "bb2a9339-bbe4-445f-9736-3c43379ee076",
+      "illustration_id": "cb057b52-9c38-4928-9b51-a4869fc73152",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/4/d/4d93f306-0ebd-433f-9b3a-366912778cfd.jpg?1681084032",
+        "normal": "https://cards.scryfall.io/normal/front/4/d/4d93f306-0ebd-433f-9b3a-366912778cfd.jpg?1681084032",
+        "large": "https://cards.scryfall.io/large/front/4/d/4d93f306-0ebd-433f-9b3a-366912778cfd.jpg?1681084032",
+        "png": "https://cards.scryfall.io/png/front/4/d/4d93f306-0ebd-433f-9b3a-366912778cfd.png?1681084032",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/4/d/4d93f306-0ebd-433f-9b3a-366912778cfd.jpg?1681084032",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/4/d/4d93f306-0ebd-433f-9b3a-366912778cfd.jpg?1681084032"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Revealing Eye",
+      "mana_cost": "",
+      "type_line": "Creature — Eye Horror",
+      "oracle_text": "Menace\nWhen this creature transforms into Revealing Eye, target opponent reveals their hand. You may choose a nonland card from it. If you do, that player discards that card, then draws a card.",
+      "colors": [
+        "B"
+      ],
+      "color_indicator": [
+        "B"
+      ],
+      "power": "3",
+      "toughness": "4",
+      "artist": "Brian Valeza",
+      "artist_id": "bb2a9339-bbe4-445f-9736-3c43379ee076",
+      "illustration_id": "53e3f895-de13-4d96-8b53-c28e6211e129",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/4/d/4d93f306-0ebd-433f-9b3a-366912778cfd.jpg?1681084032",
+        "normal": "https://cards.scryfall.io/normal/back/4/d/4d93f306-0ebd-433f-9b3a-366912778cfd.jpg?1681084032",
+        "large": "https://cards.scryfall.io/large/back/4/d/4d93f306-0ebd-433f-9b3a-366912778cfd.jpg?1681084032",
+        "png": "https://cards.scryfall.io/png/back/4/d/4d93f306-0ebd-433f-9b3a-366912778cfd.png?1681084032",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/4/d/4d93f306-0ebd-433f-9b3a-366912778cfd.jpg?1681084032",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/4/d/4d93f306-0ebd-433f-9b3a-366912778cfd.jpg?1681084032"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4d93f306-0ebd-433f-9b3a-366912778cfd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3a56b02-7290-4352-a862-f2de608f2a86&unique=prints",
+  "collector_number": "95351",
+  "digital": true,
+  "rarity": "rare",
+  "artist": "Brian Valeza",
+  "artist_ids": [
+    "bb2a9339-bbe4-445f-9736-3c43379ee076"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 15548,
+  "penny_rank": 2403,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.20"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DConcealing%2BCurtains%2B%252F%252F%2BRevealing%2BEye",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DConcealing%2BCurtains%2B%252F%252F%2BRevealing%2BEye",
+    "edhrec": "https://edhrec.com/route/?cc=Concealing+Curtains"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DConcealing%2BCurtains%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Concealing+Curtains&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/95351?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

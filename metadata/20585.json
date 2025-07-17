@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "308a9e1d-4b61-4e3a-af45-38b714509c1e",
+  "oracle_id": "33f52df8-4b44-4422-8b0a-37fead9c894b",
+  "multiverse_ids": [
+    665819
+  ],
+  "mtgo_id": 127355,
+  "tcgplayer_id": 553218,
+  "cardmarket_id": 773138,
+  "name": "Vineglimmer Snarl",
+  "lang": "en",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/308a9e1d-4b61-4e3a-af45-38b714509c1e",
+  "scryfall_uri": "https://scryfall.com/card/m3c/405/vineglimmer-snarl?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/0/308a9e1d-4b61-4e3a-af45-38b714509c1e.jpg?1717191209",
+    "normal": "https://cards.scryfall.io/normal/front/3/0/308a9e1d-4b61-4e3a-af45-38b714509c1e.jpg?1717191209",
+    "large": "https://cards.scryfall.io/large/front/3/0/308a9e1d-4b61-4e3a-af45-38b714509c1e.jpg?1717191209",
+    "png": "https://cards.scryfall.io/png/front/3/0/308a9e1d-4b61-4e3a-af45-38b714509c1e.png?1717191209",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/0/308a9e1d-4b61-4e3a-af45-38b714509c1e.jpg?1717191209",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/0/308a9e1d-4b61-4e3a-af45-38b714509c1e.jpg?1717191209"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "As this land enters, you may reveal a Forest or Island card from your hand. If you don't, this land enters tapped.\n{T}: Add {G} or {U}.",
+  "colors": [],
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "G",
+    "U"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "f5e00721-cf99-43ba-bf16-b22d56d12c73",
+  "set": "m3c",
+  "set_name": "Modern Horizons 3 Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/f5e00721-cf99-43ba-bf16-b22d56d12c73",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am3c&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/m3c?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/308a9e1d-4b61-4e3a-af45-38b714509c1e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A33f52df8-4b44-4422-8b0a-37fead9c894b&unique=prints",
+  "collector_number": "405",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "A verdant paradox of primal logic.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Sam Burley",
+  "artist_ids": [
+    "f89f4b78-cefb-41f7-b7cb-4f4d28de0c4f"
+  ],
+  "illustration_id": "1a1643b8-c781-4cc4-ba76-e3c43c6a5496",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "ripplefoil"
+  ],
+  "edhrec_rank": 511,
+  "penny_rank": 1228,
+  "prices": {
+    "usd": "0.16",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.21",
+    "eur_foil": "0.84",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=665819&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVineglimmer%2BSnarl",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVineglimmer%2BSnarl",
+    "edhrec": "https://edhrec.com/route/?cc=Vineglimmer+Snarl"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F553218%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=773138&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/127355?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

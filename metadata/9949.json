@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "172b9ddc-53f1-4c8a-8e45-329d019f531b",
+  "oracle_id": "1d8bd391-b133-4c8b-95ad-7f7ab99137c7",
+  "multiverse_ids": [
+    456519
+  ],
+  "mtgo_id": 70628,
+  "arena_id": 68412,
+  "tcgplayer_id": 175208,
+  "cardmarket_id": 363249,
+  "name": "Immortal Phoenix",
+  "lang": "en",
+  "released_at": "2018-11-16",
+  "uri": "https://api.scryfall.com/cards/172b9ddc-53f1-4c8a-8e45-329d019f531b",
+  "scryfall_uri": "https://scryfall.com/card/g18/GP4/immortal-phoenix?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/7/172b9ddc-53f1-4c8a-8e45-329d019f531b.jpg?1680650049",
+    "normal": "https://cards.scryfall.io/normal/front/1/7/172b9ddc-53f1-4c8a-8e45-329d019f531b.jpg?1680650049",
+    "large": "https://cards.scryfall.io/large/front/1/7/172b9ddc-53f1-4c8a-8e45-329d019f531b.jpg?1680650049",
+    "png": "https://cards.scryfall.io/png/front/1/7/172b9ddc-53f1-4c8a-8e45-329d019f531b.png?1680650049",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/7/172b9ddc-53f1-4c8a-8e45-329d019f531b.jpg?1680650049",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/7/172b9ddc-53f1-4c8a-8e45-329d019f531b.jpg?1680650049"
+  },
+  "mana_cost": "{4}{R}{R}",
+  "cmc": 6,
+  "type_line": "Creature — Phoenix",
+  "oracle_text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen this creature dies, return it to its owner's hand.",
+  "power": "5",
+  "toughness": "3",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": false,
+  "variation": false,
+  "set_id": "be071312-2af9-4c4a-bcba-b726ee1eabb1",
+  "set": "g18",
+  "set_name": "M19 Gift Pack",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/be071312-2af9-4c4a-bcba-b726ee1eabb1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ag18&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/g18?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/172b9ddc-53f1-4c8a-8e45-329d019f531b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1d8bd391-b133-4c8b-95ad-7f7ab99137c7&unique=prints",
+  "collector_number": "GP4",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Their fires burn quietly, allowing the phoenixes to glide silently through the canyon.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daarken",
+  "artist_ids": [
+    "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+  ],
+  "illustration_id": "253b4694-2964-409e-90b8-2c20e48a981e",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "instore",
+    "giftbox"
+  ],
+  "edhrec_rank": 15868,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.29",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.58",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456519&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DImmortal%2BPhoenix",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DImmortal%2BPhoenix",
+    "edhrec": "https://edhrec.com/route/?cc=Immortal+Phoenix"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F175208%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=363249&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/70628?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

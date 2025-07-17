@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "8f5d1f97-ebb9-4320-9d5f-408cf9de826d",
+  "oracle_id": "4a2fea39-99d6-4766-9f2c-0a63925349cb",
+  "multiverse_ids": [],
+  "mtgo_id": 104060,
+  "mtgo_foil_id": 104061,
+  "tcgplayer_id": 456808,
+  "cardmarket_id": 689144,
+  "name": "Selesnya Evangel",
+  "lang": "en",
+  "released_at": "2022-12-02",
+  "uri": "https://api.scryfall.com/cards/8f5d1f97-ebb9-4320-9d5f-408cf9de826d",
+  "scryfall_uri": "https://scryfall.com/card/scd/241/selesnya-evangel?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/f/8f5d1f97-ebb9-4320-9d5f-408cf9de826d.jpg?1674675959",
+    "normal": "https://cards.scryfall.io/normal/front/8/f/8f5d1f97-ebb9-4320-9d5f-408cf9de826d.jpg?1674675959",
+    "large": "https://cards.scryfall.io/large/front/8/f/8f5d1f97-ebb9-4320-9d5f-408cf9de826d.jpg?1674675959",
+    "png": "https://cards.scryfall.io/png/front/8/f/8f5d1f97-ebb9-4320-9d5f-408cf9de826d.png?1674675959",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/f/8f5d1f97-ebb9-4320-9d5f-408cf9de826d.jpg?1674675959",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/f/8f5d1f97-ebb9-4320-9d5f-408cf9de826d.jpg?1674675959"
+  },
+  "mana_cost": "{G}{W}",
+  "cmc": 2,
+  "type_line": "Creature — Elf Shaman",
+  "oracle_text": "{1}, {T}, Tap an untapped creature you control: Create a 1/1 green Saproling creature token.",
+  "power": "1",
+  "toughness": "2",
+  "colors": [
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "58427912-f7ab-43a9-aed3-dcae517b5698",
+      "component": "token",
+      "name": "Saproling",
+      "type_line": "Token Creature — Saproling",
+      "uri": "https://api.scryfall.com/cards/58427912-f7ab-43a9-aed3-dcae517b5698"
+    },
+    {
+      "object": "related_card",
+      "id": "8f5d1f97-ebb9-4320-9d5f-408cf9de826d",
+      "component": "combo_piece",
+      "name": "Selesnya Evangel",
+      "type_line": "Creature — Elf Shaman",
+      "uri": "https://api.scryfall.com/cards/8f5d1f97-ebb9-4320-9d5f-408cf9de826d"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set": "scd",
+  "set_name": "Starter Commander Decks",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ascd&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/scd?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8f5d1f97-ebb9-4320-9d5f-408cf9de826d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4a2fea39-99d6-4766-9f2c-0a63925349cb&unique=prints",
+  "collector_number": "241",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"The clamor of the city drowns all voices. But together we can sing a harmony that will resonate from Ravnica's tallest spires to her deepest wells.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Rob Alexander",
+  "artist_ids": [
+    "35906871-6c78-4ab2-9ed1-e6792c8efb74"
+  ],
+  "illustration_id": "f771de2a-ef53-462f-8256-d81f84e53f91",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 11813,
+  "penny_rank": 9963,
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.13",
+    "eur_foil": null,
+    "tix": "0.40"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSelesnya%2BEvangel",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSelesnya%2BEvangel",
+    "edhrec": "https://edhrec.com/route/?cc=Selesnya+Evangel"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F456808%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=689144&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/104060?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

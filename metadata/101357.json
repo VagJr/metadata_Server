@@ -1,0 +1,148 @@
+{
+  "object": "card",
+  "id": "ef8d3b29-ab35-4c61-82b8-bb5d481c738a",
+  "oracle_id": "b655bee5-52d3-467e-b16c-cfc2edf2b1a1",
+  "multiverse_ids": [
+    624431
+  ],
+  "mtgo_id": 113711,
+  "tcgplayer_id": 505836,
+  "cardmarket_id": 723588,
+  "name": "Arachnogenesis",
+  "lang": "en",
+  "released_at": "2023-08-04",
+  "uri": "https://api.scryfall.com/cards/ef8d3b29-ab35-4c61-82b8-bb5d481c738a",
+  "scryfall_uri": "https://scryfall.com/card/cmm/647/arachnogenesis?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/f/ef8d3b29-ab35-4c61-82b8-bb5d481c738a.jpg?1690002252",
+    "normal": "https://cards.scryfall.io/normal/front/e/f/ef8d3b29-ab35-4c61-82b8-bb5d481c738a.jpg?1690002252",
+    "large": "https://cards.scryfall.io/large/front/e/f/ef8d3b29-ab35-4c61-82b8-bb5d481c738a.jpg?1690002252",
+    "png": "https://cards.scryfall.io/png/front/e/f/ef8d3b29-ab35-4c61-82b8-bb5d481c738a.png?1690002252",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/f/ef8d3b29-ab35-4c61-82b8-bb5d481c738a.jpg?1690002252",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/f/ef8d3b29-ab35-4c61-82b8-bb5d481c738a.jpg?1690002252"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Instant",
+  "oracle_text": "Create X 1/2 green Spider creature tokens with reach, where X is the number of creatures attacking you. Prevent all combat damage that would be dealt this turn by non-Spider creatures.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "ef8d3b29-ab35-4c61-82b8-bb5d481c738a",
+      "component": "combo_piece",
+      "name": "Arachnogenesis",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/ef8d3b29-ab35-4c61-82b8-bb5d481c738a"
+    },
+    {
+      "object": "related_card",
+      "id": "e30d675b-1124-4a90-b270-39c52fdffc1f",
+      "component": "token",
+      "name": "Spider",
+      "type_line": "Token Creature — Spider",
+      "uri": "https://api.scryfall.com/cards/e30d675b-1124-4a90-b270-39c52fdffc1f"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set": "cmm",
+  "set_name": "Commander Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ef8d3b29-ab35-4c61-82b8-bb5d481c738a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab655bee5-52d3-467e-b16c-cfc2edf2b1a1&unique=prints",
+  "collector_number": "647",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Captain, is now a good time to mention I'm allergic to spiders?\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Douglas Shuler",
+  "artist_ids": [
+    "a9ddb513-51c7-455c-ab8f-5b90aae9f75b"
+  ],
+  "illustration_id": "91ee8063-18d0-447b-84e5-391dd3bac4cc",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 1543,
+  "penny_rank": 265,
+  "prices": {
+    "usd": "2.98",
+    "usd_foil": "2.96",
+    "usd_etched": null,
+    "eur": "3.73",
+    "eur_foil": "3.45",
+    "tix": "0.75"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=624431&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DArachnogenesis",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DArachnogenesis",
+    "edhrec": "https://edhrec.com/route/?cc=Arachnogenesis"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F505836%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=723588&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/113711?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

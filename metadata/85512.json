@@ -1,0 +1,157 @@
+{
+  "object": "card",
+  "id": "c9f2783f-9512-4cfe-9e95-ab943afd4e53",
+  "oracle_id": "11329dd8-b10b-4659-b747-fbdbecf16308",
+  "multiverse_ids": [
+    570306
+  ],
+  "tcgplayer_id": 272621,
+  "cardmarket_id": 659106,
+  "name": "Myrkul, Lord of Bones",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/c9f2783f-9512-4cfe-9e95-ab943afd4e53",
+  "scryfall_uri": "https://scryfall.com/card/clb/433/myrkul-lord-of-bones?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/9/c9f2783f-9512-4cfe-9e95-ab943afd4e53.jpg?1674138843",
+    "normal": "https://cards.scryfall.io/normal/front/c/9/c9f2783f-9512-4cfe-9e95-ab943afd4e53.jpg?1674138843",
+    "large": "https://cards.scryfall.io/large/front/c/9/c9f2783f-9512-4cfe-9e95-ab943afd4e53.jpg?1674138843",
+    "png": "https://cards.scryfall.io/png/front/c/9/c9f2783f-9512-4cfe-9e95-ab943afd4e53.png?1674138843",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/9/c9f2783f-9512-4cfe-9e95-ab943afd4e53.jpg?1674138843",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/9/c9f2783f-9512-4cfe-9e95-ab943afd4e53.jpg?1674138843"
+  },
+  "mana_cost": "{4}{W}{B}{G}",
+  "cmc": 7,
+  "type_line": "Legendary Creature — God",
+  "oracle_text": "As long as your life total is less than or equal to half your starting life total, Myrkul has indestructible.\nWhenever another nontoken creature you control dies, you may exile it. If you do, create a token that's a copy of that card, except it's an enchantment and loses all other card types.",
+  "power": "7",
+  "toughness": "5",
+  "colors": [
+    "B",
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "bd790307-9926-4b7c-a90d-ca844adbe0ba",
+      "component": "combo_piece",
+      "name": "Myrkul, Lord of Bones",
+      "type_line": "Legendary Creature — God",
+      "uri": "https://api.scryfall.com/cards/bd790307-9926-4b7c-a90d-ca844adbe0ba"
+    },
+    {
+      "object": "related_card",
+      "id": "51d7dc49-7116-489b-a719-7b293a513cdc",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/51d7dc49-7116-489b-a719-7b293a513cdc"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set": "clb",
+  "set_name": "Commander Legends: Battle for Baldur's Gate",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/clb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c9f2783f-9512-4cfe-9e95-ab943afd4e53/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A11329dd8-b10b-4659-b747-fbdbecf16308&unique=prints",
+  "collector_number": "433",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mark A. Nelson",
+  "artist_ids": [
+    "a10f59a4-36fd-4ef3-966b-5570ca118062"
+  ],
+  "illustration_id": "6d07095a-4eca-4bd0-aa1e-f8ca2c136485",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 8112,
+  "penny_rank": 9538,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/1486418408",
+    "previewed_at": "2022-05-17"
+  },
+  "prices": {
+    "usd": "0.15",
+    "usd_foil": "0.26",
+    "usd_etched": null,
+    "eur": "0.18",
+    "eur_foil": "0.41",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=570306&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMyrkul%252C%2BLord%2Bof%2BBones",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMyrkul%252C%2BLord%2Bof%2BBones",
+    "edhrec": "https://edhrec.com/route/?cc=Myrkul%2C+Lord+of+Bones"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F272621%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=659106&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Myrkul%2C+Lord+of+Bones&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

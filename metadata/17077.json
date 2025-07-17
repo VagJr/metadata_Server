@@ -1,0 +1,109 @@
+{
+  "object": "card",
+  "id": "2805f5e0-e6a5-49f8-9217-febc4abf0f48",
+  "oracle_id": "b2c6aa39-2d2a-459c-a555-fb48ba993373",
+  "multiverse_ids": [],
+  "name": "Island",
+  "lang": "en",
+  "released_at": "2018-07-14",
+  "uri": "https://api.scryfall.com/cards/2805f5e0-e6a5-49f8-9217-febc4abf0f48",
+  "scryfall_uri": "https://scryfall.com/card/pana/263/island?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/8/2805f5e0-e6a5-49f8-9217-febc4abf0f48.jpg?1749382362",
+    "normal": "https://cards.scryfall.io/normal/front/2/8/2805f5e0-e6a5-49f8-9217-febc4abf0f48.jpg?1749382362",
+    "large": "https://cards.scryfall.io/large/front/2/8/2805f5e0-e6a5-49f8-9217-febc4abf0f48.jpg?1749382362",
+    "png": "https://cards.scryfall.io/png/front/2/8/2805f5e0-e6a5-49f8-9217-febc4abf0f48.png?1749382362",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/8/2805f5e0-e6a5-49f8-9217-febc4abf0f48.jpg?1749382362",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/8/2805f5e0-e6a5-49f8-9217-febc4abf0f48.jpg?1749382362"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Basic Land — Island",
+  "oracle_text": "({T}: Add {U}.)",
+  "colors": [],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "U"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8ff0b4b8-2b1b-4283-a35c-6edd5bbcf373",
+  "set": "pana",
+  "set_name": "MTG Arena Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/8ff0b4b8-2b1b-4283-a35c-6edd5bbcf373",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apana&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pana?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2805f5e0-e6a5-49f8-9217-febc4abf0f48/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab2c6aa39-2d2a-459c-a555-fb48ba993373&unique=prints",
+  "collector_number": "263",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Yeong-Hao Han",
+  "artist_ids": [
+    "f8e7f8d6-6dde-4059-973c-30f1fd1bbe4e"
+  ],
+  "illustration_id": "3fdf7908-fbfd-45bf-acec-76d84f82f319",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DIsland",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DIsland",
+    "edhrec": "https://edhrec.com/route/?cc=Island"
+  }
+}

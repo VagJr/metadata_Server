@@ -1,0 +1,150 @@
+{
+  "object": "card",
+  "id": "dc098d5b-0cdb-422f-8bd2-7afd81a7b7c3",
+  "oracle_id": "f63c2438-27d4-449a-828f-f0a2ea86ff16",
+  "multiverse_ids": [],
+  "tcgplayer_id": 511870,
+  "name": "Court of Grace",
+  "lang": "en",
+  "released_at": "2023-08-10",
+  "uri": "https://api.scryfall.com/cards/dc098d5b-0cdb-422f-8bd2-7afd81a7b7c3",
+  "scryfall_uri": "https://scryfall.com/card/sld/1338/court-of-grace?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/c/dc098d5b-0cdb-422f-8bd2-7afd81a7b7c3.jpg?1692183818",
+    "normal": "https://cards.scryfall.io/normal/front/d/c/dc098d5b-0cdb-422f-8bd2-7afd81a7b7c3.jpg?1692183818",
+    "large": "https://cards.scryfall.io/large/front/d/c/dc098d5b-0cdb-422f-8bd2-7afd81a7b7c3.jpg?1692183818",
+    "png": "https://cards.scryfall.io/png/front/d/c/dc098d5b-0cdb-422f-8bd2-7afd81a7b7c3.png?1692183818",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/c/dc098d5b-0cdb-422f-8bd2-7afd81a7b7c3.jpg?1692183818",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/c/dc098d5b-0cdb-422f-8bd2-7afd81a7b7c3.jpg?1692183818"
+  },
+  "mana_cost": "{2}{W}{W}",
+  "cmc": 4,
+  "type_line": "Enchantment",
+  "oracle_text": "When this enchantment enters, you become the monarch.\nAt the beginning of your upkeep, create a 1/1 white Spirit creature token with flying. If you're the monarch, create a 4/4 white Angel creature token with flying instead.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "089874c5-4f1e-4d03-a4c5-50f6ac0814dd",
+      "component": "token",
+      "name": "Angel",
+      "type_line": "Token Creature — Angel",
+      "uri": "https://api.scryfall.com/cards/089874c5-4f1e-4d03-a4c5-50f6ac0814dd"
+    },
+    {
+      "object": "related_card",
+      "id": "66f569e1-5a37-4801-be01-9c5d44a82427",
+      "component": "combo_piece",
+      "name": "The Monarch",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/66f569e1-5a37-4801-be01-9c5d44a82427"
+    },
+    {
+      "object": "related_card",
+      "id": "1d9b18e5-d842-4114-b395-ff5dd42c94d9",
+      "component": "token",
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/1d9b18e5-d842-4114-b395-ff5dd42c94d9"
+    },
+    {
+      "object": "related_card",
+      "id": "dc098d5b-0cdb-422f-8bd2-7afd81a7b7c3",
+      "component": "combo_piece",
+      "name": "Court of Grace",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/dc098d5b-0cdb-422f-8bd2-7afd81a7b7c3"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/dc098d5b-0cdb-422f-8bd2-7afd81a7b7c3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af63c2438-27d4-449a-828f-f0a2ea86ff16&unique=prints",
+  "collector_number": "1338",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "For a time, she was Radiant.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Scott M. Fischer",
+  "artist_ids": [
+    "23b0cf43-3e43-44c6-8329-96446eca5bce"
+  ],
+  "illustration_id": "ab886faa-38c3-4e56-ad23-bc88ea3805eb",
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1268,
+  "prices": {
+    "usd": null,
+    "usd_foil": "24.71",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCourt%2Bof%2BGrace",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCourt%2Bof%2BGrace",
+    "edhrec": "https://edhrec.com/route/?cc=Court+of+Grace"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F511870%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Court+of+Grace&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Court+of+Grace&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

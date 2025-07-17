@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "88e29f9c-8ef8-4c04-a7d8-69ec52e6c4b5",
+  "oracle_id": "4b7ac066-e5c7-43e6-9e7e-2739b24a905d",
+  "multiverse_ids": [
+    456536
+  ],
+  "tcgplayer_id": 180424,
+  "cardmarket_id": 366557,
+  "name": "Serra Angel",
+  "lang": "en",
+  "released_at": "2018-11-16",
+  "uri": "https://api.scryfall.com/cards/88e29f9c-8ef8-4c04-a7d8-69ec52e6c4b5",
+  "scryfall_uri": "https://scryfall.com/card/gnt/16/serra-angel?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/8/88e29f9c-8ef8-4c04-a7d8-69ec52e6c4b5.jpg?1592764771",
+    "normal": "https://cards.scryfall.io/normal/front/8/8/88e29f9c-8ef8-4c04-a7d8-69ec52e6c4b5.jpg?1592764771",
+    "large": "https://cards.scryfall.io/large/front/8/8/88e29f9c-8ef8-4c04-a7d8-69ec52e6c4b5.jpg?1592764771",
+    "png": "https://cards.scryfall.io/png/front/8/8/88e29f9c-8ef8-4c04-a7d8-69ec52e6c4b5.png?1592764771",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/8/88e29f9c-8ef8-4c04-a7d8-69ec52e6c4b5.jpg?1592764771",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/8/88e29f9c-8ef8-4c04-a7d8-69ec52e6c4b5.jpg?1592764771"
+  },
+  "mana_cost": "{3}{W}{W}",
+  "cmc": 5,
+  "type_line": "Creature — Angel",
+  "oracle_text": "Flying\nVigilance (Attacking doesn't cause this creature to tap.)",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "Vigilance"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "88e29f9c-8ef8-4c04-a7d8-69ec52e6c4b5",
+      "component": "combo_piece",
+      "name": "Serra Angel",
+      "type_line": "Creature — Angel",
+      "uri": "https://api.scryfall.com/cards/88e29f9c-8ef8-4c04-a7d8-69ec52e6c4b5"
+    },
+    {
+      "object": "related_card",
+      "id": "ad2bbfa1-81e0-4683-b1dc-a3aaa9837690",
+      "component": "combo_piece",
+      "name": "Treizeci, Sun of Serra",
+      "type_line": "Legendary Creature — Human Knight",
+      "uri": "https://api.scryfall.com/cards/ad2bbfa1-81e0-4683-b1dc-a3aaa9837690"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cdbedc27-4f24-4d89-ace1-8da1b36ac78e",
+  "set": "gnt",
+  "set_name": "Game Night",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/cdbedc27-4f24-4d89-ace1-8da1b36ac78e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Agnt&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/gnt?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/88e29f9c-8ef8-4c04-a7d8-69ec52e6c4b5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4b7ac066-e5c7-43e6-9e7e-2739b24a905d&unique=prints",
+  "collector_number": "16",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "The angel remembers her past lives like dreams. Her song held up meadows. Her blade drove back darkness. Her wings carried her across the ages.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Donato Giancola",
+  "artist_ids": [
+    "90332db2-aecb-4d79-917b-95cbeb8d0cb6"
+  ],
+  "illustration_id": "7aa16de3-4ff9-4ed9-9d62-62c140599508",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 9512,
+  "penny_rank": 11183,
+  "prices": {
+    "usd": "0.25",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.17",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456536&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSerra%2BAngel",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSerra%2BAngel",
+    "edhrec": "https://edhrec.com/route/?cc=Serra+Angel"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F180424%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=366557&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Serra+Angel&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

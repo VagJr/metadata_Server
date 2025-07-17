@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "892e59df-95ea-490a-8207-ef735faed307",
+  "oracle_id": "4a4f6e85-df16-49a4-8fc6-149a28c2cb42",
+  "multiverse_ids": [],
+  "tcgplayer_id": 222610,
+  "cardmarket_id": 498930,
+  "name": "Vanguard of Brimaz",
+  "lang": "en",
+  "released_at": "2020-09-01",
+  "uri": "https://api.scryfall.com/cards/892e59df-95ea-490a-8207-ef735faed307",
+  "scryfall_uri": "https://scryfall.com/card/plst/BNG-29/vanguard-of-brimaz?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/9/892e59df-95ea-490a-8207-ef735faed307.jpg?1599768610",
+    "normal": "https://cards.scryfall.io/normal/front/8/9/892e59df-95ea-490a-8207-ef735faed307.jpg?1599768610",
+    "large": "https://cards.scryfall.io/large/front/8/9/892e59df-95ea-490a-8207-ef735faed307.jpg?1599768610",
+    "png": "https://cards.scryfall.io/png/front/8/9/892e59df-95ea-490a-8207-ef735faed307.png?1599768610",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/9/892e59df-95ea-490a-8207-ef735faed307.jpg?1599768610",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/9/892e59df-95ea-490a-8207-ef735faed307.jpg?1599768610"
+  },
+  "mana_cost": "{W}{W}",
+  "cmc": 2,
+  "type_line": "Creature — Cat Soldier",
+  "oracle_text": "Vigilance\nHeroic — Whenever you cast a spell that targets this creature, create a 1/1 white Cat Soldier creature token with vigilance.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Vigilance",
+    "Heroic"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "892e59df-95ea-490a-8207-ef735faed307",
+      "component": "combo_piece",
+      "name": "Vanguard of Brimaz",
+      "type_line": "Creature — Cat Soldier",
+      "uri": "https://api.scryfall.com/cards/892e59df-95ea-490a-8207-ef735faed307"
+    },
+    {
+      "object": "related_card",
+      "id": "c0589f10-b81e-4454-a4f0-c39e20ad7781",
+      "component": "token",
+      "name": "Cat Soldier",
+      "type_line": "Token Creature — Cat Soldier",
+      "uri": "https://api.scryfall.com/cards/c0589f10-b81e-4454-a4f0-c39e20ad7781"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/892e59df-95ea-490a-8207-ef735faed307/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4a4f6e85-df16-49a4-8fc6-149a28c2cb42&unique=prints",
+  "collector_number": "BNG-29",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"The humans and their gods never blessed me. Only the pride deserves my allegiance.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mark Zug",
+  "artist_ids": [
+    "48e2b98c-5467-4671-bd42-4c3746115117"
+  ],
+  "illustration_id": "baf4d3b7-11a0-492d-847f-602a1d1f3d5b",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 14289,
+  "penny_rank": 5972,
+  "prices": {
+    "usd": "0.19",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.17",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVanguard%2Bof%2BBrimaz",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVanguard%2Bof%2BBrimaz",
+    "edhrec": "https://edhrec.com/route/?cc=Vanguard+of+Brimaz"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F222610%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=498930&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Vanguard+of+Brimaz&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

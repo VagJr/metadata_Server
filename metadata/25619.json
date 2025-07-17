@@ -1,0 +1,177 @@
+{
+  "object": "card",
+  "id": "3c772bcf-2468-42d0-a671-f57814ba8cbb",
+  "oracle_id": "14c8a590-88ec-4982-ad7b-36a219ff6de7",
+  "multiverse_ids": [
+    683366
+  ],
+  "arena_id": 93634,
+  "tcgplayer_id": 590727,
+  "cardmarket_id": 796902,
+  "name": "Tyvar Kell",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/3c772bcf-2468-42d0-a671-f57814ba8cbb",
+  "scryfall_uri": "https://scryfall.com/card/j25/734/tyvar-kell?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/c/3c772bcf-2468-42d0-a671-f57814ba8cbb.jpg?1730488410",
+    "normal": "https://cards.scryfall.io/normal/front/3/c/3c772bcf-2468-42d0-a671-f57814ba8cbb.jpg?1730488410",
+    "large": "https://cards.scryfall.io/large/front/3/c/3c772bcf-2468-42d0-a671-f57814ba8cbb.jpg?1730488410",
+    "png": "https://cards.scryfall.io/png/front/3/c/3c772bcf-2468-42d0-a671-f57814ba8cbb.png?1730488410",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/c/3c772bcf-2468-42d0-a671-f57814ba8cbb.jpg?1730488410",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/c/3c772bcf-2468-42d0-a671-f57814ba8cbb.jpg?1730488410"
+  },
+  "mana_cost": "{2}{G}{G}",
+  "cmc": 4,
+  "type_line": "Legendary Planeswalker — Tyvar",
+  "oracle_text": "Elves you control have \"{T}: Add {B}.\"\n+1: Put a +1/+1 counter on up to one target Elf. Untap it. It gains deathtouch until end of turn.\n0: Create a 1/1 green Elf Warrior creature token.\n−6: You get an emblem with \"Whenever you cast an Elf spell, it gains haste until end of turn and you draw two cards.\"",
+  "loyalty": "3",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "d949e22a-4e03-4883-89ce-75e07c9da40c",
+      "component": "combo_piece",
+      "name": "Harald, King of Skemfar",
+      "type_line": "Legendary Creature — Elf Warrior",
+      "uri": "https://api.scryfall.com/cards/d949e22a-4e03-4883-89ce-75e07c9da40c"
+    },
+    {
+      "object": "related_card",
+      "id": "3c772bcf-2468-42d0-a671-f57814ba8cbb",
+      "component": "combo_piece",
+      "name": "Tyvar Kell",
+      "type_line": "Legendary Planeswalker — Tyvar",
+      "uri": "https://api.scryfall.com/cards/3c772bcf-2468-42d0-a671-f57814ba8cbb"
+    },
+    {
+      "object": "related_card",
+      "id": "53162f62-5327-4f2d-8f34-e90de2a1c818",
+      "component": "combo_piece",
+      "name": "Tyvar Kell Emblem",
+      "type_line": "Emblem",
+      "uri": "https://api.scryfall.com/cards/53162f62-5327-4f2d-8f34-e90de2a1c818"
+    },
+    {
+      "object": "related_card",
+      "id": "838f4cde-c428-44ed-b7e8-e330e228a304",
+      "component": "combo_piece",
+      "name": "Harald Unites the Elves",
+      "type_line": "Enchantment — Saga",
+      "uri": "https://api.scryfall.com/cards/838f4cde-c428-44ed-b7e8-e330e228a304"
+    },
+    {
+      "object": "related_card",
+      "id": "315c45f4-7bc9-45d5-bbf5-2533cf80af60",
+      "component": "token",
+      "name": "Elf Warrior",
+      "type_line": "Token Creature — Elf Warrior",
+      "uri": "https://api.scryfall.com/cards/315c45f4-7bc9-45d5-bbf5-2533cf80af60"
+    },
+    {
+      "object": "related_card",
+      "id": "16492772-1a2a-4935-95ff-c2416633d064",
+      "component": "combo_piece",
+      "name": "A-Tyvar Kell",
+      "type_line": "Legendary Planeswalker — Tyvar",
+      "uri": "https://api.scryfall.com/cards/16492772-1a2a-4935-95ff-c2416633d064"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "9201567c-bab5-4720-aac9-260e6741f115",
+  "set": "j25",
+  "set_name": "Foundations Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/9201567c-bab5-4720-aac9-260e6741f115",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj25&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j25?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3c772bcf-2468-42d0-a671-f57814ba8cbb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A14c8a590-88ec-4982-ad7b-36a219ff6de7&unique=prints",
+  "collector_number": "734",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rallis",
+  "artist_ids": [
+    "a8e7b854-b15a-421a-b66d-6e68187ae285"
+  ],
+  "illustration_id": "28040723-590d-441b-9d71-5794d300208e",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5113,
+  "penny_rank": 7180,
+  "prices": {
+    "usd": "1.04",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "1.86",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=683366&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTyvar%2BKell",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTyvar%2BKell",
+    "edhrec": "https://edhrec.com/route/?cc=Tyvar+Kell"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F590727%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=796902&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tyvar+Kell&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

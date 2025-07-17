@@ -1,0 +1,151 @@
+{
+  "object": "card",
+  "id": "70a5571e-02cb-4aa4-926d-d04f5ab04f29",
+  "oracle_id": "e4733889-4d4c-4bf7-8a9b-fb5ad7a38395",
+  "multiverse_ids": [
+    649013
+  ],
+  "mtgo_id": 121166,
+  "tcgplayer_id": 535313,
+  "cardmarket_id": 753046,
+  "name": "On the Job",
+  "lang": "en",
+  "released_at": "2024-02-09",
+  "uri": "https://api.scryfall.com/cards/70a5571e-02cb-4aa4-926d-d04f5ab04f29",
+  "scryfall_uri": "https://scryfall.com/card/mkm/292/on-the-job?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/0/70a5571e-02cb-4aa4-926d-d04f5ab04f29.jpg?1706242429",
+    "normal": "https://cards.scryfall.io/normal/front/7/0/70a5571e-02cb-4aa4-926d-d04f5ab04f29.jpg?1706242429",
+    "large": "https://cards.scryfall.io/large/front/7/0/70a5571e-02cb-4aa4-926d-d04f5ab04f29.jpg?1706242429",
+    "png": "https://cards.scryfall.io/png/front/7/0/70a5571e-02cb-4aa4-926d-d04f5ab04f29.png?1706242429",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/0/70a5571e-02cb-4aa4-926d-d04f5ab04f29.jpg?1706242429",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/0/70a5571e-02cb-4aa4-926d-d04f5ab04f29.jpg?1706242429"
+  },
+  "mana_cost": "{2}{W}{W}",
+  "cmc": 4,
+  "type_line": "Instant",
+  "oracle_text": "Creatures you control get +2/+1 until end of turn. Investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Investigate"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "ef607895-d6d2-44ab-a6b4-84af55fce593",
+      "component": "token",
+      "name": "Clue",
+      "type_line": "Token Artifact — Clue",
+      "uri": "https://api.scryfall.com/cards/ef607895-d6d2-44ab-a6b4-84af55fce593"
+    },
+    {
+      "object": "related_card",
+      "id": "70a5571e-02cb-4aa4-926d-d04f5ab04f29",
+      "component": "combo_piece",
+      "name": "On the Job",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/70a5571e-02cb-4aa4-926d-d04f5ab04f29"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+  "set": "mkm",
+  "set_name": "Murders at Karlov Manor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/2b17794b-15c3-4796-ad6f-0887a0eceeca",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mkm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/70a5571e-02cb-4aa4-926d-d04f5ab04f29/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae4733889-4d4c-4bf7-8a9b-fb5ad7a38395&unique=prints",
+  "collector_number": "292",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"The Agency's detectives will eliminate the false leads. I will find the truth.\"\n—Alquist Proft, case notes",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alexander Mokhov",
+  "artist_ids": [
+    "3a6a9d37-e62c-44bd-90f2-f5126324e3f0"
+  ],
+  "illustration_id": "d7a75161-2305-48e1-9483-2b9b11fb638d",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": true,
+  "promo_types": [
+    "magnified",
+    "boosterfun"
+  ],
+  "edhrec_rank": 18603,
+  "prices": {
+    "usd": "0.03",
+    "usd_foil": "0.05",
+    "usd_etched": null,
+    "eur": "0.06",
+    "eur_foil": "0.07",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=649013&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOn%2Bthe%2BJob",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOn%2Bthe%2BJob",
+    "edhrec": "https://edhrec.com/route/?cc=On+the+Job"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F535313%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=753046&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/121166?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

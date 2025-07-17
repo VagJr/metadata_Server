@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "19bbdbd6-0d4e-4657-946d-6bfb0c9fc70a",
+  "oracle_id": "b46da6bd-578c-4040-97c3-0005b78e31be",
+  "multiverse_ids": [],
+  "tcgplayer_id": 249498,
+  "cardmarket_id": 575918,
+  "name": "Mask of Griselbrand",
+  "lang": "en",
+  "released_at": "2021-09-24",
+  "uri": "https://api.scryfall.com/cards/19bbdbd6-0d4e-4657-946d-6bfb0c9fc70a",
+  "scryfall_uri": "https://scryfall.com/card/pmid/111p/mask-of-griselbrand?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/9/19bbdbd6-0d4e-4657-946d-6bfb0c9fc70a.jpg?1644867286",
+    "normal": "https://cards.scryfall.io/normal/front/1/9/19bbdbd6-0d4e-4657-946d-6bfb0c9fc70a.jpg?1644867286",
+    "large": "https://cards.scryfall.io/large/front/1/9/19bbdbd6-0d4e-4657-946d-6bfb0c9fc70a.jpg?1644867286",
+    "png": "https://cards.scryfall.io/png/front/1/9/19bbdbd6-0d4e-4657-946d-6bfb0c9fc70a.png?1644867286",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/9/19bbdbd6-0d4e-4657-946d-6bfb0c9fc70a.jpg?1644867286",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/9/19bbdbd6-0d4e-4657-946d-6bfb0c9fc70a.jpg?1644867286"
+  },
+  "mana_cost": "{1}{B}{B}",
+  "cmc": 3,
+  "type_line": "Legendary Artifact — Equipment",
+  "oracle_text": "Equipped creature has flying and lifelink.\nWhenever equipped creature dies, you may pay X life, where X is its power. If you do, draw X cards.\nEquip {3}",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Equip"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e7f1d597-3f0b-4892-a857-ac6f8f6f1058",
+  "set": "pmid",
+  "set_name": "Innistrad: Midnight Hunt Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/e7f1d597-3f0b-4892-a857-ac6f8f6f1058",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apmid&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pmid?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/19bbdbd6-0d4e-4657-946d-6bfb0c9fc70a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab46da6bd-578c-4040-97c3-0005b78e31be&unique=prints",
+  "collector_number": "111p",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "The legacy of evil lives on.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason Felix",
+  "artist_ids": [
+    "af42a44c-8ec3-47a7-9047-5d29ddad186d"
+  ],
+  "illustration_id": "57457376-512d-4f50-99ae-5acc603b610f",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 2726,
+  "penny_rank": 11762,
+  "prices": {
+    "usd": "0.87",
+    "usd_foil": "1.35",
+    "usd_etched": null,
+    "eur": "0.30",
+    "eur_foil": "0.80",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMask%2Bof%2BGriselbrand",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMask%2Bof%2BGriselbrand",
+    "edhrec": "https://edhrec.com/route/?cc=Mask+of+Griselbrand"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F249498%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=575918&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mask+of+Griselbrand&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

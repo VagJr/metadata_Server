@@ -1,0 +1,160 @@
+{
+  "object": "card",
+  "id": "9187f4ea-27f2-4f94-b783-6992087d64a4",
+  "oracle_id": "55ad6a6b-1c44-4397-86ae-dd9221892b22",
+  "multiverse_ids": [
+    577846
+  ],
+  "tcgplayer_id": 283387,
+  "cardmarket_id": 672289,
+  "name": "Ivy, Gleeful Spellthief",
+  "lang": "en",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/9187f4ea-27f2-4f94-b783-6992087d64a4",
+  "scryfall_uri": "https://scryfall.com/card/dmu/341/ivy-gleeful-spellthief?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/1/9187f4ea-27f2-4f94-b783-6992087d64a4.jpg?1674074306",
+    "normal": "https://cards.scryfall.io/normal/front/9/1/9187f4ea-27f2-4f94-b783-6992087d64a4.jpg?1674074306",
+    "large": "https://cards.scryfall.io/large/front/9/1/9187f4ea-27f2-4f94-b783-6992087d64a4.jpg?1674074306",
+    "png": "https://cards.scryfall.io/png/front/9/1/9187f4ea-27f2-4f94-b783-6992087d64a4.png?1674074306",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/1/9187f4ea-27f2-4f94-b783-6992087d64a4.jpg?1674074306",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/1/9187f4ea-27f2-4f94-b783-6992087d64a4.jpg?1674074306"
+  },
+  "mana_cost": "{G}{U}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Faerie Rogue",
+  "oracle_text": "Flying\nWhenever a player casts a spell that targets only a single creature other than Ivy, you may copy that spell. The copy targets Ivy. (A copy of an Aura spell becomes a token.)",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "9187f4ea-27f2-4f94-b783-6992087d64a4",
+      "component": "combo_piece",
+      "name": "Ivy, Gleeful Spellthief",
+      "type_line": "Legendary Creature — Faerie Rogue",
+      "uri": "https://api.scryfall.com/cards/9187f4ea-27f2-4f94-b783-6992087d64a4"
+    },
+    {
+      "object": "related_card",
+      "id": "09d6521e-438a-4d16-992f-f2ab27b26ce4",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/09d6521e-438a-4d16-992f-f2ab27b26ce4"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set": "dmu",
+  "set_name": "Dominaria United",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dmu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9187f4ea-27f2-4f94-b783-6992087d64a4/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A55ad6a6b-1c44-4397-86ae-dd9221892b22&unique=prints",
+  "collector_number": "341",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Eshpur",
+  "artist_ids": [
+    "e9140d42-3fe2-4f83-9453-704f34f26218"
+  ],
+  "illustration_id": "890bdfa9-6a09-4f4d-abc9-24c0158e100f",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "textured",
+    "boosterfun"
+  ],
+  "edhrec_rank": 4923,
+  "penny_rank": 6652,
+  "preview": {
+    "source": "ComicBook.com",
+    "source_uri": "https://comicbook.com/gaming/news/gamescom-opening-night-live-how-to-watch-what-to-expect/",
+    "previewed_at": "2022-08-23"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.48",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.84",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=577846&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DIvy%252C%2BGleeful%2BSpellthief",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DIvy%252C%2BGleeful%2BSpellthief",
+    "edhrec": "https://edhrec.com/route/?cc=Ivy%2C+Gleeful+Spellthief"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F283387%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=672289&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ivy%2C+Gleeful+Spellthief&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

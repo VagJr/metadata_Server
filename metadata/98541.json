@@ -1,0 +1,157 @@
+{
+  "object": "card",
+  "id": "e8da4daa-1441-4d15-b9dc-7732343b38f1",
+  "oracle_id": "a784481f-eccb-4112-bb38-04a659319660",
+  "multiverse_ids": [
+    642844
+  ],
+  "mtgo_id": 117376,
+  "tcgplayer_id": 525608,
+  "cardmarket_id": 744181,
+  "name": "Pitiless Plunderer",
+  "lang": "en",
+  "released_at": "2023-11-17",
+  "uri": "https://api.scryfall.com/cards/e8da4daa-1441-4d15-b9dc-7732343b38f1",
+  "scryfall_uri": "https://scryfall.com/card/spg/5/pitiless-plunderer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/8/e8da4daa-1441-4d15-b9dc-7732343b38f1.jpg?1699022179",
+    "normal": "https://cards.scryfall.io/normal/front/e/8/e8da4daa-1441-4d15-b9dc-7732343b38f1.jpg?1699022179",
+    "large": "https://cards.scryfall.io/large/front/e/8/e8da4daa-1441-4d15-b9dc-7732343b38f1.jpg?1699022179",
+    "png": "https://cards.scryfall.io/png/front/e/8/e8da4daa-1441-4d15-b9dc-7732343b38f1.png?1699022179",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/8/e8da4daa-1441-4d15-b9dc-7732343b38f1.jpg?1699022179",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/8/e8da4daa-1441-4d15-b9dc-7732343b38f1.jpg?1699022179"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4,
+  "type_line": "Creature — Human Pirate",
+  "oracle_text": "Whenever another creature you control dies, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+  "power": "1",
+  "toughness": "4",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Treasure"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "73f94f72-a689-41ca-b1af-6004e2a57e9c",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/73f94f72-a689-41ca-b1af-6004e2a57e9c"
+    },
+    {
+      "object": "related_card",
+      "id": "e8da4daa-1441-4d15-b9dc-7732343b38f1",
+      "component": "combo_piece",
+      "name": "Pitiless Plunderer",
+      "type_line": "Creature — Human Pirate",
+      "uri": "https://api.scryfall.com/cards/e8da4daa-1441-4d15-b9dc-7732343b38f1"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c01003a2-b3e2-4e7f-a26d-2348144c8056",
+  "set": "spg",
+  "set_name": "Special Guests",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/c01003a2-b3e2-4e7f-a26d-2348144c8056",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aspg&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/spg?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e8da4daa-1441-4d15-b9dc-7732343b38f1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa784481f-eccb-4112-bb38-04a659319660&unique=prints",
+  "collector_number": "5",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"The trick to getting the biggest share is to be the last one standing.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Johan Grenier",
+  "artist_ids": [
+    "465e38b8-7eed-4d22-a6d2-d3603ee0c00b"
+  ],
+  "illustration_id": "a05ffea1-4660-4d56-b890-965700259047",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted"
+  ],
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 258,
+  "penny_rank": 6524,
+  "prices": {
+    "usd": "14.16",
+    "usd_foil": "26.08",
+    "usd_etched": null,
+    "eur": "15.04",
+    "eur_foil": "20.19",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642844&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPitiless%2BPlunderer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPitiless%2BPlunderer",
+    "edhrec": "https://edhrec.com/route/?cc=Pitiless+Plunderer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F525608%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=744181&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/117376?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

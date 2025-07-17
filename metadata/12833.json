@@ -1,0 +1,253 @@
+{
+  "object": "card",
+  "id": "1e0205f2-25c1-403b-b408-56e3f2d63b4d",
+  "oracle_id": "b2580667-88dc-4916-a64c-3080956b24bc",
+  "multiverse_ids": [],
+  "name": "Rat",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/1e0205f2-25c1-403b-b408-56e3f2d63b4d",
+  "scryfall_uri": "https://scryfall.com/card/twoe/7/rat?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/e/1e0205f2-25c1-403b-b408-56e3f2d63b4d.jpg?1692495795",
+    "normal": "https://cards.scryfall.io/normal/front/1/e/1e0205f2-25c1-403b-b408-56e3f2d63b4d.jpg?1692495795",
+    "large": "https://cards.scryfall.io/large/front/1/e/1e0205f2-25c1-403b-b408-56e3f2d63b4d.jpg?1692495795",
+    "png": "https://cards.scryfall.io/png/front/1/e/1e0205f2-25c1-403b-b408-56e3f2d63b4d.png?1692495795",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/e/1e0205f2-25c1-403b-b408-56e3f2d63b4d.jpg?1692495795",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/e/1e0205f2-25c1-403b-b408-56e3f2d63b4d.jpg?1692495795"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Rat",
+  "oracle_text": "This token can't block.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "254fc64a-9734-44a6-8869-ab03512f1a99",
+      "component": "combo_piece",
+      "name": "Gnawing Crescendo",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/254fc64a-9734-44a6-8869-ab03512f1a99"
+    },
+    {
+      "object": "related_card",
+      "id": "f2c42755-bf91-4c75-95c6-d2a60ba3492a",
+      "component": "combo_piece",
+      "name": "Rat Out",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/f2c42755-bf91-4c75-95c6-d2a60ba3492a"
+    },
+    {
+      "object": "related_card",
+      "id": "2f185869-5509-4269-ae25-dc9ec2601b98",
+      "component": "combo_piece",
+      "name": "Tangled Colony",
+      "type_line": "Creature — Rat",
+      "uri": "https://api.scryfall.com/cards/2f185869-5509-4269-ae25-dc9ec2601b98"
+    },
+    {
+      "object": "related_card",
+      "id": "21b31d2b-ef66-4e16-a75e-4e27eb5ebfe9",
+      "component": "combo_piece",
+      "name": "Lord Skitter's Butcher",
+      "type_line": "Creature — Rat Peasant",
+      "uri": "https://api.scryfall.com/cards/21b31d2b-ef66-4e16-a75e-4e27eb5ebfe9"
+    },
+    {
+      "object": "related_card",
+      "id": "cd8d687a-8935-4907-909f-4cadac6cdf67",
+      "component": "combo_piece",
+      "name": "Ogre Chitterlord",
+      "type_line": "Creature — Ogre Warrior",
+      "uri": "https://api.scryfall.com/cards/cd8d687a-8935-4907-909f-4cadac6cdf67"
+    },
+    {
+      "object": "related_card",
+      "id": "84c700c4-cdca-48be-9e5c-06b5dbe7e487",
+      "component": "combo_piece",
+      "name": "Song of Totentanz",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/84c700c4-cdca-48be-9e5c-06b5dbe7e487"
+    },
+    {
+      "object": "related_card",
+      "id": "49aaf5db-9418-4b97-97da-736c674905d4",
+      "component": "combo_piece",
+      "name": "Experimental Confectioner",
+      "type_line": "Creature — Human Peasant",
+      "uri": "https://api.scryfall.com/cards/49aaf5db-9418-4b97-97da-736c674905d4"
+    },
+    {
+      "object": "related_card",
+      "id": "8059be65-3c73-49bb-a3b6-c346ce2f9fa4",
+      "component": "combo_piece",
+      "name": "Voracious Vermin",
+      "type_line": "Creature — Rat",
+      "uri": "https://api.scryfall.com/cards/8059be65-3c73-49bb-a3b6-c346ce2f9fa4"
+    },
+    {
+      "object": "related_card",
+      "id": "d6e3ddf7-582d-4923-be30-8428e52237e4",
+      "component": "combo_piece",
+      "name": "Twisted Sewer-Witch",
+      "type_line": "Creature — Human Warlock",
+      "uri": "https://api.scryfall.com/cards/d6e3ddf7-582d-4923-be30-8428e52237e4"
+    },
+    {
+      "object": "related_card",
+      "id": "d500ad81-9659-4a00-8f99-8be7c23587e8",
+      "component": "combo_piece",
+      "name": "Warehouse Tabby",
+      "type_line": "Creature — Cat",
+      "uri": "https://api.scryfall.com/cards/d500ad81-9659-4a00-8f99-8be7c23587e8"
+    },
+    {
+      "object": "related_card",
+      "id": "d5adbb22-c63b-4d58-a37a-82dd78964455",
+      "component": "combo_piece",
+      "name": "Redcap Gutter-Dweller",
+      "type_line": "Creature — Goblin Warrior",
+      "uri": "https://api.scryfall.com/cards/d5adbb22-c63b-4d58-a37a-82dd78964455"
+    },
+    {
+      "object": "related_card",
+      "id": "1e0205f2-25c1-403b-b408-56e3f2d63b4d",
+      "component": "token",
+      "name": "Rat",
+      "type_line": "Token Creature — Rat",
+      "uri": "https://api.scryfall.com/cards/1e0205f2-25c1-403b-b408-56e3f2d63b4d"
+    },
+    {
+      "object": "related_card",
+      "id": "1422d6db-fe5b-4a89-951a-fbd7985a29fc",
+      "component": "combo_piece",
+      "name": "Totentanz, Swarm Piper",
+      "type_line": "Legendary Creature — Human Warlock Bard",
+      "uri": "https://api.scryfall.com/cards/1422d6db-fe5b-4a89-951a-fbd7985a29fc"
+    },
+    {
+      "object": "related_card",
+      "id": "1db79785-4f55-445f-93f2-14c6e4606fc5",
+      "component": "combo_piece",
+      "name": "Harried Spearguard",
+      "type_line": "Creature — Human Soldier",
+      "uri": "https://api.scryfall.com/cards/1db79785-4f55-445f-93f2-14c6e4606fc5"
+    },
+    {
+      "object": "related_card",
+      "id": "7f4c0959-a107-4d61-9e51-256b2955f6ba",
+      "component": "combo_piece",
+      "name": "Ratcatcher Trainee // Pest Problem",
+      "type_line": "Creature — Human Peasant // Instant — Adventure",
+      "uri": "https://api.scryfall.com/cards/7f4c0959-a107-4d61-9e51-256b2955f6ba"
+    },
+    {
+      "object": "related_card",
+      "id": "acda9d02-00fc-49e2-a9f3-176e9c0a8c5f",
+      "component": "combo_piece",
+      "name": "Edgewall Pack",
+      "type_line": "Creature — Dog",
+      "uri": "https://api.scryfall.com/cards/acda9d02-00fc-49e2-a9f3-176e9c0a8c5f"
+    },
+    {
+      "object": "related_card",
+      "id": "29d926f2-3658-48db-b094-4e33cdd9e26c",
+      "component": "combo_piece",
+      "name": "Lord Skitter, Sewer King",
+      "type_line": "Legendary Creature — Rat Noble",
+      "uri": "https://api.scryfall.com/cards/29d926f2-3658-48db-b094-4e33cdd9e26c"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "273c0661-0af3-4b64-880f-e287799325e9",
+  "set": "twoe",
+  "set_name": "Wilds of Eldraine Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/273c0661-0af3-4b64-880f-e287799325e9",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atwoe&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/twoe?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1e0205f2-25c1-403b-b408-56e3f2d63b4d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab2580667-88dc-4916-a64c-3080956b24bc&unique=prints",
+  "collector_number": "7",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kim Sokol",
+  "artist_ids": [
+    "f2bd4ad3-6359-4592-9b34-90a70cfe1b61"
+  ],
+  "illustration_id": "1cfa412b-8ef6-4204-a8d4-726be22e5f13",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRat",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRat",
+    "edhrec": "https://edhrec.com/route/?cc=Rat"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DRat%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rat&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rat&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

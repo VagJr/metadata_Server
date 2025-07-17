@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "c2be221c-76e2-4b18-a3c1-90ced436d01f",
+  "oracle_id": "2274c7ae-5a40-4fd4-a4ac-6f56b23034e4",
+  "multiverse_ids": [
+    554176
+  ],
+  "tcgplayer_id": 263004,
+  "cardmarket_id": 608908,
+  "name": "Jace, Architect of Thought",
+  "lang": "en",
+  "released_at": "2022-02-18",
+  "uri": "https://api.scryfall.com/cards/c2be221c-76e2-4b18-a3c1-90ced436d01f",
+  "scryfall_uri": "https://scryfall.com/card/nec/93/jace-architect-of-thought?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/2/c2be221c-76e2-4b18-a3c1-90ced436d01f.jpg?1651655718",
+    "normal": "https://cards.scryfall.io/normal/front/c/2/c2be221c-76e2-4b18-a3c1-90ced436d01f.jpg?1651655718",
+    "large": "https://cards.scryfall.io/large/front/c/2/c2be221c-76e2-4b18-a3c1-90ced436d01f.jpg?1651655718",
+    "png": "https://cards.scryfall.io/png/front/c/2/c2be221c-76e2-4b18-a3c1-90ced436d01f.png?1651655718",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/2/c2be221c-76e2-4b18-a3c1-90ced436d01f.jpg?1651655718",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/2/c2be221c-76e2-4b18-a3c1-90ced436d01f.jpg?1651655718"
+  },
+  "mana_cost": "{2}{U}{U}",
+  "cmc": 4,
+  "type_line": "Legendary Planeswalker — Jace",
+  "oracle_text": "+1: Until your next turn, whenever a creature an opponent controls attacks, it gets -1/-0 until end of turn.\n−2: Reveal the top three cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other on the bottom of your library in any order.\n−8: For each player, search that player's library for a nonland card and exile it, then that player shuffles. You may cast those cards without paying their mana costs.",
+  "loyalty": "4",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5b4d929d-bdf9-4bbf-858e-e248f53325ad",
+  "set": "nec",
+  "set_name": "Neon Dynasty Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/5b4d929d-bdf9-4bbf-858e-e248f53325ad",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Anec&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/nec?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c2be221c-76e2-4b18-a3c1-90ced436d01f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2274c7ae-5a40-4fd4-a4ac-6f56b23034e4&unique=prints",
+  "collector_number": "93",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jaime Jones",
+  "artist_ids": [
+    "92f6c2c1-fa57-4b52-99c4-0fd866c13dc9"
+  ],
+  "illustration_id": "bb18894d-ac3d-4e9e-86a9-12657a65bb10",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 6507,
+  "penny_rank": 365,
+  "prices": {
+    "usd": "0.33",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.27",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=554176&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJace%252C%2BArchitect%2Bof%2BThought",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJace%252C%2BArchitect%2Bof%2BThought",
+    "edhrec": "https://edhrec.com/route/?cc=Jace%2C+Architect+of+Thought"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F263004%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=608908&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jace%2C+Architect+of+Thought&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

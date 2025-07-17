@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "c512849e-a336-47a9-a3cf-8b9e7a0558ab",
+  "oracle_id": "7b22f31c-9caa-4afd-8c44-f88346bfa79c",
+  "multiverse_ids": [],
+  "tcgplayer_id": 582609,
+  "name": "Shu Yun, the Silent Tempest",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/c512849e-a336-47a9-a3cf-8b9e7a0558ab",
+  "scryfall_uri": "https://scryfall.com/card/plst/FRF-52/shu-yun-the-silent-tempest?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/5/c512849e-a336-47a9-a3cf-8b9e7a0558ab.jpg?1723436564",
+    "normal": "https://cards.scryfall.io/normal/front/c/5/c512849e-a336-47a9-a3cf-8b9e7a0558ab.jpg?1723436564",
+    "large": "https://cards.scryfall.io/large/front/c/5/c512849e-a336-47a9-a3cf-8b9e7a0558ab.jpg?1723436564",
+    "png": "https://cards.scryfall.io/png/front/c/5/c512849e-a336-47a9-a3cf-8b9e7a0558ab.png?1723436564",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/5/c512849e-a336-47a9-a3cf-8b9e7a0558ab.jpg?1723436564",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/5/c512849e-a336-47a9-a3cf-8b9e7a0558ab.jpg?1723436564"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Legendary Creature — Human Monk",
+  "oracle_text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever you cast a noncreature spell, you may pay {R/W}{R/W}. If you do, target creature gains double strike until end of turn.",
+  "power": "3",
+  "toughness": "2",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U",
+    "W"
+  ],
+  "keywords": [
+    "Prowess"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c512849e-a336-47a9-a3cf-8b9e7a0558ab/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7b22f31c-9caa-4afd-8c44-f88346bfa79c&unique=prints",
+  "collector_number": "FRF-52",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "jeskai",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "David Gaillet",
+  "artist_ids": [
+    "3496c5b4-57bf-4e5e-8bac-a1e05a911a2d"
+  ],
+  "illustration_id": "73d4d41c-61f8-4236-af9d-db088ff5d072",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 10954,
+  "penny_rank": 8557,
+  "prices": {
+    "usd": "0.25",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DShu%2BYun%252C%2Bthe%2BSilent%2BTempest",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DShu%2BYun%252C%2Bthe%2BSilent%2BTempest",
+    "edhrec": "https://edhrec.com/route/?cc=Shu+Yun%2C+the+Silent+Tempest"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F582609%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Shu+Yun%2C+the+Silent+Tempest&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Shu+Yun%2C+the+Silent+Tempest&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

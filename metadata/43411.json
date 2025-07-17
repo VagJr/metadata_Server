@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "666749f4-3481-424b-9f18-37763ebf769a",
+  "oracle_id": "d9f1dc61-831e-4244-a2da-aa9da6fd5b50",
+  "multiverse_ids": [
+    678447
+  ],
+  "mtgo_id": 133234,
+  "tcgplayer_id": 589455,
+  "cardmarket_id": 795174,
+  "name": "Niv-Mizzet, Visionary",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/666749f4-3481-424b-9f18-37763ebf769a",
+  "scryfall_uri": "https://scryfall.com/card/fdn/350/niv-mizzet-visionary?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/6/666749f4-3481-424b-9f18-37763ebf769a.jpg?1730489913",
+    "normal": "https://cards.scryfall.io/normal/front/6/6/666749f4-3481-424b-9f18-37763ebf769a.jpg?1730489913",
+    "large": "https://cards.scryfall.io/large/front/6/6/666749f4-3481-424b-9f18-37763ebf769a.jpg?1730489913",
+    "png": "https://cards.scryfall.io/png/front/6/6/666749f4-3481-424b-9f18-37763ebf769a.png?1730489913",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/6/666749f4-3481-424b-9f18-37763ebf769a.jpg?1730489913",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/6/666749f4-3481-424b-9f18-37763ebf769a.jpg?1730489913"
+  },
+  "mana_cost": "{4}{U}{R}",
+  "cmc": 6,
+  "type_line": "Legendary Creature — Dragon Wizard",
+  "oracle_text": "Flying\nYou have no maximum hand size.\nWhenever a source you control deals noncombat damage to an opponent, you draw that many cards.",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set": "fdn",
+  "set_name": "Foundations",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afdn&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fdn?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/666749f4-3481-424b-9f18-37763ebf769a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad9f1dc61-831e-4244-a2da-aa9da6fd5b50&unique=prints",
+  "collector_number": "350",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "Those who interrupt the great scientist often find themselves testing the safety limits of his arcane inventions.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Raymond Swanland",
+  "artist_ids": [
+    "e956bacc-077d-4c12-b6bc-ba798b718af9"
+  ],
+  "illustration_id": "75081d35-ed8c-4aa5-ac73-4694f687277a",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 3466,
+  "prices": {
+    "usd": "12.49",
+    "usd_foil": "26.54",
+    "usd_etched": null,
+    "eur": "8.67",
+    "eur_foil": "17.45",
+    "tix": "0.17"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=678447&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNiv-Mizzet%252C%2BVisionary",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNiv-Mizzet%252C%2BVisionary",
+    "edhrec": "https://edhrec.com/route/?cc=Niv-Mizzet%2C+Visionary"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F589455%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=795174&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/133234?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "607157a4-4fe8-46b9-86e1-0a30f040116b",
+  "oracle_id": "1197a595-3afc-4f18-b868-bbb096771922",
+  "multiverse_ids": [
+    632484
+  ],
+  "mtgo_id": 115936,
+  "arena_id": 87094,
+  "tcgplayer_id": 513346,
+  "cardmarket_id": 730291,
+  "name": "Leyline of Abundance",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/607157a4-4fe8-46b9-86e1-0a30f040116b",
+  "scryfall_uri": "https://scryfall.com/card/wot/56/leyline-of-abundance?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/0/607157a4-4fe8-46b9-86e1-0a30f040116b.jpg?1692932861",
+    "normal": "https://cards.scryfall.io/normal/front/6/0/607157a4-4fe8-46b9-86e1-0a30f040116b.jpg?1692932861",
+    "large": "https://cards.scryfall.io/large/front/6/0/607157a4-4fe8-46b9-86e1-0a30f040116b.jpg?1692932861",
+    "png": "https://cards.scryfall.io/png/front/6/0/607157a4-4fe8-46b9-86e1-0a30f040116b.png?1692932861",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/0/607157a4-4fe8-46b9-86e1-0a30f040116b.jpg?1692932861",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/0/607157a4-4fe8-46b9-86e1-0a30f040116b.jpg?1692932861"
+  },
+  "mana_cost": "{2}{G}{G}",
+  "cmc": 4,
+  "type_line": "Enchantment",
+  "oracle_text": "If this card is in your opening hand, you may begin the game with it on the battlefield.\nWhenever you tap a creature for mana, add an additional {G}.\n{6}{G}{G}: Put a +1/+1 counter on each creature you control.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "G"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "banned",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d1eba841-452b-4f81-88c9-b32973ac8176",
+  "set": "wot",
+  "set_name": "Wilds of Eldraine: Enchanting Tales",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/d1eba841-452b-4f81-88c9-b32973ac8176",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awot&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/wot?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/607157a4-4fe8-46b9-86e1-0a30f040116b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1197a595-3afc-4f18-b868-bbb096771922&unique=prints",
+  "collector_number": "56",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "BEMOCS",
+  "artist_ids": [
+    "5b5115bb-b57d-4a9c-8399-494b3f4cd9c7"
+  ],
+  "illustration_id": "0ff55b44-f6d8-4942-993a-a0e761f75b8b",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 2733,
+  "penny_rank": 2392,
+  "preview": {
+    "source": "Behaart Mit Bart",
+    "source_uri": "https://twitter.com/BehaartMitBart",
+    "previewed_at": "2023-08-21"
+  },
+  "prices": {
+    "usd": "0.39",
+    "usd_foil": "0.54",
+    "usd_etched": null,
+    "eur": "0.42",
+    "eur_foil": "1.12",
+    "tix": "0.20"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=632484&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLeyline%2Bof%2BAbundance",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLeyline%2Bof%2BAbundance",
+    "edhrec": "https://edhrec.com/route/?cc=Leyline+of+Abundance"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F513346%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=730291&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/115936?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

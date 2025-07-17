@@ -1,0 +1,158 @@
+{
+  "object": "card",
+  "id": "3518fbe6-5640-4aca-a2fd-e83c82d2e2fd",
+  "oracle_id": "663d9559-6619-46fe-8ff4-655f1d5e0e4c",
+  "multiverse_ids": [
+    675084
+  ],
+  "mtgo_id": 129903,
+  "tcgplayer_id": 577695,
+  "cardmarket_id": 788110,
+  "name": "Valgavoth's Onslaught",
+  "lang": "en",
+  "released_at": "2024-09-27",
+  "uri": "https://api.scryfall.com/cards/3518fbe6-5640-4aca-a2fd-e83c82d2e2fd",
+  "scryfall_uri": "https://scryfall.com/card/dsk/324/valgavoths-onslaught?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/5/3518fbe6-5640-4aca-a2fd-e83c82d2e2fd.jpg?1726287094",
+    "normal": "https://cards.scryfall.io/normal/front/3/5/3518fbe6-5640-4aca-a2fd-e83c82d2e2fd.jpg?1726287094",
+    "large": "https://cards.scryfall.io/large/front/3/5/3518fbe6-5640-4aca-a2fd-e83c82d2e2fd.jpg?1726287094",
+    "png": "https://cards.scryfall.io/png/front/3/5/3518fbe6-5640-4aca-a2fd-e83c82d2e2fd.png?1726287094",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/5/3518fbe6-5640-4aca-a2fd-e83c82d2e2fd.jpg?1726287094",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/5/3518fbe6-5640-4aca-a2fd-e83c82d2e2fd.jpg?1726287094"
+  },
+  "mana_cost": "{X}{X}{G}",
+  "cmc": 1,
+  "type_line": "Sorcery",
+  "oracle_text": "Manifest dread X times, then put X +1/+1 counters on each of those creatures. (To manifest dread, look at the top two cards of your library, then put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Manifest",
+    "Manifest dread"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "3518fbe6-5640-4aca-a2fd-e83c82d2e2fd",
+      "component": "combo_piece",
+      "name": "Valgavoth's Onslaught",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/3518fbe6-5640-4aca-a2fd-e83c82d2e2fd"
+    },
+    {
+      "object": "related_card",
+      "id": "01104ab1-84e1-4c78-853d-637c6554bdf9",
+      "component": "combo_piece",
+      "name": "Manifest",
+      "type_line": "Creature",
+      "uri": "https://api.scryfall.com/cards/01104ab1-84e1-4c78-853d-637c6554bdf9"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a111d8a9-b647-48ec-afab-2b78f92173f5",
+  "set": "dsk",
+  "set_name": "Duskmourn: House of Horror",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/a111d8a9-b647-48ec-afab-2b78f92173f5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adsk&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dsk?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3518fbe6-5640-4aca-a2fd-e83c82d2e2fd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A663d9559-6619-46fe-8ff4-655f1d5e0e4c&unique=prints",
+  "collector_number": "324",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Where do they keep coming [unintelligble screaming]\"\n—Recorded tape fragment",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Cacho Rubione",
+  "artist_ids": [
+    "1fe5e30c-6e33-4a59-a612-26f131ee9a68"
+  ],
+  "illustration_id": "f8838bcc-cc28-4d90-a51f-2e29304bb0e3",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 8542,
+  "penny_rank": 2939,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2024-09-09"
+  },
+  "prices": {
+    "usd": "0.22",
+    "usd_foil": "0.28",
+    "usd_etched": null,
+    "eur": "0.40",
+    "eur_foil": "0.37",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=675084&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DValgavoth%2527s%2BOnslaught",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DValgavoth%2527s%2BOnslaught",
+    "edhrec": "https://edhrec.com/route/?cc=Valgavoth%27s+Onslaught"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F577695%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=788110&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/129903?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

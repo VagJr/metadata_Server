@@ -1,0 +1,168 @@
+{
+  "object": "card",
+  "id": "a2a86ee7-f953-4fa2-8f28-a0c28afd733b",
+  "oracle_id": "6d611800-5b0e-40ca-82a2-5b294a1ebf6d",
+  "multiverse_ids": [],
+  "tcgplayer_id": 199348,
+  "cardmarket_id": 401474,
+  "name": "Shepherd of the Flock // Usher to Safety",
+  "lang": "en",
+  "released_at": "2019-10-04",
+  "uri": "https://api.scryfall.com/cards/a2a86ee7-f953-4fa2-8f28-a0c28afd733b",
+  "scryfall_uri": "https://scryfall.com/card/eld/278/shepherd-of-the-flock-usher-to-safety?utm_source=api",
+  "layout": "adventure",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/2/a2a86ee7-f953-4fa2-8f28-a0c28afd733b.jpg?1571320229",
+    "normal": "https://cards.scryfall.io/normal/front/a/2/a2a86ee7-f953-4fa2-8f28-a0c28afd733b.jpg?1571320229",
+    "large": "https://cards.scryfall.io/large/front/a/2/a2a86ee7-f953-4fa2-8f28-a0c28afd733b.jpg?1571320229",
+    "png": "https://cards.scryfall.io/png/front/a/2/a2a86ee7-f953-4fa2-8f28-a0c28afd733b.png?1571320229",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/2/a2a86ee7-f953-4fa2-8f28-a0c28afd733b.jpg?1571320229",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/2/a2a86ee7-f953-4fa2-8f28-a0c28afd733b.jpg?1571320229"
+  },
+  "mana_cost": "{1}{W} // {W}",
+  "cmc": 2,
+  "type_line": "Creature — Human Peasant // Instant — Adventure",
+  "power": "3",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Shepherd of the Flock",
+      "mana_cost": "{1}{W}",
+      "type_line": "Creature — Human Peasant",
+      "oracle_text": "",
+      "power": "3",
+      "toughness": "1",
+      "flavor_text": "Not all heroes carry swords.",
+      "artist": "Craig J Spearing",
+      "artist_id": "b0f15e74-0dd6-4156-959e-c5e30c5cdc52",
+      "illustration_id": "58f997c7-1500-4b02-9a8c-7007cdb5b370"
+    },
+    {
+      "object": "card_face",
+      "name": "Usher to Safety",
+      "mana_cost": "{W}",
+      "type_line": "Instant — Adventure",
+      "oracle_text": "Return target permanent you control to its owner's hand. (Then exile this card. You may cast the creature later from exile.)",
+      "artist": "Craig J Spearing",
+      "artist_id": "b0f15e74-0dd6-4156-959e-c5e30c5cdc52"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a2a86ee7-f953-4fa2-8f28-a0c28afd733b",
+      "component": "combo_piece",
+      "name": "Shepherd of the Flock // Usher to Safety",
+      "type_line": "Creature — Human Peasant // Instant — Adventure",
+      "uri": "https://api.scryfall.com/cards/a2a86ee7-f953-4fa2-8f28-a0c28afd733b"
+    },
+    {
+      "object": "related_card",
+      "id": "a8d50cf9-03e6-467a-aadf-84a24106ffa9",
+      "component": "combo_piece",
+      "name": "On an Adventure",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/a8d50cf9-03e6-467a-aadf-84a24106ffa9"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a90a7b2f-9dd8-4fc7-9f7d-8ea2797ec782",
+  "set": "eld",
+  "set_name": "Throne of Eldraine",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/a90a7b2f-9dd8-4fc7-9f7d-8ea2797ec782",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aeld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/eld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a2a86ee7-f953-4fa2-8f28-a0c28afd733b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6d611800-5b0e-40ca-82a2-5b294a1ebf6d&unique=prints",
+  "collector_number": "278",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Not all heroes carry swords.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Craig J Spearing",
+  "artist_ids": [
+    "b0f15e74-0dd6-4156-959e-c5e30c5cdc52"
+  ],
+  "illustration_id": "58f997c7-1500-4b02-9a8c-7007cdb5b370",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 11064,
+  "penny_rank": 5716,
+  "prices": {
+    "usd": "0.12",
+    "usd_foil": "0.43",
+    "usd_etched": null,
+    "eur": "0.13",
+    "eur_foil": "0.56",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DShepherd%2Bof%2Bthe%2BFlock%2B%252F%252F%2BUsher%2Bto%2BSafety",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DShepherd%2Bof%2Bthe%2BFlock%2B%252F%252F%2BUsher%2Bto%2BSafety",
+    "edhrec": "https://edhrec.com/route/?cc=Shepherd+of+the+Flock"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F199348%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=401474&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Shepherd+of+the+Flock&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

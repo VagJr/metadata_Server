@@ -1,0 +1,150 @@
+{
+  "object": "card",
+  "id": "1b9fbbfc-8920-46cd-95cd-2372feb4617a",
+  "oracle_id": "a04696c4-4138-47e2-8da4-81d61748519f",
+  "multiverse_ids": [],
+  "tcgplayer_id": 615127,
+  "cardmarket_id": 808256,
+  "name": "March of the World Ooze",
+  "lang": "en",
+  "released_at": "2025-02-14",
+  "uri": "https://api.scryfall.com/cards/1b9fbbfc-8920-46cd-95cd-2372feb4617a",
+  "scryfall_uri": "https://scryfall.com/card/dft/412/march-of-the-world-ooze?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/b/1b9fbbfc-8920-46cd-95cd-2372feb4617a.jpg?1738357704",
+    "normal": "https://cards.scryfall.io/normal/front/1/b/1b9fbbfc-8920-46cd-95cd-2372feb4617a.jpg?1738357704",
+    "large": "https://cards.scryfall.io/large/front/1/b/1b9fbbfc-8920-46cd-95cd-2372feb4617a.jpg?1738357704",
+    "png": "https://cards.scryfall.io/png/front/1/b/1b9fbbfc-8920-46cd-95cd-2372feb4617a.png?1738357704",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/b/1b9fbbfc-8920-46cd-95cd-2372feb4617a.jpg?1738357704",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/b/1b9fbbfc-8920-46cd-95cd-2372feb4617a.jpg?1738357704"
+  },
+  "mana_cost": "{3}{G}{G}{G}",
+  "cmc": 6,
+  "type_line": "Enchantment",
+  "oracle_text": "Creatures you control have base power and toughness 6/6 and are Oozes in addition to their other types.\nWhenever an opponent casts a spell, if it's not their turn, you create a 3/3 green Elephant creature token.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6ecb6655-2aa0-4622-ae9a-21dfffa7625e",
+      "component": "token",
+      "name": "Elephant",
+      "type_line": "Token Creature — Elephant",
+      "uri": "https://api.scryfall.com/cards/6ecb6655-2aa0-4622-ae9a-21dfffa7625e"
+    },
+    {
+      "object": "related_card",
+      "id": "f89e403b-9653-493f-a3ac-e01aa6f006e2",
+      "component": "combo_piece",
+      "name": "March of the World Ooze",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/f89e403b-9653-493f-a3ac-e01aa6f006e2"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "23464cc2-a69c-427d-b8a7-08e5d80235d7",
+  "set": "dft",
+  "set_name": "Aetherdrift",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/23464cc2-a69c-427d-b8a7-08e5d80235d7",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adft&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dft?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1b9fbbfc-8920-46cd-95cd-2372feb4617a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa04696c4-4138-47e2-8da4-81d61748519f&unique=prints",
+  "collector_number": "412",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Raimaru",
+  "artist_ids": [
+    "0e99ac15-f44c-4b3d-88b5-2d3e9f7806ec"
+  ],
+  "illustration_id": "ea915082-192c-441a-ab9b-f2a5bca6214f",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "enchantment",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "fracturefoil",
+    "boosterfun"
+  ],
+  "edhrec_rank": 6854,
+  "preview": {
+    "source": "PleasantKenobi",
+    "source_uri": "https://www.youtube.com/watch?v=iq-JsU3Lr3I",
+    "previewed_at": "2025-01-24"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "61.08",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "17.70",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMarch%2Bof%2Bthe%2BWorld%2BOoze",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMarch%2Bof%2Bthe%2BWorld%2BOoze",
+    "edhrec": "https://edhrec.com/route/?cc=March+of+the+World+Ooze"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F615127%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=808256&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=March+of+the+World+Ooze&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "79dc69dc-6245-43fc-95a2-85b2c2957182",
+  "oracle_id": "83c8f1ca-194e-4cb6-9d5f-029133c1edbc",
+  "multiverse_ids": [
+    695226
+  ],
+  "mtgo_id": 139711,
+  "tcgplayer_id": 625271,
+  "cardmarket_id": 819417,
+  "name": "Lotuslight Dancers",
+  "lang": "en",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/79dc69dc-6245-43fc-95a2-85b2c2957182",
+  "scryfall_uri": "https://scryfall.com/card/tdm/363/lotuslight-dancers?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/9/79dc69dc-6245-43fc-95a2-85b2c2957182.jpg?1743205424",
+    "normal": "https://cards.scryfall.io/normal/front/7/9/79dc69dc-6245-43fc-95a2-85b2c2957182.jpg?1743205424",
+    "large": "https://cards.scryfall.io/large/front/7/9/79dc69dc-6245-43fc-95a2-85b2c2957182.jpg?1743205424",
+    "png": "https://cards.scryfall.io/png/front/7/9/79dc69dc-6245-43fc-95a2-85b2c2957182.png?1743205424",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/9/79dc69dc-6245-43fc-95a2-85b2c2957182.jpg?1743205424",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/9/79dc69dc-6245-43fc-95a2-85b2c2957182.jpg?1743205424"
+  },
+  "mana_cost": "{2}{B}{G}{U}",
+  "cmc": 5,
+  "type_line": "Creature — Zombie Bard",
+  "oracle_text": "Lifelink\nWhen this creature enters, search your library for a black card, a green card, and a blue card. Put those cards into your graveyard, then shuffle.",
+  "power": "3",
+  "toughness": "6",
+  "colors": [
+    "B",
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "U"
+  ],
+  "keywords": [
+    "Lifelink"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set": "tdm",
+  "set_name": "Tarkir: Dragonstorm",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/79dc69dc-6245-43fc-95a2-85b2c2957182/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A83c8f1ca-194e-4cb6-9d5f-029133c1edbc&unique=prints",
+  "collector_number": "363",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Fajareka Setiawan",
+  "artist_ids": [
+    "0cc534e0-be18-4cb1-8521-50fabd0dac6f"
+  ],
+  "illustration_id": "dde2b840-ac80-4c7d-b95e-eb708448b775",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 11399,
+  "preview": {
+    "source": "The Faerie Conclave",
+    "source_uri": "https://bsky.app/profile/thefaerieconclave.bsky.social/post/3llefatadj22n",
+    "previewed_at": "2025-03-27"
+  },
+  "prices": {
+    "usd": "0.24",
+    "usd_foil": "0.45",
+    "usd_etched": null,
+    "eur": "0.26",
+    "eur_foil": "0.46",
+    "tix": "0.01"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=695226&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLotuslight%2BDancers",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLotuslight%2BDancers",
+    "edhrec": "https://edhrec.com/route/?cc=Lotuslight+Dancers"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F625271%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=819417&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/139711?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

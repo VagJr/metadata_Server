@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "649be99a-fa52-469e-85df-11ecc576ea39",
+  "oracle_id": "5ade11c0-41dd-4b6a-9f5b-c5903a3a0d7f",
+  "multiverse_ids": [],
+  "mtgo_id": 106171,
+  "tcgplayer_id": 475521,
+  "cardmarket_id": 689746,
+  "name": "Elesh Norn, Mother of Machines",
+  "lang": "en",
+  "released_at": "2023-02-03",
+  "uri": "https://api.scryfall.com/cards/649be99a-fa52-469e-85df-11ecc576ea39",
+  "scryfall_uri": "https://scryfall.com/card/one/416/elesh-norn-mother-of-machines?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/4/649be99a-fa52-469e-85df-11ecc576ea39.jpg?1682714606",
+    "normal": "https://cards.scryfall.io/normal/front/6/4/649be99a-fa52-469e-85df-11ecc576ea39.jpg?1682714606",
+    "large": "https://cards.scryfall.io/large/front/6/4/649be99a-fa52-469e-85df-11ecc576ea39.jpg?1682714606",
+    "png": "https://cards.scryfall.io/png/front/6/4/649be99a-fa52-469e-85df-11ecc576ea39.png?1682714606",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/4/649be99a-fa52-469e-85df-11ecc576ea39.jpg?1682714606",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/4/649be99a-fa52-469e-85df-11ecc576ea39.jpg?1682714606"
+  },
+  "mana_cost": "{4}{W}",
+  "cmc": 5,
+  "type_line": "Legendary Creature — Phyrexian Praetor",
+  "oracle_text": "Vigilance\nIf a permanent entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.\nPermanents entering don't cause abilities of permanents your opponents control to trigger.",
+  "power": "4",
+  "toughness": "7",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Vigilance"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/649be99a-fa52-469e-85df-11ecc576ea39/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5ade11c0-41dd-4b6a-9f5b-c5903a3a0d7f&unique=prints",
+  "collector_number": "416",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Richard Whitters",
+  "artist_ids": [
+    "7d989811-f244-4be7-b5b0-6fbeacacef6b"
+  ],
+  "illustration_id": "bd54a42c-d036-4908-87aa-d8ef195a14b4",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "concept",
+    "boosterfun"
+  ],
+  "edhrec_rank": 829,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/1678101037",
+    "previewed_at": "2022-12-13"
+  },
+  "prices": {
+    "usd": "40.65",
+    "usd_foil": "47.04",
+    "usd_etched": null,
+    "eur": "31.32",
+    "eur_foil": "40.86",
+    "tix": "0.21"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DElesh%2BNorn%252C%2BMother%2Bof%2BMachines",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DElesh%2BNorn%252C%2BMother%2Bof%2BMachines",
+    "edhrec": "https://edhrec.com/route/?cc=Elesh+Norn%2C+Mother+of+Machines"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F475521%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=689746&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106171?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

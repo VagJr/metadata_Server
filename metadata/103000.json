@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "f37f2926-c653-4de4-83f8-3b493317c430",
+  "oracle_id": "b8510b34-0e5f-4639-9db1-1ba40d84b800",
+  "multiverse_ids": [
+    675502
+  ],
+  "mtgo_id": 130717,
+  "tcgplayer_id": 578990,
+  "cardmarket_id": 787975,
+  "name": "Ancient Cellarspawn",
+  "lang": "en",
+  "released_at": "2024-09-27",
+  "uri": "https://api.scryfall.com/cards/f37f2926-c653-4de4-83f8-3b493317c430",
+  "scryfall_uri": "https://scryfall.com/card/dsc/47/ancient-cellarspawn?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/3/f37f2926-c653-4de4-83f8-3b493317c430.jpg?1729127678",
+    "normal": "https://cards.scryfall.io/normal/front/f/3/f37f2926-c653-4de4-83f8-3b493317c430.jpg?1729127678",
+    "large": "https://cards.scryfall.io/large/front/f/3/f37f2926-c653-4de4-83f8-3b493317c430.jpg?1729127678",
+    "png": "https://cards.scryfall.io/png/front/f/3/f37f2926-c653-4de4-83f8-3b493317c430.png?1729127678",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/3/f37f2926-c653-4de4-83f8-3b493317c430.jpg?1729127678",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/3/f37f2926-c653-4de4-83f8-3b493317c430.jpg?1729127678"
+  },
+  "mana_cost": "{1}{B}{B}",
+  "cmc": 3,
+  "type_line": "Enchantment Creature — Horror",
+  "oracle_text": "Each spell you cast that's a Demon, Horror, or Nightmare costs {1} less to cast.\nWhenever you cast a spell, if the amount of mana spent to cast it was less than its mana value, target opponent loses life equal to the difference.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4c822528-83c3-42c7-8708-dd1d37166819",
+  "set": "dsc",
+  "set_name": "Duskmourn: House of Horror Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/4c822528-83c3-42c7-8708-dd1d37166819",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adsc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dsc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f37f2926-c653-4de4-83f8-3b493317c430/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab8510b34-0e5f-4639-9db1-1ba40d84b800&unique=prints",
+  "collector_number": "47",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Where it treads, plants wither. Where it breathes, poison spreads.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alexandre Honoré",
+  "artist_ids": [
+    "82ae431c-d7fa-438b-9611-01f704c3a958"
+  ],
+  "illustration_id": "cbb5c009-e6e2-4974-b461-7d26b1074940",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "extendedart",
+    "enchantment"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 3562,
+  "prices": {
+    "usd": "3.42",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "2.88",
+    "eur_foil": null,
+    "tix": "3.81"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=675502&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAncient%2BCellarspawn",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAncient%2BCellarspawn",
+    "edhrec": "https://edhrec.com/route/?cc=Ancient+Cellarspawn"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F578990%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=787975&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/130717?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

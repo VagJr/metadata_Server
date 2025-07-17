@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "e3d725a8-daff-4458-aab0-06803ae33be3",
+  "oracle_id": "e42753ba-6c59-40d1-9fb5-4282dcc4b14f",
+  "multiverse_ids": [],
+  "name": "Ogre",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/e3d725a8-daff-4458-aab0-06803ae33be3",
+  "scryfall_uri": "https://scryfall.com/card/tclb/36/ogre?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/3/e3d725a8-daff-4458-aab0-06803ae33be3.jpg?1675456027",
+    "normal": "https://cards.scryfall.io/normal/front/e/3/e3d725a8-daff-4458-aab0-06803ae33be3.jpg?1675456027",
+    "large": "https://cards.scryfall.io/large/front/e/3/e3d725a8-daff-4458-aab0-06803ae33be3.jpg?1675456027",
+    "png": "https://cards.scryfall.io/png/front/e/3/e3d725a8-daff-4458-aab0-06803ae33be3.png?1675456027",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/3/e3d725a8-daff-4458-aab0-06803ae33be3.jpg?1675456027",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/3/e3d725a8-daff-4458-aab0-06803ae33be3.jpg?1675456027"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Token Creature — Ogre",
+  "oracle_text": "",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e3d725a8-daff-4458-aab0-06803ae33be3",
+      "component": "token",
+      "name": "Ogre",
+      "type_line": "Token Creature — Ogre",
+      "uri": "https://api.scryfall.com/cards/e3d725a8-daff-4458-aab0-06803ae33be3"
+    },
+    {
+      "object": "related_card",
+      "id": "4ce569cd-964e-44d6-a155-5a853ccc1478",
+      "component": "combo_piece",
+      "name": "Kazuul, Tyrant of the Cliffs",
+      "type_line": "Legendary Creature — Ogre Warrior",
+      "uri": "https://api.scryfall.com/cards/4ce569cd-964e-44d6-a155-5a853ccc1478"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "942706db-55db-4d8b-8337-deca3a4b522c",
+  "set": "tclb",
+  "set_name": "Battle for Baldur's Gate Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/942706db-55db-4d8b-8337-deca3a4b522c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tclb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e3d725a8-daff-4458-aab0-06803ae33be3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae42753ba-6c59-40d1-9fb5-4282dcc4b14f&unique=prints",
+  "collector_number": "36",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Paul Bonner",
+  "artist_ids": [
+    "db74e463-9c78-4f45-80a9-efa5cc4f9841"
+  ],
+  "illustration_id": "46f41fcc-574a-4fe6-bc81-f21d2c88045b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOgre",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOgre",
+    "edhrec": "https://edhrec.com/route/?cc=Ogre"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DOgre%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ogre&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ogre&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

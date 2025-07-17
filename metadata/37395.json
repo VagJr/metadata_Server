@@ -1,0 +1,117 @@
+{
+  "object": "card",
+  "id": "586ad230-fb4b-4b34-8d5c-633726496634",
+  "oracle_id": "b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6",
+  "multiverse_ids": [
+    582744
+  ],
+  "tcgplayer_id": 448585,
+  "name": "Forest",
+  "lang": "en",
+  "released_at": "2022-10-14",
+  "uri": "https://api.scryfall.com/cards/586ad230-fb4b-4b34-8d5c-633726496634",
+  "scryfall_uri": "https://scryfall.com/card/gn3/134/forest?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/8/586ad230-fb4b-4b34-8d5c-633726496634.jpg?1673302393",
+    "normal": "https://cards.scryfall.io/normal/front/5/8/586ad230-fb4b-4b34-8d5c-633726496634.jpg?1673302393",
+    "large": "https://cards.scryfall.io/large/front/5/8/586ad230-fb4b-4b34-8d5c-633726496634.jpg?1673302393",
+    "png": "https://cards.scryfall.io/png/front/5/8/586ad230-fb4b-4b34-8d5c-633726496634.png?1673302393",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/8/586ad230-fb4b-4b34-8d5c-633726496634.jpg?1673302393",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/8/586ad230-fb4b-4b34-8d5c-633726496634.jpg?1673302393"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Basic Land — Forest",
+  "oracle_text": "({T}: Add {G}.)",
+  "colors": [],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "G"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "fe88ea3a-0e2c-44b9-9210-35bfdec1e288",
+  "set": "gn3",
+  "set_name": "Game Night: Free-for-All",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/fe88ea3a-0e2c-44b9-9210-35bfdec1e288",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Agn3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/gn3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/586ad230-fb4b-4b34-8d5c-633726496634/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6&unique=prints",
+  "collector_number": "134",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jonas De Ro",
+  "artist_ids": [
+    "561ebf9e-8d93-4b57-8156-8826d0c19601"
+  ],
+  "illustration_id": "68bc9936-fc2a-4f55-b34b-40bc201bd672",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": "0.13",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=582744&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DForest",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DForest",
+    "edhrec": "https://edhrec.com/route/?cc=Forest"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F448585%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Forest&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Forest&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

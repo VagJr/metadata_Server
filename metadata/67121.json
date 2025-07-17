@@ -1,0 +1,138 @@
+{
+  "object": "card",
+  "id": "9e99599e-c594-42c6-b9e3-4dbb8e982f88",
+  "oracle_id": "e9b6a394-691c-425a-9307-76d8edc7375e",
+  "multiverse_ids": [
+    552124
+  ],
+  "arena_id": 79773,
+  "tcgplayer_id": 262437,
+  "cardmarket_id": 607522,
+  "name": "Otawara, Soaring City",
+  "lang": "en",
+  "released_at": "2022-02-18",
+  "uri": "https://api.scryfall.com/cards/9e99599e-c594-42c6-b9e3-4dbb8e982f88",
+  "scryfall_uri": "https://scryfall.com/card/neo/414/otawara-soaring-city?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/e/9e99599e-c594-42c6-b9e3-4dbb8e982f88.jpg?1647145094",
+    "normal": "https://cards.scryfall.io/normal/front/9/e/9e99599e-c594-42c6-b9e3-4dbb8e982f88.jpg?1647145094",
+    "large": "https://cards.scryfall.io/large/front/9/e/9e99599e-c594-42c6-b9e3-4dbb8e982f88.jpg?1647145094",
+    "png": "https://cards.scryfall.io/png/front/9/e/9e99599e-c594-42c6-b9e3-4dbb8e982f88.png?1647145094",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/e/9e99599e-c594-42c6-b9e3-4dbb8e982f88.jpg?1647145094",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/e/9e99599e-c594-42c6-b9e3-4dbb8e982f88.jpg?1647145094"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Legendary Land",
+  "oracle_text": "{T}: Add {U}.\nChannel — {3}{U}, Discard this card: Return target artifact, creature, enchantment, or planeswalker to its owner's hand. This ability costs {1} less to activate for each legendary creature you control.",
+  "colors": [],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Channel"
+  ],
+  "produced_mana": [
+    "U"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "59a2059f-5482-433f-8761-eb2e17859b71",
+  "set": "neo",
+  "set_name": "Kamigawa: Neon Dynasty",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/59a2059f-5482-433f-8761-eb2e17859b71",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aneo&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/neo?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9e99599e-c594-42c6-b9e3-4dbb8e982f88/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae9b6a394-691c-425a-9307-76d8edc7375e&unique=prints",
+  "collector_number": "414",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Yuta Shimpo",
+  "artist_ids": [
+    "f9d89736-2a1d-4c6b-85a2-d5e4ca08dde3"
+  ],
+  "illustration_id": "dff3e678-ea42-4bbf-ad49-12321bf60485",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 92,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://twitter.com/mtgjp/status/1488067025477849094",
+    "previewed_at": "2022-01-31"
+  },
+  "prices": {
+    "usd": "25.85",
+    "usd_foil": "52.14",
+    "usd_etched": null,
+    "eur": "25.87",
+    "eur_foil": "43.61",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=552124&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOtawara%252C%2BSoaring%2BCity",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOtawara%252C%2BSoaring%2BCity",
+    "edhrec": "https://edhrec.com/route/?cc=Otawara%2C+Soaring+City"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F262437%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=607522&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Otawara%2C+Soaring+City&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

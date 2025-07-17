@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "a6bc2637-0e9f-43a4-80cd-710aaf488fdd",
+  "oracle_id": "30ee2790-1f5d-4073-aae7-5e7ae30421d2",
+  "multiverse_ids": [
+    645484
+  ],
+  "mtgo_id": 120351,
+  "tcgplayer_id": 531020,
+  "name": "Tolsimir Wolfblood",
+  "lang": "en",
+  "released_at": "2024-01-12",
+  "uri": "https://api.scryfall.com/cards/a6bc2637-0e9f-43a4-80cd-710aaf488fdd",
+  "scryfall_uri": "https://scryfall.com/card/rvr/387/tolsimir-wolfblood?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/6/a6bc2637-0e9f-43a4-80cd-710aaf488fdd.jpg?1702423282",
+    "normal": "https://cards.scryfall.io/normal/front/a/6/a6bc2637-0e9f-43a4-80cd-710aaf488fdd.jpg?1702423282",
+    "large": "https://cards.scryfall.io/large/front/a/6/a6bc2637-0e9f-43a4-80cd-710aaf488fdd.jpg?1702423282",
+    "png": "https://cards.scryfall.io/png/front/a/6/a6bc2637-0e9f-43a4-80cd-710aaf488fdd.png?1702423282",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/6/a6bc2637-0e9f-43a4-80cd-710aaf488fdd.jpg?1702423282",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/6/a6bc2637-0e9f-43a4-80cd-710aaf488fdd.jpg?1702423282"
+  },
+  "mana_cost": "{4}{G}{W}",
+  "cmc": 6,
+  "type_line": "Legendary Creature — Elf Warrior",
+  "oracle_text": "Other green creatures you control get +1/+1.\nOther white creatures you control get +1/+1.\n{T}: Create Voja, a legendary 2/2 green and white Wolf creature token.",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "0758235a-32e4-458c-bb16-16c3708a8429",
+      "component": "combo_piece",
+      "name": "Tolsimir Wolfblood",
+      "type_line": "Legendary Creature — Elf Warrior",
+      "uri": "https://api.scryfall.com/cards/0758235a-32e4-458c-bb16-16c3708a8429"
+    },
+    {
+      "object": "related_card",
+      "id": "af8ba142-4f39-45e4-8872-b6e348fd760c",
+      "component": "token",
+      "name": "Voja",
+      "type_line": "Token Legendary Creature — Wolf",
+      "uri": "https://api.scryfall.com/cards/af8ba142-4f39-45e4-8872-b6e348fd760c"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+  "set": "rvr",
+  "set_name": "Ravnica Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arvr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/rvr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a6bc2637-0e9f-43a4-80cd-710aaf488fdd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A30ee2790-1f5d-4073-aae7-5e7ae30421d2&unique=prints",
+  "collector_number": "387",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Donato Giancola",
+  "artist_ids": [
+    "90332db2-aecb-4d79-917b-95cbeb8d0cb6"
+  ],
+  "illustration_id": "ee93ba98-141e-4aa5-8ca0-20b11ac24848",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 7457,
+  "penny_rank": 6002,
+  "prices": {
+    "usd": "0.20",
+    "usd_foil": "0.37",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=645484&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTolsimir%2BWolfblood",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTolsimir%2BWolfblood",
+    "edhrec": "https://edhrec.com/route/?cc=Tolsimir+Wolfblood"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F531020%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tolsimir+Wolfblood&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/120351?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

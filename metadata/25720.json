@@ -1,0 +1,160 @@
+{
+  "object": "card",
+  "id": "3cb0824c-57cc-46bf-bd43-425d58b8a762",
+  "multiverse_ids": [],
+  "tcgplayer_id": 514505,
+  "cardmarket_id": 733298,
+  "name": "Jace Beleren // Jace Beleren",
+  "lang": "en",
+  "released_at": "2023-09-15",
+  "uri": "https://api.scryfall.com/cards/3cb0824c-57cc-46bf-bd43-425d58b8a762",
+  "scryfall_uri": "https://scryfall.com/card/sld/1454/jace-beleren-jace-beleren?utm_source=api",
+  "layout": "reversible_card",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "oracle_id": "cc2b6e58-2d6f-495e-95f3-9496105c4cba",
+      "layout": "normal",
+      "name": "Jace Beleren",
+      "mana_cost": "{1}{U}{U}",
+      "cmc": 3,
+      "type_line": "Legendary Planeswalker — Jace",
+      "oracle_text": "+2: Each player draws a card.\n−1: Target player draws a card.\n−10: Target player mills twenty cards.",
+      "colors": [
+        "U"
+      ],
+      "loyalty": "3",
+      "flavor_text": "Pitcher",
+      "artist": "Fay Dalton",
+      "artist_id": "db096429-0266-4342-8a53-4ad566060216",
+      "illustration_id": "43a8491e-32bd-4065-9e65-a749a027b5c9",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/3/c/3cb0824c-57cc-46bf-bd43-425d58b8a762.jpg?1695432219",
+        "normal": "https://cards.scryfall.io/normal/front/3/c/3cb0824c-57cc-46bf-bd43-425d58b8a762.jpg?1695432219",
+        "large": "https://cards.scryfall.io/large/front/3/c/3cb0824c-57cc-46bf-bd43-425d58b8a762.jpg?1695432219",
+        "png": "https://cards.scryfall.io/png/front/3/c/3cb0824c-57cc-46bf-bd43-425d58b8a762.png?1695432219",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/3/c/3cb0824c-57cc-46bf-bd43-425d58b8a762.jpg?1695432219",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/3/c/3cb0824c-57cc-46bf-bd43-425d58b8a762.jpg?1695432219"
+      }
+    },
+    {
+      "object": "card_face",
+      "oracle_id": "cc2b6e58-2d6f-495e-95f3-9496105c4cba",
+      "layout": "normal",
+      "name": "Jace Beleren",
+      "mana_cost": "{1}{U}{U}",
+      "cmc": 3,
+      "type_line": "Legendary Planeswalker — Jace",
+      "oracle_text": "+2: Each player draws a card.\n−1: Target player draws a card.\n−10: Target player mills twenty cards.",
+      "colors": [
+        "U"
+      ],
+      "loyalty": "3",
+      "flavor_text": "Signature Magic: Mind Magic\nColor Alignment: Blue\nPlane of Origin: Vryn\nFirst Planeswalk: Ravnica\nHeight: 5'10\"\nWon Planeswalker of the Year in 2010, 2011, 2012 . . .",
+      "artist": "Scott Okumura",
+      "artist_id": "f4ec7a06-c25b-41f1-8ae3-6c51ac063cdd",
+      "illustration_id": "2c4f38b4-731e-4d49-b47e-3fee73d2cf15",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/3/c/3cb0824c-57cc-46bf-bd43-425d58b8a762.jpg?1695432219",
+        "normal": "https://cards.scryfall.io/normal/back/3/c/3cb0824c-57cc-46bf-bd43-425d58b8a762.jpg?1695432219",
+        "large": "https://cards.scryfall.io/large/back/3/c/3cb0824c-57cc-46bf-bd43-425d58b8a762.jpg?1695432219",
+        "png": "https://cards.scryfall.io/png/back/3/c/3cb0824c-57cc-46bf-bd43-425d58b8a762.png?1695432219",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/3/c/3cb0824c-57cc-46bf-bd43-425d58b8a762.jpg?1695432219",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/3/c/3cb0824c-57cc-46bf-bd43-425d58b8a762.jpg?1695432219"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3cb0824c-57cc-46bf-bd43-425d58b8a762/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acc2b6e58-2d6f-495e-95f3-9496105c4cba&unique=prints",
+  "collector_number": "1454",
+  "digital": false,
+  "rarity": "mythic",
+  "artist": "Fay Dalton & Scott Okumura",
+  "artist_ids": [
+    "db096429-0266-4342-8a53-4ad566060216",
+    "f4ec7a06-c25b-41f1-8ae3-6c51ac063cdd"
+  ],
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "fullart"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3070,
+  "penny_rank": 1164,
+  "prices": {
+    "usd": "8.38",
+    "usd_foil": "9.35",
+    "usd_etched": null,
+    "eur": "6.03",
+    "eur_foil": "6.80",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJace%2BBeleren%2B%252F%252F%2BJace%2BBeleren",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJace%2BBeleren%2B%252F%252F%2BJace%2BBeleren",
+    "edhrec": "https://edhrec.com/route/?cc=Jace+Beleren+%2F%2F+Jace+Beleren"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F514505%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=733298&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jace+Beleren+%2F%2F+Jace+Beleren&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

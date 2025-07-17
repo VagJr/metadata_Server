@@ -1,0 +1,195 @@
+{
+  "object": "card",
+  "id": "4d553078-afaf-42db-879b-fb4cb4d25742",
+  "oracle_id": "582328cd-660d-47a4-bb23-e91e80b9a907",
+  "multiverse_ids": [
+    439333,
+    439334
+  ],
+  "mtgo_id": 66431,
+  "tcgplayer_id": 151643,
+  "cardmarket_id": 312374,
+  "name": "Huntmaster of the Fells // Ravager of the Fells",
+  "lang": "en",
+  "released_at": "2017-11-24",
+  "uri": "https://api.scryfall.com/cards/4d553078-afaf-42db-879b-fb4cb4d25742",
+  "scryfall_uri": "https://scryfall.com/card/v17/11/huntmaster-of-the-fells-ravager-of-the-fells?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 4,
+  "type_line": "Creature — Human Werewolf // Creature — Werewolf",
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [
+    "Transform",
+    "Trample"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Huntmaster of the Fells",
+      "mana_cost": "{2}{R}{G}",
+      "type_line": "Creature — Human Werewolf",
+      "oracle_text": "Whenever this creature enters or transforms into Huntmaster of the Fells, create a 2/2 green Wolf creature token and you gain 2 life.\nAt the beginning of each upkeep, if no spells were cast last turn, transform this creature.",
+      "colors": [
+        "G",
+        "R"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "artist": "Magali Villeneuve",
+      "artist_id": "9e6a55ae-be4d-4c23-a2a5-135737ffd879",
+      "illustration_id": "30922008-c8a3-44b9-a914-ce5b07cf4bfb",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/4/d/4d553078-afaf-42db-879b-fb4cb4d25742.jpg?1562702046",
+        "normal": "https://cards.scryfall.io/normal/front/4/d/4d553078-afaf-42db-879b-fb4cb4d25742.jpg?1562702046",
+        "large": "https://cards.scryfall.io/large/front/4/d/4d553078-afaf-42db-879b-fb4cb4d25742.jpg?1562702046",
+        "png": "https://cards.scryfall.io/png/front/4/d/4d553078-afaf-42db-879b-fb4cb4d25742.png?1562702046",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/4/d/4d553078-afaf-42db-879b-fb4cb4d25742.jpg?1562702046",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/4/d/4d553078-afaf-42db-879b-fb4cb4d25742.jpg?1562702046"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Ravager of the Fells",
+      "mana_cost": "",
+      "type_line": "Creature — Werewolf",
+      "oracle_text": "Trample\nWhenever this creature transforms into Ravager of the Fells, it deals 2 damage to target opponent or planeswalker and 2 damage to up to one target creature that player or that planeswalker's controller controls.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform this creature.",
+      "colors": [
+        "G",
+        "R"
+      ],
+      "color_indicator": [
+        "G",
+        "R"
+      ],
+      "power": "4",
+      "toughness": "4",
+      "artist": "Magali Villeneuve",
+      "artist_id": "9e6a55ae-be4d-4c23-a2a5-135737ffd879",
+      "illustration_id": "3c5c12af-e327-4450-bd14-fb879a8da3f5",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/4/d/4d553078-afaf-42db-879b-fb4cb4d25742.jpg?1562702046",
+        "normal": "https://cards.scryfall.io/normal/back/4/d/4d553078-afaf-42db-879b-fb4cb4d25742.jpg?1562702046",
+        "large": "https://cards.scryfall.io/large/back/4/d/4d553078-afaf-42db-879b-fb4cb4d25742.jpg?1562702046",
+        "png": "https://cards.scryfall.io/png/back/4/d/4d553078-afaf-42db-879b-fb4cb4d25742.png?1562702046",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/4/d/4d553078-afaf-42db-879b-fb4cb4d25742.jpg?1562702046",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/4/d/4d553078-afaf-42db-879b-fb4cb4d25742.jpg?1562702046"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "825c61e7-bf33-45ea-af78-97ab3bc96753",
+      "component": "combo_piece",
+      "name": "Dark Ascension Checklist",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/825c61e7-bf33-45ea-af78-97ab3bc96753"
+    },
+    {
+      "object": "related_card",
+      "id": "4d553078-afaf-42db-879b-fb4cb4d25742",
+      "component": "combo_piece",
+      "name": "Huntmaster of the Fells // Ravager of the Fells",
+      "type_line": "Creature — Human Werewolf // Creature — Werewolf",
+      "uri": "https://api.scryfall.com/cards/4d553078-afaf-42db-879b-fb4cb4d25742"
+    },
+    {
+      "object": "related_card",
+      "id": "89b89a55-3ea2-4186-b946-06831bc16169",
+      "component": "token",
+      "name": "Wolf",
+      "type_line": "Token Creature — Wolf",
+      "uri": "https://api.scryfall.com/cards/89b89a55-3ea2-4186-b946-06831bc16169"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "63c89a12-d115-4084-a4af-fceef40ca02f",
+  "set": "v17",
+  "set_name": "From the Vault: Transform",
+  "set_type": "from_the_vault",
+  "set_uri": "https://api.scryfall.com/sets/63c89a12-d115-4084-a4af-fceef40ca02f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Av17&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/v17?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4d553078-afaf-42db-879b-fb4cb4d25742/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A582328cd-660d-47a4-bb23-e91e80b9a907&unique=prints",
+  "collector_number": "11",
+  "digital": false,
+  "rarity": "mythic",
+  "artist": "Magali Villeneuve",
+  "artist_ids": [
+    "9e6a55ae-be4d-4c23-a2a5-135737ffd879"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "sunmoondfc"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 7660,
+  "penny_rank": 1308,
+  "prices": {
+    "usd": null,
+    "usd_foil": "4.54",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "3.14",
+    "tix": "0.57"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439333&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHuntmaster%2Bof%2Bthe%2BFells%2B%252F%252F%2BRavager%2Bof%2Bthe%2BFells",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHuntmaster%2Bof%2Bthe%2BFells%2B%252F%252F%2BRavager%2Bof%2Bthe%2BFells",
+    "edhrec": "https://edhrec.com/route/?cc=Huntmaster+of+the+Fells"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F151643%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=312374&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/66431?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

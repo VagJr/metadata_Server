@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "ac406a70-f0d1-413d-86dd-060523cc80c4",
+  "oracle_id": "50330e48-db74-4c5f-a0bc-f9a8607e8f31",
+  "multiverse_ids": [],
+  "tcgplayer_id": 533987,
+  "name": "Lion Sash",
+  "lang": "en",
+  "released_at": "2024-01-25",
+  "uri": "https://api.scryfall.com/cards/ac406a70-f0d1-413d-86dd-060523cc80c4",
+  "scryfall_uri": "https://scryfall.com/card/plst/NEO-26/lion-sash?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/c/ac406a70-f0d1-413d-86dd-060523cc80c4.jpg?1706308945",
+    "normal": "https://cards.scryfall.io/normal/front/a/c/ac406a70-f0d1-413d-86dd-060523cc80c4.jpg?1706308945",
+    "large": "https://cards.scryfall.io/large/front/a/c/ac406a70-f0d1-413d-86dd-060523cc80c4.jpg?1706308945",
+    "png": "https://cards.scryfall.io/png/front/a/c/ac406a70-f0d1-413d-86dd-060523cc80c4.png?1706308945",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/c/ac406a70-f0d1-413d-86dd-060523cc80c4.jpg?1706308945",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/c/ac406a70-f0d1-413d-86dd-060523cc80c4.jpg?1706308945"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Artifact Creature — Equipment Cat",
+  "oracle_text": "{W}: Exile target card from a graveyard. If it was a permanent card, put a +1/+1 counter on this permanent.\nEquipped creature gets +1/+1 for each +1/+1 counter on this Equipment.\nReconfigure {2} ({2}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Reconfigure"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ac406a70-f0d1-413d-86dd-060523cc80c4/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A50330e48-db74-4c5f-a0bc-f9a8607e8f31&unique=prints",
+  "collector_number": "NEO-26",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Yongjae Choi",
+  "artist_ids": [
+    "5ab91c3b-a6da-4751-a56e-81d0f61a67ab"
+  ],
+  "illustration_id": "c2324efc-8b9e-4612-8951-ccc62b5e3356",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1293,
+  "penny_rank": 1450,
+  "prices": {
+    "usd": "1.91",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLion%2BSash",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLion%2BSash",
+    "edhrec": "https://edhrec.com/route/?cc=Lion+Sash"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F533987%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Lion+Sash&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lion+Sash&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

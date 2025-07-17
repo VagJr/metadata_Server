@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "bee535c3-4ccd-4eb1-85e9-d28bf6dc0710",
+  "oracle_id": "f5d9be71-91d0-4166-ba58-cbbf5d490c40",
+  "multiverse_ids": [],
+  "tcgplayer_id": 189019,
+  "cardmarket_id": 372753,
+  "name": "Ajani, the Greathearted",
+  "printed_name": "寛大なる者、アジャニ",
+  "lang": "ja",
+  "released_at": "2019-05-03",
+  "uri": "https://api.scryfall.com/cards/bee535c3-4ccd-4eb1-85e9-d28bf6dc0710",
+  "scryfall_uri": "https://scryfall.com/card/war/184%E2%98%85/ja/%E5%AF%9B%E5%A4%A7%E3%81%AA%E3%82%8B%E8%80%85%E3%80%81%E3%82%A2%E3%82%B8%E3%83%A3%E3%83%8B-(ajani-the-greathearted)?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/e/bee535c3-4ccd-4eb1-85e9-d28bf6dc0710.jpg?1580443727",
+    "normal": "https://cards.scryfall.io/normal/front/b/e/bee535c3-4ccd-4eb1-85e9-d28bf6dc0710.jpg?1580443727",
+    "large": "https://cards.scryfall.io/large/front/b/e/bee535c3-4ccd-4eb1-85e9-d28bf6dc0710.jpg?1580443727",
+    "png": "https://cards.scryfall.io/png/front/b/e/bee535c3-4ccd-4eb1-85e9-d28bf6dc0710.png?1580443727",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/e/bee535c3-4ccd-4eb1-85e9-d28bf6dc0710.jpg?1580443727",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/e/bee535c3-4ccd-4eb1-85e9-d28bf6dc0710.jpg?1580443727"
+  },
+  "mana_cost": "{2}{G}{W}",
+  "cmc": 4,
+  "type_line": "Legendary Planeswalker — Ajani",
+  "printed_type_line": "伝説のプレインズウォーカー — アジャニ",
+  "oracle_text": "Creatures you control have vigilance.\n+1: You gain 3 life.\n−2: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control.",
+  "printed_text": "あなたがコントロールしているクリーチャーは警戒を持つ。\n+1：あなたは３点のライフを得る。\n-2：あなたがコントロールしている各クリーチャーの上に＋１/＋１カウンターをそれぞれ１個と、あなたがコントロールしている他の各プレインズウォーカーの上に忠誠カウンターをそれぞれ１個置く。",
+  "loyalty": "5",
+  "colors": [
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "ee044f0b-e101-4ead-8d0e-aa510aad4277",
+  "set": "war",
+  "set_name": "War of the Spark",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/ee044f0b-e101-4ead-8d0e-aa510aad4277",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awar&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/war?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/bee535c3-4ccd-4eb1-85e9-d28bf6dc0710/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af5d9be71-91d0-4166-ba58-cbbf5d490c40&unique=prints",
+  "collector_number": "184★",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Miho Midorikawa",
+  "artist_ids": [
+    "a7a9b535-281b-41e9-9906-67cbfd604a33"
+  ],
+  "illustration_id": "2137adf6-2566-46f8-9c9c-f2e6dece5935",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "jpwalker"
+  ],
+  "edhrec_rank": 3160,
+  "penny_rank": 3767,
+  "prices": {
+    "usd": "1.08",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "1.14",
+    "eur_foil": "15.71",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAjani%252C%2Bthe%2BGreathearted",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAjani%252C%2Bthe%2BGreathearted",
+    "edhrec": "https://edhrec.com/route/?cc=Ajani%2C+the+Greathearted"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F189019%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=372753&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ajani%2C+the+Greathearted&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

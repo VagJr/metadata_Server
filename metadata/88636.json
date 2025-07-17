@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "d11a1ac4-b025-4bc7-a00f-5de04acefbf8",
+  "oracle_id": "58d7b8b3-ac47-4805-8259-4ba8e70d7dc3",
+  "multiverse_ids": [
+    657777
+  ],
+  "mtgo_id": 123627,
+  "arena_id": 90730,
+  "tcgplayer_id": 544889,
+  "cardmarket_id": 764169,
+  "name": "Primal Might",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/d11a1ac4-b025-4bc7-a00f-5de04acefbf8",
+  "scryfall_uri": "https://scryfall.com/card/otp/32/primal-might?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/1/d11a1ac4-b025-4bc7-a00f-5de04acefbf8.jpg?1712353523",
+    "normal": "https://cards.scryfall.io/normal/front/d/1/d11a1ac4-b025-4bc7-a00f-5de04acefbf8.jpg?1712353523",
+    "large": "https://cards.scryfall.io/large/front/d/1/d11a1ac4-b025-4bc7-a00f-5de04acefbf8.jpg?1712353523",
+    "png": "https://cards.scryfall.io/png/front/d/1/d11a1ac4-b025-4bc7-a00f-5de04acefbf8.png?1712353523",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/1/d11a1ac4-b025-4bc7-a00f-5de04acefbf8.jpg?1712353523",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/1/d11a1ac4-b025-4bc7-a00f-5de04acefbf8.jpg?1712353523"
+  },
+  "mana_cost": "{X}{G}",
+  "cmc": 1,
+  "type_line": "Sorcery",
+  "oracle_text": "Target creature you control gets +X/+X until end of turn. Then it fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Fight"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8b51294d-fc54-410c-83b2-0168837ede87",
+  "set": "otp",
+  "set_name": "Breaking News",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/8b51294d-fc54-410c-83b2-0168837ede87",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d11a1ac4-b025-4bc7-a00f-5de04acefbf8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A58d7b8b3-ac47-4805-8259-4ba8e70d7dc3&unique=prints",
+  "collector_number": "32",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Colossal Cactusfolk Credits Training Regimen",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jon Juarez",
+  "artist_ids": [
+    "df885333-b12f-49df-af4f-3d6edd131bd1"
+  ],
+  "illustration_id": "cce96a78-8fcb-406e-9df9-deffbecb2a33",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 3781,
+  "penny_rank": 4589,
+  "prices": {
+    "usd": "0.16",
+    "usd_foil": "0.28",
+    "usd_etched": null,
+    "eur": "0.20",
+    "eur_foil": "0.39",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=657777&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPrimal%2BMight",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPrimal%2BMight",
+    "edhrec": "https://edhrec.com/route/?cc=Primal+Might"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544889%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=764169&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/123627?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

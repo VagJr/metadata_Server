@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "b612cc64-d7a6-409b-89e1-cc911e6782c0",
+  "oracle_id": "a3bdb026-e09d-443f-ba02-fe0d5412fc97",
+  "multiverse_ids": [],
+  "tcgplayer_id": 583274,
+  "name": "Struggle for Skemfar",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/b612cc64-d7a6-409b-89e1-cc911e6782c0",
+  "scryfall_uri": "https://scryfall.com/card/plst/KHM-196/struggle-for-skemfar?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/6/b612cc64-d7a6-409b-89e1-cc911e6782c0.jpg?1723437879",
+    "normal": "https://cards.scryfall.io/normal/front/b/6/b612cc64-d7a6-409b-89e1-cc911e6782c0.jpg?1723437879",
+    "large": "https://cards.scryfall.io/large/front/b/6/b612cc64-d7a6-409b-89e1-cc911e6782c0.jpg?1723437879",
+    "png": "https://cards.scryfall.io/png/front/b/6/b612cc64-d7a6-409b-89e1-cc911e6782c0.png?1723437879",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/6/b612cc64-d7a6-409b-89e1-cc911e6782c0.jpg?1723437879",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/6/b612cc64-d7a6-409b-89e1-cc911e6782c0.jpg?1723437879"
+  },
+  "mana_cost": "{3}{G}",
+  "cmc": 4,
+  "type_line": "Sorcery",
+  "oracle_text": "Put a +1/+1 counter on target creature you control. Then that creature fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)\nForetell {G} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Fight",
+    "Foretell"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "b612cc64-d7a6-409b-89e1-cc911e6782c0",
+      "component": "combo_piece",
+      "name": "Struggle for Skemfar",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/b612cc64-d7a6-409b-89e1-cc911e6782c0"
+    },
+    {
+      "object": "related_card",
+      "id": "207b3d62-2541-4a51-8152-3c54218ab6f7",
+      "component": "combo_piece",
+      "name": "Foretell",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/207b3d62-2541-4a51-8152-3c54218ab6f7"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set": "plst",
+  "set_name": "The List",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplst&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/plst?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b612cc64-d7a6-409b-89e1-cc911e6782c0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3bdb026-e09d-443f-ba02-fe0d5412fc97&unique=prints",
+  "collector_number": "KHM-196",
+  "digital": false,
+  "rarity": "common",
+  "watermark": "foretell",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Bram Sels",
+  "artist_ids": [
+    "2e90d3c1-e8ac-45c7-9d5a-63385c1a384d"
+  ],
+  "illustration_id": "7d19c436-fdc8-4b4d-8030-88598d4a3e0c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": true,
+  "edhrec_rank": 17360,
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DStruggle%2Bfor%2BSkemfar",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DStruggle%2Bfor%2BSkemfar",
+    "edhrec": "https://edhrec.com/route/?cc=Struggle+for+Skemfar"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F583274%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Struggle+for+Skemfar&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Struggle+for+Skemfar&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "ce06cd3c-1003-4586-8bac-0da6eec955e2",
+  "oracle_id": "5818b31e-2e86-4230-937e-478e14534f91",
+  "multiverse_ids": [],
+  "mtgo_id": 95363,
+  "name": "Scion of Opulence",
+  "lang": "en",
+  "released_at": "2024-12-27",
+  "uri": "https://api.scryfall.com/cards/ce06cd3c-1003-4586-8bac-0da6eec955e2",
+  "scryfall_uri": "https://scryfall.com/card/prm/95363/scion-of-opulence?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/e/ce06cd3c-1003-4586-8bac-0da6eec955e2.jpg?1681087372",
+    "normal": "https://cards.scryfall.io/normal/front/c/e/ce06cd3c-1003-4586-8bac-0da6eec955e2.jpg?1681087372",
+    "large": "https://cards.scryfall.io/large/front/c/e/ce06cd3c-1003-4586-8bac-0da6eec955e2.jpg?1681087372",
+    "png": "https://cards.scryfall.io/png/front/c/e/ce06cd3c-1003-4586-8bac-0da6eec955e2.png?1681087372",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/e/ce06cd3c-1003-4586-8bac-0da6eec955e2.jpg?1681087372",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/e/ce06cd3c-1003-4586-8bac-0da6eec955e2.jpg?1681087372"
+  },
+  "mana_cost": "{2}{R}",
+  "cmc": 3,
+  "type_line": "Creature — Vampire Noble",
+  "oracle_text": "Whenever this creature or another nontoken Vampire you control dies, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\n{R}, Sacrifice two artifacts: Exile the top card of your library. You may play that card this turn.",
+  "power": "3",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Treasure"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "73f94f72-a689-41ca-b1af-6004e2a57e9c",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/73f94f72-a689-41ca-b1af-6004e2a57e9c"
+    },
+    {
+      "object": "related_card",
+      "id": "ce06cd3c-1003-4586-8bac-0da6eec955e2",
+      "component": "combo_piece",
+      "name": "Scion of Opulence",
+      "type_line": "Creature — Vampire Noble",
+      "uri": "https://api.scryfall.com/cards/ce06cd3c-1003-4586-8bac-0da6eec955e2"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set": "prm",
+  "set_name": "Magic Online Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aprm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/prm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ce06cd3c-1003-4586-8bac-0da6eec955e2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5818b31e-2e86-4230-937e-478e14534f91&unique=prints",
+  "collector_number": "95363",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rallis",
+  "artist_ids": [
+    "a8e7b854-b15a-421a-b66d-6e68187ae285"
+  ],
+  "illustration_id": "57fe6ea6-b5a2-4d2e-9ed9-627891a07caf",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 8789,
+  "penny_rank": 5540,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.23"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DScion%2Bof%2BOpulence",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DScion%2Bof%2BOpulence",
+    "edhrec": "https://edhrec.com/route/?cc=Scion+of+Opulence"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DScion%2Bof%2BOpulence%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Scion+of+Opulence&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/95363?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "bd6986a8-e258-46f0-88a9-8f84732f359e",
+  "oracle_id": "0b718d21-6873-4613-ad15-660d30527fcd",
+  "multiverse_ids": [],
+  "arena_id": 73659,
+  "tcgplayer_id": 212540,
+  "cardmarket_id": 453538,
+  "name": "Sea-Dasher Octopus",
+  "lang": "en",
+  "released_at": "2020-04-24",
+  "uri": "https://api.scryfall.com/cards/bd6986a8-e258-46f0-88a9-8f84732f359e",
+  "scryfall_uri": "https://scryfall.com/card/iko/286/sea-dasher-octopus?utm_source=api",
+  "layout": "mutate",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/d/bd6986a8-e258-46f0-88a9-8f84732f359e.jpg?1604781684",
+    "normal": "https://cards.scryfall.io/normal/front/b/d/bd6986a8-e258-46f0-88a9-8f84732f359e.jpg?1604781684",
+    "large": "https://cards.scryfall.io/large/front/b/d/bd6986a8-e258-46f0-88a9-8f84732f359e.jpg?1604781684",
+    "png": "https://cards.scryfall.io/png/front/b/d/bd6986a8-e258-46f0-88a9-8f84732f359e.png?1604781684",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/d/bd6986a8-e258-46f0-88a9-8f84732f359e.jpg?1604781684",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/d/bd6986a8-e258-46f0-88a9-8f84732f359e.jpg?1604781684"
+  },
+  "mana_cost": "{1}{U}{U}",
+  "cmc": 3,
+  "type_line": "Creature — Octopus",
+  "oracle_text": "Mutate {1}{U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)\nFlash\nWhenever this creature deals combat damage to a player, draw a card.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Mutate",
+    "Flash"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "19feda43-15ab-427e-a0e4-148a4bf2b03a",
+  "set": "iko",
+  "set_name": "Ikoria: Lair of Behemoths",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/19feda43-15ab-427e-a0e4-148a4bf2b03a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aiko&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/iko?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/bd6986a8-e258-46f0-88a9-8f84732f359e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0b718d21-6873-4613-ad15-660d30527fcd&unique=prints",
+  "collector_number": "286",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Antonio Bravo",
+  "artist_ids": [
+    "dcfd9299-6d72-4ee5-8ad2-6f783619fa61"
+  ],
+  "illustration_id": "899da53d-dcec-4cad-80fc-be42cdb9cc9e",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 3803,
+  "penny_rank": 3248,
+  "prices": {
+    "usd": "0.89",
+    "usd_foil": "3.06",
+    "usd_etched": null,
+    "eur": "1.14",
+    "eur_foil": "3.23",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSea-Dasher%2BOctopus",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSea-Dasher%2BOctopus",
+    "edhrec": "https://edhrec.com/route/?cc=Sea-Dasher+Octopus"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F212540%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=453538&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sea-Dasher+Octopus&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "a64c0099-b08e-4199-bde8-6fd0fa2d6608",
+  "oracle_id": "e0c21b32-f672-4496-91ed-7b7f351eb539",
+  "multiverse_ids": [],
+  "tcgplayer_id": 237167,
+  "cardmarket_id": 560904,
+  "name": "Body of Research",
+  "lang": "en",
+  "released_at": "2021-04-23",
+  "uri": "https://api.scryfall.com/cards/a64c0099-b08e-4199-bde8-6fd0fa2d6608",
+  "scryfall_uri": "https://scryfall.com/card/pstx/168s/body-of-research?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/6/a64c0099-b08e-4199-bde8-6fd0fa2d6608.jpg?1628271989",
+    "normal": "https://cards.scryfall.io/normal/front/a/6/a64c0099-b08e-4199-bde8-6fd0fa2d6608.jpg?1628271989",
+    "large": "https://cards.scryfall.io/large/front/a/6/a64c0099-b08e-4199-bde8-6fd0fa2d6608.jpg?1628271989",
+    "png": "https://cards.scryfall.io/png/front/a/6/a64c0099-b08e-4199-bde8-6fd0fa2d6608.png?1628271989",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/6/a64c0099-b08e-4199-bde8-6fd0fa2d6608.jpg?1628271989",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/6/a64c0099-b08e-4199-bde8-6fd0fa2d6608.jpg?1628271989"
+  },
+  "mana_cost": "{G}{G}{G}{U}{U}{U}",
+  "cmc": 6,
+  "type_line": "Sorcery",
+  "oracle_text": "Create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on it, where X is the number of cards in your library.",
+  "colors": [
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "910f48ab-b04e-4874-b31d-a86a7bc5af14",
+      "component": "token",
+      "name": "Fractal",
+      "type_line": "Token Creature — Fractal",
+      "uri": "https://api.scryfall.com/cards/910f48ab-b04e-4874-b31d-a86a7bc5af14"
+    },
+    {
+      "object": "related_card",
+      "id": "a64c0099-b08e-4199-bde8-6fd0fa2d6608",
+      "component": "combo_piece",
+      "name": "Body of Research",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/a64c0099-b08e-4199-bde8-6fd0fa2d6608"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "bc98232b-a539-4f81-92b5-2efc57d38f53",
+  "set": "pstx",
+  "set_name": "Strixhaven: School of Mages Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/bc98232b-a539-4f81-92b5-2efc57d38f53",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apstx&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pstx?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a64c0099-b08e-4199-bde8-6fd0fa2d6608/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae0c21b32-f672-4496-91ed-7b7f351eb539&unique=prints",
+  "collector_number": "168s",
+  "digital": false,
+  "rarity": "mythic",
+  "watermark": "quandrix",
+  "flavor_text": "Needledeep had promised that his final project would be his biggest one yet.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Antonio José Manzanedo",
+  "artist_ids": [
+    "74986d28-0001-4a78-827c-e490b325d0e3"
+  ],
+  "illustration_id": "8ad25690-9f0f-470d-b84b-21697f328baf",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 10756,
+  "penny_rank": 12390,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.36",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "1.21",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBody%2Bof%2BResearch",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBody%2Bof%2BResearch",
+    "edhrec": "https://edhrec.com/route/?cc=Body+of+Research"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F237167%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=560904&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Body+of+Research&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

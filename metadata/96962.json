@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "e514b13d-2d22-4d9e-a501-b0667f02edac",
+  "oracle_id": "b1c346a4-fc9b-474a-9d51-cac168e363fa",
+  "multiverse_ids": [
+    489879
+  ],
+  "mtgo_id": 82446,
+  "tcgplayer_id": 219000,
+  "cardmarket_id": 486129,
+  "name": "Maelstrom Nexus",
+  "lang": "en",
+  "released_at": "2020-08-07",
+  "uri": "https://api.scryfall.com/cards/e514b13d-2d22-4d9e-a501-b0667f02edac",
+  "scryfall_uri": "https://scryfall.com/card/2xm/206/maelstrom-nexus?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/5/e514b13d-2d22-4d9e-a501-b0667f02edac.jpg?1599708124",
+    "normal": "https://cards.scryfall.io/normal/front/e/5/e514b13d-2d22-4d9e-a501-b0667f02edac.jpg?1599708124",
+    "large": "https://cards.scryfall.io/large/front/e/5/e514b13d-2d22-4d9e-a501-b0667f02edac.jpg?1599708124",
+    "png": "https://cards.scryfall.io/png/front/e/5/e514b13d-2d22-4d9e-a501-b0667f02edac.png?1599708124",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/5/e514b13d-2d22-4d9e-a501-b0667f02edac.jpg?1599708124",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/5/e514b13d-2d22-4d9e-a501-b0667f02edac.jpg?1599708124"
+  },
+  "mana_cost": "{W}{U}{B}{R}{G}",
+  "cmc": 5,
+  "type_line": "Enchantment",
+  "oracle_text": "The first spell you cast each turn has cascade. (When you cast your first spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",
+  "colors": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "372dafe8-b5d1-4b81-998f-3ae96b59498a",
+  "set": "2xm",
+  "set_name": "Double Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/372dafe8-b5d1-4b81-998f-3ae96b59498a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A2xm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/2xm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e514b13d-2d22-4d9e-a501-b0667f02edac/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab1c346a4-fc9b-474a-9d51-cac168e363fa&unique=prints",
+  "collector_number": "206",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steven Belledin",
+  "artist_ids": [
+    "f07d73b9-52a0-4fe5-858b-61f7b42174a5"
+  ],
+  "illustration_id": "59b608f6-90ec-460e-9c62-b538a01ccbfa",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 4106,
+  "penny_rank": 9715,
+  "preview": {
+    "source": "Gaby Spartz",
+    "source_uri": "https://twitter.com/GabySpartz/status/1288246330414870528",
+    "previewed_at": "2020-07-28"
+  },
+  "prices": {
+    "usd": "3.61",
+    "usd_foil": "4.20",
+    "usd_etched": null,
+    "eur": "0.96",
+    "eur_foil": "2.11",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489879&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMaelstrom%2BNexus",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMaelstrom%2BNexus",
+    "edhrec": "https://edhrec.com/route/?cc=Maelstrom+Nexus"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F219000%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=486129&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/82446?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

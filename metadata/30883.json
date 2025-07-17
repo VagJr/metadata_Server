@@ -1,0 +1,116 @@
+{
+  "object": "card",
+  "id": "492040f2-5975-4540-a217-d95cda623081",
+  "oracle_id": "c58dfcbf-49e6-4ef0-bd31-ebd81b0cfa41",
+  "multiverse_ids": [],
+  "tcgplayer_id": 448997,
+  "name": "Nettling Imp",
+  "lang": "en",
+  "released_at": "2022-11-28",
+  "uri": "https://api.scryfall.com/cards/492040f2-5975-4540-a217-d95cda623081",
+  "scryfall_uri": "https://scryfall.com/card/30a/114/nettling-imp?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/9/492040f2-5975-4540-a217-d95cda623081.jpg?1664925291",
+    "normal": "https://cards.scryfall.io/normal/front/4/9/492040f2-5975-4540-a217-d95cda623081.jpg?1664925291",
+    "large": "https://cards.scryfall.io/large/front/4/9/492040f2-5975-4540-a217-d95cda623081.jpg?1664925291",
+    "png": "https://cards.scryfall.io/png/front/4/9/492040f2-5975-4540-a217-d95cda623081.png?1664925291",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/9/492040f2-5975-4540-a217-d95cda623081.jpg?1664925291",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/9/492040f2-5975-4540-a217-d95cda623081.jpg?1664925291"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3,
+  "type_line": "Creature — Imp",
+  "oracle_text": "{T}: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. Destroy it at the beginning of the next end step if it didn't attack this turn. Activate only during an opponent's turn, before attackers are declared.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c3cddb17-44d9-4abd-8d19-666f6c5171fe",
+  "set": "30a",
+  "set_name": "30th Anniversary Edition",
+  "set_type": "memorabilia",
+  "set_uri": "https://api.scryfall.com/sets/c3cddb17-44d9-4abd-8d19-666f6c5171fe",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A30a&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/30a?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/492040f2-5975-4540-a217-d95cda623081/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac58dfcbf-49e6-4ef0-bd31-ebd81b0cfa41&unique=prints",
+  "collector_number": "114",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "049a6229-ace9-4363-816a-60cb8773e95d",
+  "artist": "Quinton Hoover",
+  "artist_ids": [
+    "1a2db619-92a5-431a-822b-101cdcc5bd5d"
+  ],
+  "illustration_id": "7d961530-fe2f-42c4-9891-f6a9dfd35d28",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 22317,
+  "prices": {
+    "usd": "1.02",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNettling%2BImp",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNettling%2BImp",
+    "edhrec": "https://edhrec.com/route/?cc=Nettling+Imp"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F448997%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nettling+Imp&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nettling+Imp&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

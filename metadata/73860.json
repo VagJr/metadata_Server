@@ -1,0 +1,157 @@
+{
+  "object": "card",
+  "id": "ae420b3f-2f5b-4a4a-8d3a-8e6a3288c35a",
+  "oracle_id": "a9b8d020-4d72-4934-8942-df29ef19fc1d",
+  "multiverse_ids": [
+    495469,
+    495470
+  ],
+  "arena_id": 74691,
+  "tcgplayer_id": 221873,
+  "cardmarket_id": 495254,
+  "name": "Needleverge Pathway // Pillarverge Pathway",
+  "lang": "en",
+  "released_at": "2020-09-25",
+  "uri": "https://api.scryfall.com/cards/ae420b3f-2f5b-4a4a-8d3a-8e6a3288c35a",
+  "scryfall_uri": "https://scryfall.com/card/znr/288/needleverge-pathway-pillarverge-pathway?utm_source=api",
+  "layout": "modal_dfc",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 0,
+  "type_line": "Land // Land",
+  "color_identity": [
+    "R",
+    "W"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "R",
+    "W"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Needleverge Pathway",
+      "mana_cost": "",
+      "type_line": "Land",
+      "oracle_text": "{T}: Add {R}.",
+      "colors": [],
+      "artist": "Noah Bradley",
+      "artist_id": "81995d11-da98-4f8b-89bd-b88ca2ddb06b",
+      "illustration_id": "71c2050e-d78f-4eff-8a3f-5765ceaf4949",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/a/e/ae420b3f-2f5b-4a4a-8d3a-8e6a3288c35a.jpg?1681763388",
+        "normal": "https://cards.scryfall.io/normal/front/a/e/ae420b3f-2f5b-4a4a-8d3a-8e6a3288c35a.jpg?1681763388",
+        "large": "https://cards.scryfall.io/large/front/a/e/ae420b3f-2f5b-4a4a-8d3a-8e6a3288c35a.jpg?1681763388",
+        "png": "https://cards.scryfall.io/png/front/a/e/ae420b3f-2f5b-4a4a-8d3a-8e6a3288c35a.png?1681763388",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/a/e/ae420b3f-2f5b-4a4a-8d3a-8e6a3288c35a.jpg?1681763388",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/a/e/ae420b3f-2f5b-4a4a-8d3a-8e6a3288c35a.jpg?1681763388"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Pillarverge Pathway",
+      "mana_cost": "",
+      "type_line": "Land",
+      "oracle_text": "{T}: Add {W}.",
+      "colors": [],
+      "artist": "Noah Bradley",
+      "artist_id": "81995d11-da98-4f8b-89bd-b88ca2ddb06b",
+      "illustration_id": "85ccbe21-ff41-4b16-8b35-19941866b206",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/a/e/ae420b3f-2f5b-4a4a-8d3a-8e6a3288c35a.jpg?1681763388",
+        "normal": "https://cards.scryfall.io/normal/back/a/e/ae420b3f-2f5b-4a4a-8d3a-8e6a3288c35a.jpg?1681763388",
+        "large": "https://cards.scryfall.io/large/back/a/e/ae420b3f-2f5b-4a4a-8d3a-8e6a3288c35a.jpg?1681763388",
+        "png": "https://cards.scryfall.io/png/back/a/e/ae420b3f-2f5b-4a4a-8d3a-8e6a3288c35a.png?1681763388",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/a/e/ae420b3f-2f5b-4a4a-8d3a-8e6a3288c35a.jpg?1681763388",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/a/e/ae420b3f-2f5b-4a4a-8d3a-8e6a3288c35a.jpg?1681763388"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "f4e01fa7-b254-42dd-849f-69b58027a8c4",
+  "set": "znr",
+  "set_name": "Zendikar Rising",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/f4e01fa7-b254-42dd-849f-69b58027a8c4",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aznr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/znr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ae420b3f-2f5b-4a4a-8d3a-8e6a3288c35a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa9b8d020-4d72-4934-8942-df29ef19fc1d&unique=prints",
+  "collector_number": "288",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Noah Bradley",
+  "artist_ids": [
+    "81995d11-da98-4f8b-89bd-b88ca2ddb06b"
+  ],
+  "border_color": "borderless",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 746,
+  "prices": {
+    "usd": "3.16",
+    "usd_foil": "5.01",
+    "usd_etched": null,
+    "eur": "4.24",
+    "eur_foil": "5.85",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495469&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNeedleverge%2BPathway%2B%252F%252F%2BPillarverge%2BPathway",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNeedleverge%2BPathway%2B%252F%252F%2BPillarverge%2BPathway",
+    "edhrec": "https://edhrec.com/route/?cc=Needleverge+Pathway"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F221873%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=495254&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Needleverge+Pathway&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

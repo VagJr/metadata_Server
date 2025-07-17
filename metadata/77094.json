@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "b601374d-c295-494c-881f-5c8ab7005ac2",
+  "oracle_id": "62411ced-843e-4b63-bdf6-dafb2ac27047",
+  "multiverse_ids": [],
+  "arena_id": 76076,
+  "name": "Fast // Furious",
+  "lang": "en",
+  "released_at": "2021-08-26",
+  "uri": "https://api.scryfall.com/cards/b601374d-c295-494c-881f-5c8ab7005ac2",
+  "scryfall_uri": "https://scryfall.com/card/j21/730/fast-furious?utm_source=api",
+  "layout": "split",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/6/b601374d-c295-494c-881f-5c8ab7005ac2.jpg?1741991374",
+    "normal": "https://cards.scryfall.io/normal/front/b/6/b601374d-c295-494c-881f-5c8ab7005ac2.jpg?1741991374",
+    "large": "https://cards.scryfall.io/large/front/b/6/b601374d-c295-494c-881f-5c8ab7005ac2.jpg?1741991374",
+    "png": "https://cards.scryfall.io/png/front/b/6/b601374d-c295-494c-881f-5c8ab7005ac2.png?1741991374",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/6/b601374d-c295-494c-881f-5c8ab7005ac2.jpg?1741991374",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/6/b601374d-c295-494c-881f-5c8ab7005ac2.jpg?1741991374"
+  },
+  "mana_cost": "{2}{R} // {3}{R}{R}",
+  "cmc": 8,
+  "type_line": "Instant // Sorcery",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Fast",
+      "mana_cost": "{2}{R}",
+      "type_line": "Instant",
+      "oracle_text": "Discard a card, then draw two cards.",
+      "artist": "Deruchenko Alexander",
+      "artist_id": "806f6ff9-6ed4-4e93-998a-a562c0b792e6",
+      "illustration_id": "62ee19e4-0d26-403c-b582-ad9eb1824192"
+    },
+    {
+      "object": "card_face",
+      "name": "Furious",
+      "mana_cost": "{3}{R}{R}",
+      "type_line": "Sorcery",
+      "oracle_text": "Furious deals 3 damage to each creature without flying.",
+      "artist": "Deruchenko Alexander",
+      "artist_id": "806f6ff9-6ed4-4e93-998a-a562c0b792e6"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e1cc23bd-379b-4f2c-a4e0-83fc1e7be023",
+  "set": "j21",
+  "set_name": "Jumpstart: Historic Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/e1cc23bd-379b-4f2c-a4e0-83fc1e7be023",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj21&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j21?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b601374d-c295-494c-881f-5c8ab7005ac2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A62411ced-843e-4b63-bdf6-dafb2ac27047&unique=prints",
+  "collector_number": "730",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Deruchenko Alexander",
+  "artist_ids": [
+    "806f6ff9-6ed4-4e93-998a-a562c0b792e6"
+  ],
+  "illustration_id": "62ee19e4-0d26-403c-b582-ad9eb1824192",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 14755,
+  "penny_rank": 7468,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFast%2B%252F%252F%2BFurious",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFast%2B%252F%252F%2BFurious",
+    "edhrec": "https://edhrec.com/route/?cc=Fast+%2F%2F+Furious"
+  }
+}

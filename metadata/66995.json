@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "9e4c302c-47d6-42af-9fdd-e13f11d803a5",
+  "oracle_id": "0c85a577-db82-4a36-bc42-49644eba1cf2",
+  "multiverse_ids": [],
+  "tcgplayer_etched_id": 272695,
+  "cardmarket_id": 660066,
+  "name": "Zevlor, Elturel Exile",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/9e4c302c-47d6-42af-9fdd-e13f11d803a5",
+  "scryfall_uri": "https://scryfall.com/card/clb/552/zevlor-elturel-exile?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/e/9e4c302c-47d6-42af-9fdd-e13f11d803a5.jpg?1681413045",
+    "normal": "https://cards.scryfall.io/normal/front/9/e/9e4c302c-47d6-42af-9fdd-e13f11d803a5.jpg?1681413045",
+    "large": "https://cards.scryfall.io/large/front/9/e/9e4c302c-47d6-42af-9fdd-e13f11d803a5.jpg?1681413045",
+    "png": "https://cards.scryfall.io/png/front/9/e/9e4c302c-47d6-42af-9fdd-e13f11d803a5.png?1681413045",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/e/9e4c302c-47d6-42af-9fdd-e13f11d803a5.jpg?1681413045",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/e/9e4c302c-47d6-42af-9fdd-e13f11d803a5.jpg?1681413045"
+  },
+  "mana_cost": "{1}{U}{B}{R}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Tiefling Warrior",
+  "oracle_text": "Haste\n{2}, {T}: When you next cast an instant or sorcery spell that targets only a single opponent or a single permanent an opponent controls this turn, for each other opponent, choose that player or a permanent they control, copy that spell, and the copy targets the chosen player or permanent.",
+  "power": "4",
+  "toughness": "2",
+  "colors": [
+    "B",
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "R",
+    "U"
+  ],
+  "keywords": [
+    "Haste"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": false,
+  "finishes": [
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set": "clb",
+  "set_name": "Commander Legends: Battle for Baldur's Gate",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/clb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9e4c302c-47d6-42af-9fdd-e13f11d803a5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0c85a577-db82-4a36-bc42-49644eba1cf2&unique=prints",
+  "collector_number": "552",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "David Rapoza",
+  "artist_ids": [
+    "c5a2318d-5d04-499f-b121-57dee5a9dfe6"
+  ],
+  "illustration_id": "883104d4-a5f8-4e7d-8737-a2c11f3ad4c5",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary",
+    "inverted",
+    "etched"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 11109,
+  "preview": {
+    "source": "The Command Zone",
+    "source_uri": "https://www.youtube.com/watch?v=dtnMK5zRe8g",
+    "previewed_at": "2022-05-17"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": "0.19",
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DZevlor%252C%2BElturel%2BExile",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DZevlor%252C%2BElturel%2BExile",
+    "edhrec": "https://edhrec.com/route/?cc=Zevlor%2C+Elturel+Exile"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DZevlor%252C%2BElturel%2BExile%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=660066&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Zevlor%2C+Elturel+Exile&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
